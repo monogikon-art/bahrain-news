@@ -290,7 +290,7 @@ def scrape_bna() -> list:
         print("  [BNA] Direct scrape failed, trying Google News RSS fallback...")
         try:
             feed = feedparser.parse(
-                "https://news.google.com/rss/search?q=site:bna.bh&hl=en-BH&gl=BH&ceid=BH:en"
+                "https://news.google.com/rss/search?q=site:bna.bh+when:1d&hl=en-BH&gl=BH&ceid=BH:en"
             )
             seen_fb = set()
             for entry in feed.entries:
