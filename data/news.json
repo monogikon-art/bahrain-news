@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -206,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "US Submarine Torpedo Sinks Iranian Warship Near Sri Lanka, Dozens Killed",
+        "link": "https://www.newsofbahrain.com/world/127873.html",
+        "published": "4 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uOqFhVK9ST_2026-03-04_1772657574resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Qatar PM: Iranian Strikes Hit Civilian and Industrial Areas, Not Just US Interests",
         "link": "https://www.newsofbahrain.com/world/127872.html",
         "published": "4 Mar 2026, 09:22 AM",
@@ -218,8 +228,8 @@
       {
         "title": "Ministry of Interior Arrests Four for Misusing Social Media",
         "link": "https://www.newsofbahrain.com/bahrain/127871.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
+        "published": "4 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_YPVZ8WnabF_2026-03-04_1772647775resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +248,10 @@
       {
         "title": "Turkish defence ministry confirms interception of missile fired from Iran",
         "link": "https://www.newsofbahrain.com/world/127869.html",
-        "published": "4 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ruz5cRkQWn_2026-03-04_1772629435resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ramadan Recipe",
-        "link": "https://www.newsofbahrain.com/trends/127868.html",
         "published": "4 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eXNBMOkVnv_2026-03-04_1772628860resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ruz5cRkQWn_2026-03-04_1772629435resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +292,6 @@
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_nGd5v0zut8_2026-03-04_1772628235thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tehran resembles ghost town as bombs rain down",
-        "link": "https://www.newsofbahrain.com/world/127864.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pYw6xN2VER_2026-03-04_1772627626thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 20:29:43 UTC"
+  "fetched_at": "2026-03-04 20:59:14 UTC"
 }
