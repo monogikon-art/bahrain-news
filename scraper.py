@@ -11,6 +11,7 @@ from email.utils import parsedate_to_datetime
 
 import requests
 from bs4 import BeautifulSoup
+import feedparser
 
 # ---------------------------------------------------------------------------
 # Config
@@ -267,6 +268,45 @@ def scrape_bna() -> list:
 
     except Exception as e:
         print(f"[SCRAPE ERROR] BNA: {e}")
+
+    # Fallback: if direct scraping yielded nothing, use Google News RSS
+    if not articles:
+        print("  [BNA] Direct scrape failed, trying Google News RSS fallback...")
+        try:
+            feed = feedparser.parse(
+                "https://news.google.com/rss/search?q=site:bna.bh&hl=en-BH&gl=BH&ceid=BH:en"
+            )
+            seen_fb = set()
+            for entry in feed.entries:
+                title = entry.get("title", "")
+                # Strip " - bna.bh" suffix that Google News appends
+                title = _re.sub(r"\s*-\s*bna\.bh\s*$", "", title).strip()
+                if not title or len(title) < 10:
+                    continue
+                if not _is_english(title):
+                    continue
+                if title in seen_fb:
+                    continue
+                seen_fb.add(title)
+
+                link = entry.get("link", "")
+                pub_raw = entry.get("published", "")
+
+                articles.append({
+                    "title": title,
+                    "link": link,
+                    "published": _format_display_date(pub_raw),
+                    "iso_date": _to_iso(pub_raw),
+                    "summary": "",
+                    "image": "",
+                    "source": "bna",
+                    "category": "Latest",
+                })
+                if len(articles) >= 25:
+                    break
+            print(f"  [BNA] Google News fallback: {len(articles)} articles")
+        except Exception as fb_err:
+            print(f"  [BNA] Google News fallback also failed: {fb_err}")
 
     return articles
 
