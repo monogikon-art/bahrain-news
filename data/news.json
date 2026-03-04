@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -60,56 +60,76 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "General Command of Bahrain Defence Force: 73 Iranian missiles and 91 unmanned aerial vehicles destroyed",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wSDBBN0RrTTZ0VGZRdmZqcnpEYVV5Tl92V2RUVXMzS0VKcFVkd3NnbVFBeEJOZ0g0ZDR3bjFTd2dsR3Q5VnhkMDhfaWt6SzNHUVBmbnJvZEtIM1k?oc=5",
+        "published": "4 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-04T11:14:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "Four arrested over Iran attack videos",
-        "link": "https://www.gdnonline.com/Details/1377620/Four-arrested-over-Iran-attack-videos",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
+        "title": "Gergaoun festivities held despite rain and conflict",
+        "link": "https://www.gdnonline.com/Details/1377636/Gergaoun-festivities-held-despite-rain-and-conflict",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304204651arrest_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260304_225133_0_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "General Command of Bahrain Defence Force: 74 Iranian missiles and 95 hostile drones destroyed",
-        "link": "https://www.gdnonline.com/Details/1377598/General-Command-of-Bahrain-Defence-Force-74-Iranian-missiles-and-95-hostile-drones-destroyed",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
+        "title": "Iranâs hostile attacks âconstitute violation of international lawâ",
+        "link": "https://www.gdnonline.com/Details/1377632/Iranâs-hostile-attacks-âconstitute-violation-of-international-lawâ-",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304131728bdf1(1)_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304231826foreignminister_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Volunteer registration open to support national efforts in countering hostile attacks",
-        "link": "https://www.gdnonline.com/Details/1377589/Volunteer-registration-open-to-support-national-efforts-in-countering-hostile-attacks",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
+        "title": "Embassies helping nationals affected by Iranian strikes",
+        "link": "https://www.gdnonline.com/Details/1377637/Embassies-helping-nationals-affected-by-Iranian-strikes",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304123049vol11_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305004709eone_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Flights from Bahrain airport suspended for fourth day",
-        "link": "https://www.gdnonline.com/Details/1377514/Flights-from-Bahrain-airport-suspended-for-fourth-day",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
+        "title": "Rain-hit citizens urged to submit payout claims",
+        "link": "https://www.gdnonline.com/Details/1377634/Rain-hit-citizens-urged-to-submit-payout-claims",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260303_232530_1_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305005135onlinetwo_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrain condoles with Kuwait for its fallen servicemen",
-        "link": "https://www.gdnonline.com/Details/1377506/Bahrain-condoles-with-Kuwait-for-its-fallen-servicemen",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
+        "title": "Man remanded over fake video post on social media",
+        "link": "https://www.gdnonline.com/Details/1377635/Man-remanded-over-fake-video-post-on-social-media",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303155213mofa1234(1)_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304231709remand_T.jpg?20260305",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Alba advances Bahraini talent with leadership appointments",
+        "link": "https://www.gdnonline.com/Details/1377641/Alba-advances-Bahraini-talent-with-leadership-appointments",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304233540websize(1)_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -459,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 22:28:09 UTC"
+  "fetched_at": "2026-03-04 22:58:38 UTC"
 }
