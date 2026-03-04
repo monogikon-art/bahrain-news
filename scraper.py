@@ -212,59 +212,60 @@ def scrape_bna() -> list:
                 continue
         if resp is None or resp.status_code != 200:
             print(f"[SCRAPE ERROR] BNA: All URLs returned non-200 status")
-            return articles
-        soup = BeautifulSoup(resp.text, "html.parser")
+            # Don't return — fall through to Google News RSS fallback below
+        else:
+            soup = BeautifulSoup(resp.text, "html.parser")
 
-        seen = set()
-        for a_tag in soup.find_all("a", href=True):
-            href = a_tag["href"]
-            title = a_tag.get_text(strip=True)
-            if not title or len(title) < 15:
-                continue
-            if not _is_english(title):
-                continue
-            if ".aspx?cms=" not in href:
-                if not any(c.isdigit() for c in href):
+            seen = set()
+            for a_tag in soup.find_all("a", href=True):
+                href = a_tag["href"]
+                title = a_tag.get_text(strip=True)
+                if not title or len(title) < 15:
                     continue
-            skip_words = ["View More", "His Royal Highness", "News Agencies",
-                          "Society & People", "Graphic News", "Culture News",
-                          "Economy", "Sports"]
-            if any(title.startswith(sw) for sw in skip_words):
-                continue
-            if title in seen:
-                continue
-            seen.add(title)
+                if not _is_english(title):
+                    continue
+                if ".aspx?cms=" not in href:
+                    if not any(c.isdigit() for c in href):
+                        continue
+                skip_words = ["View More", "His Royal Highness", "News Agencies",
+                              "Society & People", "Graphic News", "Culture News",
+                              "Economy", "Sports"]
+                if any(title.startswith(sw) for sw in skip_words):
+                    continue
+                if title in seen:
+                    continue
+                seen.add(title)
 
-            full_url = href if href.startswith("http") else f"https://www.bna.bh{href}"
+                full_url = href if href.startswith("http") else f"https://www.bna.bh{href}"
 
-            pub_raw = ""
-            parent = a_tag.find_parent(["div", "article", "li", "section"])
-            img = ""
-            if parent:
-                meta_div = parent.find(
-                    class_=_re.compile(r"article-meta|article-news-block|meta")
-                )
-                if meta_div:
-                    pub_raw = meta_div.get_text(strip=True)
-                # Search current parent and grandparent for images
-                img = _find_article_image(parent, "https://www.bna.bh")
-                if not img:
-                    grandparent = parent.find_parent(["div", "article", "li", "section"])
-                    img = _find_article_image(grandparent, "https://www.bna.bh")
+                pub_raw = ""
+                parent = a_tag.find_parent(["div", "article", "li", "section"])
+                img = ""
+                if parent:
+                    meta_div = parent.find(
+                        class_=_re.compile(r"article-meta|article-news-block|meta")
+                    )
+                    if meta_div:
+                        pub_raw = meta_div.get_text(strip=True)
+                    # Search current parent and grandparent for images
+                    img = _find_article_image(parent, "https://www.bna.bh")
+                    if not img:
+                        grandparent = parent.find_parent(["div", "article", "li", "section"])
+                        img = _find_article_image(grandparent, "https://www.bna.bh")
 
-            articles.append({
-                "title": title,
-                "link": full_url,
-                "published": _format_display_date(pub_raw),
-                "iso_date": _to_iso(pub_raw),
-                "summary": "",
-                "image": img,
-                "source": "bna",
-                "category": "Latest",
-            })
+                articles.append({
+                    "title": title,
+                    "link": full_url,
+                    "published": _format_display_date(pub_raw),
+                    "iso_date": _to_iso(pub_raw),
+                    "summary": "",
+                    "image": img,
+                    "source": "bna",
+                    "category": "Latest",
+                })
 
-            if len(articles) >= 25:
-                break
+                if len(articles) >= 25:
+                    break
 
     except Exception as e:
         print(f"[SCRAPE ERROR] BNA: {e}")
