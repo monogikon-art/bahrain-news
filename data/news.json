@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 25
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,7 +20,258 @@
     }
   },
   "articles": {
-    "bna": [],
+    "bna": [
+      {
+        "title": "Bahrain travel advisory update",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUUdtQ1F6WGFjXzhfSUxtVGNHUndHN091dHd4Wk9obl93a1hlSVhGeVNPNUVuMzZMWHVIQVZMalZWWmhJRk83VDFGcW90NkRucEV0ZU03Zm50SmNVb2RPUlFEYjlpR1RiR3dHTm5laXA0SV9wQklwSTdhSVMxZERuNTV2aU0xSnlIRUNmTEd1OGRCNFpIeDFIeGdmU084ejlhRkd5dVln?oc=5",
+        "published": "13 Jul 2021, 07:00 AM",
+        "iso_date": "2021-07-13T07:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King congratulated by HH Shaikh Abdullah bin Hamad Al Khalifa",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUFFjRUFzeGpMNEtvazhFQnZQODVjbjl3RnFEcVhBTjFkRXZ3NGVUMVI2WUFhNl9hQV9VTlFuUF9CVkxkd0U3cWVtTS1mZVdjVWpBd08wanF6eGFSenNCTEVHMzZSWExUZ2dBWk50cTFfR0gwS3RmMm0yb0V4MDlKZXp6MkhjR0o4ZG5iZ3pLSUdYcUJqWVFHMnJLbDVGdVJueE9ZZzl3WGN0V3ZkMGN3TXNSWmxndmZseVFOcmZMVmJFQVpuV0VuNDVJSG9TRjhUQ2FobzRjWVVKMU9xTnBvRnZyUHVUbENINlpsQTl6VXdBR2FDdWtSM2VOYS12Rk54bDJSUU9MQXg1d0lMaUZqOVlR?oc=5",
+        "published": "6 Jan 2026, 08:00 AM",
+        "iso_date": "2026-01-06T08:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Arab League strongly condemns Iran’s attacks on several Arab countries",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPamp1Rkx0ZTJiZDZDbldTMWZEZWJudjZ1REdHdXpFZFgxR0N5YUxpWEgtZlI3TExyT2ZwNVBocms5ZTZZbm5RNXpXX0p0WVp6alpIV054M3BDYllHLUktRWc4Ym1TOEI4UVc2UnJIVWQ2QnpNbHFOb3JVU2F4aWVQTEtpSVppalZYTGhSTGpncWR4TDdScFBOWmctemZyVzUtdTRfOEtrLW42Q0RvbmQxWlNZc0VNX1dOcEhoNkJiMWQwWWkweGtTODRpU1l0WVk1VnhfVmFrbjgwZw?oc=5",
+        "published": "28 Feb 2026, 08:17 PM",
+        "iso_date": "2026-02-28T20:17:46+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "HH Shaikha Hessa bint Salman Award for Voluntary Youth Work opens fourth edition",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdTU1MU1MYWExbWhRejRMM1dtTHFnWmFqVF9DampaLXJjOE80cjFxY1I0SHdULUhYSlBiTVlNTFFQQjhteGRCbDNfQ25XU2JOTnlyalRYMnBONUxhLWE4OTcweFFuNHRkd2ZwdXYzQXM3aGRjTW0wejlzY1NueGs5R011OHpnOFVuaVdIS1BMSGRyQTZsUDNTYm96VENBRjBXT2lMNWxJV1lXQVU2R19QUnhMQmZPX2E4MEZwekR3SUxzNkF6Yl9vZkF1ZXp1QTdwZmxsUzdHMmRuSmRzTW9jdFo5ckVnT1Fj?oc=5",
+        "published": "13 Sep 2025, 07:00 AM",
+        "iso_date": "2025-09-13T07:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King receives phone call from HE Cypriot President",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXZEaV8xTUltWFpWaXVBbm9Oa1I4c2VaYWI1Tl85RDY3X0hRZlVNSEprV3hBcTJ3aXVxOVEwU3dvRjg1OVB6WTZfalRvOTRjNGYzdTJ0TzNMZW55OTNPb0U5d3N1QVEtYkItTWZQQnJ1ZXoyMEZseUpTVS1uMVhWT2pJV0FiUQ?oc=5",
+        "published": "2 Mar 2026, 02:40 AM",
+        "iso_date": "2026-03-02T02:40:21+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King receives call from Italian President of the Council of Ministers",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVptclBFSEZuZUNLZUpqSzh2ZnlRT0JqX0FZOWVNd1ZHaUFGb1ZZVGtYSm0xb0dCTnFsSm0xdWlVZmV1M21sbERVdmVmeEZIcWM4ODQ0TnREcEFFdnZYWDhmSThfdDN5U2JiRjhpUHliaGZCbWZ1ZHZxUzRfS0hjSE94MmdfUQ?oc=5",
+        "published": "1 Mar 2026, 01:43 AM",
+        "iso_date": "2026-03-01T01:43:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Anti-Cybercrime Directorate arrests individual for filming and publishing videos related to Iranian aggression in violation of law",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeVJySVQ1Ri1yU0phVkVoUXQzRDZQdkFTbFNiaEJobTlRNzFzRXVaYmZyMUtHb0xHb29yUmtBN3BzU0t4X2lWNmIyamNNVks5eXlYc1pGUGJHVTNSZlpMdFYta2IwdEoyUmJGbksybXhmWUh5V05OX1dDU25MenE0eF9qRzVnTVItZmxv?oc=5",
+        "published": "1 Mar 2026, 11:02 PM",
+        "iso_date": "2026-03-01T23:02:08+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Seven dead in bus–truck collision in southern Türkiye",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbDdxdEhuczJZMk1USnZXX3VYTTlTMmZzdEZaQUVIY0VIVlFzZmZIVWlYd3pLR2N6MHg4M19oOG5fV3J6REkzdjQ3UVlRSGxvMmRIbmNnQ2NnWTFvZnJfNEk5YThwSTU4MlFKVURWWmctTE1MMEFBUmRVSlBQWVNKQVNWQ2E3cXNCWFprWHpsZklIU2hobWNHbThnZUpLcEdzdkFXYngzNjZsdnItM2hSdVdSS2otNThFYVF3VmVFM2VObDRsODFmNmI3NlZjVTU0UVJLMlVrcTU5RTNkY0ZsS1J3?oc=5",
+        "published": "6 Dec 2025, 08:00 AM",
+        "iso_date": "2025-12-06T08:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Defence Force General Command: Air Defence Systems intercept missile attack launched from Iran",
+        "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONjhsVENUSGU1TXJVQnNBSURTZkJOU2hEN2JNcGdYR3JYU3dSSlE2bU52QWlQRzF0MjJEaHJRb2IzU016U0Z3aDJMaENqR2Z3WkkzTVA0RkNKdXoxd3NjWHVPUm93SElkbTduZVhLNndlSjNnY2VudE1kSElqaEV2NjFRSFV5VnNnbHJjanpFbFBuYm9kYm41VlUwRktDdGZYZ3pYZHdiazcxSWF1UWx6WXVVRUZlQkxSTWFlSVY3WWt5Q3JjUS10YnA4bi01X3NfVFpYcnpLSmYycWZ1YnZCbWtQanhEVGVuckxUdElxR1ZKR25EMnRuckxnUnV6SHJtM1hvcWVnNWZXVC1sSzFOTFZ6MEFFQUNjOWxoMnpNb2c3Wlh0cEpDVnB0MUFVLUFNNjlJS0lndF9vazd3Ymc?oc=5",
+        "published": "28 Feb 2026, 09:45 PM",
+        "iso_date": "2026-02-28T21:45:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain weather forecast",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdWY5bEd3cmVreUVFOGEyOHdZcjlHZ2dxRzhKQy1rd3NXZ0xBRVhRRHlYRzNGODNUUFZaTFRSd1k5bUpiQnVva0ZFQUI3RW92eG1kWU9MRlI2VTFaQUh4TmVLblVNbnBQazBUTWJWYWRxMjBjZ2JiMC1VZEJIVTNxOGJnVmlvVDQwSk42YlZJTEUyZDZITlhRbUxMSFA3NU5OVnFrbE5Ocm5OWjhUMUpSc3lFeU50Q1hnUzZJY1Vxb3NEV0UtYVJnU2VMdlh2am5oZmJZRnB3T3FPYUsxM1ZjZUZ5eVVKUQ?oc=5",
+        "published": "27 Feb 2026, 07:45 PM",
+        "iso_date": "2026-02-27T19:45:23+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Tenth Bahraini Farmers' Market opens",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3VUdEp6Y2RVWjZiOUlCUG9YT0NDLXEwYzkzNEptTjFnTUdtb0xtSmpDZnUySnd5S1RHa1hSajVNd25rZE5JQ0lyalh3YnViWGRaRkxLQlJPZ0twR3lqN1piRGhWNjJ2RW50Z0pEQjlOX0lpdUF4NGVXXzdFdkRtQlFYZU1RRGs4MVd6V3o1aXU4NGNjRzlPMWNTOTMxTERlRFpBUmpCUkkyY1ctTFJiZ0JoV0hBc3Q4Z01ZZ2E5SW5NNDd2SXhpQUZyRW51b1N5emFUQ2hTd2prTmgwTVZJNlpSWjNqSUVDOW02UXdJQUhtZkk?oc=5",
+        "published": "10 Dec 2022, 08:00 AM",
+        "iso_date": "2022-12-10T08:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "CAA official: Immediate activation of rapid response protocols following drone attack on Bahrain International Airport, minor material damage reported",
+        "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOdXI0OUpZV3dBalpIYllTNnd2ZEc5eWNUSGFjVG1TbnRmYlFsWXE2NGE2bnVKMWlUMjQ3Z3lNdExwenRIZklMNFoyTnh6VDNtbHNydG1pRk1Lc0NoaTNlOVBvOVZ6azEwUFhicmluTV8wbFFjcmpPaXFZUkpwUkNTcTZXb3RUdEIxYmc4czR2cDB5c2dKUEJnRnl4UTRNRjhrNTdzbl9ZVW9rN2VPWEtHaVNMZ1RFRENRaXYzeWltdi1LcXF3M0FrZkdteUZfc004VzZkSXVsb3FkZGkzMjRhbVdGbHhQZjl1dkFnSHFvczlVMlhOVjF0MnpBeWhiUTVHQTdaMmhJY183ZTRDRFJvTC1WeTRLWl9nUFFSZ3JyVFFnMVZwdmxvZzFCcWhtd3ZsN1FPcFJkRk0wRk81OVozUWFVdUdlOHA3YkloQnhvZDB2cDJTQ2ZVQXhGV0RzR29mdzluOWhQWDR4Mm0xVnlUQlJ2SEJyNzMt?oc=5",
+        "published": "2 Mar 2026, 04:53 AM",
+        "iso_date": "2026-03-02T04:53:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain All Share Index, Islamic Index close lower",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUkweHBvdVRZRDQtZ2VLSUZKN1hzUVZ2eWF5Wk82WFc0WTlmSmR4NkVsSjJZbG1XX1hRRFNSSlFuV1NDb1RramtmZk11LXdlejFqT3ZrTEQtTkZQWWo5bzNjTHo3Yl85MUpreUMtR3VVb2VsMzM3ZTF6b3hhVzBVQ0R0bmczdw?oc=5",
+        "published": "2 Mar 2026, 02:40 AM",
+        "iso_date": "2026-03-02T02:40:24+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Chief of Staff attends 5th Junior Staff Course graduation ceremony",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFg1ZGYzQjNiUDV0SXRtYld2WlJJNldLcWRseUdEdzZrd1NnN1JoSlF2R1VlY0hsOFc2NEx4UVVhXzdHZHU4SWRPaV9SNGUzaDJDWWtYTDJlVFVqV1NKNUYyU0JablpRaW5oS1kwUGdFUTBkcThPVFhEQ3hNRk5mRHhlZGxLSVJkTUExT2psVm9ST0R1TUZha2l2aFJPY2ZqSXpad01kMk1UcXRoVFdrYk5ETlYyYVhON2FudTd2MU9XSzJFRnpXQ2tVZ2N3QQ?oc=5",
+        "published": "27 Jan 2026, 08:00 AM",
+        "iso_date": "2026-01-27T08:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Joint closing statement of Bahrain–UAE military exercise \"Rabdan Shuwaiman\"",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOc05tYkU0eVdYZUZYcWh0cmtNeDJkTEtzZ2VSQ18wVE5iNThacnlrdUp6cnc1NFNtcW1XMVhyamJuTGNSeWQtdlV0clljMmhGbFhDeUZ0c1dQMTdUUGVNa2paNWdId0dnYlVmWUJGczdUZnB3c2FpTk01UTlCbnYxUTlmWkdGRjhWNWRCNkdaVW13MHUyMW10Q1JhdWFwR0hPZTJFdlhqdHlDU0Y2RmZScXhSSGhHQ2NyYUxKTTdUY094Y0RBTTBNRVVucGg0YklCRjdvN3ZkdXJNQ3VuOFU2bGFaN1RNNEljbUlIeFhVLU5jN19TWXg5YzVCTDM?oc=5",
+        "published": "22 Nov 2025, 08:00 AM",
+        "iso_date": "2025-11-22T08:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Gold gains on softer dollar",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3lqU3VUTkVuWk03Q2hzV2pxRW9nM29OeHdob2ZJVXZoLUYwSjBwS2JoZGVjT2xEQ1h6U2d2VW1laDF3dnVQenFmYm1paWs1TVhJT1RRWkJHRldtWFpjUlFkdmFzblNWdXdoMEVzNEd0Tll6RjFOSHp6cmRlYkx2ZDQ1TnlMbEU1ZnlB?oc=5",
+        "published": "26 Feb 2026, 10:42 PM",
+        "iso_date": "2026-02-26T22:42:16+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Jordanian Armed Forces intercept two ballistic missiles",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWlY3d3k2NHU0MGxvU2lQUHdRUjdfTzhYTHZpLVBHSURZa1poRGFrTFhISWZRb25NaUNFTzlvZ1VmbW9tdmFKcUIzSmJRVkZUYXh2TVdxNzRMcnVuWEk5aW5fN3VuMnktTmp2ZzNZQTg1SDcyNkFRMGxjTTJsWV9nVFBHelZGTElEdmdCNkdaY2EyVUhpZ2lyQWtsNkdfblktNkdYUW56SlY1TnpsazRfb01iNGt1RkhSaXU0NFg3RDM5NWJtQkR6Yg?oc=5",
+        "published": "28 Feb 2026, 12:18 PM",
+        "iso_date": "2026-02-28T12:18:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "McLaren Group, Mumtalakat’s subsidiary, opens new McLaren Composites Technology Centre",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaHdHbzZGc2U1d29XOGRadmhsRHk1b0JPbzBxSkpKOG9vVGF6NGpaM1k1cExraXdmTDRvRkdvT21rVjV3MWEzd180Z3hsZlFqRVNFeTRpbTFDNWk4Q0xySVZTbmRmd1JqYmZJSnlnUWstSWZQeEJNUUlOZFFDY0lqdEhFamRQdHgtTlphamp0eEtPYTIxUmZ1QWlzQWNCdWVhY2RsbGI3MGNiV1FzNTFBcm5EbFJvY3h1MWVmNTBNelgwdF9hWXFhakRwVEZTRllab1FGV1pRUEZqWWd2TEpUNEtvQnB4WHc?oc=5",
+        "published": "14 Nov 2018, 08:00 AM",
+        "iso_date": "2018-11-14T08:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Germany recalls sand filled children’s toys suspected of containing asbestos",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbEVmUERGTVZTaVMyQ3RPSk5EXzRwNnRDbHJ6Y2ZkS0gyUE5jRkZneUpUVlFiZVZ0cXU2T0g1UXh3RlVjWnNNWUYzaW05bS1zNVhfRlpTN203d0FzWjFCamwwdm5YLVZULTE2aXJHQV9fejlDczEzMy12Z2Vfc08xdnNLdzQ2NllR?oc=5",
+        "published": "26 Feb 2026, 09:54 PM",
+        "iso_date": "2026-02-26T21:54:17+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Health Minister meets WHO Director-General",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSmN1eFlIU1Z5X1FhR0hzaFRPTTl6czQzQTFmNnBuY1k4V2dGRVY1MU5RNEhZZU94TWJvaDl4ZXVzcXU3anpGVGRXUV9WRGd6NEptN1U3TlYxY1c1VjZiRVptZHFFVnlTZm1tb2p4SUs2Zi1TekhTUkswUXhNSVNYd2NnTC1aVnROcjJ2bnZNZjNpWTNZdW5XUDUtR3pTc016OFc5M21IRnl5d25NMmt4VG9uWEVnRk1GLXJudE9oTWJYckNEeDU2aWxBWUFRQmJuZU5CUXV2RmdUTjZtTF8yelpHanZud3J2YWhwdFNwcnVtOVRxSnh0NGRTa0s?oc=5",
+        "published": "26 Feb 2025, 08:00 AM",
+        "iso_date": "2025-02-26T08:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Strong competition marks opening round of Khalid bin Hamad Golden Generation Cycling League",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOWWp6U3pMUWJpbjR1blEyWmYzbXVCWmw4WjdpLXRKSnYzSmpfN2RxSjRzSk42QkdMUldBck1FZ2JZZl9LVVk1S0NEcC1IbXVTTGdWRnVha2dwbThzVlhzYkF2QkhYdXgxZklLTnNremVYNVNtckVKXzlTLXFnRkJyS0pUZUwzdW1iTjVLVzlvZE9ZZFRMN0g1YlBkX0o5TUZtX0NYZnQ4aUJBR3ZYRV9zOGMwZzFpdzlCY0pQTFNMTHBpU1JFcmtiS1p0dzFRSmd0REVzenlzQVU0c3h6bTBlTEdubHlZVExZZkJ4WjNiNWdCX2lKckVwS0ptYnppZTh1RDFuUHpPRTBLZHhueXFrOEhOUmRoTzVCdkhZSkZOS1ZDbDdlVDVLVFNycHVYb2hwenc?oc=5",
+        "published": "19 Dec 2025, 08:00 AM",
+        "iso_date": "2025-12-19T08:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Salmaniya Medical Complex: surgeries increased by 69 percent",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPSXlvUEs5aHJ5Z0ZrRC05c0RoOWxRSHlZTTVjd0pwQUJBSllmSHlCbFk2clh1dDlZYm9hbVZPdHJTb1pJaEZSUTljUEYzck1jZWxMempUcHhsM2hOYUdDNkFLTExuYWE2MERJZFg0WGh3eVlvMFB4YVBCczUwZ2hNVG11eU5WdjZJZnVncFdfTEY0TmdYTHE3RjQ2NE5oVi0xSFRxZVJCM0pUd2UxRklzWFlTTzBVa2VISndNMm82b1E2Yld2NEFuNDBoWkFubHdXaW9JMnU3WW9hR1VFUmxNbzA5TkVQT3I5ZUNMRWF1QUlJZWQ0U1NuMDlucmQ3QkhZTVdnbllBYnU3MWJsSkRV?oc=5",
+        "published": "24 Jun 2023, 07:00 AM",
+        "iso_date": "2023-06-24T07:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Syria condemns Iranian strikes on several Arab countries",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjFxc2JYNWFTdHpYNHV6Zm00eTR1Q2d6eEY4Qk5hbkZYSDVDaGdoYjJFZm9hVHl5bGVPQmlzOGN2WmJob0JhYUh3NGRDTS1DdlljZjJ3ZjZWcklOSmd0OGwxa3h3MnZkMzNMZVNxbVNVaG8xQVk3UXVfbFFqU2lvLWlrSmtfdTZXZnVN?oc=5",
+        "published": "28 Feb 2026, 08:35 PM",
+        "iso_date": "2026-02-28T20:35:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Alba, Saudi Maaden announce non-binding agreement to explore potential business combination",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT0JsY01kOGVILTcxNkhJZ0o3bDhnX3ZsTVZuZ2xnRU9oeHIxZmZ1c3JTWFBRZ3BsQjBBc0NUdUg0TlhYd196ZTk3RkE4YnhqRVFJekNUN0ZZRXJKNTNfTV9uQnM5b3B2ZE1LajNZNDAtQnhFZkQtbzNub3VPcGNxbXgtMjh4cjAzLXpTRHZOQWJTV1Q1ZVlBdkVvUVR3SmswUjgxTGtZQVZUVkw1NHF2R1Q2QlVtVFhjbGpRb0x5T2hleGZILTdYeU5MTDJIeDA5NnZaYmpTVF9ORF9lWnZuWmJMLTJpN09XLUtJ?oc=5",
+        "published": "16 Sep 2024, 07:00 AM",
+        "iso_date": "2024-09-16T07:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King receives call from UAE President",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2RJVTRIY25KajdZMnJtc3UtTzBSVEE1MDh5dzA5YmNMNjdZcnhRb0pHMV96a25LbFU0bjZONHd6YkEyTjZIUS15RzJES0R3UnhCVlp5WDMtMzJyOHc1V2ZkSVAwcE1qdnRRNzJ2RVBDVFlIZkJNaEtFSm44TVplT0FRNnhyQQ?oc=5",
+        "published": "28 Feb 2026, 07:56 PM",
+        "iso_date": "2026-02-28T19:56:37+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
     "gdn": [
       {
         "title": "General Command of Bahrain Defence Force: 74 Iranian missiles and 95 hostile drones destroyed",
@@ -538,5 +789,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 15:37:05 UTC"
+  "fetched_at": "2026-03-04 15:40:50 UTC"
 }
