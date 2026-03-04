@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUNEeTdKTnVFcG9KV0lPd0NmSkExRC1LYjlwcUE0a1RleDZOTHMtWDFlVlNHemFvN01VbnpxUXh4RklCajc4Vzk0dV9NTWE5MDBBU2c4YndBMW9BQ2NzbVFUV0JGdGx4NWxZZi1TSXkwZ1o5aWktejRyR0o5eDVQc1l0dW5VMTl0WnBZSmFfMzBaSXlFLWpUYUJ5MjM3X1JFMzB0Qm1kOGxaVG5w?oc=5",
         "published": "4 Mar 2026, 09:13 AM",
         "iso_date": "2026-03-04T09:13:38+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Azhar Al Sharif calls for immediate cessation of war, strongly condemns violation of Arab states’ sovereignty, attacks against their territories",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRi1lWElvNVhTYTBWQVZxZTdsQTZ3TXBFemo3SVFYcl91Z29vRjlrcXowaDNsUlV0bzN0YzJtbGdvaktQbmdJX0EtY3gzUnc3NURvcWVuNEZWODQ?oc=5",
+        "published": "4 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-04T11:14:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 16:39:37 UTC"
+  "fetched_at": "2026-03-04 17:36:28 UTC"
 }
