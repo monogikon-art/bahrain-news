@@ -20,8 +20,17 @@ HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    )
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
 }
 
 SESSION = requests.Session()
@@ -189,8 +198,20 @@ def _find_article_image(element, base_url=""):
 def scrape_bna() -> list:
     articles = []
     try:
-        resp = SESSION.get("https://www.bna.bh/en/", timeout=15)
-        resp.raise_for_status()
+        # BNA may block certain IPs/methods — try multiple approaches
+        resp = None
+        for url in ["https://www.bna.bh/en/", "https://bna.bh/en/", "http://www.bna.bh/en/"]:
+            try:
+                resp = SESSION.get(url, timeout=15)
+                if resp.status_code == 200:
+                    break
+                print(f"  [BNA] {url} returned {resp.status_code}, trying next...")
+            except Exception as e:
+                print(f"  [BNA] {url} failed: {e}")
+                continue
+        if resp is None or resp.status_code != 200:
+            print(f"[SCRAPE ERROR] BNA: All URLs returned non-200 status")
+            return articles
         soup = BeautifulSoup(resp.text, "html.parser")
 
         seen = set()
