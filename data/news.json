@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 17
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,178 +20,7 @@
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Deputy Prime Minister chairs ministerial committee meeting",
-        "link": "https://www.bna.bhDeputyPrimeMinisterchairsministerialcommitteemeeting.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrJmSa08IUn3iDReil83cVI%3d",
-        "published": "4 Mar 2026, 05:00 AM",
-        "iso_date": "2026-03-04T05:00:00",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/7402-9adfc166-9f5a-4408-9103-73dba18eb53b.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King receives phone call from Uzbek President",
-        "link": "https://www.bna.bhHMKingreceivesphonecallfromUzbekPresident.aspx?cms=q8FmFJgiscL2fwIzON1%2bDltmNX9l5rVOFduFDDVb%2faY%3d",
-        "published": "4 Mar 2026, 04:00 AM",
-        "iso_date": "2026-03-04T04:00:00",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/IMG_2625-aa700b75-e3e7-4445-a396-2a186b2889cb.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King receives phone call from Ethiopian Prime Minister",
-        "link": "https://www.bna.bhHMKingreceivesphonecallfromEthiopianPrimeMinister.aspx?cms=q8FmFJgiscL2fwIzON1%2bDnhX1MOZymycBPz6qot2fHM%3d",
-        "published": "4 Mar 2026, 03:55 AM",
-        "iso_date": "2026-03-04T03:55:00",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/111-825cf4dc-9cfd-407c-acc0-149c6ba10a8e.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King receives call from HE Maldives President",
-        "link": "https://www.bna.bhHMKingreceivescallfromHEMaldivesPresident.aspx?cms=q8FmFJgiscL2fwIzON1%2bDoK2hKtqgFCHcWX6QwD%2bYrg%3d",
-        "published": "4 Mar 2026, 03:30 AM",
-        "iso_date": "2026-03-04T03:30:00",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/2225-9d18f975-9758-4df4-9b4e-060d86449b9e.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Foreign Minister: Iran’s hostile attacks constitute a violation of international law and undermine regional and international peace",
-        "link": "https://www.bna.bhForeignMinisterIranshostileattacksconstituteaviolationofinternationallawandundermineregionalandinternationalpeace.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrGpUKHcUNgh0Lv0H5dSQKo%3d",
-        "published": "4 Mar 2026, 12:55 PM",
-        "iso_date": "2026-03-04T12:55:00",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/وزير الخارجية - عبداللطيف الزياني-ed19f024-3dcf-4b75-8134-41b279bf927c.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King receives call from Al Azhar Grand Imam",
-        "link": "https://www.bna.bhHMKingreceivescallfromAlAzharGrandImam.aspx?cms=q8FmFJgiscL2fwIzON1%2bDkNcjo6B%2fjDXkZBmchjX2gs%3d",
-        "published": "3 Mar 2026, 10:53 AM",
-        "iso_date": "2026-03-03T10:53:00",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/KING-ALAZHAR-cd82c29c-b3a9-4da0-807a-617cd9c1405a.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Anti-Cybercrime Directorate arrests two individuals for filming military sites and posting content sympathising with Iranian aggression",
-        "link": "https://www.bna.bhAntiCybercrimeDirectoratearreststwoindividualsforfilmingmilitarysitesandpostingcontentsympathisingwithIranianaggression.aspx?cms=q8FmFJgiscL2fwIzON1%2bDk6SMq1tt640Oni14Um%2b338%3d",
-        "published": "3 Mar 2026, 09:15 AM",
-        "iso_date": "2026-03-03T09:15:00",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/شعار وزارة الداخلية-e9e9821e-49e3-4411-b947-23ca0f4eade7.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King receives call from Swiss President",
-        "link": "https://www.bna.bhHMKingreceivescallfromSwissPresident.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrCjiaa0z7%2bL4F5ohaiM52U%3d",
-        "published": "3 Mar 2026, 08:54 AM",
-        "iso_date": "2026-03-03T08:54:00",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/56f1c5bb-1857-4996-b0e4-1c908e0477ce-18363449-c1ca-4d34-a608-025ae484e363.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain condemns blatant Iranian attacks on US embassies in Saudi Arabia and Kuwait",
-        "link": "https://www.bna.bhBahraincondemnsblatantIranianattacksonUSembassiesinSaudiArabiaandKuwait.aspx?cms=q8FmFJgiscL2fwIzON1%2bDkK3f0BObbYWhmqEKj%2f2Qvw%3d",
-        "published": "3 Mar 2026, 08:34 AM",
-        "iso_date": "2026-03-03T08:34:00",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/شعار وزارة الخارجية-3ca1782c-4f4f-4b23-97e9-3910c4feda83.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH the Crown Prince and Prime Minister visits commercial markets to ensure the availability of essential goods and services",
-        "link": "https://www.bna.bhHRHtheCrownPrinceandPrimeMinistervisitscommercialmarketstoensuretheavailabilityofessentialgoodsandservices.aspx?cms=q8FmFJgiscL2fwIzON1%2bDsGDDUMtXtrvafdQgk4zY6s%3d",
-        "published": "3 Mar 2026, 08:26 AM",
-        "iso_date": "2026-03-03T08:26:00",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/JBR01231-328388e3-8659-40ea-8338-6b9f71d04da1.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Latest NewsView More",
-        "link": "https://www.bna.bhLatestNews.aspx?cms=iQRpheuphYtJ6pyXUGiNqh4%2fgrLnOvgRcJoj8FTpkGM%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Local-News/7402-9adfc166-9f5a-4408-9103-73dba18eb53b.jpeg",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Industry Minister visits Bahrain Flour Mills Company, confirms supply stability",
-        "link": "https://www.bna.bhIndustryMinistervisitsBahrainFlourMillsCompanyconfirmssupplystability.aspx?cms=q8FmFJgiscL2fwIzON1%2bDpSoGsDfGZxA9XuZ8okFdLA%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Social Development Minister visits Social Welfare Complex in Hamad Town",
-        "link": "https://www.bna.bhSocialDevelopmentMinistervisitsSocialWelfareComplexinHamadTown.aspx?cms=q8FmFJgiscL2fwIzON1%2bDvcIOM5TXd8dAwFaCQOlK1w%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain All Share, Islamic Indexes close lower",
-        "link": "https://www.bna.bhBahrainAllShareIslamicIndexescloselower.aspx?cms=q8FmFJgiscL2fwIzON1%2bDt32KK%2fQgoXeVUO4vllYq%2bo%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "VARIETIESView More",
-        "link": "https://www.bna.bhVarieties.aspx?cms=iQRpheuphYtJ6pyXUGiNqtF7iI8thMTjyBPOd8Tpv7A%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Arab NewsView More",
-        "link": "https://www.bna.bhArabNews.aspx?cms=iQRpheuphYtJ6pyXUGiNqlBN3rAkGuUx",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "World NewsView More",
-        "link": "https://www.bna.bhWorldNews.aspx?cms=iQRpheuphYtJ6pyXUGiNqrzURa7POt3W",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
         "title": "General Command of Bahrain Defence Force: 74 Iranian missiles and 95 hostile drones destroyed",
@@ -709,5 +538,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 15:26:23 UTC"
+  "fetched_at": "2026-03-04 15:27:07 UTC"
 }
