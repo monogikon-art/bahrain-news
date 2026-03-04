@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -60,36 +60,6 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Al Azhar Al Sharif calls for immediate cessation of war, strongly condemns violation of Arab states’ sovereignty, attacks against their territories",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRi1lWElvNVhTYTBWQVZxZTdsQTZ3TXBFemo3SVFYcl91Z29vRjlrcXowaDNsUlV0bzN0YzJtbGdvaktQbmdJX0EtY3gzUnc3NURvcWVuNEZWODQ?oc=5",
-        "published": "4 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-04T11:14:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar sends 2nd identical message to UN, UNSC concerning Iranian attack on its territory",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FbkVpVndRS05UOWU5M3RWZmNPTm5LakRiZmlzb0VmdFBuSndoOXZyUWdoMGV4MlJFWmhqNGpPWkxpakZiOUZScXJ1aDJmYzZGYWZxaTlvYXRSRkU?oc=5",
-        "published": "4 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-04T11:14:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE condemns Iranian attacks, reserves right to respond at Human Rights Council - GCC News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YklWWU1teEppQlZtWDkxTmtYT0lWMFFvRnpKR1pqclpVVUNCX2NrcWNUcGhtQ1ZTcS1kc0tzR0lHOW5zOHdQUDIxUFdwTS1RemR1aTNWTlpHRDA?oc=5",
-        "published": "4 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-04T11:14:31+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
@@ -99,7 +69,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304204651arrest_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304204651arrest_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +79,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304131728bdf1(1)_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304131728bdf1(1)_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,7 +89,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304123049vol11_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304123049vol11_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +99,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260303_232530_1_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260303_232530_1_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +109,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303155213mofa1234(1)_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303155213mofa1234(1)_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +119,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303234949stocks_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303234949stocks_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +129,7 @@
         "published": "3 Mar 2026",
         "iso_date": "2026-03-03T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303113803bahrainbourse_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303113803bahrainbourse_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +139,7 @@
         "published": "3 Mar 2026",
         "iso_date": "2026-03-03T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303_004139_0_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303_004139_0_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +149,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304105125champ1_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304105125champ1_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +159,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304_022711_0_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304_022711_0_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +169,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304_022713_0_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304_022713_0_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -209,7 +179,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304_022714_2_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304_022714_2_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -219,7 +189,7 @@
         "published": "3 Mar 2026",
         "iso_date": "2026-03-03T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303120041mck_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303120041mck_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -229,7 +199,7 @@
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304133755websize(8)_T.jpg?20260304",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304133755websize(8)_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       }
@@ -489,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 21:41:33 UTC"
+  "fetched_at": "2026-03-04 22:28:09 UTC"
 }
