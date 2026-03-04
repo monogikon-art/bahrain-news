@@ -143,6 +143,21 @@ def _to_iso(date_str: str) -> str:
     return dt.isoformat()
 
 
+def _is_within_24h(iso_str: str) -> bool:
+    """Return True if the ISO date string is within the last 24 hours (or unparseable)."""
+    if not iso_str:
+        return True  # keep articles with no date (likely recent)
+    try:
+        from datetime import timezone
+        dt = datetime.fromisoformat(iso_str)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        now = datetime.now(tz=timezone.utc)
+        return (now - dt) <= timedelta(hours=24)
+    except Exception:
+        return True  # keep if we can't parse
+
+
 def _format_display_date(date_str: str) -> str:
     dt = _parse_pub_date(date_str)
     if dt is None:
@@ -486,14 +501,18 @@ def main():
             items = scrape_newsofbahrain()
         else:
             items = []
-        articles[key] = items
+        # Filter to last 24 hours only
+        recent = [a for a in items if _is_within_24h(a.get("iso_date", ""))]
+        if len(recent) < len(items):
+            print(f"({len(items)} scraped, {len(items) - len(recent)} older than 24h removed)", end=" ")
+        articles[key] = recent
         sources_meta[key] = {
             "name": src["name"],
             "url": src["url"],
             "color": src["color"],
-            "count": len(items),
+            "count": len(recent),
         }
-        print(f"{len(items)} articles")
+        print(f"{len(recent)} articles")
 
     total = sum(len(v) for v in articles.values())
 
