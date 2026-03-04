@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bahrain News & Information Hub</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <style>
+        /* -------------------------------------------------- */
+        /*  CSS Variables & Reset                              */
+        /* -------------------------------------------------- */
+        :root {
+            --bg: #f0f2f5;
+            --bg-card: #ffffff;
+            --bg-sidebar: #1a1a2e;
+            --text: #1a1a2e;
+            --text-secondary: #5a6072;
+            --text-muted: #8a8fa0;
+            --border: #e2e5ec;
+            --accent: #c41e3a;
+            --accent-light: #f8e8eb;
+            --shadow: 0 2px 12px rgba(0,0,0,0.06);
+            --shadow-hover: 0 8px 30px rgba(0,0,0,0.12);
+            --radius: 12px;
+            --transition: 0.25s cubic-bezier(.4,0,.2,1);
+        }
+        [data-theme="dark"] {
+            --bg: #0f1117;
+            --bg-card: #1a1d27;
+            --bg-sidebar: #0f1117;
+            --text: #e4e6eb;
+            --text-secondary: #a0a4b0;
+            --text-muted: #6b7080;
+            --border: #2a2d3a;
+            --accent: #e85d75;
+            --accent-light: #2a1520;
+            --shadow: 0 2px 12px rgba(0,0,0,0.3);
+            --shadow-hover: 0 8px 30px rgba(0,0,0,0.4);
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        html { scroll-behavior: smooth; }
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        /* -------------------------------------------------- */
+        /*  Header                                             */
+        /* -------------------------------------------------- */
+        .header {
+            background: linear-gradient(135deg, #c41e3a 0%, #8b1528 50%, #1a1a2e 100%);
+            color: #fff;
+            padding: 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        }
+        .header-inner {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 16px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+        }
+        .header-brand {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+        .header-brand .flag {
+            font-size: 32px;
+        }
+        .header-brand h1 {
+            font-size: 22px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+        .header-brand .subtitle {
+            font-size: 12px;
+            opacity: 0.75;
+            font-weight: 400;
+            margin-top: 2px;
+        }
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .theme-toggle {
+            background: rgba(255,255,255,0.15);
+            border: none;
+            color: #fff;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: var(--transition);
+        }
+        .theme-toggle:hover { background: rgba(255,255,255,0.25); }
+        .refresh-btn {
+            background: rgba(255,255,255,0.15);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: #fff;
+            padding: 8px 18px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: var(--transition);
+        }
+        .refresh-btn:hover { background: rgba(255,255,255,0.25); }
+        .refresh-btn.loading i { animation: spin 1s linear infinite; }
+
+        @keyframes spin { 100% { transform: rotate(360deg); } }
+
+        /* -------------------------------------------------- */
+        /*  Navigation Tabs                                    */
+        /* -------------------------------------------------- */
+        .nav-bar {
+            background: var(--bg-card);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 72px;
+            z-index: 99;
+        }
+        .nav-inner {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 24px;
+            display: flex;
+            gap: 4px;
+            overflow-x: auto;
+            scrollbar-width: none;
+        }
+        .nav-inner::-webkit-scrollbar { display: none; }
+        .nav-tab {
+            padding: 14px 20px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--text-secondary);
+            border: none;
+            background: none;
+            border-bottom: 3px solid transparent;
+            white-space: nowrap;
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .nav-tab:hover { color: var(--text); background: var(--accent-light); }
+        .nav-tab.active {
+            color: var(--accent);
+            border-bottom-color: var(--accent);
+            font-weight: 600;
+        }
+        .nav-tab .badge {
+            background: var(--accent);
+            color: #fff;
+            font-size: 10px;
+            padding: 2px 7px;
+            border-radius: 10px;
+            font-weight: 600;
+        }
+
+        /* -------------------------------------------------- */
+        /*  Main Layout                                        */
+        /* -------------------------------------------------- */
+        .main-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 24px;
+            display: grid;
+            grid-template-columns: 1fr 340px;
+            gap: 24px;
+        }
+        @media (max-width: 1024px) {
+            .main-container { grid-template-columns: 1fr; }
+        }
+
+        /* -------------------------------------------------- */
+        /*  Content panels                                     */
+        /* -------------------------------------------------- */
+        .panel { display: none; }
+        .panel.active { display: block; }
+
+        .section-title {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .section-title .dot {
+            width: 10px; height: 10px;
+            border-radius: 50%;
+            display: inline-block;
+        }
+
+        /* -------------------------------------------------- */
+        /*  News Cards                                         */
+        /* -------------------------------------------------- */
+        .news-grid {
+            display: grid;
+            gap: 16px;
+        }
+        .news-card {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+            transition: var(--transition);
+            border: 1px solid var(--border);
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            display: grid;
+            grid-template-columns: 160px 1fr;
+        }
+        .news-card:hover {
+            box-shadow: var(--shadow-hover);
+            transform: translateY(-2px);
+            border-color: var(--accent);
+        }
+        .news-card-img {
+            width: 100%;
+            height: 100%;
+            min-height: 120px;
+            object-fit: cover;
+            background: linear-gradient(135deg, var(--border), var(--bg));
+        }
+        .news-card-img.placeholder {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            color: var(--text-muted);
+        }
+        .news-card-body {
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .news-card-meta {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .source-badge {
+            font-size: 11px;
+            font-weight: 600;
+            padding: 3px 10px;
+            border-radius: 6px;
+            color: #fff;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .category-badge {
+            font-size: 11px;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+        .news-card-title {
+            font-size: 15px;
+            font-weight: 600;
+            line-height: 1.4;
+            color: var(--text);
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .news-card-summary {
+            font-size: 13px;
+            color: var(--text-secondary);
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .news-card-date {
+            font-size: 11px;
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            margin-top: 4px;
+        }
+        .news-card-date .relative-time {
+            opacity: 0.75;
+        }
+
+        @media (max-width: 600px) {
+            .news-card {
+                grid-template-columns: 1fr;
+            }
+            .news-card-img { height: 180px; }
+        }
+
+        /* -------------------------------------------------- */
+        /*  Sidebar                                            */
+        /* -------------------------------------------------- */
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .sidebar-card {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            border: 1px solid var(--border);
+            overflow: hidden;
+        }
+        .sidebar-card-header {
+            padding: 14px 18px;
+            font-size: 14px;
+            font-weight: 700;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .sidebar-card-header i {
+            color: var(--accent);
+        }
+        .sidebar-card-body {
+            padding: 12px 18px;
+        }
+
+        /* Instagram list */
+        .insta-list { list-style: none; }
+        .insta-item {
+            padding: 10px 0;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .insta-item:last-child { border-bottom: none; }
+        .insta-icon {
+            width: 36px; height: 36px;
+            border-radius: 10px;
+            background: linear-gradient(135deg, #f58529, #dd2a7b, #8134af, #515bd4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            font-size: 16px;
+            flex-shrink: 0;
+        }
+        .insta-info { flex: 1; }
+        .insta-name { font-size: 13px; font-weight: 600; }
+        .insta-handle { font-size: 12px; color: var(--text-muted); }
+        .insta-item a {
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            width: 100%;
+        }
+        .insta-item a:hover .insta-name { color: var(--accent); }
+
+        /* Contact list */
+        .contact-group { margin-bottom: 16px; }
+        .contact-group:last-child { margin-bottom: 0; }
+        .contact-group-title {
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+        }
+        .contact-item {
+            padding: 6px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 13px;
+        }
+        .contact-item .name { color: var(--text-secondary); }
+        .contact-item .number {
+            font-weight: 600;
+            color: var(--text);
+            font-variant-numeric: tabular-nums;
+        }
+        .contact-item a {
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .contact-item a:hover { text-decoration: underline; }
+
+        /* Website links */
+        .website-item {
+            padding: 8px 0;
+            border-bottom: 1px solid var(--border);
+        }
+        .website-item:last-child { border-bottom: none; }
+        .website-item a {
+            text-decoration: none;
+            color: var(--accent);
+            font-size: 13px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .website-item a:hover { text-decoration: underline; }
+
+        /* -------------------------------------------------- */
+        /*  Loading & Empty states                             */
+        /* -------------------------------------------------- */
+        .loading-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 60px 20px;
+            gap: 16px;
+        }
+        .loading-spinner {
+            width: 48px; height: 48px;
+            border: 4px solid var(--border);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        .loading-text {
+            font-size: 14px;
+            color: var(--text-muted);
+        }
+        .empty-state {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-muted);
+        }
+        .empty-state i {
+            font-size: 48px;
+            margin-bottom: 12px;
+            opacity: 0.4;
+        }
+
+        /* -------------------------------------------------- */
+        /*  Status bar                                         */
+        /* -------------------------------------------------- */
+        .status-bar {
+            text-align: center;
+            padding: 8px;
+            font-size: 11px;
+            color: var(--text-muted);
+            background: var(--bg-card);
+            border-top: 1px solid var(--border);
+        }
+        .status-bar .live-dot {
+            display: inline-block;
+            width: 6px; height: 6px;
+            background: #22c55e;
+            border-radius: 50%;
+            margin-right: 6px;
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+
+        /* -------------------------------------------------- */
+        /*  Contacts page layout                               */
+        /* -------------------------------------------------- */
+        .contacts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 20px;
+        }
+        .contact-card {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            border: 1px solid var(--border);
+            padding: 24px;
+        }
+        .contact-card h3 {
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .contact-card h3 i { color: var(--accent); }
+
+        /* -------------------------------------------------- */
+        /*  Fade-in animation                                  */
+        /* -------------------------------------------------- */
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(16px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+        .fade-in {
+            animation: fadeInUp 0.3s ease-out forwards;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Header -->
+<header class="header">
+    <div class="header-inner">
+        <div class="header-brand">
+            <span class="flag">&#x1F1E7;&#x1F1ED;</span>
+            <div>
+                <h1>Bahrain News & Info Hub</h1>
+                <div class="subtitle">Live news from official Bahrain media outlets</div>
+            </div>
+        </div>
+        <div class="header-actions">
+            <button class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">
+                <i class="fas fa-moon"></i>
+            </button>
+            <button class="refresh-btn" onclick="refreshNews()" id="refreshBtn">
+                <i class="fas fa-sync-alt"></i>
+                Refresh
+            </button>
+        </div>
+    </div>
+</header>
+
+<!-- Navigation -->
+<nav class="nav-bar">
+    <div class="nav-inner">
+        <button class="nav-tab active" data-tab="all" onclick="switchTab('all')">
+            <i class="fas fa-newspaper"></i> All News <span class="badge" id="badge-all">...</span>
+        </button>
+        <button class="nav-tab" data-tab="bna" onclick="switchTab('bna')">
+            <i class="fas fa-landmark"></i> BNA <span class="badge" id="badge-bna">...</span>
+        </button>
+        <button class="nav-tab" data-tab="gdn" onclick="switchTab('gdn')">
+            <i class="fas fa-globe"></i> GDN <span class="badge" id="badge-gdn">...</span>
+        </button>
+        <button class="nav-tab" data-tab="newsofbahrain" onclick="switchTab('newsofbahrain')">
+            <i class="fas fa-rss"></i> News of Bahrain <span class="badge" id="badge-newsofbahrain">...</span>
+        </button>
+        <button class="nav-tab" data-tab="contacts" onclick="switchTab('contacts')">
+            <i class="fas fa-address-book"></i> Contacts & Info
+        </button>
+    </div>
+</nav>
+
+<!-- Main Content -->
+<div class="main-container">
+    <!-- Left: News -->
+    <div class="content-area">
+        <!-- Loading state -->
+        <div id="loading" class="loading-container">
+            <div class="loading-spinner"></div>
+            <div class="loading-text">Fetching latest news from Bahrain media...</div>
+        </div>
+
+        <!-- All News -->
+        <div class="panel active" id="panel-all">
+            <div class="news-grid" id="news-all"></div>
+        </div>
+        <div class="panel" id="panel-bna">
+            <div class="news-grid" id="news-bna"></div>
+        </div>
+        <div class="panel" id="panel-gdn">
+            <div class="news-grid" id="news-gdn"></div>
+        </div>
+        <div class="panel" id="panel-newsofbahrain">
+            <div class="news-grid" id="news-newsofbahrain"></div>
+        </div>
+
+        <!-- Contacts panel -->
+        <div class="panel" id="panel-contacts">
+            <div class="contacts-grid" id="contacts-grid"></div>
+        </div>
+    </div>
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <!-- Instagram -->
+        <div class="sidebar-card">
+            <div class="sidebar-card-header">
+                <i class="fab fa-instagram"></i> Instagram Accounts
+            </div>
+            <div class="sidebar-card-body">
+                <ul class="insta-list" id="insta-list"></ul>
+            </div>
+        </div>
+
+        <!-- Quick Contacts -->
+        <div class="sidebar-card">
+            <div class="sidebar-card-header">
+                <i class="fas fa-phone-alt"></i> Emergency & Hotlines
+            </div>
+            <div class="sidebar-card-body" id="quick-contacts"></div>
+        </div>
+
+        <!-- Official Websites -->
+        <div class="sidebar-card">
+            <div class="sidebar-card-header">
+                <i class="fas fa-external-link-alt"></i> Official Websites
+            </div>
+            <div class="sidebar-card-body" id="official-websites"></div>
+        </div>
+    </aside>
+</div>
+
+<!-- Status bar -->
+<div class="status-bar">
+    <span class="live-dot"></span>
+    <span id="status-text">Loading...</span>
+</div>
+
+<script>
+    // ---------------------------------------------------------------
+    //  State
+    // ---------------------------------------------------------------
+    let newsData = null;
+    let currentTab = 'all';
+
+    const SOURCE_COLORS = {
+        bna: '#c41e3a',
+        gdn: '#0d47a1',
+        newsofbahrain: '#2e7d32',
+    };
+
+    const SOURCE_NAMES = {
+        bna: 'BNA',
+        gdn: 'GDN',
+        newsofbahrain: 'NOB',
+    };
+
+    // ---------------------------------------------------------------
+    //  Theme
+    // ---------------------------------------------------------------
+    function toggleTheme() {
+        const html = document.documentElement;
+        const isDark = html.getAttribute('data-theme') === 'dark';
+        html.setAttribute('data-theme', isDark ? 'light' : 'dark');
+        localStorage.setItem('theme', isDark ? 'light' : 'dark');
+        document.querySelector('.theme-toggle i').className = isDark ? 'fas fa-moon' : 'fas fa-sun';
+    }
+
+    // Restore theme
+    const saved = localStorage.getItem('theme');
+    if (saved === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        document.querySelector('.theme-toggle i').className = 'fas fa-sun';
+    }
+
+    // ---------------------------------------------------------------
+    //  Tab switching
+    // ---------------------------------------------------------------
+    function switchTab(tab) {
+        currentTab = tab;
+        document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+        document.querySelector(`[data-tab="${tab}"]`).classList.add('active');
+        document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+        document.getElementById(`panel-${tab}`).classList.add('active');
+    }
+
+    // ---------------------------------------------------------------
+    //  Render functions
+    // ---------------------------------------------------------------
+    function relativeTime(isoStr) {
+        if (!isoStr) return '';
+        try {
+            const d = new Date(isoStr);
+            if (isNaN(d)) return '';
+            const diff = (Date.now() - d.getTime()) / 1000;
+            if (diff < 0) return 'just now';
+            if (diff < 60) return 'just now';
+            if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+            if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+            return `${Math.floor(diff / 86400)}d ago`;
+        } catch { return ''; }
+    }
+
+    function escapeHtml(str) {
+        const div = document.createElement('div');
+        div.textContent = str;
+        return div.innerHTML;
+    }
+
+    function createNewsCard(article, delay = 0) {
+        const card = document.createElement('a');
+        card.className = 'news-card fade-in';
+        card.href = article.link;
+        card.target = '_blank';
+        card.rel = 'noopener';
+        card.style.animationDelay = `${delay}ms`;
+
+        let imgHtml;
+        if (article.image) {
+            imgHtml = `<img class="news-card-img" src="${article.image}" alt="" onerror="this.outerHTML='<div class=\\'news-card-img placeholder\\'><i class=\\'fas fa-newspaper\\'></i></div>'" loading="lazy">`;
+        } else {
+            imgHtml = `<div class="news-card-img placeholder"><i class="fas fa-newspaper"></i></div>`;
+        }
+
+        const color = SOURCE_COLORS[article.source] || '#666';
+        const sourceName = SOURCE_NAMES[article.source] || article.source;
+        const rel = relativeTime(article.iso_date);
+        const dateHtml = article.published
+            ? `<div class="news-card-date"><i class="far fa-clock"></i> ${article.published}${rel ? ` <span class="relative-time">(${rel})</span>` : ''}</div>`
+            : '';
+
+        card.innerHTML = `
+            ${imgHtml}
+            <div class="news-card-body">
+                <div class="news-card-meta">
+                    <span class="source-badge" style="background:${color}">${sourceName}</span>
+                    ${article.category ? `<span class="category-badge">${article.category}</span>` : ''}
+                </div>
+                <div class="news-card-title">${escapeHtml(article.title)}</div>
+                ${article.summary ? `<div class="news-card-summary">${escapeHtml(article.summary)}</div>` : ''}
+                ${dateHtml}
+            </div>
+        `;
+        return card;
+    }
+
+    function sortByDate(arr) {
+        return arr.slice().sort((a, b) => {
+            const da = a.iso_date || '';
+            const db = b.iso_date || '';
+            if (da && db) return db.localeCompare(da);
+            if (da) return -1;
+            if (db) return 1;
+            return 0;
+        });
+    }
+
+    function renderNews(data) {
+        const allArticles = [];
+
+        for (const [source, articles] of Object.entries(data.articles)) {
+            const sorted = sortByDate(articles);
+            const grid = document.getElementById(`news-${source}`);
+            if (grid) {
+                grid.innerHTML = '';
+                if (sorted.length === 0) {
+                    grid.innerHTML = '<div class="empty-state"><i class="fas fa-inbox"></i><p>No articles available</p></div>';
+                } else {
+                    sorted.forEach((a, i) => grid.appendChild(createNewsCard(a, i * 30)));
+                }
+            }
+
+            const badge = document.getElementById(`badge-${source}`);
+            if (badge) badge.textContent = articles.length;
+
+            allArticles.push(...articles);
+        }
+
+        const allGrid = document.getElementById('news-all');
+        allGrid.innerHTML = '';
+        const allSorted = sortByDate(allArticles);
+        allSorted.forEach((a, i) => allGrid.appendChild(createNewsCard(a, i * 20)));
+        document.getElementById('badge-all').textContent = allSorted.length;
+
+        document.getElementById('status-text').textContent =
+            `${allArticles.length} articles from ${Object.keys(data.articles).length} sources · Last updated: ${data.fetched_at}`;
+    }
+
+    function renderInstagram(accounts) {
+        const list = document.getElementById('insta-list');
+        list.innerHTML = '';
+        accounts.forEach(acc => {
+            const li = document.createElement('li');
+            li.className = 'insta-item';
+            li.innerHTML = `
+                <a href="${acc.url}" target="_blank" rel="noopener">
+                    <div class="insta-icon"><i class="fab fa-instagram"></i></div>
+                    <div class="insta-info">
+                        <div class="insta-name">${escapeHtml(acc.name)}</div>
+                        <div class="insta-handle">${escapeHtml(acc.handle)}</div>
+                    </div>
+                </a>
+            `;
+            list.appendChild(li);
+        });
+    }
+
+    function renderContacts(contacts) {
+        const qc = document.getElementById('quick-contacts');
+        qc.innerHTML = '';
+        contacts.hotlines.forEach(c => {
+            qc.innerHTML += `<div class="contact-item"><span class="name">${c.name}</span><span class="number">${c.number}</span></div>`;
+        });
+
+        const ow = document.getElementById('official-websites');
+        ow.innerHTML = '';
+        contacts.websites.forEach(w => {
+            ow.innerHTML += `<div class="website-item"><a href="${w.url}" target="_blank"><i class="fas fa-external-link-alt"></i> ${w.name}</a></div>`;
+        });
+
+        const grid = document.getElementById('contacts-grid');
+        grid.innerHTML = `
+            <div class="contact-card fade-in">
+                <h3><i class="fas fa-exclamation-triangle"></i> Emergency Hotlines</h3>
+                ${contacts.hotlines.map(c => `
+                    <div class="contact-item">
+                        <span class="name">${c.name}</span>
+                        <span class="number"><a href="tel:${c.number.replace(/\s/g,'')}">${c.number}</a></span>
+                    </div>
+                `).join('')}
+            </div>
+            <div class="contact-card fade-in" style="animation-delay:50ms">
+                <h3><i class="fas fa-shield-alt"></i> Police Directorates</h3>
+                ${contacts.police.map(c => `
+                    <div class="contact-item">
+                        <span class="name">${c.name}</span>
+                        <span class="number"><a href="tel:${c.number}">${c.number}</a></span>
+                    </div>
+                `).join('')}
+            </div>
+            <div class="contact-card fade-in" style="animation-delay:100ms">
+                <h3><i class="fas fa-plane"></i> Gulf Air</h3>
+                ${contacts.gulfair.map(c => `
+                    <div class="contact-item">
+                        <span class="name">${c.name}</span>
+                        <span class="number"><a href="tel:${c.number.replace(/\s/g,'')}">${c.number}</a></span>
+                    </div>
+                `).join('')}
+            </div>
+            <div class="contact-card fade-in" style="animation-delay:150ms">
+                <h3><i class="fas fa-globe"></i> Official Websites</h3>
+                ${contacts.websites.map(w => `
+                    <div class="website-item"><a href="${w.url}" target="_blank"><i class="fas fa-external-link-alt"></i> ${w.name}</a></div>
+                `).join('')}
+            </div>
+        `;
+    }
+
+    // ---------------------------------------------------------------
+    //  Data fetching — reads from static JSON generated by scraper
+    // ---------------------------------------------------------------
+    async function fetchNews() {
+        const loading = document.getElementById('loading');
+        loading.style.display = 'flex';
+
+        try {
+            const resp = await fetch('data/news.json?' + Date.now());
+            const data = await resp.json();
+            newsData = data;
+            renderNews(data);
+            renderInstagram(data.instagram);
+            renderContacts(data.contacts);
+        } catch (err) {
+            console.error('Fetch error:', err);
+            document.getElementById('status-text').textContent = 'Error loading news data. The feed may still be updating.';
+        } finally {
+            loading.style.display = 'none';
+        }
+    }
+
+    async function refreshNews() {
+        const btn = document.getElementById('refreshBtn');
+        btn.classList.add('loading');
+        await fetchNews();
+        btn.classList.remove('loading');
+    }
+
+    // ---------------------------------------------------------------
+    //  Init
+    // ---------------------------------------------------------------
+    fetchNews();
+</script>
+
+</body>
+</html>
