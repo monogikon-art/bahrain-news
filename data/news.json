@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,36 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUNEeTdKTnVFcG9KV0lPd0NmSkExRC1LYjlwcUE0a1RleDZOTHMtWDFlVlNHemFvN01VbnpxUXh4RklCajc4Vzk0dV9NTWE5MDBBU2c4YndBMW9BQ2NzbVFUV0JGdGx4NWxZZi1TSXkwZ1o5aWktejRyR0o5eDVQc1l0dW5VMTl0WnBZSmFfMzBaSXlFLWpUYUJ5MjM3X1JFMzB0Qm1kOGxaVG5w?oc=5",
         "published": "4 Mar 2026, 09:13 AM",
         "iso_date": "2026-03-04T09:13:38+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Azhar Al Sharif calls for immediate cessation of war, strongly condemns violation of Arab states’ sovereignty, attacks against their territories",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRi1lWElvNVhTYTBWQVZxZTdsQTZ3TXBFemo3SVFYcl91Z29vRjlrcXowaDNsUlV0bzN0YzJtbGdvaktQbmdJX0EtY3gzUnc3NURvcWVuNEZWODQ?oc=5",
+        "published": "4 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-04T11:14:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar sends 2nd identical message to UN, UNSC concerning Iranian attack on its territory",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FbkVpVndRS05UOWU5M3RWZmNPTm5LakRiZmlzb0VmdFBuSndoOXZyUWdoMGV4MlJFWmhqNGpPWkxpakZiOUZScXJ1aDJmYzZGYWZxaTlvYXRSRkU?oc=5",
+        "published": "4 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-04T11:14:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE condemns Iranian attacks, reserves right to respond at Human Rights Council - GCC News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YklWWU1teEppQlZtWDkxTmtYT0lWMFFvRnpKR1pqclpVVUNCX2NrcWNUcGhtQ1ZTcS1kc0tzR0lHOW5zOHdQUDIxUFdwTS1RemR1aTNWTlpHRDA?oc=5",
+        "published": "4 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-04T11:14:31+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,6 +236,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Defense Forces Successfully Intercept Dozens of Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/127874.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jGn8oMB2kD_2026-03-04_1772659894resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "US Submarine Torpedo Sinks Iranian Warship Near Sri Lanka, Dozens Killed",
         "link": "https://www.newsofbahrain.com/world/127873.html",
         "published": "4 Mar 2026, 09:22 AM",
@@ -218,8 +258,8 @@
       {
         "title": "Qatar PM: Iranian Strikes Hit Civilian and Industrial Areas, Not Just US Interests",
         "link": "https://www.newsofbahrain.com/world/127872.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
+        "published": "4 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_J872m9dqBz_2026-03-04_1772651013resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +278,10 @@
       {
         "title": "Embassy Prepares Repatriation of Bangladeshi Worker Killed in Manama",
         "link": "https://www.newsofbahrain.com/bahrain/127870.html",
-        "published": "4 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_daeTfJwNcG_2026-03-04_1772636455resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Turkish defence ministry confirms interception of missile fired from Iran",
-        "link": "https://www.newsofbahrain.com/world/127869.html",
         "published": "4 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ruz5cRkQWn_2026-03-04_1772629435resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_daeTfJwNcG_2026-03-04_1772636455resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -276,12 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Volunteer Call Issued to Support Bahrain During Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/127853.html",
+        "title": "Turkish defence ministry confirms interception of missile fired from Iran",
+        "link": "https://www.newsofbahrain.com/world/127869.html",
         "published": "4 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MhkROQqoGK_2026-03-04_1772621274thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ruz5cRkQWn_2026-03-04_1772629435thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 20:59:14 UTC"
+  "fetched_at": "2026-03-04 21:41:33 UTC"
 }
