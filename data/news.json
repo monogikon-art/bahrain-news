@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,7 +20,58 @@
     }
   },
   "articles": {
-    "bna": [],
+    "bna": [
+      {
+        "title": "Bahrain opens door for volunteers to aid in wartime efforts: Statement",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHpYVUx0SklNV0VJNF9TRk1HNHRnVVVvem5RQWtwQ3o0STI5UFVVanl0WjhoWDBZb1JIWHhmdFFHODN6U2tURlBOU2FBQUVsRGVvUUdIcEJDNnh5VEdWQ085WUo3czRwWm9lRUtjYXk3MWNYRHRoYVNGOVloNmxUUm9fdzZFdE1jVFQxSWFCSUhaZlpfT1MwM3FRMm51eU5xVGRTRHF1Z0NYQ3JiaE1DQUVKR1kwcWdHWWFlcjY1N2I4WjTSAcMBQVVfeXFMTzh6WFVMdEpJTVdFSTRfU0ZNRzR0Z1VVb3puUUFrcEN6NEkyOVBVVWp5dFo4aFgwWW9SSFh4ZnRRRzgzelNrVEZQTlNhQUFFbERlb1FHSHBCQzZ4eVRHVkNPOVlKN3M0cFpvZUVLY2F5NzFjWER0aGFTRjlZaDZsVFJvX3c2RXRNY1RUMUlhQklIWmZaX09TMDNxUTJudXlOcVRkU0RxdWdDWENyYmhNQ0FFSkdZMHFnR1lhZXI2NTdiOFo0?oc=5",
+        "published": "4 Mar 2026, 12:08 PM",
+        "iso_date": "2026-03-04T12:08:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Enables Volunteering to Support Efforts Addressing Hostile Attacks",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT2ZIcUdhSjdzWWlmNXFweU5NR1RhOFZNS1hVUk81aENFRnhrRXlTc0FPQThDMmhMRHcxekJSZzQ0MzdJMWxuM3hVX3BKcVBoYm9nY3JuSEl2Vk9lb09OWWt5YnFZRDBjN19XbkhPOXozR3BxbGR1Uy1idjBDZFhULWRvcXRqLWFYd1d1VUx5Sms3UFI2Y2cyZjNyam9hWXBFQm5PdjRKam12V0lfMjQxRVlsQ0psam1jdU5weg?oc=5",
+        "published": "4 Mar 2026, 01:58 PM",
+        "iso_date": "2026-03-04T13:58:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Destroys 74 Missiles, 92 Iranian Drones Since Saturday",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sNzBNVXg0SGR0WjVsZWRYLXl3M3dXTUVSaWJRT0d5dmtFQWFmZTFmYVVVR1FZcVhRbWxBU05WMDNOSVA3N0RadDFGQXlLNkRYajFqOGlQLUdabG5vYkdUZVNB?oc=5",
+        "published": "4 Mar 2026, 07:14 AM",
+        "iso_date": "2026-03-04T07:14:43+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Attacks a Violation of International Law, Bahrain's FM Says",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUNEeTdKTnVFcG9KV0lPd0NmSkExRC1LYjlwcUE0a1RleDZOTHMtWDFlVlNHemFvN01VbnpxUXh4RklCajc4Vzk0dV9NTWE5MDBBU2c4YndBMW9BQ2NzbVFUV0JGdGx4NWxZZi1TSXkwZ1o5aWktejRyR0o5eDVQc1l0dW5VMTl0WnBZSmFfMzBaSXlFLWpUYUJ5MjM3X1JFMzB0Qm1kOGxaVG5w?oc=5",
+        "published": "4 Mar 2026, 09:13 AM",
+        "iso_date": "2026-03-04T09:13:38+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE condemns Iranian attacks, reserves right to respond at Human Rights Council - GCC News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YklWWU1teEppQlZtWDkxTmtYT0lWMFFvRnpKR1pqclpVVUNCX2NrcWNUcGhtQ1ZTcS1kc0tzR0lHOW5zOHdQUDIxUFdwTS1RemR1aTNWTlpHRDA?oc=5",
+        "published": "4 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-04T11:14:31+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
     "gdn": [
       {
         "title": "General Command of Bahrain Defence Force: 74 Iranian missiles and 95 hostile drones destroyed",
@@ -398,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 15:54:21 UTC"
+  "fetched_at": "2026-03-04 16:03:02 UTC"
 }
