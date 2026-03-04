@@ -142,6 +142,46 @@ def _format_display_date(date_str: str) -> str:
     return dt.strftime("%d %b %Y").lstrip("0")
 
 
+def _find_article_image(element, base_url=""):
+    """Extract image URL from a DOM element.
+
+    Checks (in order):
+    1. <img> tags (src / data-src / data-lazy-src)
+    2. Elements with data-src attribute (GDN penci-image-holder pattern)
+    3. CSS background-image in inline styles (NOB img-cont pattern)
+    """
+    if not element:
+        return ""
+    # 1. Check for <img> tags (skip tiny icons / data URIs / YouTube / trackers)
+    img_tag = element.find("img")
+    if img_tag:
+        src = (img_tag.get("src", "")
+               or img_tag.get("data-src", "")
+               or img_tag.get("data-lazy-src", ""))
+        if src and not src.startswith("data:") and "logo" not in src.lower() and "ytimg" not in src and "atrk" not in src:
+            if not src.startswith("http"):
+                src = f"{base_url}{src}"
+            return src
+    # 2. Elements with data-src (lazy-loaded image holders like <a data-src>)
+    for el in element.find_all(attrs={"data-src": True}):
+        ds = el.get("data-src", "")
+        if ds and not ds.startswith("data:") and "logo" not in ds.lower():
+            if not ds.startswith("http"):
+                ds = f"{base_url}{ds}"
+            return ds
+    # 3. Check for background-image in inline styles
+    for el in element.find_all(style=True):
+        style = el.get("style", "")
+        if "background-image" in style:
+            m = _re.search(r"url\(['\"]?([^'\")\s]+)", style)
+            if m:
+                url = m.group(1)
+                if not url.startswith("http"):
+                    url = f"{base_url}{url}"
+                return url
+    return ""
+
+
 # ---------------------------------------------------------------------------
 # Scrapers
 # ---------------------------------------------------------------------------
@@ -184,11 +224,11 @@ def scrape_bna() -> list:
                 )
                 if meta_div:
                     pub_raw = meta_div.get_text(strip=True)
-                img_tag = parent.find("img")
-                if img_tag:
-                    img = img_tag.get("src", "") or img_tag.get("data-src", "")
-                    if img and not img.startswith("http"):
-                        img = f"https://www.bna.bh{img}"
+                # Search current parent and grandparent for images
+                img = _find_article_image(parent, "https://www.bna.bh")
+                if not img:
+                    grandparent = parent.find_parent(["div", "article", "li", "section"])
+                    img = _find_article_image(grandparent, "https://www.bna.bh")
 
             articles.append({
                 "title": title,
@@ -234,11 +274,10 @@ def scrape_gdn() -> list:
             img = ""
             parent = a_tag.find_parent(["div", "article", "li"])
             if parent:
-                img_tag = parent.find("img")
-                if img_tag:
-                    img = img_tag.get("src", "") or img_tag.get("data-src", "")
-                    if img and not img.startswith("http"):
-                        img = f"https://www.gdnonline.com{img}"
+                img = _find_article_image(parent, "https://www.gdnonline.com")
+                if not img:
+                    grandparent = parent.find_parent(["div", "article", "li"])
+                    img = _find_article_image(grandparent, "https://www.gdnonline.com")
 
             pub_raw = ""
             if parent:
@@ -278,8 +317,15 @@ def scrape_newsofbahrain() -> list:
         soup = BeautifulSoup(resp.text, "html.parser")
 
         seen = set()
-        for title_div in soup.find_all(class_="article-title"):
-            a_tag = title_div.find("a", href=True) if title_div.name != "a" else title_div
+
+        # Primary: find listing articles (each has a.img-cont + h2.title)
+        for article_el in soup.find_all("article", class_="listing-item"):
+            a_tag = article_el.find("a", class_="post-url")
+            if not a_tag or not a_tag.get("href"):
+                # also try any heading link inside the article
+                h = article_el.find(["h2", "h3", "h4"])
+                if h:
+                    a_tag = h.find("a", href=True)
             if not a_tag or not a_tag.get("href"):
                 continue
             title = a_tag.get_text(strip=True)
@@ -290,24 +336,18 @@ def scrape_newsofbahrain() -> list:
             href = a_tag["href"]
             full_url = href if href.startswith("http") else f"https://www.newsofbahrain.com{href}"
 
-            img = ""
-            parent = a_tag.find_parent(["div", "article", "li"])
-            if parent:
-                img_tag = parent.find("img")
-                if img_tag:
-                    img = img_tag.get("src", "") or img_tag.get("data-src", "")
-                    if img and not img.startswith("http"):
-                        img = f"https://www.newsofbahrain.com{img}"
+            # Image: a.img-cont with background-image, or data-src, or <img>
+            img = _find_article_image(article_el, "https://www.newsofbahrain.com")
 
+            # Date: <time> or <span class="time">
             pub_raw = ""
-            if parent:
-                time_span = parent.find("span", class_="time")
+            time_el = article_el.find("time")
+            if time_el:
+                pub_raw = time_el.get("datetime", "") or time_el.get_text(strip=True)
+            else:
+                time_span = article_el.find("span", class_="time")
                 if time_span:
                     pub_raw = time_span.get_text(strip=True)
-                else:
-                    time_el = parent.find("time")
-                    if time_el:
-                        pub_raw = time_el.get("datetime", "") or time_el.get_text(strip=True)
 
             articles.append({
                 "title": title,
@@ -339,17 +379,19 @@ def scrape_newsofbahrain() -> list:
                 full_url = href if href.startswith("http") else f"https://www.newsofbahrain.com{href}"
                 fb_pub = ""
                 fb_parent = h_tag.parent
+                img = ""
                 if fb_parent:
                     fb_time = fb_parent.find("span", class_="time")
                     if fb_time:
                         fb_pub = fb_time.get_text(strip=True)
+                    img = _find_article_image(fb_parent, "https://www.newsofbahrain.com")
                 articles.append({
                     "title": title,
                     "link": full_url,
                     "published": _format_display_date(fb_pub),
                     "iso_date": _to_iso(fb_pub),
                     "summary": "",
-                    "image": "",
+                    "image": img,
                     "source": "newsofbahrain",
                     "category": "Latest",
                 })
