@@ -426,6 +426,24 @@ def scrape_newsofbahrain() -> list:
                 if time_span:
                     pub_raw = time_span.get_text(strip=True)
 
+            # If no date on listing page, fetch the article page to get it
+            if not pub_raw:
+                try:
+                    art_resp = SESSION.get(full_url, timeout=10)
+                    if art_resp.status_code == 200:
+                        art_soup = BeautifulSoup(art_resp.text, "html.parser")
+                        # First try <time> with datetime attr on article page
+                        art_time = art_soup.find("time", attrs={"datetime": True})
+                        if art_time:
+                            pub_raw = art_time.get("datetime", "")
+                        else:
+                            # Try <span class="time">
+                            art_span = art_soup.find("span", class_="time")
+                            if art_span:
+                                pub_raw = art_span.get_text(strip=True)
+                except Exception:
+                    pass
+
             articles.append({
                 "title": title,
                 "link": full_url,
