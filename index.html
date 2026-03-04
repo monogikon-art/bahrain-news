@@ -412,6 +412,43 @@
         }
         .contact-item a:hover { text-decoration: underline; }
 
+        /* Instagram grid (main panel) */
+        .insta-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 16px;
+        }
+        .insta-card {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            border: 1px solid var(--border);
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            text-decoration: none;
+            color: inherit;
+            transition: var(--transition);
+        }
+        .insta-card:hover {
+            box-shadow: var(--shadow-hover);
+            transform: translateY(-2px);
+            border-color: #dd2a7b;
+        }
+        .insta-card .insta-icon {
+            width: 52px; height: 52px;
+            border-radius: 14px;
+            font-size: 22px;
+        }
+        .insta-card .insta-name { font-size: 15px; font-weight: 600; }
+        .insta-card .insta-handle { font-size: 13px; color: var(--text-muted); }
+        .insta-card .insta-arrow {
+            margin-left: auto;
+            color: var(--text-muted);
+            font-size: 14px;
+        }
+
         /* Website links */
         .website-item {
             padding: 8px 0;
@@ -529,7 +566,7 @@
 <header class="header">
     <div class="header-inner">
         <div class="header-brand">
-            <span class="flag">&#x1F1E7;&#x1F1ED;</span>
+            <img src="https://flagcdn.com/w80/bh.png" srcset="https://flagcdn.com/w160/bh.png 2x" width="48" height="30" alt="Bahrain flag" style="border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.3); object-fit:cover;">
             <div>
                 <h1>Bahrain News & Info Hub</h1>
                 <div class="subtitle">Live news from official Bahrain media outlets</div>
@@ -553,14 +590,11 @@
         <button class="nav-tab active" data-tab="all" onclick="switchTab('all')">
             <i class="fas fa-newspaper"></i> All News <span class="badge" id="badge-all">...</span>
         </button>
-        <button class="nav-tab" data-tab="bna" onclick="switchTab('bna')">
-            <i class="fas fa-landmark"></i> BNA <span class="badge" id="badge-bna">...</span>
+        <button class="nav-tab" data-tab="instagram" onclick="switchTab('instagram')">
+            <i class="fab fa-instagram"></i> Instagram Accounts
         </button>
-        <button class="nav-tab" data-tab="gdn" onclick="switchTab('gdn')">
-            <i class="fas fa-globe"></i> GDN <span class="badge" id="badge-gdn">...</span>
-        </button>
-        <button class="nav-tab" data-tab="newsofbahrain" onclick="switchTab('newsofbahrain')">
-            <i class="fas fa-rss"></i> News of Bahrain <span class="badge" id="badge-newsofbahrain">...</span>
+        <button class="nav-tab" data-tab="hotlines" onclick="switchTab('hotlines')">
+            <i class="fas fa-phone-alt"></i> Emergency Hotlines
         </button>
         <button class="nav-tab" data-tab="contacts" onclick="switchTab('contacts')">
             <i class="fas fa-address-book"></i> Contacts & Info
@@ -582,14 +616,17 @@
         <div class="panel active" id="panel-all">
             <div class="news-grid" id="news-all"></div>
         </div>
-        <div class="panel" id="panel-bna">
-            <div class="news-grid" id="news-bna"></div>
+
+        <!-- Instagram panel -->
+        <div class="panel" id="panel-instagram">
+            <div class="section-title"><i class="fab fa-instagram" style="color:#dd2a7b"></i> Instagram Accounts</div>
+            <div class="insta-grid" id="insta-grid"></div>
         </div>
-        <div class="panel" id="panel-gdn">
-            <div class="news-grid" id="news-gdn"></div>
-        </div>
-        <div class="panel" id="panel-newsofbahrain">
-            <div class="news-grid" id="news-newsofbahrain"></div>
+
+        <!-- Hotlines panel -->
+        <div class="panel" id="panel-hotlines">
+            <div class="section-title"><i class="fas fa-phone-alt" style="color:var(--accent)"></i> Emergency Hotlines & Contacts</div>
+            <div class="contacts-grid" id="hotlines-grid"></div>
         </div>
 
         <!-- Contacts panel -->
@@ -757,20 +794,6 @@
         const allArticles = [];
 
         for (const [source, articles] of Object.entries(data.articles)) {
-            const sorted = sortByDate(articles);
-            const grid = document.getElementById(`news-${source}`);
-            if (grid) {
-                grid.innerHTML = '';
-                if (sorted.length === 0) {
-                    grid.innerHTML = '<div class="empty-state"><i class="fas fa-inbox"></i><p>No articles available</p></div>';
-                } else {
-                    sorted.forEach((a, i) => grid.appendChild(createNewsCard(a, i * 30)));
-                }
-            }
-
-            const badge = document.getElementById(`badge-${source}`);
-            if (badge) badge.textContent = articles.length;
-
             allArticles.push(...articles);
         }
 
@@ -785,6 +808,7 @@
     }
 
     function renderInstagram(accounts) {
+        // Sidebar list
         const list = document.getElementById('insta-list');
         list.innerHTML = '';
         accounts.forEach(acc => {
@@ -801,6 +825,27 @@
             `;
             list.appendChild(li);
         });
+
+        // Main panel grid
+        const grid = document.getElementById('insta-grid');
+        grid.innerHTML = '';
+        accounts.forEach((acc, i) => {
+            const card = document.createElement('a');
+            card.className = 'insta-card fade-in';
+            card.href = acc.url;
+            card.target = '_blank';
+            card.rel = 'noopener';
+            card.style.animationDelay = `${i * 50}ms`;
+            card.innerHTML = `
+                <div class="insta-icon"><i class="fab fa-instagram"></i></div>
+                <div class="insta-info">
+                    <div class="insta-name">${escapeHtml(acc.name)}</div>
+                    <div class="insta-handle">${escapeHtml(acc.handle)}</div>
+                </div>
+                <div class="insta-arrow"><i class="fas fa-external-link-alt"></i></div>
+            `;
+            grid.appendChild(card);
+        });
     }
 
     function renderContacts(contacts) {
@@ -816,6 +861,45 @@
             ow.innerHTML += `<div class="website-item"><a href="${w.url}" target="_blank"><i class="fas fa-external-link-alt"></i> ${w.name}</a></div>`;
         });
 
+        // Hotlines panel (main)
+        const hGrid = document.getElementById('hotlines-grid');
+        hGrid.innerHTML = `
+            <div class="contact-card fade-in">
+                <h3><i class="fas fa-exclamation-triangle"></i> Emergency Hotlines</h3>
+                ${contacts.hotlines.map(c => `
+                    <div class="contact-item">
+                        <span class="name">${c.name}</span>
+                        <span class="number"><a href="tel:${c.number.replace(/\s/g,'')}">${c.number}</a></span>
+                    </div>
+                `).join('')}
+            </div>
+            <div class="contact-card fade-in" style="animation-delay:50ms">
+                <h3><i class="fas fa-shield-alt"></i> Police Directorates</h3>
+                ${contacts.police.map(c => `
+                    <div class="contact-item">
+                        <span class="name">${c.name}</span>
+                        <span class="number"><a href="tel:${c.number}">${c.number}</a></span>
+                    </div>
+                `).join('')}
+            </div>
+            <div class="contact-card fade-in" style="animation-delay:100ms">
+                <h3><i class="fas fa-plane"></i> Gulf Air</h3>
+                ${contacts.gulfair.map(c => `
+                    <div class="contact-item">
+                        <span class="name">${c.name}</span>
+                        <span class="number"><a href="tel:${c.number.replace(/\s/g,'')}">${c.number}</a></span>
+                    </div>
+                `).join('')}
+            </div>
+            <div class="contact-card fade-in" style="animation-delay:150ms">
+                <h3><i class="fas fa-globe"></i> Official Websites</h3>
+                ${contacts.websites.map(w => `
+                    <div class="website-item"><a href="${w.url}" target="_blank"><i class="fas fa-external-link-alt"></i> ${w.name}</a></div>
+                `).join('')}
+            </div>
+        `;
+
+        // Contacts & Info panel
         const grid = document.getElementById('contacts-grid');
         grid.innerHTML = `
             <div class="contact-card fade-in">
