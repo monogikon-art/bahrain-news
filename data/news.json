@@ -206,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Qatar PM: Iranian Strikes Hit Civilian and Industrial Areas, Not Just US Interests",
+        "link": "https://www.newsofbahrain.com/world/127872.html",
+        "published": "4 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J872m9dqBz_2026-03-04_1772651013resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Ministry of Interior Arrests Four for Misusing Social Media",
         "link": "https://www.newsofbahrain.com/bahrain/127871.html",
         "published": "4 Mar 2026, 09:22 AM",
@@ -218,8 +228,8 @@
       {
         "title": "Embassy Prepares Repatriation of Bangladeshi Worker Killed in Manama",
         "link": "https://www.newsofbahrain.com/bahrain/127870.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
+        "published": "4 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_daeTfJwNcG_2026-03-04_1772636455resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +248,10 @@
       {
         "title": "Ramadan Recipe",
         "link": "https://www.newsofbahrain.com/trends/127868.html",
-        "published": "4 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eXNBMOkVnv_2026-03-04_1772628860resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "The Concept of Barakah in Ramadan: Spiritual Meaning Beyond Material Prosperity",
-        "link": "https://www.newsofbahrain.com/views/127867.html",
         "published": "4 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o7HQgONdRb_2026-03-04_1772628544resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eXNBMOkVnv_2026-03-04_1772628860resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,16 +306,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran will not ‘automatically’ fall after Khamenei’s death, shah’s widow tells",
-        "link": "https://www.newsofbahrain.com/world/127863.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IHw9p3RZOS_2026-03-04_1772626596thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Longtime Bahrain Resident Mahesh Bhatia Passes Away",
         "link": "https://www.newsofbahrain.com/business/127856.html",
         "published": "4 Mar 2026, 09:22 AM",
@@ -352,6 +342,16 @@
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_C7D2RdLWjB_2026-03-04_1772613451thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The Concept of Barakah in Ramadan: Spiritual Meaning Beyond Material Prosperity",
+        "link": "https://www.newsofbahrain.com/views/127867.html",
+        "published": "4 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-04T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o7HQgONdRb_2026-03-04_1772628544thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 18:43:42 UTC"
+  "fetched_at": "2026-03-04 19:36:29 UTC"
 }
