@@ -289,35 +289,45 @@ def scrape_bna() -> list:
     if not articles:
         print("  [BNA] Direct scrape failed, trying Google News RSS fallback...")
         try:
-            feed = feedparser.parse(
-                "https://news.google.com/rss/search?q=site:bna.bh+when:1d&hl=en-BH&gl=BH&ceid=BH:en"
-            )
+            # Try multiple queries to maximize coverage of BNA-sourced news
+            rss_queries = [
+                # Articles that mention "Bahrain News Agency" (BNA as source)
+                "https://news.google.com/rss/search?q=%22bahrain+news+agency%22+when:1d&hl=en&gl=BH&ceid=BH:en",
+                # Articles linking to bna.bh
+                "https://news.google.com/rss/search?q=site:bna.bh+when:1d&hl=en-BH&gl=BH&ceid=BH:en",
+                # BNA as a recognized Google News source
+                "https://news.google.com/rss/search?q=%22bna.bh%22+when:1d&hl=en&gl=BH&ceid=BH:en",
+            ]
             seen_fb = set()
-            for entry in feed.entries:
-                title = entry.get("title", "")
-                # Strip " - bna.bh" suffix that Google News appends
-                title = _re.sub(r"\s*-\s*bna\.bh\s*$", "", title).strip()
-                if not title or len(title) < 10:
-                    continue
-                if not _is_english(title):
-                    continue
-                if title in seen_fb:
-                    continue
-                seen_fb.add(title)
+            for rss_url in rss_queries:
+                feed = feedparser.parse(rss_url)
+                for entry in feed.entries:
+                    title = entry.get("title", "")
+                    # Strip common suffixes Google News appends
+                    title = _re.sub(r"\s*-\s*[\w\s.]+$", "", title).strip()
+                    if not title or len(title) < 10:
+                        continue
+                    if not _is_english(title):
+                        continue
+                    if title in seen_fb:
+                        continue
+                    seen_fb.add(title)
 
-                link = entry.get("link", "")
-                pub_raw = entry.get("published", "")
+                    link = entry.get("link", "")
+                    pub_raw = entry.get("published", "")
 
-                articles.append({
-                    "title": title,
-                    "link": link,
-                    "published": _format_display_date(pub_raw),
-                    "iso_date": _to_iso(pub_raw),
-                    "summary": "",
-                    "image": "",
-                    "source": "bna",
-                    "category": "Latest",
-                })
+                    articles.append({
+                        "title": title,
+                        "link": link,
+                        "published": _format_display_date(pub_raw),
+                        "iso_date": _to_iso(pub_raw),
+                        "summary": "",
+                        "image": "",
+                        "source": "bna",
+                        "category": "Latest",
+                    })
+                    if len(articles) >= 25:
+                        break
                 if len(articles) >= 25:
                     break
             print(f"  [BNA] Google News fallback: {len(articles)} articles")
