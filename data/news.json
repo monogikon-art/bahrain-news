@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -60,19 +60,19 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Al Azhar Al Sharif calls for immediate cessation of war, strongly condemns violation of Arab states’ sovereignty, attacks against their territories",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRi1lWElvNVhTYTBWQVZxZTdsQTZ3TXBFemo3SVFYcl91Z29vRjlrcXowaDNsUlV0bzN0YzJtbGdvaktQbmdJX0EtY3gzUnc3NURvcWVuNEZWODQ?oc=5",
-        "published": "4 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-04T11:14:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "Four arrested over Iran attack videos",
+        "link": "https://www.gdnonline.com/Details/1377620/Four-arrested-over-Iran-attack-videos",
+        "published": "4 Mar 2026",
+        "iso_date": "2026-03-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304204651arrest_T.jpg?20260304",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "General Command of Bahrain Defence Force: 74 Iranian missiles and 95 hostile drones destroyed",
         "link": "https://www.gdnonline.com/Details/1377598/General-Command-of-Bahrain-Defence-Force-74-Iranian-missiles-and-95-hostile-drones-destroyed",
@@ -110,16 +110,6 @@
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260303/20260303155213mofa1234(1)_T.jpg?20260304",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Healthcare force ready to respond",
-        "link": "https://www.gdnonline.com/Details/1377538/Healthcare-force-ready-to-respond",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304_005152_0_T.jpg?20260304",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Ministry of Interior Arrests Four for Misusing Social Media",
+        "link": "https://www.newsofbahrain.com/bahrain/127871.html",
+        "published": "4 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YPVZ8WnabF_2026-03-04_1772647775resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Embassy Prepares Repatriation of Bangladeshi Worker Killed in Manama",
         "link": "https://www.newsofbahrain.com/bahrain/127870.html",
         "published": "4 Mar 2026, 09:22 AM",
@@ -228,8 +228,8 @@
       {
         "title": "Turkish defence ministry confirms interception of missile fired from Iran",
         "link": "https://www.newsofbahrain.com/world/127869.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
+        "published": "4 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ruz5cRkQWn_2026-03-04_1772629435resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +248,8 @@
       {
         "title": "The Concept of Barakah in Ramadan: Spiritual Meaning Beyond Material Prosperity",
         "link": "https://www.newsofbahrain.com/views/127867.html",
-        "published": "4 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-04T09:00:43+00:00",
+        "published": "4 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_o7HQgONdRb_2026-03-04_1772628544resized_pic.jpg",
         "source": "newsofbahrain",
@@ -261,7 +261,7 @@
         "published": "4 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aAfjnzZlHT_2026-03-04_1772628455resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aAfjnzZlHT_2026-03-04_1772628455thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,16 +282,6 @@
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_MhkROQqoGK_2026-03-04_1772621274thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Air Travel Disruptions Continue in Bahrain and Qatar",
-        "link": "https://www.newsofbahrain.com/bahrain/127847.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KL04zpbkHI_2026-03-04_1772617989thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 17:36:28 UTC"
+  "fetched_at": "2026-03-04 18:43:42 UTC"
 }
