@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 19
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,198 +20,7 @@
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "HM King receives call from HE Maldives President",
-        "link": "https://www.bna.bhHMKingreceivescallfromHEMaldivesPresident.aspx?cms=q8FmFJgiscL2fwIzON1%2bDoK2hKtqgFCHcWX6QwD%2bYrg%3d",
-        "published": "4 Mar 2026, 03:30 AM",
-        "iso_date": "2026-03-04T03:30:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Foreign Minister: Iran’s hostile attacks constitute a violation of international law and undermine regional and international peace",
-        "link": "https://www.bna.bhForeignMinisterIranshostileattacksconstituteaviolationofinternationallawandundermineregionalandinternationalpeace.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrGpUKHcUNgh0Lv0H5dSQKo%3d",
-        "published": "4 Mar 2026, 12:55 PM",
-        "iso_date": "2026-03-04T12:55:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King receives call from Al Azhar Grand Imam",
-        "link": "https://www.bna.bhHMKingreceivescallfromAlAzharGrandImam.aspx?cms=q8FmFJgiscL2fwIzON1%2bDkNcjo6B%2fjDXkZBmchjX2gs%3d",
-        "published": "3 Mar 2026, 10:53 AM",
-        "iso_date": "2026-03-03T10:53:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Anti-Cybercrime Directorate arrests two individuals for filming military sites and posting content sympathising with Iranian aggression",
-        "link": "https://www.bna.bhAntiCybercrimeDirectoratearreststwoindividualsforfilmingmilitarysitesandpostingcontentsympathisingwithIranianaggression.aspx?cms=q8FmFJgiscL2fwIzON1%2bDk6SMq1tt640Oni14Um%2b338%3d",
-        "published": "3 Mar 2026, 09:15 AM",
-        "iso_date": "2026-03-03T09:15:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King receives call from Swiss President",
-        "link": "https://www.bna.bhHMKingreceivescallfromSwissPresident.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrCjiaa0z7%2bL4F5ohaiM52U%3d",
-        "published": "3 Mar 2026, 08:54 AM",
-        "iso_date": "2026-03-03T08:54:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain condemns blatant Iranian attacks on US embassies in Saudi Arabia and Kuwait",
-        "link": "https://www.bna.bhBahraincondemnsblatantIranianattacksonUSembassiesinSaudiArabiaandKuwait.aspx?cms=q8FmFJgiscL2fwIzON1%2bDkK3f0BObbYWhmqEKj%2f2Qvw%3d",
-        "published": "3 Mar 2026, 08:34 AM",
-        "iso_date": "2026-03-03T08:34:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH the Crown Prince and Prime Minister visits commercial markets to ensure the availability of essential goods and services",
-        "link": "https://www.bna.bhHRHtheCrownPrinceandPrimeMinistervisitscommercialmarketstoensuretheavailabilityofessentialgoodsandservices.aspx?cms=q8FmFJgiscL2fwIzON1%2bDsGDDUMtXtrvafdQgk4zY6s%3d",
-        "published": "3 Mar 2026, 08:26 AM",
-        "iso_date": "2026-03-03T08:26:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH the Crown Prince and Prime Minister visits the Salmaniya Medical Complex",
-        "link": "https://www.bna.bhHRHtheCrownPrinceandPrimeMinistervisitstheSalmaniyaMedicalComplex.aspx?cms=q8FmFJgiscL2fwIzON1%2bDiFOfx7UGl2IbgY41q%2ffC0g%3d",
-        "published": "3 Mar 2026, 08:21 AM",
-        "iso_date": "2026-03-03T08:21:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "General Command of Bahrain Defence Force: 73 Iranian missiles and 91 unmanned aerial vehicles destroyed",
-        "link": "https://www.bna.bhGeneralCommandofBahrainDefenceForce73Iranianmissilesand91unmannedaerialvehiclesdestroyed.aspx?cms=q8FmFJgiscL2fwIzON1%2bDlRThsgQ08TqXKNht759Q%2fM%3d",
-        "published": "3 Mar 2026, 08:19 AM",
-        "iso_date": "2026-03-03T08:19:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King receives call from HE Serbian President",
-        "link": "https://www.bna.bhHMKingreceivescallfromHESerbianPresident.aspx?cms=q8FmFJgiscL2fwIzON1%2bDvkj6xmA0NfZ6%2f0XP52pcT8%3d",
-        "published": "3 Mar 2026, 01:56 AM",
-        "iso_date": "2026-03-03T01:56:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Latest NewsView More",
-        "link": "https://www.bna.bhLatestNews.aspx?cms=iQRpheuphYtJ6pyXUGiNqh4%2fgrLnOvgRcJoj8FTpkGM%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain All Share, Islamic Indexes close lower",
-        "link": "https://www.bna.bhBahrainAllShareIslamicIndexescloselower.aspx?cms=q8FmFJgiscL2fwIzON1%2bDt32KK%2fQgoXeVUO4vllYq%2bo%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Defence Ministry announces successful interception of 10 drones, two cruise missiles",
-        "link": "https://www.bna.bhQatarDefenceMinistryannouncessuccessfulinterceptionof10dronestwocruisemissiles.aspx?cms=q8FmFJgiscL2fwIzON1%2bDoEXVzyM60MM0QlgGuboEtM%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Municipalities Minister inspects Northern and Southern Governorates post rainfall",
-        "link": "https://www.bna.bhMunicipalitiesMinisterinspectsNorthernandSouthernGovernoratespostrainfall.aspx?cms=q8FmFJgiscL2fwIzON1%2bDpY6Olw630auDsEtHlr9cu4%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Public Prosecution orders pretrial detention of suspect over AI-generated fabricated content",
-        "link": "https://www.bna.bhPublicProsecutionorderspretrialdetentionofsuspectoverAIgeneratedfabricatedcontent.aspx?cms=q8FmFJgiscL2fwIzON1%2bDj5ocGlSdi5iU7xcev0SB9c%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwaiti Health Ministry: Girl succumbs to shrapnel wound",
-        "link": "https://www.bna.bhKuwaitiHealthMinistryGirlsuccumbstoshrapnelwound.aspx?cms=q8FmFJgiscL2fwIzON1%2bDuYY5fdrzRg2RFF6CpFizK4%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "VARIETIESView More",
-        "link": "https://www.bna.bhVarieties.aspx?cms=iQRpheuphYtJ6pyXUGiNqtF7iI8thMTjyBPOd8Tpv7A%3d",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Arab NewsView More",
-        "link": "https://www.bna.bhArabNews.aspx?cms=iQRpheuphYtJ6pyXUGiNqlBN3rAkGuUx",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "World NewsView More",
-        "link": "https://www.bna.bhWorldNews.aspx?cms=iQRpheuphYtJ6pyXUGiNqrzURa7POt3W",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
         "title": "General Command of Bahrain Defence Force: 74 Iranian missiles and 95 hostile drones destroyed",
@@ -416,6 +225,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Ukraine offers Gulf states air defence swap",
+        "link": "https://www.newsofbahrain.com/world/127865.html",
+        "published": "4 Mar 2026",
+        "iso_date": "2026-03-04T00:00:00",
+        "summary": "",
+        "image": "",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Tehran resembles ghost town as bombs rain down",
         "link": "https://www.newsofbahrain.com/world/127864.html",
         "published": "4 Mar 2026",
@@ -428,8 +247,8 @@
       {
         "title": "Iran will not ‘automatically’ fall after Khamenei’s death, shah’s widow tells",
         "link": "https://www.newsofbahrain.com/world/127863.html",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "",
         "source": "newsofbahrain",
@@ -448,16 +267,6 @@
       {
         "title": "Bahrain Emergency Teams Respond to Rainfall, Minister Inspects Northern and Southern Governorates",
         "link": "https://www.newsofbahrain.com/bahrain/127861.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil infrastructure hit in Gulf",
-        "link": "https://www.newsofbahrain.com/world/127860.html",
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
@@ -729,5 +538,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 12:38:27 UTC"
+  "fetched_at": "2026-03-04 12:46:08 UTC"
 }
