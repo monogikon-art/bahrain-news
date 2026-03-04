@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 20
+      "count": 15
     }
   },
   "articles": {
@@ -157,8 +157,8 @@
       {
         "title": "Ramadan Recipe",
         "link": "https://www.newsofbahrain.com/trends/127868.html",
-        "published": "",
-        "iso_date": "",
+        "published": "4 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_eXNBMOkVnv_2026-03-04_1772628860resized_pic.jpg",
         "source": "newsofbahrain",
@@ -167,8 +167,8 @@
       {
         "title": "The Concept of Barakah in Ramadan: Spiritual Meaning Beyond Material Prosperity",
         "link": "https://www.newsofbahrain.com/views/127867.html",
-        "published": "",
-        "iso_date": "",
+        "published": "4 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_o7HQgONdRb_2026-03-04_1772628544resized_pic.jpg",
         "source": "newsofbahrain",
@@ -281,56 +281,6 @@
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_C7D2RdLWjB_2026-03-04_1772613451thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NMS Bahrain Students Translate Ramadan Spirit Into Action",
-        "link": "https://www.newsofbahrain.com/views/127584.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9Dc8e16RFm_2026-02-28_1772269096thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A Grand Stage for Young Visionaries: Al Noor International School Hosts Inaugural Techno-Fest",
-        "link": "https://www.newsofbahrain.com/views/127580.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2bxeDtYpQZ_2026-02-28_1772266594thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Outstanding Achievement in JEE Main 2026 for BIS",
-        "link": "https://www.newsofbahrain.com/views/127579.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gik6rb1OQq_2026-02-28_1772265876thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s Scrabble Champion Enters Global Top 30",
-        "link": "https://www.newsofbahrain.com/views/127535.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pKSwJ96lYF_2026-02-26_1772118252thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fasting Made Simpler for Diabetics",
-        "link": "https://www.newsofbahrain.com/views/127532.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kIaR2YXwEO_2026-02-26_1772116877thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -448,5 +398,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 15:48:39 UTC"
+  "fetched_at": "2026-03-04 15:54:21 UTC"
 }
