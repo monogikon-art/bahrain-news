@@ -57,8 +57,6 @@
             background: linear-gradient(135deg, #c41e3a 0%, #8b1528 50%, #1a1a2e 100%);
             color: #fff;
             padding: 0;
-            position: sticky;
-            top: 0;
             z-index: 100;
             box-shadow: 0 4px 20px rgba(0,0,0,0.15);
         }
@@ -136,7 +134,7 @@
             background: var(--bg-card);
             border-bottom: 1px solid var(--border);
             position: sticky;
-            top: 72px;
+            top: 0;
             z-index: 99;
         }
         .nav-inner {
@@ -558,6 +556,128 @@
         .fade-in {
             animation: fadeInUp 0.3s ease-out forwards;
         }
+
+        /* -------------------------------------------------- */
+        /*  Info banner & Q&A                                  */
+        /* -------------------------------------------------- */
+        .info-banner {
+            background: linear-gradient(135deg, #fff3cd 0%, #ffeeba 100%);
+            border-bottom: 1px solid #e0c56a;
+            padding: 10px 24px;
+            font-size: 13px;
+            color: #664d03;
+            text-align: center;
+            line-height: 1.5;
+        }
+        [data-theme="dark"] .info-banner {
+            background: linear-gradient(135deg, #332b00 0%, #3d3200 100%);
+            border-bottom-color: #554608;
+            color: #f5d97a;
+        }
+        .info-banner strong { font-weight: 600; }
+        .info-banner .disclaimer {
+            font-size: 11.5px;
+            opacity: 0.85;
+            margin-top: 2px;
+        }
+        .qa-btn {
+            background: rgba(255,255,255,0.2);
+            border: 1px solid rgba(255,255,255,0.3);
+            color: #fff;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: var(--transition);
+        }
+        .qa-btn:hover { background: rgba(255,255,255,0.35); }
+
+        /* Modal */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.55);
+            z-index: 200;
+            justify-content: center;
+            align-items: center;
+        }
+        .modal-overlay.visible { display: flex; }
+        .modal {
+            background: var(--bg-card);
+            color: var(--text);
+            border-radius: 16px;
+            max-width: 560px;
+            width: 92%;
+            max-height: 85vh;
+            overflow-y: auto;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 32px;
+            position: relative;
+        }
+        .modal-close {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            background: none;
+            border: none;
+            color: var(--text-muted);
+            font-size: 20px;
+            cursor: pointer;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: var(--transition);
+        }
+        .modal-close:hover { background: var(--accent-light); color: var(--accent); }
+        .modal h2 {
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 16px;
+            color: var(--accent);
+        }
+        .modal h3 {
+            font-size: 14px;
+            font-weight: 600;
+            margin-top: 16px;
+            margin-bottom: 6px;
+            color: var(--text);
+        }
+        .modal p {
+            font-size: 13.5px;
+            color: var(--text-secondary);
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+        .modal ul {
+            font-size: 13.5px;
+            color: var(--text-secondary);
+            padding-left: 20px;
+            margin-bottom: 10px;
+            line-height: 1.7;
+        }
+        .modal .warning-box {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 12px 16px;
+            border-radius: 8px;
+            font-size: 13px;
+            color: #664d03;
+            margin-top: 16px;
+        }
+        [data-theme="dark"] .modal .warning-box {
+            background: #332b00;
+            border-left-color: #ffc107;
+            color: #f5d97a;
+        }
     </style>
 </head>
 <body>
@@ -573,6 +693,9 @@
             </div>
         </div>
         <div class="header-actions">
+            <button class="qa-btn" onclick="openQA()" title="About this application">
+                <i class="fas fa-question"></i>
+            </button>
             <button class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">
                 <i class="fas fa-moon"></i>
             </button>
@@ -583,6 +706,12 @@
         </div>
     </div>
 </header>
+
+<!-- Info Banner -->
+<div class="info-banner">
+    <div><strong><i class="fas fa-clock"></i> Showing articles from the last 48 hours</strong></div>
+    <div class="disclaimer"><i class="fas fa-info-circle"></i> This is a custom-made application designed to help monitor official channels and reputable media for the latest updates. Information should be used wisely and always validated from official sources.</div>
+</div>
 
 <!-- Navigation -->
 <nav class="nav-bar">
@@ -971,7 +1100,46 @@
     //  Init
     // ---------------------------------------------------------------
     fetchNews();
+
+    // ---------------------------------------------------------------
+    //  Q&A Modal
+    // ---------------------------------------------------------------
+    function openQA() {
+        document.getElementById('qa-modal').classList.add('visible');
+    }
+    function closeQA() {
+        document.getElementById('qa-modal').classList.remove('visible');
+    }
 </script>
+
+<!-- Q&A Modal -->
+<div class="modal-overlay" id="qa-modal" onclick="if(event.target===this)closeQA()">
+    <div class="modal">
+        <button class="modal-close" onclick="closeQA()"><i class="fas fa-times"></i></button>
+        <h2><i class="fas fa-question-circle"></i> About This Application</h2>
+
+        <h3>What is this?</h3>
+        <p>The Bahrain News & Info Hub is a custom-made application designed to help you monitor official channels and reputable media outlets for the latest news and updates related to Bahrain.</p>
+
+        <h3>What sources does it use?</h3>
+        <ul>
+            <li><strong>BNA</strong> — Bahrain News Agency (official state news agency)</li>
+            <li><strong>GDN</strong> — Gulf Daily News (leading English daily newspaper)</li>
+            <li><strong>NOB</strong> — News of Bahrain (The Daily Tribune)</li>
+        </ul>
+
+        <h3>How often is it updated?</h3>
+        <p>News articles are automatically fetched every 30 minutes around the clock. Only articles published within the <strong>last 48 hours</strong> are shown.</p>
+
+        <h3>What other information is included?</h3>
+        <p>In addition to news, the hub provides quick access to official Instagram accounts, emergency hotline numbers, government websites, and key contacts useful for residents and visitors in Bahrain.</p>
+
+        <h3>Can I trust the information here?</h3>
+        <div class="warning-box">
+            <strong><i class="fas fa-exclamation-triangle"></i> Important:</strong> This application aggregates publicly available information from reputable sources. However, it is an unofficial monitoring tool and should be used wisely. Always verify critical information directly from official government sources before acting on it.
+        </div>
+    </div>
+</div>
 
 </body>
 </html>

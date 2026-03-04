@@ -143,8 +143,8 @@ def _to_iso(date_str: str) -> str:
     return dt.isoformat()
 
 
-def _is_within_24h(iso_str: str) -> bool:
-    """Return True if the ISO date string is within the last 24 hours (or unparseable)."""
+def _is_within_48h(iso_str: str) -> bool:
+    """Return True if the ISO date string is within the last 48 hours (or unparseable)."""
     if not iso_str:
         return True  # keep articles with no date (likely recent)
     try:
@@ -153,7 +153,7 @@ def _is_within_24h(iso_str: str) -> bool:
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         now = datetime.now(tz=timezone.utc)
-        return (now - dt) <= timedelta(hours=24)
+        return (now - dt) <= timedelta(hours=48)
     except Exception:
         return True  # keep if we can't parse
 
@@ -529,10 +529,10 @@ def main():
             items = scrape_newsofbahrain()
         else:
             items = []
-        # Filter to last 24 hours only
-        recent = [a for a in items if _is_within_24h(a.get("iso_date", ""))]
+        # Filter to last 48 hours only
+        recent = [a for a in items if _is_within_48h(a.get("iso_date", ""))]
         if len(recent) < len(items):
-            print(f"({len(items)} scraped, {len(items) - len(recent)} older than 24h removed)", end=" ")
+            print(f"({len(items)} scraped, {len(items) - len(recent)} older than 48h removed)", end=" ")
         articles[key] = recent
         sources_meta[key] = {
             "name": src["name"],
