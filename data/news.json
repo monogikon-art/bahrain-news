@@ -225,40 +225,50 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Turkish defence ministry confirms interception of missile fired from Iran",
+        "link": "https://www.newsofbahrain.com/world/127869.html",
+        "published": "4 Mar 2026",
+        "iso_date": "2026-03-04T00:00:00",
+        "summary": "",
+        "image": "",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ramadan Recipe",
+        "link": "https://www.newsofbahrain.com/trends/127868.html",
+        "published": "4 Mar 2026",
+        "iso_date": "2026-03-04T00:00:00",
+        "summary": "",
+        "image": "",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The Concept of Barakah in Ramadan: Spiritual Meaning Beyond Material Prosperity",
+        "link": "https://www.newsofbahrain.com/views/127867.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India Urges Restraint, Reaffirms Solidarity with Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/127866.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Ukraine offers Gulf states air defence swap",
         "link": "https://www.newsofbahrain.com/world/127865.html",
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
-        "summary": "",
-        "image": "",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tehran resembles ghost town as bombs rain down",
-        "link": "https://www.newsofbahrain.com/world/127864.html",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
-        "summary": "",
-        "image": "",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran will not ‘automatically’ fall after Khamenei’s death, shah’s widow tells",
-        "link": "https://www.newsofbahrain.com/world/127863.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi condemns ‘unjustified’ Iran attack on US embassy in Riyadh",
-        "link": "https://www.newsofbahrain.com/world/127862.html",
-        "published": "",
-        "iso_date": "",
         "summary": "",
         "image": "",
         "source": "newsofbahrain",
@@ -305,8 +315,18 @@
         "category": "Latest"
       },
       {
-        "title": "Loan deferment proposal seeks to protect small businesses and jobs",
-        "link": "https://www.newsofbahrain.com/bahrain/127840.html",
+        "title": "Tehran resembles ghost town as bombs rain down",
+        "link": "https://www.newsofbahrain.com/world/127864.html",
+        "published": "4 Mar 2026",
+        "iso_date": "2026-03-04T00:00:00",
+        "summary": "",
+        "image": "",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran will not ‘automatically’ fall after Khamenei’s death, shah’s widow tells",
+        "link": "https://www.newsofbahrain.com/world/127863.html",
         "published": "4 Mar 2026",
         "iso_date": "2026-03-04T00:00:00",
         "summary": "",
@@ -397,26 +417,6 @@
       {
         "title": "Fasting Made Simpler for Diabetics",
         "link": "https://www.newsofbahrain.com/views/127532.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Are We Missing the Point of Fasting?",
-        "link": "https://www.newsofbahrain.com/views/127528.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "AUBH, Savvy Games Collaborate on Game Design Training",
-        "link": "https://www.newsofbahrain.com/views/127513.html",
         "published": "",
         "iso_date": "",
         "summary": "",
@@ -538,5 +538,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 12:47:10 UTC"
+  "fetched_at": "2026-03-04 13:56:07 UTC"
 }
