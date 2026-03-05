@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 10
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,16 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "The Latest: New Iranian attacks target Israel and US bases as more Israeli strikes hit Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYmo2d1lNWFRnYVlQRTU5ZGxDa01aMWRJRFF5dWF5ZWtJZXZIQkkwWWVpaGdJdGhfdV9feFBuQW91N1JhWHdZQnExZ0dhZHVxSUhmX2ROdFAtNDRvZjlmTVVjV0Z2R1YxU1hNM3VIWGNaWElXVkJHM3Vxd2pteXJhbWdqWGhlZGtEd0dNVUN3Mzd2cF9uUld4YTd5RGZ6YURQT2RiNGZHakcyaS1kM0VYdEtEUFpYaXZTdjlidmVYSlBHTDBXcFVJbVIxREwtT2Q0cnpZOUdDQWdMTnJmN1VpMDNMU2F2U3k1TkRGNzlB0gHuAUFVX3lxTE5iajZ3WU1YVGdhWVBFNTlkbENrTVoxZElEUXl1YXlla0lldkhCSTBZZWloZ0l0aF91X194UG5Bb3U3UmFYd1lCcTFnR2FkdXFJSGZfZE50UC00NG9mOWZNVWNXRnZHVjFTWE0zdUhYY1pYSVdWQkczdXF3am15cmFtZ2pYaGVka0R3R01VQ3czN3ZwX25SV3hhN3lEZnphRFBPZGI0ZkdqRzJpLWQzRVh0S0RQWlhpdlN2OWJ2ZVhKUEdMMFdwVUltUjFETC1PZDRyelk5R0NBZ0xOcmY3VWkwM0xTYXZTeTVOREY3OUE?oc=5",
-        "published": "5 Mar 2026, 03:41 AM",
-        "iso_date": "2026-03-05T03:41:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
         "published": "5 Mar 2026, 08:17 AM",
@@ -62,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iran calls for Trump’s blood, says U.S. will ‘bitterly regret’ sinking warship. Follow for live updates.",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZmc2WWh2anFhNmxyZktCR2JscVR4ZHpha3ZldXkxeWlIcEdVbGJjRTFVRnozVlp1cG5Cd1dhdDI2LVItdG1UOFU1ZUpHbTY3ZEFUTjlsTGtwSTNxXzVMMmdpQTFYTkRNSE56UUh3dmdwc3pTTlBFX2Y1OXRrMnFBZTJtejZfR25BQTUtUVpfOTBxR2xyWXFOOWVCdmZpUnJTamd2ZXRpM1Z1dlBBSWtwSThGQTFVQ2FzaGxOaGtvSHB0czkyZER4Y2ljdWdOYTFKaWlzSVRiZFgyVEY3RHc?oc=5",
-        "published": "5 Mar 2026, 01:26 PM",
-        "iso_date": "2026-03-05T13:26:54+00:00",
+        "title": "The Latest: New Iranian attacks target Israel and US bases as more Israeli strikes hit Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZURmRHlaVWJCWHFBbHdrVU9ESzQ1eTRTN25oTXpsWGZCckFRWFhiRm9JWWhSNnltanhpZ0p4RFAyRDMxeEtOM3FxdDg5b2lBYlBSdGl4UVFqT2xzX3BlRnRMRWZ1MV83R2FsYzRYVS1KWUdRZlJ3a1QwbWxiOGZiVHV2NNIBlwFBVV95cUxOTTMySlVVV3E0Q0haTG45Y1U4SEN0LTVvcmZEb2hrS2pwaEtXRGVqQXoxOTVFc1N5SldNYkZzejdvNGdaOTFZNG9pU0ZsS2lSSkw0NlF5TjVlMjg0M0ZyWkNhdG1tRVpoOWlSczZGaHp0SGhsLUtvV2Vua2lHUTBNenB1VndHRkh2THRpRmw5cTJYTFZsaVlr?oc=5",
+        "published": "5 Mar 2026, 08:27 AM",
+        "iso_date": "2026-03-05T08:27:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -124,12 +114,32 @@
     ],
     "gdn": [
       {
+        "title": "Fire caused by Iran missile strike on Bapco Energies contained",
+        "link": "https://www.gdnonline.com/Details/1377707/Fire-caused-by-Iran-missile-strike-on-Bapco-Energies-contained",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305201016websize(1)_T.jpg?20260305",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Emergency services tackle Iran attack on Ma'ameer",
         "link": "https://www.gdnonline.com/Details/1377705/Emergency-services-tackle-Iran-attack-on-Maameer",
         "published": "5 Mar 2026",
         "iso_date": "2026-03-05T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260305/20260305191734websize(1)_T.jpg?20260305",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "CBSE Grade 10 exams cancelled in Middle East; Grade 12 exams scheduled for March 7 postponed",
+        "link": "https://www.gdnonline.com/Details/1377706/CBSE-Grade-10-exams-cancelled-in-Middle-East-Grade-12-exams-scheduled-for-March-7-postponed",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305185940classroom2_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -150,26 +160,6 @@
         "iso_date": "2026-03-05T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260305/20260305121053bdf3_T.jpg?20260305",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air successfully repatriates more than 400 transit passengers impacted by regional airspace closures",
-        "link": "https://www.gdnonline.com/Details/1377684/Gulf-Air-successfully-repatriates-more-than-400-transit-passengers-impacted-by-regional-airspace-closures",
-        "published": "5 Mar 2026",
-        "iso_date": "2026-03-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305111848gulfair1(1)_T.jpg?20260305",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Embassies helping nationals affected by Iranian strikes",
-        "link": "https://www.gdnonline.com/Details/1377637/Embassies-helping-nationals-affected-by-Iranian-strikes",
-        "published": "5 Mar 2026",
-        "iso_date": "2026-03-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305004709eone_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -276,10 +266,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "King Charles III Sends Message of Solidarity to Bahrain, Condemns Iranian Attack",
-        "link": "https://www.newsofbahrain.com/bahrain/127942.html",
+        "title": "King Hamad Reviews Regional Developments with Bahrain’s Security Leaders",
+        "link": "https://www.newsofbahrain.com/bahrain/127944.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_95c4jkwFln_2026-03-05_1772736571resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Crown Prince’s Directives Ensure Relief for Homes Damaged by Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/127943.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1Y9fX4AGlO_2026-03-05_1772736364resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "King Charles III Sends Message of Solidarity to Bahrain, Condemns Iranian Attack",
+        "link": "https://www.newsofbahrain.com/bahrain/127942.html",
+        "published": "5 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-05T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_S5TFzNWkvM_2026-03-05_1772729357resized_pic.jpg",
         "source": "newsofbahrain",
@@ -288,8 +298,8 @@
       {
         "title": "GCC and EU Hold Emergency Meeting Over Iranian Attacks and Regional Escalation",
         "link": "https://www.newsofbahrain.com/bahrain/127941.html",
-        "published": "5 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-05T09:22:55+00:00",
+        "published": "5 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-05T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_N87Rmzsdbx_2026-03-05_1772729165resized_pic.jpg",
         "source": "newsofbahrain",
@@ -298,30 +308,10 @@
       {
         "title": "HRH Crown Prince Visits Civil Defence, Emergency Centers",
         "link": "https://www.newsofbahrain.com/bahrain/127940.html",
-        "published": "5 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_niPGrj1uUo_2026-03-05_1772718684resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Cyber Child Protection Unit Urges Parents to Monitor Children’s Online Activity Amid Current Tensions",
-        "link": "https://www.newsofbahrain.com/bahrain/127939.html",
-        "published": "5 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zQ4CTE0ZFI_2026-03-05_1772718535resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Successfully Intercepts Iranian Missiles and Drones",
-        "link": "https://www.newsofbahrain.com/bahrain/127938.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WshwTCojdx_2026-03-05_1772718410resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_niPGrj1uUo_2026-03-05_1772718684resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -559,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-05 18:01:03 UTC"
+  "fetched_at": "2026-03-05 19:41:47 UTC"
 }
