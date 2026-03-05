@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
+        "published": "4 Mar 2026, 11:25 PM",
+        "iso_date": "2026-03-04T23:25:43+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain opens door for volunteers to aid in wartime efforts: Statement",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHpYVUx0SklNV0VJNF9TRk1HNHRnVVVvem5RQWtwQ3o0STI5UFVVanl0WjhoWDBZb1JIWHhmdFFHODN6U2tURlBOU2FBQUVsRGVvUUdIcEJDNnh5VEdWQ085WUo3czRwWm9lRUtjYXk3MWNYRHRoYVNGOVloNmxUUm9fdzZFdE1jVFQxSWFCSUhaZlpfT1MwM3FRMm51eU5xVGRTRHF1Z0NYQ3JiaE1DQUVKR1kwcWdHWWFlcjY1N2I4WjTSAcMBQVVfeXFMTzh6WFVMdEpJTVdFSTRfU0ZNRzR0Z1VVb3puUUFrcEN6NEkyOVBVVWp5dFo4aFgwWW9SSFh4ZnRRRzgzelNrVEZQTlNhQUFFbERlb1FHSHBCQzZ4eVRHVkNPOVlKN3M0cFpvZUVLY2F5NzFjWER0aGFTRjlZaDZsVFJvX3c2RXRNY1RUMUlhQklIWmZaX09TMDNxUTJudXlOcVRkU0RxdWdDWENyYmhNQ0FFSkdZMHFnR1lhZXI2NTdiOFo0?oc=5",
@@ -62,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Al Azhar Al Sharif calls for immediate cessation of war, strongly condemns violation of Arab states’ sovereignty, attacks against their territories",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRi1lWElvNVhTYTBWQVZxZTdsQTZ3TXBFemo3SVFYcl91Z29vRjlrcXowaDNsUlV0bzN0YzJtbGdvaktQbmdJX0EtY3gzUnc3NURvcWVuNEZWODQ?oc=5",
+        "title": "General Command of Bahrain Defence Force: 73 Iranian missiles and 91 unmanned aerial vehicles destroyed",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wSDBBN0RrTTZ0VGZRdmZqcnpEYVV5Tl92V2RUVXMzS0VKcFVkd3NnbVFBeEJOZ0g0ZDR3bjFTd2dsR3Q5VnhkMDhfaWt6SzNHUVBmbnJvZEtIM1k?oc=5",
         "published": "4 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-04T11:14:49+00:00",
+        "iso_date": "2026-03-04T11:14:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -74,12 +84,12 @@
     ],
     "gdn": [
       {
-        "title": "Gergaoun festivities held despite rain and conflict",
-        "link": "https://www.gdnonline.com/Details/1377636/Gergaoun-festivities-held-despite-rain-and-conflict",
+        "title": "Rain-hit citizens urged to submit payout claims",
+        "link": "https://www.gdnonline.com/Details/1377634/Rain-hit-citizens-urged-to-submit-payout-claims",
         "published": "5 Mar 2026",
         "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260304_225133_0_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305005135onlinetwo_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -94,32 +104,32 @@
         "category": "Latest"
       },
       {
-        "title": "Embassies helping nationals affected by Iranian strikes",
-        "link": "https://www.gdnonline.com/Details/1377637/Embassies-helping-nationals-affected-by-Iranian-strikes",
+        "title": "BDF bans circulation of military information",
+        "link": "https://www.gdnonline.com/Details/1377656/BDF-bans-circulation-of-military-information-",
         "published": "5 Mar 2026",
         "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305004709eone_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305020145bdfgeneralcommand_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Rain-hit citizens urged to submit payout claims",
-        "link": "https://www.gdnonline.com/Details/1377634/Rain-hit-citizens-urged-to-submit-payout-claims",
+        "title": "Families express their loyalty to leadership",
+        "link": "https://www.gdnonline.com/Details/1377658/Families-express-their-loyalty-to-leadership",
         "published": "5 Mar 2026",
         "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305005135onlinetwo_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305020613hmkinghamad_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Man remanded over fake video post on social media",
-        "link": "https://www.gdnonline.com/Details/1377635/Man-remanded-over-fake-video-post-on-social-media",
+        "title": "Kingdom prepared to deal with medical emergencies",
+        "link": "https://www.gdnonline.com/Details/1377631/Kingdom-prepared-to-deal-with-medical-emergencies",
         "published": "5 Mar 2026",
         "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304231709remand_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260304_225111_0_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -144,22 +154,32 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Bourse witnesses marginal gain in February",
-        "link": "https://www.gdnonline.com/Details/1377444/Bahrain-Bourse-witnesses-marginal-gain-in-February",
-        "published": "3 Mar 2026",
-        "iso_date": "2026-03-03T00:00:00",
+        "title": "Newcastle beat United as Arsenal extend lead",
+        "link": "https://www.gdnonline.com/Details/1377666/Newcastle-beat-United-as-Arsenal-extend-lead",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303113803bahrainbourse_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305_021118_1_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Alba signs exclusive agreement to acquire Aluminium Dunkerque",
-        "link": "https://www.gdnonline.com/Details/1377442/Alba-signs-exclusive-agreement-to-acquire-Aluminium-Dunkerque",
-        "published": "3 Mar 2026",
-        "iso_date": "2026-03-03T00:00:00",
+        "title": "Sociedad edge past Bilbao to set up final against Atletico",
+        "link": "https://www.gdnonline.com/Details/1377665/Sociedad-edge-past-Bilbao-to-set-up-final-against-Atletico",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303_004139_0_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305_021117_0_T.jpg?20260305",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BFA issues guidelines on competitions",
+        "link": "https://www.gdnonline.com/Details/1377664/BFA-issues-guidelines-on-competitions",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305021521sport_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -184,32 +204,22 @@
         "category": "Latest"
       },
       {
-        "title": "Wolves late show stuns Liverpool",
-        "link": "https://www.gdnonline.com/Details/1377548/Wolves-late-show-stuns-Liverpool",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
+        "title": "Letâs unwind indoors!",
+        "link": "https://www.gdnonline.com/Details/1377626/Letâs-unwind-indoors",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304_022713_0_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260304_205643_0_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Atletico reach Copa del Rey final",
-        "link": "https://www.gdnonline.com/Details/1377549/Atletico-reach-Copa-del-Rey-final",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
+        "title": "Unwinding indoors",
+        "link": "https://www.gdnonline.com/Details/1377624/Unwinding-indoors",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304_022714_2_T.jpg?20260305",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "McKennie re-signs with Juventus through 2030",
-        "link": "https://www.gdnonline.com/Details/1377493/McKennie-re-signs-with-Juventus-through-2030",
-        "published": "3 Mar 2026",
-        "iso_date": "2026-03-03T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260303/20260303120041mck_T.jpg?20260305",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260304_205639_2_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-04 23:36:30 UTC"
+  "fetched_at": "2026-03-05 01:51:10 UTC"
 }
