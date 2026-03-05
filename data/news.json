@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 11
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,40 +22,20 @@
   "articles": {
     "bna": [
       {
+        "title": "Bahrain says it intercepted 75 missiles and 123 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jeHRKNXR3T2hxN19nNkc1TktSdjRNTEs4SzBaNDNhNlpYWmlIaTZWWjliQXpVTVMtcTQ2LVh3TVdvVFVEYVRvakJha1ZIV0ZOMnVJ?oc=5",
+        "published": "5 Mar 2026, 11:58 AM",
+        "iso_date": "2026-03-05T11:58:58+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
         "published": "5 Mar 2026, 08:17 AM",
         "iso_date": "2026-03-05T08:17:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain opens door for volunteers to aid in wartime efforts: Statement",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHpYVUx0SklNV0VJNF9TRk1HNHRnVVVvem5RQWtwQ3o0STI5UFVVanl0WjhoWDBZb1JIWHhmdFFHODN6U2tURlBOU2FBQUVsRGVvUUdIcEJDNnh5VEdWQ085WUo3czRwWm9lRUtjYXk3MWNYRHRoYVNGOVloNmxUUm9fdzZFdE1jVFQxSWFCSUhaZlpfT1MwM3FRMm51eU5xVGRTRHF1Z0NYQ3JiaE1DQUVKR1kwcWdHWWFlcjY1N2I4WjTSAcMBQVVfeXFMTzh6WFVMdEpJTVdFSTRfU0ZNRzR0Z1VVb3puUUFrcEN6NEkyOVBVVWp5dFo4aFgwWW9SSFh4ZnRRRzgzelNrVEZQTlNhQUFFbERlb1FHSHBCQzZ4eVRHVkNPOVlKN3M0cFpvZUVLY2F5NzFjWER0aGFTRjlZaDZsVFJvX3c2RXRNY1RUMUlhQklIWmZaX09TMDNxUTJudXlOcVRkU0RxdWdDWENyYmhNQ0FFSkdZMHFnR1lhZXI2NTdiOFo0?oc=5",
-        "published": "4 Mar 2026, 12:08 PM",
-        "iso_date": "2026-03-04T12:08:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "BAHRAIN DESTROYS 74 MISSILES, 92 IRANIAN DRONES SINCE SATURDAY",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83a0hIR3BrOEhHV1ZmVHM5QzQ5WHhiUTRTWHMzNXI4Nm43U1JSc3VOd1l3V1dxbkt6TGxEQnNSbnY5bjAwNTlSaVd0d3N5OW5tSWJEWnZtRk5wbXc?oc=5",
-        "published": "4 Mar 2026, 03:35 PM",
-        "iso_date": "2026-03-04T15:35:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "The Latest: New Iranian attacks target Israel and US bases as more Israeli strikes hit Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMGttalFmaDdoOGZBdU1UcEFyVUstNkl2MWV5MkJBLTQtdnhtbTZVRTkyMDZfMzVxTFlUMFhzQ3dpX0g2X1BoX1lTbVowWjhyc2kxZEVKbTdTbUc2ODA5WkFFVlh4ckw2aS1IZnIzZjQ2VTN6d2x5NThtRG8wRG1YVzdiTVhkRkl5QkJJc1dDYUo0WC1CdldmSDVXS3pLNGNGRTUzTnh1amFvd2ZXQ3lzMndFZzlGeHBwZzlkWEYxX3BNRWt5SXJHcUlRSXJhdngzNzJZTW40SE5STm56UGI1aHFaSURiRXVp0gHoAUFVX3lxTE0wa21qUWZoN2g4ZkF1TVRwQXJVSy02SXYxZXkyQkEtNC12eG1tNlVFOTIwNl8zNXFMWVQwWHNDd2lfSDZfUGhfWVNtWjBaOHJzaTFkRUptN1NtRzY4MDlaQUVWWHhyTDZpLUhmcjNmNDZVM3p3bHk1OG1EbzBEbVhXN2JNWGRGSXlCQklzV0NhSjRYLUJ2V2ZINVdLeks0Y0ZFNTNOeHVqYW93ZldDeXMyd0VnOUZ4cHBnOWRYRjFfcE1Fa3lJckdxSVFJcmF2eDM3MllNbjRITlJObnpQYjVocVpJRGJFdWk?oc=5",
-        "published": "5 Mar 2026, 03:27 AM",
-        "iso_date": "2026-03-05T03:27:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,6 +52,46 @@
         "category": "Latest"
       },
       {
+        "title": "BAHRAIN DESTROYS 74 MISSILES, 92 IRANIAN DRONES SINCE SATURDAY",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83a0hIR3BrOEhHV1ZmVHM5QzQ5WHhiUTRTWHMzNXI4Nm43U1JSc3VOd1l3V1dxbkt6TGxEQnNSbnY5bjAwNTlSaVd0d3N5OW5tSWJEWnZtRk5wbXc?oc=5",
+        "published": "4 Mar 2026, 03:35 PM",
+        "iso_date": "2026-03-04T15:35:28+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Defence Force: 74 Iranian missiles,117 hostile drones destroyed",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd0xWX1hwT1RkMHBzVng4d3NaVm5nb1VWc1NKNzRJNTBUa0tPZDM3SGpaeEVnMzRxdmh5YmUwNGE1NEVQWXhKaDYzQmpnbWE5NDJJTjVsbXQ3dTBUSmUtdFFvYi1oWWQwR19TR0d2cTVXVGlsdjItNlhYQzhVclc0UDRYTTFJRGFHMHU4M3Zab1hXZnZUUjVtLXMxQjZvZjJUdHpjVklfTjM1Z3RiczlXekVFbkhPNEVHMHJVUFRvU2w5Tkg3cnfSAcYBQVVfeXFMTXdMVl9YcE9UZDBwc1Z4OHdzWlZuZ29VVnNTSjc0STUwVGtLT2QzN0hqWnhFZzM0cXZoeWJlMDRhNTRFUFl4Smg2M0JqZ21hOTQySU41bG10N3UwVEplLXRRb2ItaFlkMEdfU0dHdnE1V1RpbHYyLTZYWEM4VXJXNFA0WE0xSURhRzB1ODN2Wm9YV2Z2VFI1bS1zMUI2b2YyVHR6Y1ZJX04zNWd0YnM5V3pFRW5ITzRFRzByVVBUb1NsOU5IN3J3?oc=5",
+        "published": "5 Mar 2026, 12:46 AM",
+        "iso_date": "2026-03-05T00:46:22+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "The Latest: New Iranian attacks target Israel and US bases as more Israeli strikes hit Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVE1zYW1tT1pvWVB1Vm1zSEs1bGZXZ2Mya1ZJdW50TWljNEh0TGMzWkc1R04xTVNDQ2U4akYtMVhKQUVBeGo3S01odF9MemgtQTcwNXZuLWs3M2lSd1RtUEpwOEFqNzBRTE1taDlwTUljRTNmS0dkYzVDSWhZdHRZaDd3OTRLd0U5UDVXRVl2YXlwTEtkNWtIZ0pVMlBFZnBOODV1T0lHWU1pQl9pNkNTUEJHbDVvZXdXVjlYckFIUl81amVNLVE?oc=5",
+        "published": "5 Mar 2026, 10:17 AM",
+        "iso_date": "2026-03-05T10:17:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts 75 missiles, 123 drones since Iran attacks",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0NxVXF6ekhNMXVhT1BpSG16cDhna2diZE9ta2h3bVFnbUp0RFZjY1c4MlZjemtZZU1zV0RHRXE0VkNOdGVXdm05NXFlSkVHbnRjVFFEZklNaVJvWUhUTlN5dmpsRDg2MEM0SHExdk1aZ0pCREdnNGtRemRJLTEtNVhfbDk0UGZ6bHZUWmlDOUlPREFDMW1hNkU1ZF9YRXZyV0hIYXJmblI3LXg2emE2YUZUdVlJWFE?oc=5",
+        "published": "5 Mar 2026, 10:16 AM",
+        "iso_date": "2026-03-05T10:16:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain enables volunteering to support efforts addressing hostile attacks| Gulf Times",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRU1hOFJJbEFodEpWazQwMzNTbURKVlFOdnJwZ1RCWTBjNjdZbGdIVTBMdUpfc3FJSnJwREFCZWJzanE5TUxfemtYRjdCTGs0bzlfZ0JIbzFjaW1XenJVZjRjVXpwVnYwcWtDX0dDNHp2ZkZ3Q2JseU5OT0RnQkV5RlJ0VTdFTXd2YXdNZm5RZXVRVXpGTGplaWt4SUJQLTJhaGJGUFVZUEVCNzJMU01hOFVvR181cFNjVXVhUDFKT1LSAcYBQVVfeXFMUGprVUJNRURvVmZOazNndXZ1b2VmRmhydmt1WVh1eE1vYnNxQnVaRTlmR1hnRDNhOFliSGEyaEo1MUtXeHFJQjNKckFpRFpRNy1neVppS09aTTBkVk05VHlQRkFSR1lvUzI2NHV4a0xEUEhNLUNiU0o1OGxuTGZId2ZmTHItOHlGWG1tQW9VSG5XWXk3VDMwd1h5Slk0SFV4R2I2RWVYSmxKRDhSb2o2QkxiRWxteXNmdkoxMnBOT3ZwZVNfQXJn?oc=5",
         "published": "4 Mar 2026, 02:11 PM",
@@ -82,20 +102,30 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defence Force: 74 Iranian missiles,117 hostile drones destroyed",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeG5JdWNrcGE5aTcxSlpnbVR4a0hvMWpuTWtSYU9sRm9USGhLNk5nRU9lenF6LVNBZDJGdUVhbGNBQkRYQWI3dzljZV94ZkphVFdYTnJPVTRDdWZyR3NUQnZzUHRFLVFHb2p6aVVwdXc2bnplc3NxdWh3MWN0c0dpZkpQZHZ6cWRLTVJsWEh3bkJKMHduV3l4YWpXc3l1UzNTSXQ4Rkx2Um5yNHdNeWJMeW5xd9IBxgFBVV95cUxNd0xWX1hwT1RkMHBzVng4d3NaVm5nb1VWc1NKNzRJNTBUa0tPZDM3SGpaeEVnMzRxdmh5YmUwNGE1NEVQWXhKaDYzQmpnbWE5NDJJTjVsbXQ3dTBUSmUtdFFvYi1oWWQwR19TR0d2cTVXVGlsdjItNlhYQzhVclc0UDRYTTFJRGFHMHU4M3Zab1hXZnZUUjVtLXMxQjZvZjJUdHpjVklfTjM1Z3RiczlXekVFbkhPNEVHMHJVUFRvU2w5Tkg3cnc?oc=5",
-        "published": "5 Mar 2026, 12:46 AM",
-        "iso_date": "2026-03-05T00:46:22+00:00",
+        "title": "Municipalities Minister inspects Northern and Southern Governorates post rainfall - Local News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYZ1JpQmJFLTNjTWdpTUZqa2RuaEV5bnVfa0lUMEJMOXcwcU1qMHBoLWdENklPUXR4LXlubzRBblduLUtDcERfZ2lKbjRac240QUh1ZjNvNTI2enM?oc=5",
+        "published": "4 Mar 2026, 10:56 PM",
+        "iso_date": "2026-03-04T22:56:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain condemns Iranian attacks as violation of international law, calls for global action",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeG1DYmZRcEc2eTByc09KOFdKMm9BcVhaRlJ2Qll2MGdvek45Y2pGWjB2Rjh1ajZWQnhxQlN1eTg0LThYTExtS0oyOFpXU0M0eTV1NV9GMC1INll0TnZfQTJSNndGY1FYaEdrMEZ6T2xkd3BkTk45M3l5dTR2VlhPT3Y4akZVLUJ4RFZPcEdlWFpXbXNPZk5kSDUwT21aRWswcmpHMXBDWm9wNFJ0WlMyc19xWHpyTlRRa2dQVWhKaV95VXZBdG02Y3lXTG80MTRhdDZJbjJLbmcyQdIB7wFBVV95cUxQNmtMWjQwSDVTUmNzcngyRk5YVnpqcktnMzBxaGZ3QUVURGlwaDVvWVdxcV83U2djbTQydU8waGMxdlJoUGJBTXlKQ1pRejBjSW9Gcjk2N0ZYOHRUcDZYcDV2eVhuSWJnWDZHa05tb2NseGRWWlhidFJIWThVUU5TZjRodDNZcXlLd09nOEcwMGRrZUJEdGNEemNIYUxtak52RVFZdmhFVXNFcVNna1FON0t6YnFSeFA2OUNTZ3ZKalZXWVFzRUpMdHhvcXFXWVNNZktjcXhUU0tkTFRPa0RJTFpORldYUXFIRm1KTzVhRQ?oc=5",
-        "published": "4 Mar 2026, 12:53 PM",
-        "iso_date": "2026-03-04T12:53:26+00:00",
+        "title": "Foreign Minister: Iran’s hostile attacks constitute a violation of international law and undermine regional and international peace",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sUk5GTE1KVmdjWEhZUTNVWjlFWnNBQjZVeFVEQjRsY3dLM1EtNEM1UXZFUklBbVRFMS1raVJWVUVEMVNVWFlmN2pEYmxzV1VRM0lTbGNnbkctbWs?oc=5",
+        "published": "4 Mar 2026, 10:57 PM",
+        "iso_date": "2026-03-04T22:57:40+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Social Development Minister visits Social Welfare Complex in Hamad Town - Local News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRTEFkQ3JiZkhrSFpuZ3dYYzRmQTBtME10QXVZR284MHNyMXljVUllVFBla00xbUQ3NktRNzZsQ0ZpaHQ1NzdENWpnclF1MlAzNFZKam5uck1ra28?oc=5",
+        "published": "4 Mar 2026, 04:20 PM",
+        "iso_date": "2026-03-04T16:20:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -174,6 +204,26 @@
         "category": "Latest"
       },
       {
+        "title": "Bayern's Kane to miss Gladbach game with minor injury",
+        "link": "https://www.gdnonline.com/Details/1377699/Bayerns-Kane-to-miss-Gladbach-game-with-minor-injury-",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305143431kane1_T.jpg?20260305",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Travel chaos threatens Iraq's participation in World Cup playoffs",
+        "link": "https://www.gdnonline.com/Details/1377691/Travel-chaos-threatens-Iraqs-participation-in-World-Cup-playoffs",
+        "published": "5 Mar 2026",
+        "iso_date": "2026-03-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305140024iraq1(2)_T.jpg?20260305",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Griezmann puts potential MLS move on hold",
         "link": "https://www.gdnonline.com/Details/1377687/Griezmann-puts-potential-MLS-move-on-hold",
         "published": "5 Mar 2026",
@@ -200,26 +250,6 @@
         "iso_date": "2026-03-05T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260305/20260305_021117_0_T.jpg?20260305",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BFA issues guidelines on competitions",
-        "link": "https://www.gdnonline.com/Details/1377664/BFA-issues-guidelines-on-competitions",
-        "published": "5 Mar 2026",
-        "iso_date": "2026-03-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305021521sport_T.jpg?20260305",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "More Asian Champions League matches in Middle East postponed indefinitely",
-        "link": "https://www.gdnonline.com/Details/1377575/More-Asian-Champions-League-matches-in-Middle-East-postponed-indefinitely",
-        "published": "4 Mar 2026",
-        "iso_date": "2026-03-04T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304105125champ1_T.jpg?20260305",
         "source": "gdn",
         "category": "Latest"
       },
@@ -256,58 +286,78 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Shura to Debate Kuwait Fund Loan for Sh. Jaber Al Sabah Highway Upgrade",
-        "link": "https://www.newsofbahrain.com/bahrain/127929.html",
+        "title": "HM King Hamad Approves Law to Establish Global Dates Research Centre in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/127935.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OHJ3E6SXfg_2026-03-05_1772710205resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ymv05yZxp8_2026-03-05_1772714987resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "20,000 Volunteers Join National Campaign Within Hours",
-        "link": "https://www.newsofbahrain.com/bahrain/127928.html",
+        "title": "Six Injured in Abu Dhabi After Debris Falls From Intercepted Drone",
+        "link": "https://www.newsofbahrain.com/world/127934.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_flUemrwoxK_2026-03-05_1772709474resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uOkHUyAeWJ_2026-03-05_1772712652resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Ali Al Aradi Urges Public to Follow Official Guidance After Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/127927.html",
+        "title": "Gulf Air Repatriates Over 400 Transit Passengers",
+        "link": "https://www.newsofbahrain.com/bahrain/127933.html",
         "published": "5 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-05T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z14Kd5rYBx_2026-03-05_1772709223resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZGFxSwU76k_2026-03-05_1772712619resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "“I’d Beat My Chest with Pride” UK Ambassador Applauds Bahrain’s Defense Efforts",
+        "link": "https://www.newsofbahrain.com/bahrain/127932.html",
+        "published": "5 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hNusW35BDz_2026-03-05_1772712322resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Nine Thai Nationals Safely Return Home After Embassy-Assisted Journey from Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/127931.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ArQOstyCBE_2026-03-05_1772711170resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Capital Trustees Board Tracks Rainwater Pooling Across Manama",
+        "link": "https://www.newsofbahrain.com/bahrain/127930.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_T5BINZCzHm_2026-03-05_1772710386thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Michelangelo's works hidden in 'secret room', researcher says",
         "link": "https://www.newsofbahrain.com/world/127926.html",
-        "published": "5 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_16F2bz5DAr_2026-03-05_1772708868resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US orders non-emergency consular staff in Karachi, Lahore to leave",
-        "link": "https://www.newsofbahrain.com/bahrain/127925.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_S9RUgrbZDK_2026-03-05_1772708275resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_16F2bz5DAr_2026-03-05_1772708868thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "NATO condemns Iran's 'targeting' of Turkey after missile downed",
-        "link": "https://www.newsofbahrain.com/bahrain/127924.html",
+        "link": "https://www.newsofbahrain.com/world/127924.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
@@ -322,26 +372,6 @@
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zOnwyNmeGS_2026-03-05_1772705420thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Azerbaijan Says Iranian Drone Hit Airport Near Border",
-        "link": "https://www.newsofbahrain.com/world/127916.html",
-        "published": "5 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jLJq0ZSckC_2026-03-05_1772704821thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Italy to Send Air Defense Aid to Gulf Countries, Meloni Says",
-        "link": "https://www.newsofbahrain.com/world/127915.html",
-        "published": "5 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4dTvPgX3rm_2026-03-05_1772703864thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +569,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-05 11:31:42 UTC"
+  "fetched_at": "2026-03-05 12:54:10 UTC"
 }
