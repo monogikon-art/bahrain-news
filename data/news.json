@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -72,10 +72,40 @@
         "category": "Latest"
       },
       {
+        "title": "Al Azhar Al Sharif calls for immediate cessation of war, strongly condemns violation of Arab states’ sovereignty, attacks against their territories",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRi1lWElvNVhTYTBWQVZxZTdsQTZ3TXBFemo3SVFYcl91Z29vRjlrcXowaDNsUlV0bzN0YzJtbGdvaktQbmdJX0EtY3gzUnc3NURvcWVuNEZWODQ?oc=5",
+        "published": "4 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-04T11:14:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "General Command of Bahrain Defence Force: 73 Iranian missiles and 91 unmanned aerial vehicles destroyed",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wSDBBN0RrTTZ0VGZRdmZqcnpEYVV5Tl92V2RUVXMzS0VKcFVkd3NnbVFBeEJOZ0g0ZDR3bjFTd2dsR3Q5VnhkMDhfaWt6SzNHUVBmbnJvZEtIM1k?oc=5",
         "published": "4 Mar 2026, 11:14 AM",
         "iso_date": "2026-03-04T11:14:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar sends 2nd identical message to UN, UNSC concerning Iranian attack on its territory",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FbkVpVndRS05UOWU5M3RWZmNPTm5LakRiZmlzb0VmdFBuSndoOXZyUWdoMGV4MlJFWmhqNGpPWkxpakZiOUZScXJ1aDJmYzZGYWZxaTlvYXRSRkU?oc=5",
+        "published": "4 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-04T11:14:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE condemns Iranian attacks, reserves right to respond at Human Rights Council - GCC News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YklWWU1teEppQlZtWDkxTmtYT0lWMFFvRnpKR1pqclpVVUNCX2NrcWNUcGhtQ1ZTcS1kc0tzR0lHOW5zOHdQUDIxUFdwTS1RemR1aTNWTlpHRDA?oc=5",
+        "published": "4 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-04T11:14:31+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,92 +266,92 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Hosts Critical GCC Security Talks to Protect Citizens and Residents",
-        "link": "https://www.newsofbahrain.com/bahrain/127875.html",
+        "title": "Qatar Airways Launches Limited Relief Flights for Stranded Passengers",
+        "link": "https://www.newsofbahrain.com/world/127887.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nRmENUAa2W_2026-03-05_1772687501resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9ATFNZfOQY_2026-03-05_1772692564resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defense Forces Successfully Intercept Dozens of Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/127874.html",
+        "title": "Shura member urges unity as Bahrain steps up security readiness",
+        "link": "https://www.newsofbahrain.com/bahrain/127886.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jGn8oMB2kD_2026-03-04_1772659894resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i6EFKf9yZH_2026-03-05_1772692489resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Think Before You Order",
+        "link": "https://www.newsofbahrain.com/bahrain/127885.html",
+        "published": "5 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lXV12MfOKI_2026-03-05_1772692124resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Headline- Protecting Our Children’s Peace",
+        "link": "https://www.newsofbahrain.com/bahrain/127884.html",
+        "published": "5 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3EB6PpcbSQ_2026-03-05_1772691970resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Southern Municipal Council Holds Online Session, Approves Service Proposals",
+        "link": "https://www.newsofbahrain.com/bahrain/127883.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sColwXQBjY_2026-03-05_1772691651resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "More Than 400 Bahraini Families Affirm Loyalty to Kingdom’s Leadership",
+        "link": "https://www.newsofbahrain.com/bahrain/127882.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f8dx7KzetY_2026-03-05_1772691384thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "China to Send Special Envoy to Middle East to Mediate Israel–U.S.–Iran Conflict",
+        "link": "https://www.newsofbahrain.com/world/127881.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nmoHGOkiY8_2026-03-05_1772691156thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "U.S. Forces Intensify Operations Against Iran as Naval Pressure Mounts",
+        "link": "https://www.newsofbahrain.com/world/127876.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GXrzLkEyhc_2026-03-05_1772689133thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "US Submarine Torpedo Sinks Iranian Warship Near Sri Lanka, Dozens Killed",
         "link": "https://www.newsofbahrain.com/world/127873.html",
-        "published": "4 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uOqFhVK9ST_2026-03-04_1772657574resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar PM: Iranian Strikes Hit Civilian and Industrial Areas, Not Just US Interests",
-        "link": "https://www.newsofbahrain.com/world/127872.html",
-        "published": "4 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J872m9dqBz_2026-03-04_1772651013resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ministry of Interior Arrests Four for Misusing Social Media",
-        "link": "https://www.newsofbahrain.com/bahrain/127871.html",
         "published": "4 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YPVZ8WnabF_2026-03-04_1772647775resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Embassy Prepares Repatriation of Bangladeshi Worker Killed in Manama",
-        "link": "https://www.newsofbahrain.com/bahrain/127870.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_daeTfJwNcG_2026-03-04_1772636455thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India Urges Restraint, Reaffirms Solidarity with Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/127866.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aAfjnzZlHT_2026-03-04_1772628455thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Turkish defence ministry confirms interception of missile fired from Iran",
-        "link": "https://www.newsofbahrain.com/world/127869.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ruz5cRkQWn_2026-03-04_1772629435thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ukraine offers Gulf states air defence swap",
-        "link": "https://www.newsofbahrain.com/world/127865.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nGd5v0zut8_2026-03-04_1772628235thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uOqFhVK9ST_2026-03-04_1772657574thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-05 05:30:41 UTC"
+  "fetched_at": "2026-03-05 06:46:21 UTC"
 }
