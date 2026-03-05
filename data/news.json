@@ -63,7 +63,7 @@
       },
       {
         "title": "Iran Attacks a Violation of International Law, Bahrain's FM Says",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUNEeTdKTnVFcG9KV0lPd0NmSkExRC1LYjlwcUE0a1RleDZOTHMtWDFlVlNHemFvN01VbnpxUXh4RklCajc4Vzk0dV9NTWE5MDBBU2c4YndBMW9BQ2NzbVFUV0JGdGx4NWxZZi1TSXkwZ1o5aWktejRyR0o5eDVQc1l0dW5VMTl0WnBZSmFfMzBaSXlFLWpUYUJ5MjM3X1JFMzB0Qm1kOGxaVG5w?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXFqRXhFYnFpRDU0RnR6ZFJxeE1QLVpnMGtrdUZuLWh5ZEJXLUNLdDRSMWtJNHgyRF9YdEM2MlJLOWtQdzVzQ2FVSVg4d19sRkp2eW5KQzl4ckVGdHF6Y0VYUlg4MkZiLWlDT0laOWMxaGpBR0lpWHFaUlJZaGc3WDVucnNxZGgxbkg2S200LW1PRnhXTHFKOFFOUWRMLVpXNkFrR2ZPQVJtNXhGZUF6V2t3MF8xbWFNdUx3UA?oc=5",
         "published": "4 Mar 2026, 09:13 AM",
         "iso_date": "2026-03-04T09:13:38+00:00",
         "summary": "",
@@ -236,6 +236,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Hosts Critical GCC Security Talks to Protect Citizens and Residents",
+        "link": "https://www.newsofbahrain.com/bahrain/127875.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nRmENUAa2W_2026-03-05_1772687501resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Defense Forces Successfully Intercept Dozens of Iranian Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/127874.html",
         "published": "5 Mar 2026, 09:22 AM",
@@ -248,8 +258,8 @@
       {
         "title": "US Submarine Torpedo Sinks Iranian Warship Near Sri Lanka, Dozens Killed",
         "link": "https://www.newsofbahrain.com/world/127873.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
+        "published": "4 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uOqFhVK9ST_2026-03-04_1772657574resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +278,8 @@
       {
         "title": "Ministry of Interior Arrests Four for Misusing Social Media",
         "link": "https://www.newsofbahrain.com/bahrain/127871.html",
-        "published": "4 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-04T09:00:43+00:00",
+        "published": "4 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_YPVZ8WnabF_2026-03-04_1772647775resized_pic.jpg",
         "source": "newsofbahrain",
@@ -281,7 +291,7 @@
         "published": "4 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_daeTfJwNcG_2026-03-04_1772636455resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_daeTfJwNcG_2026-03-04_1772636455thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +302,6 @@
         "iso_date": "2026-03-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_aAfjnzZlHT_2026-03-04_1772628455thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Emergency Teams Respond to Rainfall, Minister Inspects Northern and Southern Governorates",
-        "link": "https://www.newsofbahrain.com/bahrain/127861.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SMfDu5O0h3_2026-03-04_1772626218thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-05 04:10:17 UTC"
+  "fetched_at": "2026-03-05 05:30:41 UTC"
 }
