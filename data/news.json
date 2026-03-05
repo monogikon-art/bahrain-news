@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -33,9 +33,9 @@
       },
       {
         "title": "The Latest: New Iranian attacks target Israel and US bases as more Israeli strikes hit Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYmo2d1lNWFRnYVlQRTU5ZGxDa01aMWRJRFF5dWF5ZWtJZXZIQkkwWWVpaGdJdGhfdV9feFBuQW91N1JhWHdZQnExZ0dhZHVxSUhmX2ROdFAtNDRvZjlmTVVjV0Z2R1YxU1hNM3VIWGNaWElXVkJHM3Vxd2pteXJhbWdqWGhlZGtEd0dNVUN3Mzd2cF9uUld4YTd5RGZ6YURQT2RiNGZHakcyaS1kM0VYdEtEUFpYaXZTdjlidmVYSlBHTDBXcFVJbVIxREwtT2Q0cnpZOUdDQWdMTnJmN1VpMDNMU2F2U3k1TkRGNzlB0gHuAUFVX3lxTE5iajZ3WU1YVGdhWVBFNTlkbENrTVoxZElEUXl1YXlla0lldkhCSTBZZWloZ0l0aF91X194UG5Bb3U3UmFYd1lCcTFnR2FkdXFJSGZfZE50UC00NG9mOWZNVWNXRnZHVjFTWE0zdUhYY1pYSVdWQkczdXF3am15cmFtZ2pYaGVka0R3R01VQ3czN3ZwX25SV3hhN3lEZnphRFBPZGI0ZkdqRzJpLWQzRVh0S0RQWlhpdlN2OWJ2ZVhKUEdMMFdwVUltUjFETC1PZDRyelk5R0NBZ0xOcmY3VWkwM0xTYXZTeTVOREY3OUE?oc=5",
-        "published": "5 Mar 2026, 03:41 AM",
-        "iso_date": "2026-03-05T03:41:37+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMGttalFmaDdoOGZBdU1UcEFyVUstNkl2MWV5MkJBLTQtdnhtbTZVRTkyMDZfMzVxTFlUMFhzQ3dpX0g2X1BoX1lTbVowWjhyc2kxZEVKbTdTbUc2ODA5WkFFVlh4ckw2aS1IZnIzZjQ2VTN6d2x5NThtRG8wRG1YVzdiTVhkRkl5QkJJc1dDYUo0WC1CdldmSDVXS3pLNGNGRTUzTnh1amFvd2ZXQ3lzMndFZzlGeHBwZzlkWEYxX3BNRWt5SXJHcUlRSXJhdngzNzJZTW40SE5STm56UGI1aHFaSURiRXVp0gHoAUFVX3lxTE0wa21qUWZoN2g4ZkF1TVRwQXJVSy02SXYxZXkyQkEtNC12eG1tNlVFOTIwNl8zNXFMWVQwWHNDd2lfSDZfUGhfWVNtWjBaOHJzaTFkRUptN1NtRzY4MDlaQUVWWHhyTDZpLUhmcjNmNDZVM3p3bHk1OG1EbzBEbVhXN2JNWGRGSXlCQklzV0NhSjRYLUJ2V2ZINVdLeks0Y0ZFNTNOeHVqYW93ZldDeXMyd0VnOUZ4cHBnOWRYRjFfcE1Fa3lJckdxSVFJcmF2eDM3MllNbjRITlJObnpQYjVocVpJRGJFdWk?oc=5",
+        "published": "5 Mar 2026, 03:27 AM",
+        "iso_date": "2026-03-05T03:27:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -82,20 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "Municipalities Minister inspects Northern and Southern Governorates post rainfall - Local News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYZ1JpQmJFLTNjTWdpTUZqa2RuaEV5bnVfa0lUMEJMOXcwcU1qMHBoLWdENklPUXR4LXlubzRBblduLUtDcERfZ2lKbjRac240QUh1ZjNvNTI2enM?oc=5",
-        "published": "4 Mar 2026, 10:56 PM",
-        "iso_date": "2026-03-04T22:56:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Foreign Minister: Iran’s hostile attacks constitute a violation of international law and undermine regional and international peace",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sUk5GTE1KVmdjWEhZUTNVWjlFWnNBQjZVeFVEQjRsY3dLM1EtNEM1UXZFUklBbVRFMS1raVJWVUVEMVNVWFlmN2pEYmxzV1VRM0lTbGNnbkctbWs?oc=5",
-        "published": "4 Mar 2026, 10:57 PM",
-        "iso_date": "2026-03-04T22:57:40+00:00",
+        "title": "Bahrain Announces Control of Fire at Ma'ameer Facility Targeted by Iran",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRF9TME54TkVzaG9EbmRfZ0szSHotTXR1a3oyMXExOEIwOWZKdnZfVUZYWGtxWTZwdEs1OVVSYXBoenNQcGlIbVVRRmgxTGo4bUxaNEpoWm85RWlGYzd2S1BETEVJM05odG9hczFuNDJJNTlEVHUyeWdLd19SUVY0bEV0Uks3d2NWOXN5Q3o1Q1A?oc=5",
+        "published": "5 Mar 2026, 06:45 PM",
+        "iso_date": "2026-03-05T18:45:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -114,32 +104,22 @@
     ],
     "gdn": [
       {
-        "title": "Government to repair damaged homes of citizens in East Hidd City",
-        "link": "https://www.gdnonline.com/Details/1377713/Government-to-repair-damaged-homes-of-citizens-in-East-Hidd-City-",
+        "title": "Medical law amendment urged to allow abortion in exceptional cases",
+        "link": "https://www.gdnonline.com/Details/1377708/Medical-law-amendment-urged-to-allow-abortion-in-exceptional-cases",
         "published": "6 Mar 2026",
         "iso_date": "2026-03-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260305_230620_3_T.jpg?20260306",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306011833msqass_T.jpg?20260306",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Gulf Air repatriates 400 transit passengers",
-        "link": "https://www.gdnonline.com/Details/1377715/Gulf-Air-repatriates-400-transit-passengers",
+        "title": "Shura set to endorse financing plan for highway expansion",
+        "link": "https://www.gdnonline.com/Details/1377709/Shura-set-to-endorse-financing-plan-for-highway-expansion",
         "published": "6 Mar 2026",
         "iso_date": "2026-03-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260305_230623_2.jpeg?20260306",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Readiness of food supply chains reviewed",
-        "link": "https://www.gdnonline.com/Details/1377716/Readiness-of-food-supply-chains-reviewed",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260305_230624_0_T.jpg?20260306",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260305_220900_0_T.jpg?20260306",
         "source": "gdn",
         "category": "Latest"
       },
@@ -154,12 +134,32 @@
         "category": "Latest"
       },
       {
-        "title": "Shura set to endorse financing plan for highway expansion",
-        "link": "https://www.gdnonline.com/Details/1377709/Shura-set-to-endorse-financing-plan-for-highway-expansion",
+        "title": "Virtual civil court hearings",
+        "link": "https://www.gdnonline.com/Details/1377712/Virtual-civil-court-hearings",
         "published": "6 Mar 2026",
         "iso_date": "2026-03-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260305_220900_0_T.jpg?20260306",
+        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305234844websize(2)_T.jpg?20260306",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Government to repair damaged homes of citizens in East Hidd City",
+        "link": "https://www.gdnonline.com/Details/1377713/Government-to-repair-damaged-homes-of-citizens-in-East-Hidd-City-",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260305_230620_3_T.jpg?20260306",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "SNIC announces BD12.41m insurance revenue in 2025",
+        "link": "https://www.gdnonline.com/Details/1377728/SNIC-announces-BD1241m-insurance-revenue-in-2025",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306003627msfk_T.jpg?20260306",
         "source": "gdn",
         "category": "Latest"
       },
@@ -549,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-05 22:28:04 UTC"
+  "fetched_at": "2026-03-05 23:40:13 UTC"
 }
