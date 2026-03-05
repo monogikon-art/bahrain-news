@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 16
     }
   },
   "articles": {
@@ -53,9 +53,9 @@
       },
       {
         "title": "Bahrain Destroys 74 Missiles, 92 Iranian Drones Since Saturday",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sNzBNVXg0SGR0WjVsZWRYLXl3M3dXTUVSaWJRT0d5dmtFQWFmZTFmYVVVR1FZcVhRbWxBU05WMDNOSVA3N0RadDFGQXlLNkRYajFqOGlQLUdabG5vYkdUZVNB?oc=5",
-        "published": "4 Mar 2026, 07:14 AM",
-        "iso_date": "2026-03-04T07:14:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxVlg5TGV2Q0EwQk82Y3paTDRaVkFZb3dhVDZVSGFRQmRnNVcxUnp4NV83ekVEOVVKSHRqTW4wb3poal95WU1VZXZzaGxMby1RZXJWWnl6a2ZCUHRoZl80bGhR?oc=5",
+        "published": "4 Mar 2026, 12:15 PM",
+        "iso_date": "2026-03-04T12:15:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -86,26 +86,6 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wSDBBN0RrTTZ0VGZRdmZqcnpEYVV5Tl92V2RUVXMzS0VKcFVkd3NnbVFBeEJOZ0g0ZDR3bjFTd2dsR3Q5VnhkMDhfaWt6SzNHUVBmbnJvZEtIM1k?oc=5",
         "published": "4 Mar 2026, 11:14 AM",
         "iso_date": "2026-03-04T11:14:39+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar sends 2nd identical message to UN, UNSC concerning Iranian attack on its territory",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FbkVpVndRS05UOWU5M3RWZmNPTm5LakRiZmlzb0VmdFBuSndoOXZyUWdoMGV4MlJFWmhqNGpPWkxpakZiOUZScXJ1aDJmYzZGYWZxaTlvYXRSRkU?oc=5",
-        "published": "4 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-04T11:14:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE condemns Iranian attacks, reserves right to respond at Human Rights Council - GCC News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YklWWU1teEppQlZtWDkxTmtYT0lWMFFvRnpKR1pqclpVVUNCX2NrcWNUcGhtQ1ZTcS1kc0tzR0lHOW5zOHdQUDIxUFdwTS1RemR1aTNWTlpHRDA?oc=5",
-        "published": "4 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-04T11:14:31+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,12 +246,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Qatar Airways Launches Limited Relief Flights for Stranded Passengers",
-        "link": "https://www.newsofbahrain.com/world/127887.html",
+        "title": "Kuwait Says Tanker Explosion Happened Outside Its Territorial Waters",
+        "link": "https://www.newsofbahrain.com/world/127895.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9ATFNZfOQY_2026-03-05_1772692564resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eiudmCZOJ4_2026-03-05_1772695961resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain urges residents to register as ‘frontliners’ to assist in vital sectors",
+        "link": "https://www.newsofbahrain.com/bahrain/127894.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jl4J5kCdLg_2026-03-05_1772695776resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King receives full support from Ukraine",
+        "link": "https://www.newsofbahrain.com/bahrain/127893.html",
+        "published": "5 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F1Q2jnqH35_2026-03-05_1772695591resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq, Riffa Resume Football Preparations",
+        "link": "https://www.newsofbahrain.com/sports/127892.html",
+        "published": "5 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ahSv4Qx76C_2026-03-05_1772694200resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Buitrago Powers Bahrain Victorious to Laigueglia Win",
+        "link": "https://www.newsofbahrain.com/sports/127891.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6ASciNlZkW_2026-03-05_1772693950resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Follow Official Alerts",
+        "link": "https://www.newsofbahrain.com/bahrain/127889.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LteWbTHCNd_2026-03-05_1772693563thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -281,47 +311,37 @@
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i6EFKf9yZH_2026-03-05_1772692489resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i6EFKf9yZH_2026-03-05_1772692489thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Think Before You Order",
         "link": "https://www.newsofbahrain.com/bahrain/127885.html",
-        "published": "5 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lXV12MfOKI_2026-03-05_1772692124resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Headline- Protecting Our Children’s Peace",
-        "link": "https://www.newsofbahrain.com/bahrain/127884.html",
-        "published": "5 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3EB6PpcbSQ_2026-03-05_1772691970resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Southern Municipal Council Holds Online Session, Approves Service Proposals",
-        "link": "https://www.newsofbahrain.com/bahrain/127883.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sColwXQBjY_2026-03-05_1772691651resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lXV12MfOKI_2026-03-05_1772692124thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "More Than 400 Bahraini Families Affirm Loyalty to Kingdom’s Leadership",
-        "link": "https://www.newsofbahrain.com/bahrain/127882.html",
+        "title": "Qatar Evacuates Residents Near U.S. Embassy in Doha as Precaution",
+        "link": "https://www.newsofbahrain.com/world/127888.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f8dx7KzetY_2026-03-05_1772691384thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_29Syu1KFPt_2026-03-05_1772693486thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar Airways Launches Limited Relief Flights for Stranded Passengers",
+        "link": "https://www.newsofbahrain.com/world/127887.html",
+        "published": "5 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9ATFNZfOQY_2026-03-05_1772692564thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,26 +352,6 @@
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_nmoHGOkiY8_2026-03-05_1772691156thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "U.S. Forces Intensify Operations Against Iran as Naval Pressure Mounts",
-        "link": "https://www.newsofbahrain.com/world/127876.html",
-        "published": "5 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GXrzLkEyhc_2026-03-05_1772689133thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Submarine Torpedo Sinks Iranian Warship Near Sri Lanka, Dozens Killed",
-        "link": "https://www.newsofbahrain.com/world/127873.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uOqFhVK9ST_2026-03-04_1772657574thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -519,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-05 06:46:21 UTC"
+  "fetched_at": "2026-03-05 07:40:00 UTC"
 }
