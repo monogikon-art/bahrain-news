@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 18
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jeHRKNXR3T2hxN19nNkc1TktSdjRNTEs4SzBaNDNhNlpYWmlIaTZWWjliQXpVTVMtcTQ2LVh3TVdvVFVEYVRvakJha1ZIV0ZOMnVJ?oc=5",
         "published": "5 Mar 2026, 11:58 AM",
         "iso_date": "2026-03-05T11:58:58+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, US, UK hold emergency security talks over Iran threat",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREZEdHUzbHpYRkNnVF9OY2JxaUhVX01BNmJGMnljQnlGQWN0LVEyQXZrX2xxdzUwRC1BR193cDJwUlFLbXdsb096MXphMDFuREs3TDhHYjN2bmwxOHMyUmd2QUZxWVhZcWdFNTB1cVEyeXRwY1VWM1JRSU1odHZVZ3dEV0xfdTE4SWUzWDk1bC12NE0?oc=5",
+        "published": "6 Mar 2026, 06:39 AM",
+        "iso_date": "2026-03-06T06:39:42+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 75 missiles, 123 drones since Iran attacks",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0NxVXF6ekhNMXVhT1BpSG16cDhna2diZE9ta2h3bVFnbUp0RFZjY1c4MlZjemtZZU1zV0RHRXE0VkNOdGVXdm05NXFlSkVHbnRjVFFEZklNaVJvWUhUTlN5dmpsRDg2MEM0SHExdk1aZ0pCREdnNGtRemRJLTEtNVhfbDk0UGZ6bHZUWmlDOUlPREFDMW1hNkU1ZF9YRXZyV0hIYXJmblI3LXg2emE2YUZUdVlJWFE?oc=5",
-        "published": "5 Mar 2026, 10:16 AM",
-        "iso_date": "2026-03-05T10:16:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "The Latest: New Iranian attacks target Israel and US bases as more Israeli strikes hit Lebanon",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZURmRHlaVWJCWHFBbHdrVU9ESzQ1eTRTN25oTXpsWGZCckFRWFhiRm9JWWhSNnltanhpZ0p4RFAyRDMxeEtOM3FxdDg5b2lBYlBSdGl4UVFqT2xzX3BlRnRMRWZ1MV83R2FsYzRYVS1KWUdRZlJ3a1QwbWxiOGZiVHV2NNIBlwFBVV95cUxOTTMySlVVV3E0Q0haTG45Y1U4SEN0LTVvcmZEb2hrS2pwaEtXRGVqQXoxOTVFc1N5SldNYkZzejdvNGdaOTFZNG9pU0ZsS2lSSkw0NlF5TjVlMjg0M0ZyWkNhdG1tRVpoOWlSczZGaHp0SGhsLUtvV2Vua2lHUTBNenB1VndHRkh2THRpRmw5cTJYTFZsaVlr?oc=5",
         "published": "5 Mar 2026, 08:27 AM",
@@ -62,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "GCC, EU to hold emergency talks on escalating Middle East crisis",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWpNcFFQczdyOW50c1pEY2c4eGwxMEpzOGc3T1UxTEg4UTBIV0dMOVV2Q3Q3Mk13clZ0WEYwSlpyazZta3NXSzc4MUdQVEQtemhDRmlRSHEzMk44MUVjc2MwLXRBMzdJRm1zUVJsS0s1RFRUOXZ5WkwzRnBOMG5vM0pSVm9nUDd6SkpzVXlxaW1RQmFV?oc=5",
-        "published": "5 Mar 2026, 07:22 AM",
-        "iso_date": "2026-03-05T07:22:49+00:00",
+        "title": "Bahrain intercepts 75 missiles, 123 drones since Iran attacks",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0NxVXF6ekhNMXVhT1BpSG16cDhna2diZE9ta2h3bVFnbUp0RFZjY1c4MlZjemtZZU1zV0RHRXE0VkNOdGVXdm05NXFlSkVHbnRjVFFEZklNaVJvWUhUTlN5dmpsRDg2MEM0SHExdk1aZ0pCREdnNGtRemRJLTEtNVhfbDk0UGZ6bHZUWmlDOUlPREFDMW1hNkU1ZF9YRXZyV0hIYXJmblI3LXg2emE2YUZUdVlJWFE?oc=5",
+        "published": "5 Mar 2026, 10:16 AM",
+        "iso_date": "2026-03-05T10:16:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,6 +246,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Al Hilal Healthcare Group Continues Ramadan Tradition with Nationwide Iftar Kit Distribution",
+        "link": "https://www.newsofbahrain.com/bahrain/127954.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MPyRmjWaeo_2026-03-06_1772780820resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Moves Forward with KD 70 Million Sheikh Jaber Street Project Financing",
+        "link": "https://www.newsofbahrain.com/bahrain/127953.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F6LYkuPSsj_2026-03-06_1772780437resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Khalifa Bin Salman Cup Quarterfinals Get Underway",
+        "link": "https://www.newsofbahrain.com/sports/127952.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZXYFbOPJq_2026-03-06_1772780217resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Empty Majlis, Heavy Hearts This Ramadan",
+        "link": "https://www.newsofbahrain.com/bahrain/127951.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e5fIwRDQqX_2026-03-06_1772779295resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Civil Court Sessions to Resume Online After Temporary Suspension",
         "link": "https://www.newsofbahrain.com/bahrain/127950.html",
         "published": "6 Mar 2026, 09:22 AM",
@@ -261,37 +301,7 @@
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vHJ1CrX24N_2026-03-06_1772778884resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Air Defenses Intercept 78 Missiles and 129 Drones Amid Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/127948.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6vPo4nNzLJ_2026-03-06_1772773929resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, Kuwait Crown Princes Discuss Regional Security in Phone Call",
-        "link": "https://www.newsofbahrain.com/bahrain/127947.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JlkvumBCF3_2026-03-06_1772772890resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, U.S., and U.K. Hold Exceptional Security Consultations Under C-SIPA",
-        "link": "https://www.newsofbahrain.com/bahrain/127946.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lUikAL63ER_2026-03-06_1772758083resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vHJ1CrX24N_2026-03-06_1772778884thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 06:42:31 UTC"
+  "fetched_at": "2026-03-06 07:36:30 UTC"
 }
