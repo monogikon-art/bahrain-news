@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,20 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
-        "published": "5 Mar 2026, 04:21 PM",
-        "iso_date": "2026-03-05T16:21:24+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iranian drones strike apartments, hotel in city that’s home to NSA Bahrain",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSDVKZHpZY29JZGJwZDNqWGtGUHNaMEZSMHV3Q2NScmY1UDlDVExZempmb3g1UTRabEkzbHVMdkFaYk4zb1E3eXh4b1hlN2FvUVNHNVJnNDJzSmhhVHE0aUhvMnVSYXlfRElKX1hXUFFhekt6akh5Yk1TOHI1Y0lSTkVTM21hOVVma3pEQVRCQ1pOdw?oc=5",
-        "published": "6 Mar 2026, 11:19 AM",
-        "iso_date": "2026-03-06T11:19:25+00:00",
+        "published": "6 Mar 2026, 11:22 AM",
+        "iso_date": "2026-03-06T11:22:59+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -529,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 15:34:55 UTC"
+  "fetched_at": "2026-03-06 16:37:00 UTC"
 }
