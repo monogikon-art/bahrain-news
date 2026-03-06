@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 17
     }
   },
   "articles": {
@@ -26,6 +26,26 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jeHRKNXR3T2hxN19nNkc1TktSdjRNTEs4SzBaNDNhNlpYWmlIaTZWWjliQXpVTVMtcTQ2LVh3TVdvVFVEYVRvakJha1ZIV0ZOMnVJ?oc=5",
         "published": "5 Mar 2026, 11:58 AM",
         "iso_date": "2026-03-05T11:58:58+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Holds Extraordinary Consultations with US, UK Under C-SIPA Security Integration Agreement",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdDE0dTRQVUwxUlg5QmYtdUYxQ2JkVGtHclZxTVAyS2hXbkZKZjdBaG1TdjE1LW9ZR0hCYzRtZGowWXM5Y252X1hVMmxpalVSM0FOME9mT1RPeHUtUWx3Mm9yWlV0OXExazIteFJhV2dpVHpwdVhtTUxSMlRJdkh6cjltQWtFc1p2XzQwRy15N1R5VWhVQXhsU0FQNl9Gckt0cndPc2pRQ0psVUdzSlhkbkZnV1E5bkdLVzZINXJQQW9zVHZiWFp3YmRuT2lTT1AyVkgzbnZqUklvdw?oc=5",
+        "published": "6 Mar 2026, 08:30 AM",
+        "iso_date": "2026-03-06T08:30:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
+        "published": "5 Mar 2026, 04:21 PM",
+        "iso_date": "2026-03-05T16:21:24+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,26 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
-        "published": "5 Mar 2026, 08:17 AM",
-        "iso_date": "2026-03-05T08:17:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "The Latest: New Iranian attacks target Israel and US bases as more Israeli strikes hit Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZURmRHlaVWJCWHFBbHdrVU9ESzQ1eTRTN25oTXpsWGZCckFRWFhiRm9JWWhSNnltanhpZ0p4RFAyRDMxeEtOM3FxdDg5b2lBYlBSdGl4UVFqT2xzX3BlRnRMRWZ1MV83R2FsYzRYVS1KWUdRZlJ3a1QwbWxiOGZiVHV2NNIBlwFBVV95cUxOTTMySlVVV3E0Q0haTG45Y1U4SEN0LTVvcmZEb2hrS2pwaEtXRGVqQXoxOTVFc1N5SldNYkZzejdvNGdaOTFZNG9pU0ZsS2lSSkw0NlF5TjVlMjg0M0ZyWkNhdG1tRVpoOWlSczZGaHp0SGhsLUtvV2Vua2lHUTBNenB1VndHRkh2THRpRmw5cTJYTFZsaVlr?oc=5",
-        "published": "5 Mar 2026, 08:27 AM",
-        "iso_date": "2026-03-05T08:27:04+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain intercepts 75 missiles, 123 drones since Iran attacks",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0NxVXF6ekhNMXVhT1BpSG16cDhna2diZE9ta2h3bVFnbUp0RFZjY1c4MlZjemtZZU1zV0RHRXE0VkNOdGVXdm05NXFlSkVHbnRjVFFEZklNaVJvWUhUTlN5dmpsRDg2MEM0SHExdk1aZ0pCREdnNGtRemRJLTEtNVhfbDk0UGZ6bHZUWmlDOUlPREFDMW1hNkU1ZF9YRXZyV0hIYXJmblI3LXg2emE2YUZUdVlJWFE?oc=5",
         "published": "5 Mar 2026, 10:16 AM",
@@ -72,20 +72,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Announces Control of Fire at Ma'ameer Facility Targeted by Iran",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRF9TME54TkVzaG9EbmRfZ0szSHotTXR1a3oyMXExOEIwOWZKdnZfVUZYWGtxWTZwdEs1OVVSYXBoenNQcGlIbVVRRmgxTGo4bUxaNEpoWm85RWlGYzd2S1BETEVJM05odG9hczFuNDJJNTlEVHUyeWdLd19SUVY0bEV0Uks3d2NWOXN5Q3o1Q1A?oc=5",
-        "published": "5 Mar 2026, 06:45 PM",
-        "iso_date": "2026-03-05T18:45:23+00:00",
+        "title": "Bahrain Intercepts 75 Missiles, 123 Drones Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDM1c05xNEtrTWVodFNKRkg0cEVoT0Z1aTJfb0EtRWtnUUlaaDZubGtwZ3NlQmVvTzc5Z3BHNWIyOVVoZnozWFhFM29jYjFITGI0Y1ZmbFVWVjdHUi1EU2NkYWRsWG5LR0lJRE1KTnhLWE80ZXlOVXNRY19SaHNxc0JGR1dlaTRwQmllVnBoRzBmZTRiUnZoOV9BaDFJUDA?oc=5",
+        "published": "5 Mar 2026, 10:00 AM",
+        "iso_date": "2026-03-05T10:00:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 75 Missiles, 123 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDM1c05xNEtrTWVodFNKRkg0cEVoT0Z1aTJfb0EtRWtnUUlaaDZubGtwZ3NlQmVvTzc5Z3BHNWIyOVVoZnozWFhFM29jYjFITGI0Y1ZmbFVWVjdHUi1EU2NkYWRsWG5LR0lJRE1KTnhLWE80ZXlOVXNRY19SaHNxc0JGR1dlaTRwQmllVnBoRzBmZTRiUnZoOV9BaDFJUDA?oc=5",
-        "published": "5 Mar 2026, 10:00 AM",
-        "iso_date": "2026-03-05T10:00:06+00:00",
+        "title": "Bahrain Announces Control of Fire at Ma'ameer Facility Targeted by Iran",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRF9TME54TkVzaG9EbmRfZ0szSHotTXR1a3oyMXExOEIwOWZKdnZfVUZYWGtxWTZwdEs1OVVSYXBoenNQcGlIbVVRRmgxTGo4bUxaNEpoWm85RWlGYzd2S1BETEVJM05odG9hczFuNDJJNTlEVHUyeWdLd19SUVY0bEV0Uks3d2NWOXN5Q3o1Q1A?oc=5",
+        "published": "5 Mar 2026, 06:45 PM",
+        "iso_date": "2026-03-05T18:45:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,12 +246,72 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Chinese firms slam EU’s ‘protectionist’ ‘Made in Europe’ plan",
+        "link": "https://www.newsofbahrain.com/business/127961.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NmzoDBhrIX_2026-03-06_1772785611resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "AI giants promise Trump to pay for increased energy needs",
+        "link": "https://www.newsofbahrain.com/business/127960.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ttj829QXou_2026-03-06_1772785426resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Stocks, oil climb as war stirs volatility",
+        "link": "https://www.newsofbahrain.com/business/127959.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ibQz8JvPUX_2026-03-06_1772784808resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Regional Developments amid Escalating Middle East Tensions",
+        "link": "https://www.newsofbahrain.com/world/127958.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xugjM7nAds_2026-03-06_1772784447resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Flour stocks for markets sufficient",
+        "link": "https://www.newsofbahrain.com/bahrain/127957.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MNeuxSk3qw_2026-03-06_1772784056resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Fire at Bapco",
+        "link": "https://www.newsofbahrain.com/bahrain/127956.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pr4e6tuSiQ_2026-03-06_1772783138thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Al Hilal Healthcare Group Continues Ramadan Tradition with Nationwide Iftar Kit Distribution",
         "link": "https://www.newsofbahrain.com/bahrain/127954.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MPyRmjWaeo_2026-03-06_1772780820resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MPyRmjWaeo_2026-03-06_1772780820thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,47 +321,27 @@
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F6LYkuPSsj_2026-03-06_1772780437resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Khalifa Bin Salman Cup Quarterfinals Get Underway",
-        "link": "https://www.newsofbahrain.com/sports/127952.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZXYFbOPJq_2026-03-06_1772780217resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F6LYkuPSsj_2026-03-06_1772780437thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Empty Majlis, Heavy Hearts This Ramadan",
         "link": "https://www.newsofbahrain.com/bahrain/127951.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e5fIwRDQqX_2026-03-06_1772779295resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e5fIwRDQqX_2026-03-06_1772779295thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Civil Court Sessions to Resume Online After Temporary Suspension",
-        "link": "https://www.newsofbahrain.com/bahrain/127950.html",
+        "title": "GCC, EU call on Iran to stop attacks",
+        "link": "https://www.newsofbahrain.com/world/127955.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f2WdXPz9nK_2026-03-06_1772779120resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Royal Humanitarian Foundation Affirms Support for Bahrain’s Leadership",
-        "link": "https://www.newsofbahrain.com/bahrain/127949.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vHJ1CrX24N_2026-03-06_1772778884thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NQLG3q2shy_2026-03-06_1772782923thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,62 +366,12 @@
         "category": "Latest"
       },
       {
-        "title": "NATO condemns Iran's 'targeting' of Turkey after missile downed",
-        "link": "https://www.newsofbahrain.com/world/127924.html",
-        "published": "5 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m0jZQPz35n_2026-03-05_1772707930thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Explosions Over Doha Amid Escalating Iranian Strikes Across Gulf",
-        "link": "https://www.newsofbahrain.com/world/127917.html",
-        "published": "5 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zOnwyNmeGS_2026-03-05_1772705420thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Alba strengthens Bahraini leadership pipeline",
         "link": "https://www.newsofbahrain.com/business/127909.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_5RJQPxF2iL_2026-03-05_1772701621thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Longtime Bahrain Resident Mahesh Bhatia Passes Away",
-        "link": "https://www.newsofbahrain.com/business/127856.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZxkP4CWn6c_2026-03-04_1772623082thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Egypt says can help transfer Saudi oil",
-        "link": "https://www.newsofbahrain.com/business/127843.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PBofZRnr9A_2026-03-04_1772614402thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Flights to evacuate stranded travellers in Middle East",
-        "link": "https://www.newsofbahrain.com/business/127842.html",
-        "published": "4 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w6xONJ5vjT_2026-03-04_1772614338thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 07:36:30 UTC"
+  "fetched_at": "2026-03-06 08:34:20 UTC"
 }
