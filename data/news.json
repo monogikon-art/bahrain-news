@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain says it intercepted 75 missiles and 123 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jeHRKNXR3T2hxN19nNkc1TktSdjRNTEs4SzBaNDNhNlpYWmlIaTZWWjliQXpVTVMtcTQ2LVh3TVdvVFVEYVRvakJha1ZIV0ZOMnVJ?oc=5",
-        "published": "5 Mar 2026, 11:58 AM",
-        "iso_date": "2026-03-05T11:58:58+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain Holds Extraordinary Consultations with US, UK Under C-SIPA Security Integration Agreement",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdDE0dTRQVUwxUlg5QmYtdUYxQ2JkVGtHclZxTVAyS2hXbkZKZjdBaG1TdjE1LW9ZR0hCYzRtZGowWXM5Y252X1hVMmxpalVSM0FOME9mT1RPeHUtUWx3Mm9yWlV0OXExazIteFJhV2dpVHpwdVhtTUxSMlRJdkh6cjltQWtFc1p2XzQwRy15N1R5VWhVQXhsU0FQNl9Gckt0cndPc2pRQ0psVUdzSlhkbkZnV1E5bkdLVzZINXJQQW9zVHZiWFp3YmRuT2lTT1AyVkgzbnZqUklvdw?oc=5",
@@ -62,6 +52,16 @@
         "category": "Latest"
       },
       {
+        "title": "Trump backs Kurdish entry to war as Israel orders mass Beirut evacuation - AL",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXRkSjlaOEtxYWFIWW83aGdNRl9GUzlRNldHU3ZsMWFPOWJMdzZOYU8wOFNlZ1JwNllZQVRjRWJQSkxGU3JNMUlTNWF4MXZWUzZfNHVrbEYxWEMzVWZ3MGtXMnJkTTh3UUlBVHBNSHVfaE9pWUFESEJsV1pmTHo3dlFVb1RVQk1XUGJuR00yd3U5OGQzUnEyaDRQZ1RDXzBJTXo1bXJR?oc=5",
+        "published": "6 Mar 2026, 07:00 AM",
+        "iso_date": "2026-03-06T07:00:26+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain, US, UK hold emergency security talks over Iran threat",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREZEdHUzbHpYRkNnVF9OY2JxaUhVX01BNmJGMnljQnlGQWN0LVEyQXZrX2xxdzUwRC1BR193cDJwUlFLbXdsb096MXphMDFuREs3TDhHYjN2bmwxOHMyUmd2QUZxWVhZcWdFNTB1cVEyeXRwY1VWM1JRSU1odHZVZ3dEV0xfdTE4SWUzWDk1bC12NE0?oc=5",
         "published": "6 Mar 2026, 06:39 AM",
@@ -76,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZmc2WWh2anFhNmxyZktCR2JscVR4ZHpha3ZldXkxeWlIcEdVbGJjRTFVRnozVlp1cG5Cd1dhdDI2LVItdG1UOFU1ZUpHbTY3ZEFUTjlsTGtwSTNxXzVMMmdpQTFYTkRNSE56UUh3dmdwc3pTTlBFX2Y1OXRrMnFBZTJtejZfR25BQTUtUVpfOTBxR2xyWXFOOWVCdmZpUnJTamd2ZXRpM1Z1dlBBSWtwSThGQTFVQ2FzaGxOaGtvSHB0czkyZER4Y2ljdWdOYTFKaWlzSVRiZFgyVEY3RHc?oc=5",
         "published": "6 Mar 2026, 12:26 AM",
         "iso_date": "2026-03-06T00:26:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "New Iranian attacks target Israel and U.S. bases as more Israeli strikes hit Lebanon. Live updates here.",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYnAxem01NmNzN29adEg5UFlTOTYxOXM1OHdQWFdJS0p6bHJuT2JMRDUwaGtQRXItdXNFODFTYnM0SjNESTNrV2o3c083UkU1UGlnTUUzQlBGY0NCTm8xZktmZFl6dlFzV0otcVlpdWJaR3F5NjVmbTRTQnJXMjhCc0d1eXRsMm9YY0RrYVYwSUoxSkNlYmJYWUhSN3RzbDhUZnNfaXNzVmxYNGlxRWt6VC1FSXJVc3pwMmZSVGlKTE9VUUg1UEExTVF2RlVGQi1pSGpiQjJkMjZlVnJFdzVkTkdfckxXeXZqUkIw?oc=5",
-        "published": "5 Mar 2026, 12:16 PM",
-        "iso_date": "2026-03-05T12:16:20+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -276,6 +266,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Iran Says Mediation Efforts Have Begun to End War",
+        "link": "https://www.newsofbahrain.com/world/127986.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vcf8sPGZ9h_2026-03-06_1772798428resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Destroys 78 Missiles and 143 Drones in Ongoing Iranian Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/127985.html",
         "published": "6 Mar 2026, 09:22 AM",
@@ -288,8 +288,8 @@
       {
         "title": "UK Evacuation Flight from Oman Delayed Due to Technical Fault",
         "link": "https://www.newsofbahrain.com/world/127984.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_nHhi4oM36v_2026-03-06_1772796164resized_pic.jpg",
         "source": "newsofbahrain",
@@ -308,20 +308,10 @@
       {
         "title": "UN Rights Chief Calls for ‘Rapid, Transparent’ Investigation Into Iran School Attack",
         "link": "https://www.newsofbahrain.com/world/127981.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tf6MEi2Z4o_2026-03-06_1772795280resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Azerbaijan Withdraws Diplomats from Iran",
-        "link": "https://www.newsofbahrain.com/world/127980.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rwB8IoEug0_2026-03-06_1772794643resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tf6MEi2Z4o_2026-03-06_1772795280resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 11:51:26 UTC"
+  "fetched_at": "2026-03-06 12:48:32 UTC"
 }
