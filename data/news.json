@@ -84,6 +84,36 @@
     ],
     "gdn": [
       {
+        "title": "Four arrested for sympathising with Iranian aggression on social media",
+        "link": "https://www.gdnonline.com/Details/1377789/Four-arrested-for-sympathising-with-Iranian-aggression-on-social-media",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306193249four1_T.jpg?20260306",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "10 shelters now hosting 2,600 evacuees",
+        "link": "https://www.gdnonline.com/Details/1377788/10-shelters-now-hosting-2,600-evacuees",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306190130shelters1_T.jpg?20260306",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ministry clarifies warning siren policy",
+        "link": "https://www.gdnonline.com/Details/1377787/Ministry-clarifies-warning-siren-policy",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306183859sirens1_T.jpg?20260306",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Hero retired army major helped fellow tenants evacuate Juffair tower block hit by Iranian attack",
         "link": "https://www.gdnonline.com/Details/1377773/Hero-retired-army-major-helped-fellow-tenants-evacuate-Juffair-tower-block-hit-by-Iranian-attack",
         "published": "6 Mar 2026",
@@ -100,36 +130,6 @@
         "iso_date": "2026-03-06T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260306/20260306030413moi.jpeg?20260306",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "WEâRE PREPARED: HRH Prince Salman visits the General Directorate of Civil Defence and the National Centre for Civil Emergency Management",
-        "link": "https://www.gdnonline.com/Details/1377736/WEâRE-PREPARED-HRH-Prince-Salman-visits-the-General-Directorate-of-Civil-Defence-and-the-National-Centre-for-Civil-Emergency-Management",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306_013402_0_T.jpg?20260306",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura set to endorse financing plan for highway expansion",
-        "link": "https://www.gdnonline.com/Details/1377709/Shura-set-to-endorse-financing-plan-for-highway-expansion",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260305_220900_0_T.jpg?20260306",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Relief groups to discuss joint emergency response",
-        "link": "https://www.gdnonline.com/Details/1377711/Relief-groups-to-discuss-joint-emergency-response",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305231948websize(1)_T.jpg?20260306",
         "source": "gdn",
         "category": "Latest"
       },
@@ -519,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 16:37:00 UTC"
+  "fetched_at": "2026-03-06 17:32:29 UTC"
 }
