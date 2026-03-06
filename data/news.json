@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -43,9 +43,9 @@
       },
       {
         "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdl9NelZCbG4ySXJzdXdVaDhQeXRPOHJiWVVWV1FSZW5WSWtFd3ZBUnZSaHlNa2l4SkgxYWZZX2JMZEZTSDd2ZVF4TVpqdTRwbG1Ib3pCUDB0N1JzNGcyZWNKSHFfV01qcHBpeHYydUotdEZjV1hBVjVlTEFPY0ZDNFctNGlVdUVMY3d1QXljMXhURTVIazdjUC1lY2RnZkFqaE1DOFQ5ckJ1UjdGR3NyMHgtUHh1SHBPM1lsaS04UHlUeUR0TEk4?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyYW9GeWVRWXZKRFF6aEdaek5lTk5PNElZZDJyWFg4RmRYZDRuVHI2cHNFa1RpNzN0UWtsRlozTUFxOVFyRE1oZGxGakxHSDBpdU9lVVA2bGJaaWxGZGxCVjN3SjRiNEdyUEpjcXNvYjRFQWF4UlhsSTBnUEw?oc=5",
         "published": "6 Mar 2026, 07:18 PM",
-        "iso_date": "2026-03-06T19:18:00+00:00",
+        "iso_date": "2026-03-06T19:18:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREZEdHUzbHpYRkNnVF9OY2JxaUhVX01BNmJGMnljQnlGQWN0LVEyQXZrX2xxdzUwRC1BR193cDJwUlFLbXdsb096MXphMDFuREs3TDhHYjN2bmwxOHMyUmd2QUZxWVhZcWdFNTB1cVEyeXRwY1VWM1JRSU1odHZVZ3dEV0xfdTE4SWUzWDk1bC12NE0?oc=5",
         "published": "6 Mar 2026, 06:39 AM",
         "iso_date": "2026-03-06T06:39:42+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "U.S. House speaker says country ‘not at war,’ ‘mission nearly accomplished.’ Follow for live updates.",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZmc2WWh2anFhNmxyZktCR2JscVR4ZHpha3ZldXkxeWlIcEdVbGJjRTFVRnozVlp1cG5Cd1dhdDI2LVItdG1UOFU1ZUpHbTY3ZEFUTjlsTGtwSTNxXzVMMmdpQTFYTkRNSE56UUh3dmdwc3pTTlBFX2Y1OXRrMnFBZTJtejZfR25BQTUtUVpfOTBxR2xyWXFOOWVCdmZpUnJTamd2ZXRpM1Z1dlBBSWtwSThGQTFVQ2FzaGxOaGtvSHB0czkyZER4Y2ljdWdOYTFKaWlzSVRiZFgyVEY3RHc?oc=5",
-        "published": "6 Mar 2026, 12:26 AM",
-        "iso_date": "2026-03-06T00:26:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,10 +226,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "UN Secretary-General Urges Immediate Diplomatic Action",
-        "link": "https://www.newsofbahrain.com/world/127997.html",
+        "title": "Bahrain Receives NATO Support Amid Iranian Aggression",
+        "link": "https://www.newsofbahrain.com/bahrain/128000.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ICs56NuSMy_2026-03-06_1772828681resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "OIC Holds UN Meeting on Bahrain’s Request Condemning Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/127999.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y7H4avj6UM_2026-03-06_1772826744resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Civil Defence Council Bans Public Gatherings Amid Security Threats",
+        "link": "https://www.newsofbahrain.com/bahrain/127998.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eFuRb7c90L_2026-03-06_1772826139resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UN Secretary-General Urges Immediate Diplomatic Action",
+        "link": "https://www.newsofbahrain.com/world/127997.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9ZluxNvL7d_2026-03-06_1772824009resized_pic.jpg",
         "source": "newsofbahrain",
@@ -256,32 +276,12 @@
         "category": "Latest"
       },
       {
-        "title": "Dubai Issues New Public Safety Law to Protect Residents and Visitors",
-        "link": "https://www.newsofbahrain.com/world/127995.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jRY8BMeQzt_2026-03-06_1772822123resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Four Arrested for Spreading False Videos of Iranian Aggression",
         "link": "https://www.newsofbahrain.com/bahrain/127994.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YL86iFMmqr_2026-03-06_1772821386resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC Secretary-General and Moroccan Foreign Minister Discuss Regional Tensions",
-        "link": "https://www.newsofbahrain.com/world/127993.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rXnZBRA92y_2026-03-06_1772818698resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YL86iFMmqr_2026-03-06_1772821386thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,32 +296,22 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Strengthens Telecommunications Readiness Amid Regional Developments",
-        "link": "https://www.newsofbahrain.com/bahrain/127987.html",
+        "title": "Dubai Issues New Public Safety Law to Protect Residents and Visitors",
+        "link": "https://www.newsofbahrain.com/world/127995.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IP4x10KzBl_2026-03-06_1772801574thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jRY8BMeQzt_2026-03-06_1772822123thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Destroys 78 Missiles and 143 Drones in Ongoing Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/127985.html",
+        "title": "GCC Secretary-General and Moroccan Foreign Minister Discuss Regional Tensions",
+        "link": "https://www.newsofbahrain.com/world/127993.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eZqyFQtbKc_2026-03-06_1772796304thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Flights Suspended as Bahrain Airspace Remains Closed",
-        "link": "https://www.newsofbahrain.com/bahrain/127978.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HuLZ2gkszm_2026-03-06_1772790744thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rXnZBRA92y_2026-03-06_1772818698thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 19:32:09 UTC"
+  "fetched_at": "2026-03-06 20:28:25 UTC"
 }
