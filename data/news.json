@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREZEdHUzbHpYRkNnVF9OY2JxaUhVX01BNmJGMnljQnlGQWN0LVEyQXZrX2xxdzUwRC1BR193cDJwUlFLbXdsb096MXphMDFuREs3TDhHYjN2bmwxOHMyUmd2QUZxWVhZcWdFNTB1cVEyeXRwY1VWM1JRSU1odHZVZ3dEV0xfdTE4SWUzWDk1bC12NE0?oc=5",
         "published": "6 Mar 2026, 06:39 AM",
         "iso_date": "2026-03-06T06:39:42+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Defence Force: 84 missiles, 147 drones destroyed since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMW5VUDJfZWRWUjlja1dRWDFFbkNOOEpGRE9OWGdWejh4TllnbWFBY2piV19nU2FfWmMybEs1TGtKbXhkVjRUUEFlWktDUzVYSF8tWlBoTTl3QTAzNXJJcXUya0RyTG9JRHdwZGRzRWpEV2RQWGFTWXptaHh6VVVJMUFlYWlDb0xhazhMTXE2MFNwN0pOc0JxYm4yRWJhWE1pUW8tSzh6TC1oX1RQX0sxazMtRnNFSEpQU3F3R0tOelBwcU5nWWdxVGVGWQ?oc=5",
+        "published": "6 Mar 2026, 10:04 PM",
+        "iso_date": "2026-03-06T22:04:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -509,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 21:54:09 UTC"
+  "fetched_at": "2026-03-06 22:25:24 UTC"
 }
