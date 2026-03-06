@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Trump backs Kurdish entry to war as Israel orders mass Beirut evacuation - AL",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXRkSjlaOEtxYWFIWW83aGdNRl9GUzlRNldHU3ZsMWFPOWJMdzZOYU8wOFNlZ1JwNllZQVRjRWJQSkxGU3JNMUlTNWF4MXZWUzZfNHVrbEYxWEMzVWZ3MGtXMnJkTTh3UUlBVHBNSHVfaE9pWUFESEJsV1pmTHo3dlFVb1RVQk1XUGJuR00yd3U5OGQzUnEyaDRQZ1RDXzBJTXo1bXJR?oc=5",
-        "published": "6 Mar 2026, 07:00 AM",
-        "iso_date": "2026-03-06T07:00:26+00:00",
+        "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdl9NelZCbG4ySXJzdXdVaDhQeXRPOHJiWVVWV1FSZW5WSWtFd3ZBUnZSaHlNa2l4SkgxYWZZX2JMZEZTSDd2ZVF4TVpqdTRwbG1Ib3pCUDB0N1JzNGcyZWNKSHFfV01qcHBpeHYydUotdEZjV1hBVjVlTEFPY0ZDNFctNGlVdUVMY3d1QXljMXhURTVIazdjUC1lY2RnZkFqaE1DOFQ5ckJ1UjdGR3NyMHgtUHh1SHBPM1lsaS04UHlUeUR0TEk4?oc=5",
+        "published": "6 Mar 2026, 07:18 PM",
+        "iso_date": "2026-03-06T19:18:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -66,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZmc2WWh2anFhNmxyZktCR2JscVR4ZHpha3ZldXkxeWlIcEdVbGJjRTFVRnozVlp1cG5Cd1dhdDI2LVItdG1UOFU1ZUpHbTY3ZEFUTjlsTGtwSTNxXzVMMmdpQTFYTkRNSE56UUh3dmdwc3pTTlBFX2Y1OXRrMnFBZTJtejZfR25BQTUtUVpfOTBxR2xyWXFOOWVCdmZpUnJTamd2ZXRpM1Z1dlBBSWtwSThGQTFVQ2FzaGxOaGtvSHB0czkyZER4Y2ljdWdOYTFKaWlzSVRiZFgyVEY3RHc?oc=5",
         "published": "6 Mar 2026, 12:26 AM",
         "iso_date": "2026-03-06T00:26:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Announces Control of Fire at Ma'ameer Facility Targeted by Iran",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRF9TME54TkVzaG9EbmRfZ0szSHotTXR1a3oyMXExOEIwOWZKdnZfVUZYWGtxWTZwdEs1OVVSYXBoenNQcGlIbVVRRmgxTGo4bUxaNEpoWm85RWlGYzd2S1BETEVJM05odG9hczFuNDJJNTlEVHUyeWdLd19SUVY0bEV0Uks3d2NWOXN5Q3o1Q1A?oc=5",
-        "published": "5 Mar 2026, 06:45 PM",
-        "iso_date": "2026-03-05T18:45:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -154,6 +144,26 @@
         "category": "Latest"
       },
       {
+        "title": "Morocco coach Regragui quits post as World Cup looms",
+        "link": "https://www.gdnonline.com/Details/1377791/Morocco-coach-Regragui-quits-post-as-World-Cup-looms",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306204436morocco1_T.jpg?20260306",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "President Trump honors Inter Miami, Lionel Messi at White House",
+        "link": "https://www.gdnonline.com/Details/1377790/President-Trump-honors-Inter-Miami,-Lionel-Messi-at-White-House",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306204046trump1_T.jpg?20260306",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Kingâs Cup quarter-final action set for resumption",
         "link": "https://www.gdnonline.com/Details/1377725/Kingâs-Cup-quarter-final-action-set-for-resumption",
         "published": "6 Mar 2026",
@@ -180,26 +190,6 @@
         "iso_date": "2026-03-05T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260305/20260305143431kane1_T.jpg?20260306",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Travel chaos threatens Iraq's participation in World Cup playoffs",
-        "link": "https://www.gdnonline.com/Details/1377691/Travel-chaos-threatens-Iraqs-participation-in-World-Cup-playoffs",
-        "published": "5 Mar 2026",
-        "iso_date": "2026-03-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305140024iraq1(2)_T.jpg?20260306",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Griezmann puts potential MLS move on hold",
-        "link": "https://www.gdnonline.com/Details/1377687/Griezmann-puts-potential-MLS-move-on-hold",
-        "published": "5 Mar 2026",
-        "iso_date": "2026-03-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305123823ag_T.jpg?20260306",
         "source": "gdn",
         "category": "Latest"
       },
@@ -246,10 +236,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Dubai Issues New Public Safety Law to Protect Residents and Visitors",
-        "link": "https://www.newsofbahrain.com/world/127995.html",
+        "title": "UN Secretary-General Urges Immediate Diplomatic Action",
+        "link": "https://www.newsofbahrain.com/world/127997.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9ZluxNvL7d_2026-03-06_1772824009resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Around 50 Flights Scheduled on 7 March to Repatriate Travelers from West Asia",
+        "link": "https://www.newsofbahrain.com/world/127996.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SYZwKl47nj_2026-03-06_1772823792resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dubai Issues New Public Safety Law to Protect Residents and Visitors",
+        "link": "https://www.newsofbahrain.com/world/127995.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_jRY8BMeQzt_2026-03-06_1772822123resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +268,8 @@
       {
         "title": "Four Arrested for Spreading False Videos of Iranian Aggression",
         "link": "https://www.newsofbahrain.com/bahrain/127994.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_YL86iFMmqr_2026-03-06_1772821386resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +278,8 @@
       {
         "title": "GCC Secretary-General and Moroccan Foreign Minister Discuss Regional Tensions",
         "link": "https://www.newsofbahrain.com/world/127993.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_rXnZBRA92y_2026-03-06_1772818698resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,20 +288,10 @@
       {
         "title": "Bahraini Families, Institutions, and Leaders Unite in Support of National Unity",
         "link": "https://www.newsofbahrain.com/bahrain/127992.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VGePk6btcM_2026-03-06_1772819164resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Satellite Firm Imposes 4-Day Hold on Gulf Images for Security",
-        "link": "https://www.newsofbahrain.com/world/127991.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DUsGeBXaVS_2026-03-06_1772818430resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VGePk6btcM_2026-03-06_1772819164thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,16 +322,6 @@
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_HuLZ2gkszm_2026-03-06_1772790744thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "IDF Claims Strike on Bunker Under Khamenei's compound in Tehran",
-        "link": "https://www.newsofbahrain.com/world/127990.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aL4hHPnpXi_2026-03-06_1772802249thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -519,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 18:39:35 UTC"
+  "fetched_at": "2026-03-06 19:32:09 UTC"
 }
