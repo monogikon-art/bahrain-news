@@ -52,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Trump backs Kurdish entry to war as Israel orders mass Beirut evacuation - AL",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXRkSjlaOEtxYWFIWW83aGdNRl9GUzlRNldHU3ZsMWFPOWJMdzZOYU8wOFNlZ1JwNllZQVRjRWJQSkxGU3JNMUlTNWF4MXZWUzZfNHVrbEYxWEMzVWZ3MGtXMnJkTTh3UUlBVHBNSHVfaE9pWUFESEJsV1pmTHo3dlFVb1RVQk1XUGJuR00yd3U5OGQzUnEyaDRQZ1RDXzBJTXo1bXJR?oc=5",
-        "published": "5 Mar 2026, 08:31 PM",
-        "iso_date": "2026-03-05T20:31:08+00:00",
+        "title": "Iranian drones strike apartments, hotel in city that’s home to NSA Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSDVKZHpZY29JZGJwZDNqWGtGUHNaMEZSMHV3Q2NScmY1UDlDVExZempmb3g1UTRabEkzbHVMdkFaYk4zb1E3eXh4b1hlN2FvUVNHNVJnNDJzSmhhVHE0aUhvMnVSYXlfRElKX1hXUFFhekt6akh5Yk1TOHI1Y0lSTkVTM21hOVVma3pEQVRCQ1pOdw?oc=5",
+        "published": "6 Mar 2026, 11:19 AM",
+        "iso_date": "2026-03-06T11:19:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -114,6 +114,16 @@
     ],
     "gdn": [
       {
+        "title": "Hero retired army major helped fellow tenants evacuate Juffair tower block hit by Iranian attack",
+        "link": "https://www.gdnonline.com/Details/1377773/Hero-retired-army-major-helped-fellow-tenants-evacuate-Juffair-tower-block-hit-by-Iranian-attack",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306095617gdnwebsitesize(15)_T.jpg?20260306",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Residential tower and two hotels hit by Iranian attacks",
         "link": "https://www.gdnonline.com/Details/1377757/Residential-tower-and-two-hotels-hit-by-Iranian-attacks",
         "published": "6 Mar 2026",
@@ -150,16 +160,6 @@
         "iso_date": "2026-03-06T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260305/20260305231948websize(1)_T.jpg?20260306",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Parents urged to monitor childrenâs online activities",
-        "link": "https://www.gdnonline.com/Details/1377753/Parents-urged-to-monitor-childrenâs-online-activities",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306032346socialmedia2_T.jpg?20260306",
         "source": "gdn",
         "category": "Latest"
       },
@@ -276,52 +276,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Destroys 78 Missiles and 143 Drones in Ongoing Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/127985.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eZqyFQtbKc_2026-03-06_1772796304resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UK Evacuation Flight from Oman Delayed Due to Technical Fault",
+        "link": "https://www.newsofbahrain.com/world/127984.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nHhi4oM36v_2026-03-06_1772796164resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Sri Lanka Calls for Peace After Iranian Sailors Take Refuge on Island",
+        "link": "https://www.newsofbahrain.com/world/127983.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SGdDgzCWoh_2026-03-06_1772795972resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UN Rights Chief Calls for ‘Rapid, Transparent’ Investigation Into Iran School Attack",
+        "link": "https://www.newsofbahrain.com/world/127981.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tf6MEi2Z4o_2026-03-06_1772795280resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Azerbaijan Withdraws Diplomats from Iran",
+        "link": "https://www.newsofbahrain.com/world/127980.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rwB8IoEug0_2026-03-06_1772794643resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Flights Suspended as Bahrain Airspace Remains Closed",
         "link": "https://www.newsofbahrain.com/bahrain/127978.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HuLZ2gkszm_2026-03-06_1772790744resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sri Lanka takes control of Iranian ship fearing new US sub attack",
-        "link": "https://www.newsofbahrain.com/world/127977.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wnb82R7QSq_2026-03-06_1772790597resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "More flights take off despite continued fighting",
-        "link": "https://www.newsofbahrain.com/world/127976.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yTEluo1Oaw_2026-03-06_1772790132resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump seeks role in picking Iran’s leader",
-        "link": "https://www.newsofbahrain.com/world/127975.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QiGOApk1HC_2026-03-06_1772789688resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Son of last shah says Iran clerics’ next leader will be illegitimate",
-        "link": "https://www.newsofbahrain.com/world/127974.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_anGfOCbY48_2026-03-06_1772789468resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HuLZ2gkszm_2026-03-06_1772790744thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,16 +362,6 @@
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_F6LYkuPSsj_2026-03-06_1772780437thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Empty Majlis, Heavy Hearts This Ramadan",
-        "link": "https://www.newsofbahrain.com/bahrain/127951.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e5fIwRDQqX_2026-03-06_1772779295thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 10:31:42 UTC"
+  "fetched_at": "2026-03-06 11:26:15 UTC"
 }
