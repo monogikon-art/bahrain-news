@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -62,6 +62,16 @@
         "category": "Latest"
       },
       {
+        "title": "New Iranian attacks target Israel and U.S. bases as more Israeli strikes hit Lebanon. Live updates here.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYnAxem01NmNzN29adEg5UFlTOTYxOXM1OHdQWFdJS0p6bHJuT2JMRDUwaGtQRXItdXNFODFTYnM0SjNESTNrV2o3c083UkU1UGlnTUUzQlBGY0NCTm8xZktmZFl6dlFzV0otcVlpdWJaR3F5NjVmbTRTQnJXMjhCc0d1eXRsMm9YY0RrYVYwSUoxSkNlYmJYWUhSN3RzbDhUZnNfaXNzVmxYNGlxRWt6VC1FSXJVc3pwMmZSVGlKTE9VUUg1UEExTVF2RlVGQi1pSGpiQjJkMjZlVnJFdzVkTkdfckxXeXZqUkIw?oc=5",
+        "published": "5 Mar 2026, 12:16 PM",
+        "iso_date": "2026-03-05T12:16:20+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain intercepts 75 missiles, 123 drones since Iran attacks",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0NxVXF6ekhNMXVhT1BpSG16cDhna2diZE9ta2h3bVFnbUp0RFZjY1c4MlZjemtZZU1zV0RHRXE0VkNOdGVXdm05NXFlSkVHbnRjVFFEZklNaVJvWUhUTlN5dmpsRDg2MEM0SHExdk1aZ0pCREdnNGtRemRJLTEtNVhfbDk0UGZ6bHZUWmlDOUlPREFDMW1hNkU1ZF9YRXZyV0hIYXJmblI3LXg2emE2YUZUdVlJWFE?oc=5",
         "published": "5 Mar 2026, 10:16 AM",
@@ -72,20 +82,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 75 Missiles, 123 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDM1c05xNEtrTWVodFNKRkg0cEVoT0Z1aTJfb0EtRWtnUUlaaDZubGtwZ3NlQmVvTzc5Z3BHNWIyOVVoZnozWFhFM29jYjFITGI0Y1ZmbFVWVjdHUi1EU2NkYWRsWG5LR0lJRE1KTnhLWE80ZXlOVXNRY19SaHNxc0JGR1dlaTRwQmllVnBoRzBmZTRiUnZoOV9BaDFJUDA?oc=5",
-        "published": "5 Mar 2026, 10:00 AM",
-        "iso_date": "2026-03-05T10:00:06+00:00",
+        "title": "Bahrain Announces Control of Fire at Ma'ameer Facility Targeted by Iran",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRF9TME54TkVzaG9EbmRfZ0szSHotTXR1a3oyMXExOEIwOWZKdnZfVUZYWGtxWTZwdEs1OVVSYXBoenNQcGlIbVVRRmgxTGo4bUxaNEpoWm85RWlGYzd2S1BETEVJM05odG9hczFuNDJJNTlEVHUyeWdLd19SUVY0bEV0Uks3d2NWOXN5Q3o1Q1A?oc=5",
+        "published": "5 Mar 2026, 06:45 PM",
+        "iso_date": "2026-03-05T18:45:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Announces Control of Fire at Ma'ameer Facility Targeted by Iran",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRF9TME54TkVzaG9EbmRfZ0szSHotTXR1a3oyMXExOEIwOWZKdnZfVUZYWGtxWTZwdEs1OVVSYXBoenNQcGlIbVVRRmgxTGo4bUxaNEpoWm85RWlGYzd2S1BETEVJM05odG9hczFuNDJJNTlEVHUyeWdLd19SUVY0bEV0Uks3d2NWOXN5Q3o1Q1A?oc=5",
-        "published": "5 Mar 2026, 06:45 PM",
-        "iso_date": "2026-03-05T18:45:23+00:00",
+        "title": "Bahrain Intercepts 75 Missiles, 123 Drones Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDM1c05xNEtrTWVodFNKRkg0cEVoT0Z1aTJfb0EtRWtnUUlaaDZubGtwZ3NlQmVvTzc5Z3BHNWIyOVVoZnozWFhFM29jYjFITGI0Y1ZmbFVWVjdHUi1EU2NkYWRsWG5LR0lJRE1KTnhLWE80ZXlOVXNRY19SaHNxc0JGR1dlaTRwQmllVnBoRzBmZTRiUnZoOV9BaDFJUDA?oc=5",
+        "published": "5 Mar 2026, 10:00 AM",
+        "iso_date": "2026-03-05T10:00:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -114,12 +124,12 @@
         "category": "Latest"
       },
       {
-        "title": "Medical law amendment urged to allow abortion in exceptional cases",
-        "link": "https://www.gdnonline.com/Details/1377708/Medical-law-amendment-urged-to-allow-abortion-in-exceptional-cases",
+        "title": "WEâRE PREPARED: HRH Prince Salman visits the General Directorate of Civil Defence and the National Centre for Civil Emergency Management",
+        "link": "https://www.gdnonline.com/Details/1377736/WEâRE-PREPARED-HRH-Prince-Salman-visits-the-General-Directorate-of-Civil-Defence-and-the-National-Centre-for-Civil-Emergency-Management",
         "published": "6 Mar 2026",
         "iso_date": "2026-03-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306011833msqass_T.jpg?20260306",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306_013402_0_T.jpg?20260306",
         "source": "gdn",
         "category": "Latest"
       },
@@ -144,12 +154,12 @@
         "category": "Latest"
       },
       {
-        "title": "Virtual civil court hearings",
-        "link": "https://www.gdnonline.com/Details/1377712/Virtual-civil-court-hearings",
+        "title": "Parents urged to monitor childrenâs online activities",
+        "link": "https://www.gdnonline.com/Details/1377753/Parents-urged-to-monitor-childrenâs-online-activities",
         "published": "6 Mar 2026",
         "iso_date": "2026-03-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305234844websize(2)_T.jpg?20260306",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306032346socialmedia2_T.jpg?20260306",
         "source": "gdn",
         "category": "Latest"
       },
@@ -224,6 +234,26 @@
         "category": "Latest"
       },
       {
+        "title": "James Corden and Aidan Turner among stars at National Theatre gala",
+        "link": "https://www.gdnonline.com/Details/1377770/James-Corden-and-Aidan-Turner-among-stars-at-National-Theatre-gala",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/2026030608590501kjznttttrgc9z00wa5qpw8ps(1)_T.jpg?20260306",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Paddington The Musical up for 11 Olivier Awards",
+        "link": "https://www.gdnonline.com/Details/1377771/Paddington-The-Musical-up-for-11-Olivier-Awards",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306090706692dba56e4b094ced7f01d6e_T.jpg?20260306",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Letâs unwind indoors!",
         "link": "https://www.gdnonline.com/Details/1377626/Letâs-unwind-indoors",
         "published": "5 Mar 2026",
@@ -246,42 +276,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Chinese firms slam EU’s ‘protectionist’ ‘Made in Europe’ plan",
-        "link": "https://www.newsofbahrain.com/business/127961.html",
+        "title": "Son of last shah says Iran clerics’ next leader will be illegitimate",
+        "link": "https://www.newsofbahrain.com/world/127974.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NmzoDBhrIX_2026-03-06_1772785611resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_anGfOCbY48_2026-03-06_1772789468resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "AI giants promise Trump to pay for increased energy needs",
-        "link": "https://www.newsofbahrain.com/business/127960.html",
+        "title": "Pentagon Expects Iran Conflict to Last Beyond 100 Days: Reports",
+        "link": "https://www.newsofbahrain.com/world/127972.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ttj829QXou_2026-03-06_1772785426resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_atexEcB1iq_2026-03-06_1772789460resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Stocks, oil climb as war stirs volatility",
-        "link": "https://www.newsofbahrain.com/business/127959.html",
+        "title": "Internet blackout leaves anxious Iranians in the dark",
+        "link": "https://www.newsofbahrain.com/world/127971.html",
         "published": "6 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-06T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ibQz8JvPUX_2026-03-06_1772784808resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NlGuJ2acwv_2026-03-06_1772789152resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Regional Developments amid Escalating Middle East Tensions",
-        "link": "https://www.newsofbahrain.com/world/127958.html",
+        "title": "Western embassy staff shelter as air defences intercept missiles and drones",
+        "link": "https://www.newsofbahrain.com/world/127970.html",
         "published": "6 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-06T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xugjM7nAds_2026-03-06_1772784447resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z7ENvhr2jb_2026-03-06_1772789002resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "War spirals with fresh strikes",
+        "link": "https://www.newsofbahrain.com/world/127969.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KhdW8TZr9v_2026-03-06_1772788457resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -291,17 +331,7 @@
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MNeuxSk3qw_2026-03-06_1772784056resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fire at Bapco",
-        "link": "https://www.newsofbahrain.com/bahrain/127956.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pr4e6tuSiQ_2026-03-06_1772783138thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MNeuxSk3qw_2026-03-06_1772784056thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -336,42 +366,52 @@
         "category": "Latest"
       },
       {
-        "title": "GCC, EU call on Iran to stop attacks",
-        "link": "https://www.newsofbahrain.com/world/127955.html",
+        "title": "Civil Court Sessions to Resume Online After Temporary Suspension",
+        "link": "https://www.newsofbahrain.com/bahrain/127950.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NQLG3q2shy_2026-03-06_1772782923thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f2WdXPz9nK_2026-03-06_1772779120thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Six Injured in Abu Dhabi After Debris Falls From Intercepted Drone",
-        "link": "https://www.newsofbahrain.com/world/127934.html",
-        "published": "5 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-05T09:22:55+00:00",
+        "title": "Google to open German centre for ‘AI development’",
+        "link": "https://www.newsofbahrain.com/business/127962.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uOkHUyAeWJ_2026-03-05_1772712652thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rDS0UqiFsf_2026-03-06_1772786263thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Michelangelo's works hidden in 'secret room', researcher says",
-        "link": "https://www.newsofbahrain.com/world/127926.html",
-        "published": "5 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-05T09:22:55+00:00",
+        "title": "Chinese firms slam EU’s ‘protectionist’ ‘Made in Europe’ plan",
+        "link": "https://www.newsofbahrain.com/business/127961.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_16F2bz5DAr_2026-03-05_1772708868thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NmzoDBhrIX_2026-03-06_1772785611thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Alba strengthens Bahraini leadership pipeline",
-        "link": "https://www.newsofbahrain.com/business/127909.html",
-        "published": "5 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-05T09:22:55+00:00",
+        "title": "AI giants promise Trump to pay for increased energy needs",
+        "link": "https://www.newsofbahrain.com/business/127960.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5RJQPxF2iL_2026-03-05_1772701621thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ttj829QXou_2026-03-06_1772785426thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Stocks, oil climb as war stirs volatility",
+        "link": "https://www.newsofbahrain.com/business/127959.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ibQz8JvPUX_2026-03-06_1772784808thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -402,16 +442,6 @@
         "iso_date": "2026-03-05T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_5VURXHbBOL_2026-03-05_1772703531thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "The Concept of Barakah in Ramadan: Spiritual Meaning Beyond Material Prosperity",
-        "link": "https://www.newsofbahrain.com/views/127867.html",
-        "published": "4 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o7HQgONdRb_2026-03-04_1772628544thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -529,5 +559,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 08:34:20 UTC"
+  "fetched_at": "2026-03-06 09:35:01 UTC"
 }
