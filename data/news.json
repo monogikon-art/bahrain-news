@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -66,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMW5VUDJfZWRWUjlja1dRWDFFbkNOOEpGRE9OWGdWejh4TllnbWFBY2piV19nU2FfWmMybEs1TGtKbXhkVjRUUEFlWktDUzVYSF8tWlBoTTl3QTAzNXJJcXUya0RyTG9JRHdwZGRzRWpEV2RQWGFTWXptaHh6VVVJMUFlYWlDb0xhazhMTXE2MFNwN0pOc0JxYm4yRWJhWE1pUW8tSzh6TC1oX1RQX0sxazMtRnNFSEpQU3F3R0tOelBwcU5nWWdxVGVGWQ?oc=5",
         "published": "6 Mar 2026, 10:04 PM",
         "iso_date": "2026-03-06T22:04:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Key Energy Facilities Across Middle East Hit as Conflict Intensifies",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjBrQk85dnBwM1gzb1UzNm9ncW1VUXNZeklUem5id2FCRThZbk1GbGVHSElzLUdZTkNoRFlRWl8taFNHYlU1LTIzUzJHVXJ1UERyaV9Dbk53b3Y1bHphaDF6MkN0R0FwMHdlc1NQZTlTN0RQQ0VHanN3LUVFSUdad3l0ZXpVSDBjanZJMkFEMWZyeXI5dmozeGlvdE1GWVdoTmxIaQ?oc=5",
-        "published": "6 Mar 2026, 07:53 PM",
-        "iso_date": "2026-03-06T19:53:37+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -154,6 +144,26 @@
         "category": "Latest"
       },
       {
+        "title": "Liverpool down Wolves to enter quarter-finals",
+        "link": "https://www.gdnonline.com/Details/1377830/Liverpool-down-Wolves-to-enter-quarter-finals",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_020316_0_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ronaldo heads to Spain for rehabilitation after injury",
+        "link": "https://www.gdnonline.com/Details/1377827/Ronaldo-heads-to-Spain-for-rehabilitation-after-injury",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307022146ronaldo_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Morocco coach Regragui quits post as World Cup looms",
         "link": "https://www.gdnonline.com/Details/1377791/Morocco-coach-Regragui-quits-post-as-World-Cup-looms",
         "published": "6 Mar 2026",
@@ -180,26 +190,6 @@
         "iso_date": "2026-03-06T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260306/20260306_000307_1_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Palace sink Tottenham",
-        "link": "https://www.gdnonline.com/Details/1377750/Palace-sink-Tottenham",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306_024902_2_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bayern's Kane to miss Gladbach game with minor injury",
-        "link": "https://www.gdnonline.com/Details/1377699/Bayerns-Kane-to-miss-Gladbach-game-with-minor-injury-",
-        "published": "5 Mar 2026",
-        "iso_date": "2026-03-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260305143431kane1_T.jpg?20260307",
         "source": "gdn",
         "category": "Latest"
       },
@@ -519,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 23:25:01 UTC"
+  "fetched_at": "2026-03-06 23:50:08 UTC"
 }
