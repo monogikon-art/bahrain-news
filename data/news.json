@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 16
     }
   },
   "articles": {
@@ -52,10 +52,30 @@
         "category": "Latest"
       },
       {
+        "title": "Trump backs Kurdish entry to war as Israel orders mass Beirut evacuation - AL",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXRkSjlaOEtxYWFIWW83aGdNRl9GUzlRNldHU3ZsMWFPOWJMdzZOYU8wOFNlZ1JwNllZQVRjRWJQSkxGU3JNMUlTNWF4MXZWUzZfNHVrbEYxWEMzVWZ3MGtXMnJkTTh3UUlBVHBNSHVfaE9pWUFESEJsV1pmTHo3dlFVb1RVQk1XUGJuR00yd3U5OGQzUnEyaDRQZ1RDXzBJTXo1bXJR?oc=5",
+        "published": "5 Mar 2026, 08:31 PM",
+        "iso_date": "2026-03-05T20:31:08+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain, US, UK hold emergency security talks over Iran threat",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREZEdHUzbHpYRkNnVF9OY2JxaUhVX01BNmJGMnljQnlGQWN0LVEyQXZrX2xxdzUwRC1BR193cDJwUlFLbXdsb096MXphMDFuREs3TDhHYjN2bmwxOHMyUmd2QUZxWVhZcWdFNTB1cVEyeXRwY1VWM1JRSU1odHZVZ3dEV0xfdTE4SWUzWDk1bC12NE0?oc=5",
         "published": "6 Mar 2026, 06:39 AM",
         "iso_date": "2026-03-06T06:39:42+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "U.S. House speaker says country ‘not at war,’ ‘mission nearly accomplished.’ Follow for live updates.",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZmc2WWh2anFhNmxyZktCR2JscVR4ZHpha3ZldXkxeWlIcEdVbGJjRTFVRnozVlp1cG5Cd1dhdDI2LVItdG1UOFU1ZUpHbTY3ZEFUTjlsTGtwSTNxXzVMMmdpQTFYTkRNSE56UUh3dmdwc3pTTlBFX2Y1OXRrMnFBZTJtejZfR25BQTUtUVpfOTBxR2xyWXFOOWVCdmZpUnJTamd2ZXRpM1Z1dlBBSWtwSThGQTFVQ2FzaGxOaGtvSHB0czkyZER4Y2ljdWdOYTFKaWlzSVRiZFgyVEY3RHc?oc=5",
+        "published": "6 Mar 2026, 12:26 AM",
+        "iso_date": "2026-03-06T00:26:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,30 +92,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 75 missiles, 123 drones since Iran attacks",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0NxVXF6ekhNMXVhT1BpSG16cDhna2diZE9ta2h3bVFnbUp0RFZjY1c4MlZjemtZZU1zV0RHRXE0VkNOdGVXdm05NXFlSkVHbnRjVFFEZklNaVJvWUhUTlN5dmpsRDg2MEM0SHExdk1aZ0pCREdnNGtRemRJLTEtNVhfbDk0UGZ6bHZUWmlDOUlPREFDMW1hNkU1ZF9YRXZyV0hIYXJmblI3LXg2emE2YUZUdVlJWFE?oc=5",
-        "published": "5 Mar 2026, 10:16 AM",
-        "iso_date": "2026-03-05T10:16:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Announces Control of Fire at Ma'ameer Facility Targeted by Iran",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRF9TME54TkVzaG9EbmRfZ0szSHotTXR1a3oyMXExOEIwOWZKdnZfVUZYWGtxWTZwdEs1OVVSYXBoenNQcGlIbVVRRmgxTGo4bUxaNEpoWm85RWlGYzd2S1BETEVJM05odG9hczFuNDJJNTlEVHUyeWdLd19SUVY0bEV0Uks3d2NWOXN5Q3o1Q1A?oc=5",
         "published": "5 Mar 2026, 06:45 PM",
         "iso_date": "2026-03-05T18:45:23+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts 75 Missiles, 123 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDM1c05xNEtrTWVodFNKRkg0cEVoT0Z1aTJfb0EtRWtnUUlaaDZubGtwZ3NlQmVvTzc5Z3BHNWIyOVVoZnozWFhFM29jYjFITGI0Y1ZmbFVWVjdHUi1EU2NkYWRsWG5LR0lJRE1KTnhLWE80ZXlOVXNRY19SaHNxc0JGR1dlaTRwQmllVnBoRzBmZTRiUnZoOV9BaDFJUDA?oc=5",
-        "published": "5 Mar 2026, 10:00 AM",
-        "iso_date": "2026-03-05T10:00:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -276,52 +276,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Flights Suspended as Bahrain Airspace Remains Closed",
+        "link": "https://www.newsofbahrain.com/bahrain/127978.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HuLZ2gkszm_2026-03-06_1772790744resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Sri Lanka takes control of Iranian ship fearing new US sub attack",
+        "link": "https://www.newsofbahrain.com/world/127977.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wnb82R7QSq_2026-03-06_1772790597resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "More flights take off despite continued fighting",
+        "link": "https://www.newsofbahrain.com/world/127976.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yTEluo1Oaw_2026-03-06_1772790132resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump seeks role in picking Iran’s leader",
+        "link": "https://www.newsofbahrain.com/world/127975.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QiGOApk1HC_2026-03-06_1772789688resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Son of last shah says Iran clerics’ next leader will be illegitimate",
         "link": "https://www.newsofbahrain.com/world/127974.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_anGfOCbY48_2026-03-06_1772789468resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pentagon Expects Iran Conflict to Last Beyond 100 Days: Reports",
-        "link": "https://www.newsofbahrain.com/world/127972.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_atexEcB1iq_2026-03-06_1772789460resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Internet blackout leaves anxious Iranians in the dark",
-        "link": "https://www.newsofbahrain.com/world/127971.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NlGuJ2acwv_2026-03-06_1772789152resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Western embassy staff shelter as air defences intercept missiles and drones",
-        "link": "https://www.newsofbahrain.com/world/127970.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z7ENvhr2jb_2026-03-06_1772789002resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "War spirals with fresh strikes",
-        "link": "https://www.newsofbahrain.com/world/127969.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KhdW8TZr9v_2026-03-06_1772788457resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -362,16 +362,6 @@
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_e5fIwRDQqX_2026-03-06_1772779295thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Civil Court Sessions to Resume Online After Temporary Suspension",
-        "link": "https://www.newsofbahrain.com/bahrain/127950.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f2WdXPz9nK_2026-03-06_1772779120thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -559,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 09:35:01 UTC"
+  "fetched_at": "2026-03-06 10:31:42 UTC"
 }
