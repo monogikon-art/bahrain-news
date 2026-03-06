@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain intercepts 75 missiles, 123 drones since Iran attacks",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0NxVXF6ekhNMXVhT1BpSG16cDhna2diZE9ta2h3bVFnbUp0RFZjY1c4MlZjemtZZU1zV0RHRXE0VkNOdGVXdm05NXFlSkVHbnRjVFFEZklNaVJvWUhUTlN5dmpsRDg2MEM0SHExdk1aZ0pCREdnNGtRemRJLTEtNVhfbDk0UGZ6bHZUWmlDOUlPREFDMW1hNkU1ZF9YRXZyV0hIYXJmblI3LXg2emE2YUZUdVlJWFE?oc=5",
+        "published": "5 Mar 2026, 10:16 AM",
+        "iso_date": "2026-03-05T10:16:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "The Latest: New Iranian attacks target Israel and US bases as more Israeli strikes hit Lebanon",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZURmRHlaVWJCWHFBbHdrVU9ESzQ1eTRTN25oTXpsWGZCckFRWFhiRm9JWWhSNnltanhpZ0p4RFAyRDMxeEtOM3FxdDg5b2lBYlBSdGl4UVFqT2xzX3BlRnRMRWZ1MV83R2FsYzRYVS1KWUdRZlJ3a1QwbWxiOGZiVHV2NNIBlwFBVV95cUxOTTMySlVVV3E0Q0haTG45Y1U4SEN0LTVvcmZEb2hrS2pwaEtXRGVqQXoxOTVFc1N5SldNYkZzejdvNGdaOTFZNG9pU0ZsS2lSSkw0NlF5TjVlMjg0M0ZyWkNhdG1tRVpoOWlSczZGaHp0SGhsLUtvV2Vua2lHUTBNenB1VndHRkh2THRpRmw5cTJYTFZsaVlr?oc=5",
         "published": "5 Mar 2026, 08:27 AM",
@@ -56,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZmc2WWh2anFhNmxyZktCR2JscVR4ZHpha3ZldXkxeWlIcEdVbGJjRTFVRnozVlp1cG5Cd1dhdDI2LVItdG1UOFU1ZUpHbTY3ZEFUTjlsTGtwSTNxXzVMMmdpQTFYTkRNSE56UUh3dmdwc3pTTlBFX2Y1OXRrMnFBZTJtejZfR25BQTUtUVpfOTBxR2xyWXFOOWVCdmZpUnJTamd2ZXRpM1Z1dlBBSWtwSThGQTFVQ2FzaGxOaGtvSHB0czkyZER4Y2ljdWdOYTFKaWlzSVRiZFgyVEY3RHc?oc=5",
         "published": "5 Mar 2026, 01:26 PM",
         "iso_date": "2026-03-05T13:26:54+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts 75 missiles, 123 drones since Iran attacks",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0NxVXF6ekhNMXVhT1BpSG16cDhna2diZE9ta2h3bVFnbUp0RFZjY1c4MlZjemtZZU1zV0RHRXE0VkNOdGVXdm05NXFlSkVHbnRjVFFEZklNaVJvWUhUTlN5dmpsRDg2MEM0SHExdk1aZ0pCREdnNGtRemRJLTEtNVhfbDk0UGZ6bHZUWmlDOUlPREFDMW1hNkU1ZF9YRXZyV0hIYXJmblI3LXg2emE2YUZUdVlJWFE?oc=5",
-        "published": "5 Mar 2026, 10:16 AM",
-        "iso_date": "2026-03-05T10:16:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,10 +246,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain, U.S., and U.K. Hold Exceptional Security Consultations Under C-SIPA",
-        "link": "https://www.newsofbahrain.com/bahrain/127946.html",
+        "title": "Bahrain Air Defenses Intercept 78 Missiles and 129 Drones Amid Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/127948.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6vPo4nNzLJ_2026-03-06_1772773929resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, Kuwait Crown Princes Discuss Regional Security in Phone Call",
+        "link": "https://www.newsofbahrain.com/bahrain/127947.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JlkvumBCF3_2026-03-06_1772772890resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, U.S., and U.K. Hold Exceptional Security Consultations Under C-SIPA",
+        "link": "https://www.newsofbahrain.com/bahrain/127946.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_lUikAL63ER_2026-03-06_1772758083resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +278,8 @@
       {
         "title": "Live: Iranian Aggression Damages Hotels and Residential Building in Manama",
         "link": "https://www.newsofbahrain.com/bahrain/127945.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QBP6U0VpXM_2026-03-06_1772767710resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,30 +288,10 @@
       {
         "title": "King Hamad Reviews Regional Developments with Bahrain’s Security Leaders",
         "link": "https://www.newsofbahrain.com/bahrain/127944.html",
-        "published": "5 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_95c4jkwFln_2026-03-05_1772736571resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH Crown Prince’s Directives Ensure Relief for Homes Damaged by Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/127943.html",
-        "published": "5 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1Y9fX4AGlO_2026-03-05_1772736364resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "King Charles III Sends Message of Solidarity to Bahrain, Condemns Iranian Attack",
-        "link": "https://www.newsofbahrain.com/bahrain/127942.html",
         "published": "5 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_S5TFzNWkvM_2026-03-05_1772729357resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_95c4jkwFln_2026-03-05_1772736571resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 04:07:42 UTC"
+  "fetched_at": "2026-03-06 05:30:39 UTC"
 }
