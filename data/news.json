@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -86,16 +86,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRF9TME54TkVzaG9EbmRfZ0szSHotTXR1a3oyMXExOEIwOWZKdnZfVUZYWGtxWTZwdEs1OVVSYXBoenNQcGlIbVVRRmgxTGo4bUxaNEpoWm85RWlGYzd2S1BETEVJM05odG9hczFuNDJJNTlEVHUyeWdLd19SUVY0bEV0Uks3d2NWOXN5Q3o1Q1A?oc=5",
         "published": "5 Mar 2026, 06:45 PM",
         "iso_date": "2026-03-05T18:45:23+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Updated Precautionary Measures Across the Gulf: What to Do in Case of Danger, Emergency Hotlines and Safety Shelters",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbm44XzRyNjZiTWswQWdBLW5fRFY5Z1ZzVkNibjVVSzlnTTY0S2prRFhyMHk3cGpLOE4tZGJYT2FPdFdleWd1WFg0b3IzdUM2RTlpVjVPMTlHUFlpMWF5VE1WbnJCb2VyQjBYTkg0NTRUcDNQV3lLZFNJWjE5a0J5RjJmSTVaVGZQbU1FRzhoT2Q1ZHg1dXJDWUJEcTBnMURfQ2VWNWxoUVlPR2dYY29ETlRHVmI4WjMtQ1hDR0RQZy1nRmduRVI2ZFZ3VjV3WmVqWUZSSjdEOHo?oc=5",
-        "published": "5 Mar 2026, 01:39 PM",
-        "iso_date": "2026-03-05T13:39:37+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,10 +256,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Iran Says Mediation Efforts Have Begun to End War",
-        "link": "https://www.newsofbahrain.com/world/127986.html",
+        "title": "IDF Claims Strike on Bunker Under Khamenei's compound in Tehran",
+        "link": "https://www.newsofbahrain.com/world/127990.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aL4hHPnpXi_2026-03-06_1772802249resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Japan considers releasing national oil stockpile",
+        "link": "https://www.newsofbahrain.com/world/127989.html",
+        "published": "6 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DyjgKJc3Ev_2026-03-06_1772801657resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Strengthens Telecommunications Readiness Amid Regional Developments",
+        "link": "https://www.newsofbahrain.com/bahrain/127987.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IP4x10KzBl_2026-03-06_1772801574resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Says Mediation Efforts Have Begun to End War",
+        "link": "https://www.newsofbahrain.com/world/127986.html",
+        "published": "6 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vcf8sPGZ9h_2026-03-06_1772798428resized_pic.jpg",
         "source": "newsofbahrain",
@@ -282,36 +302,6 @@
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_eZqyFQtbKc_2026-03-06_1772796304resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UK Evacuation Flight from Oman Delayed Due to Technical Fault",
-        "link": "https://www.newsofbahrain.com/world/127984.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nHhi4oM36v_2026-03-06_1772796164resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sri Lanka Calls for Peace After Iranian Sailors Take Refuge on Island",
-        "link": "https://www.newsofbahrain.com/world/127983.html",
-        "published": "6 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SGdDgzCWoh_2026-03-06_1772795972resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN Rights Chief Calls for ‘Rapid, Transparent’ Investigation Into Iran School Attack",
-        "link": "https://www.newsofbahrain.com/world/127981.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tf6MEi2Z4o_2026-03-06_1772795280resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -346,12 +336,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Moves Forward with KD 70 Million Sheikh Jaber Street Project Financing",
-        "link": "https://www.newsofbahrain.com/bahrain/127953.html",
+        "title": "UK Evacuation Flight from Oman Delayed Due to Technical Fault",
+        "link": "https://www.newsofbahrain.com/world/127984.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F6LYkuPSsj_2026-03-06_1772780437thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nHhi4oM36v_2026-03-06_1772796164thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 12:48:32 UTC"
+  "fetched_at": "2026-03-06 13:53:18 UTC"
 }
