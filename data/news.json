@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -216,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "German Embassy in Bahrain to Partially Reopen",
-        "link": "https://www.newsofbahrain.com/bahrain/128060.html",
+        "title": "India Suspends TV News Ratings Over Sensational Iran War Coverage",
+        "link": "https://www.newsofbahrain.com/world/128062.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vn3XBPKybd_2026-03-07_1772898183resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Jordanian Citizens Killed After Russian Military Recruitment",
+        "link": "https://www.newsofbahrain.com/world/128061.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5kbSKTFD2B_2026-03-07_1772898133resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "German Embassy in Bahrain to Partially Reopen",
+        "link": "https://www.newsofbahrain.com/bahrain/128060.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_5cWVIpOZU2_2026-03-07_1772890190resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +248,8 @@
       {
         "title": "Drones hit oil sites, target armed groups in Iraq",
         "link": "https://www.newsofbahrain.com/world/128059.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAEePiIsMt_2026-03-07_1772889059resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +258,10 @@
       {
         "title": "India’s Bumrah only ‘human’ says Phillips ahead of T20 World Cup final",
         "link": "https://www.newsofbahrain.com/sports/128058.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_T20UVX8zcW_2026-03-07_1772887468resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Home hero Piastri edges Antonelli in second Australian GP practice",
-        "link": "https://www.newsofbahrain.com/sports/128057.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KBOeMstyCP_2026-03-07_1772887338resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,7 +271,7 @@
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kN1E5nAp06_2026-03-07_1772886819resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kN1E5nAp06_2026-03-07_1772886819thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,26 +312,6 @@
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1TcuhJ8GiX_2026-03-07_1772885924thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sri Lanka to Treat Iranian Sailors Rescued from Torpedoed Frigate, Citing International Law",
-        "link": "https://www.newsofbahrain.com/world/128053.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MGyhdXKBHg_2026-03-07_1772885724thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Says Iran ‘No Longer Bully of Middle East,’ Warns of More Strikes",
-        "link": "https://www.newsofbahrain.com/world/128052.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0ndG39pKDH_2026-03-07_1772885165thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 15:20:11 UTC"
+  "fetched_at": "2026-03-07 15:46:04 UTC"
 }
