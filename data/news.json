@@ -16,21 +16,11 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 13
     }
   },
   "articles": {
     "bna": [
-      {
-        "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyYW9GeWVRWXZKRFF6aEdaek5lTk5PNElZZDJyWFg4RmRYZDRuVHI2cHNFa1RpNzN0UWtsRlozTUFxOVFyRE1oZGxGakxHSDBpdU9lVVA2bGJaaWxGZGxCVjN3SjRiNEdyUEpjcXNvYjRFQWF4UlhsSTBnUEw?oc=5",
-        "published": "6 Mar 2026, 07:18 PM",
-        "iso_date": "2026-03-06T19:18:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "King Hamad says Bahrain 'committed to peace' as Iran attacks continue",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LeFc2Wkd6V2VRSGp1aWNUQ3VSWTZRN1NpY1YwT21PQ0lXN1Y0M1dST3ZqU0ctY3pBM011bVZNQ0Q3X1ozM0xIRUFvVEhkWHZmYVY5WVUzRzJOTkhU?oc=5",
@@ -42,20 +32,30 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drones strike apartments in city that’s home to NSA Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSDVKZHpZY29JZGJwZDNqWGtGUHNaMEZSMHV3Q2NScmY1UDlDVExZempmb3g1UTRabEkzbHVMdkFaYk4zb1E3eXh4b1hlN2FvUVNHNVJnNDJzSmhhVHE0aUhvMnVSYXlfRElKX1hXUFFhekt6akh5Yk1TOHI1Y0lSTkVTM21hOVVma3pEQVRCQ1pOdw?oc=5",
-        "published": "6 Mar 2026, 05:21 PM",
-        "iso_date": "2026-03-06T17:21:10+00:00",
+        "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyYW9GeWVRWXZKRFF6aEdaek5lTk5PNElZZDJyWFg4RmRYZDRuVHI2cHNFa1RpNzN0UWtsRlozTUFxOVFyRE1oZGxGakxHSDBpdU9lVVA2bGJaaWxGZGxCVjN3SjRiNEdyUEpjcXNvYjRFQWF4UlhsSTBnUEw?oc=5",
+        "published": "6 Mar 2026, 07:18 PM",
+        "iso_date": "2026-03-06T19:18:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 86 Missiles and 148 Drones Amid Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJrMzREUzl2clA1MXlJNzB2ZHhrbW5XTkViZmk4dkYxNkdGRE85eV82Wi1wMFNrZFllNGZKejYzbXF1WFZlN3VPMm9jQjdXSXJscXNtZmw5NHBsSHFHUlVEcmswWjdRcjg5VS1LaGpHUTVzaTNhaFBoOVp3ZnJUYTR2RE5YZWtKT1FrWmhYekREem1oQ2Z0ajE2dEtzNGx0VEF0SmRRekNtSC14Z19Rbmln?oc=5",
-        "published": "7 Mar 2026, 11:20 AM",
-        "iso_date": "2026-03-07T11:20:15+00:00",
+        "title": "King of Spain Affirms Support for Bahrain in Measures to Safeguard Its Sovereignty",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVVRUQTlhTTZWNlN6MElLa3p3b0RYdnJCRzZLVmROMkk3Zk1tdFlDVE43U1doQkl1WWg4U3MxOXNEY2FpNjEyUWlITTItYWJiOWZzRFlxTEZUN3d1VjhsRmtHc1M3Vk9ralRRekxtVUpVNWVfRDQ1aVRrNWlaaG16czNhWjhUd2tHb1lheFRWXzBjekltNFRON3d4blZYdFpZaE9DM0tXRWhEekpxNVBjWjdEeE1mSWdYdXBwVzdScjJLcWw0ZnI4?oc=5",
+        "published": "7 Mar 2026, 05:37 PM",
+        "iso_date": "2026-03-07T17:37:02+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS - BERNAMA",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
+        "published": "7 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-07T11:14:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS - BERNAMA",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
-        "published": "7 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-07T11:14:06+00:00",
+        "title": "Bahrain Intercepts 86 Missiles and 148 Drones Amid Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJrMzREUzl2clA1MXlJNzB2ZHhrbW5XTkViZmk4dkYxNkdGRE85eV82Wi1wMFNrZFllNGZKejYzbXF1WFZlN3VPMm9jQjdXSXJscXNtZmw5NHBsSHFHUlVEcmswWjdRcjg5VS1LaGpHUTVzaTNhaFBoOVp3ZnJUYTR2RE5YZWtKT1FrWmhYekREem1oQ2Z0ajE2dEtzNGx0VEF0SmRRekNtSC14Z19Rbmln?oc=5",
+        "published": "7 Mar 2026, 11:20 AM",
+        "iso_date": "2026-03-07T11:20:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -224,7 +224,138 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Key Developments – National Response to Iranian Attacks on Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/128063.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fvQzDCjS1h_2026-03-07_1772904174resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India Suspends TV News Ratings Over Sensational Iran War Coverage",
+        "link": "https://www.newsofbahrain.com/world/128062.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vn3XBPKybd_2026-03-07_1772898183resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Jordanian Citizens Killed After Russian Military Recruitment",
+        "link": "https://www.newsofbahrain.com/world/128061.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5kbSKTFD2B_2026-03-07_1772898133resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "German Embassy in Bahrain to Partially Reopen",
+        "link": "https://www.newsofbahrain.com/bahrain/128060.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5cWVIpOZU2_2026-03-07_1772890190resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Drones hit oil sites, target armed groups in Iraq",
+        "link": "https://www.newsofbahrain.com/world/128059.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAEePiIsMt_2026-03-07_1772889059resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Weekend Crowds Signal Return to Routine Despite Tensions",
+        "link": "https://www.newsofbahrain.com/bahrain/128056.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kN1E5nAp06_2026-03-07_1772886819thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Stranded Bahrainis Return Home Safely from Mashhad",
+        "link": "https://www.newsofbahrain.com/bahrain/128055.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7BkOIZN0yo_2026-03-07_1772886741thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain International Airport Operations Remain Suspended",
+        "link": "https://www.newsofbahrain.com/bahrain/128050.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fdCWiTUbXt_2026-03-07_1772884799thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UN Urges Lebanon and Israel to Begin Peace Talks Amid Renewed Conflict",
+        "link": "https://www.newsofbahrain.com/world/128054.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1TcuhJ8GiX_2026-03-07_1772885924thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Eid Orders Delayed",
+        "link": "https://www.newsofbahrain.com/business/128044.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aJjnAqW4Tu_2026-03-07_1772877627thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dair and Samaheej waterfront to be offered on Government Land Investment Platform",
+        "link": "https://www.newsofbahrain.com/business/128037.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Abny0Daji3_2026-03-07_1772873548thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EWA sets 23% water loss target by 2032 under updated plan",
+        "link": "https://www.newsofbahrain.com/business/128036.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C92AYQ5FJq_2026-03-07_1772873035thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Air India group to fly 50 West Asia flights Sunday for stranded passengers",
+        "link": "https://www.newsofbahrain.com/business/128035.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FJWPyrT6EB_2026-03-07_1772872747thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -338,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 17:19:36 UTC"
+  "fetched_at": "2026-03-07 17:46:07 UTC"
 }
