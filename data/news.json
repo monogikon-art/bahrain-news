@@ -206,6 +206,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Emirates Suspends Dubai Flights, Urges Passengers Not to Go to Airport",
+        "link": "https://www.newsofbahrain.com/world/128023.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dvBC24LItX_2026-03-07_1772869297resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Civil court hearings move online from Sunday",
+        "link": "https://www.newsofbahrain.com/bahrain/128022.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1UYHDE6JpO_2026-03-07_1772869005resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BD500 fee for firms missing Bahrainisation targets",
+        "link": "https://www.newsofbahrain.com/bahrain/128021.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uk0gXTOLUz_2026-03-07_1772868867resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Diplomatic missions praise Bahrain’s leadership and community safety",
+        "link": "https://www.newsofbahrain.com/bahrain/128020.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pvXtlSIrAn_2026-03-07_1772868028resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Critical services on war footing",
         "link": "https://www.newsofbahrain.com/bahrain/128019.html",
         "published": "7 Mar 2026, 09:22 AM",
@@ -221,37 +261,7 @@
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x0I7J3qn1t_2026-03-07_1772866770resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BD29.6m road expansion among infrastructure projects in Capital Governorate",
-        "link": "https://www.newsofbahrain.com/bahrain/128017.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f57rBP1tdl_2026-03-07_1772866543resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Law to regulate dangerous animals to be debated in Parliament",
-        "link": "https://www.newsofbahrain.com/bahrain/128016.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_V6zvUw2gZT_2026-03-07_1772866480resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Proposal calls for youth empowerment centre in Janabiya",
-        "link": "https://www.newsofbahrain.com/bahrain/128015.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dEa4XeIljx_2026-03-07_1772866231resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x0I7J3qn1t_2026-03-07_1772866770thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,16 +292,6 @@
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_qsALt2jUGF_2026-03-07_1772864819thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Arabia intercepts 16 drones heading toward major oil field",
-        "link": "https://www.newsofbahrain.com/world/128002.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pHqbVdav1N_2026-03-07_1772863882thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 07:26:13 UTC"
+  "fetched_at": "2026-03-07 07:49:00 UTC"
 }
