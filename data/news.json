@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -76,6 +76,16 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJrMzREUzl2clA1MXlJNzB2ZHhrbW5XTkViZmk4dkYxNkdGRE85eV82Wi1wMFNrZFllNGZKejYzbXF1WFZlN3VPMm9jQjdXSXJscXNtZmw5NHBsSHFHUlVEcmswWjdRcjg5VS1LaGpHUTVzaTNhaFBoOVp3ZnJUYTR2RE5YZWtKT1FrWmhYekREem1oQ2Z0ajE2dEtzNGx0VEF0SmRRekNtSC14Z19Rbmln?oc=5",
         "published": "7 Mar 2026, 11:20 AM",
         "iso_date": "2026-03-07T11:20:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, US, and UK hold emergency consultations on regional security",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTNmTmM2bDR3c3BvbmNmdjR0bkItcmttSmFDMG11XzF0YWJCMnBmblZ4c2dBR2RvWWpfSXQxUGdlRHdqdUpYbGlUVHRUemFGRVFzMEhidmNwc1pwMUdOSmxFaVdCZEMwVTVFR2MxSzVJS2o1Vy1yNHRLQi1WMWliaUxfZnpmSUNSWE03QThxQUdrWDRhZTFndzN2WllqM3ZOX25sVzNnMndiTEdYRHRIVUlPUE9rd1U?oc=5",
+        "published": "7 Mar 2026, 12:20 PM",
+        "iso_date": "2026-03-07T12:20:10+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 17:46:07 UTC"
+  "fetched_at": "2026-03-07 18:29:26 UTC"
 }
