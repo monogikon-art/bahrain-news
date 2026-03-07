@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -82,7 +82,138 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "Firefighters tackling Manama blaze after Iranian attack",
+        "link": "https://www.gdnonline.com/Details/1377857/Firefighters-tackling-Manama-blaze-after-Iranian-attack",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307213519gdn-websitesize-2026-03-07t214303.871_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain airspace remains temporarily closed",
+        "link": "https://www.gdnonline.com/Details/1377850/Bahrain-airspace-remains-temporarily-closed",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307130053airspace_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF General Command: 86 missiles, 148 drones destroyed since start of Iranian attacks",
+        "link": "https://www.gdnonline.com/Details/1377848/BDF-General-Command-86-missiles,-148-drones-destroyed-since-start-of-Iranian-attacks",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307122235bdf_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "2,600 evacuees housed in 10 emergency shelters",
+        "link": "https://www.gdnonline.com/Details/1377826/2,600-evacuees-housed-in-10-emergency-shelters",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307015320ministryofinterior_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Churches switch to online and hybrid prayer services",
+        "link": "https://www.gdnonline.com/Details/1377817/Churches-switch-to-online-and-hybrid-prayer-services",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_011555_0.png?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "SNIC announces BD12.41m insurance revenue in 2025",
+        "link": "https://www.gdnonline.com/Details/1377728/SNIC-announces-BD1241m-insurance-revenue-in-2025",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306003627msfk_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Liverpool down Wolves to enter quarter-finals",
+        "link": "https://www.gdnonline.com/Details/1377830/Liverpool-down-Wolves-to-enter-quarter-finals",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_020316_0_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ronaldo heads to Spain for rehabilitation after injury",
+        "link": "https://www.gdnonline.com/Details/1377827/Ronaldo-heads-to-Spain-for-rehabilitation-after-injury",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307022146ronaldo_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Morocco coach Regragui quits post as World Cup looms",
+        "link": "https://www.gdnonline.com/Details/1377791/Morocco-coach-Regragui-quits-post-as-World-Cup-looms",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306204436morocco1_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "President Trump honors Inter Miami, Lionel Messi at White House",
+        "link": "https://www.gdnonline.com/Details/1377790/President-Trump-honors-Inter-Miami,-Lionel-Messi-at-White-House",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306204046trump1_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Kingâs Cup quarter-final action set for resumption",
+        "link": "https://www.gdnonline.com/Details/1377725/Kingâs-Cup-quarter-final-action-set-for-resumption",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306_000307_1_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "James Corden and Aidan Turner among stars at National Theatre gala",
+        "link": "https://www.gdnonline.com/Details/1377770/James-Corden-and-Aidan-Turner-among-stars-at-National-Theatre-gala",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/2026030608590501kjznttttrgc9z00wa5qpw8ps(1)_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Paddington The Musical up for 11 Olivier Awards",
+        "link": "https://www.gdnonline.com/Details/1377771/Paddington-The-Musical-up-for-11-Olivier-Awards",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306090706692dba56e4b094ced7f01d6e_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
         "title": "FM Al Zayani Meets US Ambassador to Discuss Security Cooperation",
@@ -328,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 20:47:42 UTC"
+  "fetched_at": "2026-03-07 21:18:24 UTC"
 }
