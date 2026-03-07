@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "King Hamad says Bahrain 'committed to peace' as Iran attacks continue",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kQ3VzNnNScW5TbFVLMnZ6Mld0Ung5Tld1SWFUdUlRS1pkMUp4THJ5czlTcFpnQjJBS09MTDJNTW1TY3ZIRTd1WFhoSDZraFlEZXZB?oc=5",
+        "published": "7 Mar 2026, 05:27 PM",
+        "iso_date": "2026-03-07T17:27:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
         "published": "7 Mar 2026, 05:48 PM",
@@ -42,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xMGVmbE9PREFyLWs5OFVIOC1PdXlJT3N2UmVkMmQ2empNY1E3Q011bmFaVUdTUGFqRFM1T0V2Z3RnbkJlWjItMjZxZldPakNkaUIyQkRFMDFYSTho?oc=5",
-        "published": "7 Mar 2026, 11:39 AM",
-        "iso_date": "2026-03-07T11:39:27+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Intercepts 86 Missiles and 148 Drones Amid Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJrMzREUzl2clA1MXlJNzB2ZHhrbW5XTkViZmk4dkYxNkdGRE85eV82Wi1wMFNrZFllNGZKejYzbXF1WFZlN3VPMm9jQjdXSXJscXNtZmw5NHBsSHFHUlVEcmswWjdRcjg5VS1LaGpHUTVzaTNhaFBoOVp3ZnJUYTR2RE5YZWtKT1FrWmhYekREem1oQ2Z0ajE2dEtzNGx0VEF0SmRRekNtSC14Z19Rbmln?oc=5",
         "published": "7 Mar 2026, 11:20 AM",
@@ -62,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "King Hamad says Bahrain 'committed to peace' as Iran attacks continue",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LeFc2Wkd6V2VRSGp1aWNUQ3VSWTZRN1NpY1YwT21PQ0lXN1Y0M1dST3ZqU0ctY3pBM011bVZNQ0Q3X1ozM0xIRUFvVEhkWHZmYVY5WVUzRzJOTkhU?oc=5",
-        "published": "7 Mar 2026, 05:01 PM",
-        "iso_date": "2026-03-07T17:01:09+00:00",
+        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS - BERNAMA",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
+        "published": "7 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-07T11:14:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Debris from Aerial Interception Kills Pakistani Driver in Dubai’s Al Barsha",
-        "link": "https://www.newsofbahrain.com/world/128065.html",
+        "title": "FM Al Zayani Meets US Ambassador to Discuss Security Cooperation",
+        "link": "https://www.newsofbahrain.com/bahrain/128067.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VMnCfepPoG_2026-03-07_1772913841resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, US and UK Hold Security Consultations Under C-SIPA Framework",
+        "link": "https://www.newsofbahrain.com/bahrain/128066.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bNs7aKGduC_2026-03-07_1772912554resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Debris from Aerial Interception Kills Pakistani Driver in Dubai’s Al Barsha",
+        "link": "https://www.newsofbahrain.com/world/128065.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjsXxO9pYz_2026-03-07_1772912202resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +248,8 @@
       {
         "title": "Debris from Intercepted Projectile Causes Minor Damage to Dubai Marina Tower",
         "link": "https://www.newsofbahrain.com/world/128064.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_8ICcJ2mKXt_2026-03-07_1772910980resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,30 +258,10 @@
       {
         "title": "Key Developments – National Response to Iranian Attacks on Bahrain",
         "link": "https://www.newsofbahrain.com/bahrain/128063.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fvQzDCjS1h_2026-03-07_1772904174resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India Suspends TV News Ratings Over Sensational Iran War Coverage",
-        "link": "https://www.newsofbahrain.com/world/128062.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vn3XBPKybd_2026-03-07_1772898183resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Jordanian Citizens Killed After Russian Military Recruitment",
-        "link": "https://www.newsofbahrain.com/world/128061.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5kbSKTFD2B_2026-03-07_1772898133resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fvQzDCjS1h_2026-03-07_1772904174resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,22 +286,22 @@
         "category": "Latest"
       },
       {
-        "title": "Stranded Bahrainis Return Home Safely from Mashhad",
-        "link": "https://www.newsofbahrain.com/bahrain/128055.html",
+        "title": "India Suspends TV News Ratings Over Sensational Iran War Coverage",
+        "link": "https://www.newsofbahrain.com/world/128062.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7BkOIZN0yo_2026-03-07_1772886741thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vn3XBPKybd_2026-03-07_1772898183thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain International Airport Operations Remain Suspended",
-        "link": "https://www.newsofbahrain.com/bahrain/128050.html",
+        "title": "Jordanian Citizens Killed After Russian Military Recruitment",
+        "link": "https://www.newsofbahrain.com/world/128061.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fdCWiTUbXt_2026-03-07_1772884799thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5kbSKTFD2B_2026-03-07_1772898133thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 19:43:23 UTC"
+  "fetched_at": "2026-03-07 20:21:33 UTC"
 }
