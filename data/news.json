@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 13
     }
   },
   "articles": {
@@ -62,7 +62,7 @@
         "category": "Latest"
       },
       {
-        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS",
+        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS - BERNAMA",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
         "published": "7 Mar 2026, 11:14 AM",
         "iso_date": "2026-03-07T11:14:06+00:00",
@@ -216,12 +216,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Air Defence Interception Triggers Brief Disruption at Dubai International Airport",
-        "link": "https://www.newsofbahrain.com/world/128048.html",
+        "title": "Weekend Crowds Signal Return to Routine Despite Tensions",
+        "link": "https://www.newsofbahrain.com/bahrain/128056.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BXNUdju0v1_2026-03-07_1772881644resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kN1E5nAp06_2026-03-07_1772886819resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Stranded Bahrainis Return Home Safely from Mashhad",
+        "link": "https://www.newsofbahrain.com/bahrain/128055.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7BkOIZN0yo_2026-03-07_1772886741resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UN Urges Lebanon and Israel to Begin Peace Talks Amid Renewed Conflict",
+        "link": "https://www.newsofbahrain.com/world/128054.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1TcuhJ8GiX_2026-03-07_1772885924resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Sri Lanka to Treat Iranian Sailors Rescued from Torpedoed Frigate, Citing International Law",
+        "link": "https://www.newsofbahrain.com/world/128053.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MGyhdXKBHg_2026-03-07_1772885724resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump Says Iran ‘No Longer Bully of Middle East,’ Warns of More Strikes",
+        "link": "https://www.newsofbahrain.com/world/128052.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0ndG39pKDH_2026-03-07_1772885165resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain International Airport Operations Remain Suspended",
+        "link": "https://www.newsofbahrain.com/bahrain/128050.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fdCWiTUbXt_2026-03-07_1772884799thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -231,37 +281,7 @@
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kYZWPJS8f9_2026-03-07_1772878765resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "“I have great love for this country”",
-        "link": "https://www.newsofbahrain.com/sports/128046.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_K4q6k30lzE_2026-03-07_1772878164resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Super Cup Final Set",
-        "link": "https://www.newsofbahrain.com/sports/128045.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hwdbmLRnjt_2026-03-07_1772878010resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Eid Orders Delayed",
-        "link": "https://www.newsofbahrain.com/business/128044.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aJjnAqW4Tu_2026-03-07_1772877627resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kYZWPJS8f9_2026-03-07_1772878765thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -276,62 +296,22 @@
         "category": "Latest"
       },
       {
-        "title": "Preparedness Does Not Mean Fear",
-        "link": "https://www.newsofbahrain.com/bahrain/128042.html",
+        "title": "Iran Launches Drone Strikes on Israel and US Bases in Gulf",
+        "link": "https://www.newsofbahrain.com/world/128051.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zDNWhab35B_2026-03-07_1772876629thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vLfbQAiYpy_2026-03-07_1772884874thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Civil Defence Handles 90 Emergency Reports",
-        "link": "https://www.newsofbahrain.com/bahrain/128041.html",
+        "title": "Eid Orders Delayed",
+        "link": "https://www.newsofbahrain.com/business/128044.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qau0z3ODls_2026-03-07_1772876486thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air Flights Remain Suspended as Bahrain Airspace Closure Continues",
-        "link": "https://www.newsofbahrain.com/bahrain/128040.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kBA9dJnuUc_2026-03-07_1772876053thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Emirates Resumes Flight Operations in Dubai After Earlier Suspension",
-        "link": "https://www.newsofbahrain.com/world/128038.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_48pR7PGket_2026-03-07_1772873868thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian President Issues Apology and Calls for Regional Calm",
-        "link": "https://www.newsofbahrain.com/world/128027.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wgQoh1LnAd_2026-03-07_1772871596thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Emirates Suspends Dubai Flights, Urges Passengers Not to Go to Airport",
-        "link": "https://www.newsofbahrain.com/world/128023.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dvBC24LItX_2026-03-07_1772869297thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aJjnAqW4Tu_2026-03-07_1772877627thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 11:42:39 UTC"
+  "fetched_at": "2026-03-07 12:40:09 UTC"
 }
