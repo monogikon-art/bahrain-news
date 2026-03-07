@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Holds Extraordinary Consultations with US, UK Under C-SIPA Security Integration Agreement",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdDE0dTRQVUwxUlg5QmYtdUYxQ2JkVGtHclZxTVAyS2hXbkZKZjdBaG1TdjE1LW9ZR0hCYzRtZGowWXM5Y252X1hVMmxpalVSM0FOME9mT1RPeHUtUWx3Mm9yWlV0OXExazIteFJhV2dpVHpwdVhtTUxSMlRJdkh6cjltQWtFc1p2XzQwRy15N1R5VWhVQXhsU0FQNl9Gckt0cndPc2pRQ0psVUdzSlhkbkZnV1E5bkdLVzZINXJQQW9zVHZiWFp3YmRuT2lTT1AyVkgzbnZqUklvdw?oc=5",
-        "published": "6 Mar 2026, 08:30 AM",
-        "iso_date": "2026-03-06T08:30:52+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Defence Force: 84 missiles, 147 drones destroyed since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMW5VUDJfZWRWUjlja1dRWDFFbkNOOEpGRE9OWGdWejh4TllnbWFBY2piV19nU2FfWmMybEs1TGtKbXhkVjRUUEFlWktDUzVYSF8tWlBoTTl3QTAzNXJJcXUya0RyTG9JRHdwZGRzRWpEV2RQWGFTWXptaHh6VVVJMUFlYWlDb0xhazhMTXE2MFNwN0pOc0JxYm4yRWJhWE1pUW8tSzh6TC1oX1RQX0sxazMtRnNFSEpQU3F3R0tOelBwcU5nWWdxVGVGWQ?oc=5",
         "published": "6 Mar 2026, 10:04 PM",
@@ -74,52 +64,52 @@
     ],
     "gdn": [
       {
+        "title": "2,600 evacuees housed in 10 emergency shelters",
+        "link": "https://www.gdnonline.com/Details/1377826/2,600-evacuees-housed-in-10-emergency-shelters",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307015320ministryofinterior_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Churches switch to online and hybrid prayer services",
+        "link": "https://www.gdnonline.com/Details/1377817/Churches-switch-to-online-and-hybrid-prayer-services",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_011555_0.png?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Top officials review readiness of Bahrainâs medical supply system",
+        "link": "https://www.gdnonline.com/Details/1377825/Top-officials-review-readiness-of-Bahrainâs-medical-supply-system",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_013034_0_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf unity pledge amid Iranian attacks",
+        "link": "https://www.gdnonline.com/Details/1377823/Gulf-unity-pledge-amid-Iranian-attacks",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307012822hrhsalman_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Key development projects to transform Capital Governorate",
         "link": "https://www.gdnonline.com/Details/1377792/Key-development-projects-to-transform-Capital-Governorate",
         "published": "7 Mar 2026",
         "iso_date": "2026-03-07T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260307/20260306_223613_1_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Tougher punishment call for using dangerous animals to harm others",
-        "link": "https://www.gdnonline.com/Details/1377798/Tougher-punishment-call-for-using-dangerous-animals-to-harm-others",
-        "published": "7 Mar 2026",
-        "iso_date": "2026-03-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260306_223636_0_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Swift action over unsafe buildings",
-        "link": "https://www.gdnonline.com/Details/1377794/Swift-action-over-unsafe-buildings",
-        "published": "7 Mar 2026",
-        "iso_date": "2026-03-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260306_223634_0_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Series of major infrastructure plans underway",
-        "link": "https://www.gdnonline.com/Details/1377793/Series-of-major-infrastructure-plans-underway",
-        "published": "7 Mar 2026",
-        "iso_date": "2026-03-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306224635hawaj_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Prior warnings urged before penalties over labour violations",
-        "link": "https://www.gdnonline.com/Details/1377795/Prior-warnings-urged-before-penalties-over-labour-violations",
-        "published": "7 Mar 2026",
-        "iso_date": "2026-03-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260306_223634_2_T.jpg?20260307",
         "source": "gdn",
         "category": "Latest"
       },
@@ -206,72 +196,82 @@
     ],
     "newsofbahrain": [
       {
+        "title": "EWA sets 23% water loss target by 2032 under updated plan",
+        "link": "https://www.newsofbahrain.com/business/128036.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C92AYQ5FJq_2026-03-07_1772873035resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Air India group to fly 50 West Asia flights Sunday for stranded passengers",
+        "link": "https://www.newsofbahrain.com/business/128035.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FJWPyrT6EB_2026-03-07_1772872747resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Parliament to discuss development of Muharraq waterfront",
+        "link": "https://www.newsofbahrain.com/bahrain/128034.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UEHyn92Bep_2026-03-07_1772872562resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Home repair grant to double to BD20,000 under MP plan",
+        "link": "https://www.newsofbahrain.com/bahrain/128033.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LIGk3KZCrX_2026-03-07_1772872440resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Drivers detained and vehicles impounded for public disturbance",
+        "link": "https://www.newsofbahrain.com/bahrain/128032.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yvq95VSCkQ_2026-03-07_1772872117resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Fish market sees stable prices and abundant supply",
+        "link": "https://www.newsofbahrain.com/bahrain/128031.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zG5We6ovhs_2026-03-07_1772871975thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "34 collapse-risk buildings tracked in three years in Muharraq",
         "link": "https://www.newsofbahrain.com/bahrain/128030.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FtDTIW0Hvr_2026-03-07_1772871852resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US embassy urges Americans to register for departure assistance",
-        "link": "https://www.newsofbahrain.com/bahrain/128029.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pZla3fQ2uF_2026-03-07_1772871737resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain refutes false Iranian claims at UN on behalf of GCC",
-        "link": "https://www.newsofbahrain.com/bahrain/128028.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sSpriwtTvz_2026-03-07_1772871616resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FtDTIW0Hvr_2026-03-07_1772871852thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Iranian President Issues Apology and Calls for Regional Calm",
         "link": "https://www.newsofbahrain.com/world/128027.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wgQoh1LnAd_2026-03-07_1772871596resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "U.S. Fuel Prices Surge as Iran Conflict Disrupts Oil Markets",
-        "link": "https://www.newsofbahrain.com/business/128026.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fodwtXbNzV_2026-03-07_1772870816resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Model park on way in Madinat Khalifa",
-        "link": "https://www.newsofbahrain.com/bahrain/128025.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OHE0ysixAo_2026-03-07_1772870486thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Life term for using dangerous animals in attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/128024.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OFni864jAl_2026-03-07_1772869594thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wgQoh1LnAd_2026-03-07_1772871596thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,32 +306,22 @@
         "category": "Latest"
       },
       {
+        "title": "U.S. Fuel Prices Surge as Iran Conflict Disrupts Oil Markets",
+        "link": "https://www.newsofbahrain.com/business/128026.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fodwtXbNzV_2026-03-07_1772870816thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Google to open German centre for ‘AI development’",
         "link": "https://www.newsofbahrain.com/business/127962.html",
         "published": "6 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-06T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_rDS0UqiFsf_2026-03-06_1772786263thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Chinese firms slam EU’s ‘protectionist’ ‘Made in Europe’ plan",
-        "link": "https://www.newsofbahrain.com/business/127961.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NmzoDBhrIX_2026-03-06_1772785611thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "AI giants promise Trump to pay for increased energy needs",
-        "link": "https://www.newsofbahrain.com/business/127960.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ttj829QXou_2026-03-06_1772785426thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 08:27:11 UTC"
+  "fetched_at": "2026-03-07 08:55:25 UTC"
 }
