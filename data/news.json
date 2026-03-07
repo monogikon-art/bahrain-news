@@ -64,6 +64,16 @@
     ],
     "gdn": [
       {
+        "title": "Bahrain airspace remains temporarily closed",
+        "link": "https://www.gdnonline.com/Details/1377850/Bahrain-airspace-remains-temporarily-closed",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307130053airspace_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "BDF General Command: 86 missiles, 148 drones destroyed since start of Iranian attacks",
         "link": "https://www.gdnonline.com/Details/1377848/BDF-General-Command-86-missiles,-148-drones-destroyed-since-start-of-Iranian-attacks",
         "published": "7 Mar 2026",
@@ -100,16 +110,6 @@
         "iso_date": "2026-03-07T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_013034_0_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf unity pledge amid Iranian attacks",
-        "link": "https://www.gdnonline.com/Details/1377823/Gulf-unity-pledge-amid-Iranian-attacks",
-        "published": "7 Mar 2026",
-        "iso_date": "2026-03-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307012822hrhsalman_T.jpg?20260307",
         "source": "gdn",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 10:20:17 UTC"
+  "fetched_at": "2026-03-07 10:47:49 UTC"
 }
