@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 13
     }
   },
   "articles": {
@@ -196,10 +196,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "EWA sets 23% water loss target by 2032 under updated plan",
-        "link": "https://www.newsofbahrain.com/business/128036.html",
+        "title": "Bahrain’s Defense Forces Intercept 86 Missiles and 148 Drones",
+        "link": "https://www.newsofbahrain.com/bahrain/128039.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wgz9SD7K1u_2026-03-07_1772875433resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Emirates Resumes Flight Operations in Dubai After Earlier Suspension",
+        "link": "https://www.newsofbahrain.com/world/128038.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_48pR7PGket_2026-03-07_1772873868resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dair and Samaheej waterfront to be offered on Government Land Investment Platform",
+        "link": "https://www.newsofbahrain.com/business/128037.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Abny0Daji3_2026-03-07_1772873548resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EWA sets 23% water loss target by 2032 under updated plan",
+        "link": "https://www.newsofbahrain.com/business/128036.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_C92AYQ5FJq_2026-03-07_1772873035resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,20 +248,20 @@
       {
         "title": "Parliament to discuss development of Muharraq waterfront",
         "link": "https://www.newsofbahrain.com/bahrain/128034.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UEHyn92Bep_2026-03-07_1772872562resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UEHyn92Bep_2026-03-07_1772872562thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Home repair grant to double to BD20,000 under MP plan",
         "link": "https://www.newsofbahrain.com/bahrain/128033.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LIGk3KZCrX_2026-03-07_1772872440resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LIGk3KZCrX_2026-03-07_1772872440thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -241,7 +271,7 @@
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yvq95VSCkQ_2026-03-07_1772872117resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yvq95VSCkQ_2026-03-07_1772872117thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -252,16 +282,6 @@
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zG5We6ovhs_2026-03-07_1772871975thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "34 collapse-risk buildings tracked in three years in Muharraq",
-        "link": "https://www.newsofbahrain.com/bahrain/128030.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FtDTIW0Hvr_2026-03-07_1772871852thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,62 +316,12 @@
         "category": "Latest"
       },
       {
-        "title": "The UAE strongly condemned Iranian attack targeted buildings in the Bahrain",
-        "link": "https://www.newsofbahrain.com/world/128005.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u9ocxkdW0p_2026-03-07_1772865001thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "U.S. Fuel Prices Surge as Iran Conflict Disrupts Oil Markets",
         "link": "https://www.newsofbahrain.com/business/128026.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_fodwtXbNzV_2026-03-07_1772870816thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Google to open German centre for ‘AI development’",
-        "link": "https://www.newsofbahrain.com/business/127962.html",
-        "published": "6 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rDS0UqiFsf_2026-03-06_1772786263thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ramadan and Family Reconciliation: Repairing Relationships During the Holy Month",
-        "link": "https://www.newsofbahrain.com/views/127922.html",
-        "published": "5 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3dKZCEGiW0_2026-03-05_1772707089thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India strongly reiterates its call for dialogue and diplomacy",
-        "link": "https://www.newsofbahrain.com/views/127918.html",
-        "published": "5 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rHpmaNE7LX_2026-03-05_1772705827thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A Simple Gesture, A Powerful Message",
-        "link": "https://www.newsofbahrain.com/views/127914.html",
-        "published": "5 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5VURXHbBOL_2026-03-05_1772703531thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -469,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 08:55:25 UTC"
+  "fetched_at": "2026-03-07 09:25:57 UTC"
 }
