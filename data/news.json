@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 16
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyYW9GeWVRWXZKRFF6aEdaek5lTk5PNElZZDJyWFg4RmRYZDRuVHI2cHNFa1RpNzN0UWtsRlozTUFxOVFyRE1oZGxGakxHSDBpdU9lVVA2bGJaaWxGZGxCVjN3SjRiNEdyUEpjcXNvYjRFQWF4UlhsSTBnUEw?oc=5",
+        "published": "6 Mar 2026, 07:18 PM",
+        "iso_date": "2026-03-06T19:18:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Iranian drones strike apartments in city that’s home to NSA Bahrain",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSDVKZHpZY29JZGJwZDNqWGtGUHNaMEZSMHV3Q2NScmY1UDlDVExZempmb3g1UTRabEkzbHVMdkFaYk4zb1E3eXh4b1hlN2FvUVNHNVJnNDJzSmhhVHE0aUhvMnVSYXlfRElKX1hXUFFhekt6akh5Yk1TOHI1Y0lSTkVTM21hOVVma3pEQVRCQ1pOdw?oc=5",
@@ -36,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdDE0dTRQVUwxUlg5QmYtdUYxQ2JkVGtHclZxTVAyS2hXbkZKZjdBaG1TdjE1LW9ZR0hCYzRtZGowWXM5Y252X1hVMmxpalVSM0FOME9mT1RPeHUtUWx3Mm9yWlV0OXExazIteFJhV2dpVHpwdVhtTUxSMlRJdkh6cjltQWtFc1p2XzQwRy15N1R5VWhVQXhsU0FQNl9Gckt0cndPc2pRQ0psVUdzSlhkbkZnV1E5bkdLVzZINXJQQW9zVHZiWFp3YmRuT2lTT1AyVkgzbnZqUklvdw?oc=5",
         "published": "6 Mar 2026, 08:30 AM",
         "iso_date": "2026-03-06T08:30:52+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyYW9GeWVRWXZKRFF6aEdaek5lTk5PNElZZDJyWFg4RmRYZDRuVHI2cHNFa1RpNzN0UWtsRlozTUFxOVFyRE1oZGxGakxHSDBpdU9lVVA2bGJaaWxGZGxCVjN3SjRiNEdyUEpjcXNvYjRFQWF4UlhsSTBnUEw?oc=5",
-        "published": "6 Mar 2026, 07:18 PM",
-        "iso_date": "2026-03-06T19:18:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -134,16 +134,6 @@
         "category": "Latest"
       },
       {
-        "title": "Alba advances Bahraini talent with leadership appointments",
-        "link": "https://www.gdnonline.com/Details/1377641/Alba-advances-Bahraini-talent-with-leadership-appointments",
-        "published": "5 Mar 2026",
-        "iso_date": "2026-03-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260304/20260304233540websize(1)_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Liverpool down Wolves to enter quarter-finals",
         "link": "https://www.gdnonline.com/Details/1377830/Liverpool-down-Wolves-to-enter-quarter-finals",
         "published": "7 Mar 2026",
@@ -210,26 +200,6 @@
         "iso_date": "2026-03-06T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260306/20260306090706692dba56e4b094ced7f01d6e_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Letâs unwind indoors!",
-        "link": "https://www.gdnonline.com/Details/1377626/Letâs-unwind-indoors",
-        "published": "5 Mar 2026",
-        "iso_date": "2026-03-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260304_205643_0_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Unwinding indoors",
-        "link": "https://www.gdnonline.com/Details/1377624/Unwinding-indoors",
-        "published": "5 Mar 2026",
-        "iso_date": "2026-03-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260305/20260304_205639_2_T.jpg?20260307",
         "source": "gdn",
         "category": "Latest"
       }
@@ -509,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-06 23:50:08 UTC"
+  "fetched_at": "2026-03-07 01:44:24 UTC"
 }
