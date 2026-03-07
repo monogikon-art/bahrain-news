@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LeFc2Wkd6V2VRSGp1aWNUQ3VSWTZRN1NpY1YwT21PQ0lXN1Y0M1dST3ZqU0ctY3pBM011bVZNQ0Q3X1ozM0xIRUFvVEhkWHZmYVY5WVUzRzJOTkhU?oc=5",
         "published": "7 Mar 2026, 05:01 PM",
         "iso_date": "2026-03-07T17:01:09+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, US, and UK hold emergency consultations on regional security",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTNmTmM2bDR3c3BvbmNmdjR0bkItcmttSmFDMG11XzF0YWJCMnBmblZ4c2dBR2RvWWpfSXQxUGdlRHdqdUpYbGlUVHRUemFGRVFzMEhidmNwc1pwMUdOSmxFaVdCZEMwVTVFR2MxSzVJS2o1Vy1yNHRLQi1WMWliaUxfZnpmSUNSWE03QThxQUdrWDRhZTFndzN2WllqM3ZOX25sVzNnMndiTEdYRHRIVUlPUE9rd1U?oc=5",
+        "published": "7 Mar 2026, 12:20 PM",
+        "iso_date": "2026-03-07T12:20:10+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -134,6 +144,26 @@
         "category": "Latest"
       },
       {
+        "title": "Marmoush leads City to last 8",
+        "link": "https://www.gdnonline.com/Details/1377898/Marmoush-leads-City-to-last-8",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308_020112_0_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Yamal stars as Barca seal hard-fought win",
+        "link": "https://www.gdnonline.com/Details/1377897/Yamal-stars-as-Barca-seal-hard-fought-win-",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308023059ok_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Liverpool down Wolves to enter quarter-finals",
         "link": "https://www.gdnonline.com/Details/1377830/Liverpool-down-Wolves-to-enter-quarter-finals",
         "published": "7 Mar 2026",
@@ -160,26 +190,6 @@
         "iso_date": "2026-03-06T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260306/20260306204436morocco1_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "President Trump honors Inter Miami, Lionel Messi at White House",
-        "link": "https://www.gdnonline.com/Details/1377790/President-Trump-honors-Inter-Miami,-Lionel-Messi-at-White-House",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306204046trump1_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Kingâs Cup quarter-final action set for resumption",
-        "link": "https://www.gdnonline.com/Details/1377725/Kingâs-Cup-quarter-final-action-set-for-resumption",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306_000307_1_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 23:19:44 UTC"
+  "fetched_at": "2026-03-07 23:44:46 UTC"
 }
