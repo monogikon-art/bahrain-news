@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyYW9GeWVRWXZKRFF6aEdaek5lTk5PNElZZDJyWFg4RmRYZDRuVHI2cHNFa1RpNzN0UWtsRlozTUFxOVFyRE1oZGxGakxHSDBpdU9lVVA2bGJaaWxGZGxCVjN3SjRiNEdyUEpjcXNvYjRFQWF4UlhsSTBnUEw?oc=5",
-        "published": "6 Mar 2026, 07:18 PM",
-        "iso_date": "2026-03-06T19:18:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Intercepts 86 Missiles and 148 Drones Amid Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJrMzREUzl2clA1MXlJNzB2ZHhrbW5XTkViZmk4dkYxNkdGRE85eV82Wi1wMFNrZFllNGZKejYzbXF1WFZlN3VPMm9jQjdXSXJscXNtZmw5NHBsSHFHUlVEcmswWjdRcjg5VS1LaGpHUTVzaTNhaFBoOVp3ZnJUYTR2RE5YZWtKT1FrWmhYekREem1oQ2Z0ajE2dEtzNGx0VEF0SmRRekNtSC14Z19Rbmln?oc=5",
         "published": "7 Mar 2026, 11:20 AM",
@@ -72,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks - BERNAMA",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxeTJKMHZnT3FsX3pfNDdPckh0TG11N21aaE9uXzJ3THUtQWQzTmR5em9BX3BNUHZLOGE2N3hRRVgySFFhcE1vSUdLaDJONEVFZzFBVUQyWDdtV2h3Q1RqeHRlQ0tiM01Vbnl0ek9vT093REVQWHk5eEhpSk1EYk0?oc=5",
-        "published": "7 Mar 2026, 01:25 PM",
-        "iso_date": "2026-03-07T13:25:45+00:00",
+        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS - BERNAMA",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
+        "published": "7 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-07T11:14:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Debris from Intercepted Projectile Causes Minor Damage to Dubai Marina Tower",
+        "link": "https://www.newsofbahrain.com/world/128064.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8ICcJ2mKXt_2026-03-07_1772910980resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Key Developments – National Response to Iranian Attacks on Bahrain",
         "link": "https://www.newsofbahrain.com/bahrain/128063.html",
         "published": "7 Mar 2026, 09:22 AM",
@@ -238,8 +238,8 @@
       {
         "title": "India Suspends TV News Ratings Over Sensational Iran War Coverage",
         "link": "https://www.newsofbahrain.com/world/128062.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vn3XBPKybd_2026-03-07_1772898183resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,20 +258,10 @@
       {
         "title": "German Embassy in Bahrain to Partially Reopen",
         "link": "https://www.newsofbahrain.com/bahrain/128060.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5cWVIpOZU2_2026-03-07_1772890190resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Drones hit oil sites, target armed groups in Iraq",
-        "link": "https://www.newsofbahrain.com/world/128059.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAEePiIsMt_2026-03-07_1772889059resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5cWVIpOZU2_2026-03-07_1772890190resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,12 +296,12 @@
         "category": "Latest"
       },
       {
-        "title": "UN Urges Lebanon and Israel to Begin Peace Talks Amid Renewed Conflict",
-        "link": "https://www.newsofbahrain.com/world/128054.html",
+        "title": "Drones hit oil sites, target armed groups in Iraq",
+        "link": "https://www.newsofbahrain.com/world/128059.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1TcuhJ8GiX_2026-03-07_1772885924thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAEePiIsMt_2026-03-07_1772889059thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 18:57:40 UTC"
+  "fetched_at": "2026-03-07 19:24:44 UTC"
 }
