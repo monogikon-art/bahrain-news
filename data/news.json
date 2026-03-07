@@ -64,6 +64,16 @@
     ],
     "gdn": [
       {
+        "title": "BDF General Command: 86 missiles, 148 drones destroyed since start of Iranian attacks",
+        "link": "https://www.gdnonline.com/Details/1377848/BDF-General-Command-86-missiles,-148-drones-destroyed-since-start-of-Iranian-attacks",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307122235bdf_T.jpg?20260307",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "2,600 evacuees housed in 10 emergency shelters",
         "link": "https://www.gdnonline.com/Details/1377826/2,600-evacuees-housed-in-10-emergency-shelters",
         "published": "7 Mar 2026",
@@ -100,16 +110,6 @@
         "iso_date": "2026-03-07T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260307/20260307012822hrhsalman_T.jpg?20260307",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Key development projects to transform Capital Governorate",
-        "link": "https://www.gdnonline.com/Details/1377792/Key-development-projects-to-transform-Capital-Governorate",
-        "published": "7 Mar 2026",
-        "iso_date": "2026-03-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260306_223613_1_T.jpg?20260307",
         "source": "gdn",
         "category": "Latest"
       },
@@ -196,10 +196,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain’s Defense Forces Intercept 86 Missiles and 148 Drones",
-        "link": "https://www.newsofbahrain.com/bahrain/128039.html",
+        "title": "Preparedness Does Not Mean Fear",
+        "link": "https://www.newsofbahrain.com/bahrain/128042.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zDNWhab35B_2026-03-07_1772876629resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Civil Defence Handles 90 Emergency Reports",
+        "link": "https://www.newsofbahrain.com/bahrain/128041.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qau0z3ODls_2026-03-07_1772876486resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Air Flights Remain Suspended as Bahrain Airspace Closure Continues",
+        "link": "https://www.newsofbahrain.com/bahrain/128040.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kBA9dJnuUc_2026-03-07_1772876053resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s Defense Forces Intercept 86 Missiles and 148 Drones",
+        "link": "https://www.newsofbahrain.com/bahrain/128039.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wgz9SD7K1u_2026-03-07_1772875433resized_pic.jpg",
         "source": "newsofbahrain",
@@ -216,72 +246,12 @@
         "category": "Latest"
       },
       {
-        "title": "Dair and Samaheej waterfront to be offered on Government Land Investment Platform",
-        "link": "https://www.newsofbahrain.com/business/128037.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Abny0Daji3_2026-03-07_1772873548resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "EWA sets 23% water loss target by 2032 under updated plan",
-        "link": "https://www.newsofbahrain.com/business/128036.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C92AYQ5FJq_2026-03-07_1772873035resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Air India group to fly 50 West Asia flights Sunday for stranded passengers",
-        "link": "https://www.newsofbahrain.com/business/128035.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FJWPyrT6EB_2026-03-07_1772872747resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Parliament to discuss development of Muharraq waterfront",
         "link": "https://www.newsofbahrain.com/bahrain/128034.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_UEHyn92Bep_2026-03-07_1772872562thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Home repair grant to double to BD20,000 under MP plan",
-        "link": "https://www.newsofbahrain.com/bahrain/128033.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LIGk3KZCrX_2026-03-07_1772872440thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Drivers detained and vehicles impounded for public disturbance",
-        "link": "https://www.newsofbahrain.com/bahrain/128032.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yvq95VSCkQ_2026-03-07_1772872117thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fish market sees stable prices and abundant supply",
-        "link": "https://www.newsofbahrain.com/bahrain/128031.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zG5We6ovhs_2026-03-07_1772871975thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,6 +282,36 @@
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Jmw0Sf1LTP_2026-03-07_1772865057thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dair and Samaheej waterfront to be offered on Government Land Investment Platform",
+        "link": "https://www.newsofbahrain.com/business/128037.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Abny0Daji3_2026-03-07_1772873548thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EWA sets 23% water loss target by 2032 under updated plan",
+        "link": "https://www.newsofbahrain.com/business/128036.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C92AYQ5FJq_2026-03-07_1772873035thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Air India group to fly 50 West Asia flights Sunday for stranded passengers",
+        "link": "https://www.newsofbahrain.com/business/128035.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FJWPyrT6EB_2026-03-07_1772872747thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 09:25:57 UTC"
+  "fetched_at": "2026-03-07 09:51:29 UTC"
 }
