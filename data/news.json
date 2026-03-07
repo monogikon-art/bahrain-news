@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 15
     }
   },
   "articles": {
@@ -52,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defence Force: 84 missiles, 147 drones destroyed since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMW5VUDJfZWRWUjlja1dRWDFFbkNOOEpGRE9OWGdWejh4TllnbWFBY2piV19nU2FfWmMybEs1TGtKbXhkVjRUUEFlWktDUzVYSF8tWlBoTTl3QTAzNXJJcXUya0RyTG9JRHdwZGRzRWpEV2RQWGFTWXptaHh6VVVJMUFlYWlDb0xhazhMTXE2MFNwN0pOc0JxYm4yRWJhWE1pUW8tSzh6TC1oX1RQX0sxazMtRnNFSEpQU3F3R0tOelBwcU5nWWdxVGVGWQ?oc=5",
-        "published": "6 Mar 2026, 10:04 PM",
-        "iso_date": "2026-03-06T22:04:00+00:00",
+        "title": "Bahrain Defence Force: 84 Missiles, 147 Drones Destroyed Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSi14VXZFblZqenA2OFlmZUxhbVBRWXk5VHRiVV8yYmE0RnNhdW50QzgxbFdCTVJtdVpRWnFRY2d2YUdmTHNNRzJvdE1nX2gzX3hPS0t6LTZZUXVHa1BUWEE0QW1Bc3VsQVZnSjNKanpvLWxPUmw4RmZldDl4Q1pzMGJqOVhqSlhrd21vczFfTlRLR1lzbldTNmhmSFhIZw?oc=5",
+        "published": "6 Mar 2026, 10:15 PM",
+        "iso_date": "2026-03-06T22:15:05+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,12 +196,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "CBSE Postpones Class XII Board Exams Across Gulf Countries",
+        "link": "https://www.newsofbahrain.com/bahrain/128047.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kYZWPJS8f9_2026-03-07_1772878765resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "“I have great love for this country”",
+        "link": "https://www.newsofbahrain.com/sports/128046.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_K4q6k30lzE_2026-03-07_1772878164resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Super Cup Final Set",
+        "link": "https://www.newsofbahrain.com/sports/128045.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hwdbmLRnjt_2026-03-07_1772878010resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Eid Orders Delayed",
+        "link": "https://www.newsofbahrain.com/business/128044.html",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aJjnAqW4Tu_2026-03-07_1772877627resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pet Owners Face Evacuation Dilemma",
+        "link": "https://www.newsofbahrain.com/bahrain/128043.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VwDuAaMNo3_2026-03-07_1772877249resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Preparedness Does Not Mean Fear",
         "link": "https://www.newsofbahrain.com/bahrain/128042.html",
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zDNWhab35B_2026-03-07_1772876629resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zDNWhab35B_2026-03-07_1772876629thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -211,27 +261,17 @@
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qau0z3ODls_2026-03-07_1772876486resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qau0z3ODls_2026-03-07_1772876486thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Gulf Air Flights Remain Suspended as Bahrain Airspace Closure Continues",
         "link": "https://www.newsofbahrain.com/bahrain/128040.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kBA9dJnuUc_2026-03-07_1772876053resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s Defense Forces Intercept 86 Missiles and 148 Drones",
-        "link": "https://www.newsofbahrain.com/bahrain/128039.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wgz9SD7K1u_2026-03-07_1772875433resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kBA9dJnuUc_2026-03-07_1772876053thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -241,17 +281,7 @@
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_48pR7PGket_2026-03-07_1772873868resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Parliament to discuss development of Muharraq waterfront",
-        "link": "https://www.newsofbahrain.com/bahrain/128034.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UEHyn92Bep_2026-03-07_1772872562thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_48pR7PGket_2026-03-07_1772873868thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,16 +342,6 @@
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FJWPyrT6EB_2026-03-07_1772872747thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "U.S. Fuel Prices Surge as Iran Conflict Disrupts Oil Markets",
-        "link": "https://www.newsofbahrain.com/business/128026.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fodwtXbNzV_2026-03-07_1772870816thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -439,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 09:51:29 UTC"
+  "fetched_at": "2026-03-07 10:20:17 UTC"
 }
