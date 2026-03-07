@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -23,19 +23,19 @@
     "bna": [
       {
         "title": "King Hamad says Bahrain 'committed to peace' as Iran attacks continue",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LeFc2Wkd6V2VRSGp1aWNUQ3VSWTZRN1NpY1YwT21PQ0lXN1Y0M1dST3ZqU0ctY3pBM011bVZNQ0Q3X1ozM0xIRUFvVEhkWHZmYVY5WVUzRzJOTkhU?oc=5",
-        "published": "7 Mar 2026, 05:01 PM",
-        "iso_date": "2026-03-07T17:01:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kQ3VzNnNScW5TbFVLMnZ6Mld0Ung5Tld1SWFUdUlRS1pkMUp4THJ5czlTcFpnQjJBS09MTDJNTW1TY3ZIRTd1WFhoSDZraFlEZXZB?oc=5",
+        "published": "7 Mar 2026, 05:27 PM",
+        "iso_date": "2026-03-07T17:27:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyYW9GeWVRWXZKRFF6aEdaek5lTk5PNElZZDJyWFg4RmRYZDRuVHI2cHNFa1RpNzN0UWtsRlozTUFxOVFyRE1oZGxGakxHSDBpdU9lVVA2bGJaaWxGZGxCVjN3SjRiNEdyUEpjcXNvYjRFQWF4UlhsSTBnUEw?oc=5",
-        "published": "6 Mar 2026, 07:18 PM",
-        "iso_date": "2026-03-06T19:18:49+00:00",
+        "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
+        "published": "7 Mar 2026, 05:48 PM",
+        "iso_date": "2026-03-07T17:48:27+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,20 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS - BERNAMA",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
-        "published": "7 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-07T11:14:06+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
-        "published": "6 Mar 2026, 11:18 PM",
-        "iso_date": "2026-03-06T23:18:21+00:00",
+        "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyYW9GeWVRWXZKRFF6aEdaek5lTk5PNElZZDJyWFg4RmRYZDRuVHI2cHNFa1RpNzN0UWtsRlozTUFxOVFyRE1oZGxGakxHSDBpdU9lVVA2bGJaaWxGZGxCVjN3SjRiNEdyUEpjcXNvYjRFQWF4UlhsSTBnUEw?oc=5",
+        "published": "6 Mar 2026, 07:18 PM",
+        "iso_date": "2026-03-06T19:18:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -82,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain, US, and UK hold emergency consultations on regional security",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTNmTmM2bDR3c3BvbmNmdjR0bkItcmttSmFDMG11XzF0YWJCMnBmblZ4c2dBR2RvWWpfSXQxUGdlRHdqdUpYbGlUVHRUemFGRVFzMEhidmNwc1pwMUdOSmxFaVdCZEMwVTVFR2MxSzVJS2o1Vy1yNHRLQi1WMWliaUxfZnpmSUNSWE03QThxQUdrWDRhZTFndzN2WllqM3ZOX25sVzNnMndiTEdYRHRIVUlPUE9rd1U?oc=5",
-        "published": "7 Mar 2026, 12:20 PM",
-        "iso_date": "2026-03-07T12:20:10+00:00",
+        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks - BERNAMA",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxeTJKMHZnT3FsX3pfNDdPckh0TG11N21aaE9uXzJ3THUtQWQzTmR5em9BX3BNUHZLOGE2N3hRRVgySFFhcE1vSUdLaDJONEVFZzFBVUQyWDdtV2h3Q1RqeHRlQ0tiM01Vbnl0ek9vT093REVQWHk5eEhpSk1EYk0?oc=5",
+        "published": "7 Mar 2026, 01:25 PM",
+        "iso_date": "2026-03-07T13:25:45+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 18:29:26 UTC"
+  "fetched_at": "2026-03-07 18:57:40 UTC"
 }
