@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "King Hamad says Bahrain 'committed to peace' as Iran attacks continue",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kQ3VzNnNScW5TbFVLMnZ6Mld0Ung5Tld1SWFUdUlRS1pkMUp4THJ5czlTcFpnQjJBS09MTDJNTW1TY3ZIRTd1WFhoSDZraFlEZXZB?oc=5",
-        "published": "7 Mar 2026, 05:27 PM",
-        "iso_date": "2026-03-07T17:27:48+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
@@ -62,7 +52,17 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks - BERNAMA",
+        "title": "King Hamad says Bahrain 'committed to peace' as Iran attacks continue",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LeFc2Wkd6V2VRSGp1aWNUQ3VSWTZRN1NpY1YwT21PQ0lXN1Y0M1dST3ZqU0ctY3pBM011bVZNQ0Q3X1ozM0xIRUFvVEhkWHZmYVY5WVUzRzJOTkhU?oc=5",
+        "published": "7 Mar 2026, 05:01 PM",
+        "iso_date": "2026-03-07T17:01:09+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91a3Ytd21PTjh5ZmxyUHVjQ3RsNXhOREk4bXpGRllhaC0yMl93aEloOE5BZlFEWEl1TTY0Q2ZCekZ6N2dYTVRTMHFNdUNYb01yelNmQUEyaVlfbHpXd3ZEd2hn?oc=5",
         "published": "7 Mar 2026, 11:08 AM",
         "iso_date": "2026-03-07T11:08:12+00:00",
@@ -72,7 +72,138 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "Kingdom rallies firmly behind the leadership",
+        "link": "https://www.gdnonline.com/Details/1377861/Kingdom-rallies-firmly-behind-the-leadership",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260307_232451_0.jfif?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Safety upgrade to âcritical intersectionâ in Aâali on way",
+        "link": "https://www.gdnonline.com/Details/1377868/Safety-upgrade-to-âcritical-intersectionâ-in-Aâali-on-way",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260307_232456_0.png?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Speed, clarity and credibility: Gulfâs crisis communications playbook",
+        "link": "https://www.gdnonline.com/Details/1377860/Speed,-clarity-and-credibility-Gulfâs-crisis-communications-playbook",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260307_232450_3.jfif?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain stands secure!",
+        "link": "https://www.gdnonline.com/Details/1377859/Bahrain-stands-secure",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/202603072XXXXXXXXXXXX4100414akrammiknas,chairman,promosevenholdinggroup_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Verdict date announced in fatal car crash case",
+        "link": "https://www.gdnonline.com/Details/1377869/Verdict-date-announced-in-fatal-car-crash-case",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260307_232456_2_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "SNIC announces BD12.41m insurance revenue in 2025",
+        "link": "https://www.gdnonline.com/Details/1377728/SNIC-announces-BD1241m-insurance-revenue-in-2025",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306003627msfk_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Liverpool down Wolves to enter quarter-finals",
+        "link": "https://www.gdnonline.com/Details/1377830/Liverpool-down-Wolves-to-enter-quarter-finals",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_020316_0_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ronaldo heads to Spain for rehabilitation after injury",
+        "link": "https://www.gdnonline.com/Details/1377827/Ronaldo-heads-to-Spain-for-rehabilitation-after-injury",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307022146ronaldo_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Morocco coach Regragui quits post as World Cup looms",
+        "link": "https://www.gdnonline.com/Details/1377791/Morocco-coach-Regragui-quits-post-as-World-Cup-looms",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306204436morocco1_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "President Trump honors Inter Miami, Lionel Messi at White House",
+        "link": "https://www.gdnonline.com/Details/1377790/President-Trump-honors-Inter-Miami,-Lionel-Messi-at-White-House",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306204046trump1_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Kingâs Cup quarter-final action set for resumption",
+        "link": "https://www.gdnonline.com/Details/1377725/Kingâs-Cup-quarter-final-action-set-for-resumption",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306_000307_1_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "James Corden and Aidan Turner among stars at National Theatre gala",
+        "link": "https://www.gdnonline.com/Details/1377770/James-Corden-and-Aidan-Turner-among-stars-at-National-Theatre-gala",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/2026030608590501kjznttttrgc9z00wa5qpw8ps(1)_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Paddington The Musical up for 11 Olivier Awards",
+        "link": "https://www.gdnonline.com/Details/1377771/Paddington-The-Musical-up-for-11-Olivier-Awards",
+        "published": "6 Mar 2026",
+        "iso_date": "2026-03-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306090706692dba56e4b094ced7f01d6e_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
         "title": "FM Al Zayani Meets US Ambassador to Discuss Security Cooperation",
@@ -318,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 22:47:50 UTC"
+  "fetched_at": "2026-03-07 23:19:44 UTC"
 }
