@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,10 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defence Force: 84 Missiles, 147 Drones Destroyed Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSi14VXZFblZqenA2OFlmZUxhbVBRWXk5VHRiVV8yYmE0RnNhdW50QzgxbFdCTVJtdVpRWnFRY2d2YUdmTHNNRzJvdE1nX2gzX3hPS0t6LTZZUXVHa1BUWEE0QW1Bc3VsQVZnSjNKanpvLWxPUmw4RmZldDl4Q1pzMGJqOVhqSlhrd21vczFfTlRLR1lzbldTNmhmSFhIZw?oc=5",
-        "published": "6 Mar 2026, 10:15 PM",
-        "iso_date": "2026-03-06T22:15:05+00:00",
+        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS - BERNAMA",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
+        "published": "7 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-07T11:14:06+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Defence Force: 84 missiles, 147 drones destroyed since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMW5VUDJfZWRWUjlja1dRWDFFbkNOOEpGRE9OWGdWejh4TllnbWFBY2piV19nU2FfWmMybEs1TGtKbXhkVjRUUEFlWktDUzVYSF8tWlBoTTl3QTAzNXJJcXUya0RyTG9JRHdwZGRzRWpEV2RQWGFTWXptaHh6VVVJMUFlYWlDb0xhazhMTXE2MFNwN0pOc0JxYm4yRWJhWE1pUW8tSzh6TC1oX1RQX0sxazMtRnNFSEpQU3F3R0tOelBwcU5nWWdxVGVGWQ?oc=5",
+        "published": "6 Mar 2026, 10:04 PM",
+        "iso_date": "2026-03-06T22:04:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Air Defence Interception Triggers Brief Disruption at Dubai International Airport",
+        "link": "https://www.newsofbahrain.com/world/128048.html",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BXNUdju0v1_2026-03-07_1772881644resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "CBSE Postpones Class XII Board Exams Across Gulf Countries",
         "link": "https://www.newsofbahrain.com/bahrain/128047.html",
         "published": "7 Mar 2026, 09:22 AM",
@@ -208,8 +228,8 @@
       {
         "title": "“I have great love for this country”",
         "link": "https://www.newsofbahrain.com/sports/128046.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
+        "published": "7 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-07T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_K4q6k30lzE_2026-03-07_1772878164resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +248,8 @@
       {
         "title": "Eid Orders Delayed",
         "link": "https://www.newsofbahrain.com/business/128044.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_aJjnAqW4Tu_2026-03-07_1772877627resized_pic.jpg",
         "source": "newsofbahrain",
@@ -241,7 +261,7 @@
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VwDuAaMNo3_2026-03-07_1772877249resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VwDuAaMNo3_2026-03-07_1772877249thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +322,6 @@
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_dvBC24LItX_2026-03-07_1772869297thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Approves Emergency Sale of 12,000 Bomb Casings to Israel",
-        "link": "https://www.newsofbahrain.com/world/128006.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Jmw0Sf1LTP_2026-03-07_1772865057thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 10:47:49 UTC"
+  "fetched_at": "2026-03-07 11:17:42 UTC"
 }
