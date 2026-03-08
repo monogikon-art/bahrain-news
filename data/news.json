@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,20 @@
   "articles": {
     "bna": [
       {
+        "title": "Strikes Continue Despite Iranian President’s Apology",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamZlX3dWZmc0aElsaW5lOWJXZmotTmhrLWZ2ZUF2ZGZSU2Zad3VCbDlQd0Y5SnZFNWxaUzl6eVdMaV9qa3djYjZjXzU0Mm1QajEyMC1jYXVVQVd3OE9lWkFkTnlrNVItQk45dHJSbHpDMGgxUEFHRXl0M3F4Wjg1dklWREV2NlhzYTd4bVdIeFhXc2d3c0E?oc=5",
+        "published": "8 Mar 2026, 01:17 AM",
+        "iso_date": "2026-03-08T01:17:10+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
-        "published": "7 Mar 2026, 05:48 PM",
-        "iso_date": "2026-03-07T17:48:27+00:00",
+        "published": "8 Mar 2026, 02:49 AM",
+        "iso_date": "2026-03-08T02:49:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,7 +52,7 @@
         "category": "Latest"
       },
       {
-        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week - BERNAMA",
+        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zTV9aQnpULU1TaWZ3MDkwWmNxT3J6U1g5Nkg5dWZvaUdzSE5fWVVpSTBZX1dPNXdNSThDazRMRWNaM2RERm9mNzd5bUlrV1N2MHlISGlfY3prcXI4?oc=5",
         "published": "7 Mar 2026, 07:52 PM",
         "iso_date": "2026-03-07T19:52:30+00:00",
@@ -72,7 +82,7 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks - BERNAMA",
+        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91a3Ytd21PTjh5ZmxyUHVjQ3RsNXhOREk4bXpGRllhaC0yMl93aEloOE5BZlFEWEl1TTY0Q2ZCekZ6N2dYTVRTMHFNdUNYb01yelNmQUEyaVlfbHpXd3ZEd2hn?oc=5",
         "published": "7 Mar 2026, 11:08 AM",
         "iso_date": "2026-03-07T11:08:12+00:00",
@@ -419,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 01:52:05 UTC"
+  "fetched_at": "2026-03-08 04:09:12 UTC"
 }
