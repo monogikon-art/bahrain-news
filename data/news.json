@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 11
+      "count": 10
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamZlX3dWZmc0aElsaW5lOWJXZmotTmhrLWZ2ZUF2ZGZSU2Zad3VCbDlQd0Y5SnZFNWxaUzl6eVdMaV9qa3djYjZjXzU0Mm1QajEyMC1jYXVVQVd3OE9lWkFkTnlrNVItQk45dHJSbHpDMGgxUEFHRXl0M3F4Wjg1dklWREV2NlhzYTd4bVdIeFhXc2d3c0E?oc=5",
         "published": "8 Mar 2026, 01:17 AM",
         "iso_date": "2026-03-08T01:17:10+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait airport, tower, Bahrain desalination plant hit as Iran strikes Gulf infrastructure",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEhwRFFTb0NiSl9yUHZDek5zckhLbjFDaE1XcHZQd2piNV92MHV4MjBBMThFM1AwbGphYUsxV3ZVOHVSMUtyQ3N4UUxwenhCX1piRUUwRV85TjhDYU5qWlNENUNkUnhvbFhoOUhuUkZOQ214d0x4b24yd2Z2SW1uZTd3VzBqOF9iY01zWVVaY0x6U2c0b0FGTlY4ZkVhUEZPQllQNWwyel9oUDdvNkQwbEZPeHE0R2g4VTZSNlNwRy1ZQdIB1AFBVV95cUxPOEQtc2pPSzdoeDcxS1g5RFBydHJIVzRxNjlEMTQxRl9Id2JudUdyTjRkUm9KaFptR05rY01KMHRkSVJYWk5VLVFfTTExT2RtTUlGRTJFUU9fZG5VVEhOMXViNXQ5STFibUliZERrc1RCYnBlU01DQkNMaW81NkZfWXNtTG5scXN6MHp6cWt0NXBZOFNhYkZyRUFoZUlSUHgyM01tUUVBWjRfei1ZVDI0VV9GT2d4NzIzZDRyRzAwbzNudGlsWVlmbDFjUFl2OUltdzAzNA?oc=5",
+        "published": "8 Mar 2026, 12:48 PM",
+        "iso_date": "2026-03-08T12:48:18+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -82,16 +92,6 @@
         "category": "Latest"
       },
       {
-        "title": "Kuwait airport, tower, Bahrain desalination plant hit as Iran strikes Gulf infrastructure",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEhwRFFTb0NiSl9yUHZDek5zckhLbjFDaE1XcHZQd2piNV92MHV4MjBBMThFM1AwbGphYUsxV3ZVOHVSMUtyQ3N4UUxwenhCX1piRUUwRV85TjhDYU5qWlNENUNkUnhvbFhoOUhuUkZOQ214d0x4b24yd2Z2SW1uZTd3VzBqOF9iY01zWVVaY0x6U2c0b0FGTlY4ZkVhUEZPQllQNWwyel9oUDdvNkQwbEZPeHE0R2g4VTZSNlNwRy1ZQdIB1AFBVV95cUxPOEQtc2pPSzdoeDcxS1g5RFBydHJIVzRxNjlEMTQxRl9Id2JudUdyTjRkUm9KaFptR05rY01KMHRkSVJYWk5VLVFfTTExT2RtTUlGRTJFUU9fZG5VVEhOMXViNXQ5STFibUliZERrc1RCYnBlU01DQkNMaW81NkZfWXNtTG5scXN6MHp6cWt0NXBZOFNhYkZyRUFoZUlSUHgyM01tUUVBWjRfei1ZVDI0VV9GT2d4NzIzZDRyRzAwbzNudGlsWVlmbDFjUFl2OUltdzAzNA?oc=5",
-        "published": "8 Mar 2026, 12:48 PM",
-        "iso_date": "2026-03-08T12:48:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Three injuries, material damage to university building in Bahrain",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnhHbUpZYks1a3k4dnFNQ0NTemY2RHYzQnN1TXBZbGRUTTBTZGQ2N0piTTIzWi1LcTRVamNLVDJ5Um5MMU9MWmx0bnllbFR1eUFqc0pOOUNhMnFXY0ZnQnRlMktPdVFnWm1nT3RRdkRfSmNnYmxpMXpheEF6OG1CZkJkaXNhSTFDSWVtZlB0anVQeG1VNU05c1pGTi1FaWRCVkFUQVNvWUg?oc=5",
         "published": "8 Mar 2026, 12:04 PM",
@@ -112,20 +112,10 @@
         "category": "Latest"
       },
       {
-        "title": "Kuwait National Guard downs hostile drone - GCC News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04aFQ2elVOWFo2cnlSNHVtVWpvTVlfeHZVVllCa0oxNHEzNEQ5Q3lSMC1aWlpMNVM1dzk5WUJGQ092OHU5U0xuLUFDa0Z1VVhpcXRBbFltTWwzcFU?oc=5",
-        "published": "8 Mar 2026, 01:54 AM",
-        "iso_date": "2026-03-08T01:54:26+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait National Guard affirms protection of vital sites and downing of drone that targeted country’s airspace without damage",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bF9YQzY0SnBZTUZfR2hSVDZiemRHc2xydHN5SFVjS3NHWVJ4cWdkdWJGb3FoREFHZmx3MmR5UVhLOFk2X3dabTdaV3VsZUZVUHU4U1Z0VHl1dXc?oc=5",
-        "published": "8 Mar 2026, 01:15 AM",
-        "iso_date": "2026-03-08T01:15:12+00:00",
+        "title": "UAE confirms continued oil supplies to global markets via alternative routes bypassing Strait of Hormuz",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVZPbnFnYVFRZl8xQUhvcm5tTEhITDhFWlZHRENFbnNDZTNaeTA3cUJmTVQ3YV9tXzRlYkUzOUtVTktfVWowb09xVWxlaEtSOGNTY3ZJcnR5UkU?oc=5",
+        "published": "8 Mar 2026, 03:08 AM",
+        "iso_date": "2026-03-08T03:08:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 14:49:58 UTC"
+  "fetched_at": "2026-03-08 15:20:52 UTC"
 }
