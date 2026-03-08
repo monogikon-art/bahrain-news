@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 13
     }
   },
   "articles": {
@@ -52,6 +52,16 @@
         "category": "Latest"
       },
       {
+        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zTV9aQnpULU1TaWZ3MDkwWmNxT3J6U1g5Nkg5dWZvaUdzSE5fWVVpSTBZX1dPNXdNSThDazRMRWNaM2RERm9mNzd5bUlrV1N2MHlISGlfY3prcXI4?oc=5",
+        "published": "7 Mar 2026, 07:52 PM",
+        "iso_date": "2026-03-07T19:52:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Intercepts 86 Missiles and 148 Drones Amid Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJrMzREUzl2clA1MXlJNzB2ZHhrbW5XTkViZmk4dkYxNkdGRE85eV82Wi1wMFNrZFllNGZKejYzbXF1WFZlN3VPMm9jQjdXSXJscXNtZmw5NHBsSHFHUlVEcmswWjdRcjg5VS1LaGpHUTVzaTNhaFBoOVp3ZnJUYTR2RE5YZWtKT1FrWmhYekREem1oQ2Z0ajE2dEtzNGx0VEF0SmRRekNtSC14Z19Rbmln?oc=5",
         "published": "7 Mar 2026, 11:20 AM",
@@ -72,20 +82,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBob1c0c1Nmck9Sa2xIcTZCQWxBSGJLMHE3U3F1MTR4QjgtRjlQaVAwYmlLdGVGM2RTbmVoTFhBZWtob2xBYjBpdnNDb2xLSV9rdjJ6elBhdGg5OEphN0ZVNS1OOF9UWGltUm9uSF9PS2N4WG02em9zQXhIQQ?oc=5",
-        "published": "7 Mar 2026, 12:16 PM",
-        "iso_date": "2026-03-07T12:16:06+00:00",
+        "title": "Three injuries and material damage to a university building in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3hXa2MyQ2RwU3RBM2hfOXBITW5Zc2dqcEZaVTJJOU1idFlxYkxJQk9haGZWVURDVGVXLXpvWUJwRVFOMnhfejhHcHRSVXlSb2EwVEJJQWlFMWhWSEFKdl9DeTd5a1d0bVZiYmhJVUprZUNNRnhXS0UxRjltYUw3dXROQ2Z5UlFyZlhGanRWNmp4UGFQNkVOTmgtLTYtcG1FRnFiRU1oS1R4M2h2b2ljWEJGWGxBXzh4dzlNNzJFRQ?oc=5",
+        "published": "8 Mar 2026, 07:36 AM",
+        "iso_date": "2026-03-08T07:36:59+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "UAE confirms continued oil supplies to global markets via alternative routes bypassing Strait of Hormuz",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVZPbnFnYVFRZl8xQUhvcm5tTEhITDhFWlZHRENFbnNDZTNaeTA3cUJmTVQ3YV9tXzRlYkUzOUtVTktfVWowb09xVWxlaEtSOGNTY3ZJcnR5UkU?oc=5",
-        "published": "8 Mar 2026, 01:11 AM",
-        "iso_date": "2026-03-08T01:11:08+00:00",
+        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
+        "published": "7 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-07T11:14:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -186,6 +196,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Regional Updates (March 8)",
+        "link": "https://www.newsofbahrain.com/world/128078.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SIbdJYTxFZ_2026-03-08_1772955710resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Four Killed, 10 Injured in Israeli Airstrike on Beirut Hotel Apartment",
+        "link": "https://www.newsofbahrain.com/world/128077.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cm48jAEIKl_2026-03-08_1772955244resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Mourns Two Border Security Officers Killed on Duty",
+        "link": "https://www.newsofbahrain.com/world/128076.html",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cuqm7JyFQs_2026-03-08_1772954979resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Electricity & Water Authority: No Impact on Water Supply After Iranian Attack",
+        "link": "https://www.newsofbahrain.com/bahrain/128075.html",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wrCe08up3I_2026-03-08_1772954612resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian Drone Attack Damages Water Desalination Plant, Hits Civilian Targets",
         "link": "https://www.newsofbahrain.com/bahrain/128072.html",
         "published": "8 Mar 2026, 09:22 AM",
@@ -201,27 +251,17 @@
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O9iewfzLrE_2026-03-08_1772952381resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O9iewfzLrE_2026-03-08_1772952381thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Pet Owners Face Evacuation Dilemma",
         "link": "https://www.newsofbahrain.com/bahrain/128070.html",
-        "published": "",
-        "iso_date": "",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CHk5pjcFDd_2026-03-08_1772950467resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Air Defences Intercept Wave of Hostile Drones; Civilian Facilities Sustain Damage",
-        "link": "https://www.newsofbahrain.com/world/128069.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h6R0QzkBV2_2026-03-08_1772948799resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CHk5pjcFDd_2026-03-08_1772950467thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -231,47 +271,17 @@
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U3hJgnkYiz_2026-03-08_1772948641resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U3hJgnkYiz_2026-03-08_1772948641thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "FM Al Zayani Meets US Ambassador to Discuss Security Cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/128067.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
+        "title": "Kuwait Air Defences Intercept Wave of Hostile Drones; Civilian Facilities Sustain Damage",
+        "link": "https://www.newsofbahrain.com/world/128069.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VMnCfepPoG_2026-03-07_1772913841thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Debris from Aerial Interception Kills Pakistani Driver in Dubai’s Al Barsha",
-        "link": "https://www.newsofbahrain.com/world/128065.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjsXxO9pYz_2026-03-07_1772912202thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Debris from Intercepted Projectile Causes Minor Damage to Dubai Marina Tower",
-        "link": "https://www.newsofbahrain.com/world/128064.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8ICcJ2mKXt_2026-03-07_1772910980thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India Suspends TV News Ratings Over Sensational Iran War Coverage",
-        "link": "https://www.newsofbahrain.com/world/128062.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vn3XBPKybd_2026-03-07_1772898183thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h6R0QzkBV2_2026-03-08_1772948799thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,56 +322,6 @@
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FJWPyrT6EB_2026-03-07_1772872747thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ramadan and Family Reconciliation: Repairing Relationships During the Holy Month",
-        "link": "https://www.newsofbahrain.com/views/127922.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3dKZCEGiW0_2026-03-05_1772707089thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India strongly reiterates its call for dialogue and diplomacy",
-        "link": "https://www.newsofbahrain.com/views/127918.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rHpmaNE7LX_2026-03-05_1772705827thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A Simple Gesture, A Powerful Message",
-        "link": "https://www.newsofbahrain.com/views/127914.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5VURXHbBOL_2026-03-05_1772703531thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A Grand Stage for Young Visionaries: Al Noor International School Hosts Inaugural Techno-Fest",
-        "link": "https://www.newsofbahrain.com/views/127580.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2bxeDtYpQZ_2026-02-28_1772266594thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Outstanding Achievement in JEE Main 2026 for BIS",
-        "link": "https://www.newsofbahrain.com/views/127579.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gik6rb1OQq_2026-02-28_1772265876thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -479,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 07:08:49 UTC"
+  "fetched_at": "2026-03-08 07:51:25 UTC"
 }
