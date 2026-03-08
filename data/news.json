@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,7 +52,7 @@
         "category": "Latest"
       },
       {
-        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week",
+        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week - BERNAMA",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zTV9aQnpULU1TaWZ3MDkwWmNxT3J6U1g5Nkg5dWZvaUdzSE5fWVVpSTBZX1dPNXdNSThDazRMRWNaM2RERm9mNzd5bUlrV1N2MHlISGlfY3prcXI4?oc=5",
         "published": "7 Mar 2026, 07:52 PM",
         "iso_date": "2026-03-07T19:52:30+00:00",
@@ -72,26 +72,6 @@
         "category": "Latest"
       },
       {
-        "title": "Three injuries and material damage to a university building in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3hXa2MyQ2RwU3RBM2hfOXBITW5Zc2dqcEZaVTJJOU1idFlxYkxJQk9haGZWVURDVGVXLXpvWUJwRVFOMnhfejhHcHRSVXlSb2EwVEJJQWlFMWhWSEFKdl9DeTd5a1d0bVZiYmhJVUprZUNNRnhXS0UxRjltYUw3dXROQ2Z5UlFyZlhGanRWNmp4UGFQNkVOTmgtLTYtcG1FRnFiRU1oS1R4M2h2b2ljWEJGWGxBXzh4dzlNNzJFRQ?oc=5",
-        "published": "8 Mar 2026, 07:36 AM",
-        "iso_date": "2026-03-08T07:36:59+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "BAHRAIN INTERCEPTS 92 MISSILES, 151 DRONES SINCE ONSET OF IRANIAN ATTACKS",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdTJlYVVuM3FhdURTN3BkaWZLQ0F2VE9lenBHVmtiemdjeUIyb0hHSWNGR1UyQmRKQmJXUlVZVllCeU1jVF96bjZBS1BBVHBPV2xnWG9OanRBZw?oc=5",
-        "published": "8 Mar 2026, 09:19 AM",
-        "iso_date": "2026-03-08T09:19:11+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Three injuries, material damage to university building in Bahrain",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXdwdjF6dENDSDN6bU1oSV9BSnRlWEVtRmFkV05kWVFTRGU4U1RzRjRLMWhERnpzYXZyc1FQSldweGV2TFIyckFDU3RxT0c0alhuQjBESnRRS3NiSE8wRWY4aUxHcjBnUTRqbDZ0Tk5DaDJJZHBRNDRjS29FUWZpNG91bUFYb3ZIeExrUEgydnhNRVNBWUdRMHdfLVpyOWFzZnowNzRCNTBqLWxGM0pR?oc=5",
         "published": "8 Mar 2026, 07:46 AM",
@@ -102,10 +82,20 @@
         "category": "Latest"
       },
       {
-        "title": "Kuwait National Guard downs hostile drone - GCC News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04aFQ2elVOWFo2cnlSNHVtVWpvTVlfeHZVVllCa0oxNHEzNEQ5Q3lSMC1aWlpMNVM1dzk5WUJGQ092OHU5U0xuLUFDa0Z1VVhpcXRBbFltTWwzcFU?oc=5",
-        "published": "8 Mar 2026, 01:54 AM",
-        "iso_date": "2026-03-08T01:54:26+00:00",
+        "title": "Bahrain Defence Force General Command: 95 missiles, 164 drones destroyed since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb1JrcXFBazBhcjh1b0JPVTBJSlBYNWZOSkh5OTZoSDYwQThIVmx1d0FlLWxhZUN3VHR4R2F6cWRYeWw4UGVXLTN1UTAxUmM2MFRBZlJtV0JDTDdHY2lDVkh0WnNnWjk1MldCSzdUQVd4MERkRTlCdTB5bmk5Z2FDZUFhdURoQVRlRjkwN09yYkt1N2trOVY3b2dyQ0tpYWpCS01rMURwWW82QkNlWWNuYm94VzJCcGMzYmxkQ2JGT1E3LTU5U3dfWTFwSHJCWWJUeUV4d2kxUF9JQ3FaNnVndA?oc=5",
+        "published": "8 Mar 2026, 10:51 AM",
+        "iso_date": "2026-03-08T10:51:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait National Guard affirms protection of vital sites and downing of drone that targeted country’s airspace without damage",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bF9YQzY0SnBZTUZfR2hSVDZiemRHc2xydHN5SFVjS3NHWVJ4cWdkdWJGb3FoREFHZmx3MmR5UVhLOFk2X3dabTdaV3VsZUZVUHU4U1Z0VHl1dXc?oc=5",
+        "published": "8 Mar 2026, 01:15 AM",
+        "iso_date": "2026-03-08T01:15:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 10:50:11 UTC"
+  "fetched_at": "2026-03-08 11:18:37 UTC"
 }
