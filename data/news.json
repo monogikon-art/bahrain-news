@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -74,8 +74,8 @@
       {
         "title": "Three injuries, material damage to university building in Bahrain",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnhHbUpZYks1a3k4dnFNQ0NTemY2RHYzQnN1TXBZbGRUTTBTZGQ2N0piTTIzWi1LcTRVamNLVDJ5Um5MMU9MWmx0bnllbFR1eUFqc0pOOUNhMnFXY0ZnQnRlMktPdVFnWm1nT3RRdkRfSmNnYmxpMXpheEF6OG1CZkJkaXNhSTFDSWVtZlB0anVQeG1VNU05c1pGTi1FaWRCVkFUQVNvWUg?oc=5",
-        "published": "8 Mar 2026, 12:04 PM",
-        "iso_date": "2026-03-08T12:04:56+00:00",
+        "published": "8 Mar 2026, 12:06 PM",
+        "iso_date": "2026-03-08T12:06:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -96,6 +96,16 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVZPbnFnYVFRZl8xQUhvcm5tTEhITDhFWlZHRENFbnNDZTNaeTA3cUJmTVQ3YV9tXzRlYkUzOUtVTktfVWowb09xVWxlaEtSOGNTY3ZJcnR5UkU?oc=5",
         "published": "8 Mar 2026, 03:08 AM",
         "iso_date": "2026-03-08T03:08:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait National Guard affirms protection of vital sites and downing of drone that targeted country’s airspace without damage",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bF9YQzY0SnBZTUZfR2hSVDZiemRHc2xydHN5SFVjS3NHWVJ4cWdkdWJGb3FoREFHZmx3MmR5UVhLOFk2X3dabTdaV3VsZUZVUHU4U1Z0VHl1dXc?oc=5",
+        "published": "8 Mar 2026, 01:15 AM",
+        "iso_date": "2026-03-08T01:15:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "HM King Hamad delivered a royal address marking the final ten days of Ramadan.",
+        "link": "https://www.newsofbahrain.com/bahrain/128105.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ySdIpNU1MO_2026-03-08_1772994380resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "HRH Crown Prince Emphasizes Unity and National Responsibility in Meeting with Religious Leaders",
         "link": "https://www.newsofbahrain.com/bahrain/128104.html",
         "published": "8 Mar 2026, 09:22 AM",
@@ -228,8 +248,8 @@
       {
         "title": "HRH Crown Prince Meets Christian Leaders, Reaffirms Commitment to Unity and Safety",
         "link": "https://www.newsofbahrain.com/bahrain/128103.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_0ozN83etVg_2026-03-08_1772987733resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,20 +268,10 @@
       {
         "title": "Russia Evacuates Iranian Diplomats Amid Rising Tensions in Middle East",
         "link": "https://www.newsofbahrain.com/world/128100.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ScshqMtWj_2026-03-08_1772975877resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Four Killed, Over 100 Injured as UAE Defences Respond to Missile Strikes",
-        "link": "https://www.newsofbahrain.com/world/128099.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y3TRjowMl7_2026-03-08_1772971109resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ScshqMtWj_2026-03-08_1772975877resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -276,12 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "Operations Remain Suspended at Bahrain International Airport",
-        "link": "https://www.newsofbahrain.com/bahrain/128097.html",
+        "title": "Four Killed, Over 100 Injured as UAE Defences Respond to Missile Strikes",
+        "link": "https://www.newsofbahrain.com/world/128099.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sy4pZfJVuL_2026-03-08_1772966430thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y3TRjowMl7_2026-03-08_1772971109thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 17:47:13 UTC"
+  "fetched_at": "2026-03-08 18:29:38 UTC"
 }
