@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 18
     }
   },
   "articles": {
@@ -72,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
-        "published": "7 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-07T11:14:06+00:00",
+        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBob1c0c1Nmck9Sa2xIcTZCQWxBSGJLMHE3U3F1MTR4QjgtRjlQaVAwYmlLdGVGM2RTbmVoTFhBZWtob2xBYjBpdnNDb2xLSV9rdjJ6elBhdGg5OEphN0ZVNS1OOF9UWGltUm9uSF9PS2N4WG02em9zQXhIQQ?oc=5",
+        "published": "7 Mar 2026, 12:16 PM",
+        "iso_date": "2026-03-07T12:16:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -186,10 +186,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Kuwait Air Defences Intercept Wave of Hostile Drones; Civilian Facilities Sustain Damage",
-        "link": "https://www.newsofbahrain.com/world/128069.html",
+        "title": "Iranian Drone Attack Damages Water Desalination Plant, Hits Civilian Targets",
+        "link": "https://www.newsofbahrain.com/bahrain/128072.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wrJHpbMn1u_2026-03-08_1772952704resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Three Injured After Missile Fragments Strike University Building in Muharraq",
+        "link": "https://www.newsofbahrain.com/bahrain/128071.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O9iewfzLrE_2026-03-08_1772952381resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pet Owners Face Evacuation Dilemma",
+        "link": "https://www.newsofbahrain.com/bahrain/128070.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CHk5pjcFDd_2026-03-08_1772950467resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Air Defences Intercept Wave of Hostile Drones; Civilian Facilities Sustain Damage",
+        "link": "https://www.newsofbahrain.com/world/128069.html",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_h6R0QzkBV2_2026-03-08_1772948799resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,20 +238,10 @@
       {
         "title": "FM Al Zayani Meets US Ambassador to Discuss Security Cooperation",
         "link": "https://www.newsofbahrain.com/bahrain/128067.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
+        "published": "7 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VMnCfepPoG_2026-03-07_1772913841resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, US and UK Hold Security Consultations Under C-SIPA Framework",
-        "link": "https://www.newsofbahrain.com/bahrain/128066.html",
-        "published": "7 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bNs7aKGduC_2026-03-07_1772912554resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VMnCfepPoG_2026-03-07_1772913841thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -231,27 +251,7 @@
         "published": "7 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjsXxO9pYz_2026-03-07_1772912202resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Key Developments – National Response to Iranian Attacks on Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/128063.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fvQzDCjS1h_2026-03-07_1772904174thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "German Embassy in Bahrain to Partially Reopen",
-        "link": "https://www.newsofbahrain.com/bahrain/128060.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5cWVIpOZU2_2026-03-07_1772890190thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjsXxO9pYz_2026-03-07_1772912202thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,6 +312,56 @@
         "iso_date": "2026-03-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FJWPyrT6EB_2026-03-07_1772872747thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ramadan and Family Reconciliation: Repairing Relationships During the Holy Month",
+        "link": "https://www.newsofbahrain.com/views/127922.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3dKZCEGiW0_2026-03-05_1772707089thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India strongly reiterates its call for dialogue and diplomacy",
+        "link": "https://www.newsofbahrain.com/views/127918.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rHpmaNE7LX_2026-03-05_1772705827thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A Simple Gesture, A Powerful Message",
+        "link": "https://www.newsofbahrain.com/views/127914.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5VURXHbBOL_2026-03-05_1772703531thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A Grand Stage for Young Visionaries: Al Noor International School Hosts Inaugural Techno-Fest",
+        "link": "https://www.newsofbahrain.com/views/127580.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2bxeDtYpQZ_2026-02-28_1772266594thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Outstanding Achievement in JEE Main 2026 for BIS",
+        "link": "https://www.newsofbahrain.com/views/127579.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gik6rb1OQq_2026-02-28_1772265876thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -429,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 06:03:59 UTC"
+  "fetched_at": "2026-03-08 07:08:49 UTC"
 }
