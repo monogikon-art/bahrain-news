@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 10
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -52,7 +52,7 @@
         "category": "Latest"
       },
       {
-        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week",
+        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week - BERNAMA",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zTV9aQnpULU1TaWZ3MDkwWmNxT3J6U1g5Nkg5dWZvaUdzSE5fWVVpSTBZX1dPNXdNSThDazRMRWNaM2RERm9mNzd5bUlrV1N2MHlISGlfY3prcXI4?oc=5",
         "published": "7 Mar 2026, 07:52 PM",
         "iso_date": "2026-03-07T19:52:30+00:00",
@@ -82,7 +82,7 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks",
+        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks - BERNAMA",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xMGVmbE9PREFyLWs5OFVIOC1PdXlJT3N2UmVkMmQ2empNY1E3Q011bmFaVUdTUGFqRFM1T0V2Z3RnbkJlWjItMjZxZldPakNkaUIyQkRFMDFYSTho?oc=5",
         "published": "7 Mar 2026, 11:39 AM",
         "iso_date": "2026-03-07T11:39:27+00:00",
@@ -102,13 +102,134 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "Authorities confirm no disruption to water supply after desalination plant strike",
+        "link": "https://www.gdnonline.com/Details/1377916/Authorities-confirm-no-disruption-to-water-supply-after-desalination-plant-strike",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308100058ewa_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Drone attack causes material damage to water desalination plant",
+        "link": "https://www.gdnonline.com/Details/1377913/Drone-attack-causes-material-damage-to-water-desalination-plant",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308091816moi_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Three injured after missile fragments fall on university building in Muharraq",
+        "link": "https://www.gdnonline.com/Details/1377912/Three-injured-after-missile-fragments-fall-on-university-building-in-Muharraq",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308090005moi_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF General Command: Air defence systems intercept and destroy 92 missiles and 151 drones since the onset of Iranian aggression",
+        "link": "https://www.gdnonline.com/Details/1377911/BDF-General-Command-Air-defence-systems-intercept-and-destroy-92-missiles-and-151-drones-since-the-onset-of-Iranian-aggression",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308084048bdf(2)_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Drivers arrested for making disruptive noises",
+        "link": "https://www.gdnonline.com/Details/1377921/Drivers-arrested-for-making-disruptive-noises",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308105756car_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Marmoush leads City to last 8",
+        "link": "https://www.gdnonline.com/Details/1377898/Marmoush-leads-City-to-last-8",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308_020112_0_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Yamal stars as Barca seal hard-fought win",
+        "link": "https://www.gdnonline.com/Details/1377897/Yamal-stars-as-Barca-seal-hard-fought-win-",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308023059ok_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Riffa claim commanding victory to reach semis",
+        "link": "https://www.gdnonline.com/Details/1377896/Riffa-claim-commanding-victory-to-reach-semis",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308022520fbone_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Liverpool down Wolves to enter quarter-finals",
+        "link": "https://www.gdnonline.com/Details/1377830/Liverpool-down-Wolves-to-enter-quarter-finals",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_020316_0_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ronaldo heads to Spain for rehabilitation after injury",
+        "link": "https://www.gdnonline.com/Details/1377827/Ronaldo-heads-to-Spain-for-rehabilitation-after-injury",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307022146ronaldo_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
+      {
+        "title": "Gulf Air Flights Remain Suspended Amid Bahrain Airspace Closure",
+        "link": "https://www.newsofbahrain.com/bahrain/128087.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VZjh1xByGa_2026-03-08_1772959699resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s Fruit and Vegetable Markets Remain Stable Amid Regional Tensions",
+        "link": "https://www.newsofbahrain.com/bahrain/128086.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HBMFqzos3l_2026-03-08_1772958794resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "3 Years in Jail for SIM Swap Fraud and Benefit App Hack",
         "link": "https://www.newsofbahrain.com/bahrain/128085.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NuralZjShc_2026-03-08_1772957997resized_pic.jpg",
         "source": "newsofbahrain",
@@ -117,8 +238,8 @@
       {
         "title": "Public Prosecution Warns Against Sharing Images of Attack Incidents",
         "link": "https://www.newsofbahrain.com/bahrain/128083.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_DsfakVxA23_2026-03-08_1772957742resized_pic.jpg",
         "source": "newsofbahrain",
@@ -127,30 +248,10 @@
       {
         "title": "Muharraq to meet Al Ahli or Al Ettifaq in Final 4",
         "link": "https://www.newsofbahrain.com/bahrain/128082.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9CKB0E3Okr_2026-03-08_1772957628resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sirens May Leave Mental Scars",
-        "link": "https://www.newsofbahrain.com/bahrain/128081.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pAnN4b28fL_2026-03-08_1772957434resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "The Last Ten Nights of Ramadan",
-        "link": "https://www.newsofbahrain.com/bahrain/128080.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vypExGYU4L_2026-03-08_1772956863resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9CKB0E3Okr_2026-03-08_1772957628resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -348,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 08:27:46 UTC"
+  "fetched_at": "2026-03-08 08:56:04 UTC"
 }
