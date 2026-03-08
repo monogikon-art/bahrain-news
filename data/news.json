@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 9
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -82,126 +82,85 @@
         "category": "Latest"
       },
       {
-        "title": "Three injuries and material damage to a university building in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3hXa2MyQ2RwU3RBM2hfOXBITW5Zc2dqcEZaVTJJOU1idFlxYkxJQk9haGZWVURDVGVXLXpvWUJwRVFOMnhfejhHcHRSVXlSb2EwVEJJQWlFMWhWSEFKdl9DeTd5a1d0bVZiYmhJVUprZUNNRnhXS0UxRjltYUw3dXROQ2Z5UlFyZlhGanRWNmp4UGFQNkVOTmgtLTYtcG1FRnFiRU1oS1R4M2h2b2ljWEJGWGxBXzh4dzlNNzJFRQ?oc=5",
-        "published": "8 Mar 2026, 07:36 AM",
-        "iso_date": "2026-03-08T07:36:59+00:00",
+        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xMGVmbE9PREFyLWs5OFVIOC1PdXlJT3N2UmVkMmQ2empNY1E3Q011bmFaVUdTUGFqRFM1T0V2Z3RnbkJlWjItMjZxZldPakNkaUIyQkRFMDFYSTho?oc=5",
+        "published": "7 Mar 2026, 11:39 AM",
+        "iso_date": "2026-03-07T11:39:27+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
-        "published": "7 Mar 2026, 11:14 AM",
-        "iso_date": "2026-03-07T11:14:06+00:00",
+        "title": "Three injuries, material damage to university building in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXdwdjF6dENDSDN6bU1oSV9BSnRlWEVtRmFkV05kWVFTRGU4U1RzRjRLMWhERnpzYXZyc1FQSldweGV2TFIyckFDU3RxT0c0alhuQjBESnRRS3NiSE8wRWY4aUxHcjBnUTRqbDZ0Tk5DaDJJZHBRNDRjS29FUWZpNG91bUFYb3ZIeExrUEgydnhNRVNBWUdRMHdfLVpyOWFzZnowNzRCNTBqLWxGM0pR?oc=5",
+        "published": "8 Mar 2026, 07:46 AM",
+        "iso_date": "2026-03-08T07:46:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       }
     ],
-    "gdn": [
-      {
-        "title": "Kingdom rallies firmly behind the leadership",
-        "link": "https://www.gdnonline.com/Details/1377861/Kingdom-rallies-firmly-behind-the-leadership",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260307_232451_0.jfif?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Safety upgrade to âcritical intersectionâ in Aâali on way",
-        "link": "https://www.gdnonline.com/Details/1377868/Safety-upgrade-to-âcritical-intersectionâ-in-Aâali-on-way",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260307_232456_0.png?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Speed, clarity and credibility: Gulfâs crisis communications playbook",
-        "link": "https://www.gdnonline.com/Details/1377860/Speed,-clarity-and-credibility-Gulfâs-crisis-communications-playbook",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260307_232450_3.jfif?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain stands secure!",
-        "link": "https://www.gdnonline.com/Details/1377859/Bahrain-stands-secure",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/202603072XXXXXXXXXXXX4100414akrammiknas,chairman,promosevenholdinggroup_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Verdict date announced in fatal car crash case",
-        "link": "https://www.gdnonline.com/Details/1377869/Verdict-date-announced-in-fatal-car-crash-case",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260307_232456_2_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Marmoush leads City to last 8",
-        "link": "https://www.gdnonline.com/Details/1377898/Marmoush-leads-City-to-last-8",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308_020112_0_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Yamal stars as Barca seal hard-fought win",
-        "link": "https://www.gdnonline.com/Details/1377897/Yamal-stars-as-Barca-seal-hard-fought-win-",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308023059ok_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Liverpool down Wolves to enter quarter-finals",
-        "link": "https://www.gdnonline.com/Details/1377830/Liverpool-down-Wolves-to-enter-quarter-finals",
-        "published": "7 Mar 2026",
-        "iso_date": "2026-03-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_020316_0_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Ronaldo heads to Spain for rehabilitation after injury",
-        "link": "https://www.gdnonline.com/Details/1377827/Ronaldo-heads-to-Spain-for-rehabilitation-after-injury",
-        "published": "7 Mar 2026",
-        "iso_date": "2026-03-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307022146ronaldo_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      }
-    ],
+    "gdn": [],
     "newsofbahrain": [
+      {
+        "title": "3 Years in Jail for SIM Swap Fraud and Benefit App Hack",
+        "link": "https://www.newsofbahrain.com/bahrain/128085.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NuralZjShc_2026-03-08_1772957997resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Public Prosecution Warns Against Sharing Images of Attack Incidents",
+        "link": "https://www.newsofbahrain.com/bahrain/128083.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DsfakVxA23_2026-03-08_1772957742resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq to meet Al Ahli or Al Ettifaq in Final 4",
+        "link": "https://www.newsofbahrain.com/bahrain/128082.html",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9CKB0E3Okr_2026-03-08_1772957628resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Sirens May Leave Mental Scars",
+        "link": "https://www.newsofbahrain.com/bahrain/128081.html",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pAnN4b28fL_2026-03-08_1772957434resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The Last Ten Nights of Ramadan",
+        "link": "https://www.newsofbahrain.com/bahrain/128080.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vypExGYU4L_2026-03-08_1772956863resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Regional Updates (March 8)",
         "link": "https://www.newsofbahrain.com/world/128078.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SIbdJYTxFZ_2026-03-08_1772955710resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SIbdJYTxFZ_2026-03-08_1772955710thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -211,67 +170,17 @@
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cm48jAEIKl_2026-03-08_1772955244resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cm48jAEIKl_2026-03-08_1772955244thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Kuwait Mourns Two Border Security Officers Killed on Duty",
         "link": "https://www.newsofbahrain.com/world/128076.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cuqm7JyFQs_2026-03-08_1772954979resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Electricity & Water Authority: No Impact on Water Supply After Iranian Attack",
-        "link": "https://www.newsofbahrain.com/bahrain/128075.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wrCe08up3I_2026-03-08_1772954612resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Drone Attack Damages Water Desalination Plant, Hits Civilian Targets",
-        "link": "https://www.newsofbahrain.com/bahrain/128072.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wrJHpbMn1u_2026-03-08_1772952704resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Three Injured After Missile Fragments Strike University Building in Muharraq",
-        "link": "https://www.newsofbahrain.com/bahrain/128071.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O9iewfzLrE_2026-03-08_1772952381thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pet Owners Face Evacuation Dilemma",
-        "link": "https://www.newsofbahrain.com/bahrain/128070.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CHk5pjcFDd_2026-03-08_1772950467thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Interior Minister Inspects Homes Damaged in Juffair Following Attack",
-        "link": "https://www.newsofbahrain.com/bahrain/128068.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U3hJgnkYiz_2026-03-08_1772948641thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cuqm7JyFQs_2026-03-08_1772954979thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +348,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 07:51:25 UTC"
+  "fetched_at": "2026-03-08 08:27:46 UTC"
 }
