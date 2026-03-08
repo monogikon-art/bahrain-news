@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,30 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "PM Modi speaks with Bahrain King, condemns attacks on country",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzFHbkdnMjRNY1BsWjNsRjd4ZHA4UDAtWWVIT1dfNUtkaWxOMzRCbS1ZYlRBd1pLSVY0eXhlZ3l5eERhMUtwU1RWZkJWM2x2ak5pZGZraWViLWdJbUdGY1ExQXVkSTJCWUMyNUdGNi1EbUR5cks0Tk5OejBZWXRacXNBOUtSQzZxNks2dk53RQ?oc=5",
-        "published": "8 Mar 2026, 02:49 AM",
-        "iso_date": "2026-03-08T02:49:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Kuwait airport, tower, Bahrain desalination plant hit as Iran strikes Gulf infrastructure",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEhwRFFTb0NiSl9yUHZDek5zckhLbjFDaE1XcHZQd2piNV92MHV4MjBBMThFM1AwbGphYUsxV3ZVOHVSMUtyQ3N4UUxwenhCX1piRUUwRV85TjhDYU5qWlNENUNkUnhvbFhoOUhuUkZOQ214d0x4b24yd2Z2SW1uZTd3VzBqOF9iY01zWVVaY0x6U2c0b0FGTlY4ZkVhUEZPQllQNWwyel9oUDdvNkQwbEZPeHE0R2g4VTZSNlNwRy1ZQdIB1AFBVV95cUxPOEQtc2pPSzdoeDcxS1g5RFBydHJIVzRxNjlEMTQxRl9Id2JudUdyTjRkUm9KaFptR05rY01KMHRkSVJYWk5VLVFfTTExT2RtTUlGRTJFUU9fZG5VVEhOMXViNXQ5STFibUliZERrc1RCYnBlU01DQkNMaW81NkZfWXNtTG5scXN6MHp6cWt0NXBZOFNhYkZyRUFoZUlSUHgyM01tUUVBWjRfei1ZVDI0VV9GT2d4NzIzZDRyRzAwbzNudGlsWVlmbDFjUFl2OUltdzAzNA?oc=5",
         "published": "8 Mar 2026, 12:48 PM",
         "iso_date": "2026-03-08T12:48:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week - BERNAMA",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zTV9aQnpULU1TaWZ3MDkwWmNxT3J6U1g5Nkg5dWZvaUdzSE5fWVVpSTBZX1dPNXdNSThDazRMRWNaM2RERm9mNzd5bUlrV1N2MHlISGlfY3prcXI4?oc=5",
-        "published": "7 Mar 2026, 07:52 PM",
-        "iso_date": "2026-03-07T19:52:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,10 +206,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "HM King Hamad delivered a royal address marking the final ten days of Ramadan.",
-        "link": "https://www.newsofbahrain.com/bahrain/128105.html",
+        "title": "Saudi Civil Defense Reports Projectile Hit on Residential Site",
+        "link": "https://www.newsofbahrain.com/world/128107.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CIjrOxyEoP_2026-03-08_1772995864resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Calls for Safeguarding Maritime Routes and Energy Supply Chains",
+        "link": "https://www.newsofbahrain.com/bahrain/128106.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m38qy2jEHk_2026-03-08_1772995493resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King Hamad delivered a royal address marking the final ten days of Ramadan.",
+        "link": "https://www.newsofbahrain.com/bahrain/128105.html",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ySdIpNU1MO_2026-03-08_1772994380resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +238,8 @@
       {
         "title": "HRH Crown Prince Emphasizes Unity and National Responsibility in Meeting with Religious Leaders",
         "link": "https://www.newsofbahrain.com/bahrain/128104.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_OZKnsFpwB6_2026-03-08_1772988004resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +248,8 @@
       {
         "title": "HRH Crown Prince Meets Christian Leaders, Reaffirms Commitment to Unity and Safety",
         "link": "https://www.newsofbahrain.com/bahrain/128103.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_0ozN83etVg_2026-03-08_1772987733resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,10 +258,10 @@
       {
         "title": "Education Minister inspects Muharraq University after missile fragment strike",
         "link": "https://www.newsofbahrain.com/bahrain/128102.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tALGr4neZT_2026-03-08_1772986591resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tALGr4neZT_2026-03-08_1772986591thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,17 +271,7 @@
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ScshqMtWj_2026-03-08_1772975877resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Injured Victims Under Care, Condition Stable",
-        "link": "https://www.newsofbahrain.com/bahrain/128098.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VWsTwad1bm_2026-03-08_1772970301thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ScshqMtWj_2026-03-08_1772975877thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +292,6 @@
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_JKcg1STOpC_2026-03-08_1772965546thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Regional Conflict Intensifies as Strikes Hit Iran, Lebanon, and Gulf States",
-        "link": "https://www.newsofbahrain.com/world/128095.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_weDSu1xcNq_2026-03-08_1772965053thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 18:29:38 UTC"
+  "fetched_at": "2026-03-08 18:59:28 UTC"
 }
