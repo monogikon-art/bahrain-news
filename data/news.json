@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 10
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Three injuries, material damage to university building in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTR3UmVVT044RHU2NWxzR2JNRHIwVnpEb3R5SktGYy0xWXQ2YUxkc3RZcThZZ19rYTlILUFzQlN2alJkZ19HWGdyY1hicDVaNldJbXRQSVc4c1lzNHVleHlLZHFpWUdCN0FjWDVfcDl5YXU5WW5UR0ZqTF9xWjA4anQ2MmpWdEs4OERnekhBUGFORGw0TFEyRlVVTnBrX2E1M3NpWlpjN05fY1JnZGZXd25ZTQ?oc=5",
-        "published": "8 Mar 2026, 04:29 PM",
-        "iso_date": "2026-03-08T16:29:53+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Strikes Continue Despite Iranian President’s Apology",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamZlX3dWZmc0aElsaW5lOWJXZmotTmhrLWZ2ZUF2ZGZSU2Zad3VCbDlQd0Y5SnZFNWxaUzl6eVdMaV9qa3djYjZjXzU0Mm1QajEyMC1jYXVVQVd3OE9lWkFkTnlrNVItQk45dHJSbHpDMGgxUEFHRXl0M3F4Wjg1dklWREV2NlhzYTd4bVdIeFhXc2d3c0E?oc=5",
@@ -62,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain, US, and UK hold emergency consultations on regional security",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTNmTmM2bDR3c3BvbmNmdjR0bkItcmttSmFDMG11XzF0YWJCMnBmblZ4c2dBR2RvWWpfSXQxUGdlRHdqdUpYbGlUVHRUemFGRVFzMEhidmNwc1pwMUdOSmxFaVdCZEMwVTVFR2MxSzVJS2o1Vy1yNHRLQi1WMWliaUxfZnpmSUNSWE03QThxQUdrWDRhZTFndzN2WllqM3ZOX25sVzNnMndiTEdYRHRIVUlPUE9rd1U?oc=5",
-        "published": "8 Mar 2026, 02:14 AM",
-        "iso_date": "2026-03-08T02:14:44+00:00",
+        "title": "Three injuries, material damage to university building in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnhHbUpZYks1a3k4dnFNQ0NTemY2RHYzQnN1TXBZbGRUTTBTZGQ2N0piTTIzWi1LcTRVamNLVDJ5Um5MMU9MWmx0bnllbFR1eUFqc0pOOUNhMnFXY0ZnQnRlMktPdVFnWm1nT3RRdkRfSmNnYmxpMXpheEF6OG1CZkJkaXNhSTFDSWVtZlB0anVQeG1VNU05c1pGTi1FaWRCVkFUQVNvWUg?oc=5",
+        "published": "8 Mar 2026, 12:06 PM",
+        "iso_date": "2026-03-08T12:06:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 23:20:46 UTC"
+  "fetched_at": "2026-03-08 23:45:40 UTC"
 }
