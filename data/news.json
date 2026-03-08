@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 12
+      "count": 11
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 10
+      "count": 11
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -112,20 +112,10 @@
         "category": "Latest"
       },
       {
-        "title": "UAE air defences intercept 15 ballistic missiles, 119 drones - GCC News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80Y21pN2NXQjljenpBU0hvc2xoZWVQa0RDSnhUaVcyZW9GUzM2Nm5qZ3JSRV9qeFUydGlTRl9FWVVJMmRFNEJBYUVUU0NFSDd5RENteTVrUm12Q1E?oc=5",
-        "published": "8 Mar 2026, 01:58 AM",
-        "iso_date": "2026-03-08T01:58:02+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE confirms continued oil supplies to global markets via alternative routes bypassing Strait of Hormuz",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVZPbnFnYVFRZl8xQUhvcm5tTEhITDhFWlZHRENFbnNDZTNaeTA3cUJmTVQ3YV9tXzRlYkUzOUtVTktfVWowb09xVWxlaEtSOGNTY3ZJcnR5UkU?oc=5",
-        "published": "8 Mar 2026, 03:08 AM",
-        "iso_date": "2026-03-08T03:08:30+00:00",
+        "title": "Kuwait National Guard downs hostile drone - GCC News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04aFQ2elVOWFo2cnlSNHVtVWpvTVlfeHZVVllCa0oxNHEzNEQ5Q3lSMC1aWlpMNVM1dzk5WUJGQ092OHU5U0xuLUFDa0Z1VVhpcXRBbFltTWwzcFU?oc=5",
+        "published": "8 Mar 2026, 01:54 AM",
+        "iso_date": "2026-03-08T01:54:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -143,6 +133,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "CBSE postpones Class 12 exams until March 11 in the Middle East",
+        "link": "https://www.gdnonline.com/Details/1377940/CBSE-postpones-Class-12-exams-until-March-11-in-the-Middle-East",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308172228examrep_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain airspace remains temporarily closed",
         "link": "https://www.gdnonline.com/Details/1377934/Bahrain-airspace-remains-temporarily-closed",
@@ -184,12 +184,12 @@
         "category": "Latest"
       },
       {
-        "title": "Authorities confirm no disruption to water supply after desalination plant strike",
-        "link": "https://www.gdnonline.com/Details/1377916/Authorities-confirm-no-disruption-to-water-supply-after-desalination-plant-strike",
+        "title": "Solidarity Bahrain appoints 9 Bahraini leaders following landmark merger",
+        "link": "https://www.gdnonline.com/Details/1377941/Solidarity-Bahrain-appoints-9-Bahraini-leaders-following-landmark-merger",
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308100058ewa_T.jpg?20260308",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308173117website(32)_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 14:22:09 UTC"
+  "fetched_at": "2026-03-08 14:49:58 UTC"
 }
