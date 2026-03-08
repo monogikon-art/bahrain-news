@@ -82,16 +82,6 @@
         "category": "Latest"
       },
       {
-        "title": "Kuwait National Guard downs hostile drone - GCC News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04aFQ2elVOWFo2cnlSNHVtVWpvTVlfeHZVVllCa0oxNHEzNEQ5Q3lSMC1aWlpMNVM1dzk5WUJGQ092OHU5U0xuLUFDa0Z1VVhpcXRBbFltTWwzcFU?oc=5",
-        "published": "8 Mar 2026, 01:54 AM",
-        "iso_date": "2026-03-08T01:54:26+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "UAE affirms stability of food supplies and abundance of goods in markets, urges consumers not to stockpile",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TWTAzeThIUFJRRkhINWRyRjBDUnN2M29KMjF6RUpqLVZ2eDFuZ3VUWWZmWF9RUnhSZlhlWnFWNkhNSWRQVVJVZk5ZdlRyRTJLVWNib20yOGFsWlU?oc=5",
         "published": "8 Mar 2026, 01:58 AM",
@@ -114,8 +104,18 @@
       {
         "title": "UAE confirms continued oil supplies to global markets via alternative routes bypassing Strait of Hormuz",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVZPbnFnYVFRZl8xQUhvcm5tTEhITDhFWlZHRENFbnNDZTNaeTA3cUJmTVQ3YV9tXzRlYkUzOUtVTktfVWowb09xVWxlaEtSOGNTY3ZJcnR5UkU?oc=5",
-        "published": "8 Mar 2026, 01:11 AM",
-        "iso_date": "2026-03-08T01:11:08+00:00",
+        "published": "8 Mar 2026, 03:08 AM",
+        "iso_date": "2026-03-08T03:08:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait National Guard affirms protection of vital sites and downing of drone that targeted country’s airspace without damage",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bF9YQzY0SnBZTUZfR2hSVDZiemRHc2xydHN5SFVjS3NHWVJ4cWdkdWJGb3FoREFHZmx3MmR5UVhLOFk2X3dabTdaV3VsZUZVUHU4U1Z0VHl1dXc?oc=5",
+        "published": "8 Mar 2026, 01:15 AM",
+        "iso_date": "2026-03-08T01:15:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,7 +256,7 @@
         "category": "Latest"
       },
       {
-        "title": "Gulf Air Announces London, Manchester, Singapore Repatriation Routes from Dammam",
+        "title": "Gulf Air Announces London, Manchester, Singapore Repatriation Routes to Dammam",
         "link": "https://www.newsofbahrain.com/bahrain/128108.html",
         "published": "8 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-08T09:00:43+00:00",
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 20:48:47 UTC"
+  "fetched_at": "2026-03-08 21:20:17 UTC"
 }
