@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -72,6 +72,16 @@
         "category": "Latest"
       },
       {
+        "title": "BAHRAIN INTERCEPTS 92 MISSILES, 151 DRONES SINCE ONSET OF IRANIAN ATTACKS - BERNAMA",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdTJlYVVuM3FhdURTN3BkaWZLQ0F2VE9lenBHVmtiemdjeUIyb0hHSWNGR1UyQmRKQmJXUlVZVllCeU1jVF96bjZBS1BBVHBPV2xnWG9OanRBZw?oc=5",
+        "published": "8 Mar 2026, 09:19 AM",
+        "iso_date": "2026-03-08T09:19:11+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Three injuries, material damage to university building in Bahrain",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXdwdjF6dENDSDN6bU1oSV9BSnRlWEVtRmFkV05kWVFTRGU4U1RzRjRLMWhERnpzYXZyc1FQSldweGV2TFIyckFDU3RxT0c0alhuQjBESnRRS3NiSE8wRWY4aUxHcjBnUTRqbDZ0Tk5DaDJJZHBRNDRjS29FUWZpNG91bUFYb3ZIeExrUEgydnhNRVNBWUdRMHdfLVpyOWFzZnowNzRCNTBqLWxGM0pR?oc=5",
         "published": "8 Mar 2026, 07:46 AM",
@@ -104,6 +114,16 @@
     ],
     "gdn": [
       {
+        "title": "Bahrain airspace remains temporarily closed",
+        "link": "https://www.gdnonline.com/Details/1377934/Bahrain-airspace-remains-temporarily-closed",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308134608airport1_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "95 missiles, 164 drones destroyed since start of Iranian attacks",
         "link": "https://www.gdnonline.com/Details/1377930/95-missiles,-164-drones-destroyed-since-start-of-Iranian-attacks",
         "published": "8 Mar 2026",
@@ -124,32 +144,22 @@
         "category": "Latest"
       },
       {
+        "title": "RMS Commander visits hospital to check on injured",
+        "link": "https://www.gdnonline.com/Details/1377937/RMS-Commander-visits-hospital-to-check-on-injured",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308142828injure_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Authorities confirm no disruption to water supply after desalination plant strike",
         "link": "https://www.gdnonline.com/Details/1377916/Authorities-confirm-no-disruption-to-water-supply-after-desalination-plant-strike",
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260308/20260308100058ewa_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone attack causes material damage to water desalination plant",
-        "link": "https://www.gdnonline.com/Details/1377913/Drone-attack-causes-material-damage-to-water-desalination-plant",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308091816moi_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Three injured after missile fragments fall on university building in Muharraq",
-        "link": "https://www.gdnonline.com/Details/1377912/Three-injured-after-missile-fragments-fall-on-university-building-in-Muharraq",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308090005moi_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 11:18:37 UTC"
+  "fetched_at": "2026-03-08 11:43:25 UTC"
 }
