@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zTV9aQnpULU1TaWZ3MDkwWmNxT3J6U1g5Nkg5dWZvaUdzSE5fWVVpSTBZX1dPNXdNSThDazRMRWNaM2RERm9mNzd5bUlrV1N2MHlISGlfY3prcXI4?oc=5",
-        "published": "7 Mar 2026, 07:52 PM",
-        "iso_date": "2026-03-07T19:52:30+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Intercepts 86 Missiles and 148 Drones Amid Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJrMzREUzl2clA1MXlJNzB2ZHhrbW5XTkViZmk4dkYxNkdGRE85eV82Wi1wMFNrZFllNGZKejYzbXF1WFZlN3VPMm9jQjdXSXJscXNtZmw5NHBsSHFHUlVEcmswWjdRcjg5VS1LaGpHUTVzaTNhaFBoOVp3ZnJUYTR2RE5YZWtKT1FrWmhYekREem1oQ2Z0ajE2dEtzNGx0VEF0SmRRekNtSC14Z19Rbmln?oc=5",
         "published": "7 Mar 2026, 11:20 AM",
@@ -82,10 +72,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91a3Ytd21PTjh5ZmxyUHVjQ3RsNXhOREk4bXpGRllhaC0yMl93aEloOE5BZlFEWEl1TTY0Q2ZCekZ6N2dYTVRTMHFNdUNYb01yelNmQUEyaVlfbHpXd3ZEd2hn?oc=5",
-        "published": "7 Mar 2026, 11:08 AM",
-        "iso_date": "2026-03-07T11:08:12+00:00",
+        "title": "BAHRAIN INTERCEPTS 86 MISSILES, 148 DRONES SINCE START OF IRANIAN ATTACKS",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZFpva1ViaEVzclpOVzNZOUZ5Q0liUzJtZU9adkdRRllUNlNld1oxQlI3RFlpN0xhSkQ3R3BVYXM3VmpZdjljejc0a2xpS045dWhhYm1FV1hsUQ?oc=5",
+        "published": "7 Mar 2026, 11:14 AM",
+        "iso_date": "2026-03-07T11:14:06+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE confirms continued oil supplies to global markets via alternative routes bypassing Strait of Hormuz",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVZPbnFnYVFRZl8xQUhvcm5tTEhITDhFWlZHRENFbnNDZTNaeTA3cUJmTVQ3YV9tXzRlYkUzOUtVTktfVWowb09xVWxlaEtSOGNTY3ZJcnR5UkU?oc=5",
+        "published": "8 Mar 2026, 01:11 AM",
+        "iso_date": "2026-03-08T01:11:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -429,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 04:09:12 UTC"
+  "fetched_at": "2026-03-08 05:28:10 UTC"
 }
