@@ -72,20 +72,20 @@
         "category": "Latest"
       },
       {
-        "title": "BAHRAIN INTERCEPTS 92 MISSILES, 151 DRONES SINCE ONSET OF IRANIAN ATTACKS",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdTJlYVVuM3FhdURTN3BkaWZLQ0F2VE9lenBHVmtiemdjeUIyb0hHSWNGR1UyQmRKQmJXUlVZVllCeU1jVF96bjZBS1BBVHBPV2xnWG9OanRBZw?oc=5",
-        "published": "8 Mar 2026, 09:19 AM",
-        "iso_date": "2026-03-08T09:19:11+00:00",
+        "title": "Three injuries and material damage to a university building in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3hXa2MyQ2RwU3RBM2hfOXBITW5Zc2dqcEZaVTJJOU1idFlxYkxJQk9haGZWVURDVGVXLXpvWUJwRVFOMnhfejhHcHRSVXlSb2EwVEJJQWlFMWhWSEFKdl9DeTd5a1d0bVZiYmhJVUprZUNNRnhXS0UxRjltYUw3dXROQ2Z5UlFyZlhGanRWNmp4UGFQNkVOTmgtLTYtcG1FRnFiRU1oS1R4M2h2b2ljWEJGWGxBXzh4dzlNNzJFRQ?oc=5",
+        "published": "8 Mar 2026, 07:36 AM",
+        "iso_date": "2026-03-08T07:36:59+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xMGVmbE9PREFyLWs5OFVIOC1PdXlJT3N2UmVkMmQ2empNY1E3Q011bmFaVUdTUGFqRFM1T0V2Z3RnbkJlWjItMjZxZldPakNkaUIyQkRFMDFYSTho?oc=5",
-        "published": "7 Mar 2026, 11:39 AM",
-        "iso_date": "2026-03-07T11:39:27+00:00",
+        "title": "BAHRAIN INTERCEPTS 92 MISSILES, 151 DRONES SINCE ONSET OF IRANIAN ATTACKS",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdTJlYVVuM3FhdURTN3BkaWZLQ0F2VE9lenBHVmtiemdjeUIyb0hHSWNGR1UyQmRKQmJXUlVZVllCeU1jVF96bjZBS1BBVHBPV2xnWG9OanRBZw?oc=5",
+        "published": "8 Mar 2026, 09:19 AM",
+        "iso_date": "2026-03-08T09:19:11+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -113,6 +113,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "95 missiles, 164 drones destroyed since start of Iranian attacks",
+        "link": "https://www.gdnonline.com/Details/1377930/95-missiles,-164-drones-destroyed-since-start-of-Iranian-attacks",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308123406destroyed_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Gulf Air flights remain suspended as Bahrain airspace closure continues",
         "link": "https://www.gdnonline.com/Details/1377927/Gulf-Air-flights-remain-suspended-as-Bahrain-airspace-closure-continues",
@@ -150,16 +160,6 @@
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260308/20260308090005moi_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BDF General Command: Air defence systems intercept and destroy 92 missiles and 151 drones since the onset of Iranian aggression",
-        "link": "https://www.gdnonline.com/Details/1377911/BDF-General-Command-Air-defence-systems-intercept-and-destroy-92-missiles-and-151-drones-since-the-onset-of-Iranian-aggression",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308084048bdf(2)_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Regional Conflict Intensifies as Strikes Hit Iran, Lebanon, and Gulf States",
-        "link": "https://www.newsofbahrain.com/world/128095.html",
+        "title": "Operations Remain Suspended at Bahrain International Airport",
+        "link": "https://www.newsofbahrain.com/bahrain/128097.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sy4pZfJVuL_2026-03-08_1772966430resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pakistan PM Mourns Death of Two Nationals in Dubai Missile Debris Incident",
+        "link": "https://www.newsofbahrain.com/world/128096.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JKcg1STOpC_2026-03-08_1772965546resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Regional Conflict Intensifies as Strikes Hit Iran, Lebanon, and Gulf States",
+        "link": "https://www.newsofbahrain.com/world/128095.html",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_weDSu1xcNq_2026-03-08_1772965053resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +248,8 @@
       {
         "title": "Drivers Arrested for Causing Public Disturbances",
         "link": "https://www.newsofbahrain.com/bahrain/128094.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_708JDet9q5_2026-03-08_1772964821resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +258,10 @@
       {
         "title": "Education Minister Reviews Remote Learning in Schools",
         "link": "https://www.newsofbahrain.com/bahrain/128093.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_xnbrD2MjZz_2026-03-08_1772964018resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Repatriation Flights Operate as Qatari Airspace Remains Closed",
-        "link": "https://www.newsofbahrain.com/world/128092.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TDxzI0wm2d_2026-03-08_1772963474resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,7 +271,7 @@
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mG3e9qogX8_2026-03-08_1772962307resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mG3e9qogX8_2026-03-08_1772962307thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -276,12 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "Gulf Air Flights Remain Suspended Amid Bahrain Airspace Closure",
-        "link": "https://www.newsofbahrain.com/bahrain/128087.html",
+        "title": "Repatriation Flights Operate as Qatari Airspace Remains Closed",
+        "link": "https://www.newsofbahrain.com/world/128092.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VZjh1xByGa_2026-03-08_1772959699thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TDxzI0wm2d_2026-03-08_1772963474thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +302,6 @@
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZfYl613wOW_2026-03-08_1772962148thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Middle East Conflict Disrupts Global Jet Fuel Supply, Europe Faces Shortages",
-        "link": "https://www.newsofbahrain.com/world/128088.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3khveF1wgi_2026-03-08_1772960599thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 10:22:13 UTC"
+  "fetched_at": "2026-03-08 10:50:11 UTC"
 }
