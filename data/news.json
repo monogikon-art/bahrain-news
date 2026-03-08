@@ -129,7 +129,7 @@
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308224519gdn-websitesize-2026-03-08t225300.899_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308224519gdn-websitesize-2026-03-08t225300.899_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +139,7 @@
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308172228examrep_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308172228examrep_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +149,7 @@
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308134608airport1_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308134608airport1_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +159,7 @@
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308123406destroyed_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308123406destroyed_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +169,7 @@
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308115439gulfair_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308115439gulfair_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +179,7 @@
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308173117website(32)_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308173117website(32)_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +189,7 @@
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308_020112_0_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308_020112_0_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +199,7 @@
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308023059ok_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308023059ok_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -209,7 +209,7 @@
         "published": "8 Mar 2026",
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308022520fbone_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308022520fbone_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -219,7 +219,7 @@
         "published": "7 Mar 2026",
         "iso_date": "2026-03-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_020316_0_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_020316_0_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       },
@@ -229,12 +229,22 @@
         "published": "7 Mar 2026",
         "iso_date": "2026-03-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307022146ronaldo_T.jpg?20260309",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307022146ronaldo_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
+      {
+        "title": "Bahrain Reports Injuries and Damage Following Drone Attack",
+        "link": "https://www.newsofbahrain.com/bahrain/128111.html",
+        "published": "9 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rxgFQyXe5E_2026-03-08_1773008941resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain’s Interior Minister Condoles with Kuwait Over Border Security Losses",
         "link": "https://www.newsofbahrain.com/bahrain/128110.html",
@@ -248,8 +258,8 @@
       {
         "title": "CENTCOM Reports U.S. Service Member Killed in Saudi Arabia Attack",
         "link": "https://www.newsofbahrain.com/world/128109.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_2bW1QPxvCn_2026-03-08_1773000363resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +278,8 @@
       {
         "title": "Saudi Civil Defense Reports Projectile Hit on Residential Site",
         "link": "https://www.newsofbahrain.com/world/128107.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_CIjrOxyEoP_2026-03-08_1772995864resized_pic.jpg",
         "source": "newsofbahrain",
@@ -281,7 +291,7 @@
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m38qy2jEHk_2026-03-08_1772995493resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m38qy2jEHk_2026-03-08_1772995493thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +302,6 @@
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ySdIpNU1MO_2026-03-08_1772994380thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH Crown Prince Emphasizes Unity and National Responsibility in Meeting with Religious Leaders",
-        "link": "https://www.newsofbahrain.com/bahrain/128104.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OZKnsFpwB6_2026-03-08_1772988004thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 22:20:19 UTC"
+  "fetched_at": "2026-03-08 22:48:50 UTC"
 }
