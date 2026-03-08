@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 9
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week - BERNAMA",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zTV9aQnpULU1TaWZ3MDkwWmNxT3J6U1g5Nkg5dWZvaUdzSE5fWVVpSTBZX1dPNXdNSThDazRMRWNaM2RERm9mNzd5bUlrV1N2MHlISGlfY3prcXI4?oc=5",
+        "published": "7 Mar 2026, 07:52 PM",
+        "iso_date": "2026-03-07T19:52:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Intercepts 86 Missiles and 148 Drones Amid Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJrMzREUzl2clA1MXlJNzB2ZHhrbW5XTkViZmk4dkYxNkdGRE85eV82Wi1wMFNrZFllNGZKejYzbXF1WFZlN3VPMm9jQjdXSXJscXNtZmw5NHBsSHFHUlVEcmswWjdRcjg5VS1LaGpHUTVzaTNhaFBoOVp3ZnJUYTR2RE5YZWtKT1FrWmhYekREem1oQ2Z0ajE2dEtzNGx0VEF0SmRRekNtSC14Z19Rbmln?oc=5",
         "published": "7 Mar 2026, 11:20 AM",
@@ -62,17 +72,7 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain, US, and UK hold emergency consultations on regional security",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTNmTmM2bDR3c3BvbmNmdjR0bkItcmttSmFDMG11XzF0YWJCMnBmblZ4c2dBR2RvWWpfSXQxUGdlRHdqdUpYbGlUVHRUemFGRVFzMEhidmNwc1pwMUdOSmxFaVdCZEMwVTVFR2MxSzVJS2o1Vy1yNHRLQi1WMWliaUxfZnpmSUNSWE03QThxQUdrWDRhZTFndzN2WllqM3ZOX25sVzNnMndiTEdYRHRIVUlPUE9rd1U?oc=5",
-        "published": "7 Mar 2026, 12:20 PM",
-        "iso_date": "2026-03-07T12:20:10+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks",
+        "title": "Bahrain Intercepts 86 Missiles, 148 Drones Since Start Of Iranian Attacks - BERNAMA",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91a3Ytd21PTjh5ZmxyUHVjQ3RsNXhOREk4bXpGRllhaC0yMl93aEloOE5BZlFEWEl1TTY0Q2ZCekZ6N2dYTVRTMHFNdUNYb01yelNmQUEyaVlfbHpXd3ZEd2hn?oc=5",
         "published": "7 Mar 2026, 11:08 AM",
         "iso_date": "2026-03-07T11:08:12+00:00",
@@ -134,16 +134,6 @@
         "category": "Latest"
       },
       {
-        "title": "SNIC announces BD12.41m insurance revenue in 2025",
-        "link": "https://www.gdnonline.com/Details/1377728/SNIC-announces-BD1241m-insurance-revenue-in-2025",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306003627msfk_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Marmoush leads City to last 8",
         "link": "https://www.gdnonline.com/Details/1377898/Marmoush-leads-City-to-last-8",
         "published": "8 Mar 2026",
@@ -180,36 +170,6 @@
         "iso_date": "2026-03-07T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260307/20260307022146ronaldo_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Morocco coach Regragui quits post as World Cup looms",
-        "link": "https://www.gdnonline.com/Details/1377791/Morocco-coach-Regragui-quits-post-as-World-Cup-looms",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306204436morocco1_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "James Corden and Aidan Turner among stars at National Theatre gala",
-        "link": "https://www.gdnonline.com/Details/1377770/James-Corden-and-Aidan-Turner-among-stars-at-National-Theatre-gala",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/2026030608590501kjznttttrgc9z00wa5qpw8ps(1)_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Paddington The Musical up for 11 Olivier Awards",
-        "link": "https://www.gdnonline.com/Details/1377771/Paddington-The-Musical-up-for-11-Olivier-Awards",
-        "published": "6 Mar 2026",
-        "iso_date": "2026-03-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260306/20260306090706692dba56e4b094ced7f01d6e_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       }
@@ -459,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-07 23:44:46 UTC"
+  "fetched_at": "2026-03-08 01:52:05 UTC"
 }
