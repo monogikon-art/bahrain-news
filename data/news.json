@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 10
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 11
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEhwRFFTb0NiSl9yUHZDek5zckhLbjFDaE1XcHZQd2piNV92MHV4MjBBMThFM1AwbGphYUsxV3ZVOHVSMUtyQ3N4UUxwenhCX1piRUUwRV85TjhDYU5qWlNENUNkUnhvbFhoOUhuUkZOQ214d0x4b24yd2Z2SW1uZTd3VzBqOF9iY01zWVVaY0x6U2c0b0FGTlY4ZkVhUEZPQllQNWwyel9oUDdvNkQwbEZPeHE0R2g4VTZSNlNwRy1ZQdIB1AFBVV95cUxPOEQtc2pPSzdoeDcxS1g5RFBydHJIVzRxNjlEMTQxRl9Id2JudUdyTjRkUm9KaFptR05rY01KMHRkSVJYWk5VLVFfTTExT2RtTUlGRTJFUU9fZG5VVEhOMXViNXQ5STFibUliZERrc1RCYnBlU01DQkNMaW81NkZfWXNtTG5scXN6MHp6cWt0NXBZOFNhYkZyRUFoZUlSUHgyM01tUUVBWjRfei1ZVDI0VV9GT2d4NzIzZDRyRzAwbzNudGlsWVlmbDFjUFl2OUltdzAzNA?oc=5",
         "published": "8 Mar 2026, 12:48 PM",
         "iso_date": "2026-03-08T12:48:18+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, US, and UK hold emergency consultations on regional security",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTNmTmM2bDR3c3BvbmNmdjR0bkItcmttSmFDMG11XzF0YWJCMnBmblZ4c2dBR2RvWWpfSXQxUGdlRHdqdUpYbGlUVHRUemFGRVFzMEhidmNwc1pwMUdOSmxFaVdCZEMwVTVFR2MxSzVJS2o1Vy1yNHRLQi1WMWliaUxfZnpmSUNSWE03QThxQUdrWDRhZTFndzN2WllqM3ZOX25sVzNnMndiTEdYRHRIVUlPUE9rd1U?oc=5",
+        "published": "8 Mar 2026, 02:14 AM",
+        "iso_date": "2026-03-08T02:14:44+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,6 +82,16 @@
         "category": "Latest"
       },
       {
+        "title": "Kuwait National Guard downs hostile drone - GCC News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04aFQ2elVOWFo2cnlSNHVtVWpvTVlfeHZVVllCa0oxNHEzNEQ5Q3lSMC1aWlpMNVM1dzk5WUJGQ092OHU5U0xuLUFDa0Z1VVhpcXRBbFltTWwzcFU?oc=5",
+        "published": "8 Mar 2026, 01:54 AM",
+        "iso_date": "2026-03-08T01:54:26+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "UAE affirms stability of food supplies and abundance of goods in markets, urges consumers not to stockpile",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TWTAzeThIUFJRRkhINWRyRjBDUnN2M29KMjF6RUpqLVZ2eDFuZ3VUWWZmWF9RUnhSZlhlWnFWNkhNSWRQVVJVZk5ZdlRyRTJLVWNib20yOGFsWlU?oc=5",
         "published": "8 Mar 2026, 01:58 AM",
@@ -94,25 +114,126 @@
       {
         "title": "UAE confirms continued oil supplies to global markets via alternative routes bypassing Strait of Hormuz",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVZPbnFnYVFRZl8xQUhvcm5tTEhITDhFWlZHRENFbnNDZTNaeTA3cUJmTVQ3YV9tXzRlYkUzOUtVTktfVWowb09xVWxlaEtSOGNTY3ZJcnR5UkU?oc=5",
-        "published": "8 Mar 2026, 03:08 AM",
-        "iso_date": "2026-03-08T03:08:30+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait National Guard affirms protection of vital sites and downing of drone that targeted country’s airspace without damage",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bF9YQzY0SnBZTUZfR2hSVDZiemRHc2xydHN5SFVjS3NHWVJ4cWdkdWJGb3FoREFHZmx3MmR5UVhLOFk2X3dabTdaV3VsZUZVUHU4U1Z0VHl1dXc?oc=5",
-        "published": "8 Mar 2026, 01:15 AM",
-        "iso_date": "2026-03-08T01:15:12+00:00",
+        "published": "8 Mar 2026, 01:11 AM",
+        "iso_date": "2026-03-08T01:11:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "HM King delivers royal address on final ten days of Ramadhan",
+        "link": "https://www.gdnonline.com/Details/1377945/HM-King-delivers-royal-address-on-final-ten-days-of-Ramadhan",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308224519gdn-websitesize-2026-03-08t225300.899_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "CBSE postpones Class 12 exams until March 11 in the Middle East",
+        "link": "https://www.gdnonline.com/Details/1377940/CBSE-postpones-Class-12-exams-until-March-11-in-the-Middle-East",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308172228examrep_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain airspace remains temporarily closed",
+        "link": "https://www.gdnonline.com/Details/1377934/Bahrain-airspace-remains-temporarily-closed",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308134608airport1_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "95 missiles, 164 drones destroyed since start of Iranian attacks",
+        "link": "https://www.gdnonline.com/Details/1377930/95-missiles,-164-drones-destroyed-since-start-of-Iranian-attacks",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308123406destroyed_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Air flights remain suspended as Bahrain airspace closure continues",
+        "link": "https://www.gdnonline.com/Details/1377927/Gulf-Air-flights-remain-suspended-as-Bahrain-airspace-closure-continues",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308115439gulfair_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Solidarity Bahrain appoints 9 Bahraini leaders following landmark merger",
+        "link": "https://www.gdnonline.com/Details/1377941/Solidarity-Bahrain-appoints-9-Bahraini-leaders-following-landmark-merger",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308173117website(32)_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Marmoush leads City to last 8",
+        "link": "https://www.gdnonline.com/Details/1377898/Marmoush-leads-City-to-last-8",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308_020112_0_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Yamal stars as Barca seal hard-fought win",
+        "link": "https://www.gdnonline.com/Details/1377897/Yamal-stars-as-Barca-seal-hard-fought-win-",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308023059ok_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Riffa claim commanding victory to reach semis",
+        "link": "https://www.gdnonline.com/Details/1377896/Riffa-claim-commanding-victory-to-reach-semis",
+        "published": "8 Mar 2026",
+        "iso_date": "2026-03-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308022520fbone_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Liverpool down Wolves to enter quarter-finals",
+        "link": "https://www.gdnonline.com/Details/1377830/Liverpool-down-Wolves-to-enter-quarter-finals",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_020316_0_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ronaldo heads to Spain for rehabilitation after injury",
+        "link": "https://www.gdnonline.com/Details/1377827/Ronaldo-heads-to-Spain-for-rehabilitation-after-injury",
+        "published": "7 Mar 2026",
+        "iso_date": "2026-03-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307022146ronaldo_T.jpg?20260308",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
         "title": "Bahrain’s Interior Minister Condoles with Kuwait Over Border Security Losses",
@@ -358,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 20:22:04 UTC"
+  "fetched_at": "2026-03-08 20:48:47 UTC"
 }
