@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "King Hamad says Bahrain 'committed to peace' as Iran attacks continue",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kQ3VzNnNScW5TbFVLMnZ6Mld0Ung5Tld1SWFUdUlRS1pkMUp4THJ5czlTcFpnQjJBS09MTDJNTW1TY3ZIRTd1WFhoSDZraFlEZXZB?oc=5",
+        "published": "7 Mar 2026, 05:27 PM",
+        "iso_date": "2026-03-07T17:27:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "King of Spain Affirms Support for Bahrain in Measures to Safeguard Its Sovereignty",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVVRUQTlhTTZWNlN6MElLa3p3b0RYdnJCRzZLVmROMkk3Zk1tdFlDVE43U1doQkl1WWg4U3MxOXNEY2FpNjEyUWlITTItYWJiOWZzRFlxTEZUN3d1VjhsRmtHc1M3Vk9ralRRekxtVUpVNWVfRDQ1aVRrNWlaaG16czNhWjhUd2tHb1lheFRWXzBjekltNFRON3d4blZYdFpZaE9DM0tXRWhEekpxNVBjWjdEeE1mSWdYdXBwVzdScjJLcWw0ZnI4?oc=5",
         "published": "7 Mar 2026, 05:37 PM",
@@ -52,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "King Hamad says Bahrain 'committed to peace' as Iran attacks continue",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LeFc2Wkd6V2VRSGp1aWNUQ3VSWTZRN1NpY1YwT21PQ0lXN1Y0M1dST3ZqU0ctY3pBM011bVZNQ0Q3X1ozM0xIRUFvVEhkWHZmYVY5WVUzRzJOTkhU?oc=5",
-        "published": "7 Mar 2026, 05:01 PM",
-        "iso_date": "2026-03-07T17:01:09+00:00",
+        "title": "Bahrain, US, and UK Hold Emergency Consultations on Regional Security - Asharq Al-awsat",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMktGT0JMUXd1Zzc5dFJVcDdnTFRpRUJXWl9sTVVwbTVCbW5lMTZDR3E0VDQ4a0RrMmI2bFFyNGo3d2lvRnlMTGItaFBiZ1c2akljU2J3NTdDVUk3RXQ2c1VEQ0tNVlBsaW1PUExhdmhWYi1jdV9wbC1ndUdobi02bjU3cmNLMl9YeE4xd2I4VWJHODBXbEk3N1lSMHRNSEpxbHpPai03RQ?oc=5",
+        "published": "7 Mar 2026, 08:32 PM",
+        "iso_date": "2026-03-07T20:32:43+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,20 +82,30 @@
         "category": "Latest"
       },
       {
-        "title": "BAHRAIN INTERCEPTS 92 MISSILES, 151 DRONES SINCE ONSET OF IRANIAN ATTACKS - BERNAMA",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdTJlYVVuM3FhdURTN3BkaWZLQ0F2VE9lenBHVmtiemdjeUIyb0hHSWNGR1UyQmRKQmJXUlVZVllCeU1jVF96bjZBS1BBVHBPV2xnWG9OanRBZw?oc=5",
-        "published": "8 Mar 2026, 09:19 AM",
-        "iso_date": "2026-03-08T09:19:11+00:00",
+        "title": "Bahrain Defence Force General Command: 95 missiles, 164 drones destroyed since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb1JrcXFBazBhcjh1b0JPVTBJSlBYNWZOSkh5OTZoSDYwQThIVmx1d0FlLWxhZUN3VHR4R2F6cWRYeWw4UGVXLTN1UTAxUmM2MFRBZlJtV0JDTDdHY2lDVkh0WnNnWjk1MldCSzdUQVd4MERkRTlCdTB5bmk5Z2FDZUFhdURoQVRlRjkwN09yYkt1N2trOVY3b2dyQ0tpYWpCS01rMURwWW82QkNlWWNuYm94VzJCcGMzYmxkQ2JGT1E3LTU5U3dfWTFwSHJCWWJUeUV4d2kxUF9JQ3FaNnVndA?oc=5",
+        "published": "8 Mar 2026, 10:51 AM",
+        "iso_date": "2026-03-08T10:51:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defence Force General Command: 95 missiles, 164 drones destroyed since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb1JrcXFBazBhcjh1b0JPVTBJSlBYNWZOSkh5OTZoSDYwQThIVmx1d0FlLWxhZUN3VHR4R2F6cWRYeWw4UGVXLTN1UTAxUmM2MFRBZlJtV0JDTDdHY2lDVkh0WnNnWjk1MldCSzdUQVd4MERkRTlCdTB5bmk5Z2FDZUFhdURoQVRlRjkwN09yYkt1N2trOVY3b2dyQ0tpYWpCS01rMURwWW82QkNlWWNuYm94VzJCcGMzYmxkQ2JGT1E3LTU5U3dfWTFwSHJCWWJUeUV4d2kxUF9JQ3FaNnVndA?oc=5",
-        "published": "8 Mar 2026, 10:51 AM",
-        "iso_date": "2026-03-08T10:51:00+00:00",
+        "title": "Kuwait National Guard downs hostile drone - GCC News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04aFQ2elVOWFo2cnlSNHVtVWpvTVlfeHZVVllCa0oxNHEzNEQ5Q3lSMC1aWlpMNVM1dzk5WUJGQ092OHU5U0xuLUFDa0Z1VVhpcXRBbFltTWwzcFU?oc=5",
+        "published": "8 Mar 2026, 01:54 AM",
+        "iso_date": "2026-03-08T01:54:26+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait National Guard affirms protection of vital sites and downing of drone that targeted country’s airspace without damage",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bF9YQzY0SnBZTUZfR2hSVDZiemRHc2xydHN5SFVjS3NHWVJ4cWdkdWJGb3FoREFHZmx3MmR5UVhLOFk2X3dabTdaV3VsZUZVUHU4U1Z0VHl1dXc?oc=5",
+        "published": "8 Mar 2026, 01:15 AM",
+        "iso_date": "2026-03-08T01:15:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Russia Evacuates Iranian Diplomats Amid Rising Tensions in Middle East",
+        "link": "https://www.newsofbahrain.com/world/128100.html",
+        "published": "8 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ScshqMtWj_2026-03-08_1772975877resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Four Killed, Over 100 Injured as UAE Defences Respond to Missile Strikes",
         "link": "https://www.newsofbahrain.com/world/128099.html",
         "published": "8 Mar 2026, 09:22 AM",
@@ -208,8 +238,8 @@
       {
         "title": "Injured Victims Under Care, Condition Stable",
         "link": "https://www.newsofbahrain.com/bahrain/128098.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_VWsTwad1bm_2026-03-08_1772970301resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,20 +258,10 @@
       {
         "title": "Pakistan PM Mourns Death of Two Nationals in Dubai Missile Debris Incident",
         "link": "https://www.newsofbahrain.com/world/128096.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JKcg1STOpC_2026-03-08_1772965546resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Regional Conflict Intensifies as Strikes Hit Iran, Lebanon, and Gulf States",
-        "link": "https://www.newsofbahrain.com/world/128095.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_weDSu1xcNq_2026-03-08_1772965053resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JKcg1STOpC_2026-03-08_1772965546resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -276,12 +296,12 @@
         "category": "Latest"
       },
       {
-        "title": "Repatriation Flights Operate as Qatari Airspace Remains Closed",
-        "link": "https://www.newsofbahrain.com/world/128092.html",
+        "title": "Regional Conflict Intensifies as Strikes Hit Iran, Lebanon, and Gulf States",
+        "link": "https://www.newsofbahrain.com/world/128095.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TDxzI0wm2d_2026-03-08_1772963474thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_weDSu1xcNq_2026-03-08_1772965053thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 12:41:24 UTC"
+  "fetched_at": "2026-03-08 13:37:49 UTC"
 }
