@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 12
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -62,10 +62,30 @@
         "category": "Latest"
       },
       {
+        "title": "Jordan Intercepts 108 Iranian Missiles, Drones Over Past Week",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zTV9aQnpULU1TaWZ3MDkwWmNxT3J6U1g5Nkg5dWZvaUdzSE5fWVVpSTBZX1dPNXdNSThDazRMRWNaM2RERm9mNzd5bUlrV1N2MHlISGlfY3prcXI4?oc=5",
+        "published": "7 Mar 2026, 07:52 PM",
+        "iso_date": "2026-03-07T19:52:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain, US, and UK Hold Emergency Consultations on Regional Security - Asharq Al-awsat",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMktGT0JMUXd1Zzc5dFJVcDdnTFRpRUJXWl9sTVVwbTVCbW5lMTZDR3E0VDQ4a0RrMmI2bFFyNGo3d2lvRnlMTGItaFBiZ1c2akljU2J3NTdDVUk3RXQ2c1VEQ0tNVlBsaW1PUExhdmhWYi1jdV9wbC1ndUdobi02bjU3cmNLMl9YeE4xd2I4VWJHODBXbEk3N1lSMHRNSEpxbHpPai03RQ?oc=5",
         "published": "7 Mar 2026, 08:32 PM",
         "iso_date": "2026-03-07T20:32:43+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait airport, tower, Bahrain desalination plant hit as Iran strikes Gulf infrastructure",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEhwRFFTb0NiSl9yUHZDek5zckhLbjFDaE1XcHZQd2piNV92MHV4MjBBMThFM1AwbGphYUsxV3ZVOHVSMUtyQ3N4UUxwenhCX1piRUUwRV85TjhDYU5qWlNENUNkUnhvbFhoOUhuUkZOQ214d0x4b24yd2Z2SW1uZTd3VzBqOF9iY01zWVVaY0x6U2c0b0FGTlY4ZkVhUEZPQllQNWwyel9oUDdvNkQwbEZPeHE0R2g4VTZSNlNwRy1ZQdIB1AFBVV95cUxPOEQtc2pPSzdoeDcxS1g5RFBydHJIVzRxNjlEMTQxRl9Id2JudUdyTjRkUm9KaFptR05rY01KMHRkSVJYWk5VLVFfTTExT2RtTUlGRTJFUU9fZG5VVEhOMXViNXQ5STFibUliZERrc1RCYnBlU01DQkNMaW81NkZfWXNtTG5scXN6MHp6cWt0NXBZOFNhYkZyRUFoZUlSUHgyM01tUUVBWjRfei1ZVDI0VV9GT2d4NzIzZDRyRzAwbzNudGlsWVlmbDFjUFl2OUltdzAzNA?oc=5",
+        "published": "8 Mar 2026, 12:48 PM",
+        "iso_date": "2026-03-08T12:48:18+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -92,10 +112,20 @@
         "category": "Latest"
       },
       {
-        "title": "Kuwait National Guard downs hostile drone - GCC News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04aFQ2elVOWFo2cnlSNHVtVWpvTVlfeHZVVllCa0oxNHEzNEQ5Q3lSMC1aWlpMNVM1dzk5WUJGQ092OHU5U0xuLUFDa0Z1VVhpcXRBbFltTWwzcFU?oc=5",
-        "published": "8 Mar 2026, 01:54 AM",
-        "iso_date": "2026-03-08T01:54:26+00:00",
+        "title": "UAE air defences intercept 15 ballistic missiles, 119 drones - GCC News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80Y21pN2NXQjljenpBU0hvc2xoZWVQa0RDSnhUaVcyZW9GUzM2Nm5qZ3JSRV9qeFUydGlTRl9FWVVJMmRFNEJBYUVUU0NFSDd5RENteTVrUm12Q1E?oc=5",
+        "published": "8 Mar 2026, 01:58 AM",
+        "iso_date": "2026-03-08T01:58:02+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE confirms continued oil supplies to global markets via alternative routes bypassing Strait of Hormuz",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVZPbnFnYVFRZl8xQUhvcm5tTEhITDhFWlZHRENFbnNDZTNaeTA3cUJmTVQ3YV9tXzRlYkUzOUtVTktfVWowb09xVWxlaEtSOGNTY3ZJcnR5UkU?oc=5",
+        "published": "8 Mar 2026, 03:08 AM",
+        "iso_date": "2026-03-08T03:08:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 13:37:49 UTC"
+  "fetched_at": "2026-03-08 14:22:09 UTC"
 }
