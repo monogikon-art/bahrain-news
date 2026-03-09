@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 11
+      "count": 9
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -22,30 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Strikes Continue Despite Iranian President’s Apology",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamZlX3dWZmc0aElsaW5lOWJXZmotTmhrLWZ2ZUF2ZGZSU2Zad3VCbDlQd0Y5SnZFNWxaUzl6eVdMaV9qa3djYjZjXzU0Mm1QajEyMC1jYXVVQVd3OE9lWkFkTnlrNVItQk45dHJSbHpDMGgxUEFHRXl0M3F4Wjg1dklWREV2NlhzYTd4bVdIeFhXc2d3c0E?oc=5",
-        "published": "8 Mar 2026, 01:17 AM",
-        "iso_date": "2026-03-08T01:17:10+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Kuwait airport, tower, Bahrain desalination plant hit as Iran strikes Gulf infrastructure",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEhwRFFTb0NiSl9yUHZDek5zckhLbjFDaE1XcHZQd2piNV92MHV4MjBBMThFM1AwbGphYUsxV3ZVOHVSMUtyQ3N4UUxwenhCX1piRUUwRV85TjhDYU5qWlNENUNkUnhvbFhoOUhuUkZOQ214d0x4b24yd2Z2SW1uZTd3VzBqOF9iY01zWVVaY0x6U2c0b0FGTlY4ZkVhUEZPQllQNWwyel9oUDdvNkQwbEZPeHE0R2g4VTZSNlNwRy1ZQdIB1AFBVV95cUxPOEQtc2pPSzdoeDcxS1g5RFBydHJIVzRxNjlEMTQxRl9Id2JudUdyTjRkUm9KaFptR05rY01KMHRkSVJYWk5VLVFfTTExT2RtTUlGRTJFUU9fZG5VVEhOMXViNXQ5STFibUliZERrc1RCYnBlU01DQkNMaW81NkZfWXNtTG5scXN6MHp6cWt0NXBZOFNhYkZyRUFoZUlSUHgyM01tUUVBWjRfei1ZVDI0VV9GT2d4NzIzZDRyRzAwbzNudGlsWVlmbDFjUFl2OUltdzAzNA?oc=5",
         "published": "8 Mar 2026, 12:48 PM",
         "iso_date": "2026-03-08T12:48:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Three injuries and material damage to a university building in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3hXa2MyQ2RwU3RBM2hfOXBITW5Zc2dqcEZaVTJJOU1idFlxYkxJQk9haGZWVURDVGVXLXpvWUJwRVFOMnhfejhHcHRSVXlSb2EwVEJJQWlFMWhWSEFKdl9DeTd5a1d0bVZiYmhJVUprZUNNRnhXS0UxRjltYUw3dXROQ2Z5UlFyZlhGanRWNmp4UGFQNkVOTmgtLTYtcG1FRnFiRU1oS1R4M2h2b2ljWEJGWGxBXzh4dzlNNzJFRQ?oc=5",
-        "published": "8 Mar 2026, 07:36 AM",
-        "iso_date": "2026-03-08T07:36:59+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,6 +42,26 @@
         "category": "Latest"
       },
       {
+        "title": "Three injuries and material damage to a university building in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGdLNWk0QVd3UHNTS0VoUEpHNElDOEJyRzJCbDQyYWVxb001cmUtX3hKeEVvNjBMSENGZXFXTE1BWDVLZjN1MkdXTUhwYWRvQWJrazBIYnpXWnNUbGNlbWxtek4tZDVWMElROFhwQkpQdll3QzJUaHhJUDBUT1d2QUNWMWp5YUpPVGE1UFc3Szdwd3F5R0x3dlJNdWhlbWFPTllaNEFnamc1VGw2X3BzRGU1eHBISnlXVm9F?oc=5",
+        "published": "8 Mar 2026, 09:20 AM",
+        "iso_date": "2026-03-08T09:20:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "BAHRAIN INTERCEPTS 92 MISSILES, 151 DRONES SINCE ONSET OF IRANIAN ATTACKS",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdTJlYVVuM3FhdURTN3BkaWZLQ0F2VE9lenBHVmtiemdjeUIyb0hHSWNGR1UyQmRKQmJXUlVZVllCeU1jVF96bjZBS1BBVHBPV2xnWG9OanRBZw?oc=5",
+        "published": "8 Mar 2026, 09:19 AM",
+        "iso_date": "2026-03-08T09:19:11+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Defence Force General Command: 95 Missiles, 164 Drones Destroyed Since Start Of Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZGU5ZWZCWG9HdDY4Tkt1MkZJYzl3YktrMmFtQ1VGeHRTS2pjeVJpYm5fSWU2a0EydFNoQ2w2Z3dZQXF2N2FjMWpKZ0ItcGJtWk1ZbEs3SXk0V2JEWTJqbnl0azZFVEJpSnFmZEhTdGVkWmhJV0RHXzJSNkJ2TTF0bXZ6bXNuSkZpbTBWTGdoLTFMbE56aG9QeW81WFZPdw?oc=5",
         "published": "8 Mar 2026, 11:00 AM",
@@ -72,40 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "UAE affirms stability of food supplies and abundance of goods in markets, urges consumers not to stockpile",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TWTAzeThIUFJRRkhINWRyRjBDUnN2M29KMjF6RUpqLVZ2eDFuZ3VUWWZmWF9RUnhSZlhlWnFWNkhNSWRQVVJVZk5ZdlRyRTJLVWNib20yOGFsWlU?oc=5",
-        "published": "8 Mar 2026, 01:58 AM",
-        "iso_date": "2026-03-08T01:58:04+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE air defences intercept 15 ballistic missiles, 119 drones - GCC News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80Y21pN2NXQjljenpBU0hvc2xoZWVQa0RDSnhUaVcyZW9GUzM2Nm5qZ3JSRV9qeFUydGlTRl9FWVVJMmRFNEJBYUVUU0NFSDd5RENteTVrUm12Q1E?oc=5",
-        "published": "8 Mar 2026, 01:58 AM",
-        "iso_date": "2026-03-08T01:58:02+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "UAE confirms continued oil supplies to global markets via alternative routes bypassing Strait of Hormuz",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVZPbnFnYVFRZl8xQUhvcm5tTEhITDhFWlZHRENFbnNDZTNaeTA3cUJmTVQ3YV9tXzRlYkUzOUtVTktfVWowb09xVWxlaEtSOGNTY3ZJcnR5UkU?oc=5",
         "published": "8 Mar 2026, 03:08 AM",
         "iso_date": "2026-03-08T03:08:30+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait National Guard affirms protection of vital sites and downing of drone that targeted country’s airspace without damage",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bF9YQzY0SnBZTUZfR2hSVDZiemRHc2xydHN5SFVjS3NHWVJ4cWdkdWJGb3FoREFHZmx3MmR5UVhLOFk2X3dabTdaV3VsZUZVUHU4U1Z0VHl1dXc?oc=5",
-        "published": "8 Mar 2026, 01:15 AM",
-        "iso_date": "2026-03-08T01:15:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -200,26 +170,6 @@
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260308/20260308022520fbone_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Liverpool down Wolves to enter quarter-finals",
-        "link": "https://www.gdnonline.com/Details/1377830/Liverpool-down-Wolves-to-enter-quarter-finals",
-        "published": "7 Mar 2026",
-        "iso_date": "2026-03-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307_020316_0_T.jpg?20260308",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Ronaldo heads to Spain for rehabilitation after injury",
-        "link": "https://www.gdnonline.com/Details/1377827/Ronaldo-heads-to-Spain-for-rehabilitation-after-injury",
-        "published": "7 Mar 2026",
-        "iso_date": "2026-03-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260307/20260307022146ronaldo_T.jpg?20260308",
         "source": "gdn",
         "category": "Latest"
       }
@@ -469,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-08 23:45:40 UTC"
+  "fetched_at": "2026-03-09 01:53:25 UTC"
 }
