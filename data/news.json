@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "Bahrain king, Pakistan Army Chief discuss regional developments",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRVNVNC1tallKVDhRR2Y1Yk85MVVuTWFRU3hDTEFlaDh0c1VJX2Z2Yy1wWUZ4YjlYWTZ6aXVud25rVUxadWVMZS1DeUt4NWRIRXdv?oc=5",
+        "published": "9 Mar 2026, 10:10 PM",
+        "iso_date": "2026-03-09T22:10:56+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain's state oil company declares force majeure on its shipments after Iran attack",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY2xpdGZ0Ujd3My1sRVRQYmZtNEJwUk5JUm5PX1FKamtTa1VxZ1lmcjFyR1dBWEhyT2k5ejN3TXVvV0sxWEZLNXhaMG5xazRLVUhvZGg4WVRvRXNmbWNfM2ZCUGxLRnJPcVhVWUlILVhJWnR4aGdlWTlPcFBiYU9XbldCQW5rRkRJM3I5X3B4ZnlNSUhjM1ZOSWM0S05YczlrQlFYR2VJRm85ZUFrdUd3YTNVeGxTTDV1S3FyWkRNbG5qQ3Vyc2hFQ3V4cU5GQ1l3MGVpc1NLNWVZMHRvM2JwYnZn0gHoAUFVX3lxTE1LSTFkLURIZEc4X0FrUzhKdEtGTkhZSzNjX2lDc29lWkJXU2NiLXpSTXlrc1h4M0xrWUItSWhlSFNxbEpYVlRxT2g1Mm5MMkVXajFrelN5UmtpbDh2SWd6WFRGUGQwOXI5SmtUeHdRZDJxN0NJWmtaUFFvY0xfSUxvVVpCUjZKelFKeTBwWWJmZzhwdzdEdmF4UE9BTlV2bjlrM0ZXdi10MnVRQ2dvQlpDZ3ozOG1BSjJjYkk4VC1LZS05SkoyRXF6dzFNNm1KbHo3T0NqanRzNnR1LTJiSnh2U3l0cW16OE0?oc=5",
         "published": "9 Mar 2026, 06:37 AM",
@@ -46,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLTzh0YlpNdDU2SWh2T0pleEc2eENHUGpMaVJCWkRkZjRCQW52dlJmVnRJX0RPMTFEcVhqLTRtMjdNcWl0SGpPLTJuMlAxWEhUQWZV?oc=5",
         "published": "9 Mar 2026, 03:17 PM",
         "iso_date": "2026-03-09T15:17:42+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drone attack on Bahrain’s Sitra Island injures 32, health ministry says",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkMjEtWU5PQmZxSWlOc3MzYWMxNzRMWWZMb0tqU0dwWmtCR0pmMk8tbm5SdlVKaGhjaTVERHcyMTVoak44WWJ5a0pCaXgyQWF6X3p3?oc=5",
-        "published": "9 Mar 2026, 07:19 AM",
-        "iso_date": "2026-03-09T07:19:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -102,10 +102,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain’s Bapco Energies declares force majeure after refinery hit",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcktMWkxqd2Z3ZDcwZXR0WFVVWDg0VVROVnlOMEgzTkVsOHpBY082RE1nTGI2akZIbnhJUExNSDVlZGV6aTZBc0VQU0RwT3RWdmVYQmR2dm1kclJLYVBFbUJnM1N2cnpieEZjYlI1emZFcExWZC01Uy15XzFlaDlkamJlakp3Z2xYRmQ2TWxEQVpZcXJpWlZHUlBEMWQ4cXktVzgxSGVnS21yUk5ERzZmem1ZYmoycHY4ZE0yZUE0aG1RLVdta2dQT0JxOC1aeklkNGpqN25CT28?oc=5",
-        "published": "9 Mar 2026, 09:16 AM",
-        "iso_date": "2026-03-09T09:16:39+00:00",
+        "title": "Three injuries, material damage to university building in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQ3FQWm5iUXlHUHVPZ0xLczdjb2NJQmFNeWNVVFhCRWdlVk9FSklpTGY2NVN6UVc4RXhZTVVqeWE1b0FZOVN4Q29LQk5Kd1dUU0xEMURHdXJyOE5qTEJWWHBGLWJZZFlWaUllZjNaa0FHZi1DcWlLenFFcmtBTVJxZ2VjcDc1Skp2RFpwdlVsbFBGWTYzSFpCOS1TWmdFaW9ZajR3bW9lZGhzd3pNTEJ5MHVuSGl2Wk1QUVc2cDhXQ1J6aFUzYXRjTzdzb1dKMTRUM1lMb2tvSFd6dXFDOWhFVk15T3dOMWw3SVdvZjVJRS13VUc5NE9VbzNVNktSLUtUS1ZveDEzWlE4NDhIT3ViZzdNQm1DeVo5ZUp4d3lCVmtTUVRFaWh0RGtRVk9sS2tnb2Z4RjVEaWtZTUdDbUYxeVRmc0tXUUhh?oc=5",
+        "published": "9 Mar 2026, 09:17 AM",
+        "iso_date": "2026-03-09T09:17:32+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -122,10 +122,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZHgyOW10Vng5YUluYWhlZUFDcFppX215Y2hLMDQ5OHdBSERBRTdEazB1Q09fazhRblNsUmhLQmNwX1BnaWQ2V1J6UlJicDRFWjF6Tkd5N2NQUWRSZFFXV1JDbG1rZGpfLW9uaGgyMjZtQy0zbVRIM2hUS2w2TmtHa2VLVDlOTmFWZ2VPRjhkamtRWDQ1Mm9jOVE1emRuRWdaSkN3VnN6MjN5M3ZZbDZ5TGF6a0plQnNyYS02bUp1MUtSNzgyMElTZy1XT2tWMEh0cXR3ajRwd1NvQVVzZGhfMkZPM0JieWpxRTBUejZHUU9qQdIB9wFBVV95cUxQempGT0ItclE1VkxDM2VhYXpOczJxeXhGbVNqUkkwNEh1M3l6ZFNyajZWWkFxaklBcHJfMDhSMEFIRW9CbHJHSHNyNXhsZ3pVa3pYNFQzRHZLaTJ6d0xNVl9ONVhtTUVqVnNLamxoX3lrYk12N05helFZaGp3RkZiZUw0SS1EX3NvMDFfYk5yeXE1NTNPNDRoUHFFVTBpTFQyV01heXBvSmhLQTRPRWVsTDFfeS00ZHRoOVdqT243ZmdCS1dYeXZvbUo4MkU4d2hySFMzS3ZtcUJLZkNVWDlFU0R6YTJWeDEzSjc4WHpITWNrWnpzWUhB?oc=5",
-        "published": "9 Mar 2026, 06:59 AM",
-        "iso_date": "2026-03-09T06:59:44+00:00",
+        "title": "Bahrain State Oil Firm Declares Force Majeure After Iranian Attack",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVo5dDM0bk1uTUpjbXJUYk9GcG9WV0FNci1fNmlYRGJPQklFMUFtek1aN1M1czc0RGFDNThheTQxNFV4cUlNMlpyeFVMTHNfYzBHX2d3Wl83dHlzOU42eUNXNXhxX0NmVE9PaFRzUk5XZXlOd0ZNUHM4cE9tZWpocFJHS2RLS2JPX1Zvcm8xTmZGUTctbHQ4S0FR0gGfAUFVX3lxTE5TVlJ6cWUzM1F0TVIzczd3ZFo4NVhIbWhDOFdXS25TcUxxYnFmaExYVFRYejdIQ2pYbjQ4TVVTblVPZk5OcjdYQjA1YXBOUTJwS1Q3ckdVS21aNnkzSHBpVFp0dWtxQ2hGSldEWE1EU1o2U1dVWG55UmN0aTdfYnlLNHBLb3pHdTBmV212Z3oyV1d4RkpRWjhLNGdqYU5XRQ?oc=5",
+        "published": "9 Mar 2026, 07:25 AM",
+        "iso_date": "2026-03-09T07:25:33+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -162,20 +162,20 @@
         "category": "Latest"
       },
       {
-        "title": "Three injuries, material damage to university building in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQ3FQWm5iUXlHUHVPZ0xLczdjb2NJQmFNeWNVVFhCRWdlVk9FSklpTGY2NVN6UVc4RXhZTVVqeWE1b0FZOVN4Q29LQk5Kd1dUU0xEMURHdXJyOE5qTEJWWHBGLWJZZFlWaUllZjNaa0FHZi1DcWlLenFFcmtBTVJxZ2VjcDc1Skp2RFpwdlVsbFBGWTYzSFpCOS1TWmdFaW9ZajR3bW9lZGhzd3pNTEJ5MHVuSGl2Wk1QUVc2cDhXQ1J6aFUzYXRjTzdzb1dKMTRUM1lMb2tvSFd6dXFDOWhFVk15T3dOMWw3SVdvZjVJRS13VUc5NE9VbzNVNktSLUtUS1ZveDEzWlE4NDhIT3ViZzdNQm1DeVo5ZUp4d3lCVmtTUVRFaWh0RGtRVk9sS2tnb2Z4RjVEaWtZTUdDbUYxeVRmc0tXUUhh?oc=5",
-        "published": "9 Mar 2026, 09:17 AM",
-        "iso_date": "2026-03-09T09:17:32+00:00",
+        "title": "Iranian drone attack on Bahrain’s Sitra Island injures 32, health ministry says",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkMjEtWU5PQmZxSWlOc3MzYWMxNzRMWWZMb0tqU0dwWmtCR0pmMk8tbm5SdlVKaGhjaTVERHcyMTVoak44WWJ5a0pCaXgyQWF6X3p3?oc=5",
+        "published": "9 Mar 2026, 07:19 AM",
+        "iso_date": "2026-03-09T07:19:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain says it intercepted 95 missiles, 164 Iranian drones",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wWFZzdEM1TlRBOE1CSUhZTUpsbjBEVmFMc1VxN3lnTkk3bnJHc2lVWG5xcWV5YTRJRUhKdEFBMmFITGZyRWszVzhmZ1U1S0xIUFBr?oc=5",
-        "published": "9 Mar 2026, 02:21 AM",
-        "iso_date": "2026-03-09T02:21:52+00:00",
+        "title": "Bahrain’s Bapco Energies declares force majeure after refinery hit",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcktMWkxqd2Z3ZDcwZXR0WFVVWDg0VVROVnlOMEgzTkVsOHpBY082RE1nTGI2akZIbnhJUExNSDVlZGV6aTZBc0VQU0RwT3RWdmVYQmR2dm1kclJLYVBFbUJnM1N2cnpieEZjYlI1emZFcExWZC01Uy15XzFlaDlkamJlakp3Z2xYRmQ2TWxEQVpZcXJpWlZHUlBEMWQ4cXktVzgxSGVnS21yUk5ERzZmem1ZYmoycHY4ZE0yZUE0aG1RLVdta2dQT0JxOC1aeklkNGpqN25CT28?oc=5",
+        "published": "9 Mar 2026, 09:16 AM",
+        "iso_date": "2026-03-09T09:16:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -192,10 +192,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian attack on Bahrain refinery disrupts oil shipments; force majeure declared- what it means",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVRYb3ZxUHFlWVBON01HZ2d1d0FXdHRneUVCdkk2bUdfd1Y2N1RYVTRuNWRDM2VJMTZLVDJ3XzlmQmpobXlvNHJOV2dUQl9NaDU5WWxHTi14d004Z2VmSjRtUHRmWVVfR2loeElRRmw3dnFUclBhX3JTR0pEWkdqQkdNUzBFVVFJWGN0a19XSzFWdGNpdnNkaGZwWmpWbFFLR0tPWkpIcDTSAagBQVVfeXFMT2VUWG92cVBxZVlQTjdNR2dndXdBV3R0Z3lFQnZJNm1HX3dWNjdUWFU0bjVkQzNlSTE2S1Qyd185ZkJqaG15bzRyTldnVEJfTWg1OVlsR04teHdNOGdlZko0bVB0ZllVX0dpaHhJUUZsN3ZxVHJQYV9yU0dKRFpHakJHTVMwRVVRSVhjdGtfV0sxVnRjaXZzZGhmcFpqVmxRS0dLT1pKSHA0?oc=5",
-        "published": "9 Mar 2026, 10:08 AM",
-        "iso_date": "2026-03-09T10:08:13+00:00",
+        "title": "Bahrain says it intercepted 95 missiles, 164 Iranian drones",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wWFZzdEM1TlRBOE1CSUhZTUpsbjBEVmFMc1VxN3lnTkk3bnJHc2lVWG5xcWV5YTRJRUhKdEFBMmFITGZyRWszVzhmZ1U1S0xIUFBr?oc=5",
+        "published": "9 Mar 2026, 02:21 AM",
+        "iso_date": "2026-03-09T02:21:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -232,16 +232,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain’s oil company Bapco declares force majeure following explosion",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdU1sSVBqNWI4d0dzSldXZGdxTzg0bEotZ0tFTElCaFVVR1lxZEpUNVRfeUVwdllqM2c0Yk92SUFMMF9OWVU0Vmg0VTBla3oyZzdKQ1pIejBmR180a2hoUmx3ZU1BYjFWNlNWV2ppd01fVjBuR3dnZmxJN19WczdHTm1CMk92blF2clpKOEVvS0JaVFMzaENkcndoZS1SNU1oSEhJTTBYdl9ibm80Q204V0hCUWRHQQ?oc=5",
-        "published": "9 Mar 2026, 11:26 AM",
-        "iso_date": "2026-03-09T11:26:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain State Oil Firm Declares 'Force Majeure' After Iran Attack",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGVtWV9EN1lIcUdOVlNrWkwwVFpNQ1Jrc2tyb0MtVUpGMUVTaVZzN0FkYlZRU0tsVEhCXzk5bldpc2VIMFVnZy1jb0lYcjY4UUJRM1VEU3NkZDdUQmNNaklBVU5UNmpNZ2k2MHhhdDk2RG5pWG9WNjBuT2h1enkwWHU0bzY0eWgzWDkzSElfbTIxcUlsQVc2NHRKVQ?oc=5",
         "published": "9 Mar 2026, 09:04 AM",
@@ -266,6 +256,16 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2FINGxYaDVjNDdHYVNkRGVtT25RZy1GR2ZJSjljb2pJa1lad3Y4RFZUM25KQWwzdjhZaVFEREpBcTZod1ZISlpiMTNLcnJqRVBsbGRUVU8zclVQcThCN2hndnZ6ZmNnUE1ad2M0cjdpU3BfTjVmanBrcndRWVhCYUhFWHkxUUlNeWstdmVn?oc=5",
         "published": "9 Mar 2026, 06:44 AM",
         "iso_date": "2026-03-09T06:44:27+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain's Bapco Energies declares force majeure",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3daZ2tNR25HNVR3cWw5a3d1RFNTR0g4dEdoaGhOR1d1c0RERW9NUGxGTkJvcXFEX2xheUpOTFlHYWlqcEIzajNDeHFkR01tT0FMZ1dkNWh4d1NvTkMyVUFYd19zblpzS0xvM3pYOFhhSzlFYXpEZ2ZPRFkwY3hXcHJ2WElET1IyNXpoMXVGUmVSRFJwcHFn?oc=5",
+        "published": "9 Mar 2026, 06:34 AM",
+        "iso_date": "2026-03-09T06:34:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -639,5 +639,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-09 22:30:26 UTC"
+  "fetched_at": "2026-03-09 22:57:08 UTC"
 }
