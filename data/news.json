@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain says it intercepted 95 missiles, 164 Iranian drones",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wWFZzdEM1TlRBOE1CSUhZTUpsbjBEVmFMc1VxN3lnTkk3bnJHc2lVWG5xcWV5YTRJRUhKdEFBMmFITGZyRWszVzhmZ1U1S0xIUFBr?oc=5",
+        "published": "9 Mar 2026, 02:21 AM",
+        "iso_date": "2026-03-09T02:21:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Kuwait airport, tower, Bahrain desalination plant hit as Iran strikes Gulf infrastructure",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEhwRFFTb0NiSl9yUHZDek5zckhLbjFDaE1XcHZQd2piNV92MHV4MjBBMThFM1AwbGphYUsxV3ZVOHVSMUtyQ3N4UUxwenhCX1piRUUwRV85TjhDYU5qWlNENUNkUnhvbFhoOUhuUkZOQ214d0x4b24yd2Z2SW1uZTd3VzBqOF9iY01zWVVaY0x6U2c0b0FGTlY4ZkVhUEZPQllQNWwyel9oUDdvNkQwbEZPeHE0R2g4VTZSNlNwRy1ZQdIB1AFBVV95cUxPOEQtc2pPSzdoeDcxS1g5RFBydHJIVzRxNjlEMTQxRl9Id2JudUdyTjRkUm9KaFptR05rY01KMHRkSVJYWk5VLVFfTTExT2RtTUlGRTJFUU9fZG5VVEhOMXViNXQ5STFibUliZERrc1RCYnBlU01DQkNMaW81NkZfWXNtTG5scXN6MHp6cWt0NXBZOFNhYkZyRUFoZUlSUHgyM01tUUVBWjRfei1ZVDI0VV9GT2d4NzIzZDRyRzAwbzNudGlsWVlmbDFjUFl2OUltdzAzNA?oc=5",
@@ -42,20 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Three injuries and material damage to a university building in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGdLNWk0QVd3UHNTS0VoUEpHNElDOEJyRzJCbDQyYWVxb001cmUtX3hKeEVvNjBMSENGZXFXTE1BWDVLZjN1MkdXTUhwYWRvQWJrazBIYnpXWnNUbGNlbWxtek4tZDVWMElROFhwQkpQdll3QzJUaHhJUDBUT1d2QUNWMWp5YUpPVGE1UFc3Szdwd3F5R0x3dlJNdWhlbWFPTllaNEFnamc1VGw2X3BzRGU1eHBISnlXVm9F?oc=5",
-        "published": "8 Mar 2026, 09:20 AM",
-        "iso_date": "2026-03-08T09:20:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "BAHRAIN INTERCEPTS 92 MISSILES, 151 DRONES SINCE ONSET OF IRANIAN ATTACKS",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdTJlYVVuM3FhdURTN3BkaWZLQ0F2VE9lenBHVmtiemdjeUIyb0hHSWNGR1UyQmRKQmJXUlVZVllCeU1jVF96bjZBS1BBVHBPV2xnWG9OanRBZw?oc=5",
-        "published": "8 Mar 2026, 09:19 AM",
-        "iso_date": "2026-03-08T09:19:11+00:00",
+        "title": "At least 32 injured in Bahrain after drone attack - state media",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1lfWTlEUVkweTVHaXQ0a1VmNjcteEVSUjNJTXAzcEdVRjR2LVVuZzFMeGNwQ1pPX2oydTlJaWZLMlVoX3ZtWm40UjlFc2QwODhwMDNkYnhidjlxRnh2TkM0a2loZzlsQ1pmVjd5U29KYmJMdTJZMEN5ei1tQ1ZjMlNZYW1ZdGNHelotTFhnT0liel9kRW9BSmZ5SWNyeVE?oc=5",
+        "published": "9 Mar 2026, 02:47 AM",
+        "iso_date": "2026-03-09T02:47:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -66,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZGU5ZWZCWG9HdDY4Tkt1MkZJYzl3YktrMmFtQ1VGeHRTS2pjeVJpYm5fSWU2a0EydFNoQ2w2Z3dZQXF2N2FjMWpKZ0ItcGJtWk1ZbEs3SXk0V2JEWTJqbnl0azZFVEJpSnFmZEhTdGVkWmhJV0RHXzJSNkJ2TTF0bXZ6bXNuSkZpbTBWTGdoLTFMbE56aG9QeW81WFZPdw?oc=5",
         "published": "8 Mar 2026, 11:00 AM",
         "iso_date": "2026-03-08T11:00:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE confirms continued oil supplies to global markets via alternative routes bypassing Strait of Hormuz",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVZPbnFnYVFRZl8xQUhvcm5tTEhITDhFWlZHRENFbnNDZTNaeTA3cUJmTVQ3YV9tXzRlYkUzOUtVTktfVWowb09xVWxlaEtSOGNTY3ZJcnR5UkU?oc=5",
-        "published": "8 Mar 2026, 03:08 AM",
-        "iso_date": "2026-03-08T03:08:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -176,6 +166,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Children Among 32 Injured in Sitra Attack",
+        "link": "https://www.newsofbahrain.com/bahrain/128112.html",
+        "published": "9 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GTBkQtFXWy_2026-03-09_1773028894resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Reports Injuries and Damage Following Drone Attack",
         "link": "https://www.newsofbahrain.com/bahrain/128111.html",
         "published": "9 Mar 2026, 09:22 AM",
@@ -188,8 +188,8 @@
       {
         "title": "Bahrain’s Interior Minister Condoles with Kuwait Over Border Security Losses",
         "link": "https://www.newsofbahrain.com/bahrain/128110.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
+        "published": "8 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_j9F7GNzxho_2026-03-08_1773000623resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,20 +208,10 @@
       {
         "title": "Gulf Air Announces London, Manchester, Singapore Repatriation Routes to Dammam",
         "link": "https://www.newsofbahrain.com/bahrain/128108.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n7MPKmeHwV_2026-03-08_1772999192resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Civil Defense Reports Projectile Hit on Residential Site",
-        "link": "https://www.newsofbahrain.com/world/128107.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CIjrOxyEoP_2026-03-08_1772995864resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n7MPKmeHwV_2026-03-08_1772999192resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -236,12 +226,12 @@
         "category": "Latest"
       },
       {
-        "title": "HM King Hamad delivered a royal address marking the final ten days of Ramadan.",
-        "link": "https://www.newsofbahrain.com/bahrain/128105.html",
+        "title": "Saudi Civil Defense Reports Projectile Hit on Residential Site",
+        "link": "https://www.newsofbahrain.com/world/128107.html",
         "published": "8 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ySdIpNU1MO_2026-03-08_1772994380thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CIjrOxyEoP_2026-03-08_1772995864thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -419,5 +409,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-09 01:53:25 UTC"
+  "fetched_at": "2026-03-09 04:14:57 UTC"
 }
