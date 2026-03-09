@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 14
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,16 +16,56 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 0
     }
   },
   "articles": {
     "bna": [
       {
+        "title": "Bahrain's state oil company declares force majeure on its shipments after Iran attack",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY2xpdGZ0Ujd3My1sRVRQYmZtNEJwUk5JUm5PX1FKamtTa1VxZ1lmcjFyR1dBWEhyT2k5ejN3TXVvV0sxWEZLNXhaMG5xazRLVUhvZGg4WVRvRXNmbWNfM2ZCUGxLRnJPcVhVWUlILVhJWnR4aGdlWTlPcFBiYU9XbldCQW5rRkRJM3I5X3B4ZnlNSUhjM1ZOSWM0S05YczlrQlFYR2VJRm85ZUFrdUd3YTNVeGxTTDV1S3FyWkRNbG5qQ3Vyc2hFQ3V4cU5GQ1l3MGVpc1NLNWVZMHRvM2JwYnZn0gHoAUFVX3lxTE1LSTFkLURIZEc4X0FrUzhKdEtGTkhZSzNjX2lDc29lWkJXU2NiLXpSTXlrc1h4M0xrWUItSWhlSFNxbEpYVlRxT2g1Mm5MMkVXajFrelN5UmtpbDh2SWd6WFRGUGQwOXI5SmtUeHdRZDJxN0NJWmtaUFFvY0xfSUxvVVpCUjZKelFKeTBwWWJmZzhwdzdEdmF4UE9BTlV2bjlrM0ZXdi10MnVRQ2dvQlpDZ3ozOG1BSjJjYkk4VC1LZS05SkoyRXF6dzFNNm1KbHo3T0NqanRzNnR1LTJiSnh2U3l0cW16OE0?oc=5",
+        "published": "9 Mar 2026, 06:37 AM",
+        "iso_date": "2026-03-09T06:37:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain says it intercepted 95 missiles, 164 Iranian drones",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wWFZzdEM1TlRBOE1CSUhZTUpsbjBEVmFMc1VxN3lnTkk3bnJHc2lVWG5xcWV5YTRJRUhKdEFBMmFITGZyRWszVzhmZ1U1S0xIUFBr?oc=5",
         "published": "9 Mar 2026, 02:21 AM",
         "iso_date": "2026-03-09T02:21:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain says Iranian strike on oil complex causes fire, damage",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGhtbFZ4ZXFMNlFOaUE3cFFEaWJYa3NZaktyc0tSbVE4dV9Gc2ZZd281cEFvWFFWQTgyY052LS1FcHBzZmM3STR0WXlKY2xzSTkyZ3N4S1g0YXpvYm85a0hUXzZRVXhrQVFPblk1V1EwZXM0N0o5MlJ1QTBlNmdXa1NiNWFfNTZXVzRkQkJhVlZsRDJMaG1kclA0c0xtX2lTLVBDODlDZUswS2g3QkpNVzl30gG3AUFVX3lxTE9aTjlaUUY3akN6TmJKQkVIV1ZveVVka29GV2VoazFfazZEYXA5ckpadk1hbHBKZV80YXh4Zmd0RVh0SEFUbHBidU82NC01THV0czZEeWtmdEJqV1RJOEczR3NLN1JvX0JjeUNsbmI4RkktYWZsYUFMTnV5LUZvTExiUGk2SERJQW1BdjNuWVBCLXZFRDhyZnRZR1dzTklLczI2WnJGNTZVWEZWcDd3MHkyVTJWM2xiRQ?oc=5",
+        "published": "9 Mar 2026, 06:20 AM",
+        "iso_date": "2026-03-09T06:20:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain's state oil firm declares 'force majeure' after Iran attack",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZE9jTUkyRnE1QTF5eFpfSVFlV1VKOVBiM2E1WWhkZ3JDQnI1dWFfMEpCLW8tMVJkLVI3bTV3OEFGMi1tUml5eDNtcVdPWDVNaGxxeFNPUmJqUWU5X3M2V1l5cXVzVGdfN1JFMU8wUXVVODNtWUd1MHAtWDhmYjlydGZxak03Q21LRF92QVJjaE84dkpXNkswSjA5YldDU3NWQmdFOEhyOV9LaUlCWUg1bEwycFpTei15eGRlbllLTl94Tm02Y3dpak530gHPAUFVX3lxTE1TX0N2b1UxSFJ3RXNCNGZBOXJUNUtrZVhvZFVRQ1FRb1dyci1SVUVOSEJSTEFfS2R6TndiRFZ2VzhQNWZ6aV9DRGNMWW5EOW5rN2RWcXNTMlUxbm9GMDBlcHhFcFVaZ0RRTVllVDhaODhsMHIySVN1aTZHQWtyQ3ZIYWg5QW9hWlpVNHp4Zkh1bFcxWi1pTFdWeG5Zdy1jNVpXN3F5b3Z0dF85Z2YxMG1SUjQ0elZZei1sS0V0ejJuNTVuQnpHQ0pEVWhBcEhEWQ?oc=5",
+        "published": "9 Mar 2026, 06:34 AM",
+        "iso_date": "2026-03-09T06:34:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Crisis Hits Bahrain Oil: Force Majeure Declared After Refinery Attack",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmQ1TDR4R2oxcEtUVXQzelo1SEhJNHRwNXd3MDFLZkthU21sbXU0UVVhZWFVSmVidTFsemVtZTJHX2xFUGZXVWdqY2xZSUF5MDN3WERFXzgyS0JoSDhlNWxNQ0o2WkkzNnJ6cVNKSXZlRnhoU2pBblN4MVFiazZnNTRoZ285ZWdwOGFibWZxNDdSSVJfMFRXR3BjelRUcHJzTjR0Vi1QODVUeTVNdlAtcnVlbmc3dUR4Nk96M09udELSAcYBQVVfeXFMT3I1TE5NSzlMcGltSUpJajZRdU9kUl9iSFhZNmx6VXV1MG5NSWVvdko1ZWFocVJOVjNIREUzeUNOZ2xjZ2RrZ0xEOW12OWlyc2IwTnZFU3NKSjRpNE5sVm01ZHJOWUl4eFUwVjVoRWpyclMzN0J5emt3V25uTDgtRVFSZ0x4RHdraDlaamlRMWxUZTNRZ1FYS0s1c25lTFRJQW1RV25MZ2hXOE1TZE53aFFHY1lENTIxQW43LXNZU01yMm8zNjVn?oc=5",
+        "published": "9 Mar 2026, 06:15 AM",
+        "iso_date": "2026-03-09T06:15:03+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,6 +92,26 @@
         "category": "Latest"
       },
       {
+        "title": "Iran names former supreme leader's son to succeed him as war sends oil prices soaring",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNanNDU2stY1Z1UWFzYjV6ekRkeDI1VTRSSXFzSU1SelF6cGNZWjBjUnAzMkFORV9KYk9kWnRxZDlrcWVNX3hWNmE1dFl0d1dTNXN0R3k5UGV4dnNKV2tKVGRpNmVVMEZhc1FDaEhGc181dGNqQXNaZzJXZklDNnFxdHZId05zTnBIMkdGMkI3aHdNQUVyNUV6LWdndlpBZTIxVzAta0FYOVU5VXV0V05VSmFyOXVnc0h4LXd0UGFzTEktc2djWTViOGRfZndTT3RwdHlRWWZlRndOczdseFRnV19sTGJUaF8tQl9fa1ZQQmsxaFBCSUxuUnVUQWlrTTkya0FPclZuUjNEOWtGamU0Ym5B?oc=5",
+        "published": "9 Mar 2026, 05:36 AM",
+        "iso_date": "2026-03-09T05:36:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain's Bapco Energies declares force majeure",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3daZ2tNR25HNVR3cWw5a3d1RFNTR0g4dEdoaGhOR1d1c0RERW9NUGxGTkJvcXFEX2xheUpOTFlHYWlqcEIzajNDeHFkR01tT0FMZ1dkNWh4d1NvTkMyVUFYd19zblpzS0xvM3pYOFhhSzlFYXpEZ2ZPRFkwY3hXcHJ2WElET1IyNXpoMXVGUmVSRFJwcHFn?oc=5",
+        "published": "9 Mar 2026, 06:34 AM",
+        "iso_date": "2026-03-09T06:34:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "At least 32 injured in Bahrain after drone attack - state media",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnpxSjF0ZWhqRGQySFpjNkt3S3VmX0xsTC15TVgyNVNSRkpSQThmSWpxYjY0ZlY4bFVZeXNPRUlkdnZmLUdMc2l3WlhWVFNFZU9uNHlXWFBxeS1GSzVObzJMbXFGd0czTmgyaTJ2aWxvRWtUNGRFZEJqOWc3ZEQ1empfZ3plREhyUTJwVTVYV25rZkN4S2ZYLTl1T2RJdw?oc=5",
         "published": "9 Mar 2026, 02:47 AM",
@@ -62,10 +122,40 @@
         "category": "Latest"
       },
       {
+        "title": "Three injuries and material damage to a university building in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGdLNWk0QVd3UHNTS0VoUEpHNElDOEJyRzJCbDQyYWVxb001cmUtX3hKeEVvNjBMSENGZXFXTE1BWDVLZjN1MkdXTUhwYWRvQWJrazBIYnpXWnNUbGNlbWxtek4tZDVWMElROFhwQkpQdll3QzJUaHhJUDBUT1d2QUNWMWp5YUpPVGE1UFc3Szdwd3F5R0x3dlJNdWhlbWFPTllaNEFnamc1VGw2X3BzRGU1eHBISnlXVm9F?oc=5",
+        "published": "8 Mar 2026, 09:20 AM",
+        "iso_date": "2026-03-08T09:20:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran-linked drone and missile debris hits Gulf sites; fires reported in UAE, Bahrain, Kuwait",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42TDRJOXBJdzBVX0U2SnZUZWZNOHRpbzRfTTBndHptWHYxNFdSME9BV2FEOFVvQ0UxSU9hdktpazMzalMwLTNFUnlaODQxYUF2LTFfQnlJLVZwNXZOeUUyWENuM1o?oc=5",
+        "published": "9 Mar 2026, 06:19 AM",
+        "iso_date": "2026-03-09T06:19:29+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Defence Force General Command: 95 Missiles, 164 Drones Destroyed Since Start Of Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZGU5ZWZCWG9HdDY4Tkt1MkZJYzl3YktrMmFtQ1VGeHRTS2pjeVJpYm5fSWU2a0EydFNoQ2w2Z3dZQXF2N2FjMWpKZ0ItcGJtWk1ZbEs3SXk0V2JEWTJqbnl0azZFVEJpSnFmZEhTdGVkWmhJV0RHXzJSNkJ2TTF0bXZ6bXNuSkZpbTBWTGdoLTFMbE56aG9QeW81WFZPdw?oc=5",
         "published": "8 Mar 2026, 11:00 AM",
         "iso_date": "2026-03-08T11:00:07+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Three Injuries, Material Damage To University Building In Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZHBJTFhmR1JBR0FFRGZ3dGpiX0dfQkZfRkkyaXFMTXdxbF9LVHBtYnhuUk53U2RiUEoyc0IzSUl4WnRIYzRDOXRnTU1McnBBYkpuN1BHU2s3TnFvMnpUR3ZnZVZXcXhaV1d2cGpiOUMtR1dmMDZNRm9HVmhWdjNmQ0drR05fSUdpR25MQTZRZU5aSGN1QWFSbTVaVEI1ajg?oc=5",
+        "published": "8 Mar 2026, 08:00 AM",
+        "iso_date": "2026-03-08T08:00:05+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -164,138 +254,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Emergency Department ‘Like a Beehive’ After Incident",
-        "link": "https://www.newsofbahrain.com/bahrain/128113.html",
-        "published": "9 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Nf8s7igGRr_2026-03-09_1773032901resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Children Among 32 Injured in Sitra Attack",
-        "link": "https://www.newsofbahrain.com/bahrain/128112.html",
-        "published": "9 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GTBkQtFXWy_2026-03-09_1773028894resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Reports Injuries and Damage Following Drone Attack",
-        "link": "https://www.newsofbahrain.com/bahrain/128111.html",
-        "published": "9 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rxgFQyXe5E_2026-03-08_1773008941resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s Interior Minister Condoles with Kuwait Over Border Security Losses",
-        "link": "https://www.newsofbahrain.com/bahrain/128110.html",
-        "published": "8 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j9F7GNzxho_2026-03-08_1773000623resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "CENTCOM Reports U.S. Service Member Killed in Saudi Arabia Attack",
-        "link": "https://www.newsofbahrain.com/world/128109.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2bW1QPxvCn_2026-03-08_1773000363resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air Announces London, Manchester, Singapore Repatriation Routes to Dammam",
-        "link": "https://www.newsofbahrain.com/bahrain/128108.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n7MPKmeHwV_2026-03-08_1772999192thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Civil Defense Reports Projectile Hit on Residential Site",
-        "link": "https://www.newsofbahrain.com/world/128107.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CIjrOxyEoP_2026-03-08_1772995864thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russia Evacuates Iranian Diplomats Amid Rising Tensions in Middle East",
-        "link": "https://www.newsofbahrain.com/world/128100.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ScshqMtWj_2026-03-08_1772975877thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Four Killed, Over 100 Injured as UAE Defences Respond to Missile Strikes",
-        "link": "https://www.newsofbahrain.com/world/128099.html",
-        "published": "8 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y3TRjowMl7_2026-03-08_1772971109thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Eid Orders Delayed",
-        "link": "https://www.newsofbahrain.com/business/128044.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aJjnAqW4Tu_2026-03-07_1772877627thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Dair and Samaheej waterfront to be offered on Government Land Investment Platform",
-        "link": "https://www.newsofbahrain.com/business/128037.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Abny0Daji3_2026-03-07_1772873548thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "EWA sets 23% water loss target by 2032 under updated plan",
-        "link": "https://www.newsofbahrain.com/business/128036.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C92AYQ5FJq_2026-03-07_1772873035thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Air India group to fly 50 West Asia flights Sunday for stranded passengers",
-        "link": "https://www.newsofbahrain.com/business/128035.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FJWPyrT6EB_2026-03-07_1772872747thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -409,5 +368,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-09 05:38:50 UTC"
+  "fetched_at": "2026-03-09 06:58:16 UTC"
 }
