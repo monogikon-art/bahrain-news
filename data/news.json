@@ -10,13 +10,13 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 12
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 12
     }
   },
   "articles": {
@@ -43,7 +43,7 @@
       },
       {
         "title": "Bahrain says Iranian strike on oil complex causes fire, damage",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWk45WlFGN2pDek5iSkJFSFdWb3lVZGtvRldlaGsxX2s2RGFwOXJKWnZNYWxwSmVfNGF4eGZndEVYdEhBVGxwYnVPNjQtNUx1dHM2RHlrZnRCaldUSThHM0dzSzdSb19CY3lDbG5iOEZJLWFmbGFBTE51eS1Gb0xMYlBpNkhESUFtQXYzbllQQi12RUQ4cmZ0WUdXc05JS3MyNlpyRjU2VVhGVnA3dzB5MlUyVjNsYkXSAbcBQVVfeXFMT1pOOVpRRjdqQ3pOYkpCRUhXVm95VWRrb0ZXZWhrMV9rNkRhcDlySlp2TWFscEplXzRheHhmZ3RFWHRIQVRscGJ1TzY0LTVMdXRzNkR5a2Z0QmpXVEk4RzNHc0s3Um9fQmN5Q2xuYjhGSS1hZmxhQUxOdXktRm9MTGJQaTZIRElBbUF2M25ZUEItdkVEOHJmdFlHV3NOSUtzMjZackY1NlVYRlZwN3cweTJVMlYzbGJF?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGhtbFZ4ZXFMNlFOaUE3cFFEaWJYa3NZaktyc0tSbVE4dV9Gc2ZZd281cEFvWFFWQTgyY052LS1FcHBzZmM3STR0WXlKY2xzSTkyZ3N4S1g0YXpvYm85a0hUXzZRVXhrQVFPblk1V1EwZXM0N0o5MlJ1QTBlNmdXa1NiNWFfNTZXVzRkQkJhVlZsRDJMaG1kclA0c0xtX2lTLVBDODlDZUswS2g3QkpNVzl30gG3AUFVX3lxTE9aTjlaUUY3akN6TmJKQkVIV1ZveVVka29GV2VoazFfazZEYXA5ckpadk1hbHBKZV80YXh4Zmd0RVh0SEFUbHBidU82NC01THV0czZEeWtmdEJqV1RJOEczR3NLN1JvX0JjeUNsbmI4RkktYWZsYUFMTnV5LUZvTExiUGk2SERJQW1BdjNuWVBCLXZFRDhyZnRZR1dzTklLczI2WnJGNTZVWEZWcDd3MHkyVTJWM2xiRQ?oc=5",
         "published": "9 Mar 2026, 06:20 AM",
         "iso_date": "2026-03-09T06:20:00+00:00",
         "summary": "",
@@ -62,6 +62,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain's state oil company declares force majeure on its shipments",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSWxJeDRYSzY5T2hEOWgxMWVBbFhfOS1TX0ZlWVZncDJwamowQUZoendOclZ5MEtVZnZMQlZkUjFybUtMWXhxMndBdEpNcTV1cGxJN092R2k1MUNPRzBORDZXQThyMEloYW1MRU4yY0lac3hqZHl2eUhqdW1WdFNJQmZ6M0V5allsT1FCcHZULVF0TzQ3OWxMcnFiaVVnODRYeFVEZHh1V3AwTE3SAbABQVVfeXFMUFdwODFyRHVUeS1NNl9TMGM4anVSMkNad2w0TUtKZThyQ0tKcFJZb0xuNTJHcU15eXhBQjh5ODJaT0xfQjZtQktBOWFmYkJhTy1zUGg3ZWh6SVFVZTl5b1hDb09VZ0tKSUNKQ0NIMTRRaDZMLURRd3dDWFpQQ0E3RmZYajVpSDYzcVFGTEwzTTFRTUZQN0FUWHFYLW9VLXRwU1Y3enFBanNBdFNqUTdEbk8?oc=5",
+        "published": "9 Mar 2026, 03:33 AM",
+        "iso_date": "2026-03-09T03:33:03+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain's Bapco Energies declares ‘force majeure’ after Iran attack | Business News",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZW5vcTlfQ3dHYV9yWnd4eEFQQWN0OFJ5djVLenNiUzFWd2RSdm8zcUpnaTUxcGN5akRhX1BqMFY0bF9VLUFGejdNRzUzSkNheE1BVTFLd0s4OXJqWWV2VGNfM19kYmlRX0Q2a3lzQWdLNlNCN1J3V2cxaUhzQkpNSDhTSllxbWVEODEwNk9GTnpVWUgycm9kNnFHOGRaNzRxV0NFWG1FQUx0Q1JhQ3Awc2tiQ1NZNlRCek45TXRkak9nTGvSAcgBQVVfeXFMTmlLNDZYMnk4OE1ldUVudDBoUGdVT0dSQUg4VldwRHNXd0ZBaW9LbU5WTzRvcTAwOVdITFlZY3htTDYtNWZyejNfUjFPUm1EbEFUNVNPRlVUenVJc3VUVlJjTTlneEpkYXpfRHl4NVRLZ09oZXJvSDVUMHljMDJJaDcxeEpQSlFjdDFFZzYzTWRPdXlCdmlPU25WcTNMTF9RLTU2dmlOZDdLZWVSZ21hRktQZ211VDNfeTRZZF8weGR4T0g3RU8zcjA?oc=5",
         "published": "9 Mar 2026, 06:41 AM",
@@ -72,20 +82,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain's state oil company declares force majeure on its shipments",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3A4MXJEdVR5LU02X1MwYzhqdVIyQ1p3bDRNS0plOHJDS0pwUllvTG41MkdxTXl5eEFCOHk4MlpPTF9CNm1CS0E5YWZiQmFPLXNQaDdlaHpJUVVlOXlvWENvT1VnS0pJQ0pDQ0gxNFFoNkwtRFF3d0NYWlBDQTdGZlhqNWlINjNxUUZMTDNNMVFNRlA3QVRYcVgtb1UtdHBTVjd6cUFqc0F0U2pRN0RuT9IBsAFBVV95cUxQV3A4MXJEdVR5LU02X1MwYzhqdVIyQ1p3bDRNS0plOHJDS0pwUllvTG41MkdxTXl5eEFCOHk4MlpPTF9CNm1CS0E5YWZiQmFPLXNQaDdlaHpJUVVlOXlvWENvT1VnS0pJQ0pDQ0gxNFFoNkwtRFF3d0NYWlBDQTdGZlhqNWlINjNxUUZMTDNNMVFNRlA3QVRYcVgtb1UtdHBTVjd6cUFqc0F0U2pRN0RuTw?oc=5",
-        "published": "9 Mar 2026, 03:33 AM",
-        "iso_date": "2026-03-09T03:33:03+00:00",
+        "title": "Bahrain says it intercepted 95 missiles, 164 Iranian drones",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wWFZzdEM1TlRBOE1CSUhZTUpsbjBEVmFMc1VxN3lnTkk3bnJHc2lVWG5xcWV5YTRJRUhKdEFBMmFITGZyRWszVzhmZ1U1S0xIUFBr?oc=5",
+        "published": "9 Mar 2026, 02:21 AM",
+        "iso_date": "2026-03-09T02:21:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain says it intercepted 95 missiles, 164 Iranian drones",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wWFZzdEM1TlRBOE1CSUhZTUpsbjBEVmFMc1VxN3lnTkk3bnJHc2lVWG5xcWV5YTRJRUhKdEFBMmFITGZyRWszVzhmZ1U1S0xIUFBr?oc=5",
-        "published": "9 Mar 2026, 02:21 AM",
-        "iso_date": "2026-03-09T02:21:52+00:00",
+        "title": "The Latest: Oil prices soar after Iran names new supreme leader and launches more attacks",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWC1uV0IyR0w3Qkp2NjNjZzRBeGtoVUpXNkdUN090ODh4Yk1RY29sNmxRVGl6Rk5NcjBxdEZJYV9GTmNrcEVmekZudzcyT1cxV0d5VkZ6LTluLTBVMVVnSnJ0WGRSR1Q5bHFJQmtnUTNRVXFVLWtNTTVIQlhrcjdOUmk5N241dDBVMTJGQkZVWFJzQlZ1bUtvMW01LVNxcHY2VTgwckJjNDFneVBycDNXWm9oRS04b1FPNTNhclZWamNzUUdkWVdCUnFBX3RPWlNUUE5lcm9yRlE4SC1udm5rY2hzaETSAeQBQVVfeXFMTVgtbldCMkdMN0JKdjYzY2c0QXhraFVKVzZHVDdPdDg4eGJNUWNvbDZsUVRpekZOTXIwcXRGSWFfRk5ja3BFZnpGbnc3Mk9XMVdHeVZGei05bi0wVTFVZ0pydFhkUkdUOWxxSUJrZ1EzUVVxVS1rTU01SEJYa3I3TlJpOTduNXQwVTEyRkJGVVhSc0JWdW1LbzFtNS1TcXB2NlU4MHJCYzQxZ3lQcnAzV1pvaEUtOG9RTzUzYXJWVmpjc1FHZFlXQlJxQV90T1pTVFBOZXJvckZROEgtbnZua2Noc2hE?oc=5",
+        "published": "9 Mar 2026, 02:14 AM",
+        "iso_date": "2026-03-09T02:14:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -132,10 +142,10 @@
         "category": "Latest"
       },
       {
-        "title": "Crisis Hits Bahrain Oil: Force Majeure Declared After Refinery Attack",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcjVMTk1LOUxwaW1JSklqNlF1T2RSX2JIWFk2bHpVdXUwbk1JZW92SjVlYWhxUk5WM0hERTN5Q05nbGNnZGtnTEQ5bXY5aXJzYjBOdkVTc0pKNGk0TmxWbTVkck5ZSXh4VTBWNWhFanJyUzM3Qnl6a3dXbm5MOC1FUVJnTHhEd2toOVpqaVExbFRlM1FnUVhLSzVzbmVMVElBbVFXbkxnaFc4TVNkTndoUUdjWUQ1MjFBbjctc1lTTXIybzM2NWfSAcYBQVVfeXFMT3I1TE5NSzlMcGltSUpJajZRdU9kUl9iSFhZNmx6VXV1MG5NSWVvdko1ZWFocVJOVjNIREUzeUNOZ2xjZ2RrZ0xEOW12OWlyc2IwTnZFU3NKSjRpNE5sVm01ZHJOWUl4eFUwVjVoRWpyclMzN0J5emt3V25uTDgtRVFSZ0x4RHdraDlaamlRMWxUZTNRZ1FYS0s1c25lTFRJQW1RV25MZ2hXOE1TZE53aFFHY1lENTIxQW43LXNZU01yMm8zNjVn?oc=5",
-        "published": "9 Mar 2026, 06:15 AM",
-        "iso_date": "2026-03-09T06:15:03+00:00",
+        "title": "Bahrain's Bapco Energies declares force majeure over Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOS16cjlLX01zMXRqdWQyTHJ5WlhfekhlMm9oVmF4dFg3OFZadVRnc3c3SDlTSmc2c1pjd2M2anlhcFM0NU5tdTU3cjVpZVA5WlhMaDJDdnA0SkxQOTNSVW5RZHBOYlJBWVpaSGlPNVUxVVJnNkNDSEtTNnlzaHVzVVVkRm4wTkVmM1FjalhoRmVTS3JBU1hjUklnNHJUMW5Eekk3QUVwMDVJVXBfck9YYVVR?oc=5",
+        "published": "9 Mar 2026, 06:59 AM",
+        "iso_date": "2026-03-09T06:59:37+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -146,6 +156,36 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkMjEtWU5PQmZxSWlOc3MzYWMxNzRMWWZMb0tqU0dwWmtCR0pmMk8tbm5SdlVKaGhjaTVERHcyMTVoak44WWJ5a0pCaXgyQWF6X3p3?oc=5",
         "published": "9 Mar 2026, 07:19 AM",
         "iso_date": "2026-03-09T07:19:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain State Oil Firm Declares 'Force Majeure' After Iran Attack",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3pKRll5dk1mMEllSEFiOFVGSUt4T2FrbjY4Y1RZS2VrUlU1M3RyX19PMFR6S1pQS0dVZGJhaDV4WGVLRHdEUnBRNG04cU0yWHpadDU2MDJnYlNNaUhIM2huR1ZBU29pRERJODlvRHc3d3RXZ1ppQVhRcWNvLVd4bTdrMmRiMFY4bVJMWTU2Q1c1UXBiQ2ZOQ0NPNVc?oc=5",
+        "published": "9 Mar 2026, 09:02 AM",
+        "iso_date": "2026-03-09T09:02:17+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Crisis Hits Bahrain Oil: Force Majeure Declared After Refinery Attack",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcjVMTk1LOUxwaW1JSklqNlF1T2RSX2JIWFk2bHpVdXUwbk1JZW92SjVlYWhxUk5WM0hERTN5Q05nbGNnZGtnTEQ5bXY5aXJzYjBOdkVTc0pKNGk0TmxWbTVkck5ZSXh4VTBWNWhFanJyUzM3Qnl6a3dXbm5MOC1FUVJnTHhEd2toOVpqaVExbFRlM1FnUVhLSzVzbmVMVElBbVFXbkxnaFc4TVNkTndoUUdjWUQ1MjFBbjctc1lTTXIybzM2NWfSAcYBQVVfeXFMT3I1TE5NSzlMcGltSUpJajZRdU9kUl9iSFhZNmx6VXV1MG5NSWVvdko1ZWFocVJOVjNIREUzeUNOZ2xjZ2RrZ0xEOW12OWlyc2IwTnZFU3NKSjRpNE5sVm01ZHJOWUl4eFUwVjVoRWpyclMzN0J5emt3V25uTDgtRVFSZ0x4RHdraDlaamlRMWxUZTNRZ1FYS0s1c25lTFRJQW1RV25MZ2hXOE1TZE53aFFHY1lENTIxQW43LXNZU01yMm8zNjVn?oc=5",
+        "published": "9 Mar 2026, 06:15 AM",
+        "iso_date": "2026-03-09T06:15:03+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain oil company declares force majeure after Iranian attack on refinery",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFpDdHU5Uzc4QXpWOEhYSnZtNF9XTHNRa2RKV0xwT2x2eUdtVzZzdHBPVU9fbEx3b2VPeFNWVzBCWHZLc0MyLTdXTlJYMjUxNW1tSTF1SENHVmZCajY4Y2dnTHp0OTAzZEdNNm1TWWdjMVBFcGJnUmpJN2d1SFJfdGUyenFmc0xPT2ZaZjAyS0FoNURUYkUwbXhZRmRjSnFuRkZIWWFiN1dVUkHSAVZBVV95cUxOcHhfb1p2b1d3WXg5Mm1UNVZ0VVNkbFMtUGliUFhkUW9uRThGcGhCTl9wTjN3My1nZE5iRGdkSUxZZVpQWkZBT1dMUUt4eVdoZDEtVXhKUQ?oc=5",
+        "published": "8 Mar 2026, 09:25 PM",
+        "iso_date": "2026-03-08T21:25:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -192,16 +232,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain's Bapco Energies declares force majeure over Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOS16cjlLX01zMXRqdWQyTHJ5WlhfekhlMm9oVmF4dFg3OFZadVRnc3c3SDlTSmc2c1pjd2M2anlhcFM0NU5tdTU3cjVpZVA5WlhMaDJDdnA0SkxQOTNSVW5RZHBOYlJBWVpaSGlPNVUxVVJnNkNDSEtTNnlzaHVzVVVkRm4wTkVmM1FjalhoRmVTS3JBU1hjUklnNHJUMW5Eekk3QUVwMDVJVXBfck9YYVVR?oc=5",
-        "published": "9 Mar 2026, 06:59 AM",
-        "iso_date": "2026-03-09T06:59:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Another company in the Middle East has declared force majeure due to the Iranian attack – now the oil company BAPCO from Bahrain. - Українські Національні Новини (УНН)",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMHdtb1BZZmsza0VnVGFNZTdwdjdvT1FqeUhnOS1jakUwN01PcXJBdEplU0Q1NmFRNlRYcVVHSHEtUlQ1b0RYWVhqNk5Ga1lTS2NEeEJ4LW1KTVJ3MFA2YTV5enZVbTFUMzRpMjFXa0R5N0Vsd0JGUVItWFMtRDU2TE9Mb1kwV0ZfZnF5NzluX2hWamdCeUlaQVE2MXp6ejcwZndLeUlZajJTWDVDZTdRTVlSakxXNlNEM2dsN0hYM3c1d1A4WmRyaWhsd3FaRlhxTWVIV2RIbXdvcWRteHQ3dUxqYw?oc=5",
         "published": "9 Mar 2026, 07:52 AM",
@@ -232,16 +262,6 @@
         "category": "Latest"
       },
       {
-        "title": "The Latest: Oil prices soar after Iran names new supreme leader and launches more attacks - ABC22 & FOX44",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUjZGQlFScWFvelRTS1hySzR0amVZbmxib0FLV2EwLVo2cFFBRDh2RlZHcHhURXV4T2xLUXZ3S0xXYlJRNElhN0JMaFVuWUI2REc5Ql96RDUzN3ZGZ0xzaGtIYUY5ckNlN2UtRmRlaExFRWxSbWo4c2t5ckpxSWhJd1R0SkNFRWQwanNvLXI4blI3UG04ZGlZRTMxTndtcHJjeEliQmNpX3R6S2hmZk94cFdCRE9US3ZqaF9fMzhfMk1VUC1tOW82cml1YnlsTkg4RFAtZmRvZGJjOW1VQUFVMENVM0pIS0xPMVk3UUhmdXRzOWRkcGfSAfYBQVVfeXFMTlI2RkJRUnFhb3pUU0tYcks0dGplWW5sYm9BS1dhMC1aNnBRQUQ4dkZWR3B4VEV1eE9sS1F2d0tMV2JSUTRJYTdCTGhVbllCNkRHOUJfekQ1Mzd2RmdMc2hrSGFGOXJDZTdlLUZkZWhMRUVsUm1qOHNreXJKcUloSXdUdEpDRUVkMGpzby1yOG5SN1BtOGRpWUUzMU53bXByY3hJYkJjaV90ektoZmZPeHBXQkRPVEt2amhfXzM4XzJNVVAtbTlvNnJpdWJ5bE5IOERQLWZkb2RiYzltVUFBVTBDVTNKSEtMTzFZN1FIZnV0czlkZHBn?oc=5",
-        "published": "9 Mar 2026, 02:14 AM",
-        "iso_date": "2026-03-09T02:14:26+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain’s Bapco Energies declares force majeure after refinery hit",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUpRNWJGcE51SFFsLTM5Zld3aTdKa2NZalFtbDkxbDV3a2dsTjJ6SkpjUk1EQ3g1aS1vYnIzM3ZJUGV5NnlEY1lVNkhrN1YzWm9vdWFZeWVCTXNXaDNMdkNDWFNJaFhySC1mS3RxWDc1LXB3LTlPdnQ5bTVVcjZzQXJHcjRScHJ6ZGU0MHFXT3Uyb2ZhNmc?oc=5",
         "published": "9 Mar 2026, 08:08 AM",
@@ -250,29 +270,19 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "LIVE UPDATES: Crude oil price jumps more than 30%; Bahrain's Bapco Energies declares force majeure",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa1RaSmtRWHh2cFN6d3FJX1ZZTy04OWd4cDRMWi1Od3h6SGlrTnBxVVRYRUdRVzROcGpVRzJ5R0hxN1NaS04tS0d2cGxUblhyUkNxWFM1NE9GVTExVDlYZ1IwMTUzZHBvWjAyYXlvdktRUDhfQ0xFby1aU0dxRm16NXphQXNYOXR4RHhwQldjUDdCbkFGbkJHbVRFcC1qQ3p3VldGR2pFcVhrTmhpbEpka1ZlSjc2UWN0UTNJWEs0ZERfWFYtdzQ2ZzhpelZ2dFNnVi1JblhRZU5WOEU?oc=5",
-        "published": "9 Mar 2026, 07:02 AM",
-        "iso_date": "2026-03-09T07:02:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "At least 32 injured in Bahrain after drone attack - state media",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnpxSjF0ZWhqRGQySFpjNkt3S3VmX0xsTC15TVgyNVNSRkpSQThmSWpxYjY0ZlY4bFVZeXNPRUlkdnZmLUdMc2l3WlhWVFNFZU9uNHlXWFBxeS1GSzVObzJMbXFGd0czTmgyaTJ2aWxvRWtUNGRFZEJqOWc3ZEQ1empfZ3plREhyUTJwVTVYV25rZkN4S2ZYLTl1T2RJdw?oc=5",
-        "published": "9 Mar 2026, 02:47 AM",
-        "iso_date": "2026-03-09T02:47:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "Fire contained at facility in Maâameer targeted in Iranian attack",
+        "link": "https://www.gdnonline.com/Details/1378008/Fire-contained-at-facility-in-Maâameer-targeted-in-Iranian-attack",
+        "published": "9 Mar 2026",
+        "iso_date": "2026-03-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260309/20260309103206ncc1_T.jpg?20260309",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Bapco Energies declares a force majeure situation on the group's operations",
         "link": "https://www.gdnonline.com/Details/1377998/Bapco-Energies-declares-a-force-majeure-situation-on-the-groups-operations",
@@ -314,16 +324,6 @@
         "category": "Latest"
       },
       {
-        "title": "CBSE postpones Class 12 exams",
-        "link": "https://www.gdnonline.com/Details/1377940/CBSE-postpones-Class-12-exams",
-        "published": "9 Mar 2026",
-        "iso_date": "2026-03-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308172228examrep_T.jpg?20260309",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Solidarity recognises Bahraini leadership excellence following landmark merger",
         "link": "https://www.gdnonline.com/Details/1377959/Solidarity-recognises-Bahraini-leadership-excellence-following-landmark-merger",
         "published": "9 Mar 2026",
@@ -340,6 +340,26 @@
         "iso_date": "2026-03-08T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260308/20260308173117website(32)_T.jpg?20260309",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "FA Cup: Port Vale cause shock to reach quarter-finals",
+        "link": "https://www.gdnonline.com/Details/1378010/FA-Cup-Port-Vale-cause-shock-to-reach-quarter-finals",
+        "published": "9 Mar 2026",
+        "iso_date": "2026-03-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260309/20260309112313fa1_T.jpg?20260309",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Iraq coach calls for delay to World Cup playoff amid travel shutdown",
+        "link": "https://www.gdnonline.com/Details/1378011/Iraq-coach-calls-for-delay-to-World-Cup-playoff-amid-travel-shutdown",
+        "published": "9 Mar 2026",
+        "iso_date": "2026-03-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260309/20260309112631iraq1(2)_T.jpg?20260309",
         "source": "gdn",
         "category": "Latest"
       },
@@ -374,16 +394,6 @@
         "category": "Latest"
       },
       {
-        "title": "Riffa claim commanding victory to reach semis",
-        "link": "https://www.gdnonline.com/Details/1377896/Riffa-claim-commanding-victory-to-reach-semis",
-        "published": "8 Mar 2026",
-        "iso_date": "2026-03-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260308/20260308022520fbone_T.jpg?20260309",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Paddington The Musical triumphs at WhatsOnStage awards with nine wins",
         "link": "https://www.gdnonline.com/Details/1378005/Paddington-The-Musical-triumphs-at-WhatsOnStage-awards-with-nine-wins",
         "published": "9 Mar 2026",
@@ -396,102 +406,72 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Alcaraz cruises into Indian Wells third round, Djokovic fights through",
-        "link": "https://www.newsofbahrain.com/sports/128137.html",
+        "title": "Bahrain International Airport Flights Remain Suspended",
+        "link": "https://www.newsofbahrain.com/bahrain/128150.html",
         "published": "9 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ewgd1GSNQs_2026-03-09_1773045460resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_l3D8hWGugc_2026-03-09_1773049478resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Manama, Al Najma advance in KBS Cup",
-        "link": "https://www.newsofbahrain.com/sports/128136.html",
+        "title": "Material Damage Reported After Fire at Targeted Ma’ameer Facility",
+        "link": "https://www.newsofbahrain.com/bahrain/128149.html",
         "published": "9 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8iDVY9InZl_2026-03-09_1773045063resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jHTw78kFGu_2026-03-09_1773048320resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Leclerc ‘positively surprised’ by Ferrari but says more work needed",
-        "link": "https://www.newsofbahrain.com/sports/128135.html",
+        "title": "Matams Adjust Commemorations of Imam Ali’s Martyrdom Amid Current Conditions",
+        "link": "https://www.newsofbahrain.com/bahrain/128148.html",
         "published": "9 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-09T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DUckL12AjN_2026-03-09_1773044606resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FMWZ1fOzy5_2026-03-09_1773048013resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Piastri takes blame for crashing out before home Australian Grand Prix",
-        "link": "https://www.newsofbahrain.com/sports/128134.html",
+        "title": "Northern Municipal Council to meet online amid regional tensions",
+        "link": "https://www.newsofbahrain.com/bahrain/128147.html",
         "published": "9 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-09T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IsQzOUr6Bl_2026-03-09_1773044437resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gW9uNPCGsO_2026-03-09_1773047399resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Russell leads Mercedes 1-2 in Australian Grand Prix thriller",
-        "link": "https://www.newsofbahrain.com/sports/128133.html",
+        "title": "Chinese Envoy Meets Saudi Leaders in Effort to Ease Iran Conflict",
+        "link": "https://www.newsofbahrain.com/world/128146.html",
         "published": "9 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Sf3ePdAtEn_2026-03-09_1773044014resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XZ8RNbcJth_2026-03-09_1773047284resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "A Refinery Hit: Bapco Activates Emergency Measures",
-        "link": "https://www.newsofbahrain.com/bahrain/128125.html",
+        "title": "Knife Attack at Malkiya Beach Causes Lasting Injury",
+        "link": "https://www.newsofbahrain.com/bahrain/128145.html",
         "published": "9 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6RdNQgHlWb_2026-03-09_1773038807thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4bqvgX8Q01_2026-03-09_1773046988thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Cross-border confidence",
-        "link": "https://www.newsofbahrain.com/bahrain/128124.html",
+        "title": "G7 Weighs Emergency Oil Reserve Release as Prices Cross $100",
+        "link": "https://www.newsofbahrain.com/world/128141.html",
         "published": "9 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5DE4GTbgtS_2026-03-09_1773038930thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura approves abortion exception in two cases",
-        "link": "https://www.newsofbahrain.com/bahrain/128123.html",
-        "published": "9 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DIzNvseC6n_2026-03-09_1773038209thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura chairman backs Kingdom right to defend itself against Iran aggression",
-        "link": "https://www.newsofbahrain.com/bahrain/128121.html",
-        "published": "9 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KXC3gkisPp_2026-03-09_1773037845thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini families, institutions unite for Kingdom",
-        "link": "https://www.newsofbahrain.com/bahrain/128120.html",
-        "published": "9 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pVycdNmD6Q_2026-03-09_1773037383thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lNL5oTevKq_2026-03-09_1773046138thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -512,26 +492,6 @@
         "iso_date": "2026-03-09T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_R91Zv3wIL5_2026-03-09_1773042130thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US says it will not hit Iran energy sector",
-        "link": "https://www.newsofbahrain.com/world/128130.html",
-        "published": "9 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WMF5IctQKw_2026-03-09_1773040733thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Mojtaba Khamenei Takes Power as Iran’s Supreme Leader",
-        "link": "https://www.newsofbahrain.com/world/128129.html",
-        "published": "9 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YRWQhzj7En_2026-03-09_1773040685thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -562,16 +522,6 @@
         "iso_date": "2026-03-09T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_tYxSQMksVZ_2026-03-09_1773039086thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Eid Orders Delayed",
-        "link": "https://www.newsofbahrain.com/business/128044.html",
-        "published": "7 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aJjnAqW4Tu_2026-03-07_1772877627thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -689,5 +639,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-09 08:40:29 UTC"
+  "fetched_at": "2026-03-09 09:45:39 UTC"
 }
