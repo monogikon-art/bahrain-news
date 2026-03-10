@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 102 missiles, destroys 173 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFEtQWZzRXpVN1hCRUFYVjNKVXdiM1Vrc2dXNFFINk8zVkdURHg0N3p6a083Sm1mNWh0UnU5ZW5MWFotMVpwNFF5Tk83WGMwdngyUUZmNkJEZE1fVGtwVW9WWV9nUWZSWmNPYUt5U1ItZXd0d0RWa0tmUGVGYWl2bjBrdkpaekRieWFHNkJlT0lVSmhyTE1kaEJyc3NzRTBVckZLT3VKaUNZRDZCdGVR0gGvAUFVX3lxTE1sUS1BZnNFelU3WEJFQVhWM0pVd2IzVWtzZ1c0UUg2TzNWR1REeDQ3enprTzdKbWY1aHRSdTllbkxYWi0xWnA0UXlOTzdYYzB2eDJRRmY2QkRkTV9Ua3BVb1ZZX2dRZlJaY09hS3lTUi1ld3R3RFZrS2ZQZUZhaXZuMGt2Slp6RGJ5YUc2QmVPSVVKaHJMTWRoQnJzc3NFMFVyRktPdUppQ1lENkJ0ZVE?oc=5",
-        "published": "9 Mar 2026, 11:29 PM",
-        "iso_date": "2026-03-09T23:29:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iranian Drone Strike in Bahrain Injures 32 in Sitra, Bahrain's Health Ministry Says",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZycVBMZHVqYVRSMXkxSGd0RkExQm1oOGMxcXRXb3ZhWlZZTUtPTFJjMzR0LWxNNDU5RmNUY2Jka0FhSUgzZE1WbXlSZENCVW1pRE0yV21yX3NXbzYzQ0h0dVRSZE5QX2dBZFJrc0ozUDdMaUVBb3RBaUtJXzNpTGFfcDhDU3NQaXVOLUt0N2RwYU96cmdlWHdGdjhyQVlRTHc4M3N5dXd3RW5zZXZvRWEzaEo5d2pXdGR6clNyMkVjZWc?oc=5",
         "published": "10 Mar 2026, 12:12 PM",
@@ -76,6 +66,16 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3R2NHZTbFBfZ2xtZVZHNzFaUTlnWGhoMXVCWVJNWElDa2IzZFBqem14SS11dTU0aVhTUlhKeEhfUWROR29Yc2o0ajdlajJuendqQ3FaM1hJdjFXdlJSODZ0eC15a25DdGFLTmZrTFFKQnpxY0syOHUxUi1ra1NrQXJsMl9oOE5NNm5OZk5iU1Z4MjAzTnI4NG9HUkwtYy15U1ZWZ3FHRXlWQ1ZJRjBQTkY4cC1Lb0p1TzJlSw?oc=5",
         "published": "10 Mar 2026, 12:39 AM",
         "iso_date": "2026-03-10T00:39:40+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts 102 missiles, destroys 173 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFEtQWZzRXpVN1hCRUFYVjNKVXdiM1Vrc2dXNFFINk8zVkdURHg0N3p6a083Sm1mNWh0UnU5ZW5MWFotMVpwNFF5Tk83WGMwdngyUUZmNkJEZE1fVGtwVW9WWV9nUWZSWmNPYUt5U1ItZXd0d0RWa0tmUGVGYWl2bjBrdkpaekRieWFHNkJlT0lVSmhyTE1kaEJyc3NzRTBVckZLT3VKaUNZRDZCdGVR0gGvAUFVX3lxTE1sUS1BZnNFelU3WEJFQVhWM0pVd2IzVWtzZ1c0UUg2TzNWR1REeDQ3enprTzdKbWY1aHRSdTllbkxYWi0xWnA0UXlOTzdYYzB2eDJRRmY2QkRkTV9Ua3BVb1ZZX2dRZlJaY09hS3lTUi1ld3R3RFZrS2ZQZUZhaXZuMGt2Slp6RGJ5YUc2QmVPSVVKaHJMTWRoQnJzc3NFMFVyRktPdUppQ1lENkJ0ZVE?oc=5",
+        "published": "9 Mar 2026, 11:29 PM",
+        "iso_date": "2026-03-09T23:29:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 22:53:48 UTC"
+  "fetched_at": "2026-03-10 23:24:26 UTC"
 }
