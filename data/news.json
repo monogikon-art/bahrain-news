@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 14
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -72,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 102 missiles, destroys 173 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFEtQWZzRXpVN1hCRUFYVjNKVXdiM1Vrc2dXNFFINk8zVkdURHg0N3p6a083Sm1mNWh0UnU5ZW5MWFotMVpwNFF5Tk83WGMwdngyUUZmNkJEZE1fVGtwVW9WWV9nUWZSWmNPYUt5U1ItZXd0d0RWa0tmUGVGYWl2bjBrdkpaekRieWFHNkJlT0lVSmhyTE1kaEJyc3NzRTBVckZLT3VKaUNZRDZCdGVR0gGvAUFVX3lxTE1sUS1BZnNFelU3WEJFQVhWM0pVd2IzVWtzZ1c0UUg2TzNWR1REeDQ3enprTzdKbWY1aHRSdTllbkxYWi0xWnA0UXlOTzdYYzB2eDJRRmY2QkRkTV9Ua3BVb1ZZX2dRZlJaY09hS3lTUi1ld3R3RFZrS2ZQZUZhaXZuMGt2Slp6RGJ5YUc2QmVPSVVKaHJMTWRoQnJzc3NFMFVyRktPdUppQ1lENkJ0ZVE?oc=5",
-        "published": "9 Mar 2026, 11:29 PM",
-        "iso_date": "2026-03-09T23:29:00+00:00",
+        "title": "Bapco declares force majeure as Iran sets Bahrain's only refinery ablaze",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kR0xnV2ZLRmZ6SUNieGFIT05yQndqQnIwMmxod1BOY1pyeGlubnZhb0hVeU1renIyaXFuMTJ1NVJfNy1PVTE3M0UzNEl1OHo4LUdLS25iYUJSTmk0bmhv?oc=5",
+        "published": "10 Mar 2026, 11:28 AM",
+        "iso_date": "2026-03-10T11:28:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -94,52 +94,62 @@
     ],
     "gdn": [
       {
-        "title": "Civil Aviation Affairs: Aircraft repositioning from Bahrain International Airport to enhance operational readiness",
-        "link": "https://www.gdnonline.com/Details/1378207/Civil-Aviation-Affairs-Aircraft-repositioning-from-Bahrain-International-Airport-to-enhance-operational-readiness",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
+        "title": "REPREHENSIBLE: Young Bahraini woman killed by debris after drone smashes into tower block",
+        "link": "https://www.gdnonline.com/Details/1378211/REPREHENSIBLE-Young-Bahraini-woman-killed-by-debris-after-drone-smashes-into-tower-block",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310233204gdn-websitesize-2026-03-10t234002.963_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_004948_0.jpeg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Gulf Air opens booking for limited flights operating from Dammam",
-        "link": "https://www.gdnonline.com/Details/1378176/Gulf-Air-opens-booking-for-limited-flights-operating-from-Dammam",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
+        "title": "Families hit by Sitra attack seek assistance",
+        "link": "https://www.gdnonline.com/Details/1378203/Families-hit-by-Sitra-attack-seek-assistance",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310174023gulfair1-creditgulfair_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311012013edumin_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Call to postpone Bahrain Chamber elections",
-        "link": "https://www.gdnonline.com/Details/1378172/Call-to-postpone-Bahrain-Chamber-elections",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
+        "title": "Sitra residents assured of all help",
+        "link": "https://www.gdnonline.com/Details/1378212/Sitra-residents-assured-of-all-help",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310163450whatsappimage2026-03-10at4.35.02pm.jpeg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_004950_0_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Mourners gather for funeral of young woman killed in Iranian attack",
-        "link": "https://www.gdnonline.com/Details/1378165/Mourners-gather-for-funeral-of-young-woman-killed-in-Iranian-attack",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
+        "title": "MPs seek urgent economic measures to help citizens",
+        "link": "https://www.gdnonline.com/Details/1378191/MPs-seek-urgent-economic-measures-to-help-citizens",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310154610funeral(5)_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260310_224007_3_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "VIRAL VIDEO: Worshippers in Busaiteen continue Ramadan prayers through explosions",
-        "link": "https://www.gdnonline.com/Details/1378166/VIRAL-VIDEO-Worshippers-in-Busaiteen-continue-Ramadan-prayers-through-explosions",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
+        "title": "UKâs RAF âknocks out rogue drone heading to Bahrainâ",
+        "link": "https://www.gdnonline.com/Details/1378202/UKâs-RAF-âknocks-out-rogue-drone-heading-to-Bahrainâ",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310155502gdnwebsitesize(9)_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260310_232227_0.png?20260311",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "EKK reaffirms commitment to reliable service experience",
+        "link": "https://www.gdnonline.com/Details/1378197/EKK-reaffirms-commitment-to-reliable-service-experience",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260310_224027_0_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 23:24:26 UTC"
+  "fetched_at": "2026-03-10 23:50:15 UTC"
 }
