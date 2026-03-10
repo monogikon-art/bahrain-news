@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 18
+      "count": 17
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "Iranian Drone Strike in Bahrain Injures 32 in Sitra, Bahrain's Health Ministry Says",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZycVBMZHVqYVRSMXkxSGd0RkExQm1oOGMxcXRXb3ZhWlZZTUtPTFJjMzR0LWxNNDU5RmNUY2Jka0FhSUgzZE1WbXlSZENCVW1pRE0yV21yX3NXbzYzQ0h0dVRSZE5QX2dBZFJrc0ozUDdMaUVBb3RBaUtJXzNpTGFfcDhDU3NQaXVOLUt0N2RwYU96cmdlWHdGdjhyQVlRTHc4M3N5dXd3RW5zZXZvRWEzaEo5d2pXdGR6clNyMkVjZWc?oc=5",
+        "published": "10 Mar 2026, 12:12 PM",
+        "iso_date": "2026-03-10T12:12:01+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain king, Pakistan Army Chief discuss regional developments",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRVNVNC1tallKVDhRR2Y1Yk85MVVuTWFRU3hDTEFlaDh0c1VJX2Z2Yy1wWUZ4YjlYWTZ6aXVud25rVUxadWVMZS1DeUt4NWRIRXdv?oc=5",
         "published": "9 Mar 2026, 10:10 PM",
@@ -36,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
         "published": "10 Mar 2026, 08:09 AM",
         "iso_date": "2026-03-10T08:09:53+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Drone Strike in Bahrain Injures 32 in Sitra, Bahrain's Health Ministry Says",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZycVBMZHVqYVRSMXkxSGd0RkExQm1oOGMxcXRXb3ZhWlZZTUtPTFJjMzR0LWxNNDU5RmNUY2Jka0FhSUgzZE1WbXlSZENCVW1pRE0yV21yX3NXbzYzQ0h0dVRSZE5QX2dBZFJrc0ozUDdMaUVBb3RBaUtJXzNpTGFfcDhDU3NQaXVOLUt0N2RwYU96cmdlWHdGdjhyQVlRTHc4M3N5dXd3RW5zZXZvRWEzaEo5d2pXdGR6clNyMkVjZWc?oc=5",
-        "published": "9 Mar 2026, 05:45 PM",
-        "iso_date": "2026-03-09T17:45:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -82,16 +82,6 @@
         "category": "Latest"
       },
       {
-        "title": "32 civilians injured in Iranian drone attack in Bahrain's Sitra",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMXlnOWRGcTN0elBPM0xTYWdQaVhBZkRnV090cEU1RjUzTDFXUGVNRWlkeTNyV0JVR20wZmxYTGp5Ujh5Q3lYQkYwczByankwZUdDc1YwcjBKdlNCTHFGd3NPdlZuRGJxZ1A3WmNfeFJwRzZzX1Ztc2M0bjFwUTZiZWtLbjBhOXp6bzRtcnNRc0Nodw?oc=5",
-        "published": "9 Mar 2026, 02:44 PM",
-        "iso_date": "2026-03-09T14:44:27+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
         "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbWZ6bExLY0IxNW80b1lrZkpfYVZoaEJxRUJSbVpheGdkaWR0LWxKUUozN2pzdDFfNnlpV2hWUTBnOTFfdzZNY0ZEQkdyS3JPMk42bGlWaFJwaVM0ZnZ3Ylc4OS1JX1c0QUhUWFlyVzMwYnJSYS1obVhMYldpVjV2TGtaUlQ1cXBhVV94U1Zob2xiRkRIZTdTal9NOGdUQ0g4Qkk2U3V2VzcyeTNndWJRTk1WYmF1dlV3OUE2RmNTX0hlaUt1eGRPOGRRVktQUTR5TFVDeFFmS28yVVk2WFVtbzdsSWptXzdDT29rd24zWWRRTXVBTW1ULVVxUDc2RGtVc1l1VmJwaURnNGZmd2FtY0thUGdCQWE4clRDZUd4QkxyOG1XQXVWZFZjZkZNU193SUNuSXlNQ1BjZFFTX05XZ0k0d3RJd2JRRVBiZkZ1eVBTOUVP?oc=5",
         "published": "9 Mar 2026, 10:05 PM",
@@ -116,16 +106,6 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KYkRJRWtPOE9mLXNwcFBCQUhOMnN1WUJxUVJ0QlktUUh4SE5GRHB5TVppandyZ1FwQkRYRkdLTDdGQVFKMVFUQ1RPUThDdFFOelhFT2ZFTUgzNElxWEdudUpR?oc=5",
         "published": "9 Mar 2026, 11:44 PM",
         "iso_date": "2026-03-09T23:44:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Says Future Missile Launches will Carry Warheads of at Least One Ton",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXJuajBTOVl3S2NFVFBtUmw2YU5WZlNSRG9EbGJSQnQ3aGhSYlBQT3dOX3JLVWRmUEx2SUtacThZQ2hwaThxNWdOcm1ua0VpVV9GcnZHSXI3V3R5ZVJFTnBZLWJMZ2hMRmtZYWRQWXZzVE84cUFtajMtLTk1b3Q0aEw5dVF2clVCeTFWdkt4NjlrSEFvNVpjU2Z3cWhBTnBQTGR6V3RMSE1SSnVtWU1j?oc=5",
-        "published": "10 Mar 2026, 07:40 AM",
-        "iso_date": "2026-03-10T07:40:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -182,20 +162,30 @@
         "category": "Latest"
       },
       {
-        "title": "LIVE UPDATES: Qatar extends condolences to UAE over death of two Armed Forces' members",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa1RaSmtRWHh2cFN6d3FJX1ZZTy04OWd4cDRMWi1Od3h6SGlrTnBxVVRYRUdRVzROcGpVRzJ5R0hxN1NaS04tS0d2cGxUblhyUkNxWFM1NE9GVTExVDlYZ1IwMTUzZHBvWjAyYXlvdktRUDhfQ0xFby1aU0dxRm16NXphQXNYOXR4RHhwQldjUDdCbkFGbkJHbVRFcC1qQ3p3VldGR2pFcVhrTmhpbEpka1ZlSjc2UWN0UTNJWEs0ZERfWFYtdzQ2ZzhpelZ2dFNnVi1JblhRZU5WOEU?oc=5",
-        "published": "9 Mar 2026, 11:03 PM",
-        "iso_date": "2026-03-09T23:03:53+00:00",
+        "title": "Bahrain condemns terrorist attack on UAE Consulate General in Iraqi Kurdistan",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzVDUk5nUGdfMVphWjZnZmc0MEFNYVlUVDNXemRsb1F0Z0hRMllFcVozVnJka1pEejMxZUVnZ1E4d3ZhQTMtaFAwcHI1YjZjUHA4Q2k1TUpJdll1NnAzb0x0OXhQMk1sSDU0R3B0YlJFakpxTVpoc1pGUksyVjd5QnMyUjIwQzRXYUdpMXlybkdnOVhVd0dJaFlIWmVpdUFnb1ZMdTBOVVRndm93M1g4bnhjc004ZnNnRDR5YjJKUGs?oc=5",
+        "published": "10 Mar 2026, 02:21 PM",
+        "iso_date": "2026-03-10T14:21:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Pak Field Marshal Asim Munir backs Bahrain’s right to defend sovereignty in call with King Hamad",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa3A5eHQ4WFFmWFFIak1OcnQwQ0tFbndnQkI3eGRYSmNnQ1FrSkpESEhScFFFbEV5UjYwUGFyRlFuMG9QemRuNERzdXJZTEF0RDhRVVBXZUlaa0NyUzhTUGppZWR2bm5oS3JBaGktTF90aGdSQUxLR014TzhMU1BpWTRURDhCcjNwV05VazY5ZjVNdmdFT3RVUXJwMm5HQV9Mb0tPVVEtQUMtNXd2cWxXaHd5Sm9uc1lJVkE3NzZGZ3JtNlV1MWpjMWwtckxnZnNjOHJRLUxR?oc=5",
-        "published": "10 Mar 2026, 07:29 AM",
-        "iso_date": "2026-03-10T07:29:57+00:00",
+        "title": "Bahrain Defence Force General Command: 105 missiles, 176 drones destroyed since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSWxwNmNzVVJrUjJ4ZnhVdHI1c1hCWVRKbmxkckxQYnQ3V0JvS1dXaUk0cHktZXN1Z29OeGdkMXRySVNYNmFPbDZIV3ZqWkRJT1RWVkFpTkRyd0JuOGdXb0dWY05UYmRNWFRnZmlqMzdROHF4Yk92QzczR1lFVFNTMjVMeHpsRGxFUDZoVmZpbWx3Zm9lXzEwUkVTa3J1Z3RVdkNER2pQb3VIQXpkc3JOTUtHcmtJaEc5MjUzUzE2MTdXQkVmSnZ0UmVxemx5YXcwOGx5ZXhtN0c4NmRLaUtOQlln?oc=5",
+        "published": "10 Mar 2026, 01:49 PM",
+        "iso_date": "2026-03-10T13:49:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH the Crown Prince and Prime Minister chairs the weekly Cabinet Meeting - Local News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WcTVCM3NvWXBFRTRZZXFpay1NQTRZbFc3R2VpNVBGZFluMGJiS3JiZy1nbUZ6QjRjckNmSEoyTlgzTVV6MnNyZnRzUlB1eExSa0RnRGdDaTJkUGs?oc=5",
+        "published": "9 Mar 2026, 05:35 PM",
+        "iso_date": "2026-03-09T17:35:41+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -203,6 +193,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Call to postpone Bahrain Chamber elections",
+        "link": "https://www.gdnonline.com/Details/1378172/Call-to-postpone-Bahrain-Chamber-elections",
+        "published": "10 Mar 2026",
+        "iso_date": "2026-03-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310163450whatsappimage2026-03-10at4.35.02pm.jpeg?20260310",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Mourners gather for funeral of young woman killed in Iranian attack",
         "link": "https://www.gdnonline.com/Details/1378165/Mourners-gather-for-funeral-of-young-woman-killed-in-Iranian-attack",
@@ -240,16 +240,6 @@
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260310/20260310131215bdf3_T.jpg?20260310",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Eid Al Fitr grant to families supported by the RHF announced",
-        "link": "https://www.gdnonline.com/Details/1378157/Eid-Al-Fitr-grant-to-families-supported-by-the-RHF-announced",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310133553king1(3)_T.jpg?20260310",
         "source": "gdn",
         "category": "Latest"
       },
@@ -609,5 +599,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 14:00:05 UTC"
+  "fetched_at": "2026-03-10 15:00:41 UTC"
 }
