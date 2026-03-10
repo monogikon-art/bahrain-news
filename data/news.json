@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,6 +52,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain intercepts 102 missiles, destroys 173 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFEtQWZzRXpVN1hCRUFYVjNKVXdiM1Vrc2dXNFFINk8zVkdURHg0N3p6a083Sm1mNWh0UnU5ZW5MWFotMVpwNFF5Tk83WGMwdngyUUZmNkJEZE1fVGtwVW9WWV9nUWZSWmNPYUt5U1ItZXd0d0RWa0tmUGVGYWl2bjBrdkpaekRieWFHNkJlT0lVSmhyTE1kaEJyc3NzRTBVckZLT3VKaUNZRDZCdGVR0gGvAUFVX3lxTE1sUS1BZnNFelU3WEJFQVhWM0pVd2IzVWtzZ1c0UUg2TzNWR1REeDQ3enprTzdKbWY1aHRSdTllbkxYWi0xWnA0UXlOTzdYYzB2eDJRRmY2QkRkTV9Ua3BVb1ZZX2dRZlJaY09hS3lTUi1ld3R3RFZrS2ZQZUZhaXZuMGt2Slp6RGJ5YUc2QmVPSVVKaHJMTWRoQnJzc3NFMFVyRktPdUppQ1lENkJ0ZVE?oc=5",
+        "published": "9 Mar 2026, 11:29 PM",
+        "iso_date": "2026-03-09T23:29:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian Drone Strike in Bahrain Injures 32 in Sitra, Bahrain's Health Ministry Says",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZycVBMZHVqYVRSMXkxSGd0RkExQm1oOGMxcXRXb3ZhWlZZTUtPTFJjMzR0LWxNNDU5RmNUY2Jka0FhSUgzZE1WbXlSZENCVW1pRE0yV21yX3NXbzYzQ0h0dVRSZE5QX2dBZFJrc0ozUDdMaUVBb3RBaUtJXzNpTGFfcDhDU3NQaXVOLUt0N2RwYU96cmdlWHdGdjhyQVlRTHc4M3N5dXd3RW5zZXZvRWEzaEo5d2pXdGR6clNyMkVjZWc?oc=5",
         "published": "10 Mar 2026, 12:12 PM",
@@ -62,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 102 missiles, destroys 173 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFEtQWZzRXpVN1hCRUFYVjNKVXdiM1Vrc2dXNFFINk8zVkdURHg0N3p6a083Sm1mNWh0UnU5ZW5MWFotMVpwNFF5Tk83WGMwdngyUUZmNkJEZE1fVGtwVW9WWV9nUWZSWmNPYUt5U1ItZXd0d0RWa0tmUGVGYWl2bjBrdkpaekRieWFHNkJlT0lVSmhyTE1kaEJyc3NzRTBVckZLT3VKaUNZRDZCdGVR0gGvAUFVX3lxTE1sUS1BZnNFelU3WEJFQVhWM0pVd2IzVWtzZ1c0UUg2TzNWR1REeDQ3enprTzdKbWY1aHRSdTllbkxYWi0xWnA0UXlOTzdYYzB2eDJRRmY2QkRkTV9Ua3BVb1ZZX2dRZlJaY09hS3lTUi1ld3R3RFZrS2ZQZUZhaXZuMGt2Slp6RGJ5YUc2QmVPSVVKaHJMTWRoQnJzc3NFMFVyRktPdUppQ1lENkJ0ZVE?oc=5",
-        "published": "9 Mar 2026, 11:29 PM",
-        "iso_date": "2026-03-09T23:29:00+00:00",
+        "title": "India advises its nationals in Bahrain to remain vigilant amid West Asia tensions",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3R2NHZTbFBfZ2xtZVZHNzFaUTlnWGhoMXVCWVJNWElDa2IzZFBqem14SS11dTU0aVhTUlhKeEhfUWROR29Yc2o0ajdlajJuendqQ3FaM1hJdjFXdlJSODZ0eC15a25DdGFLTmZrTFFKQnpxY0syOHUxUi1ra1NrQXJsMl9oOE5NNm5OZk5iU1Z4MjAzTnI4NG9HUkwtYy15U1ZWZ3FHRXlWQ1ZJRjBQTkY4cC1Lb0p1TzJlSw?oc=5",
+        "published": "10 Mar 2026, 12:39 AM",
+        "iso_date": "2026-03-10T00:39:40+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +226,30 @@
     ],
     "newsofbahrain": [
       {
+        "title": "HH Shaikha Sheema bint Nasser Leads Preparation of Over 400 Iftar Meals and Brings Joy to Children at Local Shelter",
+        "link": "https://www.newsofbahrain.com/bahrain/128230.html",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g6o7daOhAS_2026-03-10_1773182173resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Air Adjusts Aircraft Positions to Boost Connectivity for Passengers",
+        "link": "https://www.newsofbahrain.com/bahrain/128228.html",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WMIhrYmSXO_2026-03-10_1773181804resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Government to Cover Damages and Medical Care for Victims in Sitra",
         "link": "https://www.newsofbahrain.com/bahrain/128227.html",
-        "published": "10 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-10T09:22:55+00:00",
+        "published": "10 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FOMNA6V5bj_2026-03-10_1773172063resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +258,8 @@
       {
         "title": "Indian Embassy in Bahrain Issues Advisory on Private Travel Arrangements",
         "link": "https://www.newsofbahrain.com/bahrain/128226.html",
-        "published": "10 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-10T09:22:55+00:00",
+        "published": "10 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FX9WyPcS3r_2026-03-10_1773162458resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +268,8 @@
       {
         "title": "Communication in Times of Crisis: When Silence Becomes a Risk",
         "link": "https://www.newsofbahrain.com/views/128225.html",
-        "published": "10 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-10T09:00:43+00:00",
+        "published": "10 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_sFSo18gBlx_2026-03-10_1773147899resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,30 +278,10 @@
       {
         "title": "Public Prosecution Demands Maximum Penalties for Rioters",
         "link": "https://www.newsofbahrain.com/bahrain/128224.html",
-        "published": "10 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_teNZMkK7O5_2026-03-10_1773147663resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Mourns Young Victim of Iranian Attack in Seef",
-        "link": "https://www.newsofbahrain.com/bahrain/128223.html",
         "published": "10 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mZisrzyVhU_2026-03-10_1773147177resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Defence Chief Meets UK’s Senior Defence Adviser for Middle East",
-        "link": "https://www.newsofbahrain.com/bahrain/128219.html",
-        "published": "10 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WGVXxFUuOc_2026-03-10_1773146151thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_teNZMkK7O5_2026-03-10_1773147663thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 22:25:03 UTC"
+  "fetched_at": "2026-03-10 22:53:48 UTC"
 }
