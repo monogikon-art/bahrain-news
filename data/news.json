@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain king, Pakistan Army Chief discuss regional developments",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRVNVNC1tallKVDhRR2Y1Yk85MVVuTWFRU3hDTEFlaDh0c1VJX2Z2Yy1wWUZ4YjlYWTZ6aXVud25rVUxadWVMZS1DeUt4NWRIRXdv?oc=5",
-        "published": "9 Mar 2026, 10:10 PM",
-        "iso_date": "2026-03-09T22:10:56+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
@@ -62,10 +52,30 @@
         "category": "Latest"
       },
       {
+        "title": "Iranian Drone Strike in Bahrain Injures 32 in Sitra, Bahrain's Health Ministry Says",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZycVBMZHVqYVRSMXkxSGd0RkExQm1oOGMxcXRXb3ZhWlZZTUtPTFJjMzR0LWxNNDU5RmNUY2Jka0FhSUgzZE1WbXlSZENCVW1pRE0yV21yX3NXbzYzQ0h0dVRSZE5QX2dBZFJrc0ozUDdMaUVBb3RBaUtJXzNpTGFfcDhDU3NQaXVOLUt0N2RwYU96cmdlWHdGdjhyQVlRTHc4M3N5dXd3RW5zZXZvRWEzaEo5d2pXdGR6clNyMkVjZWc?oc=5",
+        "published": "10 Mar 2026, 12:12 PM",
+        "iso_date": "2026-03-10T12:12:01+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain intercepts 102 missiles, destroys 173 drones since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFEtQWZzRXpVN1hCRUFYVjNKVXdiM1Vrc2dXNFFINk8zVkdURHg0N3p6a083Sm1mNWh0UnU5ZW5MWFotMVpwNFF5Tk83WGMwdngyUUZmNkJEZE1fVGtwVW9WWV9nUWZSWmNPYUt5U1ItZXd0d0RWa0tmUGVGYWl2bjBrdkpaekRieWFHNkJlT0lVSmhyTE1kaEJyc3NzRTBVckZLT3VKaUNZRDZCdGVR0gGvAUFVX3lxTE1sUS1BZnNFelU3WEJFQVhWM0pVd2IzVWtzZ1c0UUg2TzNWR1REeDQ3enprTzdKbWY1aHRSdTllbkxYWi0xWnA0UXlOTzdYYzB2eDJRRmY2QkRkTV9Ua3BVb1ZZX2dRZlJaY09hS3lTUi1ld3R3RFZrS2ZQZUZhaXZuMGt2Slp6RGJ5YUc2QmVPSVVKaHJMTWRoQnJzc3NFMFVyRktPdUppQ1lENkJ0ZVE?oc=5",
         "published": "9 Mar 2026, 11:29 PM",
         "iso_date": "2026-03-09T23:29:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain condemns terrorist attack on UAE Consulate General in Iraqi Kurdistan",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzVDUk5nUGdfMVphWjZnZmc0MEFNYVlUVDNXemRsb1F0Z0hRMllFcVozVnJka1pEejMxZUVnZ1E4d3ZhQTMtaFAwcHI1YjZjUHA4Q2k1TUpJdll1NnAzb0x0OXhQMk1sSDU0R3B0YlJFakpxTVpoc1pGUksyVjd5QnMyUjIwQzRXYUdpMXlybkdnOVhVd0dJaFlIWmVpdUFnb1ZMdTBOVVRndm93M1g4bnhjc004ZnNnRDR5YjJKUGs?oc=5",
+        "published": "10 Mar 2026, 02:21 PM",
+        "iso_date": "2026-03-10T14:21:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -79,7 +89,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310233204gdn-websitesize-2026-03-10t234002.963_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310233204gdn-websitesize-2026-03-10t234002.963_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -89,7 +99,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310174023gulfair1-creditgulfair_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310174023gulfair1-creditgulfair_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +109,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310163450whatsappimage2026-03-10at4.35.02pm.jpeg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310163450whatsappimage2026-03-10at4.35.02pm.jpeg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +119,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310154610funeral(5)_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310154610funeral(5)_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,7 +129,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310155502gdnwebsitesize(9)_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310155502gdnwebsitesize(9)_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +139,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310012048mone_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310012048mone_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +149,7 @@
         "published": "9 Mar 2026",
         "iso_date": "2026-03-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310012548mbtwo_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310012548mbtwo_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +159,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310124933facup_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310124933facup_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +169,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310_015532_0_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310_015532_0_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +179,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310_013514_0_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310_013514_0_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +189,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310015225qatarfb_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310015225qatarfb_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +199,7 @@
         "published": "10 Mar 2026",
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310015733gerrard_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310015733gerrard_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +209,7 @@
         "published": "9 Mar 2026",
         "iso_date": "2026-03-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260309/2026030910195801kk7b4tdvj5p3t9twt2q9rvrf(1)_T.jpg?20260310",
+        "image": "https://www.gdnonline.com/gdnimages/20260309/2026030910195801kk7b4tdvj5p3t9twt2q9rvrf(1)_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       }
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 21:37:02 UTC"
+  "fetched_at": "2026-03-10 22:25:03 UTC"
 }
