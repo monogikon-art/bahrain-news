@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -66,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFEtQWZzRXpVN1hCRUFYVjNKVXdiM1Vrc2dXNFFINk8zVkdURHg0N3p6a083Sm1mNWh0UnU5ZW5MWFotMVpwNFF5Tk83WGMwdngyUUZmNkJEZE1fVGtwVW9WWV9nUWZSWmNPYUt5U1ItZXd0d0RWa0tmUGVGYWl2bjBrdkpaekRieWFHNkJlT0lVSmhyTE1kaEJyc3NzRTBVckZLT3VKaUNZRDZCdGVR0gGvAUFVX3lxTE1sUS1BZnNFelU3WEJFQVhWM0pVd2IzVWtzZ1c0UUg2TzNWR1REeDQ3enprTzdKbWY1aHRSdTllbkxYWi0xWnA0UXlOTzdYYzB2eDJRRmY2QkRkTV9Ua3BVb1ZZX2dRZlJaY09hS3lTUi1ld3R3RFZrS2ZQZUZhaXZuMGt2Slp6RGJ5YUc2QmVPSVVKaHJMTWRoQnJzc3NFMFVyRktPdUppQ1lENkJ0ZVE?oc=5",
         "published": "9 Mar 2026, 11:29 PM",
         "iso_date": "2026-03-09T23:29:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain condemns terrorist attack on UAE Consulate General in Iraqi Kurdistan",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzVDUk5nUGdfMVphWjZnZmc0MEFNYVlUVDNXemRsb1F0Z0hRMllFcVozVnJka1pEejMxZUVnZ1E4d3ZhQTMtaFAwcHI1YjZjUHA4Q2k1TUpJdll1NnAzb0x0OXhQMk1sSDU0R3B0YlJFakpxTVpoc1pGUksyVjd5QnMyUjIwQzRXYUdpMXlybkdnOVhVd0dJaFlIWmVpdUFnb1ZMdTBOVVRndm93M1g4bnhjc004ZnNnRDR5YjJKUGs?oc=5",
-        "published": "10 Mar 2026, 02:21 PM",
-        "iso_date": "2026-03-10T14:21:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 21:00:16 UTC"
+  "fetched_at": "2026-03-10 21:37:02 UTC"
 }
