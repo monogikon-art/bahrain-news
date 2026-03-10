@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 19
+      "count": 18
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 16
     }
   },
   "articles": {
@@ -92,16 +92,6 @@
         "category": "Latest"
       },
       {
-        "title": "32 Injured In Hostile Drone Attack In Bahrain's Sitra -- Health Ministry",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11RXBoNVZjbFVfVENGbGlwaTUwRkNseEQ3cHg2cjExVS1GYlVGenIwVzBCeWg4VUZOUDBPYzBiLWR4Y1ZkWFYxR3d5aldtNHExY0YwTGxwdGswMWZBU1B6NW1HYmt6ZjdwYUFPSHVR?oc=5",
-        "published": "9 Mar 2026, 01:07 PM",
-        "iso_date": "2026-03-09T13:07:14+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
         "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbWZ6bExLY0IxNW80b1lrZkpfYVZoaEJxRUJSbVpheGdkaWR0LWxKUUozN2pzdDFfNnlpV2hWUTBnOTFfdzZNY0ZEQkdyS3JPMk42bGlWaFJwaVM0ZnZ3Ylc4OS1JX1c0QUhUWFlyVzMwYnJSYS1obVhMYldpVjV2TGtaUlQ1cXBhVV94U1Zob2xiRkRIZTdTal9NOGdUQ0g4Qkk2U3V2VzcyeTNndWJRTk1WYmF1dlV3OUE2RmNTX0hlaUt1eGRPOGRRVktQUTR5TFVDeFFmS28yVVk2WFVtbzdsSWptXzdDT29rd24zWWRRTXVBTW1ULVVxUDc2RGtVc1l1VmJwaURnNGZmd2FtY0thUGdCQWE4clRDZUd4QkxyOG1XQXVWZFZjZkZNU193SUNuSXlNQ1BjZFFTX05XZ0k0d3RJd2JRRVBiZkZ1eVBTOUVP?oc=5",
         "published": "9 Mar 2026, 10:05 PM",
@@ -126,6 +116,26 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KYkRJRWtPOE9mLXNwcFBCQUhOMnN1WUJxUVJ0QlktUUh4SE5GRHB5TVppandyZ1FwQkRYRkdLTDdGQVFKMVFUQ1RPUThDdFFOelhFT2ZFTUgzNElxWEdudUpR?oc=5",
         "published": "9 Mar 2026, 11:44 PM",
         "iso_date": "2026-03-09T23:44:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Says Future Missile Launches will Carry Warheads of at Least One Ton",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXJuajBTOVl3S2NFVFBtUmw2YU5WZlNSRG9EbGJSQnQ3aGhSYlBQT3dOX3JLVWRmUEx2SUtacThZQ2hwaThxNWdOcm1ua0VpVV9GcnZHSXI3V3R5ZVJFTnBZLWJMZ2hMRmtZYWRQWXZzVE84cUFtajMtLTk1b3Q0aEw5dVF2clVCeTFWdkt4NjlrSEFvNVpjU2Z3cWhBTnBQTGR6V3RMSE1SSnVtWU1j?oc=5",
+        "published": "10 Mar 2026, 07:40 AM",
+        "iso_date": "2026-03-10T07:40:23+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bapco declares force majeure as Iran sets Bahrain's only refinery ablaze",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kR0xnV2ZLRmZ6SUNieGFIT05yQndqQnIwMmxod1BOY1pyeGlubnZhb0hVeU1renIyaXFuMTJ1NVJfNy1PVTE3M0UzNEl1OHo4LUdLS25iYUJSTmk0bmhv?oc=5",
+        "published": "10 Mar 2026, 11:28 AM",
+        "iso_date": "2026-03-10T11:28:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -182,30 +192,10 @@
         "category": "Latest"
       },
       {
-        "title": "India urges nationals in Bahrain to stay vigilant amid West Asia tensions",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHN2NFlSRVVWMVRqeFVuRVJIcUFJellVWUducmpmcHRiYnF6VXdFS0RWa2N5TXpyVWVGcTNsUnFyNGRqUlNIcGdrRnc1WWdRaXRaSzRnWmZsT2NsMklnYnpkdkVMUlN3LXVLMEdSTXZTdldoenlSRjZnTWtpOENIZ1NraG5ZVTRZcllwWFFGTGJaQkg5T01IelU2eTV5Mmp5ZFBB0gGjAUFVX3lxTE5Yc3Y0WVJFVVYxVGp4VW5FUkhxQUl6WVVZR25yamZwdGJicXpVd0VLRFZrY3lNenJVZUZxM2xScXI0ZGpSU0hwZ2tGdzVZZ1FpdFpLNGdaZmxPY2wySWdiemR2RUxSU3ctdUswR1JNdlN2V2h6eVJGNmdNa2k4Q0hnU2tobllVNFlyWXBYUUZMYlpCSDlPTUh6VTZ5NXkyanlkUEE?oc=5",
-        "published": "9 Mar 2026, 01:44 PM",
-        "iso_date": "2026-03-09T13:44:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH the Crown Prince and Prime Minister participates remotely in a meeting with several leaders and representatives of the GCC, Arab and EU countries",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12MG04WnBlYWVsbFp3NlNwX0V0TjBERDRqX1ZUcUM2YnRtTG01WDQwOGFsQWpuMTRlOGZIMlRPWmY1NW14RnUxdnBSQ3lfd0ZOYTVIcVJzU0dmVHM?oc=5",
-        "published": "9 Mar 2026, 02:13 PM",
-        "iso_date": "2026-03-09T14:13:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH the Crown Prince and Prime Minister chairs the weekly Cabinet Meeting - Local News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WcTVCM3NvWXBFRTRZZXFpay1NQTRZbFc3R2VpNVBGZFluMGJiS3JiZy1nbUZ6QjRjckNmSEoyTlgzTVV6MnNyZnRzUlB1eExSa0RnRGdDaTJkUGs?oc=5",
-        "published": "9 Mar 2026, 05:35 PM",
-        "iso_date": "2026-03-09T17:35:41+00:00",
+        "title": "Pak Field Marshal Asim Munir backs Bahrain’s right to defend sovereignty in call with King Hamad",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa3A5eHQ4WFFmWFFIak1OcnQwQ0tFbndnQkI3eGRYSmNnQ1FrSkpESEhScFFFbEV5UjYwUGFyRlFuMG9QemRuNERzdXJZTEF0RDhRVVBXZUlaa0NyUzhTUGppZWR2bm5oS3JBaGktTF90aGdSQUxLR014TzhMU1BpWTRURDhCcjNwV05VazY5ZjVNdmdFT3RVUXJwMm5HQV9Mb0tPVVEtQUMtNXd2cWxXaHd5Sm9uc1lJVkE3NzZGZ3JtNlV1MWpjMWwtckxnZnNjOHJRLUxR?oc=5",
+        "published": "10 Mar 2026, 07:29 AM",
+        "iso_date": "2026-03-10T07:29:57+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -213,6 +203,26 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Mourners gather for funeral of young woman killed in Iranian attack",
+        "link": "https://www.gdnonline.com/Details/1378165/Mourners-gather-for-funeral-of-young-woman-killed-in-Iranian-attack",
+        "published": "10 Mar 2026",
+        "iso_date": "2026-03-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310154610funeral(5)_T.jpg?20260310",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "VIRAL VIDEO: Worshippers in Busaiteen continue Ramadan prayers through explosions",
+        "link": "https://www.gdnonline.com/Details/1378166/VIRAL-VIDEO-Worshippers-in-Busaiteen-continue-Ramadan-prayers-through-explosions",
+        "published": "10 Mar 2026",
+        "iso_date": "2026-03-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310155502gdnwebsitesize(9)_T.jpg?20260310",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "One dead as residential building hit by Iranian attack",
         "link": "https://www.gdnonline.com/Details/1378089/One-dead-as-residential-building-hit-by-Iranian-attack-",
@@ -240,26 +250,6 @@
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260310/20260310133553king1(3)_T.jpg?20260310",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Further images show the scale of destruction following the deadly Iranian attack in Manama",
-        "link": "https://www.gdnonline.com/Details/1378119/Further-images-show-the-scale-of-destruction-following-the-deadly-Iranian-attack-in-Manama",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310121413bu1_T.jpg?20260310",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "VIDEO: Carry on teaching! Praise for Iran-hit Sitra resident who continued her online classes",
-        "link": "https://www.gdnonline.com/Details/1378154/VIDEO-Carry-on-teaching-Praise-for-Iran-hit-Sitra-resident-who-continued-her-online-classes",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310132754teaching1_T.jpg?20260310",
         "source": "gdn",
         "category": "Latest"
       },
@@ -346,10 +336,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Mourns Young Victim of Iranian Attack in Seef",
-        "link": "https://www.newsofbahrain.com/bahrain/128223.html",
+        "title": "Communication in Times of Crisis: When Silence Becomes a Risk",
+        "link": "https://www.newsofbahrain.com/views/128225.html",
         "published": "10 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sFSo18gBlx_2026-03-10_1773147899resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Public Prosecution Demands Maximum Penalties for Rioters",
+        "link": "https://www.newsofbahrain.com/bahrain/128224.html",
+        "published": "10 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_teNZMkK7O5_2026-03-10_1773147663resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Mourns Young Victim of Iranian Attack in Seef",
+        "link": "https://www.newsofbahrain.com/bahrain/128223.html",
+        "published": "10 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_mZisrzyVhU_2026-03-10_1773147177resized_pic.jpg",
         "source": "newsofbahrain",
@@ -358,8 +368,8 @@
       {
         "title": "Wemby shines as Spurs thrash Rockets, Lakers down Knicks",
         "link": "https://www.newsofbahrain.com/sports/128221.html",
-        "published": "10 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-10T09:22:55+00:00",
+        "published": "10 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_bkBamJqpN8_2026-03-10_1773146350resized_pic.jpg",
         "source": "newsofbahrain",
@@ -368,8 +378,8 @@
       {
         "title": "Sabalenka, Osaka set fourth-round clash as Gauff retires injured",
         "link": "https://www.newsofbahrain.com/sports/128220.html",
-        "published": "10 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-10T09:00:43+00:00",
+        "published": "10 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qb5JgSG1Iv_2026-03-10_1773146246resized_pic.jpg",
         "source": "newsofbahrain",
@@ -378,10 +388,10 @@
       {
         "title": "Bahrain Defence Chief Meets UK’s Senior Defence Adviser for Middle East",
         "link": "https://www.newsofbahrain.com/bahrain/128219.html",
-        "published": "10 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-10T09:00:43+00:00",
+        "published": "10 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WGVXxFUuOc_2026-03-10_1773146151resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WGVXxFUuOc_2026-03-10_1773146151thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -391,7 +401,7 @@
         "published": "10 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EIvHZ6bzmo_2026-03-10_1773145994resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EIvHZ6bzmo_2026-03-10_1773145994thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -402,16 +412,6 @@
         "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_I1Y9XwfM80_2026-03-10_1773145655thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "RAF Jets Shoot Down Drones Heading Toward Bahrain and Jordan",
-        "link": "https://www.newsofbahrain.com/bahrain/128210.html",
-        "published": "10 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_olVyZ5GvzC_2026-03-10_1773145035thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -609,5 +609,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 12:54:06 UTC"
+  "fetched_at": "2026-03-10 14:00:05 UTC"
 }
