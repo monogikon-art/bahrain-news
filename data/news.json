@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRVNVNC1tallKVDhRR2Y1Yk85MVVuTWFRU3hDTEFlaDh0c1VJX2Z2Yy1wWUZ4YjlYWTZ6aXVud25rVUxadWVMZS1DeUt4NWRIRXdv?oc=5",
         "published": "9 Mar 2026, 10:10 PM",
         "iso_date": "2026-03-09T22:10:56+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
-        "published": "10 Mar 2026, 08:09 AM",
-        "iso_date": "2026-03-10T08:09:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -82,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbWZ6bExLY0IxNW80b1lrZkpfYVZoaEJxRUJSbVpheGdkaWR0LWxKUUozN2pzdDFfNnlpV2hWUTBnOTFfdzZNY0ZEQkdyS3JPMk42bGlWaFJwaVM0ZnZ3Ylc4OS1JX1c0QUhUWFlyVzMwYnJSYS1obVhMYldpVjV2TGtaUlQ1cXBhVV94U1Zob2xiRkRIZTdTal9NOGdUQ0g4Qkk2U3V2VzcyeTNndWJRTk1WYmF1dlV3OUE2RmNTX0hlaUt1eGRPOGRRVktQUTR5TFVDeFFmS28yVVk2WFVtbzdsSWptXzdDT29rd24zWWRRTXVBTW1ULVVxUDc2RGtVc1l1VmJwaURnNGZmd2FtY0thUGdCQWE4clRDZUd4QkxyOG1XQXVWZFZjZkZNU193SUNuSXlNQ1BjZFFTX05XZ0k0d3RJd2JRRVBiZkZ1eVBTOUVP?oc=5",
-        "published": "9 Mar 2026, 10:05 PM",
-        "iso_date": "2026-03-09T22:05:23+00:00",
+        "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
+        "published": "10 Mar 2026, 08:09 AM",
+        "iso_date": "2026-03-10T08:09:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Government to Cover Damages and Medical Care for Victims in Sitra",
+        "link": "https://www.newsofbahrain.com/bahrain/128227.html",
+        "published": "10 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FOMNA6V5bj_2026-03-10_1773172063resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Indian Embassy in Bahrain Issues Advisory on Private Travel Arrangements",
         "link": "https://www.newsofbahrain.com/bahrain/128226.html",
         "published": "10 Mar 2026, 09:22 AM",
@@ -248,8 +248,8 @@
       {
         "title": "Communication in Times of Crisis: When Silence Becomes a Risk",
         "link": "https://www.newsofbahrain.com/views/128225.html",
-        "published": "10 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-10T09:22:55+00:00",
+        "published": "10 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_sFSo18gBlx_2026-03-10_1773147899resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,20 +268,10 @@
       {
         "title": "Bahrain Mourns Young Victim of Iranian Attack in Seef",
         "link": "https://www.newsofbahrain.com/bahrain/128223.html",
-        "published": "10 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mZisrzyVhU_2026-03-10_1773147177resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Wemby shines as Spurs thrash Rockets, Lakers down Knicks",
-        "link": "https://www.newsofbahrain.com/sports/128221.html",
         "published": "10 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bkBamJqpN8_2026-03-10_1773146350resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mZisrzyVhU_2026-03-10_1773147177resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +282,6 @@
         "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WGVXxFUuOc_2026-03-10_1773146151thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Condemns Iranian Attacks on Civilians and Vital Facilities",
-        "link": "https://www.newsofbahrain.com/bahrain/128218.html",
-        "published": "10 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EIvHZ6bzmo_2026-03-10_1773145994thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 19:36:12 UTC"
+  "fetched_at": "2026-03-10 20:30:21 UTC"
 }
