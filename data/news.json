@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 12
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,6 +32,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
+        "published": "10 Mar 2026, 08:09 AM",
+        "iso_date": "2026-03-10T08:09:53+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain says air defences intercept 105 ballistic missiles, 176 drones",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZjc0ZEpjRlZoVDc1Yk80WXRPUGZtcE9HQ2pMOGM1MmZMMTZUb2FGU3cxby1PZC1EaTlUcVlLSjhrLTRJWTZ0dlZVUFRmQmM3U254MzV5SE05ZmRWMnVyWk1Rbjl1T0poTkNIdk56ZFVsa1JVSnVURElZb1k4MXpfekk2Q2I1QkZXZW4zRHB0RXdYSEdvT3JhLTFfWVdLYTJ1Y0lubm9Qd0ZQTW5xU2RoUi1QS1prQjMwNWRxbW5QdTJPb2xINXJJZzI5REd3OTlOTzBR0gHTAUFVX3lxTE9mNzRkSmNGVmhUNzViTzRZdE9QZm1wT0dDakw4YzUyZkwxNlRvYUZTdzFvLU9kLURpOVRxWUtKOGstNElZNnR2VlVQVGZCYzdTbngzNXlITTlmZFYydXJaTVFuOXVPSmhOQ0h2TnpkVWxrUlVKdVRESVlvWTgxel96STZDYjVCRldlbjNEcHRFd1hIR29PcmEtMV9ZV0thMnVjSW5ub1B3RlBNbnFTZGhSLVBLWmtCMzA1ZHFtblB1Mk9vbEg1cklnMjlER3c5OU5PMFE?oc=5",
         "published": "10 Mar 2026, 02:43 PM",
@@ -52,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 102 missiles, destroys 173 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFEtQWZzRXpVN1hCRUFYVjNKVXdiM1Vrc2dXNFFINk8zVkdURHg0N3p6a083Sm1mNWh0UnU5ZW5MWFotMVpwNFF5Tk83WGMwdngyUUZmNkJEZE1fVGtwVW9WWV9nUWZSWmNPYUt5U1ItZXd0d0RWa0tmUGVGYWl2bjBrdkpaekRieWFHNkJlT0lVSmhyTE1kaEJyc3NzRTBVckZLT3VKaUNZRDZCdGVR0gGvAUFVX3lxTE1sUS1BZnNFelU3WEJFQVhWM0pVd2IzVWtzZ1c0UUg2TzNWR1REeDQ3enprTzdKbWY1aHRSdTllbkxYWi0xWnA0UXlOTzdYYzB2eDJRRmY2QkRkTV9Ua3BVb1ZZX2dRZlJaY09hS3lTUi1ld3R3RFZrS2ZQZUZhaXZuMGt2Slp6RGJ5YUc2QmVPSVVKaHJMTWRoQnJzc3NFMFVyRktPdUppQ1lENkJ0ZVE?oc=5",
-        "published": "9 Mar 2026, 11:29 PM",
-        "iso_date": "2026-03-09T23:29:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iranian Drone Strike in Bahrain Injures 32 in Sitra, Bahrain's Health Ministry Says",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZycVBMZHVqYVRSMXkxSGd0RkExQm1oOGMxcXRXb3ZhWlZZTUtPTFJjMzR0LWxNNDU5RmNUY2Jka0FhSUgzZE1WbXlSZENCVW1pRE0yV21yX3NXbzYzQ0h0dVRSZE5QX2dBZFJrc0ozUDdMaUVBb3RBaUtJXzNpTGFfcDhDU3NQaXVOLUt0N2RwYU96cmdlWHdGdjhyQVlRTHc4M3N5dXd3RW5zZXZvRWEzaEo5d2pXdGR6clNyMkVjZWc?oc=5",
         "published": "10 Mar 2026, 12:12 PM",
@@ -72,40 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain’s Bapco declares force majeure on operations",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NTnljUmxIQ3duY0dtMmV2bHIxVUJHNXR4dXFuM0l1R1BfdDdpcUdDbnFWOExCa0tPaTFTdTkxY2FpQTN2dzUwTGFVRHVYSk92ZmR3N1ljOA?oc=5",
-        "published": "10 Mar 2026, 01:36 AM",
-        "iso_date": "2026-03-10T01:36:26+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "India advises its nationals in Bahrain to remain vigilant amid West Asia tensions",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3R2NHZTbFBfZ2xtZVZHNzFaUTlnWGhoMXVCWVJNWElDa2IzZFBqem14SS11dTU0aVhTUlhKeEhfUWROR29Yc2o0ajdlajJuendqQ3FaM1hJdjFXdlJSODZ0eC15a25DdGFLTmZrTFFKQnpxY0syOHUxUi1ra1NrQXJsMl9oOE5NNm5OZk5iU1Z4MjAzTnI4NG9HUkwtYy15U1ZWZ3FHRXlWQ1ZJRjBQTkY4cC1Lb0p1TzJlSw?oc=5",
-        "published": "10 Mar 2026, 12:39 AM",
-        "iso_date": "2026-03-10T00:39:40+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bapco declares force majeure as Iran sets Bahrain's only refinery ablaze",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kR0xnV2ZLRmZ6SUNieGFIT05yQndqQnIwMmxod1BOY1pyeGlubnZhb0hVeU1renIyaXFuMTJ1NVJfNy1PVTE3M0UzNEl1OHo4LUdLS25iYUJSTmk0bmhv?oc=5",
-        "published": "10 Mar 2026, 11:28 AM",
-        "iso_date": "2026-03-10T11:28:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "32 injured in Iranian drone attack on Bahrain as Gulf states intercept missiles",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VeU01ejQ3cnNIMk1EVXZoc25NcE1aV2NxcFA4ZkNyVEJ6bDFKWnBaZjh1WW1jdHZ4UE84LWYxdnZfSzRoM0JYNXBxakhGNjNtRzZhaQ?oc=5",
-        "published": "9 Mar 2026, 07:40 PM",
-        "iso_date": "2026-03-09T19:40:00+00:00",
+        "title": "Bahrain intercepts 102 missiles, destroys 173 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFEtQWZzRXpVN1hCRUFYVjNKVXdiM1Vrc2dXNFFINk8zVkdURHg0N3p6a083Sm1mNWh0UnU5ZW5MWFotMVpwNFF5Tk83WGMwdngyUUZmNkJEZE1fVGtwVW9WWV9nUWZSWmNPYUt5U1ItZXd0d0RWa0tmUGVGYWl2bjBrdkpaekRieWFHNkJlT0lVSmhyTE1kaEJyc3NzRTBVckZLT3VKaUNZRDZCdGVR0gGvAUFVX3lxTE1sUS1BZnNFelU3WEJFQVhWM0pVd2IzVWtzZ1c0UUg2TzNWR1REeDQ3enprTzdKbWY1aHRSdTllbkxYWi0xWnA0UXlOTzdYYzB2eDJRRmY2QkRkTV9Ua3BVb1ZZX2dRZlJaY09hS3lTUi1ld3R3RFZrS2ZQZUZhaXZuMGt2Slp6RGJ5YUc2QmVPSVVKaHJMTWRoQnJzc3NFMFVyRktPdUppQ1lENkJ0ZVE?oc=5",
+        "published": "9 Mar 2026, 11:29 PM",
+        "iso_date": "2026-03-09T23:29:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -116,16 +86,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbWZ6bExLY0IxNW80b1lrZkpfYVZoaEJxRUJSbVpheGdkaWR0LWxKUUozN2pzdDFfNnlpV2hWUTBnOTFfdzZNY0ZEQkdyS3JPMk42bGlWaFJwaVM0ZnZ3Ylc4OS1JX1c0QUhUWFlyVzMwYnJSYS1obVhMYldpVjV2TGtaUlQ1cXBhVV94U1Zob2xiRkRIZTdTal9NOGdUQ0g4Qkk2U3V2VzcyeTNndWJRTk1WYmF1dlV3OUE2RmNTX0hlaUt1eGRPOGRRVktQUTR5TFVDeFFmS28yVVk2WFVtbzdsSWptXzdDT29rd24zWWRRTXVBTW1ULVVxUDc2RGtVc1l1VmJwaURnNGZmd2FtY0thUGdCQWE4clRDZUd4QkxyOG1XQXVWZFZjZkZNU193SUNuSXlNQ1BjZFFTX05XZ0k0d3RJd2JRRVBiZkZ1eVBTOUVP?oc=5",
         "published": "9 Mar 2026, 10:05 PM",
         "iso_date": "2026-03-09T22:05:23+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
-        "published": "10 Mar 2026, 08:09 AM",
-        "iso_date": "2026-03-10T08:09:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -539,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 18:42:36 UTC"
+  "fetched_at": "2026-03-10 19:36:12 UTC"
 }
