@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 16
     }
   },
   "articles": {
@@ -32,20 +32,20 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian Drone Strike in Bahrain Injures 32 in Sitra, Bahrain's Health Ministry Says",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZycVBMZHVqYVRSMXkxSGd0RkExQm1oOGMxcXRXb3ZhWlZZTUtPTFJjMzR0LWxNNDU5RmNUY2Jka0FhSUgzZE1WbXlSZENCVW1pRE0yV21yX3NXbzYzQ0h0dVRSZE5QX2dBZFJrc0ozUDdMaUVBb3RBaUtJXzNpTGFfcDhDU3NQaXVOLUt0N2RwYU96cmdlWHdGdjhyQVlRTHc4M3N5dXd3RW5zZXZvRWEzaEo5d2pXdGR6clNyMkVjZWc?oc=5",
-        "published": "9 Mar 2026, 05:45 PM",
-        "iso_date": "2026-03-09T17:45:00+00:00",
+        "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
+        "published": "10 Mar 2026, 08:09 AM",
+        "iso_date": "2026-03-10T08:09:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain declares force majeure as Iran sets its only refinery ablaze",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcEJnX1RoSUZKU2NtMHhVZ3FJVmkyZjJWb1MxQlFlaUtIdTZRVlM3Qkc1ZTBVZEotQTNWQ2gwbFBZdEN3eW1DOEx4R1UyYmxfaUJIRi1yZm5Hd0psMXcwQ29RTmVLSkdEWTZITDVKUzhSMWpDYldsLVdBRG9vUzJNdDVyWkRlZmZpemhfTUwyV0k0T3F6WE5HamhPbDZIVWYzU0dRcVZPbzJJaWMtcUlfQVZ5Ukc2UjA?oc=5",
-        "published": "9 Mar 2026, 10:19 AM",
-        "iso_date": "2026-03-09T10:19:50+00:00",
+        "title": "Iranian Drone Strike in Bahrain Injures 32 in Sitra, Bahrain's Health Ministry Says",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZycVBMZHVqYVRSMXkxSGd0RkExQm1oOGMxcXRXb3ZhWlZZTUtPTFJjMzR0LWxNNDU5RmNUY2Jka0FhSUgzZE1WbXlSZENCVW1pRE0yV21yX3NXbzYzQ0h0dVRSZE5QX2dBZFJrc0ozUDdMaUVBb3RBaUtJXzNpTGFfcDhDU3NQaXVOLUt0N2RwYU96cmdlWHdGdjhyQVlRTHc4M3N5dXd3RW5zZXZvRWEzaEo5d2pXdGR6clNyMkVjZWc?oc=5",
+        "published": "9 Mar 2026, 05:45 PM",
+        "iso_date": "2026-03-09T17:45:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -142,26 +142,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian attack on Bahrain refinery disrupts oil shipments; force majeure declared- what it means",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVRYb3ZxUHFlWVBON01HZ2d1d0FXdHRneUVCdkk2bUdfd1Y2N1RYVTRuNWRDM2VJMTZLVDJ3XzlmQmpobXlvNHJOV2dUQl9NaDU5WWxHTi14d004Z2VmSjRtUHRmWVVfR2loeElRRmw3dnFUclBhX3JTR0pEWkdqQkdNUzBFVVFJWGN0a19XSzFWdGNpdnNkaGZwWmpWbFFLR0tPWkpIcDTSAagBQVVfeXFMT2VUWG92cVBxZVlQTjdNR2dndXdBV3R0Z3lFQnZJNm1HX3dWNjdUWFU0bjVkQzNlSTE2S1Qyd185ZkJqaG15bzRyTldnVEJfTWg1OVlsR04teHdNOGdlZko0bVB0ZllVX0dpaHhJUUZsN3ZxVHJQYV9yU0dKRFpHakJHTVMwRVVRSVhjdGtfV0sxVnRjaXZzZGhmcFpqVmxRS0dLT1pKSHA0?oc=5",
-        "published": "9 Mar 2026, 10:08 AM",
-        "iso_date": "2026-03-09T10:08:13+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain's Bapco Energies declares force majeure on group's operations - Emirates 24|7",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFR1WGdkNTFRb3E5UFFkaEtIVTZBaHVuaWl4UjQzS3laTlBfMG5ndVFveUlQYUphLU8yRUM0SHFqV3VabzlPamd1UXlxN21SZTNMWlNYQXRlbXVWU3pNeTVoSE1xUHQ4SW10UFdSUWZicUFwdVVDT0dGMXJsNENDSFplaV9fYXF6ZEM4MTNDMWdLMUhZREswSk1HRFNNUWtrV3NRUzhxUnAtakxJd21yUDdfUkROdDBVYjVWNVd4R2RWOXpT0gHfAUFVX3lxTE11Y01LbFlXRm1FT1gwWFN6dmlVd2x2WTNnUkRkTkRtQWdwWjZTVWRxZ1pYX1kySXQ5SUZQTVFmbE5UeVdrZ05ISEhSWkl0S0FVZUp1VWpVOVFNS2RlRGVkVjlENVBhLWNvYkVGQU9oNUJWdV9iVy1lZHF6dmZ6ZUl0X2lKRDg0STNqVS1UQnk5QnNLcVp5RlZ5dHZEeWlHeFJHY1B1b29pM3JCN3UxOHVfUlRsQ2lTVXhYTjlteWh4V2F1ZGJVZUdzVG80ZDNpWFVsT3lOdUxHMEhZay1uM00?oc=5",
-        "published": "9 Mar 2026, 09:47 AM",
-        "iso_date": "2026-03-09T09:47:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "32 Injured In Hostile Drone Attack In Bahrain's Sitra -- Health Ministry",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11RXBoNVZjbFVfVENGbGlwaTUwRkNseEQ3cHg2cjExVS1GYlVGenIwVzBCeWg4VUZOUDBPYzBiLWR4Y1ZkWFYxR3d5aldtNHExY0YwTGxwdGswMWZBU1B6NW1HYmt6ZjdwYUFPSHVR?oc=5",
         "published": "9 Mar 2026, 01:07 PM",
@@ -176,6 +156,16 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdU1sSVBqNWI4d0dzSldXZGdxTzg0bEotZ0tFTElCaFVVR1lxZEpUNVRfeUVwdllqM2c0Yk92SUFMMF9OWVU0Vmg0VTBla3oyZzdKQ1pIejBmR180a2hoUmx3ZU1BYjFWNlNWV2ppd01fVjBuR3dnZmxJN19WczdHTm1CMk92blF2clpKOEVvS0JaVFMzaENkcndoZS1SNU1oSEhJTTBYdl9ibm80Q204V0hCUWRHQQ?oc=5",
         "published": "9 Mar 2026, 11:26 AM",
         "iso_date": "2026-03-09T11:26:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbWZ6bExLY0IxNW80b1lrZkpfYVZoaEJxRUJSbVpheGdkaWR0LWxKUUozN2pzdDFfNnlpV2hWUTBnOTFfdzZNY0ZEQkdyS3JPMk42bGlWaFJwaVM0ZnZ3Ylc4OS1JX1c0QUhUWFlyVzMwYnJSYS1obVhMYldpVjV2TGtaUlQ1cXBhVV94U1Zob2xiRkRIZTdTal9NOGdUQ0g4Qkk2U3V2VzcyeTNndWJRTk1WYmF1dlV3OUE2RmNTX0hlaUt1eGRPOGRRVktQUTR5TFVDeFFmS28yVVk2WFVtbzdsSWptXzdDT29rd24zWWRRTXVBTW1ULVVxUDc2RGtVc1l1VmJwaURnNGZmd2FtY0thUGdCQWE4clRDZUd4QkxyOG1XQXVWZFZjZkZNU193SUNuSXlNQ1BjZFFTX05XZ0k0d3RJd2JRRVBiZkZ1eVBTOUVP?oc=5",
+        "published": "9 Mar 2026, 10:05 PM",
+        "iso_date": "2026-03-09T22:05:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -233,7 +223,7 @@
       },
       {
         "title": "Gulf countries shrink oil production as Iran missiles keep flying",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2JObnBGbXN4bFZtb1pDblRzcS1UTEFwN0FGVnUwUGRuOWR2WFVmMGtiZTY2c1VDTTRJS2c1OEZVWjdKZXI5VmJ6bHN2QWx4MHZtNGR3WVk4aml0Z0xzR25XZ2c2YUM0SnRoQURBRnphb09jVmpmZlpyblRDZFhKMUtSdjBGUFJTUFpYaWpDTHJMUdIBiwFBVV95cUxPaTZhS3U1bUhNdnRtX0lnaHhKbVFMQ0dNUmR3eVRFMk1KQ2djbnJXWDM1enl1djlUcDY0SVNvSDcyMmRaN0hPbkRUM2E2WDhLWm9qeExIc3VfYXRBdWdISVdxdXpiSVRqVlM3akVxRkV0eDNreWNncE5MODJGMWhxUDQtOGxhVXJzaW40?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTZhS3U1bUhNdnRtX0lnaHhKbVFMQ0dNUmR3eVRFMk1KQ2djbnJXWDM1enl1djlUcDY0SVNvSDcyMmRaN0hPbkRUM2E2WDhLWm9qeExIc3VfYXRBdWdISVdxdXpiSVRqVlM3akVxRkV0eDNreWNncE5MODJGMWhxUDQtOGxhVXJzaW400gGLAUFVX3lxTE9pNmFLdTVtSE12dG1fSWdoeEptUUxDR01SZHd5VEUyTUpDZ2NucldYMzV6eXV2OVRwNjRJU29INzIyZFo3SE9uRFQzYTZYOEtab2p4TEhzdV9hdEF1Z0hJV3F1emJJVGpWUzdqRXFGRXR4M2t5Y2dwTkw4MkYxaHFQNC04bGFVcnNpbjQ?oc=5",
         "published": "9 Mar 2026, 10:49 AM",
         "iso_date": "2026-03-09T10:49:00+00:00",
         "summary": "",
@@ -242,10 +232,10 @@
         "category": "Latest"
       },
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbWZ6bExLY0IxNW80b1lrZkpfYVZoaEJxRUJSbVpheGdkaWR0LWxKUUozN2pzdDFfNnlpV2hWUTBnOTFfdzZNY0ZEQkdyS3JPMk42bGlWaFJwaVM0ZnZ3Ylc4OS1JX1c0QUhUWFlyVzMwYnJSYS1obVhMYldpVjV2TGtaUlQ1cXBhVV94U1Zob2xiRkRIZTdTal9NOGdUQ0g4Qkk2U3V2VzcyeTNndWJRTk1WYmF1dlV3OUE2RmNTX0hlaUt1eGRPOGRRVktQUTR5TFVDeFFmS28yVVk2WFVtbzdsSWptXzdDT29rd24zWWRRTXVBTW1ULVVxUDc2RGtVc1l1VmJwaURnNGZmd2FtY0thUGdCQWE4clRDZUd4QkxyOG1XQXVWZFZjZkZNU193SUNuSXlNQ1BjZFFTX05XZ0k0d3RJd2JRRVBiZkZ1eVBTOUVP?oc=5",
-        "published": "9 Mar 2026, 10:05 PM",
-        "iso_date": "2026-03-09T22:05:23+00:00",
+        "title": "Will F1 cancel Bahrain and Saudi Arabia races? Will they be replaced? Key points explained",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0hOYUhOUE9tSkJuS0xEbk5hMks0YWlEbmh5UzcxLTlnQ1BRV054WEdWZ1laNHBQY20xU2UxR1ppU0drUUt4VmE4RUxESTBRcXdNSm9uNkNfRW1kanY2bml4SEhYTXN0UVRzYmZaZy11aEFFS0tYYXFRYWFNMjExRmlR?oc=5",
+        "published": "9 Mar 2026, 12:18 PM",
+        "iso_date": "2026-03-09T12:18:50+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -270,6 +260,16 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "LIVE UPDATES: Qatar extends condolences to UAE over death of two Armed Forces' members",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa1RaSmtRWHh2cFN6d3FJX1ZZTy04OWd4cDRMWi1Od3h6SGlrTnBxVVRYRUdRVzROcGpVRzJ5R0hxN1NaS04tS0d2cGxUblhyUkNxWFM1NE9GVTExVDlYZ1IwMTUzZHBvWjAyYXlvdktRUDhfQ0xFby1aU0dxRm16NXphQXNYOXR4RHhwQldjUDdCbkFGbkJHbVRFcC1qQ3p3VldGR2pFcVhrTmhpbEpka1ZlSjc2UWN0UTNJWEs0ZERfWFYtdzQ2ZzhpelZ2dFNnVi1JblhRZU5WOEU?oc=5",
+        "published": "9 Mar 2026, 11:03 PM",
+        "iso_date": "2026-03-09T23:03:53+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
@@ -280,6 +280,26 @@
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260310/20260310082600bld123_T.jpg?20260310",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain airspace remains temporarily closed",
+        "link": "https://www.gdnonline.com/Details/1378142/Bahrain-airspace-remains-temporarily-closed",
+        "published": "10 Mar 2026",
+        "iso_date": "2026-03-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310115557bia1(2)_T.jpg?20260310",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Weather Alert: Scattered rain sweeps across Bahrain",
+        "link": "https://www.gdnonline.com/Details/1378124/Weather-Alert-Scattered-rain-sweeps-across-Bahrain",
+        "published": "10 Mar 2026",
+        "iso_date": "2026-03-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310115048r12_T.jpg?20260310",
         "source": "gdn",
         "category": "Latest"
       },
@@ -300,26 +320,6 @@
         "iso_date": "2026-03-10T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260310/20260310011456wone_T.jpg?20260310",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Government vows to support citizens hurt in Sitra strike",
-        "link": "https://www.gdnonline.com/Details/1378085/Government-vows-to-support-citizens-hurt-in-Sitra-strike",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310_004150_0_T.jpg?20260310",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air opens registration for special flight between Dammam and Karachi",
-        "link": "https://www.gdnonline.com/Details/1378112/Gulf-Air-opens-registration-for-special-flight-between-Dammam-and-Karachi",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310091540ga_T.jpg?20260310",
         "source": "gdn",
         "category": "Latest"
       },
@@ -406,6 +406,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Unstoppable India target Olympic gold after making World Cup history",
+        "link": "https://www.newsofbahrain.com/sports/128202.html",
+        "published": "10 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9jVICm6RSP_2026-03-10_1773137290resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Double super-over drama to Allen’s record ton: T20 World Cup moments",
+        "link": "https://www.newsofbahrain.com/sports/128201.html",
+        "published": "10 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qlD1CWK0or_2026-03-10_1773136995resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "‘T20 kings’: nation celebrates Indian romp to World Cup glory",
+        "link": "https://www.newsofbahrain.com/sports/128200.html",
+        "published": "10 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-10T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JZ2IlLsbtv_2026-03-10_1773136586resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Human Rights Commissioners Condemn Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/128199.html",
+        "published": "10 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-10T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_28xDNBaHOv_2026-03-10_1773136185resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "What we know about alleged strike on Iran school",
         "link": "https://www.newsofbahrain.com/world/128198.html",
         "published": "10 Mar 2026, 09:22 AM",
@@ -416,32 +456,12 @@
         "category": "Latest"
       },
       {
-        "title": "UAE ‘will not partake in any attacks’ on Iran",
-        "link": "https://www.newsofbahrain.com/world/128197.html",
+        "title": "Bahrain Reviews Expat Engineers’ Qualifications After Fake Degree Case",
+        "link": "https://www.newsofbahrain.com/bahrain/128195.html",
         "published": "10 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jOLio5Zlm0_2026-03-10_1773134225resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Vows to Continue Missile Attacks, Rules Out Talks With US",
-        "link": "https://www.newsofbahrain.com/world/128196.html",
-        "published": "10 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_trnRCo2OAL_2026-03-10_1773132671resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Reviews Expat Engineers’ Qualifications After Fake Degree Case",
-        "link": "https://www.newsofbahrain.com/bahrain/128195.html",
-        "published": "10 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Xv8qJzeRMH_2026-03-10_1773128610resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Xv8qJzeRMH_2026-03-10_1773128610thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -451,7 +471,7 @@
         "published": "10 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JOeudpnaFK_2026-03-10_1773128514resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JOeudpnaFK_2026-03-10_1773128514thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -476,12 +496,22 @@
         "category": "Latest"
       },
       {
-        "title": "Electricity, water systems operating at full capacity",
-        "link": "https://www.newsofbahrain.com/bahrain/128189.html",
+        "title": "UAE ‘will not partake in any attacks’ on Iran",
+        "link": "https://www.newsofbahrain.com/world/128197.html",
         "published": "10 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_K0cOfd7M2o_2026-03-10_1773127301thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jOLio5Zlm0_2026-03-10_1773134225thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Vows to Continue Missile Attacks, Rules Out Talks With US",
+        "link": "https://www.newsofbahrain.com/world/128196.html",
+        "published": "10 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_trnRCo2OAL_2026-03-10_1773132671thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -649,5 +679,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 09:40:26 UTC"
+  "fetched_at": "2026-03-10 10:36:00 UTC"
 }
