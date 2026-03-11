@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWkpva0xBa2FrOUV1QnJLQU1nbEVUTzQ3SFg0bkNqeHFuMk9ramhudFBjR0s0bURkMnUxSzlGT0ZCV0QtOF9PQkhZUFFJR3R1WG5hcW81RW5KcHk3YlVfdThaNUkwQkpRbXZnVUNzbzNMLXlTQjN2bW5sMk5scGhrTXltVWx3X0hHOFBVamQ3THgzeGlaQzd2d0FyMXRPWmVBLVFjTFFaVmZQMzBFOUN6aVliMnctOGlrVmZsc2hLRUs0a096T205d0xnZkJrZ3lTeXVSRnJjNlpGNWlaUVp6NmpvQWc1Y29GekdENURn?oc=5",
-        "published": "10 Mar 2026, 08:25 PM",
-        "iso_date": "2026-03-10T20:25:38+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bapco declares force majeure as Iran sets Bahrain's only refinery ablaze",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kR0xnV2ZLRmZ6SUNieGFIT05yQndqQnIwMmxod1BOY1pyeGlubnZhb0hVeU1renIyaXFuMTJ1NVJfNy1PVTE3M0UzNEl1OHo4LUdLS25iYUJSTmk0bmhv?oc=5",
         "published": "10 Mar 2026, 11:28 AM",
@@ -76,6 +66,16 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzVDUk5nUGdfMVphWjZnZmc0MEFNYVlUVDNXemRsb1F0Z0hRMllFcVozVnJka1pEejMxZUVnZ1E4d3ZhQTMtaFAwcHI1YjZjUHA4Q2k1TUpJdll1NnAzb0x0OXhQMk1sSDU0R3B0YlJFakpxTVpoc1pGUksyVjd5QnMyUjIwQzRXYUdpMXlybkdnOVhVd0dJaFlIWmVpdUFnb1ZMdTBOVVRndm93M1g4bnhjc004ZnNnRDR5YjJKUGs?oc=5",
         "published": "10 Mar 2026, 02:21 PM",
         "iso_date": "2026-03-10T14:21:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain relocates passenger, cargo aircraft from airport to boost operational readiness",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWVQN0E0WG51WVowc1hHSEx6eHg4THBvamhTZFV6TnFqajg3QlpxTkhJOGFsdXMzZEgwS2dDNnduNkRFMjl3MW9mWV9sbV9wd19YQlJsdkNoWXA4dGJwZ1ozY0t2OEVhMDk1MkhiUHIwdFdVMzhwQVhaN1Q5VGU5UXhmc3Y2VTBxLTNBVzNjS0g4Vk5BWldMS0gyc3BtZ1JhNmhnY0hTWlNkRFFBbXlGSS11TTnSAcQBQVVfeXFMUElCUlhFVHRobkhyT2pVVHptTWhqcjItQ3drcThDV1lZUDF6R3k5M1N1X2pzQzR1aFItbk54ckEyei1GMnZLLWlZWjMzTk93ZDJCQjVLYUE1R2VhQmNaM1BhdEdUVG5BdXhtc05WVWozTXZwMGtMUnBHSkNIZ01aNFVCdUYxQ2x4QllpMXA2SjVSR09XVkRUNkVXM21fV05RZ1Y5Nzkwelh4d2FvcDBKSmhkMEN1S2h1TEZTdXQ2OWVPamd4Vg?oc=5",
+        "published": "10 Mar 2026, 09:11 PM",
+        "iso_date": "2026-03-10T21:11:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -99,7 +99,7 @@
         "published": "11 Mar 2026",
         "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311020902sheema_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311024610sheema2_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-11 01:46:35 UTC"
+  "fetched_at": "2026-03-11 04:07:26 UTC"
 }
