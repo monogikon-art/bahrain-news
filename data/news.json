@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 12
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -22,10 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain relocates passenger, cargo aircraft from airport to boost operational readiness",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOckttUVpodTd5bjBIN2l5VTZNUDNjX0Qzd2o1LUl4dVAzcnhPQWRTNGtfU3pJencyUE5IaDRfM0FSTGFHNTNnamlxUnlTNW9qdGE1ZmJIUEJjdUk4QlphTF91YndzU0h0a3AwaGUwQnE3MTNKVTZBc2hvbl95SGhtRWkyeGNSYWpRaDhIaWl5X2lvcDZVX2Vkb1owdGtIVkh2MW5jVFpzRG5VM3J4WkhOOFQ2c0dzY29QSlFqNW9HZWVGYmlHeUNtT0R4WQ?oc=5",
-        "published": "10 Mar 2026, 10:18 PM",
-        "iso_date": "2026-03-10T22:18:03+00:00",
+        "title": "Bahrain repositions aircraft to enhance operational readiness: Civil Aviation Affairs",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnhBY0szZndla0ROV3NlYTdYODQ2MmZaVlV2amxQYWZxUE5RRUx6NDI2Y2UtMUhkZ2hQbUNKN09fQWlsZ0tzWENyUXRUY210R0R2LWVKdDhZLXlzVldaUnlNQ21EdHB6cEpUNUl3WnQ5cjlEZzluNV9fZW94ZVd5NHV3V3pkVFN3NmktWU1xeGRxVEVlUTB2RTdmb0t2d2EzVHc5UndiVXhTa3FubkRmdm5QUl9hVEhpd01fRDVRTm45elNndTdsY0ZOM3A1RENrZ1HSAdcBQVVfeXFMUDJjb0ZkTnlfNWZFUng4WmtwT3VDSzdlMV9lQ0JfdkE4c0l4cmFRYjd5dVkyQTBVSHhjZmZQcG9lUm5VMmRPNUMtYUlodnFEY0tfbFctazEzeVNBbWwwVU45bWkzWkdrQ1dXWmoyalllQ05XZ0piZW5WcGNQdkw4ZHVzYlBCazY4WlluTkZhY3dnOTZxQUNzVHREcW9BVlpvQkQtR19PSHVpMkhpTFFLdFJHUENLelhJYTE5dVYyRHo2T1FITkdDRDg2Ty0xcDg0dWc4TEx5NGM?oc=5",
+        "published": "11 Mar 2026, 09:09 AM",
+        "iso_date": "2026-03-11T09:09:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZjc0ZEpjRlZoVDc1Yk80WXRPUGZtcE9HQ2pMOGM1MmZMMTZUb2FGU3cxby1PZC1EaTlUcVlLSjhrLTRJWTZ0dlZVUFRmQmM3U254MzV5SE05ZmRWMnVyWk1Rbjl1T0poTkNIdk56ZFVsa1JVSnVURElZb1k4MXpfekk2Q2I1QkZXZW4zRHB0RXdYSEdvT3JhLTFfWVdLYTJ1Y0lubm9Qd0ZQTW5xU2RoUi1QS1prQjMwNWRxbW5QdTJPb2xINXJJZzI5REd3OTlOTzBR0gHTAUFVX3lxTE9mNzRkSmNGVmhUNzViTzRZdE9QZm1wT0dDakw4YzUyZkwxNlRvYUZTdzFvLU9kLURpOVRxWUtKOGstNElZNnR2VlVQVGZCYzdTbngzNXlITTlmZFYydXJaTVFuOXVPSmhOQ0h2TnpkVWxrUlVKdVRESVlvWTgxel96STZDYjVCRldlbjNEcHRFd1hIR29PcmEtMV9ZV0thMnVjSW5ub1B3RlBNbnFTZGhSLVBLWmtCMzA1ZHFtblB1Mk9vbEg1cklnMjlER3c5OU5PMFE?oc=5",
         "published": "10 Mar 2026, 02:43 PM",
         "iso_date": "2026-03-10T14:43:11+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain relocates passenger, cargo aircraft from airport to boost operational readiness",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOckttUVpodTd5bjBIN2l5VTZNUDNjX0Qzd2o1LUl4dVAzcnhPQWRTNGtfU3pJencyUE5IaDRfM0FSTGFHNTNnamlxUnlTNW9qdGE1ZmJIUEJjdUk4QlphTF91YndzU0h0a3AwaGUwQnE3MTNKVTZBc2hvbl95SGhtRWkyeGNSYWpRaDhIaWl5X2lvcDZVX2Vkb1owdGtIVkh2MW5jVFpzRG5VM3J4WkhOOFQ2c0dzY29QSlFqNW9HZWVGYmlHeUNtT0R4WQ?oc=5",
+        "published": "10 Mar 2026, 10:18 PM",
+        "iso_date": "2026-03-10T22:18:03+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -154,6 +164,36 @@
         "category": "Latest"
       },
       {
+        "title": "Iranian women's football squad member changes mind on Australia asylum offer, to return home",
+        "link": "https://www.gdnonline.com/Details/1378251/Iranian-womens-football-squad-member-changes-mind-on-Australia-asylum-offer,-to-return-home",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311110031irn_T.jpg?20260311",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Barca prez candidate hopes Messi âtells the truthâ about failed return",
+        "link": "https://www.gdnonline.com/Details/1378246/Barca-prez-candidate-hopes-Messi-âtells-the-truthâ-about-failed-return",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311103621lm1_T.jpg?20260311",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Infantino says Trump welcomes Iran's World Cup participation",
+        "link": "https://www.gdnonline.com/Details/1378252/Infantino-says-Trump-welcomes-Irans-World-Cup-participation",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311105024in(1)_T.jpg?20260311",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "City better equipped than last season says Guardiola",
         "link": "https://www.gdnonline.com/Details/1378223/City-better-equipped-than-last-season-says-Guardiola",
         "published": "11 Mar 2026",
@@ -174,37 +214,57 @@
         "category": "Latest"
       },
       {
-        "title": "Saliba injury boost for Arsenal",
-        "link": "https://www.gdnonline.com/Details/1378224/Saliba-injury-boost-for-Arsenal",
+        "title": "'KPop Demon Hunters' is headed to the Oscarsâlive on stage",
+        "link": "https://www.gdnonline.com/Details/1378256/KPop-Demon-Hunters-is-headed-to-the-Oscarsâlive-on-stage",
         "published": "11 Mar 2026",
         "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_012517_0_T.jpg?20260311",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "England star Walker retires",
-        "link": "https://www.gdnonline.com/Details/1378221/England-star-Walker-retires",
-        "published": "11 Mar 2026",
-        "iso_date": "2026-03-11T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_012513_0_T.jpg?20260311",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Atletico rout Spurs",
-        "link": "https://www.gdnonline.com/Details/1378225/Atletico-rout-Spurs",
-        "published": "11 Mar 2026",
-        "iso_date": "2026-03-11T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_015628_0_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/202603111108212026-03-10t224045z_1625805506_rc2ucja1j3lz_rtrmadp_3_awards-oscars-performers(1)_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
+      {
+        "title": "US firm Planet extends Middle East imagery access delay",
+        "link": "https://www.newsofbahrain.com/business/128267.html",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6bqmWs1hOQ_2026-03-11_1773221582resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kim Jong Un Oversees Cruise Missile Test from 5,000-Ton Warship",
+        "link": "https://www.newsofbahrain.com/world/128266.html",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RJuzKjIPtA_2026-03-11_1773221522resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Major UAE refinery shut as Saudi Aramco warns war spells catastrophe for oil",
+        "link": "https://www.newsofbahrain.com/business/128265.html",
+        "published": "11 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jnumyQ02T5_2026-03-11_1773220915resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Salam Bank engages clients in designing ‘Danat 2026’ scheme",
+        "link": "https://www.newsofbahrain.com/business/128264.html",
+        "published": "11 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RkdnQ6rFq8_2026-03-11_1773220538resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Praise for crisis coverage",
         "link": "https://www.newsofbahrain.com/bahrain/128262.html",
@@ -221,27 +281,27 @@
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0NrjEhdwou_2026-03-11_1773217508resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0NrjEhdwou_2026-03-11_1773217508thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Payment relief",
         "link": "https://www.newsofbahrain.com/bahrain/128260.html",
-        "published": "11 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-11T09:00:43+00:00",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1OgaVFDHTq_2026-03-11_1773217162resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1OgaVFDHTq_2026-03-11_1773217162thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Clear crimes",
         "link": "https://www.newsofbahrain.com/bahrain/128259.html",
-        "published": "11 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-11T09:00:43+00:00",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7LeYSV0DvT_2026-03-11_1773216703resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7LeYSV0DvT_2026-03-11_1773216703thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,7 +311,7 @@
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N9u2DxeKFg_2026-03-11_1773216402resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N9u2DxeKFg_2026-03-11_1773216402thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,52 +346,12 @@
         "category": "Latest"
       },
       {
-        "title": "GPS Spoofing Creates False Vessel Movements Toward Strait of Hormuz",
-        "link": "https://www.newsofbahrain.com/world/128250.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_B6jwyPCAbD_2026-03-11_1773214556thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Lufthansa, Air France extend Mideast flight suspensions",
         "link": "https://www.newsofbahrain.com/business/128193.html",
         "published": "10 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_OeKipqDLEW_2026-03-10_1773128331thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Alba promotes Shoji Takeuchi to lead Asia Pacific sales",
-        "link": "https://www.newsofbahrain.com/business/128192.html",
-        "published": "10 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_USkYJE045x_2026-03-10_1773128234thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Al Salam Bank Launches \"Danat 2026\": 4 Grand Prizes of BD 1 Million Each",
-        "link": "https://www.newsofbahrain.com/business/128179.html",
-        "published": "10 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GCOQDn9usR_2026-03-10_1773125438thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Indian Ambassador to Bahrain visits UPS at Bahrain International Investment Park",
-        "link": "https://www.newsofbahrain.com/business/128128.html",
-        "published": "9 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ECB1MoF3vK_2026-03-09_1773040225thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-11 08:37:06 UTC"
+  "fetched_at": "2026-03-11 09:39:12 UTC"
 }
