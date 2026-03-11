@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain intercepts 106 missiles, 177 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yOFd0RkRSZGtTSm40VVJ0emRQY3pqUW83blZIclhDRUNkSkwxUGVISmlWT05hMlBsMDdSbEpkdW9kUVgxUUFEVTc3M3p2RFdBell3?oc=5",
+        "published": "11 Mar 2026, 12:21 PM",
+        "iso_date": "2026-03-11T12:21:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain repositions aircraft to enhance operational readiness: Civil Aviation Affairs",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnhBY0szZndla0ROV3NlYTdYODQ2MmZaVlV2amxQYWZxUE5RRUx6NDI2Y2UtMUhkZ2hQbUNKN09fQWlsZ0tzWENyUXRUY210R0R2LWVKdDhZLXlzVldaUnlNQ21EdHB6cEpUNUl3WnQ5cjlEZzluNV9fZW94ZVd5NHV3V3pkVFN3NmktWU1xeGRxVEVlUTB2RTdmb0t2d2EzVHc5UndiVXhTa3FubkRmdm5QUl9hVEhpd01fRDVRTm45elNndTdsY0ZOM3A1RENrZ1HSAdcBQVVfeXFMUDJjb0ZkTnlfNWZFUng4WmtwT3VDSzdlMV9lQ0JfdkE4c0l4cmFRYjd5dVkyQTBVSHhjZmZQcG9lUm5VMmRPNUMtYUlodnFEY0tfbFctazEzeVNBbWwwVU45bWkzWkdrQ1dXWmoyalllQ05XZ0piZW5WcGNQdkw4ZHVzYlBCazY4WlluTkZhY3dnOTZxQUNzVHREcW9BVlpvQkQtR19PSHVpMkhpTFFLdFJHUENLelhJYTE5dVYyRHo2T1FITkdDRDg2Ty0xcDg0dWc4TEx5NGM?oc=5",
@@ -216,10 +226,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Three Commercial Ships Hit in Straits of Hormuz in Separate Attacks",
-        "link": "https://www.newsofbahrain.com/world/128295.html",
+        "title": "Authorities Urge Public to Act Responsibly and Avoid Crowding Emergency Scenes",
+        "link": "https://www.newsofbahrain.com/bahrain/128297.html",
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TteKYq5PZb_2026-03-11_1773234490resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "G7 Open to Releasing Emergency Oil Reserves Amid Economic Impact of War",
+        "link": "https://www.newsofbahrain.com/bahrain/128296.html",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LK7bVM3Buk_2026-03-11_1773234200resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Three Commercial Ships Hit in Straits of Hormuz in Separate Attacks",
+        "link": "https://www.newsofbahrain.com/world/128295.html",
+        "published": "11 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_rA9yksxW74_2026-03-11_1773231150resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +258,8 @@
       {
         "title": "Pentagon chief says US intensifying strikes on Iran",
         "link": "https://www.newsofbahrain.com/world/128294.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
+        "published": "11 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_i6QVRKdsbk_2026-03-11_1773230841resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,30 +268,10 @@
       {
         "title": "US cardinal condemns Iran war as ‘not morally legitimate’",
         "link": "https://www.newsofbahrain.com/world/128293.html",
-        "published": "11 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HEcP8JDv5A_2026-03-11_1773230463resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Loud Blast Reported in Dubai; No Immediate Reports of Damage or Casualties",
-        "link": "https://www.newsofbahrain.com/world/128292.html",
-        "published": "11 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0bkiyCETQJ_2026-03-11_1773229624resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US designates Afghanistan as 'state sponsor of wrongful detention'",
-        "link": "https://www.newsofbahrain.com/world/128291.html",
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lG4Z0NhMeY_2026-03-11_1773229217resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HEcP8JDv5A_2026-03-11_1773230463resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,22 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain’s National Guard Reaffirms Unity and Security Amid Iranian Aggression",
-        "link": "https://www.newsofbahrain.com/bahrain/128274.html",
+        "title": "Loud Blast Reported in Dubai; No Immediate Reports of Damage or Casualties",
+        "link": "https://www.newsofbahrain.com/world/128292.html",
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vxPo1ZygbK_2026-03-11_1773223869thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Defense Forces Intercept 106 Missiles, 177 Drones in Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/128272.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X79OmJESLr_2026-03-11_1773223543thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0bkiyCETQJ_2026-03-11_1773229624thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-11 12:53:45 UTC"
+  "fetched_at": "2026-03-11 14:04:23 UTC"
 }
