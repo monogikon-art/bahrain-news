@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain says air defences intercept 105 ballistic missiles, 176 drones",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZjc0ZEpjRlZoVDc1Yk80WXRPUGZtcE9HQ2pMOGM1MmZMMTZUb2FGU3cxby1PZC1EaTlUcVlLSjhrLTRJWTZ0dlZVUFRmQmM3U254MzV5SE05ZmRWMnVyWk1Rbjl1T0poTkNIdk56ZFVsa1JVSnVURElZb1k4MXpfekk2Q2I1QkZXZW4zRHB0RXdYSEdvT3JhLTFfWVdLYTJ1Y0lubm9Qd0ZQTW5xU2RoUi1QS1prQjMwNWRxbW5QdTJPb2xINXJJZzI5REd3OTlOTzBR0gHTAUFVX3lxTE9mNzRkSmNGVmhUNzViTzRZdE9QZm1wT0dDakw4YzUyZkwxNlRvYUZTdzFvLU9kLURpOVRxWUtKOGstNElZNnR2VlVQVGZCYzdTbngzNXlITTlmZFYydXJaTVFuOXVPSmhOQ0h2TnpkVWxrUlVKdVRESVlvWTgxel96STZDYjVCRldlbjNEcHRFd1hIR29PcmEtMV9ZV0thMnVjSW5ub1B3RlBNbnFTZGhSLVBLWmtCMzA1ZHFtblB1Mk9vbEg1cklnMjlER3c5OU5PMFE?oc=5",
-        "published": "10 Mar 2026, 02:43 PM",
-        "iso_date": "2026-03-10T14:43:11+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain relocates passenger, cargo aircraft from airport to boost operational readiness",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOckttUVpodTd5bjBIN2l5VTZNUDNjX0Qzd2o1LUl4dVAzcnhPQWRTNGtfU3pJencyUE5IaDRfM0FSTGFHNTNnamlxUnlTNW9qdGE1ZmJIUEJjdUk4QlphTF91YndzU0h0a3AwaGUwQnE3MTNKVTZBc2hvbl95SGhtRWkyeGNSYWpRaDhIaWl5X2lvcDZVX2Vkb1owdGtIVkh2MW5jVFpzRG5VM3J4WkhOOFQ2c0dzY29QSlFqNW9HZWVGYmlHeUNtT0R4WQ?oc=5",
         "published": "10 Mar 2026, 10:18 PM",
@@ -82,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain condemns terrorist attack on UAE Consulate General in Iraqi Kurdistan",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzVDUk5nUGdfMVphWjZnZmc0MEFNYVlUVDNXemRsb1F0Z0hRMllFcVozVnJka1pEejMxZUVnZ1E4d3ZhQTMtaFAwcHI1YjZjUHA4Q2k1TUpJdll1NnAzb0x0OXhQMk1sSDU0R3B0YlJFakpxTVpoc1pGUksyVjd5QnMyUjIwQzRXYUdpMXlybkdnOVhVd0dJaFlIWmVpdUFnb1ZMdTBOVVRndm93M1g4bnhjc004ZnNnRDR5YjJKUGs?oc=5",
-        "published": "10 Mar 2026, 02:21 PM",
-        "iso_date": "2026-03-10T14:21:00+00:00",
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbWZ6bExLY0IxNW80b1lrZkpfYVZoaEJxRUJSbVpheGdkaWR0LWxKUUozN2pzdDFfNnlpV2hWUTBnOTFfdzZNY0ZEQkdyS3JPMk42bGlWaFJwaVM0ZnZ3Ylc4OS1JX1c0QUhUWFlyVzMwYnJSYS1obVhMYldpVjV2TGtaUlQ1cXBhVV94U1Zob2xiRkRIZTdTal9NOGdUQ0g4Qkk2U3V2VzcyeTNndWJRTk1WYmF1dlV3OUE2RmNTX0hlaUt1eGRPOGRRVktQUTR5TFVDeFFmS28yVVk2WFVtbzdsSWptXzdDT29rd24zWWRRTXVBTW1ULVVxUDc2RGtVc1l1VmJwaURnNGZmd2FtY0thUGdCQWE4clRDZUd4QkxyOG1XQXVWZFZjZkZNU193SUNuSXlNQ1BjZFFTX05XZ0k0d3RJd2JRRVBiZkZ1eVBTOUVP?oc=5",
+        "published": "11 Mar 2026, 10:12 AM",
+        "iso_date": "2026-03-11T10:12:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Chairs Critical GCC Media Coordination Meeting",
+        "link": "https://www.newsofbahrain.com/bahrain/128298.html",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Bi8j3bCOuT_2026-03-11_1773238478resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Authorities Urge Public to Act Responsibly and Avoid Crowding Emergency Scenes",
         "link": "https://www.newsofbahrain.com/bahrain/128297.html",
         "published": "11 Mar 2026, 09:22 AM",
@@ -238,8 +238,8 @@
       {
         "title": "G7 Open to Releasing Emergency Oil Reserves Amid Economic Impact of War",
         "link": "https://www.newsofbahrain.com/bahrain/128296.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
+        "published": "11 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LK7bVM3Buk_2026-03-11_1773234200resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,20 +258,10 @@
       {
         "title": "Pentagon chief says US intensifying strikes on Iran",
         "link": "https://www.newsofbahrain.com/world/128294.html",
-        "published": "11 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i6QVRKdsbk_2026-03-11_1773230841resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US cardinal condemns Iran war as ‘not morally legitimate’",
-        "link": "https://www.newsofbahrain.com/world/128293.html",
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HEcP8JDv5A_2026-03-11_1773230463resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i6QVRKdsbk_2026-03-11_1773230841resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,12 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "Beijing Condemns Attacks on Civilians",
-        "link": "https://www.newsofbahrain.com/bahrain/128275.html",
+        "title": "US cardinal condemns Iran war as ‘not morally legitimate’",
+        "link": "https://www.newsofbahrain.com/world/128293.html",
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hd7jmD5XfA_2026-03-11_1773224033thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HEcP8JDv5A_2026-03-11_1773230463thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-11 14:04:23 UTC"
+  "fetched_at": "2026-03-11 15:11:39 UTC"
 }
