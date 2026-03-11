@@ -216,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Gulf Airspace Restrictions Delay Critical WHO Medical Supplies",
+        "link": "https://www.newsofbahrain.com/bahrain/128303.html",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hLqYSVIXWA_2026-03-11_1773254591resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Warning sirens activate only when threats target Bahrain directly",
         "link": "https://www.newsofbahrain.com/bahrain/128302.html",
         "published": "11 Mar 2026, 09:22 AM",
@@ -228,8 +238,8 @@
       {
         "title": "BKS Arranges Chartered Flight from Dammam to Cochin",
         "link": "https://www.newsofbahrain.com/bahrain/128301.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
+        "published": "11 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_xRNnY3uGrK_2026-03-11_1773249665resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +258,8 @@
       {
         "title": "Special Charter Flight Announced Between Dammam and Mumbai",
         "link": "https://www.newsofbahrain.com/bahrain/128299.html",
-        "published": "11 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-11T09:00:43+00:00",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_vPrswgQHao_2026-03-11_1773248566resized_pic.jpg",
         "source": "newsofbahrain",
@@ -261,17 +271,7 @@
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Bi8j3bCOuT_2026-03-11_1773238478resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Authorities Urge Public to Act Responsibly and Avoid Crowding Emergency Scenes",
-        "link": "https://www.newsofbahrain.com/bahrain/128297.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TteKYq5PZb_2026-03-11_1773234490thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Bi8j3bCOuT_2026-03-11_1773238478thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-11 18:09:40 UTC"
+  "fetched_at": "2026-03-11 19:23:41 UTC"
 }
