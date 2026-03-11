@@ -216,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Welcomes Historic UN Resolution Condemning Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/128309.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ohCDtYNOgB_2026-03-11_1773271479resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "UN Security Council Adopts Bahrain-Led Resolution on Attacks in the Gulf",
         "link": "https://www.newsofbahrain.com/bahrain/128308.html",
         "published": "12 Mar 2026, 09:22 AM",
@@ -228,8 +238,8 @@
       {
         "title": "Bahrain Condemns Iranian Aggression at UN",
         "link": "https://www.newsofbahrain.com/bahrain/128307.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_gSwt41K0JO_2026-03-11_1773263876resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +258,8 @@
       {
         "title": "Kuwait National Guard Neutralizes Drone Warhead in Fuel Tank",
         "link": "https://www.newsofbahrain.com/world/128304.html",
-        "published": "11 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-11T09:00:43+00:00",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVzy2AskKn_2026-03-11_1773258190resized_pic.jpg",
         "source": "newsofbahrain",
@@ -261,7 +271,7 @@
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hLqYSVIXWA_2026-03-11_1773254591resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hLqYSVIXWA_2026-03-11_1773254591thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -272,16 +282,6 @@
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fjzh6fGTQ9_2026-03-11_1773252420thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BKS Arranges Chartered Flight from Dammam to Cochin",
-        "link": "https://www.newsofbahrain.com/bahrain/128301.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xRNnY3uGrK_2026-03-11_1773249665thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-11 23:22:24 UTC"
+  "fetched_at": "2026-03-11 23:48:49 UTC"
 }
