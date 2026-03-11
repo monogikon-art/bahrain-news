@@ -216,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Warning sirens activate only when threats target Bahrain directly",
+        "link": "https://www.newsofbahrain.com/bahrain/128302.html",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fjzh6fGTQ9_2026-03-11_1773252420resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "BKS Arranges Chartered Flight from Dammam to Cochin",
         "link": "https://www.newsofbahrain.com/bahrain/128301.html",
         "published": "11 Mar 2026, 09:22 AM",
@@ -228,8 +238,8 @@
       {
         "title": "Fire at Abu Dhabi’s Old Airport Brought Under Control",
         "link": "https://www.newsofbahrain.com/world/128300.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
+        "published": "11 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_U80qHFlwPJ_2026-03-11_1773249261resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +258,8 @@
       {
         "title": "Bahrain Chairs Critical GCC Media Coordination Meeting",
         "link": "https://www.newsofbahrain.com/bahrain/128298.html",
-        "published": "11 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-11T09:00:43+00:00",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Bi8j3bCOuT_2026-03-11_1773238478resized_pic.jpg",
         "source": "newsofbahrain",
@@ -261,17 +271,7 @@
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TteKYq5PZb_2026-03-11_1773234490resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "G7 Open to Releasing Emergency Oil Reserves Amid Economic Impact of War",
-        "link": "https://www.newsofbahrain.com/bahrain/128296.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LK7bVM3Buk_2026-03-11_1773234200thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TteKYq5PZb_2026-03-11_1773234490thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-11 17:26:16 UTC"
+  "fetched_at": "2026-03-11 18:09:40 UTC"
 }
