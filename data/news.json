@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -216,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "UN Security Council Adopts Bahrain-Led Resolution on Attacks in the Gulf",
+        "link": "https://www.newsofbahrain.com/bahrain/128308.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yzIm81WiRl_2026-03-11_1773268152resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Condemns Iranian Aggression at UN",
         "link": "https://www.newsofbahrain.com/bahrain/128307.html",
         "published": "12 Mar 2026, 09:22 AM",
@@ -228,8 +238,8 @@
       {
         "title": "Air India Group to Operate 58 Flights to West Asia on 12 March 2026",
         "link": "https://www.newsofbahrain.com/world/128305.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_x0eWLd7SUo_2026-03-11_1773263442resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +258,8 @@
       {
         "title": "Gulf Airspace Restrictions Delay Critical WHO Medical Supplies",
         "link": "https://www.newsofbahrain.com/bahrain/128303.html",
-        "published": "11 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-11T09:00:43+00:00",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hLqYSVIXWA_2026-03-11_1773254591resized_pic.jpg",
         "source": "newsofbahrain",
@@ -261,7 +271,7 @@
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fjzh6fGTQ9_2026-03-11_1773252420resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fjzh6fGTQ9_2026-03-11_1773252420thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -276,32 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "Special Charter Flight Announced Between Dammam and Mumbai",
-        "link": "https://www.newsofbahrain.com/bahrain/128299.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vPrswgQHao_2026-03-11_1773248566thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Fire at Abu Dhabi’s Old Airport Brought Under Control",
         "link": "https://www.newsofbahrain.com/world/128300.html",
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_U80qHFlwPJ_2026-03-11_1773249261thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Three Commercial Ships Hit in Straits of Hormuz in Separate Attacks",
-        "link": "https://www.newsofbahrain.com/world/128295.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rA9yksxW74_2026-03-11_1773231150thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-11 22:28:48 UTC"
+  "fetched_at": "2026-03-11 22:51:44 UTC"
 }
