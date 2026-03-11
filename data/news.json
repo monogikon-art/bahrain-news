@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -42,16 +42,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain says dozens injured in Iranian drone attack on Sitra",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3hXOUVFMUw5SDZNRUU4dDc0cDdtOGRHMnFqOGNVdmdTcDM1MndJM1oyb3NjVzN3SFJiZ1I1aFFra21sYlVwVTFqb1hGYklCUlZ0cFBZR0JLTE1DZGZHRkhVV21OOFdEMkQ5eFB4enVFdmxVNXZsNHR3Z3pnRzlrTHBLcERxOUlLOVpEVg?oc=5",
-        "published": "10 Mar 2026, 12:53 AM",
-        "iso_date": "2026-03-10T00:53:33+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iranian Drone Strike in Bahrain Injures 32 in Sitra, Bahrain's Health Ministry Says",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZycVBMZHVqYVRSMXkxSGd0RkExQm1oOGMxcXRXb3ZhWlZZTUtPTFJjMzR0LWxNNDU5RmNUY2Jka0FhSUgzZE1WbXlSZENCVW1pRE0yV21yX3NXbzYzQ0h0dVRSZE5QX2dBZFJrc0ozUDdMaUVBb3RBaUtJXzNpTGFfcDhDU3NQaXVOLUt0N2RwYU96cmdlWHdGdjhyQVlRTHc4M3N5dXd3RW5zZXZvRWEzaEo5d2pXdGR6clNyMkVjZWc?oc=5",
         "published": "10 Mar 2026, 12:12 PM",
@@ -62,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "India advises its nationals in Bahrain to remain vigilant amid West Asia tensions",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3R2NHZTbFBfZ2xtZVZHNzFaUTlnWGhoMXVCWVJNWElDa2IzZFBqem14SS11dTU0aVhTUlhKeEhfUWROR29Yc2o0ajdlajJuendqQ3FaM1hJdjFXdlJSODZ0eC15a25DdGFLTmZrTFFKQnpxY0syOHUxUi1ra1NrQXJsMl9oOE5NNm5OZk5iU1Z4MjAzTnI4NG9HUkwtYy15U1ZWZ3FHRXlWQ1ZJRjBQTkY4cC1Lb0p1TzJlSw?oc=5",
-        "published": "10 Mar 2026, 12:39 AM",
-        "iso_date": "2026-03-10T00:39:40+00:00",
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWkpva0xBa2FrOUV1QnJLQU1nbEVUTzQ3SFg0bkNqeHFuMk9ramhudFBjR0s0bURkMnUxSzlGT0ZCV0QtOF9PQkhZUFFJR3R1WG5hcW81RW5KcHk3YlVfdThaNUkwQkpRbXZnVUNzbzNMLXlTQjN2bW5sMk5scGhrTXltVWx3X0hHOFBVamQ3THgzeGlaQzd2d0FyMXRPWmVBLVFjTFFaVmZQMzBFOUN6aVliMnctOGlrVmZsc2hLRUs0a096T205d0xnZkJrZ3lTeXVSRnJjNlpGNWlaUVp6NmpvQWc1Y29GekdENURn?oc=5",
+        "published": "10 Mar 2026, 08:25 PM",
+        "iso_date": "2026-03-10T20:25:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -104,6 +94,16 @@
         "category": "Latest"
       },
       {
+        "title": "400 iftar meals prepared as part of initiative",
+        "link": "https://www.gdnonline.com/Details/1378229/400-iftar-meals-prepared-as-part-of-initiative",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311020902sheema_T.jpg?20260311",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Families hit by Sitra attack seek assistance",
         "link": "https://www.gdnonline.com/Details/1378203/Families-hit-by-Sitra-attack-seek-assistance",
         "published": "11 Mar 2026",
@@ -114,32 +114,22 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain condemns attacks targeting civilian areas and vital infrastructure",
+        "link": "https://www.gdnonline.com/Details/1378233/Bahrain-condemns-attacks-targeting-civilian-areas-and-vital-infrastructure",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/2026031102431120260228174420ministryofforeignaffairs_T.jpg?20260311",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Sitra residents assured of all help",
         "link": "https://www.gdnonline.com/Details/1378212/Sitra-residents-assured-of-all-help",
         "published": "11 Mar 2026",
         "iso_date": "2026-03-11T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_004950_0_T.jpg?20260311",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "MPs seek urgent economic measures to help citizens",
-        "link": "https://www.gdnonline.com/Details/1378191/MPs-seek-urgent-economic-measures-to-help-citizens",
-        "published": "11 Mar 2026",
-        "iso_date": "2026-03-11T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/20260310_224007_3_T.jpg?20260311",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "UKâs RAF âknocks out rogue drone heading to Bahrainâ",
-        "link": "https://www.gdnonline.com/Details/1378202/UKâs-RAF-âknocks-out-rogue-drone-heading-to-Bahrainâ",
-        "published": "11 Mar 2026",
-        "iso_date": "2026-03-11T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/20260310_232227_0.png?20260311",
         "source": "gdn",
         "category": "Latest"
       },
@@ -164,72 +154,52 @@
         "category": "Latest"
       },
       {
-        "title": "Solidarity recognises Bahraini leadership excellence following landmark merger",
-        "link": "https://www.gdnonline.com/Details/1377959/Solidarity-recognises-Bahraini-leadership-excellence-following-landmark-merger",
-        "published": "9 Mar 2026",
-        "iso_date": "2026-03-09T00:00:00",
+        "title": "City better equipped than last season says Guardiola",
+        "link": "https://www.gdnonline.com/Details/1378223/City-better-equipped-than-last-season-says-Guardiola",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310012548mbtwo_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_012515_1_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Man City host Liverpool, Arsenal visit Southampton in FA Cup quarters",
-        "link": "https://www.gdnonline.com/Details/1378137/Man-City-host-Liverpool,-Arsenal-visit-Southampton-in-FA-Cup-quarters",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
+        "title": "Japan claim commanding win to knock out Vietnam",
+        "link": "https://www.gdnonline.com/Details/1378222/Japan-claim-commanding-win-to-knock-out-Vietnam-",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310124933facup_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_012514_1_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Newcastle set for Barca challenge",
-        "link": "https://www.gdnonline.com/Details/1378097/Newcastle-set-for-Barca-challenge",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
+        "title": "Saliba injury boost for Arsenal",
+        "link": "https://www.gdnonline.com/Details/1378224/Saliba-injury-boost-for-Arsenal",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310_015532_0_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_012517_0_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "China secure top spot as Uzbekistan advance",
-        "link": "https://www.gdnonline.com/Details/1378093/China-secure-top-spot-as-Uzbekistan-advance",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
+        "title": "England star Walker retires",
+        "link": "https://www.gdnonline.com/Details/1378221/England-star-Walker-retires",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310_013514_0_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_012513_0_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Qatar league games set to resume",
-        "link": "https://www.gdnonline.com/Details/1378092/Qatar-league-games-set-to-resume",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
+        "title": "Atletico rout Spurs",
+        "link": "https://www.gdnonline.com/Details/1378225/Atletico-rout-Spurs",
+        "published": "11 Mar 2026",
+        "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310015225qatarfb_T.jpg?20260311",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "VIDEO: Gerrard urges young footballers to keep practising",
-        "link": "https://www.gdnonline.com/Details/1378094/VIDEO-Gerrard-urges-young-footballers-to-keep-practising-",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310015733gerrard_T.jpg?20260311",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Paddington The Musical triumphs at WhatsOnStage awards with nine wins",
-        "link": "https://www.gdnonline.com/Details/1378005/Paddington-The-Musical-triumphs-at-WhatsOnStage-awards-with-nine-wins",
-        "published": "9 Mar 2026",
-        "iso_date": "2026-03-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260309/2026030910195801kk7b4tdvj5p3t9twt2q9rvrf(1)_T.jpg?20260311",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311_015628_0_T.jpg?20260311",
         "source": "gdn",
         "category": "Latest"
       }
@@ -489,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-10 23:50:15 UTC"
+  "fetched_at": "2026-03-11 01:46:35 UTC"
 }
