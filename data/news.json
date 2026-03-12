@@ -4,19 +4,19 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 17
     }
   },
   "articles": {
@@ -42,20 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 106 missiles, 177 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yOFd0RkRSZGtTSm40VVJ0emRQY3pqUW83blZIclhDRUNkSkwxUGVISmlWT05hMlBsMDdSbEpkdW9kUVgxUUFEVTc3M3p2RFdBell3?oc=5",
-        "published": "11 Mar 2026, 12:21 PM",
-        "iso_date": "2026-03-11T12:21:30+00:00",
+        "title": "Bahrain arrests four accused of spying for Tehran",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX28wNkVXdUR2UVFTaVdIRWhxYmxoSWR2QU83M1JNZGkzV2hHcEY0ekF4VlN3RzB3SENqTFk3dHNmS3JKLWtTZ3dkRWcxZW81aEktaVVZX2RZOGJUSVJ3aVM2eEh0THNKRWtxYUJvT05ic21JRjkyMzRzeXlyZjBSaThLdjZwNjRwNkNTTVdjRUNmRmUydHVBdExHM0RlRlU?oc=5",
+        "published": "12 Mar 2026, 10:51 AM",
+        "iso_date": "2026-03-12T10:51:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain arrests 4 nationals for spying for Iran’s Revolutionary Guard",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xV0ZTZ3paWlpWVzlqLU5MVHhnc1Mwd1dGRHJ5bXlQZnZ1YVJLdklQWk4tU1dhX2otRVhkNFFaQVdqc1hMWVoyRGRXUTRQQVBlUmc?oc=5",
-        "published": "12 Mar 2026, 07:35 AM",
-        "iso_date": "2026-03-12T07:35:39+00:00",
+        "title": "Bahrain intercepts 106 missiles, 177 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yOFd0RkRSZGtTSm40VVJ0emRQY3pqUW83blZIclhDRUNkSkwxUGVISmlWT05hMlBsMDdSbEpkdW9kUVgxUUFEVTc3M3p2RFdBell3?oc=5",
+        "published": "11 Mar 2026, 12:21 PM",
+        "iso_date": "2026-03-11T12:21:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -86,16 +86,6 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3BWc3VfUHQyOG9qcGVYcF9EZmxSSl91V1A1OFNubU42WGllNWdtMHZkeDFKc0dGU2RuWmxGUXZWblZnaHhpb2YxaFVPWll6S09JN0tuU2hJSlB3MnNWTTNaSWI3YlhvX010UFpsMC1ucXc4UGg5RXFmRHlyLVZ1VENxdjBMTnV2bVZjQ05YRzFfeXhMbEdDTFFCeVY1VDA?oc=5",
         "published": "12 Mar 2026, 01:00 AM",
         "iso_date": "2026-03-12T01:00:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts, Destroys 106 Ballistic Missiles, 177 UAVs Since Onset Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3J5N28tRW1ZOUhkeENuWm1hZWg0LXJGXy1yb21WMGd5Y2ZQbkx6RW1VdVUwLXhnaVFBRnFnSUZyMXBVOUFaYWZLZnotVkFQQ2xzUHNMdFFPWXFpMG1LTXp2RnRkcXJSc0t3RmhreXE3aU1hc1RuTGYwNFprZWFfdGlVVUtFWXhjMTdINFZONEtVUGFtMVZzNjRLYmZ6ajg?oc=5",
-        "published": "11 Mar 2026, 10:45 AM",
-        "iso_date": "2026-03-11T10:45:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -150,6 +140,16 @@
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_033109_0_T.jpg?20260312",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrainâs banks remain fully operational",
+        "link": "https://www.gdnonline.com/Details/1378393/Bahrainâs-banks-remain-fully-operational",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312125531baa_T.jpg?20260312",
         "source": "gdn",
         "category": "Latest"
       },
@@ -234,6 +234,16 @@
         "category": "Latest"
       },
       {
+        "title": "'Sinners' and 'One Battle After Another' face off at drama-filled Oscars",
+        "link": "https://www.gdnonline.com/Details/1378397/Sinners-and-One-Battle-After-Another-face-off-at-drama-filled-Oscars-",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312132948websitepicsize-2026-03-12t133714.528_T.jpg?20260312",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "'KPop Demon Hunters' is headed to the Oscarsâlive on stage",
         "link": "https://www.gdnonline.com/Details/1378256/KPop-Demon-Hunters-is-headed-to-the-Oscarsâlive-on-stage",
         "published": "11 Mar 2026",
@@ -246,42 +256,72 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Overstay Fine Waiver for Visit Visa Holders in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/128341.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nseO8fyM1X_2026-03-12_1773314320resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "English clubs stumble",
+        "link": "https://www.newsofbahrain.com/sports/128340.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9vFVL5QBRG_2026-03-12_1773314123resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Brilliant Adebayo scores 83 points, second highest in NBA history",
+        "link": "https://www.newsofbahrain.com/sports/128339.html",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7Sjv0QPwyI_2026-03-12_1773313592resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "China sprint race presents ‘huge challenge’ in F1’s new era",
+        "link": "https://www.newsofbahrain.com/sports/128338.html",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CcjXyt0O9P_2026-03-12_1773312542resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Fruit and Vegetable Prices Stable in Bahrain Markets",
+        "link": "https://www.newsofbahrain.com/bahrain/128337.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3BkpTRLJ7E_2026-03-12_1773312177resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Six-Hour Operation Extinguishes Muharraq Blaze",
+        "link": "https://www.newsofbahrain.com/bahrain/128336.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WN02hUzX5Z_2026-03-12_1773311756thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "UN Adopts Bahrain-Led Resolution Condemning Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/world/128335.html",
+        "link": "https://www.newsofbahrain.com/bahrain/128335.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KurcLsk7aX_2026-03-12_1773311500resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Let the cash move",
-        "link": "https://www.newsofbahrain.com/views/128334.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RSEyVZBtvM_2026-03-12_1773306498resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Companies evacuate Dubai financial district",
-        "link": "https://www.newsofbahrain.com/business/128333.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VCSXmGB6Td_2026-03-12_1773305467resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "War transforms Saudi oil pipeline into economic lifeline",
-        "link": "https://www.newsofbahrain.com/business/128332.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5ftL9DlJzi_2026-03-12_1773305215resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KurcLsk7aX_2026-03-12_1773311500thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -291,47 +331,7 @@
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H5GrZC7pwF_2026-03-12_1773304507resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Restores Power After Drone Debris Hits Transmission Lines",
-        "link": "https://www.newsofbahrain.com/bahrain/128328.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SuKmPZE9Cv_2026-03-12_1773302104thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "295 requests highlight residents’ daily concerns",
-        "link": "https://www.newsofbahrain.com/bahrain/128327.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UdRxnNa3qB_2026-03-12_1773300225thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "MPs approve higher unsafe homes grant",
-        "link": "https://www.newsofbahrain.com/bahrain/128326.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g8pSIPWy6e_2026-03-12_1773300062thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Threat to property and civilian safety",
-        "link": "https://www.newsofbahrain.com/bahrain/128325.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mFQqlO5yL7_2026-03-12_1773299526thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H5GrZC7pwF_2026-03-12_1773304507thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -366,6 +366,36 @@
         "category": "Latest"
       },
       {
+        "title": "Kuwait National Guard Neutralizes Drone Warhead in Fuel Tank",
+        "link": "https://www.newsofbahrain.com/world/128304.html",
+        "published": "11 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVzy2AskKn_2026-03-11_1773258190thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Companies evacuate Dubai financial district",
+        "link": "https://www.newsofbahrain.com/business/128333.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VCSXmGB6Td_2026-03-12_1773305467thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "War transforms Saudi oil pipeline into economic lifeline",
+        "link": "https://www.newsofbahrain.com/business/128332.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5ftL9DlJzi_2026-03-12_1773305215thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Strategic oil reserves are a crisis cushion",
         "link": "https://www.newsofbahrain.com/business/128330.html",
         "published": "12 Mar 2026, 09:22 AM",
@@ -382,6 +412,16 @@
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FEyQjd70mb_2026-03-12_1773302631thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Let the cash move",
+        "link": "https://www.newsofbahrain.com/views/128334.html",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RSEyVZBtvM_2026-03-12_1773306498thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -499,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 10:35:36 UTC"
+  "fetched_at": "2026-03-12 11:29:34 UTC"
 }
