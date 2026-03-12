@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -43,9 +43,19 @@
       },
       {
         "title": "Bahrain arrests four accused of spying for Tehran",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX28wNkVXdUR2UVFTaVdIRWhxYmxoSWR2QU83M1JNZGkzV2hHcEY0ekF4VlN3RzB3SENqTFk3dHNmS3JKLWtTZ3dkRWcxZW81aEktaVVZX2RZOGJUSVJ3aVM2eEh0THNKRWtxYUJvT05ic21JRjkyMzRzeXlyZjBSaThLdjZwNjRwNkNTTVdjRUNmRmUydHVBdExHM0RlRlU?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yU3V2cGVMYTJMajJCOXMtNWUyMURwRU5XZ1k4S3pEN0pLeWJzR2h6Wl9vYVktX0JPaHNsOGV6TzlzcENwaS1CU0dUby1TVWxHMzNRRg?oc=5",
         "published": "12 Mar 2026, 10:51 AM",
         "iso_date": "2026-03-12T10:51:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
+        "published": "12 Mar 2026, 04:54 AM",
+        "iso_date": "2026-03-12T04:54:01+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,30 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Several Bahrainis arrested over alleged ties to Iran’s IRGC",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ldFNOWXZPd0M1dXBfcTR1eWZUZHhuUFRaSFlQOVZnckd6ZDZQOHBOM2owQXFWT1h1QnJfRm96NGFfVVRjbG93N3RkUjhaZGUzQXVpNXRfeFZxNnpFdU9iQzFHZw?oc=5",
-        "published": "12 Mar 2026, 06:31 AM",
-        "iso_date": "2026-03-12T06:31:43+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
         "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWjh1cW40STd3aW40ZmR6Tzc4QTh5T3dNZlJTZnh2dWxpMFc2eHkzdVprenJVUkNCanlaaHhacXp2Zkl6ak9JT1JJWTVKNGJGTmIybzY4N0xZam5YUVMyMUV3YUw4MlJsaW9tcTFaQkMyakRwaGZOUzNvckF6OG9lRmRDcmFMa0d4di1nV0RPRzFjcUEwajJqQWFaSkwtZFduQmJDbTh2Rk42a3A2emNhQlBuN2RvUUdrRXg1akhNb0VMSzJoM2NpN1ZCeFk4SWpVM21Sb2xEa3lsOEtIa3FHeXZydXMxcUg5Q2E3cFRHc3NTYVpyUTBHZ3l1RUhhRUhoMEhQVHdHN0dJeS1OMVgxVVZTbFU4NFJGNWl0M3ZMLUVBWFQ4aFNCRGZOTVplU21XSTVFajJsaGhBMXRGZnVTNFd5eE1ub3VCX2NIOXQ0dVJHczdxX1VaQXh1TEE1X08wNWlZMFBEcVRQa2VqZHJ6V0U1Q2xwUXd4TENseVVmZnlXUEozcTJ4dWlhbjhGVDJTeUxNTFBseHI5Ni1SbkNBdDF0eEFCNFhreDNoRGgtNFdWSENob3RtWUtKTVViR01fdTFVZEs4Rm9RUHFjVUtZZ2UwTlVhVk1GMzBSVjJCTVNsRGpRM2NwUjc4NA?oc=5",
         "published": "12 Mar 2026, 02:24 AM",
         "iso_date": "2026-03-12T02:24:15+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "WRAP-UP: EVACUATIONS INTENSIFY AS WEST ASIA CONFLICT SHOWS NO SIGN OF EASING - BERNAMA",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xMGt1Y0lCRVd1dERMRzBpUXZoeFNrR1p0QTRxem5hSlBVbW4tbzZwR3hhMVVncDdBMi15SncxdGlGY1RrbXBacC1qS25CSlZUU0lZMEtldWVXNDg?oc=5",
-        "published": "11 Mar 2026, 01:45 PM",
-        "iso_date": "2026-03-11T13:45:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -277,7 +267,7 @@
     "newsofbahrain": [
       {
         "title": "Family Mourns Father of Five Killed in Abu Dhabi Strike",
-        "link": "https://www.newsofbahrain.com/bahrain/128354.html",
+        "link": "https://www.newsofbahrain.com/world/128354.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
@@ -356,12 +346,12 @@
         "category": "Latest"
       },
       {
-        "title": "Two Tankers Hit Near Basra, Iraq Forced to Suspends Oil Port Operations",
-        "link": "https://www.newsofbahrain.com/world/128315.html",
+        "title": "UN Adopts Bahrain-Led Resolution Condemning Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/128335.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gQwxfAIn1e_2026-03-12_1773295508thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KurcLsk7aX_2026-03-12_1773311500thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 12:53:31 UTC"
+  "fetched_at": "2026-03-12 14:02:10 UTC"
 }
