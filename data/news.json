@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -144,16 +144,6 @@
         "category": "Latest"
       },
       {
-        "title": "Alba promotes employee to lead Asia Pacific sales",
-        "link": "https://www.gdnonline.com/Details/1378068/Alba-promotes-employee-to-lead-Asia-Pacific-sales",
-        "published": "10 Mar 2026",
-        "iso_date": "2026-03-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260310/20260310012048mone_T.jpg?20260311",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Iranian women's football squad member changes mind on Australia asylum offer, to return home",
         "link": "https://www.gdnonline.com/Details/1378251/Iranian-womens-football-squad-member-changes-mind-on-Australia-asylum-offer,-to-return-home",
         "published": "11 Mar 2026",
@@ -216,10 +206,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Welcomes Historic UN Resolution Condemning Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/128309.html",
+        "title": "HH Shaikh Nasser Conveys Condolences to Family of Victim of Iranian Aggression",
+        "link": "https://www.newsofbahrain.com/bahrain/128313.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VbAiJpNM3z_2026-03-12_1773276710resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Arrests Four for Spying with Iranian IRGC",
+        "link": "https://www.newsofbahrain.com/bahrain/128311.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SjwQsApGTC_2026-03-12_1773276434resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian Aggression Targets Fuel Tanks in Muharraq",
+        "link": "https://www.newsofbahrain.com/bahrain/128310.html",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_an3g8KMe9H_2026-03-12_1773276297resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Welcomes Historic UN Resolution Condemning Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/128309.html",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ohCDtYNOgB_2026-03-11_1773271479resized_pic.jpg",
         "source": "newsofbahrain",
@@ -236,22 +256,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Condemns Iranian Aggression at UN",
-        "link": "https://www.newsofbahrain.com/bahrain/128307.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gSwt41K0JO_2026-03-11_1773263876resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Air India Group to Operate 58 Flights to West Asia on 12 March 2026",
         "link": "https://www.newsofbahrain.com/world/128305.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x0eWLd7SUo_2026-03-11_1773263442resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x0eWLd7SUo_2026-03-11_1773263442thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,27 +271,7 @@
         "published": "11 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVzy2AskKn_2026-03-11_1773258190resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Airspace Restrictions Delay Critical WHO Medical Supplies",
-        "link": "https://www.newsofbahrain.com/bahrain/128303.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hLqYSVIXWA_2026-03-11_1773254591thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Warning sirens activate only when threats target Bahrain directly",
-        "link": "https://www.newsofbahrain.com/bahrain/128302.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fjzh6fGTQ9_2026-03-11_1773252420thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVzy2AskKn_2026-03-11_1773258190thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-11 23:48:49 UTC"
+  "fetched_at": "2026-03-12 01:48:54 UTC"
 }
