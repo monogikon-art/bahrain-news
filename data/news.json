@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 14
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -32,10 +32,30 @@
         "category": "Latest"
       },
       {
+        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFFOWW5DWUgxQWhtNUxiT0lYWXBKaTJaRFNrSGEza3h5bzZqS0hkblZsdUlSYTM4LTBXVTNwNk9ZUkxNZXNkVkFaZ2dKZWVYNmxVSm95TmtKRWJ0Rm1oVVcyN1hYSERCMlk2UDhkRk5tRW43ZVRzOWc3QndhdVFsR0l3?oc=5",
+        "published": "12 Mar 2026, 07:42 AM",
+        "iso_date": "2026-03-12T07:42:14+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain intercepts 106 missiles, 177 drones since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yOFd0RkRSZGtTSm40VVJ0emRQY3pqUW83blZIclhDRUNkSkwxUGVISmlWT05hMlBsMDdSbEpkdW9kUVgxUUFEVTc3M3p2RFdBell3?oc=5",
         "published": "11 Mar 2026, 12:21 PM",
         "iso_date": "2026-03-11T12:21:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain arrests 4 nationals for spying for Iran’s Revolutionary Guard",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xV0ZTZ3paWlpWVzlqLU5MVHhnc1Mwd1dGRHJ5bXlQZnZ1YVJLdklQWk4tU1dhX2otRVhkNFFaQVdqc1hMWVoyRGRXUTRQQVBlUmc?oc=5",
+        "published": "12 Mar 2026, 07:35 AM",
+        "iso_date": "2026-03-12T07:35:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 106 ballistic missiles, 177 UAVs since onset of Iranian attacks - Emirates 24|7",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS282UXZqNnliLS1HTTZna3NDZlA0bEFMRk9rZjhoUjByYkxKS0R0YVd6b2lVajJYSE5tUlJfSkMzTC1neWR3UC15RjhzY05IS0VJWGQwSGFfbzZnNHREZDhnNlUzV3M2WW9sbjZoczRqSVZpT3RmS1JjSlRUb2pKaWlmZndIQUFtdXpIQmM0Q0ZnSmhvbmpRQk5xMl90RENQSFI1ZWtLMlMzdjNfd0xBTFdnbUI5Z2tkVlJiS1dRNENIUzFTSlHSAeABQVVfeXFMUE5YOTlCb3NNbDNWZFVhNm56ZEIzSXZYRlNTaE05V3dsTmQxVjBpbXNEdjBxQTI0bmVqRFpwazNvT3FfTVl3am1hRlltUDVRc1VhZUdXa0VLV082UUpsaXMtelI0TGFCcURhQWpDd3dBR1d1bV9UNy11dWtsSkpWNFZFaVNjVDZkNWZ2SzBZekRSc1hWWTBOVWRYazEycFRhaU5EUS1ZOEFKdUkzcHJBMkc5UVFZMkdaTlM5eENlTVlDbVpnUlZxTkVVNkdpemg1UlUtUlFYdTU1aEhmOTNqako?oc=5",
-        "published": "11 Mar 2026, 10:35 AM",
-        "iso_date": "2026-03-11T10:35:00+00:00",
+        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkJaT0VhRklEZUNidDNhMFJvWWNjTjQwNEtJQ3A3bC1MV3lITi1VcXRLb2VkNF9VSnUxcC03Y0dpX0FvVmJaUWhHQzlId3Vod2UydndxcTBWYVE5NlY4M09SNXJQdDI1TWF6OU9fTGRnVUthMmN1aC1QazJmXzNNbVFCZ0ZZSXYxU0x3dUJsem1QaWV0eHEzdW50YVpST19oLXFwT1NibUswYXFNTnVieVJ0ZHl3OF9KcG80UXRnSmtENjEtU3YtbQ?oc=5",
+        "published": "12 Mar 2026, 09:47 AM",
+        "iso_date": "2026-03-12T09:47:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -70,16 +90,46 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Bahrain Intercepts, Destroys 106 Ballistic Missiles, 177 UAVs Since Onset Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3J5N28tRW1ZOUhkeENuWm1hZWg0LXJGXy1yb21WMGd5Y2ZQbkx6RW1VdVUwLXhnaVFBRnFnSUZyMXBVOUFaYWZLZnotVkFQQ2xzUHNMdFFPWXFpMG1LTXp2RnRkcXJSc0t3RmhreXE3aU1hc1RuTGYwNFprZWFfdGlVVUtFWXhjMTdINFZONEtVUGFtMVZzNjRLYmZ6ajg?oc=5",
+        "published": "11 Mar 2026, 10:45 AM",
+        "iso_date": "2026-03-11T10:45:04+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "Fuel tanks hit in Muharraq area",
-        "link": "https://www.gdnonline.com/Details/1378347/Fuel-tanks-hit-in-Muharraq-area",
+        "title": "Fire contained at fuel storage facility in Muharraq Governorate following Iranian attack",
+        "link": "https://www.gdnonline.com/Details/1378384/Fire-contained-at-fuel-storage-facility-in-Muharraq-Governorate-following-Iranian-attack",
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312035419images(1)_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312114105cd1_T.jpg?20260312",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Air flights remain suspended as Bahrain airspace closure continues",
+        "link": "https://www.gdnonline.com/Details/1378390/Gulf-Air-flights-remain-suspended-as-Bahrain-airspace-closure-continues",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312121915gf2_T.jpg?20260312",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF General Command: 112 missiles, 186 drones destroyed",
+        "link": "https://www.gdnonline.com/Details/1378386/BDF-General-Command-112-missiles,-186-drones-destroyed",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312120035bdf12_T.jpg?20260312",
         "source": "gdn",
         "category": "Latest"
       },
@@ -94,32 +144,12 @@
         "category": "Latest"
       },
       {
-        "title": "Ministry urges people in Hidd, Arad, Qalali & Samaheej to remain in their homes",
-        "link": "https://www.gdnonline.com/Details/1378357/Ministry-urges-people-in-Hidd,-Arad,-Qalali--Samaheej-to-remain-in-their-homes-",
-        "published": "12 Mar 2026",
-        "iso_date": "2026-03-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312053442moi.jpeg?20260312",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "CONDEMNED: Massive support as UN Security Council rules on Iranian attack",
         "link": "https://www.gdnonline.com/Details/1378332/CONDEMNED-Massive-support-as-UN-Security-Council-rules-on-Iranian-attack-",
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_033109_0_T.jpg?20260312",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air begins operating limited flights",
-        "link": "https://www.gdnonline.com/Details/1378318/Gulf-Air-begins-operating-limited-flights",
-        "published": "12 Mar 2026",
-        "iso_date": "2026-03-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312002134nsnns_T.jpg?20260312",
         "source": "gdn",
         "category": "Latest"
       },
@@ -194,6 +224,16 @@
         "category": "Latest"
       },
       {
+        "title": "California studio helps autistic adults channel creativity into Hollywood careers",
+        "link": "https://www.gdnonline.com/Details/1378387/California-studio-helps-autistic-adults-channel-creativity-into-Hollywood-careers",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312120334websitepicsize-2026-03-12t121054.983_T.jpg?20260312",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "'KPop Demon Hunters' is headed to the Oscarsâlive on stage",
         "link": "https://www.gdnonline.com/Details/1378256/KPop-Demon-Hunters-is-headed-to-the-Oscarsâlive-on-stage",
         "published": "11 Mar 2026",
@@ -205,6 +245,16 @@
       }
     ],
     "newsofbahrain": [
+      {
+        "title": "UN Adopts Bahrain-Led Resolution Condemning Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/world/128335.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KurcLsk7aX_2026-03-12_1773311500resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Let the cash move",
         "link": "https://www.newsofbahrain.com/views/128334.html",
@@ -218,8 +268,8 @@
       {
         "title": "Companies evacuate Dubai financial district",
         "link": "https://www.newsofbahrain.com/business/128333.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_VCSXmGB6Td_2026-03-12_1773305467resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +288,10 @@
       {
         "title": "Bahrain Responds to Iranian Attack on Fuel Facility; UN Backs Regional Security Resolution",
         "link": "https://www.newsofbahrain.com/bahrain/128331.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H5GrZC7pwF_2026-03-12_1773304507resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Strategic oil reserves are a crisis cushion",
-        "link": "https://www.newsofbahrain.com/business/128330.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CfEOHynJuG_2026-03-12_1773304190resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H5GrZC7pwF_2026-03-12_1773304507resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,12 +366,12 @@
         "category": "Latest"
       },
       {
-        "title": "Kuwait National Guard Neutralizes Drone Warhead in Fuel Tank",
-        "link": "https://www.newsofbahrain.com/world/128304.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
+        "title": "Strategic oil reserves are a crisis cushion",
+        "link": "https://www.newsofbahrain.com/business/128330.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVzy2AskKn_2026-03-11_1773258190thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CfEOHynJuG_2026-03-12_1773304190thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 09:39:23 UTC"
+  "fetched_at": "2026-03-12 10:35:36 UTC"
 }
