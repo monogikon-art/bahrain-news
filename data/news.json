@@ -266,6 +266,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Announces Eid Al-Fitr Prayer at 6:00 AM in Grand Mosques",
+        "link": "https://www.newsofbahrain.com/bahrain/128358.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7LkPt85q2D_2026-03-12_1773350381resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Kuwait Intercepts Missiles and Drones in Early Morning Attack",
         "link": "https://www.newsofbahrain.com/world/128357.html",
         "published": "12 Mar 2026, 09:22 AM",
@@ -278,8 +288,8 @@
       {
         "title": "Indian-flagged tankers safely pass through Strait of Hormuz amid regional tensions",
         "link": "https://www.newsofbahrain.com/world/128356.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_qSvg4RZdEj_2026-03-12_1773331243resized_pic.jpg",
         "source": "newsofbahrain",
@@ -298,8 +308,8 @@
       {
         "title": "Family Mourns Father of Five Killed in Abu Dhabi Strike",
         "link": "https://www.newsofbahrain.com/world/128354.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_W8pUivVncX_2026-03-12_1773319744resized_pic.jpg",
         "source": "newsofbahrain",
@@ -311,7 +321,7 @@
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P7GvMZaEeA_2026-03-12_1773318896resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P7GvMZaEeA_2026-03-12_1773318896thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -342,16 +352,6 @@
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WN02hUzX5Z_2026-03-12_1773311756thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN Adopts Bahrain-Led Resolution Condemning Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/128335.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KurcLsk7aX_2026-03-12_1773311500thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -519,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 20:31:16 UTC"
+  "fetched_at": "2026-03-12 21:29:47 UTC"
 }
