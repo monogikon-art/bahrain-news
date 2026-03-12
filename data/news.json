@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yU3V2cGVMYTJMajJCOXMtNWUyMURwRU5XZ1k4S3pEN0pLeWJzR2h6Wl9vYVktX0JPaHNsOGV6TzlzcENwaS1CU0dUby1TVWxHMzNRRg?oc=5",
         "published": "12 Mar 2026, 10:51 AM",
         "iso_date": "2026-03-12T10:51:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
-        "published": "12 Mar 2026, 04:54 AM",
-        "iso_date": "2026-03-12T04:54:01+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -519,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 18:50:05 UTC"
+  "fetched_at": "2026-03-12 19:40:31 UTC"
 }
