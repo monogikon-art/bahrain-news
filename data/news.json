@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX21NVG5ZT2tLcS1SdlFqdXRFdzhXX1RIcVBueGllWFdsSWtwcjg0SHU0dVYwQzBPUllZUjd3NnhjcDBsemZ0M280MDJyRjQzcGZjTmlrbXBhQ19BcDd1N0xvTC1rSUs2djBQbnZ5SEhhTGJuV3VVREdvZmZ2X2RBZUhRXzRhZ01XRlpiUkJ2dXdZLWEwTW9YUjJIS1VIWFpPdWR2VVlEWXl5aVVwRzZROHFMeW55N3FreWs3Y1ZuOVFiN0l2dVJZdTJyaFo?oc=5",
-        "published": "12 Mar 2026, 11:38 AM",
-        "iso_date": "2026-03-12T11:38:06+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain arrests 4 suspected Iranian Revolutionary Guard spies",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aQS1EVTdHcmxUQkxiUHEtWTBnNlVueG1vWWlQV0M1ZEVQckRWbnhLMVdGeFllRXdhZ05oVkJ3T1NIY3VyS0xRcEdRY05FRk9EanVR?oc=5",
@@ -56,6 +46,26 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yU3V2cGVMYTJMajJCOXMtNWUyMURwRU5XZ1k4S3pEN0pLeWJzR2h6Wl9vYVktX0JPaHNsOGV6TzlzcENwaS1CU0dUby1TVWxHMzNRRg?oc=5",
         "published": "12 Mar 2026, 10:51 AM",
         "iso_date": "2026-03-12T10:51:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
+        "published": "12 Mar 2026, 04:54 AM",
+        "iso_date": "2026-03-12T04:54:01+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjdFV3J1eHJ2RDZTSFFXNmI1OGktVURSRVJIQXNEYnZGcF9nekh4ZDljUnV2bS11LUpnR3NZQjN1MXhyZncybV9ES3QtdmFERV9yQ2JCdnZobGZqWThuNHpzcGlxZEp4ZzZxazE4R2QtOXdJMU9yRXJJTXRGVVozay1xR29DMGk0czBnSEZnTVFBdU16SUF2M2dnUWRzbGJpTTg0ZE1mckdSR3F6WElEeU5FNTQ4cG1VNXVObDRMYw?oc=5",
+        "published": "12 Mar 2026, 03:05 PM",
+        "iso_date": "2026-03-12T15:05:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,10 +266,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Announces Eid Al-Fitr Prayer at 6:00 AM in Grand Mosques",
-        "link": "https://www.newsofbahrain.com/bahrain/128358.html",
+        "title": "U.S. Military Refueling Plane Crashes in Iraq; Rescue Efforts Underway",
+        "link": "https://www.newsofbahrain.com/world/128360.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ijShnQW18D_2026-03-12_1773354391resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil Prices Soar Above $100 Amid Iran-US Tensions",
+        "link": "https://www.newsofbahrain.com/world/128359.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qCsRrSgJM1_2026-03-12_1773352621resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Announces Eid Al-Fitr Prayer at 6:00 AM in Grand Mosques",
+        "link": "https://www.newsofbahrain.com/bahrain/128358.html",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_7LkPt85q2D_2026-03-12_1773350381resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +298,8 @@
       {
         "title": "Kuwait Intercepts Missiles and Drones in Early Morning Attack",
         "link": "https://www.newsofbahrain.com/world/128357.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_VEOtXQijPe_2026-03-12_1773335368resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,30 +308,10 @@
       {
         "title": "Indian-flagged tankers safely pass through Strait of Hormuz amid regional tensions",
         "link": "https://www.newsofbahrain.com/world/128356.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qSvg4RZdEj_2026-03-12_1773331243resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Vows to Keep Strait of Hormuz Closed Following Supreme Leader’s Directive",
-        "link": "https://www.newsofbahrain.com/world/128355.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ahmEV5DtSc_2026-03-12_1773329222resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Family Mourns Father of Five Killed in Abu Dhabi Strike",
-        "link": "https://www.newsofbahrain.com/world/128354.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W8pUivVncX_2026-03-12_1773319744resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qSvg4RZdEj_2026-03-12_1773331243resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 21:57:07 UTC"
+  "fetched_at": "2026-03-12 22:28:22 UTC"
 }
