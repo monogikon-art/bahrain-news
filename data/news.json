@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 14
     }
   },
   "articles": {
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 106 missiles, 177 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yOFd0RkRSZGtTSm40VVJ0emRQY3pqUW83blZIclhDRUNkSkwxUGVISmlWT05hMlBsMDdSbEpkdW9kUVgxUUFEVTc3M3p2RFdBell3?oc=5",
-        "published": "11 Mar 2026, 12:21 PM",
-        "iso_date": "2026-03-11T12:21:30+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain arrests 4 nationals for spying for Iran’s Revolutionary Guard",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xV0ZTZ3paWlpWVzlqLU5MVHhnc1Mwd1dGRHJ5bXlQZnZ1YVJLdklQWk4tU1dhX2otRVhkNFFaQVdqc1hMWVoyRGRXUTRQQVBlUmc?oc=5",
         "published": "12 Mar 2026, 07:35 AM",
@@ -86,6 +76,16 @@
         "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWjh1cW40STd3aW40ZmR6Tzc4QTh5T3dNZlJTZnh2dWxpMFc2eHkzdVprenJVUkNCanlaaHhacXp2Zkl6ak9JT1JJWTVKNGJGTmIybzY4N0xZam5YUVMyMUV3YUw4MlJsaW9tcTFaQkMyakRwaGZOUzNvckF6OG9lRmRDcmFMa0d4di1nV0RPRzFjcUEwajJqQWFaSkwtZFduQmJDbTh2Rk42a3A2emNhQlBuN2RvUUdrRXg1akhNb0VMSzJoM2NpN1ZCeFk4SWpVM21Sb2xEa3lsOEtIa3FHeXZydXMxcUg5Q2E3cFRHc3NTYVpyUTBHZ3l1RUhhRUhoMEhQVHdHN0dJeS1OMVgxVVZTbFU4NFJGNWl0M3ZMLUVBWFQ4aFNCRGZOTVplU21XSTVFajJsaGhBMXRGZnVTNFd5eE1ub3VCX2NIOXQ0dVJHczdxX1VaQXh1TEE1X08wNWlZMFBEcVRQa2VqZHJ6V0U1Q2xwUXd4TENseVVmZnlXUEozcTJ4dWlhbjhGVDJTeUxNTFBseHI5Ni1SbkNBdDF0eEFCNFhreDNoRGgtNFdWSENob3RtWUtKTVViR01fdTFVZEs4Rm9RUHFjVUtZZ2UwTlVhVk1GMzBSVjJCTVNsRGpRM2NwUjc4NA?oc=5",
         "published": "12 Mar 2026, 02:24 AM",
         "iso_date": "2026-03-12T02:24:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "WRAP-UP: EVACUATIONS INTENSIFY AS WEST ASIA CONFLICT SHOWS NO SIGN OF EASING - BERNAMA",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xMGt1Y0lCRVd1dERMRzBpUXZoeFNrR1p0QTRxem5hSlBVbW4tbzZwR3hhMVVncDdBMi15SncxdGlGY1RrbXBacC1qS25CSlZUU0lZMEtldWVXNDg?oc=5",
+        "published": "11 Mar 2026, 01:45 PM",
+        "iso_date": "2026-03-11T13:45:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -276,52 +276,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Muharraq hold off Ahli rally to take Game One",
-        "link": "https://www.newsofbahrain.com/sports/128344.html",
+        "title": "Family Mourns Father of Five Killed in Abu Dhabi Strike",
+        "link": "https://www.newsofbahrain.com/bahrain/128354.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bRSUmH2gyI_2026-03-12_1773316191resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W8pUivVncX_2026-03-12_1773319744resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Sabalenka powers past Osaka, sets last-16 clash with Mboko",
-        "link": "https://www.newsofbahrain.com/sports/128343.html",
+        "title": "Bahrain Interior Minister Condoles Civilian Victim’s Family",
+        "link": "https://www.newsofbahrain.com/bahrain/128351.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sfdC5OYreX_2026-03-12_1773315923resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P7GvMZaEeA_2026-03-12_1773318896resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Ruthless Sinner subdues Fonseca to reach Indian Wells quarter-finals",
-        "link": "https://www.newsofbahrain.com/sports/128342.html",
+        "title": "IDF Claims Strike on Facility Linked to Iran’s Nuclear Programme",
+        "link": "https://www.newsofbahrain.com/world/128350.html",
         "published": "12 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-12T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JAqnaMf9Re_2026-03-12_1773315674resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UPEVyr4Ih7_2026-03-12_1773318235resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Under Iran fire, UAE president writes poem to nation’s defenders",
+        "link": "https://www.newsofbahrain.com/world/128349.html",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ajYnr48IOV_2026-03-12_1773317546resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "IEA Announces Record Release of 400 Million Barrels",
+        "link": "https://www.newsofbahrain.com/world/128348.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fbzuLONVGJ_2026-03-12_1773317050resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Overstay Fine Waiver for Visit Visa Holders in Bahrain",
         "link": "https://www.newsofbahrain.com/bahrain/128341.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nseO8fyM1X_2026-03-12_1773314320resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "English clubs stumble",
-        "link": "https://www.newsofbahrain.com/sports/128340.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9vFVL5QBRG_2026-03-12_1773314123resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nseO8fyM1X_2026-03-12_1773314320thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -346,62 +356,12 @@
         "category": "Latest"
       },
       {
-        "title": "UN Adopts Bahrain-Led Resolution Condemning Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/128335.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KurcLsk7aX_2026-03-12_1773311500thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Responds to Iranian Attack on Fuel Facility; UN Backs Regional Security Resolution",
-        "link": "https://www.newsofbahrain.com/bahrain/128331.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H5GrZC7pwF_2026-03-12_1773304507thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Two Tankers Hit Near Basra, Iraq Forced to Suspends Oil Port Operations",
         "link": "https://www.newsofbahrain.com/world/128315.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_gQwxfAIn1e_2026-03-12_1773295508thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN Security Council Adopts Bahrain-Led Resolution on Attacks in the Gulf",
-        "link": "https://www.newsofbahrain.com/bahrain/128308.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yzIm81WiRl_2026-03-11_1773268152thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Air India Group to Operate 58 Flights to West Asia on 12 March 2026",
-        "link": "https://www.newsofbahrain.com/world/128305.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x0eWLd7SUo_2026-03-11_1773263442thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait National Guard Neutralizes Drone Warhead in Fuel Tank",
-        "link": "https://www.newsofbahrain.com/world/128304.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVzy2AskKn_2026-03-11_1773258190thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -569,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 11:52:18 UTC"
+  "fetched_at": "2026-03-12 12:53:31 UTC"
 }
