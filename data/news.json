@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX21NVG5ZT2tLcS1SdlFqdXRFdzhXX1RIcVBueGllWFdsSWtwcjg0SHU0dVYwQzBPUllZUjd3NnhjcDBsemZ0M280MDJyRjQzcGZjTmlrbXBhQ19BcDd1N0xvTC1rSUs2djBQbnZ5SEhhTGJuV3VVREdvZmZ2X2RBZUhRXzRhZ01XRlpiUkJ2dXdZLWEwTW9YUjJIS1VIWFpPdWR2VVlEWXl5aVVwRzZROHFMeW55N3FreWs3Y1ZuOVFiN0l2dVJZdTJyaFo?oc=5",
+        "published": "12 Mar 2026, 11:38 AM",
+        "iso_date": "2026-03-12T11:38:06+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain arrests 4 suspected Iranian Revolutionary Guard spies",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aQS1EVTdHcmxUQkxiUHEtWTBnNlVueG1vWWlQV0M1ZEVQckRWbnhLMVdGeFllRXdhZ05oVkJ3T1NIY3VyS0xRcEdRY05FRk9EanVR?oc=5",
@@ -52,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
-        "published": "12 Mar 2026, 04:54 AM",
-        "iso_date": "2026-03-12T04:54:01+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
         "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWjh1cW40STd3aW40ZmR6Tzc4QTh5T3dNZlJTZnh2dWxpMFc2eHkzdVprenJVUkNCanlaaHhacXp2Zkl6ak9JT1JJWTVKNGJGTmIybzY4N0xZam5YUVMyMUV3YUw4MlJsaW9tcTFaQkMyakRwaGZOUzNvckF6OG9lRmRDcmFMa0d4di1nV0RPRzFjcUEwajJqQWFaSkwtZFduQmJDbTh2Rk42a3A2emNhQlBuN2RvUUdrRXg1akhNb0VMSzJoM2NpN1ZCeFk4SWpVM21Sb2xEa3lsOEtIa3FHeXZydXMxcUg5Q2E3cFRHc3NTYVpyUTBHZ3l1RUhhRUhoMEhQVHdHN0dJeS1OMVgxVVZTbFU4NFJGNWl0M3ZMLUVBWFQ4aFNCRGZOTVplU21XSTVFajJsaGhBMXRGZnVTNFd5eE1ub3VCX2NIOXQ0dVJHczdxX1VaQXh1TEE1X08wNWlZMFBEcVRQa2VqZHJ6V0U1Q2xwUXd4TENseVVmZnlXUEozcTJ4dWlhbjhGVDJTeUxNTFBseHI5Ni1SbkNBdDF0eEFCNFhreDNoRGgtNFdWSENob3RtWUtKTVViR01fdTFVZEs4Rm9RUHFjVUtZZ2UwTlVhVk1GMzBSVjJCTVNsRGpRM2NwUjc4NA?oc=5",
         "published": "12 Mar 2026, 02:24 AM",
@@ -82,16 +82,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkJaT0VhRklEZUNidDNhMFJvWWNjTjQwNEtJQ3A3bC1MV3lITi1VcXRLb2VkNF9VSnUxcC03Y0dpX0FvVmJaUWhHQzlId3Vod2UydndxcTBWYVE5NlY4M09SNXJQdDI1TWF6OU9fTGRnVUthMmN1aC1QazJmXzNNbVFCZ0ZZSXYxU0x3dUJsem1QaWV0eHEzdW50YVpST19oLXFwT1NibUswYXFNTnVieVJ0ZHl3OF9KcG80UXRnSmtENjEtU3YtbQ?oc=5",
-        "published": "12 Mar 2026, 09:47 AM",
-        "iso_date": "2026-03-12T09:47:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain: Fuel Tanks Targeted By Iranian Aggression",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3BWc3VfUHQyOG9qcGVYcF9EZmxSSl91V1A1OFNubU42WGllNWdtMHZkeDFKc0dGU2RuWmxGUXZWblZnaHhpb2YxaFVPWll6S09JN0tuU2hJSlB3MnNWTTNaSWI3YlhvX010UFpsMC1ucXc4UGg5RXFmRHlyLVZ1VENxdjBMTnV2bVZjQ05YRzFfeXhMbEdDTFFCeVY1VDA?oc=5",
         "published": "12 Mar 2026, 01:00 AM",
@@ -104,52 +94,52 @@
     ],
     "gdn": [
       {
-        "title": "Overstay fines waived for expired visit visas holders",
-        "link": "https://www.gdnonline.com/Details/1378401/Overstay-fines-waived-for-expired-visit-visas-holders",
-        "published": "12 Mar 2026",
-        "iso_date": "2026-03-12T00:00:00",
+        "title": "Bahrain sets 6am start for Eid prayers in mosques; no open-air prayers this year",
+        "link": "https://www.gdnonline.com/Details/1378431/Bahrain-sets-6am-start-for-Eid-prayers-in-mosques-no-open-air-prayers-this-year",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312134658npra1_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312233329website(10)_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Fire contained at fuel storage facility in Muharraq Governorate following Iranian attack",
-        "link": "https://www.gdnonline.com/Details/1378384/Fire-contained-at-fuel-storage-facility-in-Muharraq-Governorate-following-Iranian-attack",
-        "published": "12 Mar 2026",
-        "iso_date": "2026-03-12T00:00:00",
+        "title": "New portal for residents to claim flood damage relief",
+        "link": "https://www.gdnonline.com/Details/1378430/New-portal-for-residents-to-claim-flood-damage-relief",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312114105cd1_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260312_230124_1_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Gulf Air flights remain suspended as Bahrain airspace closure continues",
-        "link": "https://www.gdnonline.com/Details/1378390/Gulf-Air-flights-remain-suspended-as-Bahrain-airspace-closure-continues",
-        "published": "12 Mar 2026",
-        "iso_date": "2026-03-12T00:00:00",
+        "title": "Proposal on profitâsharing by public firms may be rejected",
+        "link": "https://www.gdnonline.com/Details/1378426/Proposal-on-profitâsharing-by-public-firms-may-be-rejected",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312121915gf2_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312230658website(1)_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "BDF General Command: 112 missiles, 186 drones destroyed",
-        "link": "https://www.gdnonline.com/Details/1378386/BDF-General-Command-112-missiles,-186-drones-destroyed",
-        "published": "12 Mar 2026",
-        "iso_date": "2026-03-12T00:00:00",
+        "title": "Society documents Iranian crimes",
+        "link": "https://www.gdnonline.com/Details/1378429/Society-documents-Iranian-crimes",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312120035bdf12_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312232709website(8)_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Traffic directorate announces closure of Riya Road in both directions",
-        "link": "https://www.gdnonline.com/Details/1378358/Traffic-directorate-announces-closure-of-Riya-Road-in-both-directions-",
-        "published": "12 Mar 2026",
-        "iso_date": "2026-03-12T00:00:00",
+        "title": "Visit visa holders exempted from paying overstay fines",
+        "link": "https://www.gdnonline.com/Details/1378428/Visit-visa-holders-exempted-from-paying-overstay-fines",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312055933moi.jpeg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312232606website(7)_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +149,7 @@
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312125531baa_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312125531baa_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +159,7 @@
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/2026031200152820161223135614cbb_building_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/2026031200152820161223135614cbb_building_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +169,7 @@
         "published": "11 Mar 2026",
         "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/20260310_224027_0_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260310_224027_0_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +179,7 @@
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_015129_1_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_015129_1_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +189,7 @@
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_015130_1_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_015130_1_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -209,7 +199,7 @@
         "published": "11 Mar 2026",
         "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311110031irn_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311110031irn_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -219,7 +209,7 @@
         "published": "11 Mar 2026",
         "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311151621tudor(1)_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311151621tudor(1)_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -229,7 +219,17 @@
         "published": "11 Mar 2026",
         "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311103621lm1_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/20260311103621lm1_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "'Sinners' and 'One Battle After Another' face off at drama-filled Oscars",
+        "link": "https://www.gdnonline.com/Details/1378419/Sinners-and-One-Battle-After-Another-face-off-at-drama-filled-Oscars-",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_211338_0_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -239,17 +239,7 @@
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312120334websitepicsize-2026-03-12t121054.983_T.jpg?20260312",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "'Sinners' and 'One Battle After Another' face off at drama-filled Oscars",
-        "link": "https://www.gdnonline.com/Details/1378397/Sinners-and-One-Battle-After-Another-face-off-at-drama-filled-Oscars-",
-        "published": "12 Mar 2026",
-        "iso_date": "2026-03-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312132948websitepicsize-2026-03-12t133714.528_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312120334websitepicsize-2026-03-12t121054.983_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -259,7 +249,7 @@
         "published": "11 Mar 2026",
         "iso_date": "2026-03-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260311/202603111108212026-03-10t224045z_1625805506_rc2ucja1j3lz_rtrmadp_3_awards-oscars-performers(1)_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260311/202603111108212026-03-10t224045z_1625805506_rc2ucja1j3lz_rtrmadp_3_awards-oscars-performers(1)_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       }
@@ -519,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 21:29:47 UTC"
+  "fetched_at": "2026-03-12 21:57:07 UTC"
 }
