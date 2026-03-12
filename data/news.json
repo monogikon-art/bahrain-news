@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,20 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
-        "published": "12 Mar 2026, 04:54 AM",
-        "iso_date": "2026-03-12T04:54:01+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain repositions aircraft to enhance operational readiness: Civil Aviation Affairs",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnhBY0szZndla0ROV3NlYTdYODQ2MmZaVlV2amxQYWZxUE5RRUx6NDI2Y2UtMUhkZ2hQbUNKN09fQWlsZ0tzWENyUXRUY210R0R2LWVKdDhZLXlzVldaUnlNQ21EdHB6cEpUNUl3WnQ5cjlEZzluNV9fZW94ZVd5NHV3V3pkVFN3NmktWU1xeGRxVEVlUTB2RTdmb0t2d2EzVHc5UndiVXhTa3FubkRmdm5QUl9hVEhpd01fRDVRTm45elNndTdsY0ZOM3A1RENrZ1HSAdcBQVVfeXFMUDJjb0ZkTnlfNWZFUng4WmtwT3VDSzdlMV9lQ0JfdkE4c0l4cmFRYjd5dVkyQTBVSHhjZmZQcG9lUm5VMmRPNUMtYUlodnFEY0tfbFctazEzeVNBbWwwVU45bWkzWkdrQ1dXWmoyalllQ05XZ0piZW5WcGNQdkw4ZHVzYlBCazY4WlluTkZhY3dnOTZxQUNzVHREcW9BVlpvQkQtR19PSHVpMkhpTFFLdFJHUENLelhJYTE5dVYyRHo2T1FITkdDRDg2Ty0xcDg0dWc4TEx5NGM?oc=5",
-        "published": "11 Mar 2026, 09:09 AM",
-        "iso_date": "2026-03-11T09:09:00+00:00",
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWjh1cW40STd3aW40ZmR6Tzc4QTh5T3dNZlJTZnh2dWxpMFc2eHkzdVprenJVUkNCanlaaHhacXp2Zkl6ak9JT1JJWTVKNGJGTmIybzY4N0xZam5YUVMyMUV3YUw4MlJsaW9tcTFaQkMyakRwaGZOUzNvckF6OG9lRmRDcmFMa0d4di1nV0RPRzFjcUEwajJqQWFaSkwtZFduQmJDbTh2Rk42a3A2emNhQlBuN2RvUUdrRXg1akhNb0VMSzJoM2NpN1ZCeFk4SWpVM21Sb2xEa3lsOEtIa3FHeXZydXMxcUg5Q2E3cFRHc3NTYVpyUTBHZ3l1RUhhRUhoMEhQVHdHN0dJeS1OMVgxVVZTbFU4NFJGNWl0M3ZMLUVBWFQ4aFNCRGZOTVplU21XSTVFajJsaGhBMXRGZnVTNFd5eE1ub3VCX2NIOXQ0dVJHczdxX1VaQXh1TEE1X08wNWlZMFBEcVRQa2VqZHJ6V0U1Q2xwUXd4TENseVVmZnlXUEozcTJ4dWlhbjhGVDJTeUxNTFBseHI5Ni1SbkNBdDF0eEFCNFhreDNoRGgtNFdWSENob3RtWUtKTVViR01fdTFVZEs4Rm9RUHFjVUtZZ2UwTlVhVk1GMzBSVjJCTVNsRGpRM2NwUjc4NA?oc=5",
+        "published": "12 Mar 2026, 02:24 AM",
+        "iso_date": "2026-03-12T02:24:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWjh1cW40STd3aW40ZmR6Tzc4QTh5T3dNZlJTZnh2dWxpMFc2eHkzdVprenJVUkNCanlaaHhacXp2Zkl6ak9JT1JJWTVKNGJGTmIybzY4N0xZam5YUVMyMUV3YUw4MlJsaW9tcTFaQkMyakRwaGZOUzNvckF6OG9lRmRDcmFMa0d4di1nV0RPRzFjcUEwajJqQWFaSkwtZFduQmJDbTh2Rk42a3A2emNhQlBuN2RvUUdrRXg1akhNb0VMSzJoM2NpN1ZCeFk4SWpVM21Sb2xEa3lsOEtIa3FHeXZydXMxcUg5Q2E3cFRHc3NTYVpyUTBHZ3l1RUhhRUhoMEhQVHdHN0dJeS1OMVgxVVZTbFU4NFJGNWl0M3ZMLUVBWFQ4aFNCRGZOTVplU21XSTVFajJsaGhBMXRGZnVTNFd5eE1ub3VCX2NIOXQ0dVJHczdxX1VaQXh1TEE1X08wNWlZMFBEcVRQa2VqZHJ6V0U1Q2xwUXd4TENseVVmZnlXUEozcTJ4dWlhbjhGVDJTeUxNTFBseHI5Ni1SbkNBdDF0eEFCNFhreDNoRGgtNFdWSENob3RtWUtKTVViR01fdTFVZEs4Rm9RUHFjVUtZZ2UwTlVhVk1GMzBSVjJCTVNsRGpRM2NwUjc4NA?oc=5",
-        "published": "12 Mar 2026, 02:24 AM",
-        "iso_date": "2026-03-12T02:24:15+00:00",
+        "title": "Bahrain: Fuel Tanks Targeted By Iranian Aggression",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3BWc3VfUHQyOG9qcGVYcF9EZmxSSl91V1A1OFNubU42WGllNWdtMHZkeDFKc0dGU2RuWmxGUXZWblZnaHhpb2YxaFVPWll6S09JN0tuU2hJSlB3MnNWTTNaSWI3YlhvX010UFpsMC1ucXc4UGg5RXFmRHlyLVZ1VENxdjBMTnV2bVZjQ05YRzFfeXhMbEdDTFFCeVY1VDA?oc=5",
+        "published": "12 Mar 2026, 01:00 AM",
+        "iso_date": "2026-03-12T01:00:18+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -83,6 +73,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Fuel tanks hit in Muharraq area",
+        "link": "https://www.gdnonline.com/Details/1378347/Fuel-tanks-hit-in-Muharraq-area",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312035419images(1)_T.jpg?20260312",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Traffic directorate announces closure of Riya Road in both directions",
         "link": "https://www.gdnonline.com/Details/1378358/Traffic-directorate-announces-closure-of-Riya-Road-in-both-directions-",
@@ -94,12 +94,12 @@
         "category": "Latest"
       },
       {
-        "title": "Proposal for pay-and-use public toilets is approved",
-        "link": "https://www.gdnonline.com/Details/1378193/Proposal-for-pay-and-use-public-toilets-is-approved",
+        "title": "Ministry urges people in Hidd, Arad, Qalali & Samaheej to remain in their homes",
+        "link": "https://www.gdnonline.com/Details/1378357/Ministry-urges-people-in-Hidd,-Arad,-Qalali--Samaheej-to-remain-in-their-homes-",
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260311_224626_1_T.jpg?20260312",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312053442moi.jpeg?20260312",
         "source": "gdn",
         "category": "Latest"
       },
@@ -120,16 +120,6 @@
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260312/20260312002134nsnns_T.jpg?20260312",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Majority of British residents continue to shelter in place",
-        "link": "https://www.gdnonline.com/Details/1378319/Majority-of-British-residents-continue-to-shelter-in-place",
-        "published": "12 Mar 2026",
-        "iso_date": "2026-03-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312002203lalala_T.jpg?20260312",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,10 +206,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Responds to Iranian Attack on Fuel Facility; UN Backs Regional Security Resolution",
-        "link": "https://www.newsofbahrain.com/bahrain/128331.html",
+        "title": "Let the cash move",
+        "link": "https://www.newsofbahrain.com/views/128334.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RSEyVZBtvM_2026-03-12_1773306498resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Companies evacuate Dubai financial district",
+        "link": "https://www.newsofbahrain.com/business/128333.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VCSXmGB6Td_2026-03-12_1773305467resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "War transforms Saudi oil pipeline into economic lifeline",
+        "link": "https://www.newsofbahrain.com/business/128332.html",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5ftL9DlJzi_2026-03-12_1773305215resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Responds to Iranian Attack on Fuel Facility; UN Backs Regional Security Resolution",
+        "link": "https://www.newsofbahrain.com/bahrain/128331.html",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_H5GrZC7pwF_2026-03-12_1773304507resized_pic.jpg",
         "source": "newsofbahrain",
@@ -236,22 +256,12 @@
         "category": "Latest"
       },
       {
-        "title": "IEA says members to release 400 mn barrels from oil reserves",
-        "link": "https://www.newsofbahrain.com/business/128329.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FEyQjd70mb_2026-03-12_1773302631resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Kuwait Restores Power After Drone Debris Hits Transmission Lines",
         "link": "https://www.newsofbahrain.com/bahrain/128328.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SuKmPZE9Cv_2026-03-12_1773302104resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SuKmPZE9Cv_2026-03-12_1773302104thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,7 +271,7 @@
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UdRxnNa3qB_2026-03-12_1773300225resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UdRxnNa3qB_2026-03-12_1773300225thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,32 +336,12 @@
         "category": "Latest"
       },
       {
-        "title": "Iraq seeking new oil export routes after Hormuz disruption",
-        "link": "https://www.newsofbahrain.com/business/128271.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
+        "title": "IEA says members to release 400 mn barrels from oil reserves",
+        "link": "https://www.newsofbahrain.com/business/128329.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8kKZxcsSvy_2026-03-11_1773223256thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Global energy body to discuss releasing strategic oil reserves",
-        "link": "https://www.newsofbahrain.com/business/128269.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0pjDQ3bmgM_2026-03-11_1773222791thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Communication in Times of Crisis: When Silence Becomes a Risk",
-        "link": "https://www.newsofbahrain.com/views/128225.html",
-        "published": "10 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sFSo18gBlx_2026-03-10_1773147899thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FEyQjd70mb_2026-03-12_1773302631thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 08:38:46 UTC"
+  "fetched_at": "2026-03-12 09:39:23 UTC"
 }
