@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZjlVVnpDWU5UVU9zMmlHdW9hQTNlbUdPQmhpMHR4MzhGNllySWtWQzZaMHU3N1FtV0dHeFF0a2p6NmRITHBBYkN0d3UzcHVEYzNIUjAweHdFRmRScTNqV2VHYnBaZndlZHN0YkM3MlpZRGVobjV4S2I5a2xrLU5pSlR6RV8tNXdWS3MyRVlNLWVBRkxaOUFLLXRxWWczdUR1UjJNYkxDZC1nX0lDdm1HWTRoYVA?oc=5",
         "published": "11 Mar 2026, 07:48 AM",
         "iso_date": "2026-03-11T07:48:37+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWjh1cW40STd3aW40ZmR6Tzc4QTh5T3dNZlJTZnh2dWxpMFc2eHkzdVprenJVUkNCanlaaHhacXp2Zkl6ak9JT1JJWTVKNGJGTmIybzY4N0xZam5YUVMyMUV3YUw4MlJsaW9tcTFaQkMyakRwaGZOUzNvckF6OG9lRmRDcmFMa0d4di1nV0RPRzFjcUEwajJqQWFaSkwtZFduQmJDbTh2Rk42a3A2emNhQlBuN2RvUUdrRXg1akhNb0VMSzJoM2NpN1ZCeFk4SWpVM21Sb2xEa3lsOEtIa3FHeXZydXMxcUg5Q2E3cFRHc3NTYVpyUTBHZ3l1RUhhRUhoMEhQVHdHN0dJeS1OMVgxVVZTbFU4NFJGNWl0M3ZMLUVBWFQ4aFNCRGZOTVplU21XSTVFajJsaGhBMXRGZnVTNFd5eE1ub3VCX2NIOXQ0dVJHczdxX1VaQXh1TEE1X08wNWlZMFBEcVRQa2VqZHJ6V0U1Q2xwUXd4TENseVVmZnlXUEozcTJ4dWlhbjhGVDJTeUxNTFBseHI5Ni1SbkNBdDF0eEFCNFhreDNoRGgtNFdWSENob3RtWUtKTVViR01fdTFVZEs4Rm9RUHFjVUtZZ2UwTlVhVk1GMzBSVjJCTVNsRGpRM2NwUjc4NA?oc=5",
+        "published": "12 Mar 2026, 02:24 AM",
+        "iso_date": "2026-03-12T02:24:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,42 +206,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Parents face trial over death of premature baby buried near workplace",
+        "link": "https://www.newsofbahrain.com/bahrain/128319.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ADqbu67SZw_2026-03-12_1773298010resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian attacks on civilian sites violate Bahrain’s sovereignty and international law",
+        "link": "https://www.newsofbahrain.com/bahrain/128318.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mDt8bYHWjR_2026-03-12_1773297029resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Germany supports Bahrain sovereignty and security",
+        "link": "https://www.newsofbahrain.com/bahrain/128317.html",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6r3OtAJ4NH_2026-03-12_1773296688resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Arabia shoots down two drones approaching district which houses various foreign embassies.",
+        "link": "https://www.newsofbahrain.com/bahrain/128316.html",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KCt2kYRWu6_2026-03-12_1773296444resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Two Tankers Hit Near Basra, Iraq Forced to Suspends Oil Port Operations",
+        "link": "https://www.newsofbahrain.com/world/128315.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gQwxfAIn1e_2026-03-12_1773295508resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "HH Shaikh Nasser Conveys Condolences to Family of Victim of Iranian Aggression",
         "link": "https://www.newsofbahrain.com/bahrain/128313.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VbAiJpNM3z_2026-03-12_1773276710resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Arrests Four for Spying with Iranian IRGC",
-        "link": "https://www.newsofbahrain.com/bahrain/128311.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SjwQsApGTC_2026-03-12_1773276434resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Aggression Targets Fuel Tanks in Muharraq",
-        "link": "https://www.newsofbahrain.com/bahrain/128310.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_an3g8KMe9H_2026-03-12_1773276297resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Welcomes Historic UN Resolution Condemning Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/128309.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ohCDtYNOgB_2026-03-11_1773271479resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VbAiJpNM3z_2026-03-12_1773276710thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -241,7 +271,7 @@
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yzIm81WiRl_2026-03-11_1773268152resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yzIm81WiRl_2026-03-11_1773268152thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -262,16 +292,6 @@
         "iso_date": "2026-03-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVzy2AskKn_2026-03-11_1773258190thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fire at Abu Dhabi’s Old Airport Brought Under Control",
-        "link": "https://www.newsofbahrain.com/world/128300.html",
-        "published": "11 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U80qHFlwPJ_2026-03-11_1773249261thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 05:33:58 UTC"
+  "fetched_at": "2026-03-12 06:50:55 UTC"
 }
