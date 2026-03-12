@@ -22,16 +22,6 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX21NVG5ZT2tLcS1SdlFqdXRFdzhXX1RIcVBueGllWFdsSWtwcjg0SHU0dVYwQzBPUllZUjd3NnhjcDBsemZ0M280MDJyRjQzcGZjTmlrbXBhQ19BcDd1N0xvTC1rSUs2djBQbnZ5SEhhTGJuV3VVREdvZmZ2X2RBZUhRXzRhZ01XRlpiUkJ2dXdZLWEwTW9YUjJIS1VIWFpPdWR2VVlEWXl5aVVwRzZROHFMeW55N3FreWs3Y1ZuOVFiN0l2dVJZdTJyaFo?oc=5",
-        "published": "12 Mar 2026, 11:38 AM",
-        "iso_date": "2026-03-12T11:38:06+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain arrests 4 suspected Iranian Revolutionary Guard spies",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aQS1EVTdHcmxUQkxiUHEtWTBnNlVueG1vWWlQV0M1ZEVQckRWbnhLMVdGeFllRXdhZ05oVkJ3T1NIY3VyS0xRcEdRY05FRk9EanVR?oc=5",
         "published": "12 Mar 2026, 03:05 AM",
@@ -82,10 +72,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defense Force: Intercepted and destroyed 112 missiles and 186 Iranian drones targeting the Kingdom",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPemVsUkoySXZWTTNlYW53VUJuZldjYl9UclFud0xlMEpfcVVfWWtSMkNDMGZHMjdCLWQ4R0Y4SkcwajlXOWxvUHY1S0Q3TWdOSmwwZEpIaTJzOWpqWUsyc0k5ZVk3bklZalZXVXFkalRxeFRaV0JCRWFUSkJua0hFNlVQN0FaRFhia1JzcDR6am83QXFpQWhaWDFadlBBN1FzUG16NUVLNV94OE85U1Jic2NseVNXVE1TekJRTjYwSkRGLWNvMGtDUGdpNWVJaFdSbTZNSS1FRTlvNnVLYjgtMElNeEJQTm45RFRZNy1n?oc=5",
-        "published": "12 Mar 2026, 01:38 PM",
-        "iso_date": "2026-03-12T13:38:06+00:00",
+        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUNOV0wwUmxKZVdKNXRvenF1MmVvRmxlTVZUZXh0Z2NSQk9DVGxia1JSOTQ0R185S2RMUlctU21SZFRiZ1ZHdmdUT2h3aUgwQndVNU5ZUXpWM3BmWFQ1bGlmcWxEaWo4WGsxVEVpdXRNejFuRXhWbDZiVzEtSVB3a1hoNENNcUp4endOTW1WQVRUTjNpUzc3a3FWUWh5OVlaUzd6aVF6dTFhTUtxcUtRcUg5VkJwTHRHTGdQRktoa3AwQVc4M0lB?oc=5",
+        "published": "12 Mar 2026, 11:14 PM",
+        "iso_date": "2026-03-12T23:14:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkJaT0VhRklEZUNidDNhMFJvWWNjTjQwNEtJQ3A3bC1MV3lITi1VcXRLb2VkNF9VSnUxcC03Y0dpX0FvVmJaUWhHQzlId3Vod2UydndxcTBWYVE5NlY4M09SNXJQdDI1TWF6OU9fTGRnVUthMmN1aC1QazJmXzNNbVFCZ0ZZSXYxU0x3dUJsem1QaWV0eHEzdW50YVpST19oLXFwT1NibUswYXFNTnVieVJ0ZHl3OF9KcG80UXRnSmtENjEtU3YtbQ?oc=5",
+        "published": "12 Mar 2026, 09:47 AM",
+        "iso_date": "2026-03-12T09:47:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -286,6 +286,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "UAE Allows Expats with Expired Visas to Return Without New Entry Permit",
+        "link": "https://www.newsofbahrain.com/world/128362.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dQraYHqCVZ_2026-03-12_1773358452resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Saudi Crown Prince Meets Pakistani Prime Minister in Jeddah to Discuss Regional Security and Bilateral Relations",
         "link": "https://www.newsofbahrain.com/world/128361.html",
         "published": "13 Mar 2026, 09:22 AM",
@@ -298,8 +308,8 @@
       {
         "title": "U.S. Military Refueling Plane Crashes in Iraq; Rescue Efforts Underway",
         "link": "https://www.newsofbahrain.com/world/128360.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ijShnQW18D_2026-03-12_1773354391resized_pic.jpg",
         "source": "newsofbahrain",
@@ -318,20 +328,10 @@
       {
         "title": "Bahrain Announces Eid Al-Fitr Prayer at 6:00 AM in Grand Mosques",
         "link": "https://www.newsofbahrain.com/bahrain/128358.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_7LkPt85q2D_2026-03-12_1773350381resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Intercepts Missiles and Drones in Early Morning Attack",
-        "link": "https://www.newsofbahrain.com/world/128357.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VEOtXQijPe_2026-03-12_1773335368resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 23:24:54 UTC"
+  "fetched_at": "2026-03-12 23:49:46 UTC"
 }
