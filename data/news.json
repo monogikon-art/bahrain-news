@@ -32,20 +32,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain arrests four accused of spying for Tehran",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yU3V2cGVMYTJMajJCOXMtNWUyMURwRU5XZ1k4S3pEN0pLeWJzR2h6Wl9vYVktX0JPaHNsOGV6TzlzcENwaS1CU0dUby1TVWxHMzNRRg?oc=5",
-        "published": "12 Mar 2026, 10:51 AM",
-        "iso_date": "2026-03-12T10:51:00+00:00",
+        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFFOWW5DWUgxQWhtNUxiT0lYWXBKaTJaRFNrSGEza3h5bzZqS0hkblZsdUlSYTM4LTBXVTNwNk9ZUkxNZXNkVkFaZ2dKZWVYNmxVSm95TmtKRWJ0Rm1oVVcyN1hYSERCMlk2UDhkRk5tRW43ZVRzOWc3QndhdVFsR0l3?oc=5",
+        "published": "12 Mar 2026, 07:42 AM",
+        "iso_date": "2026-03-12T07:42:14+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFFOWW5DWUgxQWhtNUxiT0lYWXBKaTJaRFNrSGEza3h5bzZqS0hkblZsdUlSYTM4LTBXVTNwNk9ZUkxNZXNkVkFaZ2dKZWVYNmxVSm95TmtKRWJ0Rm1oVVcyN1hYSERCMlk2UDhkRk5tRW43ZVRzOWc3QndhdVFsR0l3?oc=5",
-        "published": "12 Mar 2026, 07:42 AM",
-        "iso_date": "2026-03-12T07:42:14+00:00",
+        "title": "Bahrain arrests four accused of spying for Tehran",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yU3V2cGVMYTJMajJCOXMtNWUyMURwRU5XZ1k4S3pEN0pLeWJzR2h6Wl9vYVktX0JPaHNsOGV6TzlzcENwaS1CU0dUby1TVWxHMzNRRg?oc=5",
+        "published": "12 Mar 2026, 10:51 AM",
+        "iso_date": "2026-03-12T10:51:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,6 +266,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Kuwait Intercepts Missiles and Drones in Early Morning Attack",
+        "link": "https://www.newsofbahrain.com/world/128357.html",
+        "published": "12 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VEOtXQijPe_2026-03-12_1773335368resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Indian-flagged tankers safely pass through Strait of Hormuz amid regional tensions",
         "link": "https://www.newsofbahrain.com/world/128356.html",
         "published": "12 Mar 2026, 09:22 AM",
@@ -278,8 +288,8 @@
       {
         "title": "Iran Vows to Keep Strait of Hormuz Closed Following Supreme Leader’s Directive",
         "link": "https://www.newsofbahrain.com/world/128355.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
+        "published": "12 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ahmEV5DtSc_2026-03-12_1773329222resized_pic.jpg",
         "source": "newsofbahrain",
@@ -298,20 +308,10 @@
       {
         "title": "Bahrain Interior Minister Condoles Civilian Victim’s Family",
         "link": "https://www.newsofbahrain.com/bahrain/128351.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P7GvMZaEeA_2026-03-12_1773318896resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "IDF Claims Strike on Facility Linked to Iran’s Nuclear Programme",
-        "link": "https://www.newsofbahrain.com/world/128350.html",
         "published": "12 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UPEVyr4Ih7_2026-03-12_1773318235resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P7GvMZaEeA_2026-03-12_1773318896resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -519,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 16:34:00 UTC"
+  "fetched_at": "2026-03-12 17:46:56 UTC"
 }
