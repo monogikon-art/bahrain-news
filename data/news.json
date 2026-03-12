@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 16
+      "count": 18
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -150,6 +150,26 @@
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260312/20260312232606website(7)_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Alba holds virtual AGM for 2026",
+        "link": "https://www.gdnonline.com/Details/1378438/Alba-holds-virtual-AGM-for-2026",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313004225llbtwo_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Khaleeji Bank approves 6pc dividend",
+        "link": "https://www.gdnonline.com/Details/1378436/Khaleeji-Bank-approves-6pc-dividend",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_002139_0.jfif?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -519,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 22:28:22 UTC"
+  "fetched_at": "2026-03-12 22:54:38 UTC"
 }
