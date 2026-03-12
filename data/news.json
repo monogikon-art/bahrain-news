@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjdFV3J1eHJ2RDZTSFFXNmI1OGktVURSRVJIQXNEYnZGcF9nekh4ZDljUnV2bS11LUpnR3NZQjN1MXhyZncybV9ES3QtdmFERV9yQ2JCdnZobGZqWThuNHpzcGlxZEp4ZzZxazE4R2QtOXdJMU9yRXJJTXRGVVozay1xR29DMGk0czBnSEZnTVFBdU16SUF2M2dnUWRzbGJpTTg0ZE1mckdSR3F6WElEeU5FNTQ4cG1VNXVObDRMYw?oc=5",
-        "published": "12 Mar 2026, 03:05 PM",
-        "iso_date": "2026-03-12T15:05:00+00:00",
+        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
+        "published": "12 Mar 2026, 04:54 AM",
+        "iso_date": "2026-03-12T04:54:01+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -76,6 +76,16 @@
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPemVsUkoySXZWTTNlYW53VUJuZldjYl9UclFud0xlMEpfcVVfWWtSMkNDMGZHMjdCLWQ4R0Y4SkcwajlXOWxvUHY1S0Q3TWdOSmwwZEpIaTJzOWpqWUsyc0k5ZVk3bklZalZXVXFkalRxeFRaV0JCRWFUSkJua0hFNlVQN0FaRFhia1JzcDR6am83QXFpQWhaWDFadlBBN1FzUG16NUVLNV94OE85U1Jic2NseVNXVE1TekJRTjYwSkRGLWNvMGtDUGdpNWVJaFdSbTZNSS1FRTlvNnVLYjgtMElNeEJQTm45RFRZNy1n?oc=5",
         "published": "12 Mar 2026, 01:38 PM",
         "iso_date": "2026-03-12T13:38:06+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkJaT0VhRklEZUNidDNhMFJvWWNjTjQwNEtJQ3A3bC1MV3lITi1VcXRLb2VkNF9VSnUxcC03Y0dpX0FvVmJaUWhHQzlId3Vod2UydndxcTBWYVE5NlY4M09SNXJQdDI1TWF6OU9fTGRnVUthMmN1aC1QazJmXzNNbVFCZ0ZZSXYxU0x3dUJsem1QaWV0eHEzdW50YVpST19oLXFwT1NibUswYXFNTnVieVJ0ZHl3OF9KcG80UXRnSmtENjEtU3YtbQ?oc=5",
+        "published": "12 Mar 2026, 09:47 AM",
+        "iso_date": "2026-03-12T09:47:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -509,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-12 19:40:31 UTC"
+  "fetched_at": "2026-03-12 20:31:16 UTC"
 }
