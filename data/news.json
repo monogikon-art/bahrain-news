@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,16 +22,6 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain arrests 4 nationals for spying for Iran’s Revolutionary Guard",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xV0ZTZ3paWlpWVzlqLU5MVHhnc1Mwd1dGRHJ5bXlQZnZ1YVJLdklQWk4tU1dhX2otRVhkNFFaQVdqc1hMWVoyRGRXUTRQQVBlUmc?oc=5",
-        "published": "12 Mar 2026, 03:33 PM",
-        "iso_date": "2026-03-12T15:33:45+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Tatarstan president expresses solidarity with Bahrain after Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0JxV3FPeUZXRXNwMFpSSlpZTFpRR0s2R3VzMFhZME5QNjlBeUJ6ZGVCUWo5clZfVzVfRnpsQ0xhZDloQmJoWEx5RVFuci12LUd4RC1UcG1aQW9kNXV3eUJNcUhfSFB6eTQ5RVZPVXNMa3l0RW1Vb2p3ek5sdmxIdkM4Nk1GMm1IZjIzSzlDT0V0YkR6RHBCTDdiV3B4Z2xBVUdZOQ?oc=5",
         "published": "13 Mar 2026, 01:37 PM",
@@ -42,10 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Chaos in the Skies: Gulf Air and Other Airlines Tackle Massive Airspace Disruptions with Limited Flights and Repatriation Services!",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMW1ad3dJX3dxbEpEYnFYdmVlYXVCT3hEQ0pzLWFrY2p6blRsY0Q0WDh0Ym9KUnVUZ3hsU0F2RmdTSlFXc0hmcDlqR1Jsa1FqMG44NEllMTluOG5ydFRUdDdCbVowTWRoTTZibC1CV29WMDYwSzNZQjFaLTg4M3hYWXh4eHJ6TXFRXzBfS19UbVNMLXQySDY1YW9DWEhhNWxlMnF4b2RaOEdhRGtMeDdST1ZpYmlROVU4MVlJaGg4aklrSlVfc3ZKTWJfenhPTnNENmVLMzVzQTFBX0FoUGFfZlVtaENlLTIxQmRRR1hBeE9iNlVrTVFISmJucUhFUWZZOUpyZi1uYVotUQ?oc=5",
-        "published": "12 Mar 2026, 08:09 PM",
-        "iso_date": "2026-03-12T20:09:12+00:00",
+        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelZOWGxxRGl3TC04dHJ1a1BIVlcyT2laY1FRTmxudGkzTkJCX1JqVk9MazNDOE0yQnFfRzdpX0xWUVd4TDd5NG5NbldiVWowY3JfcXM5MFRZVWNDcTJMdVdYMmVWcmN5eV9Vbm9UZFBScEJBX1FKdmJZeUhTMHd6bnE5Ym1uSG9vRWxESUs0SHFkRHp3X2ZUYi04dG9XTk1UTVNmTy1nT1YtdXRPZ0h5a05aX2NOTmtNblhSRzZ4RUc?oc=5",
+        "published": "13 Mar 2026, 09:54 AM",
+        "iso_date": "2026-03-13T09:54:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,30 +52,30 @@
         "category": "Latest"
       },
       {
+        "title": "Chaos in the Skies: Gulf Air and Other Airlines Tackle Massive Airspace Disruptions with Limited Flights and Repatriation Services!",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMW1ad3dJX3dxbEpEYnFYdmVlYXVCT3hEQ0pzLWFrY2p6blRsY0Q0WDh0Ym9KUnVUZ3hsU0F2RmdTSlFXc0hmcDlqR1Jsa1FqMG44NEllMTluOG5ydFRUdDdCbVowTWRoTTZibC1CV29WMDYwSzNZQjFaLTg4M3hYWXh4eHJ6TXFRXzBfS19UbVNMLXQySDY1YW9DWEhhNWxlMnF4b2RaOEdhRGtMeDdST1ZpYmlROVU4MVlJaGg4aklrSlVfc3ZKTWJfenhPTnNENmVLMzVzQTFBX0FoUGFfZlVtaENlLTIxQmRRR1hBeE9iNlVrTVFISmJucUhFUWZZOUpyZi1uYVotUQ?oc=5",
+        "published": "12 Mar 2026, 08:09 PM",
+        "iso_date": "2026-03-12T20:09:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC energy infrastructure sees continuing attacks in second week of regional conflict",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWG1VaHZmbUQ4aG9yYWdTbGMtVlBEVEpLTndkTlBFRlU1WldGODM4eVk3a1dBUFJIOW1mS3EyMjl4NTdBVDRmbDZFVGVYSmppeWFSajFsMDVoMW55VUJpZ241TG1uMElDYVFVUnYwVFUxQkRYWFlNd2hCX1EwcXN5LTh3aVV5bjFPQl9KNERZbFJHXzFtaE1XNkJqT1g2NmRmRXgwYWk3UzVQdVpoamphaFB1bi04T2tjaUVjT0k2aw?oc=5",
+        "published": "13 Mar 2026, 04:08 AM",
+        "iso_date": "2026-03-13T04:08:02+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Says 114 Ballistic Missiles, 190 Drones Intercepted Since Start of Hostilities",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZEY1X3FLVFVaaGhVcm5sMU9USlQwb0hPSTh5WExHYkZqbExLVXRmQ0lRcTZoaHYxbmk1OXlXXzlaVXdrbWxGWlJfLU9raUprR1pZNzRkUVlMdUtVeWlqODdIR0hzbE1fckM5djRORkZDNVVEMXU0MlA2TlZ1QkU2YTlzbEhrdU0zSG9aM2Y0SVotY1lLNFFqZENRQ3NWMWlmUWQ4N3RNblRMTmFaclFUNHBnRWg1MHJRS19FenMySWE?oc=5",
         "published": "13 Mar 2026, 04:22 AM",
         "iso_date": "2026-03-13T04:22:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjdFV3J1eHJ2RDZTSFFXNmI1OGktVURSRVJIQXNEYnZGcF9nekh4ZDljUnV2bS11LUpnR3NZQjN1MXhyZncybV9ES3QtdmFERV9yQ2JCdnZobGZqWThuNHpzcGlxZEp4ZzZxazE4R2QtOXdJMU9yRXJJTXRGVVozay1xR29DMGk0czBnSEZnTVFBdU16SUF2M2dnUWRzbGJpTTg0ZE1mckdSR3F6WElEeU5FNTQ4cG1VNXVObDRMYw?oc=5",
-        "published": "12 Mar 2026, 03:05 PM",
-        "iso_date": "2026-03-12T15:05:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts, Destroys 114 Missiles, 190 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVEFKVFJuWVN5X0xxckZHTWtjMFZsaFgyaHdwaS1TbFFjeThxUFRjQTJ3eWhaTHlseTd3MHBwNVZqNXN2RUZ6WFE3c053dlVtNnEtbFhQSmkxd0tlcTc1b3ZMNC1WdjY3Q3paZExDVi1tdnBwOGM1Mm13SlZMNld1MHY4UFdpZGVBVUQ2eVl2TmpMeGJSM2pJV3V4RXRDZw?oc=5",
-        "published": "12 Mar 2026, 11:30 PM",
-        "iso_date": "2026-03-12T23:30:05+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 14:50:24 UTC"
+  "fetched_at": "2026-03-13 15:39:27 UTC"
 }
