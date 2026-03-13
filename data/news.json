@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 16
     }
   },
   "articles": {
@@ -246,12 +246,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Protecting the Nation Is a Noble Duty in Challenging Times",
+        "link": "https://www.newsofbahrain.com/bahrain/128432.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6NmRvodlP3_2026-03-13_1773429376resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "IndiGo Introduces Fuel Surcharge Amid Middle East Tensions",
+        "link": "https://www.newsofbahrain.com/world/128431.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oc2ObRNFAm_2026-03-13_1773428592resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "SMEs key to Bahrain’s economic resilience, traders say",
+        "link": "https://www.newsofbahrain.com/bahrain/128430.html",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_He5ZyDNCIF_2026-03-13_1773427697resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Law tightening financial crime penalties heads to Parliament",
+        "link": "https://www.newsofbahrain.com/bahrain/128429.html",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CpV1uHEcqg_2026-03-13_1773427541resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Beach Handball Team Prepares for Asian Games",
+        "link": "https://www.newsofbahrain.com/sports/128428.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Rc1EDOXQ3j_2026-03-13_1773427418resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "700 Bahrainis targeted in major health sector training drive",
         "link": "https://www.newsofbahrain.com/bahrain/128427.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iKo6FkSIsb_2026-03-13_1773426398resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iKo6FkSIsb_2026-03-13_1773426398thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,27 +311,7 @@
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ru8pCiD6zU_2026-03-13_1773425947resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "100% Bahraini nurses in primary health centres",
-        "link": "https://www.newsofbahrain.com/bahrain/128425.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aewbgELUqV_2026-03-13_1773425824resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hidden in Sweets: Drug Parcel Lands Bahraini Housewife Back in Court",
-        "link": "https://www.newsofbahrain.com/bahrain/128424.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N6nwEP7f13_2026-03-13_1773425661resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ru8pCiD6zU_2026-03-13_1773425947thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -291,17 +321,7 @@
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O87IlcDSGo_2026-03-13_1773410019resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "International isolation of Iran now a reality, says UAE's Gargash",
-        "link": "https://www.newsofbahrain.com/bahrain/128402.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hqcZP1NUb7_2026-03-13_1773397956thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O87IlcDSGo_2026-03-13_1773410019thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,16 +342,6 @@
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_8PEeZx43vC_2026-03-13_1773406550thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Strike on Beirut seafront kills 8 as Israel threatens to ‘take territory’",
-        "link": "https://www.newsofbahrain.com/world/128412.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_alenUGc5yC_2026-03-13_1773405120thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 18:37:18 UTC"
+  "fetched_at": "2026-03-13 19:29:07 UTC"
 }
