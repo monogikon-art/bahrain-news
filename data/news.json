@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,10 +42,20 @@
         "category": "Latest"
       },
       {
+        "title": "Tatarstan president expresses solidarity with Bahrain after Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0JxV3FPeUZXRXNwMFpSSlpZTFpRR0s2R3VzMFhZME5QNjlBeUJ6ZGVCUWo5clZfVzVfRnpsQ0xhZDloQmJoWEx5RVFuci12LUd4RC1UcG1aQW9kNXV3eUJNcUhfSFB6eTQ5RVZPVXNMa3l0RW1Vb2p3ek5sdmxIdkM4Nk1GMm1IZjIzSzlDT0V0YkR6RHBCTDdiV3B4Z2xBVUdZOQ?oc=5",
+        "published": "13 Mar 2026, 01:37 PM",
+        "iso_date": "2026-03-13T13:37:51+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Government working to improve crisis communication strategy",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2drN0R1cTRqcEhpZjVaZkN0a0c0TVQ0VzBRVklDUWdhVzNxS0hqWFNRa25RMWhPaktvQjhxWG9WdjE3R3prb1pZbTFQLUFocUcyMGltQUhmSEhzUUtUbUotVWdscHdGaXhBLXBlb0RoM2dYdmoxX2s5VUxvQjhIOTdzLXo3QlRZc3lqT09Ucjl6dEhNWXlOM2xIUVZOSG1sOVpF?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WcVVEN05mWFJUX3BrMlJvTThJSlgwcUxGMk91eGUwYUI5OVpFaGhVeVhsMmJIN0ZjeDZER21BSDlBY3Y3b1JORGh4dGI1NWM4eVJZ?oc=5",
         "published": "13 Mar 2026, 09:03 PM",
-        "iso_date": "2026-03-13T21:03:50+00:00",
+        "iso_date": "2026-03-13T21:03:03+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,6 +256,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Trump says US bombed Iran's Kharg Island, threatens oil infrastructure",
+        "link": "https://www.newsofbahrain.com/world/128435.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AKCqvoG1ms_2026-03-13_1773444882resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "HM King Reaffirms Bahrain’s Commitment to Peace and Stability",
         "link": "https://www.newsofbahrain.com/bahrain/128434.html",
         "published": "14 Mar 2026, 09:22 AM",
@@ -258,8 +278,8 @@
       {
         "title": "Shaikha Sheema Visits Injured Victims at Salmaniya Medical Complex",
         "link": "https://www.newsofbahrain.com/bahrain/128433.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_fTXKF8SVHR_2026-03-13_1773434499resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,8 +298,8 @@
       {
         "title": "IndiGo Introduces Fuel Surcharge Amid Middle East Tensions",
         "link": "https://www.newsofbahrain.com/world/128431.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_oc2ObRNFAm_2026-03-13_1773428592resized_pic.jpg",
         "source": "newsofbahrain",
@@ -291,7 +311,7 @@
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_He5ZyDNCIF_2026-03-13_1773427697resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_He5ZyDNCIF_2026-03-13_1773427697thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,16 +342,6 @@
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_tIewsKlTOi_2026-03-13_1773409374thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini Rapper Flipperachi Cancels India Shows Amid Middle East Tensions",
-        "link": "https://www.newsofbahrain.com/world/128416.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8PEeZx43vC_2026-03-13_1773406550thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 23:25:04 UTC"
+  "fetched_at": "2026-03-13 23:50:50 UTC"
 }
