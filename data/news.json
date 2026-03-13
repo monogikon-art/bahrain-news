@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,16 +16,46 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 15
     }
   },
   "articles": {
     "bna": [
       {
+        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjF0TWJ6Q3JOakZNR0FxYlFHbGdCM3U5eTJPajNjd0JueG43eGtpTk12S2VYY3M5ZndVX1FrU0xpM2Qyd045c0l4Sk5odktqMkdvTUotWWd0MW9vOHkzYmxrWktDQ3ZUTi1ULTRKcFlMRGg4S3FNcnA2MC1HWDk4T010Zm16b3VsSW51SlFqczhDa2czOEl5UHRzU1hLc01rYmVORG1kSWNBblpRRVdXRVpKWlZvMXVBRWZRZDhnRWlaLWpOZEJlMjdDaw?oc=5",
+        "published": "13 Mar 2026, 10:00 AM",
+        "iso_date": "2026-03-13T10:00:01+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
+        "published": "12 Mar 2026, 11:15 PM",
+        "iso_date": "2026-03-12T23:15:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s Gulf Air Removes Aircraft From Danger Zone",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORTltVEVJUGtSQ3l1SjVjYUgtRmF1MWhwdFYxNVdtQ1JMRTRMRFNiU0hSSkdYQVBpWjhyNVlDYjBVVU1EVDhVbEM2ZHNDZFY1TzRUTTZrdTNsV0I5WXNjVVpValIweHZ6R196c2J6S2p2Yjl6bU1hNEhFdmpWdGZfM0tLdmJITzZFX2NicEVBdU1vQXBNVHFZY21lUkZzbWVkMm5QSA?oc=5",
+        "published": "12 Mar 2026, 10:13 PM",
+        "iso_date": "2026-03-12T22:13:45+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Will F1 cancel Bahrain and Saudi Arabia races? Will they be replaced? Key points explained",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFdUX01OemdycExpOUhWaEdST0ZQNlVVXzV0UmV4ZDFVT1dCb0JqTFNMVExPbURyek9NQjVWZ3g2YlFaSHZhd0ZGUTZPbXp6cGptZ1JSM2c0MkUydUR4MjNiaXZRc1g5ZnVzSzBya0dRX3N5NU9GU05rMlNLSGxJSDJqR2FiUkl2aXczYWMwVjdXcHlWVGRIdWhFZVlnd1Y2T2hYSnpRWVY4XzBNTl9WZEVn?oc=5",
-        "published": "13 Mar 2026, 04:07 PM",
-        "iso_date": "2026-03-13T16:07:00+00:00",
+        "published": "13 Mar 2026, 04:37 PM",
+        "iso_date": "2026-03-13T16:37:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -36,46 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0JxV3FPeUZXRXNwMFpSSlpZTFpRR0s2R3VzMFhZME5QNjlBeUJ6ZGVCUWo5clZfVzVfRnpsQ0xhZDloQmJoWEx5RVFuci12LUd4RC1UcG1aQW9kNXV3eUJNcUhfSFB6eTQ5RVZPVXNMa3l0RW1Vb2p3ek5sdmxIdkM4Nk1GMm1IZjIzSzlDT0V0YkR6RHBCTDdiV3B4Z2xBVUdZOQ?oc=5",
         "published": "13 Mar 2026, 01:37 PM",
         "iso_date": "2026-03-13T13:37:51+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelZOWGxxRGl3TC04dHJ1a1BIVlcyT2laY1FRTmxudGkzTkJCX1JqVk9MazNDOE0yQnFfRzdpX0xWUVd4TDd5NG5NbldiVWowY3JfcXM5MFRZVWNDcTJMdVdYMmVWcmN5eV9Vbm9UZFBScEJBX1FKdmJZeUhTMHd6bnE5Ym1uSG9vRWxESUs0SHFkRHp3X2ZUYi04dG9XTk1UTVNmTy1nT1YtdXRPZ0h5a05aX2NOTmtNblhSRzZ4RUc?oc=5",
-        "published": "13 Mar 2026, 09:54 AM",
-        "iso_date": "2026-03-13T09:54:54+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "32 injured in Iranian drone attack on Bahrain as Gulf states intercept missiles",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQk8yM2dqRUttNzBCeEMxT3k2enNLLUM0VEt3THRNUmZCVkFrc3Z5V1kza1JXZFVNd1BHSFpCRnAyUzVSUkNBSGY5XzMwTmFqbVViczllMnlFVFdob1hlc0p5ODdGc1QzdW9QQ2pIUkhsUVJId2pvVmZxekY0SGZEY0lqZHlURVJMSEh6R0VYRWs4QV84ZlJjNjZReHRBeGlLS0dseXQzUGpnV0FtMC1NanhRXzFNR1RwZjk0alR3QVd1UHVqOVFEem9SUQ?oc=5",
-        "published": "13 Mar 2026, 07:12 AM",
-        "iso_date": "2026-03-13T07:12:27+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Chaos in the Skies: Gulf Air and Other Airlines Tackle Massive Airspace Disruptions with Limited Flights and Repatriation Services!",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMW1ad3dJX3dxbEpEYnFYdmVlYXVCT3hEQ0pzLWFrY2p6blRsY0Q0WDh0Ym9KUnVUZ3hsU0F2RmdTSlFXc0hmcDlqR1Jsa1FqMG44NEllMTluOG5ydFRUdDdCbVowTWRoTTZibC1CV29WMDYwSzNZQjFaLTg4M3hYWXh4eHJ6TXFRXzBfS19UbVNMLXQySDY1YW9DWEhhNWxlMnF4b2RaOEdhRGtMeDdST1ZpYmlROVU4MVlJaGg4aklrSlVfc3ZKTWJfenhPTnNENmVLMzVzQTFBX0FoUGFfZlVtaENlLTIxQmRRR1hBeE9iNlVrTVFISmJucUhFUWZZOUpyZi1uYVotUQ?oc=5",
-        "published": "12 Mar 2026, 08:09 PM",
-        "iso_date": "2026-03-12T20:09:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC energy infrastructure sees continuing attacks in second week of regional conflict",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWG1VaHZmbUQ4aG9yYWdTbGMtVlBEVEpLTndkTlBFRlU1WldGODM4eVk3a1dBUFJIOW1mS3EyMjl4NTdBVDRmbDZFVGVYSmppeWFSajFsMDVoMW55VUJpZ241TG1uMElDYVFVUnYwVFUxQkRYWFlNd2hCX1EwcXN5LTh3aVV5bjFPQl9KNERZbFJHXzFtaE1XNkJqT1g2NmRmRXgwYWk3UzVQdVpoamphaFB1bi04T2tjaUVjT0k2aw?oc=5",
-        "published": "13 Mar 2026, 04:08 AM",
-        "iso_date": "2026-03-13T04:08:02+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,52 +246,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "700 Bahrainis targeted in major health sector training drive",
+        "link": "https://www.newsofbahrain.com/bahrain/128427.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iKo6FkSIsb_2026-03-13_1773426398resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "99% of Bahraini homes stay within normal electricity use",
+        "link": "https://www.newsofbahrain.com/bahrain/128426.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ru8pCiD6zU_2026-03-13_1773425947resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "100% Bahraini nurses in primary health centres",
+        "link": "https://www.newsofbahrain.com/bahrain/128425.html",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aewbgELUqV_2026-03-13_1773425824resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Hidden in Sweets: Drug Parcel Lands Bahraini Housewife Back in Court",
+        "link": "https://www.newsofbahrain.com/bahrain/128424.html",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N6nwEP7f13_2026-03-13_1773425661resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Trump: US May Escort Oil Tankers Through Strait of Hormuz",
         "link": "https://www.newsofbahrain.com/world/128423.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_O87IlcDSGo_2026-03-13_1773410019resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Annai Tamil Mandram Arranges First Chartered Flight from Bahrain to Chennai",
-        "link": "https://www.newsofbahrain.com/world/128421.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tIewsKlTOi_2026-03-13_1773409374resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Early F1 leader Russell says ‘championship means nothing at this point",
-        "link": "https://www.newsofbahrain.com/sports/128420.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jq4RYZDtfB_2026-03-13_1773407011resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Verstappen jokes new F1 cars ‘more like Mario Kart’",
-        "link": "https://www.newsofbahrain.com/sports/128419.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hTzHYCFNg9_2026-03-13_1773406797resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "World champion Norris says McLaren must ‘improve in all areas’",
-        "link": "https://www.newsofbahrain.com/sports/128418.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0yvwJCIgeK_2026-03-13_1773406671resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -316,42 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Psychiatric review ordered in drug parcel appeal",
-        "link": "https://www.newsofbahrain.com/bahrain/128397.html",
+        "title": "Annai Tamil Mandram Arranges First Chartered Flight from Bahrain to Chennai",
+        "link": "https://www.newsofbahrain.com/world/128421.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_voPuFp73q8_2026-03-13_1773395890thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura to vote on nursery licensing amendment",
-        "link": "https://www.newsofbahrain.com/bahrain/128396.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JXSs94NEMk_2026-03-13_1773395759thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura Council to debate plans to channel more state company earnings into general budget",
-        "link": "https://www.newsofbahrain.com/bahrain/128395.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xJZ9batKMG_2026-03-13_1773395627thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Expats praised for loyalty during Iranian attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/128394.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8cumftNbgv_2026-03-13_1773395153thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tIewsKlTOi_2026-03-13_1773409374thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 17:32:19 UTC"
+  "fetched_at": "2026-03-13 18:37:18 UTC"
 }
