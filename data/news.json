@@ -22,16 +22,6 @@
   "articles": {
     "bna": [
       {
-        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
-        "published": "12 Mar 2026, 11:15 PM",
-        "iso_date": "2026-03-12T23:15:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain arrests 4 nationals for spying for Iran’s Revolutionary Guard",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xV0ZTZ3paWlpWVzlqLU5MVHhnc1Mwd1dGRHJ5bXlQZnZ1YVJLdklQWk4tU1dhX2otRVhkNFFaQVdqc1hMWVoyRGRXUTRQQVBlUmc?oc=5",
         "published": "12 Mar 2026, 03:33 PM",
@@ -42,10 +32,30 @@
         "category": "Latest"
       },
       {
+        "title": "Tatarstan president expresses solidarity with Bahrain after Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0JxV3FPeUZXRXNwMFpSSlpZTFpRR0s2R3VzMFhZME5QNjlBeUJ6ZGVCUWo5clZfVzVfRnpsQ0xhZDloQmJoWEx5RVFuci12LUd4RC1UcG1aQW9kNXV3eUJNcUhfSFB6eTQ5RVZPVXNMa3l0RW1Vb2p3ek5sdmxIdkM4Nk1GMm1IZjIzSzlDT0V0YkR6RHBCTDdiV3B4Z2xBVUdZOQ?oc=5",
+        "published": "13 Mar 2026, 01:37 PM",
+        "iso_date": "2026-03-13T13:37:51+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Chaos in the Skies: Gulf Air and Other Airlines Tackle Massive Airspace Disruptions with Limited Flights and Repatriation Services!",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMW1ad3dJX3dxbEpEYnFYdmVlYXVCT3hEQ0pzLWFrY2p6blRsY0Q0WDh0Ym9KUnVUZ3hsU0F2RmdTSlFXc0hmcDlqR1Jsa1FqMG44NEllMTluOG5ydFRUdDdCbVowTWRoTTZibC1CV29WMDYwSzNZQjFaLTg4M3hYWXh4eHJ6TXFRXzBfS19UbVNMLXQySDY1YW9DWEhhNWxlMnF4b2RaOEdhRGtMeDdST1ZpYmlROVU4MVlJaGg4aklrSlVfc3ZKTWJfenhPTnNENmVLMzVzQTFBX0FoUGFfZlVtaENlLTIxQmRRR1hBeE9iNlVrTVFISmJucUhFUWZZOUpyZi1uYVotUQ?oc=5",
         "published": "12 Mar 2026, 08:09 PM",
         "iso_date": "2026-03-12T20:09:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "32 injured in Iranian drone attack on Bahrain as Gulf states intercept missiles",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQk8yM2dqRUttNzBCeEMxT3k2enNLLUM0VEt3THRNUmZCVkFrc3Z5V1kza1JXZFVNd1BHSFpCRnAyUzVSUkNBSGY5XzMwTmFqbVViczllMnlFVFdob1hlc0p5ODdGc1QzdW9QQ2pIUkhsUVJId2pvVmZxekY0SGZEY0lqZHlURVJMSEh6R0VYRWs4QV84ZlJjNjZReHRBeGlLS0dseXQzUGpnV0FtMC1NanhRXzFNR1RwZjk0alR3QVd1UHVqOVFEem9SUQ?oc=5",
+        "published": "13 Mar 2026, 07:12 AM",
+        "iso_date": "2026-03-13T07:12:27+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -66,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjdFV3J1eHJ2RDZTSFFXNmI1OGktVURSRVJIQXNEYnZGcF9nekh4ZDljUnV2bS11LUpnR3NZQjN1MXhyZncybV9ES3QtdmFERV9yQ2JCdnZobGZqWThuNHpzcGlxZEp4ZzZxazE4R2QtOXdJMU9yRXJJTXRGVVozay1xR29DMGk0czBnSEZnTVFBdU16SUF2M2dnUWRzbGJpTTg0ZE1mckdSR3F6WElEeU5FNTQ4cG1VNXVObDRMYw?oc=5",
         "published": "12 Mar 2026, 03:05 PM",
         "iso_date": "2026-03-12T15:05:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWjh1cW40STd3aW40ZmR6Tzc4QTh5T3dNZlJTZnh2dWxpMFc2eHkzdVprenJVUkNCanlaaHhacXp2Zkl6ak9JT1JJWTVKNGJGTmIybzY4N0xZam5YUVMyMUV3YUw4MlJsaW9tcTFaQkMyakRwaGZOUzNvckF6OG9lRmRDcmFMa0d4di1nV0RPRzFjcUEwajJqQWFaSkwtZFduQmJDbTh2Rk42a3A2emNhQlBuN2RvUUdrRXg1akhNb0VMSzJoM2NpN1ZCeFk4SWpVM21Sb2xEa3lsOEtIa3FHeXZydXMxcUg5Q2E3cFRHc3NTYVpyUTBHZ3l1RUhhRUhoMEhQVHdHN0dJeS1OMVgxVVZTbFU4NFJGNWl0M3ZMLUVBWFQ4aFNCRGZOTVplU21XSTVFajJsaGhBMXRGZnVTNFd5eE1ub3VCX2NIOXQ0dVJHczdxX1VaQXh1TEE1X08wNWlZMFBEcVRQa2VqZHJ6V0U1Q2xwUXd4TENseVVmZnlXUEozcTJ4dWlhbjhGVDJTeUxNTFBseHI5Ni1SbkNBdDF0eEFCNFhreDNoRGgtNFdWSENob3RtWUtKTVViR01fdTFVZEs4Rm9RUHFjVUtZZ2UwTlVhVk1GMzBSVjJCTVNsRGpRM2NwUjc4NA?oc=5",
-        "published": "13 Mar 2026, 02:12 AM",
-        "iso_date": "2026-03-13T02:12:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -549,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 13:58:55 UTC"
+  "fetched_at": "2026-03-13 14:50:24 UTC"
 }
