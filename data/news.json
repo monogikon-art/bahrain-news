@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX21NVG5ZT2tLcS1SdlFqdXRFdzhXX1RIcVBueGllWFdsSWtwcjg0SHU0dVYwQzBPUllZUjd3NnhjcDBsemZ0M280MDJyRjQzcGZjTmlrbXBhQ19BcDd1N0xvTC1rSUs2djBQbnZ5SEhhTGJuV3VVREdvZmZ2X2RBZUhRXzRhZ01XRlpiUkJ2dXdZLWEwTW9YUjJIS1VIWFpPdWR2VVlEWXl5aVVwRzZROHFMeW55N3FreWs3Y1ZuOVFiN0l2dVJZdTJyaFo?oc=5",
-        "published": "12 Mar 2026, 11:38 AM",
-        "iso_date": "2026-03-12T11:38:06+00:00",
+        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
+        "published": "12 Mar 2026, 11:15 PM",
+        "iso_date": "2026-03-12T23:15:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain arrests four accused of spying for Tehran",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yU3V2cGVMYTJMajJCOXMtNWUyMURwRU5XZ1k4S3pEN0pLeWJzR2h6Wl9vYVktX0JPaHNsOGV6TzlzcENwaS1CU0dUby1TVWxHMzNRRg?oc=5",
-        "published": "12 Mar 2026, 10:51 AM",
-        "iso_date": "2026-03-12T10:51:00+00:00",
+        "title": "Bahrain arrests 4 nationals for spying for Iran’s Revolutionary Guard",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xV0ZTZ3paWlpWVzlqLU5MVHhnc1Mwd1dGRHJ5bXlQZnZ1YVJLdklQWk4tU1dhX2otRVhkNFFaQVdqc1hMWVoyRGRXUTRQQVBlUmc?oc=5",
+        "published": "12 Mar 2026, 03:33 PM",
+        "iso_date": "2026-03-12T15:33:45+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZEY1X3FLVFVaaGhVcm5sMU9USlQwb0hPSTh5WExHYkZqbExLVXRmQ0lRcTZoaHYxbmk1OXlXXzlaVXdrbWxGWlJfLU9raUprR1pZNzRkUVlMdUtVeWlqODdIR0hzbE1fckM5djRORkZDNVVEMXU0MlA2TlZ1QkU2YTlzbEhrdU0zSG9aM2Y0SVotY1lLNFFqZENRQ3NWMWlmUWQ4N3RNblRMTmFaclFUNHBnRWg1MHJRS19FenMySWE?oc=5",
         "published": "13 Mar 2026, 04:22 AM",
         "iso_date": "2026-03-13T04:22:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjdFV3J1eHJ2RDZTSFFXNmI1OGktVURSRVJIQXNEYnZGcF9nekh4ZDljUnV2bS11LUpnR3NZQjN1MXhyZncybV9ES3QtdmFERV9yQ2JCdnZobGZqWThuNHpzcGlxZEp4ZzZxazE4R2QtOXdJMU9yRXJJTXRGVVozay1xR29DMGk0czBnSEZnTVFBdU16SUF2M2dnUWRzbGJpTTg0ZE1mckdSR3F6WElEeU5FNTQ4cG1VNXVObDRMYw?oc=5",
+        "published": "12 Mar 2026, 03:05 PM",
+        "iso_date": "2026-03-12T15:05:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -94,6 +104,16 @@
         "category": "Latest"
       },
       {
+        "title": "BDF General Command: 115 missiles, 191 drones destroyed",
+        "link": "https://www.gdnonline.com/Details/1378496/BDF-General-Command-115-missiles,-191-drones-destroyed",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313131042gdnwebsitesize(31)_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "New portal for residents to claim flood damage relief",
         "link": "https://www.gdnonline.com/Details/1378430/New-portal-for-residents-to-claim-flood-damage-relief",
         "published": "13 Mar 2026",
@@ -120,16 +140,6 @@
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_003200_1_T.jpg?20260313",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain sets 6am start for Eid prayers in mosques; no open-air prayers this year",
-        "link": "https://www.gdnonline.com/Details/1378431/Bahrain-sets-6am-start-for-Eid-prayers-in-mosques-no-open-air-prayers-this-year",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312233329website(10)_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -251,7 +261,7 @@
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uzq9oXlfrs_2026-03-13_1773396988resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hqcZP1NUb7_2026-03-13_1773397956resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 10:33:21 UTC"
+  "fetched_at": "2026-03-13 11:28:35 UTC"
 }
