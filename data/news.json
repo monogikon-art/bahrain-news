@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX21NVG5ZT2tLcS1SdlFqdXRFdzhXX1RIcVBueGllWFdsSWtwcjg0SHU0dVYwQzBPUllZUjd3NnhjcDBsemZ0M280MDJyRjQzcGZjTmlrbXBhQ19BcDd1N0xvTC1rSUs2djBQbnZ5SEhhTGJuV3VVREdvZmZ2X2RBZUhRXzRhZ01XRlpiUkJ2dXdZLWEwTW9YUjJIS1VIWFpPdWR2VVlEWXl5aVVwRzZROHFMeW55N3FreWs3Y1ZuOVFiN0l2dVJZdTJyaFo?oc=5",
+        "published": "12 Mar 2026, 11:38 AM",
+        "iso_date": "2026-03-12T11:38:06+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain arrests four accused of spying for Tehran",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yU3V2cGVMYTJMajJCOXMtNWUyMURwRU5XZ1k4S3pEN0pLeWJzR2h6Wl9vYVktX0JPaHNsOGV6TzlzcENwaS1CU0dUby1TVWxHMzNRRg?oc=5",
@@ -52,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain air defences destroy 112 missiles, 186 drones since onset of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjdFV3J1eHJ2RDZTSFFXNmI1OGktVURSRVJIQXNEYnZGcF9nekh4ZDljUnV2bS11LUpnR3NZQjN1MXhyZncybV9ES3QtdmFERV9yQ2JCdnZobGZqWThuNHpzcGlxZEp4ZzZxazE4R2QtOXdJMU9yRXJJTXRGVVozay1xR29DMGk0czBnSEZnTVFBdU16SUF2M2dnUWRzbGJpTTg0ZE1mckdSR3F6WElEeU5FNTQ4cG1VNXVObDRMYw?oc=5",
-        "published": "12 Mar 2026, 03:05 PM",
-        "iso_date": "2026-03-12T15:05:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Defense Force: Intercepted and destroyed 112 missiles and 186 Iranian drones targeting the Kingdom",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPemVsUkoySXZWTTNlYW53VUJuZldjYl9UclFud0xlMEpfcVVfWWtSMkNDMGZHMjdCLWQ4R0Y4SkcwajlXOWxvUHY1S0Q3TWdOSmwwZEpIaTJzOWpqWUsyc0k5ZVk3bklZalZXVXFkalRxeFRaV0JCRWFUSkJua0hFNlVQN0FaRFhia1JzcDR6am83QXFpQWhaWDFadlBBN1FzUG16NUVLNV94OE85U1Jic2NseVNXVE1TekJRTjYwSkRGLWNvMGtDUGdpNWVJaFdSbTZNSS1FRTlvNnVLYjgtMElNeEJQTm45RFRZNy1n?oc=5",
         "published": "12 Mar 2026, 01:38 PM",
@@ -82,45 +82,216 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "Bahrain sets 6am start for Eid prayers in mosques; no open-air prayers this year",
+        "link": "https://www.gdnonline.com/Details/1378431/Bahrain-sets-6am-start-for-Eid-prayers-in-mosques-no-open-air-prayers-this-year",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312233329website(10)_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "New portal for residents to claim flood damage relief",
+        "link": "https://www.gdnonline.com/Details/1378430/New-portal-for-residents-to-claim-flood-damage-relief",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260312_230124_1_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Proposal on profitâsharing by public firms may be rejected",
+        "link": "https://www.gdnonline.com/Details/1378426/Proposal-on-profitâsharing-by-public-firms-may-be-rejected",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312230658website(1)_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Society documents Iranian crimes",
+        "link": "https://www.gdnonline.com/Details/1378429/Society-documents-Iranian-crimes",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312232709website(8)_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Visit visa holders exempted from paying overstay fines",
+        "link": "https://www.gdnonline.com/Details/1378428/Visit-visa-holders-exempted-from-paying-overstay-fines",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312232606website(7)_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Alba holds virtual AGM for 2026",
+        "link": "https://www.gdnonline.com/Details/1378438/Alba-holds-virtual-AGM-for-2026",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313004225llbtwo_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Khaleeji Bank approves 6pc dividend",
+        "link": "https://www.gdnonline.com/Details/1378436/Khaleeji-Bank-approves-6pc-dividend",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_002139_0.jfif?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrainâs banks remain fully operational",
+        "link": "https://www.gdnonline.com/Details/1378393/Bahrainâs-banks-remain-fully-operational",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312125531baa_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Kingdomâs banking sector operating at highest levels of readiness says CBB",
+        "link": "https://www.gdnonline.com/Details/1378316/Kingdomâs-banking-sector-operating-at-highest-levels-of-readiness-says-CBB",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/2026031200152820161223135614cbb_building_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq salvage late draw with Riffa",
+        "link": "https://www.gdnonline.com/Details/1378477/Muharraq-salvage-late-draw-with-Riffa",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313023622uuaua_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Arsenal and City resume title contest",
+        "link": "https://www.gdnonline.com/Details/1378470/Arsenal-and-City-resume-title-contest",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022541_0_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Villa down Lille",
+        "link": "https://www.gdnonline.com/Details/1378472/Villa-down-Lille",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022544_0_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Neto faces action for pushing ball boy",
+        "link": "https://www.gdnonline.com/Details/1378471/Neto-faces-action-for-pushing-ball-boy",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022543_0_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq seek to stay ahead of Riffa",
+        "link": "https://www.gdnonline.com/Details/1378338/Muharraq-seek-to-stay-ahead-of-Riffa",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_015129_1_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "'Sinners' and 'One Battle After Another' face off at drama-filled Oscars",
+        "link": "https://www.gdnonline.com/Details/1378419/Sinners-and-One-Battle-After-Another-face-off-at-drama-filled-Oscars-",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_211338_0_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "California studio helps autistic adults channel creativity into Hollywood careers",
+        "link": "https://www.gdnonline.com/Details/1378387/California-studio-helps-autistic-adults-channel-creativity-into-Hollywood-careers",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312120334websitepicsize-2026-03-12t121054.983_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
-        "title": "Powerful Explosions Rock Tehran on Day 14 of War",
-        "link": "https://www.newsofbahrain.com/world/128373.html",
+        "title": "Oman: Two Expatriates Dead in Sohar Drone Crash",
+        "link": "https://www.newsofbahrain.com/world/128378.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zIxSBRN3LO_2026-03-13_1773386659resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JOiLUhTbvD_2026-03-13_1773390743resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Iran’s Revolutionary Guards Warn of Tougher Response to New Protests",
-        "link": "https://www.newsofbahrain.com/world/128372.html",
+        "title": "Man Denies Robbing Driver at Knifepoint to Steal Car",
+        "link": "https://www.newsofbahrain.com/bahrain/128377.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cVrSlzxRod_2026-03-13_1773386559resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UfTgPe1LhS_2026-03-13_1773390377resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Russia says global energy market needs its oil",
-        "link": "https://www.newsofbahrain.com/world/128371.html",
+        "title": "A Quiet Ramadan: Tailors and Hotels Feel the Economic Strain",
+        "link": "https://www.newsofbahrain.com/bahrain/128376.html",
         "published": "13 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-13T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GlkuaT7RHs_2026-03-13_1773386163resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GrWCAVv13n_2026-03-13_1773389814resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Australia Releases Emergency Fuel Reserves Amid Middle East Tensions",
-        "link": "https://www.newsofbahrain.com/world/128367.html",
+        "title": "Shura Council to Debate Bills on State-Owned Company Profits",
+        "link": "https://www.newsofbahrain.com/bahrain/128375.html",
         "published": "13 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-13T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_B1FeYXSxD2_2026-03-13_1773384490resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MslOAK1E0Q_2026-03-13_1773389244resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Middle East War Enters Day 14 as Strikes Escalate Across Region",
+        "link": "https://www.newsofbahrain.com/world/128374.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lRdSq2uJCc_2026-03-13_1773388787resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -130,7 +301,7 @@
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PCTVH7dIgO_2026-03-13_1773384185resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PCTVH7dIgO_2026-03-13_1773384185thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -145,32 +316,22 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Announces Eid Al-Fitr Prayer at 6:00 AM in Grand Mosques",
-        "link": "https://www.newsofbahrain.com/bahrain/128358.html",
+        "title": "Powerful Explosions Rock Tehran on Day 14 of War",
+        "link": "https://www.newsofbahrain.com/world/128373.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7LkPt85q2D_2026-03-12_1773350381thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zIxSBRN3LO_2026-03-13_1773386659thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Interior Minister Condoles Civilian Victim’s Family",
-        "link": "https://www.newsofbahrain.com/bahrain/128351.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
+        "title": "Iran’s Revolutionary Guards Warn of Tougher Response to New Protests",
+        "link": "https://www.newsofbahrain.com/world/128372.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P7GvMZaEeA_2026-03-12_1773318896thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Overstay Fine Waiver for Visit Visa Holders in Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/128341.html",
-        "published": "12 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nseO8fyM1X_2026-03-12_1773314320thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_swZB42yxWR_2026-03-13_1773390514thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -338,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 07:42:39 UTC"
+  "fetched_at": "2026-03-13 08:36:10 UTC"
 }
