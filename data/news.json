@@ -10,17 +10,27 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 18
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
+        "published": "12 Mar 2026, 11:15 PM",
+        "iso_date": "2026-03-12T23:15:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain arrests 4 nationals for spying for Iran’s Revolutionary Guard",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xV0ZTZ3paWlpWVzlqLU5MVHhnc1Mwd1dGRHJ5bXlQZnZ1YVJLdklQWk4tU1dhX2otRVhkNFFaQVdqc1hMWVoyRGRXUTRQQVBlUmc?oc=5",
@@ -32,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "32 injured in Iranian drone attack on Bahrain as Gulf states intercept missiles",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQk8yM2dqRUttNzBCeEMxT3k2enNLLUM0VEt3THRNUmZCVkFrc3Z5V1kza1JXZFVNd1BHSFpCRnAyUzVSUkNBSGY5XzMwTmFqbVViczllMnlFVFdob1hlc0p5ODdGc1QzdW9QQ2pIUkhsUVJId2pvVmZxekY0SGZEY0lqZHlURVJMSEh6R0VYRWs4QV84ZlJjNjZReHRBeGlLS0dseXQzUGpnV0FtMC1NanhRXzFNR1RwZjk0alR3QVd1UHVqOVFEem9SUQ?oc=5",
-        "published": "13 Mar 2026, 07:12 AM",
-        "iso_date": "2026-03-13T07:12:27+00:00",
+        "title": "Chaos in the Skies: Gulf Air and Other Airlines Tackle Massive Airspace Disruptions with Limited Flights and Repatriation Services!",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMW1ad3dJX3dxbEpEYnFYdmVlYXVCT3hEQ0pzLWFrY2p6blRsY0Q0WDh0Ym9KUnVUZ3hsU0F2RmdTSlFXc0hmcDlqR1Jsa1FqMG44NEllMTluOG5ydFRUdDdCbVowTWRoTTZibC1CV29WMDYwSzNZQjFaLTg4M3hYWXh4eHJ6TXFRXzBfS19UbVNMLXQySDY1YW9DWEhhNWxlMnF4b2RaOEdhRGtMeDdST1ZpYmlROVU4MVlJaGg4aklrSlVfc3ZKTWJfenhPTnNENmVLMzVzQTFBX0FoUGFfZlVtaENlLTIxQmRRR1hBeE9iNlVrTVFISmJucUhFUWZZOUpyZi1uYVotUQ?oc=5",
+        "published": "12 Mar 2026, 08:09 PM",
+        "iso_date": "2026-03-12T20:09:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,16 +82,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defense Force: Intercepted and destroyed 112 missiles and 186 Iranian drones targeting the Kingdom",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPemVsUkoySXZWTTNlYW53VUJuZldjYl9UclFud0xlMEpfcVVfWWtSMkNDMGZHMjdCLWQ4R0Y4SkcwajlXOWxvUHY1S0Q3TWdOSmwwZEpIaTJzOWpqWUsyc0k5ZVk3bklZalZXVXFkalRxeFRaV0JCRWFUSkJua0hFNlVQN0FaRFhia1JzcDR6am83QXFpQWhaWDFadlBBN1FzUG16NUVLNV94OE85U1Jic2NseVNXVE1TekJRTjYwSkRGLWNvMGtDUGdpNWVJaFdSbTZNSS1FRTlvNnVLYjgtMElNeEJQTm45RFRZNy1n?oc=5",
-        "published": "12 Mar 2026, 01:38 PM",
-        "iso_date": "2026-03-12T13:38:06+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Intercepts, Destroys 114 Missiles, 190 Drones Since Start Of Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVEFKVFJuWVN5X0xxckZHTWtjMFZsaFgyaHdwaS1TbFFjeThxUFRjQTJ3eWhaTHlseTd3MHBwNVZqNXN2RUZ6WFE3c053dlVtNnEtbFhQSmkxd0tlcTc1b3ZMNC1WdjY3Q3paZExDVi1tdnBwOGM1Mm13SlZMNld1MHY4UFdpZGVBVUQ2eVl2TmpMeGJSM2pJV3V4RXRDZw?oc=5",
         "published": "12 Mar 2026, 11:30 PM",
@@ -92,55 +92,216 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "Flight operations at BIA remain temporarily suspended",
+        "link": "https://www.gdnonline.com/Details/1378497/Flight-operations-at-BIA-remain-temporarily-suspended",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313140135bahrain_international_airport_(new_terminal)_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Indian community group revises chartered flight schedule",
+        "link": "https://www.gdnonline.com/Details/1378498/Indian-community-group-revises-chartered-flight-schedule",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313151536indiancommunitygrouprevisescharteredflightschedule(1).jpeg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF General Command: 115 missiles, 191 drones destroyed",
+        "link": "https://www.gdnonline.com/Details/1378496/BDF-General-Command-115-missiles,-191-drones-destroyed",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313131042gdnwebsitesize(31)_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "TRUE GRIT!: Heroic Civil Defence firefighters continue to dampen down the scene of an Iranian aerial strikes",
+        "link": "https://www.gdnonline.com/Details/1378455/TRUE-GRIT-Heroic-Civil-Defence-firefighters-continue-to-dampen-down-the-scene-of-an-Iranian-aerial-strikes",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_014700_0.jpeg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "New portal for residents to claim flood damage relief",
+        "link": "https://www.gdnonline.com/Details/1378430/New-portal-for-residents-to-claim-flood-damage-relief",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260312_230124_1_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Alba holds virtual AGM for 2026",
+        "link": "https://www.gdnonline.com/Details/1378438/Alba-holds-virtual-AGM-for-2026",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313004225llbtwo_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Khaleeji Bank approves 6pc dividend",
+        "link": "https://www.gdnonline.com/Details/1378436/Khaleeji-Bank-approves-6pc-dividend",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_002139_0.jfif?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrainâs banks remain fully operational",
+        "link": "https://www.gdnonline.com/Details/1378393/Bahrainâs-banks-remain-fully-operational",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312125531baa_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Kingdomâs banking sector operating at highest levels of readiness says CBB",
+        "link": "https://www.gdnonline.com/Details/1378316/Kingdomâs-banking-sector-operating-at-highest-levels-of-readiness-says-CBB",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/2026031200152820161223135614cbb_building_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq salvage late draw with Riffa",
+        "link": "https://www.gdnonline.com/Details/1378477/Muharraq-salvage-late-draw-with-Riffa",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313023622uuaua_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Arsenal and City resume title contest",
+        "link": "https://www.gdnonline.com/Details/1378470/Arsenal-and-City-resume-title-contest",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022541_0_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Villa down Lille",
+        "link": "https://www.gdnonline.com/Details/1378472/Villa-down-Lille",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022544_0_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Neto faces action for pushing ball boy",
+        "link": "https://www.gdnonline.com/Details/1378471/Neto-faces-action-for-pushing-ball-boy",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022543_0_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq seek to stay ahead of Riffa",
+        "link": "https://www.gdnonline.com/Details/1378338/Muharraq-seek-to-stay-ahead-of-Riffa",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_015129_1_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "'Sinners' and 'One Battle After Another' face off at drama-filled Oscars",
+        "link": "https://www.gdnonline.com/Details/1378419/Sinners-and-One-Battle-After-Another-face-off-at-drama-filled-Oscars-",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_211338_0_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "California studio helps autistic adults channel creativity into Hollywood careers",
+        "link": "https://www.gdnonline.com/Details/1378387/California-studio-helps-autistic-adults-channel-creativity-into-Hollywood-careers",
+        "published": "12 Mar 2026",
+        "iso_date": "2026-03-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312120334websitepicsize-2026-03-12t121054.983_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
-        "title": "Swiatek routs Muchova to reach quarter-finals",
-        "link": "https://www.newsofbahrain.com/sports/128414.html",
+        "title": "Trump: US May Escort Oil Tankers Through Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/world/128423.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WQz61KshPa_2026-03-13_1773406165resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O87IlcDSGo_2026-03-13_1773410019resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Djokovic ousted by Draper at Indian Wells as Alcaraz marches on",
-        "link": "https://www.newsofbahrain.com/sports/128413.html",
+        "title": "Annai Tamil Mandram Arranges First Chartered Flight from Bahrain to Chennai",
+        "link": "https://www.newsofbahrain.com/world/128421.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pYUGETHWgm_2026-03-13_1773405623resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tIewsKlTOi_2026-03-13_1773409374resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Strike on Beirut seafront kills 8 as Israel threatens to ‘take territory’",
-        "link": "https://www.newsofbahrain.com/world/128412.html",
+        "title": "Early F1 leader Russell says ‘championship means nothing at this point",
+        "link": "https://www.newsofbahrain.com/sports/128420.html",
         "published": "13 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-13T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_alenUGc5yC_2026-03-13_1773405120resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jq4RYZDtfB_2026-03-13_1773407011resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "US says Iran campaign cost $11 billion in six days: NYT",
-        "link": "https://www.newsofbahrain.com/world/128411.html",
+        "title": "Verstappen jokes new F1 cars ‘more like Mario Kart’",
+        "link": "https://www.newsofbahrain.com/sports/128419.html",
         "published": "13 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-13T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AbVrpmxvNC_2026-03-13_1773404594resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hTzHYCFNg9_2026-03-13_1773406797resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "U.S. Army Offers $5,000 Reward Over Stolen Drones",
-        "link": "https://www.newsofbahrain.com/world/128410.html",
+        "title": "World champion Norris says McLaren must ‘improve in all areas’",
+        "link": "https://www.newsofbahrain.com/sports/128418.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RAzaejPCum_2026-03-13_1773403880resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0yvwJCIgeK_2026-03-13_1773406671resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -195,12 +356,22 @@
         "category": "Latest"
       },
       {
-        "title": "NATO intercepts ballistic missile over Turkiye",
-        "link": "https://www.newsofbahrain.com/world/128407.html",
+        "title": "Bahraini Rapper Flipperachi Cancels India Shows Amid Middle East Tensions",
+        "link": "https://www.newsofbahrain.com/world/128416.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JtmxiSQC8p_2026-03-13_1773403290thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8PEeZx43vC_2026-03-13_1773406550thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Strike on Beirut seafront kills 8 as Israel threatens to ‘take territory’",
+        "link": "https://www.newsofbahrain.com/world/128412.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_alenUGc5yC_2026-03-13_1773405120thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -378,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 12:52:38 UTC"
+  "fetched_at": "2026-03-13 13:58:55 UTC"
 }
