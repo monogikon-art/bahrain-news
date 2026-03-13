@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 16
     }
   },
   "articles": {
@@ -84,12 +84,12 @@
     ],
     "gdn": [
       {
-        "title": "Bahrain sets 6am start for Eid prayers in mosques; no open-air prayers this year",
-        "link": "https://www.gdnonline.com/Details/1378431/Bahrain-sets-6am-start-for-Eid-prayers-in-mosques-no-open-air-prayers-this-year",
+        "title": "TRUE GRIT!: Heroic Civil Defence firefighters continue to dampen down the scene of an Iranian aerial strikes",
+        "link": "https://www.gdnonline.com/Details/1378455/TRUE-GRIT-Heroic-Civil-Defence-firefighters-continue-to-dampen-down-the-scene-of-an-Iranian-aerial-strikes",
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312233329website(10)_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_014700_0.jpeg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -104,32 +104,32 @@
         "category": "Latest"
       },
       {
-        "title": "Proposal on profitâsharing by public firms may be rejected",
-        "link": "https://www.gdnonline.com/Details/1378426/Proposal-on-profitâsharing-by-public-firms-may-be-rejected",
+        "title": "Man convicted of headbutting lodges appeal",
+        "link": "https://www.gdnonline.com/Details/1378442/Man-convicted-of-headbutting-lodges-appeal",
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312230658website(1)_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313005118court1_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Society documents Iranian crimes",
-        "link": "https://www.gdnonline.com/Details/1378429/Society-documents-Iranian-crimes",
+        "title": "Ensuring stability of supply chains âpriorityâ",
+        "link": "https://www.gdnonline.com/Details/1378439/Ensuring-stability-of-supply-chains-âpriorityâ",
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312232709website(8)_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_003200_1_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Visit visa holders exempted from paying overstay fines",
-        "link": "https://www.gdnonline.com/Details/1378428/Visit-visa-holders-exempted-from-paying-overstay-fines",
+        "title": "Bahrain sets 6am start for Eid prayers in mosques; no open-air prayers this year",
+        "link": "https://www.gdnonline.com/Details/1378431/Bahrain-sets-6am-start-for-Eid-prayers-in-mosques-no-open-air-prayers-this-year",
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312232606website(7)_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312233329website(10)_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -246,92 +246,102 @@
     ],
     "newsofbahrain": [
       {
+        "title": "US Grants 30-Day Waiver for Russian Oil Amid Middle East Crisis",
+        "link": "https://www.newsofbahrain.com/world/128392.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TbCUxQL7sz_2026-03-13_1773394308resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Eid Travel Plans Shift as Many Bahrainis Choose to Stay Closer to Home",
+        "link": "https://www.newsofbahrain.com/bahrain/128391.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yrapw7T6jY_2026-03-13_1773394184resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Manama draw first blood against Al Najma",
+        "link": "https://www.newsofbahrain.com/sports/128390.html",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lxCIEt1JLa_2026-03-13_1773393995resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran allows Turkish ship through Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/world/128389.html",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7bEAw3Wlvm_2026-03-13_1773393956resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Air Flights Remain Suspended Amid Continued Bahrain Airspace Closure",
+        "link": "https://www.newsofbahrain.com/bahrain/128388.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AmY8U62btx_2026-03-13_1773393702resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "“10% Monthly Profit”  Promise Leads to BD382,000 Fraud Case",
+        "link": "https://www.newsofbahrain.com/bahrain/128386.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kdHc5NlX0P_2026-03-13_1773393098thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Court Orders Salon Owner to Refund Buyer BD800 After Deal Collapse",
+        "link": "https://www.newsofbahrain.com/bahrain/128385.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P29mFCUS7K_2026-03-13_1773392957thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Lemon Prices Rise While Other Fruits Stay Steady in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/128383.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5DG6vFd8TR_2026-03-13_1773392532thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump Says Iran’s New Supreme Leader ‘Damaged’ After US-Israel Strikes",
+        "link": "https://www.newsofbahrain.com/world/128387.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fNb5JQte01_2026-03-13_1773393617thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Oman: Two Expatriates Dead in Sohar Drone Crash",
         "link": "https://www.newsofbahrain.com/world/128378.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JOiLUhTbvD_2026-03-13_1773390743resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man Denies Robbing Driver at Knifepoint to Steal Car",
-        "link": "https://www.newsofbahrain.com/bahrain/128377.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UfTgPe1LhS_2026-03-13_1773390377resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A Quiet Ramadan: Tailors and Hotels Feel the Economic Strain",
-        "link": "https://www.newsofbahrain.com/bahrain/128376.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GrWCAVv13n_2026-03-13_1773389814resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura Council to Debate Bills on State-Owned Company Profits",
-        "link": "https://www.newsofbahrain.com/bahrain/128375.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MslOAK1E0Q_2026-03-13_1773389244resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Middle East War Enters Day 14 as Strikes Escalate Across Region",
-        "link": "https://www.newsofbahrain.com/world/128374.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lRdSq2uJCc_2026-03-13_1773388787resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Indian associations in Bahrain organise chartered flights to India",
-        "link": "https://www.newsofbahrain.com/bahrain/128366.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PCTVH7dIgO_2026-03-13_1773384185thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian attacks ‘direct threat to Bahrain security, stability and citizens’",
-        "link": "https://www.newsofbahrain.com/bahrain/128364.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xAQs3uZfaO_2026-03-13_1773382822thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Powerful Explosions Rock Tehran on Day 14 of War",
-        "link": "https://www.newsofbahrain.com/world/128373.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zIxSBRN3LO_2026-03-13_1773386659thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran’s Revolutionary Guards Warn of Tougher Response to New Protests",
-        "link": "https://www.newsofbahrain.com/world/128372.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_swZB42yxWR_2026-03-13_1773390514thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JOiLUhTbvD_2026-03-13_1773390743thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -372,6 +382,16 @@
         "iso_date": "2026-03-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FEyQjd70mb_2026-03-12_1773302631thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "One Night Better Than a Thousand Months?",
+        "link": "https://www.newsofbahrain.com/views/128381.html",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jRbugZeVJX_2026-03-13_1773391643thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 08:36:10 UTC"
+  "fetched_at": "2026-03-13 09:36:09 UTC"
 }
