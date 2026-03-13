@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 15
     }
   },
   "articles": {
@@ -52,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Tatarstan president expresses solidarity with Bahrain after Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0JxV3FPeUZXRXNwMFpSSlpZTFpRR0s2R3VzMFhZME5QNjlBeUJ6ZGVCUWo5clZfVzVfRnpsQ0xhZDloQmJoWEx5RVFuci12LUd4RC1UcG1aQW9kNXV3eUJNcUhfSFB6eTQ5RVZPVXNMa3l0RW1Vb2p3ek5sdmxIdkM4Nk1GMm1IZjIzSzlDT0V0YkR6RHBCTDdiV3B4Z2xBVUdZOQ?oc=5",
-        "published": "13 Mar 2026, 01:37 PM",
-        "iso_date": "2026-03-13T13:37:51+00:00",
+        "title": "Government working to improve crisis communication strategy",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2drN0R1cTRqcEhpZjVaZkN0a0c0TVQ0VzBRVklDUWdhVzNxS0hqWFNRa25RMWhPaktvQjhxWG9WdjE3R3prb1pZbTFQLUFocUcyMGltQUhmSEhzUUtUbUotVWdscHdGaXhBLXBlb0RoM2dYdmoxX2s5VUxvQjhIOTdzLXo3QlRZc3lqT09Ucjl6dEhNWXlOM2xIUVZOSG1sOVpF?oc=5",
+        "published": "13 Mar 2026, 09:03 PM",
+        "iso_date": "2026-03-13T21:03:28+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -83,6 +83,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "VIDEO: RAF Typhoons to help intercept drones over Bahrain",
+        "link": "https://www.gdnonline.com/Details/1378503/VIDEO-RAF-Typhoons-to-help-intercept-drones-over-Bahrain",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313230534uk_T.jpg?20260313",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Flight operations at BIA remain temporarily suspended",
         "link": "https://www.gdnonline.com/Details/1378497/Flight-operations-at-BIA-remain-temporarily-suspended",
@@ -120,16 +130,6 @@
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_014700_0.jpeg?20260313",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "New portal for residents to claim flood damage relief",
-        "link": "https://www.gdnonline.com/Details/1378430/New-portal-for-residents-to-claim-flood-damage-relief",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260312_230124_1_T.jpg?20260313",
         "source": "gdn",
         "category": "Latest"
       },
@@ -246,6 +246,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Shaikha Sheema Visits Injured Victims at Salmaniya Medical Complex",
+        "link": "https://www.newsofbahrain.com/bahrain/128433.html",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fTXKF8SVHR_2026-03-13_1773434499resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Protecting the Nation Is a Noble Duty in Challenging Times",
         "link": "https://www.newsofbahrain.com/bahrain/128432.html",
         "published": "13 Mar 2026, 09:22 AM",
@@ -258,8 +268,8 @@
       {
         "title": "IndiGo Introduces Fuel Surcharge Amid Middle East Tensions",
         "link": "https://www.newsofbahrain.com/world/128431.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_oc2ObRNFAm_2026-03-13_1773428592resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,20 +288,10 @@
       {
         "title": "Law tightening financial crime penalties heads to Parliament",
         "link": "https://www.newsofbahrain.com/bahrain/128429.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CpV1uHEcqg_2026-03-13_1773427541resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Beach Handball Team Prepares for Asian Games",
-        "link": "https://www.newsofbahrain.com/sports/128428.html",
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Rc1EDOXQ3j_2026-03-13_1773427418resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CpV1uHEcqg_2026-03-13_1773427541resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +302,6 @@
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_iKo6FkSIsb_2026-03-13_1773426398thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "99% of Bahraini homes stay within normal electricity use",
-        "link": "https://www.newsofbahrain.com/bahrain/128426.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ru8pCiD6zU_2026-03-13_1773425947thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -519,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 20:35:14 UTC"
+  "fetched_at": "2026-03-13 21:29:40 UTC"
 }
