@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjF0TWJ6Q3JOakZNR0FxYlFHbGdCM3U5eTJPajNjd0JueG43eGtpTk12S2VYY3M5ZndVX1FrU0xpM2Qyd045c0l4Sk5odktqMkdvTUotWWd0MW9vOHkzYmxrWktDQ3ZUTi1ULTRKcFlMRGg4S3FNcnA2MC1HWDk4T010Zm16b3VsSW51SlFqczhDa2czOEl5UHRzU1hLc01rYmVORG1kSWNBblpRRVdXRVpKWlZvMXVBRWZRZDhnRWlaLWpOZEJlMjdDaw?oc=5",
-        "published": "13 Mar 2026, 10:00 AM",
-        "iso_date": "2026-03-13T10:00:01+00:00",
+        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
+        "published": "13 Mar 2026, 06:51 AM",
+        "iso_date": "2026-03-13T06:51:57+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
-        "published": "12 Mar 2026, 11:15 PM",
-        "iso_date": "2026-03-12T23:15:55+00:00",
+        "title": "Tatarstan president expresses solidarity with Bahrain after Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0JxV3FPeUZXRXNwMFpSSlpZTFpRR0s2R3VzMFhZME5QNjlBeUJ6ZGVCUWo5clZfVzVfRnpsQ0xhZDloQmJoWEx5RVFuci12LUd4RC1UcG1aQW9kNXV3eUJNcUhfSFB6eTQ5RVZPVXNMa3l0RW1Vb2p3ek5sdmxIdkM4Nk1GMm1IZjIzSzlDT0V0YkR6RHBCTDdiV3B4Z2xBVUdZOQ?oc=5",
+        "published": "13 Mar 2026, 01:37 PM",
+        "iso_date": "2026-03-13T13:37:51+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -55,7 +55,17 @@
         "title": "Government working to improve crisis communication strategy",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2drN0R1cTRqcEhpZjVaZkN0a0c0TVQ0VzBRVklDUWdhVzNxS0hqWFNRa25RMWhPaktvQjhxWG9WdjE3R3prb1pZbTFQLUFocUcyMGltQUhmSEhzUUtUbUotVWdscHdGaXhBLXBlb0RoM2dYdmoxX2s5VUxvQjhIOTdzLXo3QlRZc3lqT09Ucjl6dEhNWXlOM2xIUVZOSG1sOVpF?oc=5",
         "published": "13 Mar 2026, 09:03 PM",
-        "iso_date": "2026-03-13T21:03:28+00:00",
+        "iso_date": "2026-03-13T21:03:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelZOWGxxRGl3TC04dHJ1a1BIVlcyT2laY1FRTmxudGkzTkJCX1JqVk9MazNDOE0yQnFfRzdpX0xWUVd4TDd5NG5NbldiVWowY3JfcXM5MFRZVWNDcTJMdVdYMmVWcmN5eV9Vbm9UZFBScEJBX1FKdmJZeUhTMHd6bnE5Ym1uSG9vRWxESUs0SHFkRHp3X2ZUYi04dG9XTk1UTVNmTy1nT1YtdXRPZ0h5a05aX2NOTmtNblhSRzZ4RUc?oc=5",
+        "published": "13 Mar 2026, 09:54 AM",
+        "iso_date": "2026-03-13T09:54:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,10 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWjh1cW40STd3aW40ZmR6Tzc4QTh5T3dNZlJTZnh2dWxpMFc2eHkzdVprenJVUkNCanlaaHhacXp2Zkl6ak9JT1JJWTVKNGJGTmIybzY4N0xZam5YUVMyMUV3YUw4MlJsaW9tcTFaQkMyakRwaGZOUzNvckF6OG9lRmRDcmFMa0d4di1nV0RPRzFjcUEwajJqQWFaSkwtZFduQmJDbTh2Rk42a3A2emNhQlBuN2RvUUdrRXg1akhNb0VMSzJoM2NpN1ZCeFk4SWpVM21Sb2xEa3lsOEtIa3FHeXZydXMxcUg5Q2E3cFRHc3NTYVpyUTBHZ3l1RUhhRUhoMEhQVHdHN0dJeS1OMVgxVVZTbFU4NFJGNWl0M3ZMLUVBWFQ4aFNCRGZOTVplU21XSTVFajJsaGhBMXRGZnVTNFd5eE1ub3VCX2NIOXQ0dVJHczdxX1VaQXh1TEE1X08wNWlZMFBEcVRQa2VqZHJ6V0U1Q2xwUXd4TENseVVmZnlXUEozcTJ4dWlhbjhGVDJTeUxNTFBseHI5Ni1SbkNBdDF0eEFCNFhreDNoRGgtNFdWSENob3RtWUtKTVViR01fdTFVZEs4Rm9RUHFjVUtZZ2UwTlVhVk1GMzBSVjJCTVNsRGpRM2NwUjc4NA?oc=5",
-        "published": "13 Mar 2026, 02:12 AM",
-        "iso_date": "2026-03-13T02:12:25+00:00",
+        "title": "32 injured in Iranian drone attack on Bahrain as Gulf states intercept missiles",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQk8yM2dqRUttNzBCeEMxT3k2enNLLUM0VEt3THRNUmZCVkFrc3Z5V1kza1JXZFVNd1BHSFpCRnAyUzVSUkNBSGY5XzMwTmFqbVViczllMnlFVFdob1hlc0p5ODdGc1QzdW9QQ2pIUkhsUVJId2pvVmZxekY0SGZEY0lqZHlURVJMSEh6R0VYRWs4QV84ZlJjNjZReHRBeGlLS0dseXQzUGpnV0FtMC1NanhRXzFNR1RwZjk0alR3QVd1UHVqOVFEem9SUQ?oc=5",
+        "published": "13 Mar 2026, 07:12 AM",
+        "iso_date": "2026-03-13T07:12:27+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -84,52 +94,52 @@
     ],
     "gdn": [
       {
-        "title": "VIDEO: RAF Typhoons to help intercept drones over Bahrain",
-        "link": "https://www.gdnonline.com/Details/1378503/VIDEO-RAF-Typhoons-to-help-intercept-drones-over-Bahrain",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
+        "title": "Bahrain eyes pharma sector expansion in growth push",
+        "link": "https://www.gdnonline.com/Details/1378504/Bahrain-eyes-pharma-sector-expansion-in-growth-push",
+        "published": "14 Mar 2026",
+        "iso_date": "2026-03-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313230534uk_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260314/20260313_230733_0_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Flight operations at BIA remain temporarily suspended",
-        "link": "https://www.gdnonline.com/Details/1378497/Flight-operations-at-BIA-remain-temporarily-suspended",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
+        "title": "CBSE Class 12 pupils struggle with uncertain exam timeline",
+        "link": "https://www.gdnonline.com/Details/1378505/CBSE-Class-12-pupils-struggle-with-uncertain-exam-timeline",
+        "published": "14 Mar 2026",
+        "iso_date": "2026-03-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313140135bahrain_international_airport_(new_terminal)_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260314/20260313_230734_0.png?20260314",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Indian community group revises chartered flight schedule",
-        "link": "https://www.gdnonline.com/Details/1378498/Indian-community-group-revises-chartered-flight-schedule",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
+        "title": "Steps to combat stagnant water issues in Buhair Valley",
+        "link": "https://www.gdnonline.com/Details/1378513/Steps-to-combat-stagnant-water-issues-in-Buhair-Valley",
+        "published": "14 Mar 2026",
+        "iso_date": "2026-03-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313151536indiancommunitygrouprevisescharteredflightschedule(1).jpeg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260314/20260313_230819_0.jpeg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "BDF General Command: 115 missiles, 191 drones destroyed",
-        "link": "https://www.gdnonline.com/Details/1378496/BDF-General-Command-115-missiles,-191-drones-destroyed",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
+        "title": "Government working to improve crisis communication strategy",
+        "link": "https://www.gdnonline.com/Details/1378511/Government-working-to-improve-crisis-communication-strategy",
+        "published": "14 Mar 2026",
+        "iso_date": "2026-03-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313131042gdnwebsitesize(31)_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313234944ghanim_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "TRUE GRIT!: Heroic Civil Defence firefighters continue to dampen down the scene of an Iranian aerial strikes",
-        "link": "https://www.gdnonline.com/Details/1378455/TRUE-GRIT-Heroic-Civil-Defence-firefighters-continue-to-dampen-down-the-scene-of-an-Iranian-aerial-strikes",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
+        "title": "Foreign ministers discuss joint action to safeguard Arab security",
+        "link": "https://www.gdnonline.com/Details/1378510/Foreign-ministers-discuss-joint-action-to-safeguard-Arab-security",
+        "published": "14 Mar 2026",
+        "iso_date": "2026-03-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_014700_0.jpeg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260314/20260313_230751_0_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +149,7 @@
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313004225llbtwo_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313004225llbtwo_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +159,7 @@
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_002139_0.jfif?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_002139_0.jfif?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +169,7 @@
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312125531baa_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312125531baa_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +179,7 @@
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/2026031200152820161223135614cbb_building_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/2026031200152820161223135614cbb_building_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +189,7 @@
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313023622uuaua_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313023622uuaua_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +199,7 @@
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022541_0_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022541_0_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +209,7 @@
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022544_0_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022544_0_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -209,7 +219,7 @@
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022543_0_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022543_0_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -219,7 +229,7 @@
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_015129_1_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_015129_1_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -229,7 +239,7 @@
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_211338_0_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_211338_0_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -239,12 +249,22 @@
         "published": "12 Mar 2026",
         "iso_date": "2026-03-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312120334websitepicsize-2026-03-12t121054.983_T.jpg?20260313",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312120334websitepicsize-2026-03-12t121054.983_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
+      {
+        "title": "HM King Reaffirms Bahrain’s Commitment to Peace and Stability",
+        "link": "https://www.newsofbahrain.com/bahrain/128434.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7wrTtA5ZJH_2026-03-13_1773438497resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Shaikha Sheema Visits Injured Victims at Salmaniya Medical Complex",
         "link": "https://www.newsofbahrain.com/bahrain/128433.html",
@@ -258,8 +278,8 @@
       {
         "title": "Protecting the Nation Is a Noble Duty in Challenging Times",
         "link": "https://www.newsofbahrain.com/bahrain/128432.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
+        "published": "13 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_6NmRvodlP3_2026-03-13_1773429376resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,8 +298,8 @@
       {
         "title": "SMEs key to Bahrain’s economic resilience, traders say",
         "link": "https://www.newsofbahrain.com/bahrain/128430.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_He5ZyDNCIF_2026-03-13_1773427697resized_pic.jpg",
         "source": "newsofbahrain",
@@ -291,17 +311,7 @@
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CpV1uHEcqg_2026-03-13_1773427541resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "700 Bahrainis targeted in major health sector training drive",
-        "link": "https://www.newsofbahrain.com/bahrain/128427.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iKo6FkSIsb_2026-03-13_1773426398thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CpV1uHEcqg_2026-03-13_1773427541thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 21:29:40 UTC"
+  "fetched_at": "2026-03-13 21:57:47 UTC"
 }
