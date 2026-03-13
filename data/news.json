@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,26 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjF0TWJ6Q3JOakZNR0FxYlFHbGdCM3U5eTJPajNjd0JueG43eGtpTk12S2VYY3M5ZndVX1FrU0xpM2Qyd045c0l4Sk5odktqMkdvTUotWWd0MW9vOHkzYmxrWktDQ3ZUTi1ULTRKcFlMRGg4S3FNcnA2MC1HWDk4T010Zm16b3VsSW51SlFqczhDa2czOEl5UHRzU1hLc01rYmVORG1kSWNBblpRRVdXRVpKWlZvMXVBRWZRZDhnRWlaLWpOZEJlMjdDaw?oc=5",
-        "published": "13 Mar 2026, 10:00 AM",
-        "iso_date": "2026-03-13T10:00:01+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
-        "published": "12 Mar 2026, 11:15 PM",
-        "iso_date": "2026-03-12T23:15:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Will F1 cancel Bahrain and Saudi Arabia races? Will they be replaced? Key points explained",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFdUX01OemdycExpOUhWaEdST0ZQNlVVXzV0UmV4ZDFVT1dCb0JqTFNMVExPbURyek9NQjVWZ3g2YlFaSHZhd0ZGUTZPbXp6cGptZ1JSM2c0MkUydUR4MjNiaXZRc1g5ZnVzSzBya0dRX3N5NU9GU05rMlNLSGxJSDJqR2FiUkl2aXczYWMwVjdXcHlWVGRIdWhFZVlnd1Y2T2hYSnpRWVY4XzBNTl9WZEVn?oc=5",
@@ -62,10 +42,40 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelZOWGxxRGl3TC04dHJ1a1BIVlcyT2laY1FRTmxudGkzTkJCX1JqVk9MazNDOE0yQnFfRzdpX0xWUVd4TDd5NG5NbldiVWowY3JfcXM5MFRZVWNDcTJMdVdYMmVWcmN5eV9Vbm9UZFBScEJBX1FKdmJZeUhTMHd6bnE5Ym1uSG9vRWxESUs0SHFkRHp3X2ZUYi04dG9XTk1UTVNmTy1nT1YtdXRPZ0h5a05aX2NOTmtNblhSRzZ4RUc?oc=5",
+        "published": "13 Mar 2026, 09:54 AM",
+        "iso_date": "2026-03-13T09:54:54+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "32 injured in Iranian drone attack on Bahrain as Gulf states intercept missiles",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQk8yM2dqRUttNzBCeEMxT3k2enNLLUM0VEt3THRNUmZCVkFrc3Z5V1kza1JXZFVNd1BHSFpCRnAyUzVSUkNBSGY5XzMwTmFqbVViczllMnlFVFdob1hlc0p5ODdGc1QzdW9QQ2pIUkhsUVJId2pvVmZxekY0SGZEY0lqZHlURVJMSEh6R0VYRWs4QV84ZlJjNjZReHRBeGlLS0dseXQzUGpnV0FtMC1NanhRXzFNR1RwZjk0alR3QVd1UHVqOVFEem9SUQ?oc=5",
+        "published": "13 Mar 2026, 07:12 AM",
+        "iso_date": "2026-03-13T07:12:27+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Chaos in the Skies: Gulf Air and Other Airlines Tackle Massive Airspace Disruptions with Limited Flights and Repatriation Services!",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMW1ad3dJX3dxbEpEYnFYdmVlYXVCT3hEQ0pzLWFrY2p6blRsY0Q0WDh0Ym9KUnVUZ3hsU0F2RmdTSlFXc0hmcDlqR1Jsa1FqMG44NEllMTluOG5ydFRUdDdCbVowTWRoTTZibC1CV29WMDYwSzNZQjFaLTg4M3hYWXh4eHJ6TXFRXzBfS19UbVNMLXQySDY1YW9DWEhhNWxlMnF4b2RaOEdhRGtMeDdST1ZpYmlROVU4MVlJaGg4aklrSlVfc3ZKTWJfenhPTnNENmVLMzVzQTFBX0FoUGFfZlVtaENlLTIxQmRRR1hBeE9iNlVrTVFISmJucUhFUWZZOUpyZi1uYVotUQ?oc=5",
         "published": "12 Mar 2026, 08:09 PM",
         "iso_date": "2026-03-12T20:09:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC energy infrastructure sees continuing attacks in second week of regional conflict",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWG1VaHZmbUQ4aG9yYWdTbGMtVlBEVEpLTndkTlBFRlU1WldGODM4eVk3a1dBUFJIOW1mS3EyMjl4NTdBVDRmbDZFVGVYSmppeWFSajFsMDVoMW55VUJpZ241TG1uMElDYVFVUnYwVFUxQkRYWFlNd2hCX1EwcXN5LTh3aVV5bjFPQl9KNERZbFJHXzFtaE1XNkJqT1g2NmRmRXgwYWk3UzVQdVpoamphaFB1bi04T2tjaUVjT0k2aw?oc=5",
+        "published": "13 Mar 2026, 04:08 AM",
+        "iso_date": "2026-03-13T04:08:02+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -539,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 16:36:41 UTC"
+  "fetched_at": "2026-03-13 17:32:19 UTC"
 }
