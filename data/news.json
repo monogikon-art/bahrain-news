@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,30 +22,20 @@
   "articles": {
     "bna": [
       {
+        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjF0TWJ6Q3JOakZNR0FxYlFHbGdCM3U5eTJPajNjd0JueG43eGtpTk12S2VYY3M5ZndVX1FrU0xpM2Qyd045c0l4Sk5odktqMkdvTUotWWd0MW9vOHkzYmxrWktDQ3ZUTi1ULTRKcFlMRGg4S3FNcnA2MC1HWDk4T010Zm16b3VsSW51SlFqczhDa2czOEl5UHRzU1hLc01rYmVORG1kSWNBblpRRVdXRVpKWlZvMXVBRWZRZDhnRWlaLWpOZEJlMjdDaw?oc=5",
+        "published": "13 Mar 2026, 10:00 AM",
+        "iso_date": "2026-03-13T10:00:01+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
         "published": "13 Mar 2026, 06:51 AM",
         "iso_date": "2026-03-13T06:51:57+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Tatarstan president expresses solidarity with Bahrain after Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0JxV3FPeUZXRXNwMFpSSlpZTFpRR0s2R3VzMFhZME5QNjlBeUJ6ZGVCUWo5clZfVzVfRnpsQ0xhZDloQmJoWEx5RVFuci12LUd4RC1UcG1aQW9kNXV3eUJNcUhfSFB6eTQ5RVZPVXNMa3l0RW1Vb2p3ek5sdmxIdkM4Nk1GMm1IZjIzSzlDT0V0YkR6RHBCTDdiV3B4Z2xBVUdZOQ?oc=5",
-        "published": "13 Mar 2026, 01:37 PM",
-        "iso_date": "2026-03-13T13:37:51+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Will F1 cancel Bahrain and Saudi Arabia races? Will they be replaced? Key points explained",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFdUX01OemdycExpOUhWaEdST0ZQNlVVXzV0UmV4ZDFVT1dCb0JqTFNMVExPbURyek9NQjVWZ3g2YlFaSHZhd0ZGUTZPbXp6cGptZ1JSM2c0MkUydUR4MjNiaXZRc1g5ZnVzSzBya0dRX3N5NU9GU05rMlNLSGxJSDJqR2FiUkl2aXczYWMwVjdXcHlWVGRIdWhFZVlnd1Y2T2hYSnpRWVY4XzBNTl9WZEVn?oc=5",
-        "published": "13 Mar 2026, 04:37 PM",
-        "iso_date": "2026-03-13T16:37:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelZOWGxxRGl3TC04dHJ1a1BIVlcyT2laY1FRTmxudGkzTkJCX1JqVk9MazNDOE0yQnFfRzdpX0xWUVd4TDd5NG5NbldiVWowY3JfcXM5MFRZVWNDcTJMdVdYMmVWcmN5eV9Vbm9UZFBScEJBX1FKdmJZeUhTMHd6bnE5Ym1uSG9vRWxESUs0SHFkRHp3X2ZUYi04dG9XTk1UTVNmTy1nT1YtdXRPZ0h5a05aX2NOTmtNblhSRzZ4RUc?oc=5",
-        "published": "13 Mar 2026, 09:54 AM",
-        "iso_date": "2026-03-13T09:54:54+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Says 114 Ballistic Missiles, 190 Drones Intercepted Since Start of Hostilities",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZEY1X3FLVFVaaGhVcm5sMU9USlQwb0hPSTh5WExHYkZqbExLVXRmQ0lRcTZoaHYxbmk1OXlXXzlaVXdrbWxGWlJfLU9raUprR1pZNzRkUVlMdUtVeWlqODdIR0hzbE1fckM5djRORkZDNVVEMXU0MlA2TlZ1QkU2YTlzbEhrdU0zSG9aM2Y0SVotY1lLNFFqZENRQ3NWMWlmUWQ4N3RNblRMTmFaclFUNHBnRWg1MHJRS19FenMySWE?oc=5",
         "published": "13 Mar 2026, 04:22 AM",
@@ -82,10 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "32 injured in Iranian drone attack on Bahrain as Gulf states intercept missiles",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQk8yM2dqRUttNzBCeEMxT3k2enNLLUM0VEt3THRNUmZCVkFrc3Z5V1kza1JXZFVNd1BHSFpCRnAyUzVSUkNBSGY5XzMwTmFqbVViczllMnlFVFdob1hlc0p5ODdGc1QzdW9QQ2pIUkhsUVJId2pvVmZxekY0SGZEY0lqZHlURVJMSEh6R0VYRWs4QV84ZlJjNjZReHRBeGlLS0dseXQzUGpnV0FtMC1NanhRXzFNR1RwZjk0alR3QVd1UHVqOVFEem9SUQ?oc=5",
-        "published": "13 Mar 2026, 07:12 AM",
-        "iso_date": "2026-03-13T07:12:27+00:00",
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNWjh1cW40STd3aW40ZmR6Tzc4QTh5T3dNZlJTZnh2dWxpMFc2eHkzdVprenJVUkNCanlaaHhacXp2Zkl6ak9JT1JJWTVKNGJGTmIybzY4N0xZam5YUVMyMUV3YUw4MlJsaW9tcTFaQkMyakRwaGZOUzNvckF6OG9lRmRDcmFMa0d4di1nV0RPRzFjcUEwajJqQWFaSkwtZFduQmJDbTh2Rk42a3A2emNhQlBuN2RvUUdrRXg1akhNb0VMSzJoM2NpN1ZCeFk4SWpVM21Sb2xEa3lsOEtIa3FHeXZydXMxcUg5Q2E3cFRHc3NTYVpyUTBHZ3l1RUhhRUhoMEhQVHdHN0dJeS1OMVgxVVZTbFU4NFJGNWl0M3ZMLUVBWFQ4aFNCRGZOTVplU21XSTVFajJsaGhBMXRGZnVTNFd5eE1ub3VCX2NIOXQ0dVJHczdxX1VaQXh1TEE1X08wNWlZMFBEcVRQa2VqZHJ6V0U1Q2xwUXd4TENseVVmZnlXUEozcTJ4dWlhbjhGVDJTeUxNTFBseHI5Ni1SbkNBdDF0eEFCNFhreDNoRGgtNFdWSENob3RtWUtKTVViR01fdTFVZEs4Rm9RUHFjVUtZZ2UwTlVhVk1GMzBSVjJCTVNsRGpRM2NwUjc4NA?oc=5",
+        "published": "13 Mar 2026, 02:12 AM",
+        "iso_date": "2026-03-13T02:12:25+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts, destroys 121 missiles, 193 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdlVydml3am5SNklvTmwteV9fZXJwYnhVTmJLdHM3STI1d1JUVGdwXzNfYVA0Y0wwRHVHbDhTd09FLW1NdDU0bTlTa2x5NGxKc2gxRkhpODFMbFZxcG8yalpFTGtkckJXWnExdExiNks2bmszNVJHM0dqdUpwSVdDczhOVWdtSFN1N3lhZHNZMUdJM1RYb2s5YXlnMS1GUElZSlVqTy1iY05QWTNDT0xmUThaU3pCQzBvUk1ib0tSNC1YenB4SGlZ?oc=5",
+        "published": "13 Mar 2026, 10:00 PM",
+        "iso_date": "2026-03-13T22:00:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -519,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-13 21:57:47 UTC"
+  "fetched_at": "2026-03-13 22:31:54 UTC"
 }
