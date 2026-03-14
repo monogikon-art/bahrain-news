@@ -206,10 +206,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "All Six Crew Members Confirmed Dead in US Aircraft Crash in Iraq",
-        "link": "https://www.newsofbahrain.com/world/128442.html",
+        "title": "Iran's Army Chief says U.S. Strike on Warship in Indian Ocean Will Not Go Unanswered",
+        "link": "https://www.newsofbahrain.com/world/128445.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eEqCcfZS59_2026-03-14_1773474655resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russian Drone and Missile Strikes Kill Four in Kyiv Region",
+        "link": "https://www.newsofbahrain.com/world/128444.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KXo7MnwAst_2026-03-14_1773472526resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "All Six Crew Members Confirmed Dead in US Aircraft Crash in Iraq",
+        "link": "https://www.newsofbahrain.com/world/128442.html",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LbXTl8MijH_2026-03-14_1773472138resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,8 +238,8 @@
       {
         "title": "North Korea Fires Suspected Missile Toward Sea Amid U.S.-South Korea",
         "link": "https://www.newsofbahrain.com/world/128441.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_qz9Vow6mGJ_2026-03-14_1773471781resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +248,8 @@
       {
         "title": "Bahrain Reports Iranian Attacks to UN, Says Over 300 Missiles and Drones Intercepted",
         "link": "https://www.newsofbahrain.com/bahrain/128440.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q6VNsBSrlE_2026-03-14_1773470582resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +258,10 @@
       {
         "title": "Gulf States Intercept Missiles and Drones Amid Heightened Security",
         "link": "https://www.newsofbahrain.com/bahrain/128438.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zrMtpFfCQU_2026-03-14_1773465246resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone Hits US Embassy Compound in Baghdad",
-        "link": "https://www.newsofbahrain.com/world/128437.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1dvbeo6MHr_2026-03-14_1773464156resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zrMtpFfCQU_2026-03-14_1773465246thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,16 +292,6 @@
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_fTXKF8SVHR_2026-03-13_1773434499thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump says US bombed Iran's Kharg Island, threatens oil infrastructure",
-        "link": "https://www.newsofbahrain.com/world/128435.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AKCqvoG1ms_2026-03-13_1773444882thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 07:10:36 UTC"
+  "fetched_at": "2026-03-14 07:55:07 UTC"
 }
