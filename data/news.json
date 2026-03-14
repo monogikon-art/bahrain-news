@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjF0TWJ6Q3JOakZNR0FxYlFHbGdCM3U5eTJPajNjd0JueG43eGtpTk12S2VYY3M5ZndVX1FrU0xpM2Qyd045c0l4Sk5odktqMkdvTUotWWd0MW9vOHkzYmxrWktDQ3ZUTi1ULTRKcFlMRGg4S3FNcnA2MC1HWDk4T010Zm16b3VsSW51SlFqczhDa2czOEl5UHRzU1hLc01rYmVORG1kSWNBblpRRVdXRVpKWlZvMXVBRWZRZDhnRWlaLWpOZEJlMjdDaw?oc=5",
         "published": "13 Mar 2026, 10:00 AM",
         "iso_date": "2026-03-13T10:00:01+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Will F1 cancel Bahrain and Saudi Arabia races? Will they be replaced? Key points explained",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFdUX01OemdycExpOUhWaEdST0ZQNlVVXzV0UmV4ZDFVT1dCb0JqTFNMVExPbURyek9NQjVWZ3g2YlFaSHZhd0ZGUTZPbXp6cGptZ1JSM2c0MkUydUR4MjNiaXZRc1g5ZnVzSzBya0dRX3N5NU9GU05rMlNLSGxJSDJqR2FiUkl2aXczYWMwVjdXcHlWVGRIdWhFZVlnd1Y2T2hYSnpRWVY4XzBNTl9WZEVn?oc=5",
+        "published": "13 Mar 2026, 04:37 PM",
+        "iso_date": "2026-03-13T16:37:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,10 +216,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Calls grow to support fishermen and protect traditional livelihoods",
-        "link": "https://www.newsofbahrain.com/bahrain/128456.html",
+        "title": "HM King Hamad Visits MOI",
+        "link": "https://www.newsofbahrain.com/bahrain/128461.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://img.youtube.com/vi/kldu6XuX73g/hqdefault.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahraini Volleyball Feud Ends in Reconciliation",
+        "link": "https://www.newsofbahrain.com/bahrain/128460.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HTFGWXQcqZ_2026-03-14_1773481140resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Proposal seeks to restore cancelled housing applications",
+        "link": "https://www.newsofbahrain.com/bahrain/128458.html",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ipIYwFB2EP_2026-03-14_1773480603resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Calls grow to support fishermen and protect traditional livelihoods",
+        "link": "https://www.newsofbahrain.com/bahrain/128456.html",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_8MaVj5bXuP_2026-03-14_1773480472resized_pic.jpg",
         "source": "newsofbahrain",
@@ -226,22 +266,12 @@
         "category": "Latest"
       },
       {
-        "title": "Free transport for elderly to hospital appointments proposed",
-        "link": "https://www.newsofbahrain.com/bahrain/128451.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b3Xw9U5nW1_2026-03-14_1773480115resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Blast Targets Jewish School in Amsterdam, No Injuries Reported",
         "link": "https://www.newsofbahrain.com/world/128450.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fqMDFBWjHG_2026-03-14_1773477575resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fqMDFBWjHG_2026-03-14_1773477575thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,27 +281,7 @@
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mUAHaIZicw_2026-03-14_1773476875resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Parliament to Vote on Law Introducing Jail for Unlicensed Financial Activities",
-        "link": "https://www.newsofbahrain.com/bahrain/128448.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UD5C2Mnq8t_2026-03-14_1773476758thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Police Arrest Drivers, Impound Cars Over Public Order Violations",
-        "link": "https://www.newsofbahrain.com/bahrain/128447.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_paU9i7WeVQ_2026-03-14_1773475815thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mUAHaIZicw_2026-03-14_1773476875thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 09:29:49 UTC"
+  "fetched_at": "2026-03-14 09:57:20 UTC"
 }
