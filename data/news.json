@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 12
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -89,7 +89,7 @@
         "published": "15 Mar 2026",
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260314_231103_0_T.jpg?20260315",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315005050mralkadhem_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +99,7 @@
         "published": "15 Mar 2026",
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260314_230951_0.jfif?20260315",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315010749cone_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -114,22 +114,52 @@
         "category": "Latest"
       },
       {
+        "title": "Estidama officially announces Chamber election candidacy",
+        "link": "https://www.gdnonline.com/Details/1378596/Estidama-officially-announces-Chamber-election-candidacy",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315_002254_0_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Northstar Telecom standardises broadband infrastructure with HFCLâs IO",
+        "link": "https://www.gdnonline.com/Details/1378595/Northstar-Telecom-standardises-broadband-infrastructure-with-HFCLâs-IO",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315003642mrchacko_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Solidarity Group meetings highlight achievements",
+        "link": "https://www.gdnonline.com/Details/1378594/Solidarity-Group-meetings-highlight-achievements",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315002927one_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Solidarity Bahrain aims to maintain growth momentum",
+        "link": "https://www.gdnonline.com/Details/1378592/Solidarity-Bahrain-aims-to-maintain-growth-momentum",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260314_231108_1_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Alba holds virtual AGM for 2026",
         "link": "https://www.gdnonline.com/Details/1378438/Alba-holds-virtual-AGM-for-2026",
         "published": "13 Mar 2026",
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260313/20260313004225llbtwo_T.jpg?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Khaleeji Bank approves 6pc dividend",
-        "link": "https://www.gdnonline.com/Details/1378436/Khaleeji-Bank-approves-6pc-dividend",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_002139_0.jfif?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -180,6 +210,16 @@
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022543_0_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "'Sinners' and 'One Battle After Another' face off at drama-filled Oscars",
+        "link": "https://www.gdnonline.com/Details/1378419/Sinners-and-One-Battle-After-Another-face-off-at-drama-filled-Oscars-",
+        "published": "13 Mar 2026",
+        "iso_date": "2026-03-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_211338_0_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       }
@@ -439,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 22:22:42 UTC"
+  "fetched_at": "2026-03-14 22:51:54 UTC"
 }
