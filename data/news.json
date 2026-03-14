@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjF0TWJ6Q3JOakZNR0FxYlFHbGdCM3U5eTJPajNjd0JueG43eGtpTk12S2VYY3M5ZndVX1FrU0xpM2Qyd045c0l4Sk5odktqMkdvTUotWWd0MW9vOHkzYmxrWktDQ3ZUTi1ULTRKcFlMRGg4S3FNcnA2MC1HWDk4T010Zm16b3VsSW51SlFqczhDa2czOEl5UHRzU1hLc01rYmVORG1kSWNBblpRRVdXRVpKWlZvMXVBRWZRZDhnRWlaLWpOZEJlMjdDaw?oc=5",
+        "published": "13 Mar 2026, 10:00 AM",
+        "iso_date": "2026-03-13T10:00:01+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iran strike rocks Bahrain’s biggest oil hub, Bapco declares force majeure - what it means",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0pKV3NmaUhnVmdtN0YwYzZBOWhoeHdFT1AtOWhScFczTkFoNm13aFdCQnVpMmhJd0JrQzNfMmRRa2xlWWoyWmxWOTNDd1FCbkswVUZfZ1ZwRXM1Q2x3VFZOVG5JUmNSSUtRbGFkMzRMeGRTVjlFbFp4eVZsUGxWU2lKSFhOR2s3eVJjVklJYXJ1cjlPYVZRdnkxNXNDZkNhU3M5ZjctZmV5Ti1Wc3g5YVl4NWpkV195aldoY1JyUFBIUUExbkxNMmN5QWFpYTVmZlk4QUlCUHN3TEIzTmdYaA?oc=5",
         "published": "13 Mar 2026, 06:51 AM",
@@ -36,26 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WcVVEN05mWFJUX3BrMlJvTThJSlgwcUxGMk91eGUwYUI5OVpFaGhVeVhsMmJIN0ZjeDZER21BSDlBY3Y3b1JORGh4dGI1NWM4eVJZ?oc=5",
         "published": "13 Mar 2026, 09:03 PM",
         "iso_date": "2026-03-13T21:03:03+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts, destroys 114 missiles, 190 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelZOWGxxRGl3TC04dHJ1a1BIVlcyT2laY1FRTmxudGkzTkJCX1JqVk9MazNDOE0yQnFfRzdpX0xWUVd4TDd5NG5NbldiVWowY3JfcXM5MFRZVWNDcTJMdVdYMmVWcmN5eV9Vbm9UZFBScEJBX1FKdmJZeUhTMHd6bnE5Ym1uSG9vRWxESUs0SHFkRHp3X2ZUYi04dG9XTk1UTVNmTy1nT1YtdXRPZ0h5a05aX2NOTmtNblhSRzZ4RUc?oc=5",
-        "published": "13 Mar 2026, 09:54 AM",
-        "iso_date": "2026-03-13T09:54:54+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Says 114 Ballistic Missiles, 190 Drones Intercepted Since Start of Hostilities",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZEY1X3FLVFVaaGhVcm5sMU9USlQwb0hPSTh5WExHYkZqbExLVXRmQ0lRcTZoaHYxbmk1OXlXXzlaVXdrbWxGWlJfLU9raUprR1pZNzRkUVlMdUtVeWlqODdIR0hzbE1fckM5djRORkZDNVVEMXU0MlA2TlZ1QkU2YTlzbEhrdU0zSG9aM2Y0SVotY1lLNFFqZENRQ3NWMWlmUWQ4N3RNblRMTmFaclFUNHBnRWg1MHJRS19FenMySWE?oc=5",
-        "published": "13 Mar 2026, 04:22 AM",
-        "iso_date": "2026-03-13T04:22:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Two Expatriates Killed in Traffic Accident on Al Sahla Road",
-        "link": "https://www.newsofbahrain.com/bahrain/128436.html",
+        "title": "Gulf States Intercept Missiles and Drones Amid Heightened Security",
+        "link": "https://www.newsofbahrain.com/bahrain/128438.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zrMtpFfCQU_2026-03-14_1773465246resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Drone Hits US Embassy Compound in Baghdad",
+        "link": "https://www.newsofbahrain.com/world/128437.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1dvbeo6MHr_2026-03-14_1773464156resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Two Expatriates Killed in Traffic Accident on Al Sahla Road",
+        "link": "https://www.newsofbahrain.com/bahrain/128436.html",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NftephDrUk_2026-03-14_1773460669resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +248,8 @@
       {
         "title": "Trump says US bombed Iran's Kharg Island, threatens oil infrastructure",
         "link": "https://www.newsofbahrain.com/world/128435.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_AKCqvoG1ms_2026-03-13_1773444882resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +258,8 @@
       {
         "title": "HM King Reaffirms Bahrain’s Commitment to Peace and Stability",
         "link": "https://www.newsofbahrain.com/bahrain/128434.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_7wrTtA5ZJH_2026-03-13_1773438497resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,10 +268,10 @@
       {
         "title": "Shaikha Sheema Visits Injured Victims at Salmaniya Medical Complex",
         "link": "https://www.newsofbahrain.com/bahrain/128433.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
+        "published": "13 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fTXKF8SVHR_2026-03-13_1773434499resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fTXKF8SVHR_2026-03-13_1773434499thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,17 +281,7 @@
         "published": "13 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6NmRvodlP3_2026-03-13_1773429376resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "SMEs key to Bahrain’s economic resilience, traders say",
-        "link": "https://www.newsofbahrain.com/bahrain/128430.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_He5ZyDNCIF_2026-03-13_1773427697thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6NmRvodlP3_2026-03-13_1773429376thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +302,6 @@
         "iso_date": "2026-03-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_O87IlcDSGo_2026-03-13_1773410019thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Annai Tamil Mandram Arranges First Chartered Flight from Bahrain to Chennai",
-        "link": "https://www.newsofbahrain.com/world/128421.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tIewsKlTOi_2026-03-13_1773409374thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 04:08:28 UTC"
+  "fetched_at": "2026-03-14 05:29:38 UTC"
 }
