@@ -216,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Sends Fifth Letter to UN Over Continued Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/128477.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VFc1Zjro9n_2026-03-14_1773519318resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "MOI: 6 Arrested for Sharing Misleading Videos and Inciting Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/128476.html",
         "published": "14 Mar 2026, 09:22 AM",
@@ -228,8 +238,8 @@
       {
         "title": "Civil Defence, Security, and Healthcare Systems Fully Operational Amid Aggression",
         "link": "https://www.newsofbahrain.com/bahrain/128475.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_dv7ZfXWyi4_2026-03-14_1773507756resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +258,8 @@
       {
         "title": "Interior Minister Visits Civil Defence to Review Readiness",
         "link": "https://www.newsofbahrain.com/bahrain/128473.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_xuat897lVh_2026-03-14_1773496956resized_pic.jpg",
         "source": "newsofbahrain",
@@ -261,17 +271,7 @@
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sc9JU3pYWC_2026-03-14_1773493676resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "From First Siren to Ongoing Interceptions:14 Days of Continuous Defense Operations Across the Kingdom",
-        "link": "https://www.newsofbahrain.com/bahrain/128471.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IqeB9N3ib1_2026-03-14_1773493609thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sc9JU3pYWC_2026-03-14_1773493676thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 19:47:24 UTC"
+  "fetched_at": "2026-03-14 20:24:09 UTC"
 }
