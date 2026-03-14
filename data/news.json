@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -114,12 +114,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain eyes pharma sector expansion in growth push",
-        "link": "https://www.gdnonline.com/Details/1378504/Bahrain-eyes-pharma-sector-expansion-in-growth-push",
+        "title": "Two pedestrians killed in Al Sahla traffic accident",
+        "link": "https://www.gdnonline.com/Details/1378564/Two-pedestrians-killed-in-Al-Sahla-traffic-accident",
         "published": "14 Mar 2026",
         "iso_date": "2026-03-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260314/20260313_230733_0_T.jpg?20260314",
+        "image": "https://www.gdnonline.com/gdnimages/20260314/20260314095631websitesize_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -206,10 +206,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "CENTCOM Says Precision Strike Destroys Dozens of Iranian Military Sites on Kharg Island",
-        "link": "https://www.newsofbahrain.com/world/128467.html",
+        "title": "UAE Condemns Targeting of its Consulate in Erbil",
+        "link": "https://www.newsofbahrain.com/bahrain/128472.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sc9JU3pYWC_2026-03-14_1773493676resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "From First Siren to Ongoing Interceptions:14 Days of Continuous Defense Operations Across the Kingdom",
+        "link": "https://www.newsofbahrain.com/bahrain/128471.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IqeB9N3ib1_2026-03-14_1773493609resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Macron Says Lebanon Ready for Direct Talks With Israel, Offers Paris as Host",
+        "link": "https://www.newsofbahrain.com/world/128470.html",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2UDzr8gRl5_2026-03-14_1773493567resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "CENTCOM Says Precision Strike Destroys Dozens of Iranian Military Sites on Kharg Island",
+        "link": "https://www.newsofbahrain.com/world/128467.html",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_7BJjawUY9K_2026-03-14_1773491864resized_pic.jpg",
         "source": "newsofbahrain",
@@ -226,32 +256,12 @@
         "category": "Latest"
       },
       {
-        "title": "War with Iran ‘escalating,’ entering ‘decisive stretch’ - Israeli Defence Minister",
-        "link": "https://www.newsofbahrain.com/world/128465.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tuY2pPQeav_2026-03-14_1773490807resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Japan urges Australia to boost LNG output to ensure energy security",
-        "link": "https://www.newsofbahrain.com/world/128464.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YsIdVoyw3p_2026-03-14_1773489354resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Strengthens Food Supply Chain Coordination",
         "link": "https://www.newsofbahrain.com/bahrain/128463.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YXoxJsGBq2_2026-03-14_1773487710resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YXoxJsGBq2_2026-03-14_1773487710thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -266,32 +276,12 @@
         "category": "Latest"
       },
       {
-        "title": "HM King Hamad Visits MOI",
-        "link": "https://www.newsofbahrain.com/bahrain/128461.html",
+        "title": "War with Iran ‘escalating,’ entering ‘decisive stretch’ - Israeli Defence Minister",
+        "link": "https://www.newsofbahrain.com/world/128465.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://img.youtube.com/vi/kldu6XuX73g/hqdefault.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini Volleyball Feud Ends in Reconciliation",
-        "link": "https://www.newsofbahrain.com/bahrain/128460.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HTFGWXQcqZ_2026-03-14_1773481140thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Blast Targets Jewish School in Amsterdam, No Injuries Reported",
-        "link": "https://www.newsofbahrain.com/world/128450.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fqMDFBWjHG_2026-03-14_1773477575thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tuY2pPQeav_2026-03-14_1773490807thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 12:43:07 UTC"
+  "fetched_at": "2026-03-14 13:43:09 UTC"
 }
