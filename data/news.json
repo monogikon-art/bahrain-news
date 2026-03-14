@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -34,8 +34,18 @@
       {
         "title": "Bahrain intercepts 124 missiles, 203 drones amid Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9icXFjQUc2dGxHX0pMeEplbXpPckpZTFg3WGpEUktHdXcwVmJyUDh0SXlZWG9sMzJ0SlUwUjg5TktReHdDU3N5SA?oc=5",
-        "published": "14 Mar 2026, 05:00 PM",
-        "iso_date": "2026-03-14T17:00:51+00:00",
+        "published": "14 Mar 2026, 06:03 PM",
+        "iso_date": "2026-03-14T18:03:51+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Will F1 cancel Bahrain and Saudi Arabia races? Key points explained",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmxWalhMcHdTQ3V6S1B5QmdkLTZSZ0NRdE5WSG9UWmNuZlhBMlJEVkpDTnJDcnkxdW5DT1lsd2NTYndDMnhtU2t1OEtiakN4NmJFRHRZZ2Fia0VrV1VYalI0ZUkyczkwUS1Wd203T01mTlNPT0xHektQMmw1OHZTX0FyMGtYS24tbEZPZHRTRGZfTG9FWHRwNVhXaUlUamwyTWpJX3NEWE5hNy1FVnhWcjVkTQ?oc=5",
+        "published": "14 Mar 2026, 10:35 PM",
+        "iso_date": "2026-03-14T22:35:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,6 +236,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Formula 1 Confirms Bahrain GP Will Not Take Place in April",
+        "link": "https://www.newsofbahrain.com/bahrain/128480.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z1GeK7na6t_2026-03-14_1773528689resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Intercepts 328 Missiles and Drones",
         "link": "https://www.newsofbahrain.com/bahrain/128479.html",
         "published": "14 Mar 2026, 09:22 AM",
@@ -238,8 +258,8 @@
       {
         "title": "Gold buyers step back as uncertainty slows Bahrain’s jewellery markets",
         "link": "https://www.newsofbahrain.com/bahrain/128478.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_YQDBxIk4nG_2026-03-14_1773520225resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,20 +278,10 @@
       {
         "title": "MOI: 6 Arrested for Sharing Misleading Videos and Inciting Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/128476.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rM3RhpdgND_2026-03-14_1773512191resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Civil Defence, Security, and Healthcare Systems Fully Operational Amid Aggression",
-        "link": "https://www.newsofbahrain.com/bahrain/128475.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dv7ZfXWyi4_2026-03-14_1773507756resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rM3RhpdgND_2026-03-14_1773512191resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 22:51:54 UTC"
+  "fetched_at": "2026-03-14 23:24:45 UTC"
 }
