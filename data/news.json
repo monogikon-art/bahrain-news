@@ -159,7 +159,7 @@
         "published": "15 Mar 2026",
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260314_231108_1_T.jpg?20260315",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020327shaikhkhalid_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -236,6 +236,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Formula 1 Cancels April Races in Bahrain and Saudi Arabia",
+        "link": "https://www.newsofbahrain.com/bahrain/128481.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z1betXsVIl_2026-03-14_1773531097resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Formula 1 Confirms Bahrain GP Will Not Take Place in April",
         "link": "https://www.newsofbahrain.com/bahrain/128480.html",
         "published": "15 Mar 2026, 09:22 AM",
@@ -248,8 +258,8 @@
       {
         "title": "Bahrain Intercepts 328 Missiles and Drones",
         "link": "https://www.newsofbahrain.com/bahrain/128479.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_K6gVGrzpft_2026-03-14_1773521402resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,20 +278,10 @@
       {
         "title": "Bahrain Sends Fifth Letter to UN Over Continued Iranian Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/128477.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VFc1Zjro9n_2026-03-14_1773519318resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "MOI: 6 Arrested for Sharing Misleading Videos and Inciting Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/128476.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rM3RhpdgND_2026-03-14_1773512191resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VFc1Zjro9n_2026-03-14_1773519318resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 23:24:45 UTC"
+  "fetched_at": "2026-03-14 23:50:08 UTC"
 }
