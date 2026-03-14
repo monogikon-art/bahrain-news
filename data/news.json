@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -84,6 +84,26 @@
     ],
     "gdn": [
       {
+        "title": "Bahrain sends fifth letter to UN Secretary-General and Security Council President on Iranian Attacks",
+        "link": "https://www.gdnonline.com/Details/1378577/Bahrain-sends-fifth-letter-to-UN-Secretary-General-and-Security-Council-President-on-Iranian-Attacks",
+        "published": "14 Mar 2026",
+        "iso_date": "2026-03-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260314/20260314225359gdn-websitesize-2026-03-14t230202.009_T.jpg?20260314",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Six arrested for posting videos on aftermath of Iranian aggression",
+        "link": "https://www.gdnonline.com/Details/1378576/Six-arrested-for-posting-videos-on-aftermath-of-Iranian-aggression",
+        "published": "14 Mar 2026",
+        "iso_date": "2026-03-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260314/20260314225326gdn-websitesize-2026-03-14t225855.714_T.jpg?20260314",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Lulu brings more than 100 tonnes of food essentials to Bahrain via Gulf Air repatriation flights",
         "link": "https://www.gdnonline.com/Details/1378575/Lulu-brings-more-than-100-tonnes-of-food-essentials-to-Bahrain-via-Gulf-Air-repatriation-flights",
         "published": "14 Mar 2026",
@@ -110,26 +130,6 @@
         "iso_date": "2026-03-14T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260314/20260314_003738_2_T.jpg?20260314",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Government outlines policies to support key sectors",
-        "link": "https://www.gdnonline.com/Details/1378523/Government-outlines-policies-to-support-key-sectors",
-        "published": "14 Mar 2026",
-        "iso_date": "2026-03-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260314/20260314005931shuraandrepresentativescouncilsaffairsminister-hmâsaddressisaroadmapforconstructive_T.jpg?20260314",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Average power consumption levels remain low",
-        "link": "https://www.gdnonline.com/Details/1378521/Average-power-consumption-levels-remain-low",
-        "published": "14 Mar 2026",
-        "iso_date": "2026-03-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260314/20260314_003738_0_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Sends Fifth Letter to UN Over Continued Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/128477.html",
+        "title": "Bahrain Intercepts 328 Missiles and Drones",
+        "link": "https://www.newsofbahrain.com/bahrain/128479.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_K6gVGrzpft_2026-03-14_1773521402resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gold buyers step back as uncertainty slows Bahrain’s jewellery markets",
+        "link": "https://www.newsofbahrain.com/bahrain/128478.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YQDBxIk4nG_2026-03-14_1773520225resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Sends Fifth Letter to UN Over Continued Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/128477.html",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_VFc1Zjro9n_2026-03-14_1773519318resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +248,8 @@
       {
         "title": "MOI: 6 Arrested for Sharing Misleading Videos and Inciting Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/128476.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_rM3RhpdgND_2026-03-14_1773512191resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +258,8 @@
       {
         "title": "Civil Defence, Security, and Healthcare Systems Fully Operational Amid Aggression",
         "link": "https://www.newsofbahrain.com/bahrain/128475.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_dv7ZfXWyi4_2026-03-14_1773507756resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,20 +268,10 @@
       {
         "title": "Trump Announces International Naval Effort to Keep Strait of Hormuz Open",
         "link": "https://www.newsofbahrain.com/world/128474.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MCBidGuXhr_2026-03-14_1773507642resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Interior Minister Visits Civil Defence to Review Readiness",
-        "link": "https://www.newsofbahrain.com/bahrain/128473.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xuat897lVh_2026-03-14_1773496956resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MCBidGuXhr_2026-03-14_1773507642thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 20:24:09 UTC"
+  "fetched_at": "2026-03-14 20:51:55 UTC"
 }
