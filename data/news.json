@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9icXFjQUc2dGxHX0pMeEplbXpPckpZTFg3WGpEUktHdXcwVmJyUDh0SXlZWG9sMzJ0SlUwUjg5TktReHdDU3N5SA?oc=5",
         "published": "14 Mar 2026, 05:00 PM",
         "iso_date": "2026-03-14T17:00:51+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Government working to improve crisis communication strategy",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WcVVEN05mWFJUX3BrMlJvTThJSlgwcUxGMk91eGUwYUI5OVpFaGhVeVhsMmJIN0ZjeDZER21BSDlBY3Y3b1JORGh4dGI1NWM4eVJZ?oc=5",
-        "published": "13 Mar 2026, 09:03 PM",
-        "iso_date": "2026-03-13T21:03:03+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 20:51:55 UTC"
+  "fetched_at": "2026-03-14 21:23:31 UTC"
 }
