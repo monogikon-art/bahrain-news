@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,26 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "Will F1 cancel Bahrain and Saudi Arabia races? Will they be replaced? Key points explained",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFdUX01OemdycExpOUhWaEdST0ZQNlVVXzV0UmV4ZDFVT1dCb0JqTFNMVExPbURyek9NQjVWZ3g2YlFaSHZhd0ZGUTZPbXp6cGptZ1JSM2c0MkUydUR4MjNiaXZRc1g5ZnVzSzBya0dRX3N5NU9GU05rMlNLSGxJSDJqR2FiUkl2aXczYWMwVjdXcHlWVGRIdWhFZVlnd1Y2T2hYSnpRWVY4XzBNTl9WZEVn?oc=5",
-        "published": "13 Mar 2026, 04:37 PM",
-        "iso_date": "2026-03-13T16:37:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Tatarstan president expresses solidarity with Bahrain after Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0JxV3FPeUZXRXNwMFpSSlpZTFpRR0s2R3VzMFhZME5QNjlBeUJ6ZGVCUWo5clZfVzVfRnpsQ0xhZDloQmJoWEx5RVFuci12LUd4RC1UcG1aQW9kNXV3eUJNcUhfSFB6eTQ5RVZPVXNMa3l0RW1Vb2p3ek5sdmxIdkM4Nk1GMm1IZjIzSzlDT0V0YkR6RHBCTDdiV3B4Z2xBVUdZOQ?oc=5",
-        "published": "13 Mar 2026, 01:37 PM",
-        "iso_date": "2026-03-13T13:37:51+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Government working to improve crisis communication strategy",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WcVVEN05mWFJUX3BrMlJvTThJSlgwcUxGMk91eGUwYUI5OVpFaGhVeVhsMmJIN0ZjeDZER21BSDlBY3Y3b1JORGh4dGI1NWM4eVJZ?oc=5",
         "published": "13 Mar 2026, 09:03 PM",
@@ -66,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSTNxbERmeDhUX3JQOUU0U0ZCWXpzMWs4WWMtYlJhbm5NMzlDVDFlWjFuQ0pIOVk4aENubGdqaTR2SkRLMWI0ZkdvOS1wc1ZTVHlqN1J0bS1RTS13OE01a3B5a1gwQjZ0SDFkT0x4YWVEeWp0WEwtaGJhdGRhZkZxR1lacVYxaVUzV0NJeGpZTDR2ZEE1NjZibHRQdTQzVVBtaFpNMkY0alZ1VFFqZGRCbmRCZ2tsdGlrSTRkeWNmbjJ1ODVHN2FBeUFnYmQyNC03c0kydEUtc9IB1wFBVV95cUxPSTNxbERmeDhUX3JQOUU0U0ZCWXpzMWs4WWMtYlJhbm5NMzlDVDFlWjFuQ0pIOVk4aENubGdqaTR2SkRLMWI0ZkdvOS1wc1ZTVHlqN1J0bS1RTS13OE01a3B5a1gwQjZ0SDFkT0x4YWVEeWp0WEwtaGJhdGRhZkZxR1lacVYxaVUzV0NJeGpZTDR2ZEE1NjZibHRQdTQzVVBtaFpNMkY0alZ1VFFqZGRCbmRCZ2tsdGlrSTRkeWNmbjJ1ODVHN2FBeUFnYmQyNC03c0kydEUtcw?oc=5",
         "published": "14 Mar 2026, 01:45 AM",
         "iso_date": "2026-03-14T01:45:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts, destroys 124 missiles, 203 UAVs since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3Axd05xcndHcGp0aWJNaHk2d3pqZkhnM2ROY1pTYTNfTnZEaXJWWWJhNVNWWDJlUWNNVGI0WDB1NTJCYTE5SUZPSzRYRG1sUVN1R01RNXY2Tmh6eURYX0tMeG1GSWhjWjZUbFpldWROeXY2ZTJRZ0cxdHY1azAtckM4bHc5QXY1T1hnaWhSbW9rOFIzd1RkX25VMEgwbUczRVU5MEVvV0dtVEZndXpqdzBSMjVjTERLeG96bFpXMjk2X0Jt?oc=5",
+        "published": "14 Mar 2026, 10:25 AM",
+        "iso_date": "2026-03-14T10:25:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 10:31:34 UTC"
+  "fetched_at": "2026-03-14 11:21:51 UTC"
 }
