@@ -206,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Interior Minister Visits Civil Defence to Review Readiness",
+        "link": "https://www.newsofbahrain.com/bahrain/128473.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xuat897lVh_2026-03-14_1773496956resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "UAE Condemns Targeting of its Consulate in Erbil",
         "link": "https://www.newsofbahrain.com/bahrain/128472.html",
         "published": "14 Mar 2026, 09:22 AM",
@@ -218,8 +228,8 @@
       {
         "title": "From First Siren to Ongoing Interceptions:14 Days of Continuous Defense Operations Across the Kingdom",
         "link": "https://www.newsofbahrain.com/bahrain/128471.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_IqeB9N3ib1_2026-03-14_1773493609resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +248,8 @@
       {
         "title": "CENTCOM Says Precision Strike Destroys Dozens of Iranian Military Sites on Kharg Island",
         "link": "https://www.newsofbahrain.com/world/128467.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_7BJjawUY9K_2026-03-14_1773491864resized_pic.jpg",
         "source": "newsofbahrain",
@@ -251,7 +261,7 @@
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CgqUVDw6YS_2026-03-14_1773490915resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CgqUVDw6YS_2026-03-14_1773490915thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -262,16 +272,6 @@
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_YXoxJsGBq2_2026-03-14_1773487710thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fire in Fujairah caused by drone debris following interception",
-        "link": "https://www.newsofbahrain.com/bahrain/128462.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kUi49n0gsL_2026-03-14_1773483144thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 13:43:09 UTC"
+  "fetched_at": "2026-03-14 14:26:11 UTC"
 }
