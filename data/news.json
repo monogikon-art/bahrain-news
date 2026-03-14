@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3Axd05xcndHcGp0aWJNaHk2d3pqZkhnM2ROY1pTYTNfTnZEaXJWWWJhNVNWWDJlUWNNVGI0WDB1NTJCYTE5SUZPSzRYRG1sUVN1R01RNXY2Tmh6eURYX0tMeG1GSWhjWjZUbFpldWROeXY2ZTJRZ0cxdHY1azAtckM4bHc5QXY1T1hnaWhSbW9rOFIzd1RkX25VMEgwbUczRVU5MEVvV0dtVEZndXpqdzBSMjVjTERLeG96bFpXMjk2X0Jt?oc=5",
         "published": "14 Mar 2026, 10:25 AM",
         "iso_date": "2026-03-14T10:25:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts, Destroys 121 Missiles, 193 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXBoTnNVNE13VmxhVjRkbG1tYWtGTDRTbzZUY1loZU5lQjYtSEhrZDFENWNpNFpZSXZ1SlZqNUpOM3lVZVF0V053MzNmVnFTYlYxUDBDT19qbUxYX0dpTWNUX1dobU5RZ1F4WmZMa01nVDBrUnFXZ2ZLZ3c3cVBsLXFTeldWUXljZEhEX1RkVHBlNG5DdmdsR3FVYWluUQ?oc=5",
-        "published": "13 Mar 2026, 10:15 PM",
-        "iso_date": "2026-03-13T22:15:05+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -190,16 +180,6 @@
         "iso_date": "2026-03-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022543_0_T.jpg?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "'Sinners' and 'One Battle After Another' face off at drama-filled Oscars",
-        "link": "https://www.gdnonline.com/Details/1378419/Sinners-and-One-Battle-After-Another-face-off-at-drama-filled-Oscars-",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_211338_0_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       }
@@ -459,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 21:48:46 UTC"
+  "fetched_at": "2026-03-14 22:22:42 UTC"
 }
