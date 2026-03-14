@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45MjRFVF8tZHAwbHlheFR4RTdobzhpdHZZSGpFS3VsVHBOYnM3SGpON3BoRkRNNWdod2M0SGhGUVBLZmZqZ0pUamFpRXFMdjBTOU53?oc=5",
         "published": "14 Mar 2026, 04:47 AM",
         "iso_date": "2026-03-14T04:47:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Will F1 cancel Bahrain and Saudi Arabia races? Will they be replaced? Key points explained",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFdUX01OemdycExpOUhWaEdST0ZQNlVVXzV0UmV4ZDFVT1dCb0JqTFNMVExPbURyek9NQjVWZ3g2YlFaSHZhd0ZGUTZPbXp6cGptZ1JSM2c0MkUydUR4MjNiaXZRc1g5ZnVzSzBya0dRX3N5NU9GU05rMlNLSGxJSDJqR2FiUkl2aXczYWMwVjdXcHlWVGRIdWhFZVlnd1Y2T2hYSnpRWVY4XzBNTl9WZEVn?oc=5",
+        "published": "13 Mar 2026, 04:37 PM",
+        "iso_date": "2026-03-13T16:37:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 14:53:49 UTC"
+  "fetched_at": "2026-03-14 15:25:11 UTC"
 }
