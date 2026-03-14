@@ -74,6 +74,16 @@
     ],
     "gdn": [
       {
+        "title": "Bahrain airspace remains temporarily closed",
+        "link": "https://www.gdnonline.com/Details/1378571/Bahrain-airspace-remains-temporarily-closed",
+        "published": "14 Mar 2026",
+        "iso_date": "2026-03-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260314/20260314140634bia_T.jpg?20260314",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Decree-law proposes tougher penalties for financial crime",
         "link": "https://www.gdnonline.com/Details/1378522/Decree-law-proposes-tougher-penalties-for-financial-crime",
         "published": "14 Mar 2026",
@@ -110,16 +120,6 @@
         "iso_date": "2026-03-14T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260314/20260313_230733_0_T.jpg?20260314",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "CBSE Class 12 pupils struggle with uncertain exam timeline",
-        "link": "https://www.gdnonline.com/Details/1378505/CBSE-Class-12-pupils-struggle-with-uncertain-exam-timeline",
-        "published": "14 Mar 2026",
-        "iso_date": "2026-03-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260314/20260313_230734_0.png?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -206,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Strengthens Food Supply Chain Coordination",
+        "link": "https://www.newsofbahrain.com/bahrain/128463.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YXoxJsGBq2_2026-03-14_1773487710resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Fire in Fujairah caused by drone debris following interception",
         "link": "https://www.newsofbahrain.com/bahrain/128462.html",
         "published": "14 Mar 2026, 09:22 AM",
@@ -218,8 +228,8 @@
       {
         "title": "HM King Hamad Visits MOI",
         "link": "https://www.newsofbahrain.com/bahrain/128461.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
         "summary": "",
         "image": "https://img.youtube.com/vi/kldu6XuX73g/hqdefault.jpg",
         "source": "newsofbahrain",
@@ -238,20 +248,10 @@
       {
         "title": "Proposal seeks to restore cancelled housing applications",
         "link": "https://www.newsofbahrain.com/bahrain/128458.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ipIYwFB2EP_2026-03-14_1773480603resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Calls grow to support fishermen and protect traditional livelihoods",
-        "link": "https://www.newsofbahrain.com/bahrain/128456.html",
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8MaVj5bXuP_2026-03-14_1773480472resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ipIYwFB2EP_2026-03-14_1773480603resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 11:21:51 UTC"
+  "fetched_at": "2026-03-14 11:45:44 UTC"
 }
