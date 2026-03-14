@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -206,6 +206,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Calls grow to support fishermen and protect traditional livelihoods",
+        "link": "https://www.newsofbahrain.com/bahrain/128456.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8MaVj5bXuP_2026-03-14_1773480472resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MPs seek specialised centre to support women with sickle cell disease",
+        "link": "https://www.newsofbahrain.com/bahrain/128454.html",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3KB7bV5sHP_2026-03-14_1773480360resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Free transport for elderly to hospital appointments proposed",
+        "link": "https://www.newsofbahrain.com/bahrain/128451.html",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b3Xw9U5nW1_2026-03-14_1773480115resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Blast Targets Jewish School in Amsterdam, No Injuries Reported",
+        "link": "https://www.newsofbahrain.com/world/128450.html",
+        "published": "14 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fqMDFBWjHG_2026-03-14_1773477575resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Pakistan Intercepts Drones Near Islamabad, Injuries Reported",
         "link": "https://www.newsofbahrain.com/world/128449.html",
         "published": "14 Mar 2026, 09:22 AM",
@@ -221,27 +261,27 @@
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UD5C2Mnq8t_2026-03-14_1773476758resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UD5C2Mnq8t_2026-03-14_1773476758thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain Police Arrest Drivers, Impound Cars Over Public Order Violations",
         "link": "https://www.newsofbahrain.com/bahrain/128447.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_paU9i7WeVQ_2026-03-14_1773475815resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_paU9i7WeVQ_2026-03-14_1773475815thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Israeli Strike on Health Centre in South Lebanon Kills 12 Medical Workers",
         "link": "https://www.newsofbahrain.com/world/128446.html",
-        "published": "14 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-14T09:00:43+00:00",
+        "published": "14 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CNr83VQ45J_2026-03-14_1773474904resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CNr83VQ45J_2026-03-14_1773474904thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,47 +291,7 @@
         "published": "14 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eEqCcfZS59_2026-03-14_1773474655resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Reports Iranian Attacks to UN, Says Over 300 Missiles and Drones Intercepted",
-        "link": "https://www.newsofbahrain.com/bahrain/128440.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q6VNsBSrlE_2026-03-14_1773470582thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf States Intercept Missiles and Drones Amid Heightened Security",
-        "link": "https://www.newsofbahrain.com/bahrain/128438.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zrMtpFfCQU_2026-03-14_1773465246thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Two Expatriates Killed in Traffic Accident on Al Sahla Road",
-        "link": "https://www.newsofbahrain.com/bahrain/128436.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NftephDrUk_2026-03-14_1773460669thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russian Drone and Missile Strikes Kill Four in Kyiv Region",
-        "link": "https://www.newsofbahrain.com/world/128444.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KXo7MnwAst_2026-03-14_1773472526thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eEqCcfZS59_2026-03-14_1773474655thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -342,16 +342,6 @@
         "iso_date": "2026-03-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_jRbugZeVJX_2026-03-13_1773391643thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Let the cash move",
-        "link": "https://www.newsofbahrain.com/views/128334.html",
-        "published": "12 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RSEyVZBtvM_2026-03-12_1773306498thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 08:31:01 UTC"
+  "fetched_at": "2026-03-14 09:29:49 UTC"
 }
