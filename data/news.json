@@ -84,6 +84,16 @@
     ],
     "gdn": [
       {
+        "title": "Lulu brings more than 100 tonnes of food essentials to Bahrain via Gulf Air repatriation flights",
+        "link": "https://www.gdnonline.com/Details/1378575/Lulu-brings-more-than-100-tonnes-of-food-essentials-to-Bahrain-via-Gulf-Air-repatriation-flights",
+        "published": "14 Mar 2026",
+        "iso_date": "2026-03-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260314/20260314220510image1(1).jpeg?20260314",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain airspace remains temporarily closed",
         "link": "https://www.gdnonline.com/Details/1378571/Bahrain-airspace-remains-temporarily-closed",
         "published": "14 Mar 2026",
@@ -120,16 +130,6 @@
         "iso_date": "2026-03-14T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260314/20260314_003738_0_T.jpg?20260314",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Two pedestrians killed in Al Sahla traffic accident",
-        "link": "https://www.gdnonline.com/Details/1378564/Two-pedestrians-killed-in-Al-Sahla-traffic-accident",
-        "published": "14 Mar 2026",
-        "iso_date": "2026-03-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260314/20260314095631websitesize_T.jpg?20260314",
         "source": "gdn",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 19:24:25 UTC"
+  "fetched_at": "2026-03-14 19:47:24 UTC"
 }
