@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yZVFWWVRxQnMwR3VMdjZqMXNEaXoxbzNoYUZTOWxnNS1yTmZ0V0dkbHJGYkFrUk5OSUJsU0pwUlE2SmZIQ3pUeGxvUDdnTWJoOEg5eEdiUkJnQQ?oc=5",
         "published": "15 Mar 2026, 08:33 AM",
         "iso_date": "2026-03-15T08:33:19+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "125 ballistic missiles, 212 drones intercepted by Bahrain air defences since start of Iranian attack",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2FXZEdnNU0zWExuU0xGTXh4aHByMXUtaWRaLW9JV3V4bVBPR3lYd210UU9NTklIZXdTb0w5QXAxd25aZUlmaDVtMVhGNUVvR2ZzSDFUVGgzX1hIU2luTjV5UXpaRmRuZFlnd29WQ2ZqNGF4UEFhVW9uVVg1M2ZWdEk3c2pWMmplSjNfbDNSR3VnMmc3b3B2Umt2MTRQczNOUk90TUItczd1N2FrY29rRnpycllHd2dVcXVqY2xkUnhVM2o5aXU0R183eW5YdmJPVHZGdUdUQUl2RzFlNUE?oc=5",
+        "published": "15 Mar 2026, 11:01 PM",
+        "iso_date": "2026-03-15T23:01:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 22:54:08 UTC"
+  "fetched_at": "2026-03-15 23:26:21 UTC"
 }
