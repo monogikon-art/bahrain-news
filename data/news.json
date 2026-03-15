@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 5
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -32,6 +32,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain arrests five over espionage for Iran’s IRGC",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNVBGS1VvbXZKenFYU3M5SXY2TjhpdlI1RFBNMnR1QjBHMEFlTVF2aDdQcVMzNERlc0JEMlJGX0ROX0dEdkdmTktoNzl3SC1IX1hoUkd1cWtYbjFZX2MxbEROTnlJcHgyd2c?oc=5",
+        "published": "15 Mar 2026, 02:51 PM",
+        "iso_date": "2026-03-15T14:51:31+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "The true impact of F1’s huge decision to cancel Bahrain and Saudi Arabia races",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuc0ZMcUNCaktwbGl2NjRBbXBvUDlkUVhHdnhoQ0FSOEJBVG5Ed29ybzc2Zjl5TU40ZE5fam03S3ZiX3pFWWhBZGFzSWlFMmVPcFNUUFdfeVdSc3F4LXh0b0VMaHlFb2FCbzc0RjIwenZHam8xNHJDbGczVXdaMWs?oc=5",
         "published": "15 Mar 2026, 12:18 PM",
@@ -42,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "West Asia Conflict Intensifies Amid Drone Attacks, Diplomatic Tensions",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vN3RGeElZakdzWkVjbGRyZjFlYk0xU1Fkb2RmV21vZGJ5MlktMEc0MEFoUWtYODN6YVFoeTBHLTYyMGxsbTZkLUJhSklfeGxQeTBvZ1QzcklsUFI0?oc=5",
+        "title": "WEST ASIA CONFLICT INTENSIFIES AMID DRONE ATTACKS, DIPLOMATIC TENSIONS",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TcWdwQzFtdWoyemM0bGI1X0lfRDdsRF9GN2ZkcUtzM01iNXBxUFNjSEhkcjVLQ3dlbm9YWjNIUjJLWUJsbTBkcTZ1dFRaRmdWRkRxX0hPcy1TUQ?oc=5",
         "published": "15 Mar 2026, 12:56 PM",
-        "iso_date": "2026-03-15T12:56:52+00:00",
+        "iso_date": "2026-03-15T12:56:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -120,6 +130,76 @@
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260315/20260315120652gulfair(3)_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Alba shuts down three production lines due to shipping disruptions",
+        "link": "https://www.gdnonline.com/Details/1378652/Alba-shuts-down-three-production-lines-due-to-shipping-disruptions",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315133315alba_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Estidama officially announces Chamber election candidacy",
+        "link": "https://www.gdnonline.com/Details/1378596/Estidama-officially-announces-Chamber-election-candidacy",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315_002254_0_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Northstar Telecom standardises broadband infrastructure with HFCLâs IO",
+        "link": "https://www.gdnonline.com/Details/1378595/Northstar-Telecom-standardises-broadband-infrastructure-with-HFCLâs-IO",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315003642mrchacko_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Solidarity Group meetings highlight achievements",
+        "link": "https://www.gdnonline.com/Details/1378594/Solidarity-Group-meetings-highlight-achievements",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315002927one_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Solidarity Bahrain aims to maintain growth momentum",
+        "link": "https://www.gdnonline.com/Details/1378592/Solidarity-Bahrain-aims-to-maintain-growth-momentum",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020327shaikhkhalid_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Arsenal pull 9 points clear as West Ham hold City 1-1",
+        "link": "https://www.gdnonline.com/Details/1378617/Arsenal-pull-9-points-clear-as-West-Ham-hold-City-1-1",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315_024726_0_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Khaldiya back on top",
+        "link": "https://www.gdnonline.com/Details/1378541/Khaldiya-back-on-top",
+        "published": "14 Mar 2026",
+        "iso_date": "2026-03-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260314/20260314_015519_1.png?20260315",
         "source": "gdn",
         "category": "Latest"
       }
@@ -379,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 14:27:42 UTC"
+  "fetched_at": "2026-03-15 14:56:46 UTC"
 }
