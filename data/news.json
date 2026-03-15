@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 18
     }
   },
   "articles": {
@@ -32,10 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "F1’s decision to cancel Bahrain and Saudi Arabia races explained",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWs3dTlrcFZmMlNSUHIxd1d0dlYzWXRudTRCZkFCMkJJa180N0MyZlA5dWdkWVdEOUQ2QS03NEliUVoxSE1BaGtDYTVOTTktcHJHTnZRZ2k5YWJqbDgxMDBXM1Iycmg3YndsQ1RkM0lqTndud3VES3dDRTVYQVJYcEFnQm1pVWhhRXdSbzI2Z0xaNUZqY0pVbWJqVUNYeWdQWTB0a0FuUE1NZ21aTGNBR2VB?oc=5",
-        "published": "14 Mar 2026, 10:35 PM",
-        "iso_date": "2026-03-14T22:35:00+00:00",
+        "title": "KUWAIT AIR DEFENCES SHOOT DOWN FIVE HOSTILE UAVS",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yZVFWWVRxQnMwR3VMdjZqMXNEaXoxbzNoYUZTOWxnNS1yTmZ0V0dkbHJGYkFrUk5OSUJsU0pwUlE2SmZIQ3pUeGxvUDdnTWJoOEg5eEdiUkJnQQ?oc=5",
+        "published": "15 Mar 2026, 08:33 AM",
+        "iso_date": "2026-03-15T08:33:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,30 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts, Destroys 124 Missiles, 203 UAVs Since Start Of Iranian Attacks - Emirates 24|7",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ2EtdHQ0b3h1bTI5dE1wQTA2YlVJTTgxUHUzMml2U2NmaC0tRXVNNVpKdVBJU29TbktBbW85anZESVZrbmtNV0I2QWVuN0tCODZ2T2FqMUQyeVhrTmNicnpjVno1bVpnbUIzVXZtNzVKR0Iwb2k3UWpoYjViaE1ob3ljb0lVRTN6N0hNdmYwM1AteXo2YmZBVUxyTFNRdkxlekduMGVjaDJGQTJ6elpJMENnOU9YRm1NOEp1eXFHWTVHNy1mTmpNaXhHMnhGSnp2cmFnZtIB1AFBVV95cUxOZ2EtdHQ0b3h1bTI5dE1wQTA2YlVJTTgxUHUzMml2U2NmaC0tRXVNNVpKdVBJU29TbktBbW85anZESVZrbmtNV0I2QWVuN0tCODZ2T2FqMUQyeVhrTmNicnpjVno1bVpnbUIzVXZtNzVKR0Iwb2k3UWpoYjViaE1ob3ljb0lVRTN6N0hNdmYwM1AteXo2YmZBVUxyTFNRdkxlekduMGVjaDJGQTJ6elpJMENnOU9YRm1NOEp1eXFHWTVHNy1mTmpNaXhHMnhGSnp2cmFnZg?oc=5",
-        "published": "14 Mar 2026, 11:36 AM",
-        "iso_date": "2026-03-14T11:36:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "US issues new travel warning for Bahrain amid 'hostile Iranian missile attacks'",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTlkxeHprT0lLUGFjdmR6U2hPSHRGc2YwUUxBRW40cnItendrVWZlcWF0dEhDbWpqMWFFM0gzeGN2cGRpOF84dlo2RE1oNDlIZU9Cb0lsTkt0ZWVzbFlJaHpfVkRNOGgydGo4M3VwWGFYdGVnRlpyc1RQVHppaTNTQ0x0TzFvZWwxV3dDU2tuOTYtMVR6R1FiQUZYSGR2bklSRHF4N3hTT25kZ09VS3BEelBfdWFiNi1aQlNJaWlORm1Ma0J0?oc=5",
-        "published": "14 Mar 2026, 11:36 AM",
-        "iso_date": "2026-03-14T11:36:52+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "US & ‘Israel’ at war with Iran | Day 15 coverage",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUElMM1pCODlwRlUybHNOZmowcUI1OGpDOGU1WFVZNE5CREhOeFZISFZWWWxDVzU2alV6ZnVGS2xkR1hhcTlYbmZtdzJkVnB5dHdFR1FaaTF2OHRhaGoyY29sODhjQzBvZzA3WUpDdG9ZT2dfbXZ5TDV5QURSNkJ6bm9RcHB5dW8xSFVCeW9pRkU1NnEzc1Z0dHhxTnFiV3U3Mm5fMg?oc=5",
         "published": "14 Mar 2026, 11:23 AM",
         "iso_date": "2026-03-14T11:23:34+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts, destroys 124 missiles, 203 UAVs since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3Axd05xcndHcGp0aWJNaHk2d3pqZkhnM2ROY1pTYTNfTnZEaXJWWWJhNVNWWDJlUWNNVGI0WDB1NTJCYTE5SUZPSzRYRG1sUVN1R01RNXY2Tmh6eURYX0tMeG1GSWhjWjZUbFpldWROeXY2ZTJRZ0cxdHY1azAtckM4bHc5QXY1T1hnaWhSbW9rOFIzd1RkX25VMEgwbUczRVU5MEVvV0dtVEZndXpqdzBSMjVjTERLeG96bFpXMjk2X0Jt?oc=5",
+        "published": "14 Mar 2026, 10:25 AM",
+        "iso_date": "2026-03-14T10:25:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,42 +186,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Pakistan Strikes Taliban Facilities in Southern Afghanistan",
-        "link": "https://www.newsofbahrain.com/world/128507.html",
+        "title": "Brighton win at Sunderland, Bournemouth held by Burnley",
+        "link": "https://www.newsofbahrain.com/sports/128512.html",
         "published": "15 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eP4XSDCWtu_2026-03-15_1773560323resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XxHwugzJGi_2026-03-15_1773563364resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Atletico beat Getafe as Abqar sent off for touching Sorloth’s crotch",
-        "link": "https://www.newsofbahrain.com/sports/128506.html",
+        "title": "Kimi Antonelli takes Chinese GP pole, youngest in F1 history",
+        "link": "https://www.newsofbahrain.com/sports/128511.html",
         "published": "15 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZLvtNCnuwT_2026-03-15_1773559506resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zJBlNa4sGc_2026-03-15_1773563098resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Nine-man Bayern fight to draw at Leverkusen",
-        "link": "https://www.newsofbahrain.com/sports/128505.html",
+        "title": "Eid Al Fitr is expected to fall on Friday, 20 March.",
+        "link": "https://www.newsofbahrain.com/bahrain/128510.html",
         "published": "15 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-15T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rLNUAfHQ7m_2026-03-15_1773559249resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_98v5chwCrB_2026-03-15_1773562877resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russian sports minister defends return of flag, anthem to Paralympics",
+        "link": "https://www.newsofbahrain.com/sports/128509.html",
+        "published": "15 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pXolgGWmHc_2026-03-15_1773562678resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahraini Volleyball Feud Ends in Reconciliation",
+        "link": "https://www.newsofbahrain.com/sports/128508.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HgCm75FyMa_2026-03-15_1773562520resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Royal address praised for reinforcing unity and stability",
         "link": "https://www.newsofbahrain.com/bahrain/128504.html",
-        "published": "15 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-15T09:00:43+00:00",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8VzSpUIB3x_2026-03-15_1773558996resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8VzSpUIB3x_2026-03-15_1773558996thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -241,7 +251,7 @@
         "published": "15 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uvM12JgWLC_2026-03-15_1773558908resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uvM12JgWLC_2026-03-15_1773558908thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -266,12 +276,12 @@
         "category": "Latest"
       },
       {
-        "title": "Eid countdown sparks surge in henna bookings",
-        "link": "https://www.newsofbahrain.com/bahrain/128494.html",
+        "title": "Pakistan Strikes Taliban Facilities in Southern Afghanistan",
+        "link": "https://www.newsofbahrain.com/world/128507.html",
         "published": "15 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J9CyWej8SG_2026-03-15_1773552776thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eP4XSDCWtu_2026-03-15_1773560323thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 07:59:57 UTC"
+  "fetched_at": "2026-03-15 08:50:16 UTC"
 }
