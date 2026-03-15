@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -60,16 +60,6 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Will F1 cancel Bahrain and Saudi Arabia races? Key points explained",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmxWalhMcHdTQ3V6S1B5QmdkLTZSZ0NRdE5WSG9UWmNuZlhBMlJEVkpDTnJDcnkxdW5DT1lsd2NTYndDMnhtU2t1OEtiakN4NmJFRHRZZ2Fia0VrV1VYalI0ZUkyczkwUS1Wd203T01mTlNPT0xHektQMmw1OHZTX0FyMGtYS24tbEZPZHRTRGZfTG9FWHRwNVhXaUlUamwyTWpJX3NEWE5hNy1FVnhWcjVkTQ?oc=5",
-        "published": "14 Mar 2026, 10:35 PM",
-        "iso_date": "2026-03-14T22:35:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
@@ -84,10 +74,10 @@
         "category": "Latest"
       },
       {
-        "title": "HRH Prince Salman issues circular on Eid Al Fitr holidays",
-        "link": "https://www.gdnonline.com/Details/1378658/HRH-Prince-Salman-issues-circular-on-Eid-Al-Fitr-holidays",
-        "published": "15 Mar 2026",
-        "iso_date": "2026-03-15T00:00:00",
+        "title": "Eid holiday circular issued",
+        "link": "https://www.gdnonline.com/Details/1378658/Eid-holiday-circular-issued",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260315/20260315155206crownprince_T.jpg?20260316",
         "source": "gdn",
@@ -124,12 +114,22 @@
         "category": "Latest"
       },
       {
-        "title": "Alba shuts down three production lines due to shipping disruptions",
-        "link": "https://www.gdnonline.com/Details/1378652/Alba-shuts-down-three-production-lines-due-to-shipping-disruptions",
-        "published": "15 Mar 2026",
-        "iso_date": "2026-03-15T00:00:00",
+        "title": "Alba initiates controlled and safe shutdown of three production lines",
+        "link": "https://www.gdnonline.com/Details/1378652/Alba-initiates-controlled-and-safe-shutdown-of-three-production-lines",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315133315alba_T.jpg?20260316",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316005559albaedited_T.jpg?20260316",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Airâs operations via Dammam extended",
+        "link": "https://www.gdnonline.com/Details/1378681/Gulf-Airâs-operations-via-Dammam-extended",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316003054gulfair.jpeg?20260316",
         "source": "gdn",
         "category": "Latest"
       },
@@ -160,16 +160,6 @@
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260315/20260315002927one_T.jpg?20260316",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Solidarity Bahrain aims to maintain growth momentum",
-        "link": "https://www.gdnonline.com/Details/1378592/Solidarity-Bahrain-aims-to-maintain-growth-momentum",
-        "published": "15 Mar 2026",
-        "iso_date": "2026-03-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020327shaikhkhalid_T.jpg?20260316",
         "source": "gdn",
         "category": "Latest"
       },
@@ -449,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 22:24:36 UTC"
+  "fetched_at": "2026-03-15 22:54:08 UTC"
 }
