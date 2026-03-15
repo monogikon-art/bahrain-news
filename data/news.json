@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 16
     }
   },
   "articles": {
@@ -196,12 +196,72 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Atletico beat Getafe as Abqar sent off for touching Sorloth’s crotch",
+        "link": "https://www.newsofbahrain.com/sports/128506.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZLvtNCnuwT_2026-03-15_1773559506resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Nine-man Bayern fight to draw at Leverkusen",
+        "link": "https://www.newsofbahrain.com/sports/128505.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rLNUAfHQ7m_2026-03-15_1773559249resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Royal address praised for reinforcing unity and stability",
+        "link": "https://www.newsofbahrain.com/bahrain/128504.html",
+        "published": "15 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8VzSpUIB3x_2026-03-15_1773558996resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Government Approves Online Compensation Service to Support Residents Hit by Heavy Rain",
+        "link": "https://www.newsofbahrain.com/bahrain/128503.html",
+        "published": "15 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uvM12JgWLC_2026-03-15_1773558908resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US, Ecuador sign trade deal cutting tariff rates",
+        "link": "https://www.newsofbahrain.com/business/128502.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZTxcbUsX9Q_2026-03-15_1773558574resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "CBSE Cancels Class 12 Exams in Bahrain, UAE and Other Gulf Countries",
+        "link": "https://www.newsofbahrain.com/bahrain/128497.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QedBJfbWo2_2026-03-15_1773554912thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain marks first anniversary of Al-Mundhir satellite launch today",
         "link": "https://www.newsofbahrain.com/bahrain/128495.html",
         "published": "15 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_73tRC6HrPe_2026-03-15_1773552980resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_73tRC6HrPe_2026-03-15_1773552980thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -211,37 +271,17 @@
         "published": "15 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J9CyWej8SG_2026-03-15_1773552776resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J9CyWej8SG_2026-03-15_1773552776thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Push for ‘lasting fix’ to Wadi Al Buhair mosquito problem",
-        "link": "https://www.newsofbahrain.com/bahrain/128493.html",
-        "published": "15 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_thRvHIu9rn_2026-03-15_1773552573resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Government rejects calls for 48-hour hold on overseas money transfers amid anti-fraud push",
-        "link": "https://www.newsofbahrain.com/bahrain/128492.html",
-        "published": "15 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zmwtOKD4EB_2026-03-15_1773552302resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Karzakan Grand Mosque rebuilding on track",
-        "link": "https://www.newsofbahrain.com/bahrain/128491.html",
+        "title": "Two India-bound tankers cross Strait of Hormuz: shipping ministry",
+        "link": "https://www.newsofbahrain.com/world/128500.html",
         "published": "15 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ygYu3BD5Ot_2026-03-15_1773551888resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zkHhL3jRgm_2026-03-15_1773558228thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -276,52 +316,32 @@
         "category": "Latest"
       },
       {
-        "title": "CENTCOM Says Precision Strike Destroys Dozens of Iranian Military Sites on Kharg Island",
-        "link": "https://www.newsofbahrain.com/world/128467.html",
-        "published": "14 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-14T09:22:55+00:00",
+        "title": "US says can provide 'reliable' energy supply to Asia-Pacific",
+        "link": "https://www.newsofbahrain.com/business/128501.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7BJjawUY9K_2026-03-14_1773491864thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cXSMbkJCHh_2026-03-15_1773558500thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Standard Chartered Confirms Uninterrupted Operations Across the Kingdom",
-        "link": "https://www.newsofbahrain.com/business/128409.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
+        "title": "Malabar Group Chairman M.P. Ahammad Honoured with Business Bhushan Award",
+        "link": "https://www.newsofbahrain.com/business/128499.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_24KR53GPdD_2026-03-13_1773403580thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DNQTAx8kiX_2026-03-15_1773557936thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Bourse’s Board of Directors Holds First Board Meeting for 2026",
-        "link": "https://www.newsofbahrain.com/business/128408.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
+        "title": "Ithmaar Bank continues to provide banking services to corporate clients",
+        "link": "https://www.newsofbahrain.com/business/128498.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_td04JohpHy_2026-03-13_1773403178thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Eskan Bank Affirms Service Continuity and Customer Commitment Amid Regional Developments",
-        "link": "https://www.newsofbahrain.com/business/128406.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qzQMtYrEnj_2026-03-13_1773403060thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Alba holds virtual AGM for 2026",
-        "link": "https://www.newsofbahrain.com/business/128405.html",
-        "published": "13 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AVvxRzYu7a_2026-03-13_1773402864thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cNdHQ04GJk_2026-03-15_1773557723thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 06:04:14 UTC"
+  "fetched_at": "2026-03-15 07:27:37 UTC"
 }
