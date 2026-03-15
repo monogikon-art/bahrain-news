@@ -149,7 +149,7 @@
         "published": "15 Mar 2026",
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315003642mrchacko_T.jpg?20260315",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315213926image(1).jpeg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +169,7 @@
         "published": "15 Mar 2026",
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020327shaikhkhalid_T.jpg?20260315",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020019mrmohammed_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -196,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Regional Conflict Spreads Across Middle East With Rising Casualties",
+        "link": "https://www.newsofbahrain.com/world/128522.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SCiIbvdqWH_2026-03-15_1773603738resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "GCC, UK Welcome UN Resolution Condemning Iranian Attacks on Gulf States",
         "link": "https://www.newsofbahrain.com/bahrain/128521.html",
         "published": "15 Mar 2026, 09:22 AM",
@@ -208,8 +218,8 @@
       {
         "title": "Iran urges UAE residents to stay away from ports",
         "link": "https://www.newsofbahrain.com/world/128519.html",
-        "published": "15 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-15T09:22:55+00:00",
+        "published": "15 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-15T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_qpBGJK4rAw_2026-03-15_1773580132resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +238,8 @@
       {
         "title": "Middle East Conflict Triggers Fuel Restrictions Across Asia",
         "link": "https://www.newsofbahrain.com/world/128517.html",
-        "published": "15 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-15T09:00:43+00:00",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_siufqT1ASX_2026-03-15_1773577622resized_pic.jpg",
         "source": "newsofbahrain",
@@ -241,7 +251,7 @@
         "published": "15 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sGycp97BKU_2026-03-15_1773574506resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sGycp97BKU_2026-03-15_1773574506thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,16 +292,6 @@
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_eP4XSDCWtu_2026-03-15_1773560323thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Two India-bound tankers cross Strait of Hormuz: shipping ministry",
-        "link": "https://www.newsofbahrain.com/world/128500.html",
-        "published": "15 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zkHhL3jRgm_2026-03-15_1773558228thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 19:25:53 UTC"
+  "fetched_at": "2026-03-15 19:49:13 UTC"
 }
