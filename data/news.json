@@ -52,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 124 missiles, 203 UAVs since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3Axd05xcndHcGp0aWJNaHk2d3pqZkhnM2ROY1pTYTNfTnZEaXJWWWJhNVNWWDJlUWNNVGI0WDB1NTJCYTE5SUZPSzRYRG1sUVN1R01RNXY2Tmh6eURYX0tMeG1GSWhjWjZUbFpldWROeXY2ZTJRZ0cxdHY1azAtckM4bHc5QXY1T1hnaWhSbW9rOFIzd1RkX25VMEgwbUczRVU5MEVvV0dtVEZndXpqdzBSMjVjTERLeG96bFpXMjk2X0Jt?oc=5",
-        "published": "14 Mar 2026, 10:25 AM",
-        "iso_date": "2026-03-14T10:25:00+00:00",
+        "title": "Bahrain Intercepts, Destroys 124 Missiles, 203 UAVs Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkdZSkFnSVdfVjJ4eldsSnFhdjdzWHBhQ0hwYnB2cFpvRmhjN3NKaUlzZFhhUkNORW85T2dIenhfMS1zWEFaakg2bDVaZHJvRlI4QlUwUkRGOTllRXR0TW1kYkVzUzFVRkczS2VnZm4ycDdHLW9hbDN1NTJ5cWw4eGU5OENPNjVtZl9mNm1CMkJJNVg4QkR6NlNrZ09sdw?oc=5",
+        "published": "14 Mar 2026, 10:30 AM",
+        "iso_date": "2026-03-14T10:30:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -63,6 +63,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Gulf Air opens commercial bookings via Dammam amid airspace closure",
+        "link": "https://www.gdnonline.com/Details/1378645/Gulf-Air-opens-commercial-bookings-via-Dammam-amid-airspace-closure",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315120652gulfair(3)_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "CBSE cancels Class 12 exams in Bahrain and other Gulf countries",
         "link": "https://www.gdnonline.com/Details/1378629/CBSE-cancels-Class-12-exams-in-Bahrain-and-other-Gulf-countries",
@@ -104,16 +114,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain gears up to host Smart Cities Conference",
-        "link": "https://www.gdnonline.com/Details/1378587/Bahrain-gears-up-to-host-Smart-Cities-Conference",
-        "published": "15 Mar 2026",
-        "iso_date": "2026-03-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260314_230949_2_T.jpg?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Estidama officially announces Chamber election candidacy",
         "link": "https://www.gdnonline.com/Details/1378596/Estidama-officially-announces-Chamber-election-candidacy",
         "published": "15 Mar 2026",
@@ -149,7 +149,7 @@
         "published": "15 Mar 2026",
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020327shaikhkhalid_T.jpg?20260315",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020019mrmohammed_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 09:31:29 UTC"
+  "fetched_at": "2026-03-15 10:26:43 UTC"
 }
