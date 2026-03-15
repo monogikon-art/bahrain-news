@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 17
     }
   },
   "articles": {
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmxWalhMcHdTQ3V6S1B5QmdkLTZSZ0NRdE5WSG9UWmNuZlhBMlJEVkpDTnJDcnkxdW5DT1lsd2NTYndDMnhtU2t1OEtiakN4NmJFRHRZZ2Fia0VrV1VYalI0ZUkyczkwUS1Wd203T01mTlNPT0xHektQMmw1OHZTX0FyMGtYS24tbEZPZHRTRGZfTG9FWHRwNVhXaUlUamwyTWpJX3NEWE5hNy1FVnhWcjVkTQ?oc=5",
         "published": "14 Mar 2026, 10:35 PM",
         "iso_date": "2026-03-14T22:35:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "US & ‘Israel’ at war with Iran | Day 15 coverage",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUElMM1pCODlwRlUybHNOZmowcUI1OGpDOGU1WFVZNE5CREhOeFZISFZWWWxDVzU2alV6ZnVGS2xkR1hhcTlYbmZtdzJkVnB5dHdFR1FaaTF2OHRhaGoyY29sODhjQzBvZzA3WUpDdG9ZT2dfbXZ5TDV5QURSNkJ6bm9RcHB5dW8xSFVCeW9pRkU1NnEzc1Z0dHhxTnFiV3U3Mm5fMg?oc=5",
-        "published": "14 Mar 2026, 11:23 AM",
-        "iso_date": "2026-03-14T11:23:34+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -354,16 +344,6 @@
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_cNdHQ04GJk_2026-03-15_1773557723thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
-      },
-      {
-        "title": "One Night Better Than a Thousand Months?",
-        "link": "https://www.newsofbahrain.com/views/128381.html",
-        "published": "13 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jRbugZeVJX_2026-03-13_1773391643thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
       }
     ]
   },
@@ -479,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 08:50:16 UTC"
+  "fetched_at": "2026-03-15 09:31:29 UTC"
 }
