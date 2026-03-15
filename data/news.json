@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 16
+      "count": 11
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 121 missiles, 193 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSTNxbERmeDhUX3JQOUU0U0ZCWXpzMWs4WWMtYlJhbm5NMzlDVDFlWjFuQ0pIOVk4aENubGdqaTR2SkRLMWI0ZkdvOS1wc1ZTVHlqN1J0bS1RTS13OE01a3B5a1gwQjZ0SDFkT0x4YWVEeWp0WEwtaGJhdGRhZkZxR1lacVYxaVUzV0NJeGpZTDR2ZEE1NjZibHRQdTQzVVBtaFpNMkY0alZ1VFFqZGRCbmRCZ2tsdGlrSTRkeWNmbjJ1ODVHN2FBeUFnYmQyNC03c0kydEUtc9IB1wFBVV95cUxPSTNxbERmeDhUX3JQOUU0U0ZCWXpzMWs4WWMtYlJhbm5NMzlDVDFlWjFuQ0pIOVk4aENubGdqaTR2SkRLMWI0ZkdvOS1wc1ZTVHlqN1J0bS1RTS13OE01a3B5a1gwQjZ0SDFkT0x4YWVEeWp0WEwtaGJhdGRhZkZxR1lacVYxaVUzV0NJeGpZTDR2ZEE1NjZibHRQdTQzVVBtaFpNMkY0alZ1VFFqZGRCbmRCZ2tsdGlrSTRkeWNmbjJ1ODVHN2FBeUFnYmQyNC03c0kydEUtcw?oc=5",
-        "published": "14 Mar 2026, 01:45 AM",
-        "iso_date": "2026-03-14T01:45:48+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain intercepts, destroys 124 missiles, 203 UAVs since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3Axd05xcndHcGp0aWJNaHk2d3pqZkhnM2ROY1pTYTNfTnZEaXJWWWJhNVNWWDJlUWNNVGI0WDB1NTJCYTE5SUZPSzRYRG1sUVN1R01RNXY2Tmh6eURYX0tMeG1GSWhjWjZUbFpldWROeXY2ZTJRZ0cxdHY1azAtckM4bHc5QXY1T1hnaWhSbW9rOFIzd1RkX25VMEgwbUczRVU5MEVvV0dtVEZndXpqdzBSMjVjTERLeG96bFpXMjk2X0Jt?oc=5",
         "published": "14 Mar 2026, 10:25 AM",
@@ -73,6 +63,26 @@
       }
     ],
     "gdn": [
+      {
+        "title": "WhatsApp group comes to the rescue of injured cat",
+        "link": "https://www.gdnonline.com/Details/1378588/WhatsApp-group-comes-to-the-rescue-of-injured-cat",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315010749cone_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain gears up to host Smart Cities Conference",
+        "link": "https://www.gdnonline.com/Details/1378587/Bahrain-gears-up-to-host-Smart-Cities-Conference",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260314_230949_2_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Four-legged fortress offers hope to abandoned pets",
         "link": "https://www.gdnonline.com/Details/1378591/Four-legged-fortress-offers-hope-to-abandoned-pets",
@@ -100,26 +110,6 @@
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260315/20260315005050mralkadhem_T.jpg?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "WhatsApp group comes to the rescue of injured cat",
-        "link": "https://www.gdnonline.com/Details/1378588/WhatsApp-group-comes-to-the-rescue-of-injured-cat",
-        "published": "15 Mar 2026",
-        "iso_date": "2026-03-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315010749cone_T.jpg?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain gears up to host Smart Cities Conference",
-        "link": "https://www.gdnonline.com/Details/1378587/Bahrain-gears-up-to-host-Smart-Cities-Conference",
-        "published": "15 Mar 2026",
-        "iso_date": "2026-03-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260314_230949_2_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,17 +149,17 @@
         "published": "15 Mar 2026",
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020327shaikhkhalid_T.jpg?20260315",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020019mrmohammed_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Alba holds virtual AGM for 2026",
-        "link": "https://www.gdnonline.com/Details/1378438/Alba-holds-virtual-AGM-for-2026",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
+        "title": "Arsenal pull 9 points clear as West Ham hold City 1-1",
+        "link": "https://www.gdnonline.com/Details/1378617/Arsenal-pull-9-points-clear-as-West-Ham-hold-City-1-1",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313004225llbtwo_T.jpg?20260315",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315_024726_0_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -180,56 +170,6 @@
         "iso_date": "2026-03-14T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260314/20260314_015519_1.png?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Muharraq salvage late draw with Riffa",
-        "link": "https://www.gdnonline.com/Details/1378477/Muharraq-salvage-late-draw-with-Riffa",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313023622uuaua_T.jpg?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Arsenal and City resume title contest",
-        "link": "https://www.gdnonline.com/Details/1378470/Arsenal-and-City-resume-title-contest",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022541_0_T.jpg?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Villa down Lille",
-        "link": "https://www.gdnonline.com/Details/1378472/Villa-down-Lille",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022544_0_T.jpg?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Neto faces action for pushing ball boy",
-        "link": "https://www.gdnonline.com/Details/1378471/Neto-faces-action-for-pushing-ball-boy",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260313/20260313_022543_0_T.jpg?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "'Sinners' and 'One Battle After Another' face off at drama-filled Oscars",
-        "link": "https://www.gdnonline.com/Details/1378419/Sinners-and-One-Battle-After-Another-face-off-at-drama-filled-Oscars-",
-        "published": "13 Mar 2026",
-        "iso_date": "2026-03-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260312/20260312_211338_0_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       }
@@ -489,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-14 23:50:08 UTC"
+  "fetched_at": "2026-03-15 02:03:52 UTC"
 }
