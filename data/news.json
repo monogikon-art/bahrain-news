@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 15
     }
   },
   "articles": {
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9icXFjQUc2dGxHX0pMeEplbXpPckpZTFg3WGpEUktHdXcwVmJyUDh0SXlZWG9sMzJ0SlUwUjg5TktReHdDU3N5SA?oc=5",
         "published": "14 Mar 2026, 06:03 PM",
         "iso_date": "2026-03-14T18:03:51+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "F1’s decision to cancel Bahrain and Saudi Arabia races explained",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWs3dTlrcFZmMlNSUHIxd1d0dlYzWXRudTRCZkFCMkJJa180N0MyZlA5dWdkWVdEOUQ2QS03NEliUVoxSE1BaGtDYTVOTTktcHJHTnZRZ2k5YWJqbDgxMDBXM1Iycmg3YndsQ1RkM0lqTndud3VES3dDRTVYQVJYcEFnQm1pVWhhRXdSbzI2Z0xaNUZqY0pVbWJqVUNYeWdQWTB0a0FuUE1NZ21aTGNBR2VB?oc=5",
-        "published": "14 Mar 2026, 10:35 PM",
-        "iso_date": "2026-03-14T22:35:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -186,6 +176,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Aluminium Bahrain B.S.C. Begins Controlled Shutdown of Three Reduction Lines",
+        "link": "https://www.newsofbahrain.com/business/128515.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U02rNlvzCH_2026-03-15_1773572274resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Foreign Ministry Facilitates Return of Citizens from Abroad",
         "link": "https://www.newsofbahrain.com/bahrain/128514.html",
         "published": "15 Mar 2026, 09:22 AM",
@@ -198,8 +198,8 @@
       {
         "title": "Brighton win at Sunderland, Bournemouth held by Burnley",
         "link": "https://www.newsofbahrain.com/sports/128512.html",
-        "published": "15 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-15T09:22:55+00:00",
+        "published": "15 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-15T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_XxHwugzJGi_2026-03-15_1773563364resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,20 +218,10 @@
       {
         "title": "Eid Al Fitr is expected to fall on Friday, 20 March.",
         "link": "https://www.newsofbahrain.com/bahrain/128510.html",
-        "published": "15 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_98v5chwCrB_2026-03-15_1773562877resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russian sports minister defends return of flag, anthem to Paralympics",
-        "link": "https://www.newsofbahrain.com/sports/128509.html",
         "published": "15 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pXolgGWmHc_2026-03-15_1773562678resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_98v5chwCrB_2026-03-15_1773562877resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,16 +322,6 @@
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_DNQTAx8kiX_2026-03-15_1773557936thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ithmaar Bank continues to provide banking services to corporate clients",
-        "link": "https://www.newsofbahrain.com/business/128498.html",
-        "published": "15 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cNdHQ04GJk_2026-03-15_1773557723thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -459,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 10:56:59 UTC"
+  "fetched_at": "2026-03-15 11:27:24 UTC"
 }
