@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 11
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -32,10 +32,20 @@
         "category": "Latest"
       },
       {
-        "title": "KUWAIT AIR DEFENCES SHOOT DOWN FIVE HOSTILE UAVS - BERNAMA",
+        "title": "KUWAIT AIR DEFENCES SHOOT DOWN FIVE HOSTILE UAVS",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yZVFWWVRxQnMwR3VMdjZqMXNEaXoxbzNoYUZTOWxnNS1yTmZ0V0dkbHJGYkFrUk5OSUJsU0pwUlE2SmZIQ3pUeGxvUDdnTWJoOEg5eEdiUkJnQQ?oc=5",
         "published": "15 Mar 2026, 08:33 AM",
         "iso_date": "2026-03-15T08:33:19+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "F1’s decision to cancel Bahrain and Saudi Arabia races explained",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWs3dTlrcFZmMlNSUHIxd1d0dlYzWXRudTRCZkFCMkJJa180N0MyZlA5dWdkWVdEOUQ2QS03NEliUVoxSE1BaGtDYTVOTTktcHJHTnZRZ2k5YWJqbDgxMDBXM1Iycmg3YndsQ1RkM0lqTndud3VES3dDRTVYQVJYcEFnQm1pVWhhRXdSbzI2Z0xaNUZqY0pVbWJqVUNYeWdQWTB0a0FuUE1NZ21aTGNBR2VB?oc=5",
+        "published": "14 Mar 2026, 10:35 PM",
+        "iso_date": "2026-03-14T22:35:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmxWalhMcHdTQ3V6S1B5QmdkLTZSZ0NRdE5WSG9UWmNuZlhBMlJEVkpDTnJDcnkxdW5DT1lsd2NTYndDMnhtU2t1OEtiakN4NmJFRHRZZ2Fia0VrV1VYalI0ZUkyczkwUS1Wd203T01mTlNPT0xHektQMmw1OHZTX0FyMGtYS24tbEZPZHRTRGZfTG9FWHRwNVhXaUlUamwyTWpJX3NEWE5hNy1FVnhWcjVkTQ?oc=5",
         "published": "14 Mar 2026, 10:35 PM",
         "iso_date": "2026-03-14T22:35:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts, Destroys 124 Missiles, 203 UAVs Since Start Of Iranian Attacks - Emirates 24|7",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVZFTGdOVDV2bHhBTG9SVXcwUUt3c1I5a1VkQTIxc04xVW43a1NUV0ZJSjl6cWJCeGFVQW9Rb3FKVkI2OFRtalRPYVpaOWhaSzVQOFk4cGktaDA0ZndyQTUycFg3dUJ6TE5sVklLWHBHUndMcmFtaVZYeWdrMTgtLUFrNlAtaWh2SWZVRXJ2Vm5TeVNXM0NDcEktLTVlbzZFb09mWVdOZWlyazR0TFhtR0JIZ2FQend6VmfSAdQBQVVfeXFMTmdhLXR0NG94dW0yOXRNcEEwNmJVSU04MVB1MzJpdlNjZmgtLUV1TTVaSnVQSVNvU25LQW1vOWp2RElWa25rTVdCNkFlbjdLQjg2dk9hajFEMnlYa05jYnJ6Y1Z6NW1aZ21CM1V2bTc1SkdCMG9pN1FqaGI1YmhNaG95Y29JVUUzejdITXZmMDNQLXl6NmJmQVVMckxTUXZMZXpHbjBlY2gyRkEyenpaSTBDZzlPWEZtTThKdXlxR1k1RzctZk5qTWl4RzJ4Rkp6dnJhZ2Y?oc=5",
-        "published": "14 Mar 2026, 11:36 AM",
-        "iso_date": "2026-03-14T11:36:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -110,6 +110,16 @@
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260315/20260315031657bh_T.jpg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Alba shuts down three production lines due to shipping disruptions",
+        "link": "https://www.gdnonline.com/Details/1378652/Alba-shuts-down-three-production-lines-due-to-shipping-disruptions",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315133315alba_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -176,6 +186,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "UK Updates Travel Advice for Bahrain Amid Regional Escalation",
+        "link": "https://www.newsofbahrain.com/bahrain/128516.html",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sGycp97BKU_2026-03-15_1773574506resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Aluminium Bahrain B.S.C. Begins Controlled Shutdown of Three Reduction Lines",
         "link": "https://www.newsofbahrain.com/business/128515.html",
         "published": "15 Mar 2026, 09:22 AM",
@@ -188,8 +208,8 @@
       {
         "title": "Foreign Ministry Facilitates Return of Citizens from Abroad",
         "link": "https://www.newsofbahrain.com/bahrain/128514.html",
-        "published": "15 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-15T09:22:55+00:00",
+        "published": "15 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-15T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_8vSjts0wHl_2026-03-15_1773570719resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,8 +228,8 @@
       {
         "title": "Kimi Antonelli takes Chinese GP pole, youngest in F1 history",
         "link": "https://www.newsofbahrain.com/sports/128511.html",
-        "published": "15 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-15T09:00:43+00:00",
+        "published": "15 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zJBlNa4sGc_2026-03-15_1773563098resized_pic.jpg",
         "source": "newsofbahrain",
@@ -221,7 +241,7 @@
         "published": "15 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_98v5chwCrB_2026-03-15_1773562877resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_98v5chwCrB_2026-03-15_1773562877thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -242,16 +262,6 @@
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uvM12JgWLC_2026-03-15_1773558908thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "CBSE Cancels Class 12 Exams in Bahrain, UAE and Other Gulf Countries",
-        "link": "https://www.newsofbahrain.com/bahrain/128497.html",
-        "published": "15 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QedBJfbWo2_2026-03-15_1773554912thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 11:27:24 UTC"
+  "fetched_at": "2026-03-15 11:49:37 UTC"
 }
