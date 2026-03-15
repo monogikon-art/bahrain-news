@@ -24,8 +24,8 @@
       {
         "title": "Bahrain arrests five over espionage for Iran’s IRGC",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNVBGS1VvbXZKenFYU3M5SXY2TjhpdlI1RFBNMnR1QjBHMEFlTVF2aDdQcVMzNERlc0JEMlJGX0ROX0dEdkdmTktoNzl3SC1IX1hoUkd1cWtYbjFZX2MxbEROTnlJcHgyd2c?oc=5",
-        "published": "15 Mar 2026, 02:51 PM",
-        "iso_date": "2026-03-15T14:51:31+00:00",
+        "published": "15 Mar 2026, 04:16 PM",
+        "iso_date": "2026-03-15T16:16:17+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -84,6 +84,16 @@
     ],
     "gdn": [
       {
+        "title": "Gulf Air extends travel dates for commercial flights via Dammam",
+        "link": "https://www.gdnonline.com/Details/1378662/Gulf-Air-extends-travel-dates-for-commercial-flights-via-Dammam",
+        "published": "15 Mar 2026",
+        "iso_date": "2026-03-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315184020gulfair2.jpeg?20260315",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "HRH Prince Salman issues circular on Eid Al Fitr holidays",
         "link": "https://www.gdnonline.com/Details/1378658/HRH-Prince-Salman-issues-circular-on-Eid-Al-Fitr-holidays",
         "published": "15 Mar 2026",
@@ -120,16 +130,6 @@
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260315/20260315123623bdf_T.jpg?20260315",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air opens commercial bookings via Dammam amid airspace closure",
-        "link": "https://www.gdnonline.com/Details/1378645/Gulf-Air-opens-commercial-bookings-via-Dammam-amid-airspace-closure",
-        "published": "15 Mar 2026",
-        "iso_date": "2026-03-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315120652gulfair(3)_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +179,7 @@
         "published": "15 Mar 2026",
         "iso_date": "2026-03-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020019mrmohammed_T.jpg?20260315",
+        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315020327shaikhkhalid_T.jpg?20260315",
         "source": "gdn",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 16:28:09 UTC"
+  "fetched_at": "2026-03-15 16:57:53 UTC"
 }
