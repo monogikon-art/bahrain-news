@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain intercepts 124 missiles, 203 drones amid Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9icXFjQUc2dGxHX0pMeEplbXpPckpZTFg3WGpEUktHdXcwVmJyUDh0SXlZWG9sMzJ0SlUwUjg5TktReHdDU3N5SA?oc=5",
-        "published": "14 Mar 2026, 06:03 PM",
-        "iso_date": "2026-03-14T18:03:51+00:00",
+        "title": "Bahrain arrests five over espionage for Iran’s IRGC",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNVBGS1VvbXZKenFYU3M5SXY2TjhpdlI1RFBNMnR1QjBHMEFlTVF2aDdQcVMzNERlc0JEMlJGX0ROX0dEdkdmTktoNzl3SC1IX1hoUkd1cWtYbjFZX2MxbEROTnlJcHgyd2c?oc=5",
+        "published": "15 Mar 2026, 02:51 PM",
+        "iso_date": "2026-03-15T14:51:31+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain arrests five over espionage for Iran’s IRGC",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNVBGS1VvbXZKenFYU3M5SXY2TjhpdlI1RFBNMnR1QjBHMEFlTVF2aDdQcVMzNERlc0JEMlJGX0ROX0dEdkdmTktoNzl3SC1IX1hoUkd1cWtYbjFZX2MxbEROTnlJcHgyd2c?oc=5",
-        "published": "15 Mar 2026, 02:51 PM",
-        "iso_date": "2026-03-15T14:51:31+00:00",
+        "title": "Bahrain intercepts 124 missiles, 203 drones amid Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9icXFjQUc2dGxHX0pMeEplbXpPckpZTFg3WGpEUktHdXcwVmJyUDh0SXlZWG9sMzJ0SlUwUjg5TktReHdDU3N5SA?oc=5",
+        "published": "14 Mar 2026, 06:03 PM",
+        "iso_date": "2026-03-14T18:03:51+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-15 14:56:46 UTC"
+  "fetched_at": "2026-03-15 15:30:05 UTC"
 }
