@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 18
     }
   },
   "articles": {
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TTDhFMk53SThsbHJabzJndHBmUDBLMVpDRThmNUp4LWZYcjVUaDVhMzFwR0NDdTdxSTQ2T1dWV3lkVDV5OU9uYzVwZFR4bmNWMG5z?oc=5",
         "published": "16 Mar 2026, 12:29 PM",
         "iso_date": "2026-03-16T12:29:54+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain arrests five over espionage for Iran’s IRGC",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNVBGS1VvbXZKenFYU3M5SXY2TjhpdlI1RFBNMnR1QjBHMEFlTVF2aDdQcVMzNERlc0JEMlJGX0ROX0dEdkdmTktoNzl3SC1IX1hoUkd1cWtYbjFZX2MxbEROTnlJcHgyd2c?oc=5",
-        "published": "15 Mar 2026, 05:12 PM",
-        "iso_date": "2026-03-15T17:12:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,20 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "Will F1 cancel Bahrain and Saudi Arabia races? Key points explained",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN2Mxal90N3owR3RXRzBhZ3hVbURYaXhKN1NTZ1VKRnJmcl8wOWtCeXF4QTkzREJtZjAzV1lPd25fWTJ4c1RTb3hybGdqN2N6dFgwY3JqZVVWUW5KTE40TmY3WldLUTIwc081d0RNZ0ZKcFZJNm1sbGlPR21oU2QxSndNU1piZlRYa0J5aVJheTBWZ2RwZFg5Q0FBVy1EU2RSaFZlY2c1N3ppV3NNbHNDOC0waW5QSHA4dkd3djdBRjUtcjdzYWJkRm9SQkN5Zw?oc=5",
-        "published": "15 Mar 2026, 07:34 PM",
-        "iso_date": "2026-03-15T19:34:08+00:00",
+        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYU5GcWd2eHBKYUszUTBSQ2YtRW5RWllCeEIzRU44WTVkcEZYdXo1anZ5Wi1YV3JjX2ZfaVpCZk1KUEtvZnA1T1J1bmJnOWc4WTZYUnJSdHd2eFVQdVlpQmxJNGRNc0RMMlJzNndOTHZ6cXN3cHhyakpTN3J6cjV2N29vR1E3ajhsMFNSWXU3TlJYVmxuYzRla1B5WTZNY25pel9fSkxicGFrOWdsOHN2Y0lGUmF1ai1iZkhkWFN5MHdRR3c?oc=5",
+        "published": "16 Mar 2026, 09:29 AM",
+        "iso_date": "2026-03-16T09:29:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Countries with the most submarines",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTRBanFjYW1JRU1QNGhqOTJ4MGtoVkM5bUk3bjY5SWJUcEVUckk3N1NZeFpuakFOUkV1MFZxV01IM2RwYkpuMUQyNTh5R0hLcFlFLWNTM3AwRFNLNlFjWmFNRl9RU05jcndPaXkwODNiWUNwT2ZUbXRHVEtQQ2pnVlI3SGRHT0ozUVoxakk5Z2tXdERPQzY2NmxmZ21Hb2VyQ0FEWTRXQ084ODJlQkNmWDBHblZNclNvYVd1aFR3?oc=5",
-        "published": "16 Mar 2026, 07:13 AM",
-        "iso_date": "2026-03-16T07:13:55+00:00",
+        "title": "Will F1 cancel Bahrain and Saudi Arabia races? Key points explained",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN2Mxal90N3owR3RXRzBhZ3hVbURYaXhKN1NTZ1VKRnJmcl8wOWtCeXF4QTkzREJtZjAzV1lPd25fWTJ4c1RTb3hybGdqN2N6dFgwY3JqZVVWUW5KTE40TmY3WldLUTIwc081d0RNZ0ZKcFZJNm1sbGlPR21oU2QxSndNU1piZlRYa0J5aVJheTBWZ2RwZFg5Q0FBVy1EU2RSaFZlY2c1N3ppV3NNbHNDOC0waW5QSHA4dkd3djdBRjUtcjdzYWJkRm9SQkN5Zw?oc=5",
+        "published": "15 Mar 2026, 07:34 PM",
+        "iso_date": "2026-03-15T19:34:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -274,7 +264,188 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Bahrain and Saudi Arabian Grands Prix will not take place in April",
+        "link": "https://www.newsofbahrain.com/sports/128595.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vWQuSNZ8Ed_2026-03-16_1773666737resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Emotional Antonelli wins maiden grand prix with Mercedes 1-2 in China",
+        "link": "https://www.newsofbahrain.com/sports/128594.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1ZVGJ8nCD5_2026-03-16_1773666077resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "New Member to Bahrain Modern Pentathlon Federation Board",
+        "link": "https://www.newsofbahrain.com/bahrain/128593.html",
+        "published": "16 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-16T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XxmhDUkJMW_2026-03-16_1773665972resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Title race not over, insists Man City boss Guardiola",
+        "link": "https://www.newsofbahrain.com/sports/128592.html",
+        "published": "16 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-16T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kJFdt6cAlr_2026-03-16_1773665635resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Medvedev snaps Alcaraz win streak, sets Indian Wells final with Sinner",
+        "link": "https://www.newsofbahrain.com/sports/128591.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YL4V8S1rQm_2026-03-16_1773665236resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar Confirms Active Talks to Ensure Strait of Hormuz Remains Open",
+        "link": "https://www.newsofbahrain.com/bahrain/128588.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HRklOLYDnd_2026-03-16_1773663701thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Amir Thanks Bahrain King for National Day Greetings",
+        "link": "https://www.newsofbahrain.com/bahrain/128587.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VjgiSx39wv_2026-03-16_1773663675thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Volunteers Distribute Eid Gifts to Orphans in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/128579.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q6MqcotLeB_2026-03-16_1773661797thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shawwal Crescent to Be Born March 19, Says Astronomer, Links Eid Al Fitr with Start of Spring",
+        "link": "https://www.newsofbahrain.com/bahrain/128578.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CTYGxiOBAJ_2026-03-16_1773661189thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UK Repatriates Over 92,000 Nationals Amid Middle East Crisis",
+        "link": "https://www.newsofbahrain.com/world/128586.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7NhTmFY9lt_2026-03-16_1773663603thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shivalik LPG Tanker Safely Reaches India After Sailing Through Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/world/128585.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qo30qzltFH_2026-03-16_1773663582thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran wants deal: Trump No reason for talks: Iran",
+        "link": "https://www.newsofbahrain.com/world/128584.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2doeWTlbD1_2026-03-16_1773663545thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Netanyahu mocks social media rumours about his death",
+        "link": "https://www.newsofbahrain.com/world/128583.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IbxVAzJ8BH_2026-03-16_1773663345thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Estidamah Bloc Announces Official Candidacy for BCCI Elections",
+        "link": "https://www.newsofbahrain.com/business/128581.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XMnpZL2kyj_2026-03-16_1773662247thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "War-related oil squeeze a ‘shortterm pain,’ US official insists",
+        "link": "https://www.newsofbahrain.com/business/128577.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ArtCPUpv4X_2026-03-16_1773661180thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BisB announces Eid Banknotes “Eidiya” at ATMs and Branches",
+        "link": "https://www.newsofbahrain.com/business/128575.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t1noKbWylA_2026-03-16_1773660790thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Seef Properties’ Annual General Meeting Approves BD 4.52 Million in Cash Dividends at 10% to Shareholders",
+        "link": "https://www.newsofbahrain.com/business/128573.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g13lcsfCjz_2026-03-16_1773660479thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A “Breathalyser” for this war!",
+        "link": "https://www.newsofbahrain.com/views/128518.html",
+        "published": "15 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1RLOTXz8Aa_2026-03-15_1773579966thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -388,5 +559,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-16 16:03:02 UTC"
+  "fetched_at": "2026-03-16 17:33:53 UTC"
 }
