@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 18
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -53,9 +53,9 @@
       },
       {
         "title": "125 ballistic missiles, 212 drones intercepted by Bahrain air defences since start of Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVDRjT2lFRG9xVkNIOXl1N1FkSUtpNVVFZXJhWHoxLUI0NkMtMzJQekpmWFVfOHl3U2tCRGtNOThoMmktSmpTUHUtS0JqNDlsSzRJclVnajZFS3lxVnBWVVZIQjk1UnNHb09icHZ0aldvQk1uNm9QS3Z5RmtWTUZYcndUNi10M1hyeHhCN3hqYW44Wi1OREhkSk5DdjNrT3NYdWxvYk5PbHdnZVhsZFVTaTNheEVLckZCSUdxcUlsVEVBa3ZnZE1LR0h6cDl6d0k3SkF2bGlZSzQySFJuck9Ubkt1bEwwUHJkRFpQN0N30gHuAUFVX3lxTE5UNGNPaUVEb3FWQ0g5eXU3UWRJS2k1VUVlcmFYejEtQjQ2Qy0zMlB6SmZYVV84eXdTa0JEa005OGgyaS1KalNQdS1LQmo0OWxLNElyVWdqNkVLeXFWcFZVVkhCOTVSc0dvT2JwdnRqV29CTW42b1BLdnlGa1ZNRlhyd1Q2LXQzWHJ4eEI3eGphbjhaLU5ESGRKTkN2M2tPc1h1bG9iTk9sd2dlWGxkVVNpM2F4RUtyRkJJR3FxSWxURUFrdmdkTUtHSHpwOXp3STdKQXZsaVlLNDJIUm5yT1RuS3VsTDBQcmREWlA3Q3c?oc=5",
-        "published": "15 Mar 2026, 11:05 PM",
-        "iso_date": "2026-03-15T23:05:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2FXZEdnNU0zWExuU0xGTXh4aHByMXUtaWRaLW9JV3V4bVBPR3lYd210UU9NTklIZXdTb0w5QXAxd25aZUlmaDVtMVhGNUVvR2ZzSDFUVGgzX1hIU2luTjV5UXpaRmRuZFlnd29WQ2ZqNGF4UEFhVW9uVVg1M2ZWdEk3c2pWMmplSjNfbDNSR3VnMmc3b3B2Umt2MTRQczNOUk90TUItczd1N2FrY29rRnpycllHd2dVcXVqY2xkUnhVM2o5aXU0R183eW5YdmJPVHZGdUdUQUl2RzFlNUE?oc=5",
+        "published": "15 Mar 2026, 11:01 PM",
+        "iso_date": "2026-03-15T23:01:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -63,6 +63,26 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Flight operations at BIA remain temporarily suspended",
+        "link": "https://www.gdnonline.com/Details/1378749/Flight-operations-at-BIA-remain-temporarily-suspended",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316120939bia1(3)_T.jpg?20260316",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF General Command: 129 missiles, 215 drones destroyed",
+        "link": "https://www.gdnonline.com/Details/1378743/BDF-General-Command-129-missiles,-215-drones-destroyed",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316114029bdf1(3)_T.jpg?20260316",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "King thanks Egypt for supportive stance",
         "link": "https://www.gdnonline.com/Details/1378710/King-thanks-Egypt-for-supportive-stance",
@@ -74,12 +94,12 @@
         "category": "Latest"
       },
       {
-        "title": "British media buffoonery",
-        "link": "https://www.gdnonline.com/Details/1378666/British-media-buffoonery",
+        "title": "Journalists call out âdirty tricksâ in British press coverage to tarnish image of Gulf states",
+        "link": "https://www.gdnonline.com/Details/1378666/Journalists-call-out-âdirty-tricksâ-in-British-press-coverage-to-tarnish-image-of-Gulf-states",
         "published": "16 Mar 2026",
         "iso_date": "2026-03-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260315_230905_0_T.jpg?20260316",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316130539ukjourn_T.jpg?20260316",
         "source": "gdn",
         "category": "Latest"
       },
@@ -90,26 +110,6 @@
         "iso_date": "2026-03-16T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260316/20260316003747zxcv_T.jpg?20260316",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura chief hopes for end to crisis and return of peace",
-        "link": "https://www.gdnonline.com/Details/1378675/Shura-chief-hopes-for-end-to-crisis-and-return-of-peace",
-        "published": "16 Mar 2026",
-        "iso_date": "2026-03-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260315_230913_3.jpeg?20260316",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Eid holiday circular issued",
-        "link": "https://www.gdnonline.com/Details/1378658/Eid-holiday-circular-issued",
-        "published": "16 Mar 2026",
-        "iso_date": "2026-03-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260315/20260315155206crownprince_T.jpg?20260316",
         "source": "gdn",
         "category": "Latest"
       },
@@ -195,73 +195,113 @@
       },
       {
         "title": "Laporta re-elected as Barcelona president",
-        "link": "https://www.gdnonline.com/Details/1378730/Laporta-re-elected-as-Barcelona-president",
+        "link": "https://www.gdnonline.com/Details/1378729/Laporta-re-elected-as-Barcelona-president",
         "published": "16 Mar 2026",
         "iso_date": "2026-03-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316102743bar(1)_T.jpg?20260316",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316101003laportare-electedasbarcelonapresident_T.jpg?20260316",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Fifth member of Iran women's football team withdraws asylum claim",
-        "link": "https://www.gdnonline.com/Details/1378722/Fifth-member-of-Iran-womens-football-team-withdraws-asylum-claim",
+        "title": "Messi had no role in Spain-Argentina 'Finalissima' cancellation",
+        "link": "https://www.gdnonline.com/Details/1378756/Messi-had-no-role-in-Spain-Argentina-Finalissima-cancellation",
         "published": "16 Mar 2026",
         "iso_date": "2026-03-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316095348fifthmemberofiranwomen'ssoccerteamwithdrawsasylumclaim_T.jpg?20260316",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316131758messi(4)_T.jpg?20260316",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "âKPop Demon Huntersâ wins best animated feature Oscar",
+        "link": "https://www.gdnonline.com/Details/1378757/âKPop-Demon-Huntersâ-wins-best-animated-feature-Oscar",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316_123831_0_T.jpg?20260316",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "'One Battle After Another' takes best picture at the Oscars",
+        "link": "https://www.gdnonline.com/Details/1378753/One-Battle-After-Another-takes-best-picture-at-the-Oscars",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316_121254_0_T.jpg?20260316",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Norway's 'Sentimental Value' wins best international film Oscar",
+        "link": "https://www.gdnonline.com/Details/1378748/Norways-Sentimental-Value-wins-best-international-film-Oscar",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316_120631_0_T.jpg?20260316",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "Saraya Sanad villa expansion rules already in place",
-        "link": "https://www.newsofbahrain.com/bahrain/128556.html",
+        "title": "Iranian Aggression ‘Will Not Break’ UAE’s Unshakable Resolve, Says Gargash",
+        "link": "https://www.newsofbahrain.com/bahrain/128565.html",
         "published": "16 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_izSfaP8M5F_2026-03-16_1773653449resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LymTz5K9Ok_2026-03-16_1773657017resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Ministers oppose fixed state firm levy",
-        "link": "https://www.newsofbahrain.com/bahrain/128555.html",
+        "title": "Israeli Army Destroys Aircraft Formerly Used by Iran’s Late Supreme Leader",
+        "link": "https://www.newsofbahrain.com/bahrain/128564.html",
         "published": "16 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nLO6SUfoRc_2026-03-16_1773651818resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DM5hprbqRI_2026-03-16_1773656455resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Shura Council rejects draft laws to shift state-linked company profits to general budget",
-        "link": "https://www.newsofbahrain.com/bahrain/128554.html",
+        "title": "Drone Attack Sparks Fire at Fujairah Oil Industry Zone",
+        "link": "https://www.newsofbahrain.com/bahrain/128563.html",
         "published": "16 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-16T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XnQVDwp1os_2026-03-16_1773651579resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MhV2pFjn61_2026-03-16_1773655915resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UK updates travel advice for citizens",
-        "link": "https://www.newsofbahrain.com/bahrain/128553.html",
+        "title": "Zain Bahrain holds Annual General Assembly meeting virtually",
+        "link": "https://www.newsofbahrain.com/business/128561.html",
         "published": "16 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-16T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C2XK5MrcbR_2026-03-16_1773650826resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NhOWRqr7b4_2026-03-16_1773655456resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Palestinian Civilian Killed by Missile Strike in Abu Dhabi",
-        "link": "https://www.newsofbahrain.com/bahrain/128552.html",
+        "title": "Iran’s Actions Are ‘Unhinged’ and ‘Irrational,’ Says UAE Minister Reem Al Hashimy",
+        "link": "https://www.newsofbahrain.com/bahrain/128560.html",
         "published": "16 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DpC1936rBN_2026-03-16_1773650464resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fc6D8BZ7v3_2026-03-16_1773655310resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Alba initiates controlled and safe shutdown of reduction Lines 1, 2 and 3",
+        "link": "https://www.newsofbahrain.com/bahrain/128559.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HoKlbhjQ91_2026-03-16_1773655071thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,16 +372,6 @@
         "iso_date": "2026-03-15T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_cXSMbkJCHh_2026-03-15_1773558500thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Malabar Group Chairman M.P. Ahammad Honoured with Business Bhushan Award",
-        "link": "https://www.newsofbahrain.com/business/128499.html",
-        "published": "15 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DNQTAx8kiX_2026-03-15_1773557936thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-16 09:38:56 UTC"
+  "fetched_at": "2026-03-16 10:51:07 UTC"
 }
