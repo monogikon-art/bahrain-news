@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 15
     }
   },
   "articles": {
@@ -76,6 +76,16 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2FXZEdnNU0zWExuU0xGTXh4aHByMXUtaWRaLW9JV3V4bVBPR3lYd210UU9NTklIZXdTb0w5QXAxd25aZUlmaDVtMVhGNUVvR2ZzSDFUVGgzX1hIU2luTjV5UXpaRmRuZFlnd29WQ2ZqNGF4UEFhVW9uVVg1M2ZWdEk3c2pWMmplSjNfbDNSR3VnMmc3b3B2Umt2MTRQczNOUk90TUItczd1N2FrY29rRnpycllHd2dVcXVqY2xkUnhVM2o5aXU0R183eW5YdmJPVHZGdUdUQUl2RzFlNUE?oc=5",
         "published": "15 Mar 2026, 11:01 PM",
         "iso_date": "2026-03-15T23:01:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Industry Ministry confirms stability of livestock and poultry supplies ahead of Eid Al Fitr",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9INnVXRXhqeGQxMUNiN1NnVGhnNWRhNDdUaTQ3cWFRX2NpVnl3ejVCb0pjckRZMzRXZDhPSUc3WFV3S3Mtck9BVjQ2ZU1HcDRPV280TkkzYmlzdTA?oc=5",
+        "published": "16 Mar 2026, 06:07 PM",
+        "iso_date": "2026-03-16T18:07:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,6 +276,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Kuwait Arrests 14 in Terror Cell Case Linked to Hezbollah",
+        "link": "https://www.newsofbahrain.com/world/128599.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U7w4tsL3q1_2026-03-16_1773695844resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Gulf Air Expands Temporary Commercial Network via Dammam",
         "link": "https://www.newsofbahrain.com/bahrain/128598.html",
         "published": "16 Mar 2026, 09:22 AM",
@@ -278,8 +298,8 @@
       {
         "title": "President Trump Highlights Strikes, Strait of Hormuz Security Efforts",
         "link": "https://www.newsofbahrain.com/bahrain/128597.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
+        "published": "16 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-16T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_sJHYySQ164_2026-03-16_1773689055resized_pic.jpg",
         "source": "newsofbahrain",
@@ -298,20 +318,10 @@
       {
         "title": "Bahrain and Saudi Arabian Grands Prix will not take place in April",
         "link": "https://www.newsofbahrain.com/sports/128595.html",
-        "published": "16 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vWQuSNZ8Ed_2026-03-16_1773666737resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Emotional Antonelli wins maiden grand prix with Mercedes 1-2 in China",
-        "link": "https://www.newsofbahrain.com/sports/128594.html",
         "published": "16 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1ZVGJ8nCD5_2026-03-16_1773666077resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vWQuSNZ8Ed_2026-03-16_1773666737resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -362,16 +372,6 @@
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_2doeWTlbD1_2026-03-16_1773663545thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Netanyahu mocks social media rumours about his death",
-        "link": "https://www.newsofbahrain.com/world/128583.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IbxVAzJ8BH_2026-03-16_1773663345thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-16 20:35:31 UTC"
+  "fetched_at": "2026-03-16 21:36:26 UTC"
 }
