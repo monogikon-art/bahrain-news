@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 17
     }
   },
   "articles": {
@@ -266,6 +266,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Over 240,000 Students in Bahrain Continue Studies Online",
+        "link": "https://www.newsofbahrain.com/bahrain/128596.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_24EPTGvJkZ_2026-03-16_1773687346resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain and Saudi Arabian Grands Prix will not take place in April",
         "link": "https://www.newsofbahrain.com/sports/128595.html",
         "published": "16 Mar 2026, 09:22 AM",
@@ -278,8 +288,8 @@
       {
         "title": "Emotional Antonelli wins maiden grand prix with Mercedes 1-2 in China",
         "link": "https://www.newsofbahrain.com/sports/128594.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
+        "published": "16 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-16T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1ZVGJ8nCD5_2026-03-16_1773666077resized_pic.jpg",
         "source": "newsofbahrain",
@@ -298,20 +308,10 @@
       {
         "title": "Title race not over, insists Man City boss Guardiola",
         "link": "https://www.newsofbahrain.com/sports/128592.html",
-        "published": "16 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kJFdt6cAlr_2026-03-16_1773665635resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Medvedev snaps Alcaraz win streak, sets Indian Wells final with Sinner",
-        "link": "https://www.newsofbahrain.com/sports/128591.html",
         "published": "16 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YL4V8S1rQm_2026-03-16_1773665236resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kJFdt6cAlr_2026-03-16_1773665635resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -342,16 +342,6 @@
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q6MqcotLeB_2026-03-16_1773661797thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shawwal Crescent to Be Born March 19, Says Astronomer, Links Eid Al Fitr with Start of Spring",
-        "link": "https://www.newsofbahrain.com/bahrain/128578.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CTYGxiOBAJ_2026-03-16_1773661189thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -559,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-16 17:33:53 UTC"
+  "fetched_at": "2026-03-16 18:57:35 UTC"
 }
