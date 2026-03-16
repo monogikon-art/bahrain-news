@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVhUUXJ0ZkdzbnQ0VVQ4LWxBSV9rUFJsQWZCbkNHUlhrbWU4ZVlOZzY1Qi1LY0ZCMnpjQnVxX2JYRF9Mdy1sZHlVRUI3b1AyOGZWZ0phTDhsUEFwV0JreVFxRmR3TldKYUZXcEloMzIyNmYtS1JXSnlvTjY2eFo2SDdwMWxsNmFjRmNaekh0V0g3MkhWbVhTWjdmQW9FalJ5Sm5CczhHRGdsWnRQelk2eGE2QnBJQTkyQ0VDcjZ2cm11bU0?oc=5",
-        "published": "16 Mar 2026, 07:33 AM",
-        "iso_date": "2026-03-16T07:33:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "PM not ready for US demands to send ships to protect oil tankers",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTEdSNFJBM1gyMFlwNVB3YmduMENnY0FIN2JTSHFDVEswM1hBd0o5bUJsZmVVSEFUbWFRN0hTQnprM0RkeGNtc2I2UkpBM3JqR09RS3RmSXZlUmdZY2JlM0x2V2hKOFo0YWxjNktYVVFJcGcwTmF5YWtONEhGZ1l1cGFaWkxucGgzbHkzcW5halNpNlpycFpBUEZNNjdrYUk0aG9FOGI4VG1sUEw1ekpfWjYtQ3hiSHdKZXZNZjE0a1UwWExVQ3FqLUlBX2xaZTl2NFRfRHF5ZDZWY25lRmJoMVNrTE9adTRwbk1XS2ZzZkFzSGxS?oc=5",
         "published": "16 Mar 2026, 04:00 PM",
@@ -72,20 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "125 ballistic missiles, 212 drones intercepted by Bahrain air defences since start of Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2FXZEdnNU0zWExuU0xGTXh4aHByMXUtaWRaLW9JV3V4bVBPR3lYd210UU9NTklIZXdTb0w5QXAxd25aZUlmaDVtMVhGNUVvR2ZzSDFUVGgzX1hIU2luTjV5UXpaRmRuZFlnd29WQ2ZqNGF4UEFhVW9uVVg1M2ZWdEk3c2pWMmplSjNfbDNSR3VnMmc3b3B2Umt2MTRQczNOUk90TUItczd1N2FrY29rRnpycllHd2dVcXVqY2xkUnhVM2o5aXU0R183eW5YdmJPVHZGdUdUQUl2RzFlNUE?oc=5",
-        "published": "15 Mar 2026, 11:01 PM",
-        "iso_date": "2026-03-15T23:01:00+00:00",
+        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYU5GcWd2eHBKYUszUTBSQ2YtRW5RWllCeEIzRU44WTVkcEZYdXo1anZ5Wi1YV3JjX2ZfaVpCZk1KUEtvZnA1T1J1bmJnOWc4WTZYUnJSdHd2eFVQdVlpQmxJNGRNc0RMMlJzNndOTHZ6cXN3cHhyakpTN3J6cjV2N29vR1E3ajhsMFNSWXU3TlJYVmxuYzRla1B5WTZNY25pel9fSkxicGFrOWdsOHN2Y0lGUmF1ai1iZkhkWFN5MHdRR3c?oc=5",
+        "published": "16 Mar 2026, 09:29 AM",
+        "iso_date": "2026-03-16T09:29:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "On Arab Human Rights Day, Foreign Minister condemns Iranian violations; affirms Bahrain right to uphold security",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sV3ZNZzVCYmZNNEtxeEZvVUR4ZjIwNF9LOU1tckVyU1JEQV9RbWdTN3loQTRSQ2ZDSUFiVjA4R05fRXFWd1YzWmllR0RxZUplbGcwcVU1Z0FFN28?oc=5",
-        "published": "16 Mar 2026, 10:41 AM",
-        "iso_date": "2026-03-16T10:41:29+00:00",
+        "title": "125 ballistic missiles, 212 drones intercepted by Bahrain air defences since start of Iranian attack",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2FXZEdnNU0zWExuU0xGTXh4aHByMXUtaWRaLW9JV3V4bVBPR3lYd210UU9NTklIZXdTb0w5QXAxd25aZUlmaDVtMVhGNUVvR2ZzSDFUVGgzX1hIU2luTjV5UXpaRmRuZFlnd29WQ2ZqNGF4UEFhVW9uVVg1M2ZWdEk3c2pWMmplSjNfbDNSR3VnMmc3b3B2Umt2MTRQczNOUk90TUItczd1N2FrY29rRnpycllHd2dVcXVqY2xkUnhVM2o5aXU0R183eW5YdmJPVHZGdUdUQUl2RzFlNUE?oc=5",
+        "published": "15 Mar 2026, 11:01 PM",
+        "iso_date": "2026-03-15T23:01:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -276,6 +266,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Gulf Air Expands Temporary Commercial Network via Dammam",
+        "link": "https://www.newsofbahrain.com/bahrain/128598.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b1mF6NrlwO_2026-03-16_1773691482resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "President Trump Highlights Strikes, Strait of Hormuz Security Efforts",
         "link": "https://www.newsofbahrain.com/bahrain/128597.html",
         "published": "16 Mar 2026, 09:22 AM",
@@ -288,8 +288,8 @@
       {
         "title": "Over 240,000 Students in Bahrain Continue Studies Online",
         "link": "https://www.newsofbahrain.com/bahrain/128596.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
+        "published": "16 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-16T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_24EPTGvJkZ_2026-03-16_1773687346resized_pic.jpg",
         "source": "newsofbahrain",
@@ -308,8 +308,8 @@
       {
         "title": "Emotional Antonelli wins maiden grand prix with Mercedes 1-2 in China",
         "link": "https://www.newsofbahrain.com/sports/128594.html",
-        "published": "16 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-16T09:00:43+00:00",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1ZVGJ8nCD5_2026-03-16_1773666077resized_pic.jpg",
         "source": "newsofbahrain",
@@ -321,7 +321,7 @@
         "published": "16 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XxmhDUkJMW_2026-03-16_1773665972resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XxmhDUkJMW_2026-03-16_1773665972thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,16 +332,6 @@
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_HRklOLYDnd_2026-03-16_1773663701thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Amir Thanks Bahrain King for National Day Greetings",
-        "link": "https://www.newsofbahrain.com/bahrain/128587.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VjgiSx39wv_2026-03-16_1773663675thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-16 19:53:15 UTC"
+  "fetched_at": "2026-03-16 20:35:31 UTC"
 }
