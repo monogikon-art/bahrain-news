@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -53,9 +53,9 @@
       },
       {
         "title": "125 ballistic missiles, 212 drones intercepted by Bahrain air defences since start of Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2FXZEdnNU0zWExuU0xGTXh4aHByMXUtaWRaLW9JV3V4bVBPR3lYd210UU9NTklIZXdTb0w5QXAxd25aZUlmaDVtMVhGNUVvR2ZzSDFUVGgzX1hIU2luTjV5UXpaRmRuZFlnd29WQ2ZqNGF4UEFhVW9uVVg1M2ZWdEk3c2pWMmplSjNfbDNSR3VnMmc3b3B2Umt2MTRQczNOUk90TUItczd1N2FrY29rRnpycllHd2dVcXVqY2xkUnhVM2o5aXU0R183eW5YdmJPVHZGdUdUQUl2RzFlNUE?oc=5",
-        "published": "15 Mar 2026, 11:01 PM",
-        "iso_date": "2026-03-15T23:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVDRjT2lFRG9xVkNIOXl1N1FkSUtpNVVFZXJhWHoxLUI0NkMtMzJQekpmWFVfOHl3U2tCRGtNOThoMmktSmpTUHUtS0JqNDlsSzRJclVnajZFS3lxVnBWVVZIQjk1UnNHb09icHZ0aldvQk1uNm9QS3Z5RmtWTUZYcndUNi10M1hyeHhCN3hqYW44Wi1OREhkSk5DdjNrT3NYdWxvYk5PbHdnZVhsZFVTaTNheEVLckZCSUdxcUlsVEVBa3ZnZE1LR0h6cDl6d0k3SkF2bGlZSzQySFJuck9Ubkt1bEwwUHJkRFpQN0N30gHuAUFVX3lxTE5UNGNPaUVEb3FWQ0g5eXU3UWRJS2k1VUVlcmFYejEtQjQ2Qy0zMlB6SmZYVV84eXdTa0JEa005OGgyaS1KalNQdS1LQmo0OWxLNElyVWdqNkVLeXFWcFZVVkhCOTVSc0dvT2JwdnRqV29CTW42b1BLdnlGa1ZNRlhyd1Q2LXQzWHJ4eEI3eGphbjhaLU5ESGRKTkN2M2tPc1h1bG9iTk9sd2dlWGxkVVNpM2F4RUtyRkJJR3FxSWxURUFrdmdkTUtHSHpwOXp3STdKQXZsaVlLNDJIUm5yT1RuS3VsTDBQcmREWlA3Q3c?oc=5",
+        "published": "15 Mar 2026, 11:05 PM",
+        "iso_date": "2026-03-15T23:05:57+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -164,12 +164,42 @@
         "category": "Latest"
       },
       {
-        "title": "Laporta re-elected as Barcelona president",
-        "link": "https://www.gdnonline.com/Details/1378729/Laporta-re-elected-as-Barcelona-president",
+        "title": "AFC has received no notification from Iran on World Cup withdrawal",
+        "link": "https://www.gdnonline.com/Details/1378736/AFC-has-received-no-notification-from-Iran-on-World-Cup-withdrawal",
         "published": "16 Mar 2026",
         "iso_date": "2026-03-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316101003laportare-electedasbarcelonapresident_T.jpg?20260316",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316104537wc1(1)_T.jpg?20260316",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Cole named head coach of Serie B side Cesena",
+        "link": "https://www.gdnonline.com/Details/1378732/Cole-named-head-coach-of-Serie-B-side-Cesena",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316105811cole1_T.jpg?20260316",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Egypt, Saudi move camps from Qatar and set March 27 friendly in Jeddah",
+        "link": "https://www.gdnonline.com/Details/1378733/Egypt,-Saudi-move-camps-from-Qatar-and-set-March-27-friendly-in-Jeddah",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316104203salah1(5)_T.jpg?20260316",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Laporta re-elected as Barcelona president",
+        "link": "https://www.gdnonline.com/Details/1378730/Laporta-re-elected-as-Barcelona-president",
+        "published": "16 Mar 2026",
+        "iso_date": "2026-03-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316102743bar(1)_T.jpg?20260316",
         "source": "gdn",
         "category": "Latest"
       },
@@ -182,76 +212,56 @@
         "image": "https://www.gdnonline.com/gdnimages/20260316/20260316095348fifthmemberofiranwomen'ssoccerteamwithdrawsasylumclaim_T.jpg?20260316",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Bahrain teamâs Türkiye camp could be called off",
-        "link": "https://www.gdnonline.com/Details/1378707/Bahrain-teamâs-Türkiye-camp-could-be-called-off",
-        "published": "16 Mar 2026",
-        "iso_date": "2026-03-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316013359talajic_T.jpg?20260316",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Raphinha nets hat-trick as Barca rout Sevilla",
-        "link": "https://www.gdnonline.com/Details/1378708/Raphinha-nets-hat-trick-as-Barca-rout-Sevilla",
-        "published": "16 Mar 2026",
-        "iso_date": "2026-03-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316_012346_1_T.jpg?20260316",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Lazio edge past AC Milan",
-        "link": "https://www.gdnonline.com/Details/1378706/Lazio-edge-past-AC-Milan",
-        "published": "16 Mar 2026",
-        "iso_date": "2026-03-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316_011630_0_T.jpg?20260316",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "Legal action taken against 45 drivers for causing public disturbance",
-        "link": "https://www.newsofbahrain.com/bahrain/128550.html",
+        "title": "Saraya Sanad villa expansion rules already in place",
+        "link": "https://www.newsofbahrain.com/bahrain/128556.html",
         "published": "16 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gf6Dl1yjKi_2026-03-16_1773648246resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_izSfaP8M5F_2026-03-16_1773653449resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "MP calls for calm amid regional tensions",
-        "link": "https://www.newsofbahrain.com/bahrain/128549.html",
+        "title": "Ministers oppose fixed state firm levy",
+        "link": "https://www.newsofbahrain.com/bahrain/128555.html",
         "published": "16 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sW8SFqKli4_2026-03-16_1773647192resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nLO6SUfoRc_2026-03-16_1773651818resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "HRH Prince Salman issues circular on Eid Al-Fitr holidays",
-        "link": "https://www.newsofbahrain.com/bahrain/128548.html",
+        "title": "Shura Council rejects draft laws to shift state-linked company profits to general budget",
+        "link": "https://www.newsofbahrain.com/bahrain/128554.html",
         "published": "16 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-16T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GnU8WbOYor_2026-03-16_1773646956resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XnQVDwp1os_2026-03-16_1773651579resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Martinez Powers Bahrain Victorious to Paris–Nice Win",
-        "link": "https://www.newsofbahrain.com/sports/128547.html",
+        "title": "UK updates travel advice for citizens",
+        "link": "https://www.newsofbahrain.com/bahrain/128553.html",
         "published": "16 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-16T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EsbLxyBG8k_2026-03-16_1773646626resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C2XK5MrcbR_2026-03-16_1773650826resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Palestinian Civilian Killed by Missile Strike in Abu Dhabi",
+        "link": "https://www.newsofbahrain.com/bahrain/128552.html",
+        "published": "16 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DpC1936rBN_2026-03-16_1773650464resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,27 +271,7 @@
         "published": "16 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_okNAldMWB6_2026-03-16_1773646602resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "CBSE cancels Class 12 exams in Gulf, students await fair evaluation",
-        "link": "https://www.newsofbahrain.com/bahrain/128543.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LaR5AG28ET_2026-03-16_1773646079thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura Council Rejects Proposed Amendments to Child Law",
-        "link": "https://www.newsofbahrain.com/bahrain/128541.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_74KNl63yjx_2026-03-16_1773645579thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_okNAldMWB6_2026-03-16_1773646602thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-16 08:06:43 UTC"
+  "fetched_at": "2026-03-16 09:38:56 UTC"
 }
