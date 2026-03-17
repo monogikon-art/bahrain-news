@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -53,9 +53,9 @@
       },
       {
         "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGthb3d6cVRIVFNMaFNfejhQNmI2NHU3Wmc2aTdnUVF3MkJRUWhTXzhaVGxOclB2c1NMOWFMb0NQNmxjZ3Z3dnNiTUdVX0Z0cjJZWW04dGE3bUtFSmN1TnFMR3ZlZ191WERIcUdObDJxYXdnSUxzTVJIVC1obEZFV3BrNE8taWdHalBXVy1aU0JHRmNNRUpycTZWSFF1VVR2d29tbmRKa3BRYTEyYUJzTHdwVkx2a3pyQkJn?oc=5",
-        "published": "16 Mar 2026, 10:29 PM",
-        "iso_date": "2026-03-16T22:29:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVhUUXJ0ZkdzbnQ0VVQ4LWxBSV9rUFJsQWZCbkNHUlhrbWU4ZVlOZzY1Qi1LY0ZCMnpjQnVxX2JYRF9Mdy1sZHlVRUI3b1AyOGZWZ0phTDhsUEFwV0JreVFxRmR3TldKYUZXcEloMzIyNmYtS1JXSnlvTjY2eFo2SDdwMWxsNmFjRmNaekh0V0g3MkhWbVhTWjdmQW9FalJ5Sm5CczhHRGdsWnRQelk2eGE2QnBJQTkyQ0VDcjZ2cm11bU0?oc=5",
+        "published": "16 Mar 2026, 07:33 AM",
+        "iso_date": "2026-03-16T07:33:28+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,20 +72,40 @@
         "category": "Latest"
       },
       {
-        "title": "Countries with the most submarines",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTRBanFjYW1JRU1QNGhqOTJ4MGtoVkM5bUk3bjY5SWJUcEVUckk3N1NZeFpuakFOUkV1MFZxV01IM2RwYkpuMUQyNTh5R0hLcFlFLWNTM3AwRFNLNlFjWmFNRl9RU05jcndPaXkwODNiWUNwT2ZUbXRHVEtQQ2pnVlI3SGRHT0ozUVoxakk5Z2tXdERPQzY2NmxmZ21Hb2VyQ0FEWTRXQ084ODJlQkNmWDBHblZNclNvYVd1aFR3?oc=5",
-        "published": "16 Mar 2026, 07:13 AM",
-        "iso_date": "2026-03-16T07:13:55+00:00",
+        "title": "On Arab Human Rights Day, Foreign Minister condemns Iranian violations; affirms Bahrain right to uphold security",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sV3ZNZzVCYmZNNEtxeEZvVUR4ZjIwNF9LOU1tckVyU1JEQV9RbWdTN3loQTRSQ2ZDSUFiVjA4R05fRXFWd1YzWmllR0RxZUplbGcwcVU1Z0FFN28?oc=5",
+        "published": "16 Mar 2026, 10:41 AM",
+        "iso_date": "2026-03-16T10:41:29+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "HM King receives phone call from HE Egyptian President - Local News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xTGlTbzBDUHJsZUpYRFZUOVg5SFNvTndjOGtjbEFuVGtGbXlJT2JqV3VwM2lXMnZDUUlwV1ZONVY3Vk5xY0hVZEpEUHNCRFBzZjRkT0xNRzVwTW8?oc=5",
-        "published": "16 Mar 2026, 06:08 PM",
-        "iso_date": "2026-03-16T18:08:19+00:00",
+        "title": "Industry Ministry confirms stability of livestock and poultry supplies ahead of Eid Al Fitr",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9INnVXRXhqeGQxMUNiN1NnVGhnNWRhNDdUaTQ3cWFRX2NpVnl3ejVCb0pjckRZMzRXZDhPSUc3WFV3S3Mtck9BVjQ2ZU1HcDRPV280TkkzYmlzdTA?oc=5",
+        "published": "16 Mar 2026, 06:07 PM",
+        "iso_date": "2026-03-16T18:07:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE air defences engage 6 ballistic missiles, 21 UAVs - GCC News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uRDYtMDB1T1pTWUc4bXpWTDBycDZmS082R1VZbnBtRzlPdUlQM0t1czlZV2xpZ2hKM0lDZXJoUzFISDFWRV9tekhoTWpoaGFPRnVkTUpscGpiMjA?oc=5",
+        "published": "16 Mar 2026, 06:34 PM",
+        "iso_date": "2026-03-16T18:34:16+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait National Guard downs seven hostile drones in 24 hours - GCC News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43X3c3aTJwc3B1OGJ2NEQ1SDVzMC1nSUZFLTZxRXEzcVoyOXhTbjNPQ3RPNFpaZmRHTi1fdnBKcWRNN0hhQk93MG1nLWI4NXdvZG9SdnJIbVdNNmM?oc=5",
+        "published": "16 Mar 2026, 06:07 PM",
+        "iso_date": "2026-03-16T18:07:11+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,12 +276,72 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Boxing’s “Cinderella Story”",
+        "link": "https://www.newsofbahrain.com/bahrain/128609.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JT3a8vU0gG_2026-03-17_1773729305resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shura Council Committee Reviews Draft Law on Dangerous Animals",
+        "link": "https://www.newsofbahrain.com/bahrain/128608.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZliTW48Jxd_2026-03-17_1773728959resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Eid rush fills laundry shops across Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/128607.html",
+        "published": "17 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_T3cHMtkIDA_2026-03-17_1773728707resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Barbershops brace for Eid rush as queues grow longer",
+        "link": "https://www.newsofbahrain.com/bahrain/128606.html",
+        "published": "17 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gYu4lQ0X5Z_2026-03-17_1773728570resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Fake Reward Leads to BD12,000 Scam… Man Faces Trial for Electronic Fraud",
+        "link": "https://www.newsofbahrain.com/bahrain/128605.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kG9CYAKDv3_2026-03-17_1773728311resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Vessel Damaged in Strike Off Fujairah Coast, UK maritime agency",
+        "link": "https://www.newsofbahrain.com/world/128603.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_87ucEPSkJR_2026-03-17_1773727833thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "South Korea Braces for ‘Worst-Case Scenario’ Amid Escalating Middle East Conflict",
         "link": "https://www.newsofbahrain.com/world/128600.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sbWQx1uT32_2026-03-17_1773725841resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sbWQx1uT32_2026-03-17_1773725841thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,57 +351,7 @@
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U7w4tsL3q1_2026-03-16_1773695844resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air Expands Temporary Commercial Network via Dammam",
-        "link": "https://www.newsofbahrain.com/bahrain/128598.html",
-        "published": "16 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b1mF6NrlwO_2026-03-16_1773691482resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "President Trump Highlights Strikes, Strait of Hormuz Security Efforts",
-        "link": "https://www.newsofbahrain.com/bahrain/128597.html",
-        "published": "16 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sJHYySQ164_2026-03-16_1773689055resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Over 240,000 Students in Bahrain Continue Studies Online",
-        "link": "https://www.newsofbahrain.com/bahrain/128596.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_24EPTGvJkZ_2026-03-16_1773687346resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "New Member to Bahrain Modern Pentathlon Federation Board",
-        "link": "https://www.newsofbahrain.com/bahrain/128593.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XxmhDUkJMW_2026-03-16_1773665972thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Confirms Active Talks to Ensure Strait of Hormuz Remains Open",
-        "link": "https://www.newsofbahrain.com/bahrain/128588.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HRklOLYDnd_2026-03-16_1773663701thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U7w4tsL3q1_2026-03-16_1773695844thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,16 +362,6 @@
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_7NhTmFY9lt_2026-03-16_1773663603thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shivalik LPG Tanker Safely Reaches India After Sailing Through Strait of Hormuz",
-        "link": "https://www.newsofbahrain.com/world/128585.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qo30qzltFH_2026-03-16_1773663582thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-17 05:41:24 UTC"
+  "fetched_at": "2026-03-17 06:59:54 UTC"
 }
