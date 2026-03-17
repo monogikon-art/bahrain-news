@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -62,40 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "On Arab Human Rights Day, Foreign Minister condemns Iranian violations; affirms Bahrain right to uphold security",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sV3ZNZzVCYmZNNEtxeEZvVUR4ZjIwNF9LOU1tckVyU1JEQV9RbWdTN3loQTRSQ2ZDSUFiVjA4R05fRXFWd1YzWmllR0RxZUplbGcwcVU1Z0FFN28?oc=5",
-        "published": "16 Mar 2026, 10:41 AM",
-        "iso_date": "2026-03-16T10:41:29+00:00",
+        "title": "PM not ready for US demands to send ships to protect oil tankers",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTEdSNFJBM1gyMFlwNVB3YmduMENnY0FIN2JTSHFDVEswM1hBd0o5bUJsZmVVSEFUbWFRN0hTQnprM0RkeGNtc2I2UkpBM3JqR09RS3RmSXZlUmdZY2JlM0x2V2hKOFo0YWxjNktYVVFJcGcwTmF5YWtONEhGZ1l1cGFaWkxucGgzbHkzcW5halNpNlpycFpBUEZNNjdrYUk0aG9FOGI4VG1sUEw1ekpfWjYtQ3hiSHdKZXZNZjE0a1UwWExVQ3FqLUlBX2xaZTl2NFRfRHF5ZDZWY25lRmJoMVNrTE9adTRwbk1XS2ZzZkFzSGxS?oc=5",
+        "published": "16 Mar 2026, 04:00 PM",
+        "iso_date": "2026-03-16T16:00:59+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Industry Ministry confirms stability of livestock and poultry supplies ahead of Eid Al Fitr",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9INnVXRXhqeGQxMUNiN1NnVGhnNWRhNDdUaTQ3cWFRX2NpVnl3ejVCb0pjckRZMzRXZDhPSUc3WFV3S3Mtck9BVjQ2ZU1HcDRPV280TkkzYmlzdTA?oc=5",
-        "published": "16 Mar 2026, 06:07 PM",
-        "iso_date": "2026-03-16T18:07:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE air defences engage 6 ballistic missiles, 21 UAVs - GCC News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uRDYtMDB1T1pTWUc4bXpWTDBycDZmS082R1VZbnBtRzlPdUlQM0t1czlZV2xpZ2hKM0lDZXJoUzFISDFWRV9tekhoTWpoaGFPRnVkTUpscGpiMjA?oc=5",
-        "published": "16 Mar 2026, 06:34 PM",
-        "iso_date": "2026-03-16T18:34:16+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait National Guard downs seven hostile drones in 24 hours - GCC News | Bahrain News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43X3c3aTJwc3B1OGJ2NEQ1SDVzMC1nSUZFLTZxRXEzcVoyOXhTbjNPQ3RPNFpaZmRHTi1fdnBKcWRNN0hhQk93MG1nLWI4NXdvZG9SdnJIbVdNNmM?oc=5",
-        "published": "16 Mar 2026, 06:07 PM",
-        "iso_date": "2026-03-16T18:07:11+00:00",
+        "title": "Countries with the most submarines",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTRBanFjYW1JRU1QNGhqOTJ4MGtoVkM5bUk3bjY5SWJUcEVUckk3N1NZeFpuakFOUkV1MFZxV01IM2RwYkpuMUQyNTh5R0hLcFlFLWNTM3AwRFNLNlFjWmFNRl9RU05jcndPaXkwODNiWUNwT2ZUbXRHVEtQQ2pnVlI3SGRHT0ozUVoxakk5Z2tXdERPQzY2NmxmZ21Hb2VyQ0FEWTRXQ084ODJlQkNmWDBHblZNclNvYVd1aFR3?oc=5",
+        "published": "16 Mar 2026, 07:13 AM",
+        "iso_date": "2026-03-16T07:13:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -529,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-17 01:52:33 UTC"
+  "fetched_at": "2026-03-17 04:16:17 UTC"
 }
