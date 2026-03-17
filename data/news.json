@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "Saudi Arabia rejects war with Iran and views Israel as a destabilizing force - opinion",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41aXJzUVA4Ty1ndFlQN255bDZ4blBDZ1pHdFdITE9VLXpoejU5RURCQ2F0bk03MDBJR1R4clhmc1pvdV81YTZZNWZ3Q2ktcG9HMzZ3X3E0UQ?oc=5",
+        "published": "17 Mar 2026, 04:00 PM",
+        "iso_date": "2026-03-17T16:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWkpva0xBa2FrOUV1QnJLQU1nbEVUTzQ3SFg0bkNqeHFuMk9ramhudFBjR0s0bURkMnUxSzlGT0ZCV0QtOF9PQkhZUFFJR3R1WG5hcW81RW5KcHk3YlVfdThaNUkwQkpRbXZnVUNzbzNMLXlTQjN2bW5sMk5scGhrTXltVWx3X0hHOFBVamQ3THgzeGlaQzd2d0FyMXRPWmVBLVFjTFFaVmZQMzBFOUN6aVliMnctOGlrVmZsc2hLRUs0a096T205d0xnZkJrZ3lTeXVSRnJjNlpGNWlaUVp6NmpvQWc1Y29GekdENURn?oc=5",
         "published": "17 Mar 2026, 03:30 PM",
@@ -56,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMEtMcjY3cGM2dmphSldsa3JBd3NFOXo1dFNGc2hTUkQxdGJQUTlBM1FWaDJWczNCWEc3Z2RZeEEyeFZkSl9EczU0VE1zV1JINDNGZU1Fb0RpWklhcFBKQ3RWdXI3bDFsMjFkNnpyYmxnY1ZFRE5nTTBIVlZFRjdMNy1nWE9qbnVwd2FaN256SjBXUE1MT1hvVUpXbU96NVlubktIRVdzaGEwNVFNYURfMDA0YXB5STIxY0ZYZ3dXYnpTRDJUTmx2SkVncktxaXdwYlZYR0l5UXJYeWF0Y1k4ejdBRkE3Wk9EOEcxVjIwcmxSN0EtMmJR?oc=5",
         "published": "17 Mar 2026, 09:27 AM",
         "iso_date": "2026-03-17T09:27:01+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "UK prepares aircraft carrier HMS Prince of Wales to deploy to Middle East",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZWg4OThWSVc2RlQ3T2w2RDJKa04yZ3ZlVExhdlNSaTdzUXgxVERETVM2M1JRYXJLOUNSVldmb3pIeWdrRW82bXcyaDZnTC1sN3dyVHZDVW43aFJuQmVNWHV3TTkwdnJPWjhBbWVYRXpXYTFCcU9yT3d5UmFJbFFIbERPRXBScTJyb2JCV1A4Q3FERV9HY0ltWnQ2ZUdHeGo0V1VhZFJpa3d3MERsN005YWpYLVhpZmVaNzlEQnFMeHV3TnNqa0h0RFBVWEZsdi1QbE1jRlcxM2xxb0RGSG1pbDY5QjFkeE1RVWp5dmc0ODByajV6U25rTFpvOE42U3B5?oc=5",
-        "published": "16 Mar 2026, 11:07 PM",
-        "iso_date": "2026-03-16T23:07:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -114,16 +114,6 @@
         "category": "Latest"
       },
       {
-        "title": "Executive panel holds meeting",
-        "link": "https://www.gdnonline.com/Details/1378927/Executive-panel-holds-meeting",
-        "published": "18 Mar 2026",
-        "iso_date": "2026-03-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318011635crownprince1_T.jpg?20260318",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "More destinations added to Gulf Airâs temporary Dammam operations",
         "link": "https://www.gdnonline.com/Details/1378897/More-destinations-added-to-Gulf-Airâs-temporary-Dammam-operations",
         "published": "18 Mar 2026",
@@ -140,6 +130,16 @@
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260317/20260317235203websitesize(27)_T.jpg?20260318",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Executive panel holds meeting",
+        "link": "https://www.gdnonline.com/Details/1378933/Executive-panel-holds-meeting",
+        "published": "18 Mar 2026",
+        "iso_date": "2026-03-18T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318022549crownprince2_T.jpg?20260318",
         "source": "gdn",
         "category": "Latest"
       },
@@ -529,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-17 23:02:49 UTC"
+  "fetched_at": "2026-03-17 23:54:56 UTC"
 }
