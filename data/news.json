@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -76,6 +76,16 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTRBanFjYW1JRU1QNGhqOTJ4MGtoVkM5bUk3bjY5SWJUcEVUckk3N1NZeFpuakFOUkV1MFZxV01IM2RwYkpuMUQyNTh5R0hLcFlFLWNTM3AwRFNLNlFjWmFNRl9RU05jcndPaXkwODNiWUNwT2ZUbXRHVEtQQ2pnVlI3SGRHT0ozUVoxakk5Z2tXdERPQzY2NmxmZ21Hb2VyQ0FEWTRXQ084ODJlQkNmWDBHblZNclNvYVd1aFR3?oc=5",
         "published": "16 Mar 2026, 07:13 AM",
         "iso_date": "2026-03-16T07:13:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King receives phone call from HE Egyptian President - Local News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xTGlTbzBDUHJsZUpYRFZUOVg5SFNvTndjOGtjbEFuVGtGbXlJT2JqV3VwM2lXMnZDUUlwV1ZONVY3Vk5xY0hVZEpEUHNCRFBzZjRkT0xNRzVwTW8?oc=5",
+        "published": "16 Mar 2026, 06:08 PM",
+        "iso_date": "2026-03-16T18:08:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,6 +256,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "South Korea Braces for ‘Worst-Case Scenario’ Amid Escalating Middle East Conflict",
+        "link": "https://www.newsofbahrain.com/world/128600.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sbWQx1uT32_2026-03-17_1773725841resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Kuwait Arrests 14 in Terror Cell Case Linked to Hezbollah",
         "link": "https://www.newsofbahrain.com/world/128599.html",
         "published": "17 Mar 2026, 09:22 AM",
@@ -258,8 +278,8 @@
       {
         "title": "Gulf Air Expands Temporary Commercial Network via Dammam",
         "link": "https://www.newsofbahrain.com/bahrain/128598.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
+        "published": "16 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-16T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_b1mF6NrlwO_2026-03-16_1773691482resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,20 +298,10 @@
       {
         "title": "Over 240,000 Students in Bahrain Continue Studies Online",
         "link": "https://www.newsofbahrain.com/bahrain/128596.html",
-        "published": "16 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_24EPTGvJkZ_2026-03-16_1773687346resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain and Saudi Arabian Grands Prix will not take place in April",
-        "link": "https://www.newsofbahrain.com/sports/128595.html",
         "published": "16 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vWQuSNZ8Ed_2026-03-16_1773666737resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_24EPTGvJkZ_2026-03-16_1773687346resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,16 +342,6 @@
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qo30qzltFH_2026-03-16_1773663582thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran wants deal: Trump No reason for talks: Iran",
-        "link": "https://www.newsofbahrain.com/world/128584.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2doeWTlbD1_2026-03-16_1773663545thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-17 04:16:17 UTC"
+  "fetched_at": "2026-03-17 05:41:24 UTC"
 }
