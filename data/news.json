@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "One killed by debris from intercepted missile in Abu Dhabi",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03M0N6RWlxWng0N3M4OERpUFF0QUk2eWVfRlowR2xMZ0h6NExESjJyZmFFWUxERDRlVFpUbzJ1djE4QUxGV3ZnbDZwaWdPUms5eDJZ?oc=5",
+        "published": "17 Mar 2026, 09:45 AM",
+        "iso_date": "2026-03-17T09:45:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain reports interception of 129 missiles and 215 drones since start of attacks",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TTDhFMk53SThsbHJabzJndHBmUDBLMVpDRThmNUp4LWZYcjVUaDVhMzFwR0NDdTdxSTQ2T1dWV3lkVDV5OU9uYzVwZFR4bmNWMG5z?oc=5",
         "published": "16 Mar 2026, 12:29 PM",
@@ -92,16 +102,6 @@
         "category": "Latest"
       },
       {
-        "title": "Industry Ministry confirms stability of livestock and poultry supplies ahead of Eid Al Fitr",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9INnVXRXhqeGQxMUNiN1NnVGhnNWRhNDdUaTQ3cWFRX2NpVnl3ejVCb0pjckRZMzRXZDhPSUc3WFV3S3Mtck9BVjQ2ZU1HcDRPV280TkkzYmlzdTA?oc=5",
-        "published": "16 Mar 2026, 06:07 PM",
-        "iso_date": "2026-03-16T18:07:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "UAE air defences engage 6 ballistic missiles, 21 UAVs - GCC News | Bahrain News Agency",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uRDYtMDB1T1pTWUc4bXpWTDBycDZmS082R1VZbnBtRzlPdUlQM0t1czlZV2xpZ2hKM0lDZXJoUzFISDFWRV9tekhoTWpoaGFPRnVkTUpscGpiMjA?oc=5",
         "published": "16 Mar 2026, 06:34 PM",
@@ -113,6 +113,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "BDF General Command: 129 missiles, 233 drones destroyed",
+        "link": "https://www.gdnonline.com/Details/1378857/BDF-General-Command-129-missiles,-233-drones-destroyed",
+        "published": "17 Mar 2026",
+        "iso_date": "2026-03-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317121639bdf2_T.jpg?20260317",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Egypt âready to help maintain regional securityâ",
         "link": "https://www.gdnonline.com/Details/1378813/Egypt-âready-to-help-maintain-regional-securityâ",
@@ -150,16 +160,6 @@
         "iso_date": "2026-03-17T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260316/20260316235153websitesize(1)_T.jpg?20260317",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Dutch King condemns Iranian strikes on Bahrain",
-        "link": "https://www.gdnonline.com/Details/1378834/Dutch-King-condemns-Iranian-strikes-on-Bahrain",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317020358hmkinghamadpleaseusethis_T.jpg?20260317",
         "source": "gdn",
         "category": "Latest"
       },
@@ -296,6 +296,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Mistaken private house entry leaves man with hearing loss",
+        "link": "https://www.newsofbahrain.com/bahrain/128638.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XbIfp2kcKR_2026-03-17_1773739718resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Criminal case filed over fabricated social media videos",
+        "link": "https://www.newsofbahrain.com/bahrain/128637.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wOgyl8zINT_2026-03-17_1773739434resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tamkeen urged to cover full wages for Bahraini employees of war-affected SMEs",
+        "link": "https://www.newsofbahrain.com/bahrain/128636.html",
+        "published": "17 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_djXFSwpZc4_2026-03-17_1773739127resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Suspects detained for glorifying terrorist acts",
+        "link": "https://www.newsofbahrain.com/bahrain/128635.html",
+        "published": "17 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JuqFHorOxk_2026-03-17_1773738800resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Food supplies, shipping operations steady",
         "link": "https://www.newsofbahrain.com/bahrain/128634.html",
         "published": "17 Mar 2026, 09:22 AM",
@@ -306,32 +346,12 @@
         "category": "Latest"
       },
       {
-        "title": "Essential stability",
-        "link": "https://www.newsofbahrain.com/bahrain/128633.html",
+        "title": "France Faces MICA Missile Shortage Amid Rafale Operations Over UAE",
+        "link": "https://www.newsofbahrain.com/world/128631.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d3ETWcnI1l_2026-03-17_1773736902resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King hails Egypt, Netherlands support",
-        "link": "https://www.newsofbahrain.com/bahrain/128632.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u9QY8nEjCR_2026-03-17_1773736657resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "France Faces MICA Missile Shortage Amid Rafale Operations Over UAE",
-        "link": "https://www.newsofbahrain.com/world/128631.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2eLPYDkoS1_2026-03-17_1773736379resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2eLPYDkoS1_2026-03-17_1773736379thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -341,27 +361,7 @@
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tL0moW96fh_2026-03-17_1773736466resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Orders Resume as Delivery Routes Shift Through UAE and Saudi Arabia",
-        "link": "https://www.newsofbahrain.com/bahrain/128620.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g0aUhHN8P2_2026-03-17_1773734291thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Awqaf projects support thousands during Ramadan",
-        "link": "https://www.newsofbahrain.com/bahrain/128618.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zTDSxKZo05_2026-03-17_1773733713thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tL0moW96fh_2026-03-17_1773736466thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-17 09:00:55 UTC"
+  "fetched_at": "2026-03-17 10:12:42 UTC"
 }
