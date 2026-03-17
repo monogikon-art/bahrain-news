@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -296,12 +296,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Manama’s Sabah Hussain Suffers ACL Injury",
-        "link": "https://www.newsofbahrain.com/bahrain/128619.html",
+        "title": "Food supplies, shipping operations steady",
+        "link": "https://www.newsofbahrain.com/bahrain/128634.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_khl5JyFgcd_2026-03-17_1773734045resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u1HCUfzXIZ_2026-03-17_1773737285resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Essential stability",
+        "link": "https://www.newsofbahrain.com/bahrain/128633.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d3ETWcnI1l_2026-03-17_1773736902resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King hails Egypt, Netherlands support",
+        "link": "https://www.newsofbahrain.com/bahrain/128632.html",
+        "published": "17 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u9QY8nEjCR_2026-03-17_1773736657resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "France Faces MICA Missile Shortage Amid Rafale Operations Over UAE",
+        "link": "https://www.newsofbahrain.com/world/128631.html",
+        "published": "17 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2eLPYDkoS1_2026-03-17_1773736379resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "CENTCOM confirms over 200 personnel injured across 7 countries in war on Iran",
+        "link": "https://www.newsofbahrain.com/world/128630.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tL0moW96fh_2026-03-17_1773736466resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Orders Resume as Delivery Routes Shift Through UAE and Saudi Arabia",
+        "link": "https://www.newsofbahrain.com/bahrain/128620.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g0aUhHN8P2_2026-03-17_1773734291thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -311,77 +361,27 @@
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zTDSxKZo05_2026-03-17_1773733713resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zTDSxKZo05_2026-03-17_1773733713thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Markets stocked as Bahrain prepares for Eid",
-        "link": "https://www.newsofbahrain.com/bahrain/128617.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2wFJWN8exj_2026-03-17_1773733623resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Requests Month-Long Postponement of China Summit Amid Iran War",
-        "link": "https://www.newsofbahrain.com/world/128616.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e5gEWmq617_2026-03-17_1773733477resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Eid Abayas Selling Out Fast",
-        "link": "https://www.newsofbahrain.com/bahrain/128615.html",
+        "title": "Middle East Crude Prices Hit Record Highs as Supply Disruptions Rattle Global Oil Market",
+        "link": "https://www.newsofbahrain.com/world/128628.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_scmzEbvwAl_2026-03-17_1773733314resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Is2L0yrmSp_2026-03-17_1773735963thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Some Leave Out of Necessity, Others Stay as Life Goes On",
-        "link": "https://www.newsofbahrain.com/bahrain/128614.html",
+        "title": "Iran Seeks to Shift World Cup Matches from US to Mexico Amid Security Concerns",
+        "link": "https://www.newsofbahrain.com/world/128627.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wemsaLgpkx_2026-03-17_1773732747thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Vessel Damaged in Strike Off Fujairah Coast, UK maritime agency",
-        "link": "https://www.newsofbahrain.com/world/128603.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_87ucEPSkJR_2026-03-17_1773727833thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "South Korea Braces for ‘Worst-Case Scenario’ Amid Escalating Middle East Conflict",
-        "link": "https://www.newsofbahrain.com/world/128600.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sbWQx1uT32_2026-03-17_1773725841thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Arrests 14 in Terror Cell Case Linked to Hezbollah",
-        "link": "https://www.newsofbahrain.com/world/128599.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U7w4tsL3q1_2026-03-16_1773695844thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aXgBclV0Qe_2026-03-17_1773735719thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -422,16 +422,6 @@
         "iso_date": "2026-03-16T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_g13lcsfCjz_2026-03-16_1773660479thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A “Breathalyser” for this war!",
-        "link": "https://www.newsofbahrain.com/views/128518.html",
-        "published": "15 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1RLOTXz8Aa_2026-03-15_1773579966thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-17 07:59:15 UTC"
+  "fetched_at": "2026-03-17 09:00:55 UTC"
 }
