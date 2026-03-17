@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 10
+      "count": 11
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,10 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
-        "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNQ21SVkJPYl9TeFY1NGRybl8tYTBqUUs3cHJqVlZib0sxaTVVMVNlRlJ6TldGX2JWVDZZMEZMb2FVTTBlWlBSZjYxMHNDZHVGbG03YkRNRUJtWUdXMkVFZTBXMDBxWmtCS3JjQmNia0pQZE56cGNGWTBaaUE2T1ViRGJucHBLMm8zcmJ2NEdCYzFrcXoydDdzLUJYRmFYUnBRVk1EdmRlODE1UmpkbUNnYkIyLXpKME1sREMzNGdOSmRwV0JBdHFJTUNLUW1rejNyXzJhY0FXU1M0bW9PQlhXSXNGTEhjdWNRTUFSamhieHVnVmNTWkRXNUh4dWNwaW90eTcyVXdmV1Fob1EtbzBXNmUyUUlhR2NIbjBjVFlhUTdKUEh2R3g1Q29VcUJGSzcyS2ptM2dfa0hZR0tLZTFNVW9ISEtfbUR0aThJWmhyb1pnTExnZDJpWHdqOXg5OTNSdEYxdUJwbDh2YUpOcEhOZ1hzOWJDRzFSOHB3bWRTZ3Q0czIxUHh5WmdCWQ?oc=5",
-        "published": "17 Mar 2026, 02:29 AM",
-        "iso_date": "2026-03-17T02:29:42+00:00",
+        "title": "How Saudi Arabia views the Iran conflict and Israel’s destabilizing role",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41aXJzUVA4Ty1ndFlQN255bDZ4blBDZ1pHdFdITE9VLXpoejU5RURCQ2F0bk03MDBJR1R4clhmc1pvdV81YTZZNWZ3Q2ktcG9HMzZ3X3E0UQ?oc=5",
+        "published": "17 Mar 2026, 04:00 PM",
+        "iso_date": "2026-03-17T16:00:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -106,6 +106,16 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xTGlTbzBDUHJsZUpYRFZUOVg5SFNvTndjOGtjbEFuVGtGbXlJT2JqV3VwM2lXMnZDUUlwV1ZONVY3Vk5xY0hVZEpEUHNCRFBzZjRkT0xNRzVwTW8?oc=5",
         "published": "16 Mar 2026, 06:08 PM",
         "iso_date": "2026-03-16T18:08:19+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Industry Ministry confirms stability of livestock and poultry supplies ahead of Eid Al Fitr",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9INnVXRXhqeGQxMUNiN1NnVGhnNWRhNDdUaTQ3cWFRX2NpVnl3ejVCb0pjckRZMzRXZDhPSUc3WFV3S3Mtck9BVjQ2ZU1HcDRPV280TkkzYmlzdTA?oc=5",
+        "published": "16 Mar 2026, 06:07 PM",
+        "iso_date": "2026-03-16T18:07:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -306,6 +316,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Trump Says NATO Allies Decline Role in Iran Operation",
+        "link": "https://www.newsofbahrain.com/bahrain/128674.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qkQA3oyZ09_2026-03-17_1773766332resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain expresses strong concern over Iran’s threat to close the Strait of Hormuz",
         "link": "https://www.newsofbahrain.com/bahrain/128673.html",
         "published": "17 Mar 2026, 09:22 AM",
@@ -318,8 +338,8 @@
       {
         "title": "Bahraini Rights Groups Call on UN Human Rights Council to Condemn Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/128672.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
+        "published": "17 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-17T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hTjkRigyov_2026-03-17_1773755150resized_pic.jpg",
         "source": "newsofbahrain",
@@ -338,20 +358,10 @@
       {
         "title": "Buzz, unease as UK crowds watch US bombers",
         "link": "https://www.newsofbahrain.com/world/128670.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bNviJjt475_2026-03-17_1773753373resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Indian diplomacy beats warships in opening Strait of Hormuz amid Iran tensions",
-        "link": "https://www.newsofbahrain.com/world/128669.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IhC7rRLpmJ_2026-03-17_1773753005resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bNviJjt475_2026-03-17_1773753373resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -376,12 +386,12 @@
         "category": "Latest"
       },
       {
-        "title": "HM King Issues Decree Ratifying Bahrain–Cyprus Academic Recognition Agreement",
-        "link": "https://www.newsofbahrain.com/bahrain/128665.html",
+        "title": "Indian diplomacy beats warships in opening Strait of Hormuz amid Iran tensions",
+        "link": "https://www.newsofbahrain.com/world/128669.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GLafXcYqdK_2026-03-17_1773751934thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IhC7rRLpmJ_2026-03-17_1773753005thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -559,5 +569,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-17 16:03:00 UTC"
+  "fetched_at": "2026-03-17 17:34:56 UTC"
 }
