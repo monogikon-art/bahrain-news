@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -114,6 +114,16 @@
     ],
     "gdn": [
       {
+        "title": "Flight operations at BIA remain temporarily suspended",
+        "link": "https://www.gdnonline.com/Details/1378867/Flight-operations-at-BIA-remain-temporarily-suspended",
+        "published": "17 Mar 2026",
+        "iso_date": "2026-03-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317132809bia1(3)_T.jpg?20260317",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "BDF General Command: 129 missiles, 233 drones destroyed",
         "link": "https://www.gdnonline.com/Details/1378857/BDF-General-Command-129-missiles,-233-drones-destroyed",
         "published": "17 Mar 2026",
@@ -150,16 +160,6 @@
         "iso_date": "2026-03-17T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260317/20260316_224538_0_T.jpg?20260317",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Family seeks public help to find missing youngster",
-        "link": "https://www.gdnonline.com/Details/1378783/Family-seeks-public-help-to-find-missing-youngster",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316235153websitesize(1)_T.jpg?20260317",
         "source": "gdn",
         "category": "Latest"
       },
@@ -296,42 +296,72 @@
     ],
     "newsofbahrain": [
       {
-        "title": "BENEFIT holds Annual General Meeting virtually and approves 10% Cash Dividend",
-        "link": "https://www.newsofbahrain.com/business/128643.html",
+        "title": "Motorcity Bahrain achieves 3rd place globally in Jetour International Service System Evaluation 2025",
+        "link": "https://www.newsofbahrain.com/business/128655.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tK6B5PIQM3_2026-03-17_1773745737resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kbTdWQREeX_2026-03-17_1773748724resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Israel says Iran's security chief Ali Larijani killed",
-        "link": "https://www.newsofbahrain.com/world/128642.html",
+        "title": "Reporters of War: Digital Media Challenges",
+        "link": "https://www.newsofbahrain.com/views/128654.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DA61EnWlH7_2026-03-17_1773745685resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bQCpfL7iXy_2026-03-17_1773748119resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Al Salam Bank launches ‘Ayadi’ Service at Branches ATMs 24 Hours",
-        "link": "https://www.newsofbahrain.com/business/128641.html",
+        "title": "Oil eases, equities rise as market focuses on Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/bahrain/128653.html",
         "published": "17 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-17T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QLbAjVEdG7_2026-03-17_1773744629resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tAf6SE1Q5e_2026-03-17_1773747724resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UN Warns Prolonged Middle East Conflict Could Push Millions Into Hunger",
+        "link": "https://www.newsofbahrain.com/world/128652.html",
+        "published": "17 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7ljRhX40nf_2026-03-17_1773747634resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Non-Iran tanker transits Hormuz with tracker on: MarineTraffic",
+        "link": "https://www.newsofbahrain.com/world/128651.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QMIynG21lR_2026-03-17_1773747764resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Flight Operations at Bahrain International Airport Remain Suspended",
+        "link": "https://www.newsofbahrain.com/bahrain/128649.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tQXvDbkZ5E_2026-03-17_1773746886thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Filipino volunteers in Bahrain come together to deliver hope to war-affected countrymen",
         "link": "https://www.newsofbahrain.com/bahrain/128639.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ILhbjuvfCc_2026-03-17_1773743801resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ILhbjuvfCc_2026-03-17_1773743801thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -341,7 +371,7 @@
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XbIfp2kcKR_2026-03-17_1773739718resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XbIfp2kcKR_2026-03-17_1773739718thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -356,72 +386,52 @@
         "category": "Latest"
       },
       {
-        "title": "Tamkeen urged to cover full wages for Bahraini employees of war-affected SMEs",
-        "link": "https://www.newsofbahrain.com/bahrain/128636.html",
+        "title": "Israel army says ground assault against Hezbollah underway in Lebanon",
+        "link": "https://www.newsofbahrain.com/world/128650.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_djXFSwpZc4_2026-03-17_1773739127thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cjSp3dhNr2_2026-03-17_1773747161thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Suspects detained for glorifying terrorist acts",
-        "link": "https://www.newsofbahrain.com/bahrain/128635.html",
+        "title": "Migrant workers bear brunt of Middle East war.",
+        "link": "https://www.newsofbahrain.com/world/128645.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JuqFHorOxk_2026-03-17_1773738800thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WlEqh8jc6m_2026-03-17_1773746316thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "France Faces MICA Missile Shortage Amid Rafale Operations Over UAE",
-        "link": "https://www.newsofbahrain.com/world/128631.html",
+        "title": "Iran Guards threaten to target US companies in region, urge evacuations",
+        "link": "https://www.newsofbahrain.com/business/128648.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2eLPYDkoS1_2026-03-17_1773736379thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4fjXywKmF7_2026-03-17_1773746697thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "CENTCOM confirms over 200 personnel injured across 7 countries in war on Iran",
-        "link": "https://www.newsofbahrain.com/world/128630.html",
+        "title": "UAE’s ADNOC ‘suspends’ loading oil at Fujairah terminal: source",
+        "link": "https://www.newsofbahrain.com/business/128647.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tL0moW96fh_2026-03-17_1773736466thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3lxe0TFKjk_2026-03-17_1773746590thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Middle East Crude Prices Hit Record Highs as Supply Disruptions Rattle Global Oil Market",
-        "link": "https://www.newsofbahrain.com/world/128628.html",
+        "title": "National Bank of Bahrain provides “Eidiya” new Banknotes through ATMs and branches",
+        "link": "https://www.newsofbahrain.com/business/128646.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Is2L0yrmSp_2026-03-17_1773735963thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Estidamah Bloc Announces Official Candidacy for BCCI Elections",
-        "link": "https://www.newsofbahrain.com/business/128581.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XMnpZL2kyj_2026-03-16_1773662247thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "War-related oil squeeze a ‘shortterm pain,’ US official insists",
-        "link": "https://www.newsofbahrain.com/business/128577.html",
-        "published": "16 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ArtCPUpv4X_2026-03-16_1773661180thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qhpK74iEvH_2026-03-17_1773746359thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -539,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-17 11:12:56 UTC"
+  "fetched_at": "2026-03-17 12:01:05 UTC"
 }
