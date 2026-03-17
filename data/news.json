@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 10
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,10 +32,20 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
+        "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNQ21SVkJPYl9TeFY1NGRybl8tYTBqUUs3cHJqVlZib0sxaTVVMVNlRlJ6TldGX2JWVDZZMEZMb2FVTTBlWlBSZjYxMHNDZHVGbG03YkRNRUJtWUdXMkVFZTBXMDBxWmtCS3JjQmNia0pQZE56cGNGWTBaaUE2T1ViRGJucHBLMm8zcmJ2NEdCYzFrcXoydDdzLUJYRmFYUnBRVk1EdmRlODE1UmpkbUNnYkIyLXpKME1sREMzNGdOSmRwV0JBdHFJTUNLUW1rejNyXzJhY0FXU1M0bW9PQlhXSXNGTEhjdWNRTUFSamhieHVnVmNTWkRXNUh4dWNwaW90eTcyVXdmV1Fob1EtbzBXNmUyUUlhR2NIbjBjVFlhUTdKUEh2R3g1Q29VcUJGSzcyS2ptM2dfa0hZR0tLZTFNVW9ISEtfbUR0aThJWmhyb1pnTExnZDJpWHdqOXg5OTNSdEYxdUJwbDh2YUpOcEhOZ1hzOWJDRzFSOHB3bWRTZ3Q0czIxUHh5WmdCWQ?oc=5",
+        "published": "17 Mar 2026, 02:29 AM",
+        "iso_date": "2026-03-17T02:29:42+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQM2FhMHpoOEJKVUhzVm9lZTNxdHJIZmFBZV85WWpQZkxpaDduSnNZQ1NJS3ZWdU11TXAtaW84bWdQTERoZm0tVXpwQlFxQWJSelp0YzdVc3ZCUGpidzM5R3VSVEZzV3lpVk84eEFEWTEwZF9UTHZ0VkpZQmF0Z1UyMXpRVmpFZXhmY2F6ZnRETXNkS3lya1lreTM0bTlUNnFvbTBuVjgyMkZZRmVLbVBmc3lucHoydEhBVFNCZ0dtcHMtdnQ3aGFObm1UeHVXaUJNU2VDZE9ERUdFMzlUOUd6VE5oaDZlamF0V0VsWHBETFBFWEs3SjlfQ2VhRDNzZktodU9xYjJzSGk1c0RCRnNGRA?oc=5",
-        "published": "17 Mar 2026, 01:33 AM",
-        "iso_date": "2026-03-17T01:33:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
+        "published": "17 Mar 2026, 12:59 PM",
+        "iso_date": "2026-03-17T12:59:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,30 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 129 missiles, 215 drones since Iran attacks",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKRmVwOGRQa1JMbVhKSTFGYkZEQUMzc014SGFrNjAyQTg4LVpMZTdCYWh3UTlHSkhhWVQ4MmNsZlJDcmw2TUlqVVZ3OVhFU2c1enNJSWxWNUVYTlhC?oc=5",
-        "published": "16 Mar 2026, 03:28 PM",
-        "iso_date": "2026-03-16T15:28:48+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "PM not ready for US demands to send ships to protect oil tankers",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTEdSNFJBM1gyMFlwNVB3YmduMENnY0FIN2JTSHFDVEswM1hBd0o5bUJsZmVVSEFUbWFRN0hTQnprM0RkeGNtc2I2UkpBM3JqR09RS3RmSXZlUmdZY2JlM0x2V2hKOFo0YWxjNktYVVFJcGcwTmF5YWtONEhGZ1l1cGFaWkxucGgzbHkzcW5halNpNlpycFpBUEZNNjdrYUk0aG9FOGI4VG1sUEw1ekpfWjYtQ3hiSHdKZXZNZjE0a1UwWExVQ3FqLUlBX2xaZTl2NFRfRHF5ZDZWY25lRmJoMVNrTE9adTRwbk1XS2ZzZkFzSGxS?oc=5",
-        "published": "16 Mar 2026, 04:00 PM",
-        "iso_date": "2026-03-16T16:00:59+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "US issues new travel warning for Bahrain amid 'hostile Iranian missile attacks'",
-        "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNS0ctREVxbG1xMXk1bktmTGFuLTN5Ykh5MzNKeklxd1BDUGtIZ3ZZRHF3ZHZRVDVjS1gtVl9BTFF4T2E0OWpIOHR5YTRERE5zVFB0OE84S0dhSnBPd1BnSFl1OFA2eVRyTHY2SHo5RE1MUGM0MmIwNDhHZ2tmcnhVaEdCa0VSQVhkbW8xREI5aWkydnBHVTVpaExEdmNpclVRdjIwajBtWmc4RFRLSGlyb21CRjN2bWVRZGx2TFlPem9keThoUmREOG1aTVRXMDNFX0JDOXQ4bld0c19VZVl3TDZhZG92MjJqaFdlNnR3cDBqektVS0Itdzhoc2VTRktVLS1tTFlrMU5QWXUzZ0h0MmxacUlvOXg1VmhQbk1MVnljMkVvY2ZxMnVqVWFaZEkycDNzTDNjX3Z3WFUzaGk3Umw5dDlXckVvWVlnam1TbjRlbzFldV9TRkExdw?oc=5",
-        "published": "16 Mar 2026, 02:59 PM",
-        "iso_date": "2026-03-16T14:59:42+00:00",
+        "title": "UK prepares aircraft carrier HMS Prince of Wales to deploy to Middle East",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZWg4OThWSVc2RlQ3T2w2RDJKa04yZ3ZlVExhdlNSaTdzUXgxVERETVM2M1JRYXJLOUNSVldmb3pIeWdrRW82bXcyaDZnTC1sN3dyVHZDVW43aFJuQmVNWHV3TTkwdnJPWjhBbWVYRXpXYTFCcU9yT3d5UmFJbFFIbERPRXBScTJyb2JCV1A4Q3FERV9HY0ltWnQ2ZUdHeGo0V1VhZFJpa3d3MERsN005YWpYLVhpZmVaNzlEQnFMeHV3TnNqa0h0RFBVWEZsdi1QbE1jRlcxM2xxb0RGSG1pbDY5QjFkeE1RVWp5dmc0ODByajV6U25rTFpvOE42U3B5?oc=5",
+        "published": "16 Mar 2026, 11:07 PM",
+        "iso_date": "2026-03-16T23:07:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -86,6 +76,46 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcHk2TzVoY2xYZkhJNmpfTDRDSUFHQWJUdTY0Mm5xMGNudFBPR3pWMGIyTVJxS0k5eDNPcWgwY25VcDZ1Sk1HbFFzbmV0Q2laM0R4V1BxOExZNmktTWplaWlWcnJVd1JYWWlHQkpEdHcyYm4xc3locGZQZVpFbzdjSklvRjMxX21hTGhiNTFqSVlYX0pWbFRtSGNlMV9qNGxnYk9BNE9NZWxaRG5iS2dXYzRwckwwRThwTFp6dFF1WnhTV1hhY2NyOFpIMXJzQ054OVBqN0dSSGlFZW9ZUDdzdlpTb3l2Zw?oc=5",
         "published": "16 Mar 2026, 06:24 PM",
         "iso_date": "2026-03-16T18:24:26+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Intercepts 129 Missiles, 233 Drones Since Onset Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVVZoTU1oMDF5LTZNclRvRFJmX2J4TXdmZmxwMGRaWjFhcGxoTm40VkRBbWZXc2ZpNzNFcWdsMlhqS0U3QnctLXc4b0lhbVpodnRtOHFTeDd2Wm5GVjlBMzVCelJJMS1ha3pXV1FjUVQwaHhIcDctdWliMFZGcFMzaktBOEdpUlQzZ3NFY0w2OUljbWozX25LQ3NFeGk0U2c?oc=5",
+        "published": "17 Mar 2026, 12:30 PM",
+        "iso_date": "2026-03-17T12:30:08+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Led by HH Shaikh Sheema bint Nasser bin Hamad, \"Sheyam Al Khayr\" team distributes Eid gifts to RHF children",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Vc0dEZjNGM1pkNU5zNTFFdGVKTExoYi1acEhOLW0yTWIzMDNCR2NHZHFJX0xYallVTW8tQVNIYzBtWTh1Ni1RcDFqVHo2RHRwalh2MjZfUmxrclE?oc=5",
+        "published": "16 Mar 2026, 06:07 PM",
+        "iso_date": "2026-03-16T18:07:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King receives phone call from HE Egyptian President - Local News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xTGlTbzBDUHJsZUpYRFZUOVg5SFNvTndjOGtjbEFuVGtGbXlJT2JqV3VwM2lXMnZDUUlwV1ZONVY3Vk5xY0hVZEpEUHNCRFBzZjRkT0xNRzVwTW8?oc=5",
+        "published": "16 Mar 2026, 06:08 PM",
+        "iso_date": "2026-03-16T18:08:19+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE air defences engage 6 ballistic missiles, 21 UAVs - GCC News | Bahrain News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uRDYtMDB1T1pTWUc4bXpWTDBycDZmS082R1VZbnBtRzlPdUlQM0t1czlZV2xpZ2hKM0lDZXJoUzFISDFWRV9tekhoTWpoaGFPRnVkTUpscGpiMjA?oc=5",
+        "published": "16 Mar 2026, 06:34 PM",
+        "iso_date": "2026-03-16T18:34:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -276,6 +306,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain expresses strong concern over Iran’s threat to close the Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/bahrain/128673.html",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UIM9Jmz3tj_2026-03-17_1773763214resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahraini Rights Groups Call on UN Human Rights Council to Condemn Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/128672.html",
         "published": "17 Mar 2026, 09:22 AM",
@@ -288,8 +328,8 @@
       {
         "title": "Why Iranian drones are hard to stop",
         "link": "https://www.newsofbahrain.com/world/128671.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
+        "published": "17 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-17T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WVZw7YgFlk_2026-03-17_1773753898resized_pic.jpg",
         "source": "newsofbahrain",
@@ -308,8 +348,8 @@
       {
         "title": "Indian diplomacy beats warships in opening Strait of Hormuz amid Iran tensions",
         "link": "https://www.newsofbahrain.com/world/128669.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
+        "published": "17 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_IhC7rRLpmJ_2026-03-17_1773753005resized_pic.jpg",
         "source": "newsofbahrain",
@@ -321,7 +361,7 @@
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iSrMNnszpy_2026-03-17_1773752838resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iSrMNnszpy_2026-03-17_1773752838thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -342,16 +382,6 @@
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_GLafXcYqdK_2026-03-17_1773751934thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Flight Operations at Bahrain International Airport Remain Suspended",
-        "link": "https://www.newsofbahrain.com/bahrain/128649.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tQXvDbkZ5E_2026-03-17_1773746886thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +559,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-17 14:54:19 UTC"
+  "fetched_at": "2026-03-17 16:03:00 UTC"
 }
