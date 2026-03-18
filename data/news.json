@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 10
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNal9aZmctazJ1VnNPRWswb3JjaG1qX0kwbUU1NzR6N3BlZzh2SEhmQUlKaUJJV0hNWDNsVDdyUTVJSUlaWWRBaWtqQ3kzUkQ5dU01VEx4eDVEU3QzZTlFUjlBRW1zWlp2VXgzNGZaY1EzdXNwazdFVV9nWGNMX2l2d05CODdTY0RneTVZSWtmZGE1enNUNHVucGNFa2tlRS1TU2NoVXlNazVCV3RLaVdDY2dYcEZlX3duWXlwOGtfT2Fsa25Pa1RVaktKdDlyVGthRXRyOGZxWFFzQ3V0M19nX2FxSnJWbTY5VVF5U3BWV0xjcEk4WnEwNWt2YWFyZWhXVXFscGFrZkdtVWxTeHU5TkY4eGhQOFBCaVB1NjVSNW5MUUtMSUNfOV9XeGNablNEblVsRUxadTZfejZfTmpoOHJiWjd4VUt1ZmI1REwxLTRiaFJnbGtqcXhWdEV0Y2xhRWxvZnNlTEJtb2czb0thY19tcGVsZVZIeHZIU25PMjdhaUxBZl8ybk8zcjlyUEpLTHpEb05yX0tGY3VqV3dHa19IUFlQcTg?oc=5",
-        "published": "18 Mar 2026, 02:48 PM",
-        "iso_date": "2026-03-18T14:48:30+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Trump, Bahrain king discuss security, regional tensions in phone call",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG1XblpYeEs4LWlhMWRPV0YwUW1PT2RpQTN1ZlNXeUZ4djBpX19vM1hhYmpkbVl6V1dXbXFzY3p6WXJDUEJFNDhzZEk4NGRWRGk0b1NtR1dpZTJyUUhWNVpiWUdjXzRoNTRKVkJWN3p5YkIzMWVSTkVVWDEzNnRVdnpPLW1wWHFkS2Z4c0pXcUtYYnRWRzhGaWNiY0RHdnppaVJ6NzVFdFAwTGlfMlMxVDltN0tLYWtR?oc=5",
         "published": "18 Mar 2026, 11:19 AM",
@@ -72,10 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Leclerc tops F1 pre-season testing in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0xBbU9pMVY1Z3J0QjIwQ3dyVk5ucVVBclhBc2xYbmtfLUtWeVg3ajVLWjA1UVVYNGk0TF9VMTBrbU9tc0s5ZlZhZGxtdnBFVzZ4YmxON2VJeFJMTU1pbTVGR3c5REJ0aXl1b1Y4WEo2VTIzXzBScHQ5cmpZdF9rREQ2WUt2eUtjRHRJdFVvMGVsNEJtTWlSSzhBOUMxX3FxRWpR?oc=5",
-        "published": "18 Mar 2026, 12:45 PM",
-        "iso_date": "2026-03-18T12:45:05+00:00",
+        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOek16YkV4TUVtVUpvdWFDUU5xT0dLQXZsYVdQbnktOFo2UVJITk5nOFVWcFpSX0tncmRMemJwbzJXN2ljWW5OX01wZTBfQXhyR3BiaTA0Rmo2QVNxZ0o2Ym9ZS2RqLVJ5bW9yMWFxLVV1d1MtODZBVkZYMU9aZWpEYzQtNVRQVHp4ZS1MLUFVN2ItT05vT2tTdWxqd25FYlRpeTdZWFJrejczaXd1?oc=5",
+        "published": "18 Mar 2026, 01:12 AM",
+        "iso_date": "2026-03-18T01:12:02+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE Extending Remote Learning To Eid al-Fitr Prayers At Mosques In UAE; 5 GCC Updates For You",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVAtQnFSNEZENV9ZMmhZOFpMdDRZbE4tWl9xRVg2dXdBREVuSHk5MTJ5SkxtWFhucWNWMC1SQkhseFZkbU1HbVp5SnlROGNmaWR3MTktMjRNemhhQzdZbXNfMUdBd0RaazJBZW9rSnY3QnBfMkk5U2Y5TFBGT3ZTMW94SnRxMXlZY3pFaElFNU5Cc2g2eVRXZklDS1NBN2NHaUdTR1B5X01QclZkRG1iYjQ0ZmpDSVBhcHloVDdxWmFSMDZ2MU5TNmJrdHBiX3pyeDFCdHZB0gHWAUFVX3lxTE5hUC1CcVI0RkQ1X1kyaFk4Wkx0NFlsTi1aX3FFWDZ1d0FERW5IeTkxMnlKTG1YWG5xY1YwLVJCSGx4VmRtTUdtWnlKeVE4Y2ZpZHcxOS0yNE16aGFDN1ltc18xR0F3RFprMkFlb2tKdjdCcF8ySTlTZjlMUEZPdlMxb3hKdHExeVljekVoSUU1TkJzaDZ5VFdmSUNLU0E3Y0dpR1NHUHlfTVByVmREbWJiNDRmakNJUGFweWhUN3FaYVIwNnYxTlM2Ymt0cGJfenJ4MUJ0dkE?oc=5",
+        "published": "18 Mar 2026, 10:42 AM",
+        "iso_date": "2026-03-18T10:42:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -96,6 +96,16 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUx5YVB5c2RpTnEtM3VYb0Z4Y1BOdHNPcmNWRGNCTjlyMDd4SllfaHVQeVFMR3ZMc3M5aXBFQnh4Qzgyay1MaGZXRjBxNHZGY2hldDgtekRueXA2TFNReGpQaFdacjdGQmluOVppQVNfT3JGUVFxektYQUcyYmRZenQyMnRyUWNmd1dLTm5ENWZVQ2lnRVNidXJjTUhacmZMZWJBeGJwMkszQQ?oc=5",
         "published": "18 Mar 2026, 01:50 PM",
         "iso_date": "2026-03-18T13:50:22+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXRHSXdTbUtSUTBaazkwR3REWXFxNWZKTWI2Q2dpdlFDVzlock53c2toU0VxVnktWWZQamM0enM0RGV0R0FjNzhISG8zZ2d1aHJfaWtzODdNdW12akZfQlNQeUtIUFdGMU1NTG52cjZPbnV3UVFKU3pPdzdKdVRWN3RyaEJYbzU4X3FXRUh1N3hsa1JGd1Rod18yS2h0X1VFcjNTbXNnenZpNllwT0xtSXA3Z2I0RTVfcDRlbzVTc0NsLVhhdmNjby05aXMtVWxNYVVsdGJmV0hKUk80b282aGlDWFk0NHY4S2UzODFkYjBOX29UNU84LW1xZzVUVjRvLVI1ZGh4US0yU2t6QVBsNA?oc=5",
+        "published": "18 Mar 2026, 11:43 AM",
+        "iso_date": "2026-03-18T11:43:34+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -286,10 +296,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Targeting Energy Infrastructure Threatens Global Security, UAE Says",
-        "link": "https://www.newsofbahrain.com/world/128764.html",
+        "title": "Qatar Condemns Iranian Attack on Ras Laffan Industrial City",
+        "link": "https://www.newsofbahrain.com/world/128766.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zTP80WJdRF_2026-03-18_1773868236resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Air Defenses Intercept 8 Ballistic Missiles Over Riyadh",
+        "link": "https://www.newsofbahrain.com/world/128765.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LmAEF5alp8_2026-03-18_1773867386resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Targeting Energy Infrastructure Threatens Global Security, UAE Says",
+        "link": "https://www.newsofbahrain.com/world/128764.html",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LgYuHcF6U5_2026-03-18_1773864124resized_pic.jpg",
         "source": "newsofbahrain",
@@ -298,8 +328,8 @@
       {
         "title": "QatarEnergy Confirms Missile Attacks on Ras Laffan Industrial City",
         "link": "https://www.newsofbahrain.com/world/128763.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ANjHv7yKIM_2026-03-18_1773863511resized_pic.jpg",
         "source": "newsofbahrain",
@@ -308,20 +338,10 @@
       {
         "title": "Pakistan and Afghanistan announce Eid 'pause' in hostilities",
         "link": "https://www.newsofbahrain.com/world/128762.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_U7PYwnArFO_2026-03-18_1773857156resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "IAEA Confirms Structure Hit Near Iran’s Bushehr Nuclear Power Plant",
-        "link": "https://www.newsofbahrain.com/world/128761.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_siuT6cnNRo_2026-03-18_1773852713resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -331,7 +351,7 @@
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_usfCP42vjH_2026-03-18_1773852688resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_usfCP42vjH_2026-03-18_1773852688thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +559,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-18 20:32:37 UTC"
+  "fetched_at": "2026-03-18 21:31:20 UTC"
 }
