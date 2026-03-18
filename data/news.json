@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 20
     }
   },
   "articles": {
@@ -42,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWkpva0xBa2FrOUV1QnJLQU1nbEVUTzQ3SFg0bkNqeHFuMk9ramhudFBjR0s0bURkMnUxSzlGT0ZCV0QtOF9PQkhZUFFJR3R1WG5hcW81RW5KcHk3YlVfdThaNUkwQkpRbXZnVUNzbzNMLXlTQjN2bW5sMk5scGhrTXltVWx3X0hHOFBVamQ3THgzeGlaQzd2d0FyMXRPWmVBLVFjTFFaVmZQMzBFOUN6aVliMnctOGlrVmZsc2hLRUs0a096T205d0xnZkJrZ3lTeXVSRnJjNlpGNWlaUVp6NmpvQWc1Y29GekdENURn?oc=5",
-        "published": "17 Mar 2026, 03:30 PM",
-        "iso_date": "2026-03-17T15:30:38+00:00",
+        "title": "Fortifying Bahrain: Allied Reinforcements Amid Iranian Aggression",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHktb3ctYnlxeS1tc0xZSUs4SEpiemZ1UWo1VEZhS0syVjI0d1dSV2hwZFhvRjJnS01NSXRxZ1IySjFnWU9vMXF4OUdSbTRhMnI2amoxTDFzUHQ2R205Q1pEcVhvX1pSVndTNmJEalAzaURxZXFFdVZsOERteF9BMGEzNFczRnU5TVpxQw?oc=5",
+        "published": "17 Mar 2026, 04:38 PM",
+        "iso_date": "2026-03-17T16:38:27+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "UAE Extending Remote Learning To Eid al-Fitr Prayers At Mosques In UAE; 5 GCC Updates For You",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVAtQnFSNEZENV9ZMmhZOFpMdDRZbE4tWl9xRVg2dXdBREVuSHk5MTJ5SkxtWFhucWNWMC1SQkhseFZkbU1HbVp5SnlROGNmaWR3MTktMjRNemhhQzdZbXNfMUdBd0RaazJBZW9rSnY3QnBfMkk5U2Y5TFBGT3ZTMW94SnRxMXlZY3pFaElFNU5Cc2g2eVRXZklDS1NBN2NHaUdTR1B5X01QclZkRG1iYjQ0ZmpDSVBhcHloVDdxWmFSMDZ2MU5TNmJrdHBiX3pyeDFCdHZB0gHWAUFVX3lxTE5hUC1CcVI0RkQ1X1kyaFk4Wkx0NFlsTi1aX3FFWDZ1d0FERW5IeTkxMnlKTG1YWG5xY1YwLVJCSGx4VmRtTUdtWnlKeVE4Y2ZpZHcxOS0yNE16aGFDN1ltc18xR0F3RFprMkFlb2tKdjdCcF8ySTlTZjlMUEZPdlMxb3hKdHExeVljekVoSUU1TkJzaDZ5VFdmSUNLU0E3Y0dpR1NHUHlfTVByVmREbWJiNDRmakNJUGFweWhUN3FaYVIwNnYxTlM2Ymt0cGJfenJ4MUJ0dkE?oc=5",
-        "published": "18 Mar 2026, 10:42 AM",
-        "iso_date": "2026-03-18T10:42:23+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
         "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOODZScEwxaVRRVWdCOU9jWDdKVXRqLWZvT2tpNVg2X2M5TGFoNnk0YzcyS1ZSem1ReGdCV3pCMTJqbHJsdlhJMDI2RnRjOTE5SG51b3VROEpCNGxrcGhQcXgyRzBSSk5OVHdlY2g5aHVHSVhxalNuRk5hSVVWbTBYcG5OX2l4S19FNUlMRlV1d3BtNW1sSTZORjZEOGhVLWhia1EwS1V1TlZGaGpNTVlwSmwyTVhHSDVSaEZudER6UnNkSkZRMXNyT1IwMDhBMnJLc2EtcTlHNjFnakNFenFMVGpkR25MeDNHQ0Rqcy1IUlBqdkFuaFJKZUV5S1VaUHBVZGNhOXZOTUdPSG1zX2FQOTA4WmdVNmZiamo5ajBmVEQ2eG8yemF3WlQyN2lqTElPSi1nVVNsc1EyOUNSTVBYZmRHSmZSeUR0X2Q1cVBGbnJWM2tqRi1WaHZ4Nk1ybEZqSDByS3VSeDdhY2twR3BzX2x1Ti1xMUtreTdqVDFSNnREemxn?oc=5",
         "published": "17 Mar 2026, 08:26 PM",
@@ -82,20 +72,20 @@
         "category": "Latest"
       },
       {
-        "title": "Dubai confirms successful air defence interception of threats",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVENqNmxWRThBbWZPc2l4RlZXRkZlUzc5RGJCQzhPTFpDR1pHc0Q5OUFqVndkbS13U0NQQUxoYTFhSzBhcmduRjVibEZUaWNNSGZYOVV1aXNzby1ELXNsTm9GWnE2OEJ2VGYtOExkeXBkR05jZ2NxRjJMUTNSWDZuZS1FalIxZURnOHppX2lOUmFrSnJVaml1NkJrSkZ2Z1lpWnpIY1dqUHVHUzhmSS10Qg?oc=5",
-        "published": "18 Mar 2026, 11:23 AM",
-        "iso_date": "2026-03-18T11:23:40+00:00",
+        "title": "UAE Extending Remote Learning To Eid al-Fitr Prayers At Mosques In UAE; 5 GCC Updates For You",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObzNxVENrZ1pRSDVlZ2c3dkQyUHI3MUdYWm5hZ2tDMnMtRUhON0lwb04yT2laTUNycGd3TVg5VXpGd0tQejNyU0VrU1ZJVHJBQks3VjkxTGdqRmwyTVlpdzltVnBkeGdtR09PRHpydFg0OFU5VV9MQ2c0ZzVrakhES0x3LUt6ZjVnME9hWUZDR1J1OXpUdHhWN3BRQTBwSFNBVWpEM2k1ajlNMkhXejNGN3ZWbXBnVjNaVC1Nalh2WlFpUThpSUMyUkJsMGRQYnd20gHWAUFVX3lxTE5hUC1CcVI0RkQ1X1kyaFk4Wkx0NFlsTi1aX3FFWDZ1d0FERW5IeTkxMnlKTG1YWG5xY1YwLVJCSGx4VmRtTUdtWnlKeVE4Y2ZpZHcxOS0yNE16aGFDN1ltc18xR0F3RFprMkFlb2tKdjdCcF8ySTlTZjlMUEZPdlMxb3hKdHExeVljekVoSUU1TkJzaDZ5VFdmSUNLU0E3Y0dpR1NHUHlfTVByVmREbWJiNDRmakNJUGFweWhUN3FaYVIwNnYxTlM2Ymt0cGJfenJ4MUJ0dkE?oc=5",
+        "published": "18 Mar 2026, 10:42 AM",
+        "iso_date": "2026-03-18T10:42:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defense Force: 129 missiles and 233 Iranian drones intercepted since the start of the aggression",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU25NME5OTHI5T0dMS19HWUNfNUJXdERfUnR1Zzd2eTQwUEd1RXlrQXJzSVhqbHlGYThrN1ZOZDJsejVXd09UNFRrbEFWLUJHcGxMeXRkUGdGNXZaUm1tMUNWeG81cWJ0cExWclo0NlFNcE1kLW1kV0NVVTRYVEgxS2VkaG5na2p2MC1Kb1VxdFdCbzJpRnlULXdFTHZTVTNxVDhhOGhPNVZadnFEZUlwdXBOT2gyaEpkNGhKZGlObVFqYm84clFlejJvNG9tcUhZQ3F1ZHpTZWJZUjlaX2xsTTNJak1VSzEzOV84?oc=5",
-        "published": "17 Mar 2026, 02:54 PM",
-        "iso_date": "2026-03-17T14:54:58+00:00",
+        "title": "Dubai confirms successful air defence interception of threats",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVENqNmxWRThBbWZPc2l4RlZXRkZlUzc5RGJCQzhPTFpDR1pHc0Q5OUFqVndkbS13U0NQQUxoYTFhSzBhcmduRjVibEZUaWNNSGZYOVV1aXNzby1ELXNsTm9GWnE2OEJ2VGYtOExkeXBkR05jZ2NxRjJMUTNSWDZuZS1FalIxZURnOHppX2lOUmFrSnJVaml1NkJrSkZ2Z1lpWnpIY1dqUHVHUzhmSS10Qg?oc=5",
+        "published": "18 Mar 2026, 11:23 AM",
+        "iso_date": "2026-03-18T11:23:40+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -286,10 +276,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Thousands of Seafarers Stranded in Gulf Face Fuel and Water Shortages",
-        "link": "https://www.newsofbahrain.com/world/128757.html",
+        "title": "Three Injured in Karbabad House Fire",
+        "link": "https://www.newsofbahrain.com/bahrain/128759.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FUaDBXtfip_2026-03-18_1773848940resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar blames Israel for the attack on the natural gas field it shares with Iran",
+        "link": "https://www.newsofbahrain.com/world/128758.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZrColIx8nj_2026-03-18_1773846587resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Thousands of Seafarers Stranded in Gulf Face Fuel and Water Shortages",
+        "link": "https://www.newsofbahrain.com/world/128757.html",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9yt7BqxIQZ_2026-03-18_1773844403resized_pic.jpg",
         "source": "newsofbahrain",
@@ -298,8 +308,8 @@
       {
         "title": "Bahrain Defence Force Intercepts 130 Missiles, 234 Drones",
         "link": "https://www.newsofbahrain.com/bahrain/128756.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_yXTCKczZjR_2026-03-18_1773835278resized_pic.jpg",
         "source": "newsofbahrain",
@@ -308,30 +318,10 @@
       {
         "title": "Bahrain Reviews Key Infrastructure Projects at Ministerial Meeting",
         "link": "https://www.newsofbahrain.com/bahrain/128755.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WqCt2OwVFu_2026-03-18_1773834928resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hala Hold Nerves to Secure Premier Division Survival",
-        "link": "https://www.newsofbahrain.com/sports/128754.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nQp2Kq0faW_2026-03-18_1773834805resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Israeli Defence Minister Israel Katz says it has killed Iran's intelligence minister",
-        "link": "https://www.newsofbahrain.com/world/128753.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TstKg5ZMUe_2026-03-18_1773834594resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WqCt2OwVFu_2026-03-18_1773834928resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -356,12 +346,12 @@
         "category": "Latest"
       },
       {
-        "title": "Parliament condemns Al-Aqsa closure and reaffirms support for Palestinians",
-        "link": "https://www.newsofbahrain.com/bahrain/128748.html",
+        "title": "Israeli Defence Minister Israel Katz says it has killed Iran's intelligence minister",
+        "link": "https://www.newsofbahrain.com/world/128753.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o5se39A2Oy_2026-03-18_1773833632thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TstKg5ZMUe_2026-03-18_1773834594thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -372,16 +362,6 @@
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NYsEaxI7Hg_2026-03-18_1773833990thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Footballers Travel Back via Turkey After Controversy",
-        "link": "https://www.newsofbahrain.com/world/128749.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7tv2x9XOnd_2026-03-18_1773833673thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -428,10 +408,70 @@
       {
         "title": "Reporters of War: Digital Media Challenges",
         "link": "https://www.newsofbahrain.com/views/128654.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_bQCpfL7iXy_2026-03-17_1773748119thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A “Breathalyser” for this war!",
+        "link": "https://www.newsofbahrain.com/views/128518.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1RLOTXz8Aa_2026-03-15_1773579966thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "One Night Better Than a Thousand Months?",
+        "link": "https://www.newsofbahrain.com/views/128381.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jRbugZeVJX_2026-03-13_1773391643thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Let the cash move",
+        "link": "https://www.newsofbahrain.com/views/128334.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RSEyVZBtvM_2026-03-12_1773306498thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Communication in Times of Crisis: When Silence Becomes a Risk",
+        "link": "https://www.newsofbahrain.com/views/128225.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sFSo18gBlx_2026-03-10_1773147899thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ramadan and Family Reconciliation: Repairing Relationships During the Holy Month",
+        "link": "https://www.newsofbahrain.com/views/127922.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3dKZCEGiW0_2026-03-05_1772707089thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India strongly reiterates its call for dialogue and diplomacy",
+        "link": "https://www.newsofbahrain.com/views/127918.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rHpmaNE7LX_2026-03-05_1772705827thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -549,5 +589,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-18 14:46:03 UTC"
+  "fetched_at": "2026-03-18 16:08:16 UTC"
 }
