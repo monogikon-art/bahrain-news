@@ -286,10 +286,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Pakistan and Afghanistan announce Eid 'pause' in hostilities",
-        "link": "https://www.newsofbahrain.com/world/128762.html",
+        "title": "Targeting Energy Infrastructure Threatens Global Security, UAE Says",
+        "link": "https://www.newsofbahrain.com/world/128764.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LgYuHcF6U5_2026-03-18_1773864124resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "QatarEnergy Confirms Missile Attacks on Ras Laffan Industrial City",
+        "link": "https://www.newsofbahrain.com/world/128763.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ANjHv7yKIM_2026-03-18_1773863511resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pakistan and Afghanistan announce Eid 'pause' in hostilities",
+        "link": "https://www.newsofbahrain.com/world/128762.html",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_U7PYwnArFO_2026-03-18_1773857156resized_pic.jpg",
         "source": "newsofbahrain",
@@ -298,8 +318,8 @@
       {
         "title": "IAEA Confirms Structure Hit Near Iran’s Bushehr Nuclear Power Plant",
         "link": "https://www.newsofbahrain.com/world/128761.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_siuT6cnNRo_2026-03-18_1773852713resized_pic.jpg",
         "source": "newsofbahrain",
@@ -308,8 +328,8 @@
       {
         "title": "A Pause, Not Goodbye",
         "link": "https://www.newsofbahrain.com/bahrain/128760.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_usfCP42vjH_2026-03-18_1773852688resized_pic.jpg",
         "source": "newsofbahrain",
@@ -318,20 +338,10 @@
       {
         "title": "Three Injured in Karbabad House Fire",
         "link": "https://www.newsofbahrain.com/bahrain/128759.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FUaDBXtfip_2026-03-18_1773848940resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar blames Israel for the attack on the natural gas field it shares with Iran",
-        "link": "https://www.newsofbahrain.com/world/128758.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZrColIx8nj_2026-03-18_1773846587resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FUaDBXtfip_2026-03-18_1773848940thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -362,16 +372,6 @@
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_D1Fp4ukmoX_2026-03-18_1773834127thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Thousands of Seafarers Stranded in Gulf Face Fuel and Water Shortages",
-        "link": "https://www.newsofbahrain.com/world/128757.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9yt7BqxIQZ_2026-03-18_1773844403thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-18 19:47:17 UTC"
+  "fetched_at": "2026-03-18 20:32:37 UTC"
 }
