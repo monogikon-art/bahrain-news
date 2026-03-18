@@ -164,52 +164,52 @@
         "category": "Latest"
       },
       {
+        "title": "CBB keeps rate steady",
+        "link": "https://www.gdnonline.com/Details/1379003/CBB-keeps-rate-steady",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319004502cbb_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "NBB Group holds virtual meeting",
+        "link": "https://www.gdnonline.com/Details/1378998/NBB-Group-holds-virtual-meeting",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319002420officials_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BFMâs shareholders approve cash dividends of BD620,620",
+        "link": "https://www.gdnonline.com/Details/1378999/BFMâs-shareholders-approve-cash-dividends-of-BD620,620",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319_001625_0_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Hotels Groupâs shareholders approve BD5.64m dividend for 2025",
+        "link": "https://www.gdnonline.com/Details/1379001/Gulf-Hotels-Groupâs-shareholders-approve-BD564m-dividend-for-2025",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319003923picone_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Global trade shows âresilienceâ despite tariff waves says report",
         "link": "https://www.gdnonline.com/Details/1378906/Global-trade-shows-âresilienceâ-despite-tariff-waves-says-report",
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260317/20260317225623websitesize(1)_T.jpg?20260319",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BMMI holds annual general assembly",
-        "link": "https://www.gdnonline.com/Details/1378791/BMMI-holds-annual-general-assembly",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316233652websitesize(17)_T.jpg?20260319",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB launches campaign to offer new Eid banknotes",
-        "link": "https://www.gdnonline.com/Details/1378836/NBB-launches-campaign-to-offer-new-Eid-banknotes",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317023057images(1).png?20260319",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Al Salam Bank offers âAyadiâ cash withdrawals through ATMs",
-        "link": "https://www.gdnonline.com/Details/1378801/Al-Salam-Bank-offers-âAyadiâ-cash-withdrawals-through-ATMs-",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317_002344_2_T.jpg?20260319",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Khaleeji Bank offers fresh notes for Eidiya",
-        "link": "https://www.gdnonline.com/Details/1378781/Khaleeji-Bank-offers-fresh-notes-for-Eidiya",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316234329websitesize(5)_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -296,6 +296,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Abu Dhabi Authorities Respond to Missile Interception Incident",
+        "link": "https://www.newsofbahrain.com/world/128768.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1I4xtGfYdm_2026-03-18_1773874450resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Qatar Expels Iranian Diplomats, Orders Exit Within 24 Hours",
         "link": "https://www.newsofbahrain.com/world/128767.html",
         "published": "19 Mar 2026, 09:22 AM",
@@ -308,8 +318,8 @@
       {
         "title": "Qatar Condemns Iranian Attack on Ras Laffan Industrial City",
         "link": "https://www.newsofbahrain.com/world/128766.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zTP80WJdRF_2026-03-18_1773868236resized_pic.jpg",
         "source": "newsofbahrain",
@@ -328,20 +338,10 @@
       {
         "title": "Targeting Energy Infrastructure Threatens Global Security, UAE Says",
         "link": "https://www.newsofbahrain.com/world/128764.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LgYuHcF6U5_2026-03-18_1773864124resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "QatarEnergy Confirms Missile Attacks on Ras Laffan Industrial City",
-        "link": "https://www.newsofbahrain.com/world/128763.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ANjHv7yKIM_2026-03-18_1773863511resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LgYuHcF6U5_2026-03-18_1773864124resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -559,5 +559,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-18 22:29:17 UTC"
+  "fetched_at": "2026-03-18 22:58:28 UTC"
 }
