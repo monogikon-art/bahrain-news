@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 10
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 17
+      "count": 18
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "Council of Representatives condemns Iranian missile attacks, affirms Bahrain’s right to respond",
+        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQNlN0QTU3dktGU3pVUHVaTXZCTWY5M1Iwa1p1aXdIU2p6SElNQ2xLR09jZ3ktTVY1QXVneFA0ZldPWVB0YUtlT1ZNcEFoUHEwSnRYdFRlRlNmOWwtd0VFZ3QxS1FZWi1fQ3MxQlVaV3M1dGduYXJWaVNRalFuRGVSZ1hXYlFQaVdWQTZ4RVV4cEphYm12TTNsSGl1OWhZN2p6aXRfcmhIUGZhWTdmNkhEV2pncENhMHBCRENxcEhNRThfUFlMMGVZamVTaXNfdEFIU0NUY1Z4TmVsV3J0Vlo0VWFuN2N4UV93SlAwN2E1RHBJTi10SEJQYzM3b0pfUDFqcmxHM0JqZldMWkRaV0k3OFAxS2p1ZXVJUEtkOA?oc=5",
+        "published": "18 Mar 2026, 07:56 AM",
+        "iso_date": "2026-03-18T07:56:22+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
         "published": "17 Mar 2026, 11:37 PM",
@@ -62,16 +72,6 @@
         "category": "Latest"
       },
       {
-        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOek16YkV4TUVtVUpvdWFDUU5xT0dLQXZsYVdQbnktOFo2UVJITk5nOFVWcFpSX0tncmRMemJwbzJXN2ljWW5OX01wZTBfQXhyR3BiaTA0Rmo2QVNxZ0o2Ym9ZS2RqLVJ5bW9yMWFxLVV1d1MtODZBVkZYMU9aZWpEYzQtNVRQVHp4ZS1MLUFVN2ItT05vT2tTdWxqd25FYlRpeTdZWFJrejczaXd1?oc=5",
-        "published": "18 Mar 2026, 01:12 AM",
-        "iso_date": "2026-03-18T01:12:02+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "UAE Extending Remote Learning To Eid al-Fitr Prayers At Mosques In UAE; 5 GCC Updates For You",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVAtQnFSNEZENV9ZMmhZOFpMdDRZbE4tWl9xRVg2dXdBREVuSHk5MTJ5SkxtWFhucWNWMC1SQkhseFZkbU1HbVp5SnlROGNmaWR3MTktMjRNemhhQzdZbXNfMUdBd0RaazJBZW9rSnY3QnBfMkk5U2Y5TFBGT3ZTMW94SnRxMXlZY3pFaElFNU5Cc2g2eVRXZklDS1NBN2NHaUdTR1B5X01QclZkRG1iYjQ0ZmpDSVBhcHloVDdxWmFSMDZ2MU5TNmJrdHBiX3pyeDFCdHZB0gHWAUFVX3lxTE5hUC1CcVI0RkQ1X1kyaFk4Wkx0NFlsTi1aX3FFWDZ1d0FERW5IeTkxMnlKTG1YWG5xY1YwLVJCSGx4VmRtTUdtWnlKeVE4Y2ZpZHcxOS0yNE16aGFDN1ltc18xR0F3RFprMkFlb2tKdjdCcF8ySTlTZjlMUEZPdlMxb3hKdHExeVljekVoSUU1TkJzaDZ5VFdmSUNLU0E3Y0dpR1NHUHlfTVByVmREbWJiNDRmakNJUGFweWhUN3FaYVIwNnYxTlM2Ymt0cGJfenJ4MUJ0dkE?oc=5",
         "published": "18 Mar 2026, 10:42 AM",
@@ -82,10 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "Jordan: Authorities respond to 73 reports of falling objects and shrapnel across various parts of the kingdom",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONW1hZVl3bDhvZUVCc2xtN0hxNUYtaWZrRGs5b21CaHVtbzlkTUVQaG1oTUhuRTVYSVBPdmVMMFVqbUFPcEZaTVdnVjlyRUUtci1mVUFpc3c1UDBRVTlmSHBzX1BDdG0zV2EzTFpDdDdMbmRDYmZCRi1OTnQxRHlnT2F2eEtHSVZ5UHhlZUVFeEYwR21lSDR1cWRFUFV6RDF6S0ozaFpRRkpPZ1Yya2VFTzRCUC1FSUREdUdTU29MZGxzY0h5S09kWkpwOEJLVHkxRnZLVnNSNy01elN5a2R4QlQ4X3J5UW5lNWJBLUlR?oc=5",
-        "published": "18 Mar 2026, 01:17 PM",
-        "iso_date": "2026-03-18T13:17:21+00:00",
+        "title": "Interior Ministry: One killed, two injured after fire on vessel at Salman Industrial City",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjgyWFN1RWtHQXhNNkQtRFNMNHBaVXNRXzNvVEpVZXQ1czRoVWRYZTF2SDRWMnZ3S0NYVFBFYUtsUzk1NUdSaUFTTXV0a3Zwa1FZZldJcnBDY1dVWlhwUjFkM0htY3B4ZFByaDlGVVZzRElYcXVJekdMUUZWeFFobTF0b3V2NzVrZXBpb3VPc2Q0OGhhSkluNHh5VzQ0QkZYNVdNMkplbWJOQVROdVQ2YXk1SXZObVVPd3ZFd3ZobDZOWFN4eWo2WlBxb2E3R1N0TkE?oc=5",
+        "published": "18 Mar 2026, 05:29 PM",
+        "iso_date": "2026-03-18T17:29:50+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -96,16 +96,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUx5YVB5c2RpTnEtM3VYb0Z4Y1BOdHNPcmNWRGNCTjlyMDd4SllfaHVQeVFMR3ZMc3M5aXBFQnh4Qzgyay1MaGZXRjBxNHZGY2hldDgtekRueXA2TFNReGpQaFdacjdGQmluOVppQVNfT3JGUVFxektYQUcyYmRZenQyMnRyUWNmd1dLTm5ENWZVQ2lnRVNidXJjTUhacmZMZWJBeGJwMkszQQ?oc=5",
         "published": "18 Mar 2026, 01:50 PM",
         "iso_date": "2026-03-18T13:50:22+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXRHSXdTbUtSUTBaazkwR3REWXFxNWZKTWI2Q2dpdlFDVzlock53c2toU0VxVnktWWZQamM0enM0RGV0R0FjNzhISG8zZ2d1aHJfaWtzODdNdW12akZfQlNQeUtIUFdGMU1NTG52cjZPbnV3UVFKU3pPdzdKdVRWN3RyaEJYbzU4X3FXRUh1N3hsa1JGd1Rod18yS2h0X1VFcjNTbXNnenZpNllwT0xtSXA3Z2I0RTVfcDRlbzVTc0NsLVhhdmNjby05aXMtVWxNYVVsdGJmV0hKUk80b282aGlDWFk0NHY4S2UzODFkYjBOX29UNU84LW1xZzVUVjRvLVI1ZGh4US0yU2t6QVBsNA?oc=5",
-        "published": "18 Mar 2026, 11:43 AM",
-        "iso_date": "2026-03-18T11:43:34+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -129,7 +119,27 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318120516drone_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318120516drone_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Rhythms for revival",
+        "link": "https://www.gdnonline.com/Details/1378983/Rhythms-for-revival",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260318_204456_0_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Welcome and gather around my table",
+        "link": "https://www.gdnonline.com/Details/1378989/Welcome-and-gather-around-my-table",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260318_204515_0_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +149,7 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318104326kingtrump_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318104326kingtrump_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,27 +159,7 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318022335edited_T.jpg?20260318",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Radiation levels in Bahrain remain within normal and safe limits",
-        "link": "https://www.gdnonline.com/Details/1378951/Radiation-levels-in-Bahrain-remain-within-normal-and-safe-limits",
-        "published": "18 Mar 2026",
-        "iso_date": "2026-03-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318110238websitesize_T.jpg?20260318",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Repatriating expats advised to follow customs guidelines",
-        "link": "https://www.gdnonline.com/Details/1378890/Repatriating-expats-advised-to-follow-customs-guidelines-",
-        "published": "18 Mar 2026",
-        "iso_date": "2026-03-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317230901websitesize(8)_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318022335edited_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +169,7 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317225623websitesize(1)_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317225623websitesize(1)_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +179,7 @@
         "published": "17 Mar 2026",
         "iso_date": "2026-03-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316233652websitesize(17)_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316233652websitesize(17)_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +189,7 @@
         "published": "17 Mar 2026",
         "iso_date": "2026-03-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317023057images(1).png?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317023057images(1).png?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -209,7 +199,7 @@
         "published": "17 Mar 2026",
         "iso_date": "2026-03-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317_002344_2_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317_002344_2_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -219,7 +209,7 @@
         "published": "17 Mar 2026",
         "iso_date": "2026-03-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316234329websitesize(5)_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316234329websitesize(5)_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -229,7 +219,7 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318004337oiuytrd_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318004337oiuytrd_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -239,7 +229,7 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_021203_1_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_021203_1_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -249,7 +239,7 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_003443_3_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_003443_3_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -259,7 +249,7 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_021201_0_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_021201_0_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -269,7 +259,7 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_003444_0_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_003444_0_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -279,7 +269,17 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318155556websize(6)_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318155556websize(6)_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "On a mission in space",
+        "link": "https://www.gdnonline.com/Details/1378992/On-a-mission-in-space",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260318_204527_2_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -289,12 +289,22 @@
         "published": "18 Mar 2026",
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318154249websize(5)_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318154249websize(5)_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
+      {
+        "title": "Qatar Expels Iranian Diplomats, Orders Exit Within 24 Hours",
+        "link": "https://www.newsofbahrain.com/world/128767.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_20igNlIpOs_2026-03-18_1773872815resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Qatar Condemns Iranian Attack on Ras Laffan Industrial City",
         "link": "https://www.newsofbahrain.com/world/128766.html",
@@ -308,8 +318,8 @@
       {
         "title": "Saudi Air Defenses Intercept 8 Ballistic Missiles Over Riyadh",
         "link": "https://www.newsofbahrain.com/world/128765.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LmAEF5alp8_2026-03-18_1773867386resized_pic.jpg",
         "source": "newsofbahrain",
@@ -328,20 +338,10 @@
       {
         "title": "QatarEnergy Confirms Missile Attacks on Ras Laffan Industrial City",
         "link": "https://www.newsofbahrain.com/world/128763.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ANjHv7yKIM_2026-03-18_1773863511resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pakistan and Afghanistan announce Eid 'pause' in hostilities",
-        "link": "https://www.newsofbahrain.com/world/128762.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U7PYwnArFO_2026-03-18_1773857156resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ANjHv7yKIM_2026-03-18_1773863511resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -559,5 +559,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-18 21:31:20 UTC"
+  "fetched_at": "2026-03-18 22:29:17 UTC"
 }
