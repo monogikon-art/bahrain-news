@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 10
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 20
+      "count": 14
     }
   },
   "articles": {
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHktb3ctYnlxeS1tc0xZSUs4SEpiemZ1UWo1VEZhS0syVjI0d1dSV2hwZFhvRjJnS01NSXRxZ1IySjFnWU9vMXF4OUdSbTRhMnI2amoxTDFzUHQ2R205Q1pEcVhvX1pSVndTNmJEalAzaURxZXFFdVZsOERteF9BMGEzNFczRnU5TVpxQw?oc=5",
         "published": "17 Mar 2026, 04:38 PM",
         "iso_date": "2026-03-17T16:38:27+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Arabia rejects war with Iran and views Israel as a destabilizing force - opinion",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41aXJzUVA4Ty1ndFlQN255bDZ4blBDZ1pHdFdITE9VLXpoejU5RURCQ2F0bk03MDBJR1R4clhmc1pvdV81YTZZNWZ3Q2ktcG9HMzZ3X3E0UQ?oc=5",
-        "published": "17 Mar 2026, 04:00 PM",
-        "iso_date": "2026-03-17T16:00:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,10 +62,30 @@
         "category": "Latest"
       },
       {
+        "title": "Dubai confirms successful air defence interception of threats",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVENqNmxWRThBbWZPc2l4RlZXRkZlUzc5RGJCQzhPTFpDR1pHc0Q5OUFqVndkbS13U0NQQUxoYTFhSzBhcmduRjVibEZUaWNNSGZYOVV1aXNzby1ELXNsTm9GWnE2OEJ2VGYtOExkeXBkR05jZ2NxRjJMUTNSWDZuZS1FalIxZURnOHppX2lOUmFrSnJVaml1NkJrSkZ2Z1lpWnpIY1dqUHVHUzhmSS10Qg?oc=5",
+        "published": "18 Mar 2026, 11:23 AM",
+        "iso_date": "2026-03-18T11:23:40+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "UAE Extending Remote Learning To Eid al-Fitr Prayers At Mosques In UAE; 5 GCC Updates For You",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObzNxVENrZ1pRSDVlZ2c3dkQyUHI3MUdYWm5hZ2tDMnMtRUhON0lwb04yT2laTUNycGd3TVg5VXpGd0tQejNyU0VrU1ZJVHJBQks3VjkxTGdqRmwyTVlpdzltVnBkeGdtR09PRHpydFg0OFU5VV9MQ2c0ZzVrakhES0x3LUt6ZjVnME9hWUZDR1J1OXpUdHhWN3BRQTBwSFNBVWpEM2k1ajlNMkhXejNGN3ZWbXBnVjNaVC1Nalh2WlFpUThpSUMyUkJsMGRQYnd20gHWAUFVX3lxTE5hUC1CcVI0RkQ1X1kyaFk4Wkx0NFlsTi1aX3FFWDZ1d0FERW5IeTkxMnlKTG1YWG5xY1YwLVJCSGx4VmRtTUdtWnlKeVE4Y2ZpZHcxOS0yNE16aGFDN1ltc18xR0F3RFprMkFlb2tKdjdCcF8ySTlTZjlMUEZPdlMxb3hKdHExeVljekVoSUU1TkJzaDZ5VFdmSUNLU0E3Y0dpR1NHUHlfTVByVmREbWJiNDRmakNJUGFweWhUN3FaYVIwNnYxTlM2Ymt0cGJfenJ4MUJ0dkE?oc=5",
         "published": "18 Mar 2026, 10:42 AM",
         "iso_date": "2026-03-18T10:42:23+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOek16YkV4TUVtVUpvdWFDUU5xT0dLQXZsYVdQbnktOFo2UVJITk5nOFVWcFpSX0tncmRMemJwbzJXN2ljWW5OX01wZTBfQXhyR3BiaTA0Rmo2QVNxZ0o2Ym9ZS2RqLVJ5bW9yMWFxLVV1d1MtODZBVkZYMU9aZWpEYzQtNVRQVHp4ZS1MLUFVN2ItT05vT2tTdWxqd25FYlRpeTdZWFJrejczaXd1?oc=5",
+        "published": "18 Mar 2026, 01:12 AM",
+        "iso_date": "2026-03-18T01:12:02+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,142 +276,92 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Pope says idea England ‘weren’t fussed’ about the Ashes was tough to take",
-        "link": "https://www.newsofbahrain.com/sports/128725.html",
+        "title": "Smugglers Caught at the Airport: A Risky Journey Ends in 15 Years Behind Bars",
+        "link": "https://www.newsofbahrain.com/bahrain/128752.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wbnuJlgZSp_2026-03-18_1773826005resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D1Fp4ukmoX_2026-03-18_1773834127resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Van de Ven insists it’s ‘nonsense’ to say players don’t care about Spurs’ plight",
-        "link": "https://www.newsofbahrain.com/sports/128724.html",
+        "title": "Death Toll in Beirut Rises to 10 After Israeli Strikes",
+        "link": "https://www.newsofbahrain.com/world/128751.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J0CSrBD3y6_2026-03-18_1773826479resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NYsEaxI7Hg_2026-03-18_1773833990resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Barca Flick’s ‘last job’ but not yet certain on renewal",
-        "link": "https://www.newsofbahrain.com/sports/128723.html",
+        "title": "Electricity bill relief approved as businesses gain support",
+        "link": "https://www.newsofbahrain.com/bahrain/128750.html",
         "published": "18 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-18T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5gOSuvb9tc_2026-03-18_1773825379resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KYjb8G3U0x_2026-03-18_1773833848resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Malaysia hit with 3-0 forfeits to send Vietnam to Asian Cup",
-        "link": "https://www.newsofbahrain.com/sports/128722.html",
+        "title": "Iranian Footballers Travel Back via Turkey After Controversy",
+        "link": "https://www.newsofbahrain.com/world/128749.html",
         "published": "18 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-18T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uetKIHl9fA_2026-03-18_1773825208resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7tv2x9XOnd_2026-03-18_1773833673resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Hard-hitting Conway steers New Zealand to victory over South Africa",
-        "link": "https://www.newsofbahrain.com/sports/128721.html",
+        "title": "Parliament condemns Al-Aqsa closure and reaffirms support for Palestinians",
+        "link": "https://www.newsofbahrain.com/bahrain/128748.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UGTKjqHkny_2026-03-18_1773825032resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o5se39A2Oy_2026-03-18_1773833632resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "No Abnormal Radiation Levels Detected in Bahrain, Confirms Supreme Council for Environment",
-        "link": "https://www.newsofbahrain.com/bahrain/128712.html",
+        "title": "Human rights statement approved during the Council of Representatives session marking Arab observance",
+        "link": "https://www.newsofbahrain.com/bahrain/128747.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hzPKg6CV4u_2026-03-18_1773822831thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wng72R9Mkb_2026-03-18_1773833312thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "MP calls for emergency units across governorates",
-        "link": "https://www.newsofbahrain.com/bahrain/128711.html",
+        "title": "Food and Medicine Supplies Fully Secured",
+        "link": "https://www.newsofbahrain.com/bahrain/128746.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j2BxlOshpw_2026-03-18_1773822577thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9i68JAWL7n_2026-03-18_1773833225thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "MPs condemn Al-Aqsa closure",
-        "link": "https://www.newsofbahrain.com/bahrain/128710.html",
+        "title": "Iranian Strike Near Australian-Linked Al Minhad Airbase in UAE, PM Albanese",
+        "link": "https://www.newsofbahrain.com/world/128741.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PIMbc0Ew7J_2026-03-18_1773822445thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BDEgTWdsLO_2026-03-18_1773832644thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Man jailed for drunk driving causing death of girlfriend",
-        "link": "https://www.newsofbahrain.com/bahrain/128709.html",
+        "title": "Iranian political system does not depend on one person, says Foreign Minister Araghchi",
+        "link": "https://www.newsofbahrain.com/world/128739.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pJSM0QGnaR_2026-03-18_1773822295thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Protecting rights, reinforcing values",
-        "link": "https://www.newsofbahrain.com/bahrain/128708.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LHDipyYl6Z_2026-03-18_1773822240thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Scotland Says No to Assisted Dying After Emotional Debate",
-        "link": "https://www.newsofbahrain.com/world/128705.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_18WGHIb3u7_2026-03-18_1773821557thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iraq to resume oil exports through Turkey's Ceyhan port",
-        "link": "https://www.newsofbahrain.com/world/128701.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O0jgeVGRTd_2026-03-18_1773820911thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "FIFA Rejects Iran Venue Change Request from US to Mexico",
-        "link": "https://www.newsofbahrain.com/world/128700.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zZfdeWLatq_2026-03-18_1773820667thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zelenskyy offers 1,000 drone interceptors a day to Gulf states",
-        "link": "https://www.newsofbahrain.com/world/128697.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6rt4cMJ9fk_2026-03-18_1773819839thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iSW7mVMZxf_2026-03-18_1773832580thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -448,20 +408,10 @@
       {
         "title": "Reporters of War: Digital Media Challenges",
         "link": "https://www.newsofbahrain.com/views/128654.html",
-        "published": "",
-        "iso_date": "",
+        "published": "17 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-17T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_bQCpfL7iXy_2026-03-17_1773748119thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A “Breathalyser” for this war!",
-        "link": "https://www.newsofbahrain.com/views/128518.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1RLOTXz8Aa_2026-03-15_1773579966thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -579,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-18 10:50:51 UTC"
+  "fetched_at": "2026-03-18 11:43:00 UTC"
 }
