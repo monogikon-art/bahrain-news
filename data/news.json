@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 18
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -42,7 +42,7 @@
         "category": "Latest"
       },
       {
-        "title": "Saudi Arabia rejects war with Iran and views Israel as a destabilizing force - opinion",
+        "title": "How Saudi Arabia views the Iran conflict and Israel’s destabilizing role",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41aXJzUVA4Ty1ndFlQN255bDZ4blBDZ1pHdFdITE9VLXpoejU5RURCQ2F0bk03MDBJR1R4clhmc1pvdV81YTZZNWZ3Q2ktcG9HMzZ3X3E0UQ?oc=5",
         "published": "17 Mar 2026, 04:00 PM",
         "iso_date": "2026-03-17T16:00:00+00:00",
@@ -66,6 +66,16 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMEtMcjY3cGM2dmphSldsa3JBd3NFOXo1dFNGc2hTUkQxdGJQUTlBM1FWaDJWczNCWEc3Z2RZeEEyeFZkSl9EczU0VE1zV1JINDNGZU1Fb0RpWklhcFBKQ3RWdXI3bDFsMjFkNnpyYmxnY1ZFRE5nTTBIVlZFRjdMNy1nWE9qbnVwd2FaN256SjBXUE1MT1hvVUpXbU96NVlubktIRVdzaGEwNVFNYURfMDA0YXB5STIxY0ZYZ3dXYnpTRDJUTmx2SkVncktxaXdwYlZYR0l5UXJYeWF0Y1k4ejdBRkE3Wk9EOEcxVjIwcmxSN0EtMmJR?oc=5",
         "published": "17 Mar 2026, 09:27 AM",
         "iso_date": "2026-03-17T09:27:01+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi customs ports record 663 contraband seizures last week",
+        "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNWjN5dGl5ZkphV1NxNGFYWExkVE9jTEdPc1VHakU0VktGQ21GcGZIM0gtRTVNdkV3VlJaWDhyeG4wdWJOVVRqeGFLanNRYTUwanctT3pEWXd3YU1zMnhWR1JOQy1CZHZtZ2RiNU8wLVp2MkJnbURsSUdzSzR0TEJzcElxT0lTb0czYmJuRjRNOG5KOG5uSVllS0xDVG4zT0k1T21MSTFJcVdZU3NuRDFseThqRUNXQWdZb05JODJQM1czTFF0Y0dGZTFMR3ZZZ25vU2hQMmxCM0pNQko0WHctQmhIa0NqT21oQ1NJaXpNU253ckd3YndjZjJ6RGVEbGJmVXpSZzNiYkNGVmlSdGpCd3N3VE02Q05aM0JIVGpRdFZUUlhBZUIwN3BtUGxlRFoxd25xRFBaTjF1am1zMjROZWhNRTc5a0Zk?oc=5",
+        "published": "17 Mar 2026, 09:14 AM",
+        "iso_date": "2026-03-17T09:14:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -194,82 +204,52 @@
         "category": "Latest"
       },
       {
-        "title": "Neymar left out of Brazil squad for World Cup warm-ups",
-        "link": "https://www.gdnonline.com/Details/1378852/Neymar-left-out-of-Brazil-squad-for-World-Cup-warm-ups",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
+        "title": "Khaldiya and Muharraq set for Super Cup showdown",
+        "link": "https://www.gdnonline.com/Details/1378921/Khaldiya-and-Muharraq-set-for-Super-Cup-showdown",
+        "published": "18 Mar 2026",
+        "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317113221neymar(4)_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318004337oiuytrd_T.jpg?20260318",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Iran negotiating with FIFA to move World Cup games to Mexico from US",
-        "link": "https://www.gdnonline.com/Details/1378853/Iran-negotiating-with-FIFA-to-move-World-Cup-games-to-Mexico-from-US",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
+        "title": "Morocco get Afcon title after result overturned",
+        "link": "https://www.gdnonline.com/Details/1378936/Morocco-get-Afcon-title-after-result-overturned",
+        "published": "18 Mar 2026",
+        "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317125651mexico(1)_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_021203_1_T.jpg?20260318",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Chelsea captain James ruled out",
-        "link": "https://www.gdnonline.com/Details/1378825/Chelsea-captain-James-ruled-out",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
+        "title": "Kerr guides Australia to Asian Cup title clash",
+        "link": "https://www.gdnonline.com/Details/1378923/Kerr-guides-Australia-to-Asian-Cup-title-clash",
+        "published": "18 Mar 2026",
+        "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317020748chelsea_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_003443_3_T.jpg?20260318",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "City âcan bounce back despite tough oddsâ",
-        "link": "https://www.gdnonline.com/Details/1378826/City-âcan-bounce-back-despite-tough-oddsâ",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
+        "title": "Ezeâs stunner hands Arsenal solid victory",
+        "link": "https://www.gdnonline.com/Details/1378935/Ezeâs-stunner-hands-Arsenal-solid-victory-",
+        "published": "18 Mar 2026",
+        "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317_015743_0_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_021201_0_T.jpg?20260318",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Chelsea fined $14.3 million for breaking rules",
-        "link": "https://www.gdnonline.com/Details/1378823/Chelsea-fined-$143-million-for-breaking-rules",
-        "published": "17 Mar 2026",
-        "iso_date": "2026-03-17T00:00:00",
+        "title": "Tough test for Japan",
+        "link": "https://www.gdnonline.com/Details/1378924/Tough-test-for-Japan",
+        "published": "18 Mar 2026",
+        "iso_date": "2026-03-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260317/20260317014432chelsea_T.jpg?20260318",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "âKPop Demon Huntersâ wins best animated feature Oscar",
-        "link": "https://www.gdnonline.com/Details/1378757/âKPop-Demon-Huntersâ-wins-best-animated-feature-Oscar",
-        "published": "16 Mar 2026",
-        "iso_date": "2026-03-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316_123831_0_T.jpg?20260318",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "'One Battle After Another' takes best picture at the Oscars",
-        "link": "https://www.gdnonline.com/Details/1378753/One-Battle-After-Another-takes-best-picture-at-the-Oscars",
-        "published": "16 Mar 2026",
-        "iso_date": "2026-03-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316_121254_0_T.jpg?20260318",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Norway's 'Sentimental Value' wins best international film Oscar",
-        "link": "https://www.gdnonline.com/Details/1378748/Norways-Sentimental-Value-wins-best-international-film-Oscar",
-        "published": "16 Mar 2026",
-        "iso_date": "2026-03-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260316/20260316_120631_0_T.jpg?20260318",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318_003444_0_T.jpg?20260318",
         "source": "gdn",
         "category": "Latest"
       }
@@ -529,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-17 23:54:56 UTC"
+  "fetched_at": "2026-03-18 01:57:23 UTC"
 }
