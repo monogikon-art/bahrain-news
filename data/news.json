@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHktb3ctYnlxeS1tc0xZSUs4SEpiemZ1UWo1VEZhS0syVjI0d1dSV2hwZFhvRjJnS01NSXRxZ1IySjFnWU9vMXF4OUdSbTRhMnI2amoxTDFzUHQ2R205Q1pEcVhvX1pSVndTNmJEalAzaURxZXFFdVZsOERteF9BMGEzNFczRnU5TVpxQw?oc=5",
         "published": "17 Mar 2026, 04:38 PM",
         "iso_date": "2026-03-17T16:38:27+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Arabia rejects war with Iran and views Israel as a destabilizing force - opinion",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41aXJzUVA4Ty1ndFlQN255bDZ4blBDZ1pHdFdITE9VLXpoejU5RURCQ2F0bk03MDBJR1R4clhmc1pvdV81YTZZNWZ3Q2ktcG9HMzZ3X3E0UQ?oc=5",
+        "published": "17 Mar 2026, 04:00 PM",
+        "iso_date": "2026-03-17T16:00:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -106,16 +116,6 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOek1DcWRsa24xcHlLS3hiSkQ0VWtCRWNicGJ5U1dLaTNLWF9VR09XajdLR0IxdGl2azBQeXFULTBFYWw0b05mb0hMUDhBd2RBRFpBOUVoR0xtdWk0Z3BxeXU5dVVYdmRhTG5mTWtqdEFKNXllcnNIQ2p6dk1sNlBFVFgweWtmdmJUdEhObG95ajJRbHgwQXotUmRYbUgyWjg?oc=5",
         "published": "18 Mar 2026, 12:45 AM",
         "iso_date": "2026-03-18T00:45:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts 129 Missiles, 233 Drones Since Onset Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVVZoTU1oMDF5LTZNclRvRFJmX2J4TXdmZmxwMGRaWjFhcGxoTm40VkRBbWZXc2ZpNzNFcWdsMlhqS0U3QnctLXc4b0lhbVpodnRtOHFTeDd2Wm5GVjlBMzVCelJJMS1ha3pXV1FjUVQwaHhIcDctdWliMFZGcFMzaktBOEdpUlQzZ3NFY0w2OUljbWozX25LQ3NFeGk0U2c?oc=5",
-        "published": "17 Mar 2026, 12:30 PM",
-        "iso_date": "2026-03-17T12:30:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -276,6 +276,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Defence Force Intercepts 130 Missiles, 234 Drones",
+        "link": "https://www.newsofbahrain.com/bahrain/128756.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yXTCKczZjR_2026-03-18_1773835278resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Reviews Key Infrastructure Projects at Ministerial Meeting",
+        "link": "https://www.newsofbahrain.com/bahrain/128755.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WqCt2OwVFu_2026-03-18_1773834928resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Hala Hold Nerves to Secure Premier Division Survival",
+        "link": "https://www.newsofbahrain.com/sports/128754.html",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nQp2Kq0faW_2026-03-18_1773834805resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Israeli Defence Minister Israel Katz says it has killed Iran's intelligence minister",
+        "link": "https://www.newsofbahrain.com/world/128753.html",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TstKg5ZMUe_2026-03-18_1773834594resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Smugglers Caught at the Airport: A Risky Journey Ends in 15 Years Behind Bars",
         "link": "https://www.newsofbahrain.com/bahrain/128752.html",
         "published": "18 Mar 2026, 09:22 AM",
@@ -286,32 +326,12 @@
         "category": "Latest"
       },
       {
-        "title": "Death Toll in Beirut Rises to 10 After Israeli Strikes",
-        "link": "https://www.newsofbahrain.com/world/128751.html",
+        "title": "Electricity bill relief approved as businesses gain support",
+        "link": "https://www.newsofbahrain.com/bahrain/128750.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NYsEaxI7Hg_2026-03-18_1773833990resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Electricity bill relief approved as businesses gain support",
-        "link": "https://www.newsofbahrain.com/bahrain/128750.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KYjb8G3U0x_2026-03-18_1773833848resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Footballers Travel Back via Turkey After Controversy",
-        "link": "https://www.newsofbahrain.com/world/128749.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7tv2x9XOnd_2026-03-18_1773833673resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KYjb8G3U0x_2026-03-18_1773833848thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -321,27 +341,27 @@
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o5se39A2Oy_2026-03-18_1773833632resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o5se39A2Oy_2026-03-18_1773833632thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Human rights statement approved during the Council of Representatives session marking Arab observance",
-        "link": "https://www.newsofbahrain.com/bahrain/128747.html",
+        "title": "Death Toll in Beirut Rises to 10 After Israeli Strikes",
+        "link": "https://www.newsofbahrain.com/world/128751.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wng72R9Mkb_2026-03-18_1773833312thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NYsEaxI7Hg_2026-03-18_1773833990thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Food and Medicine Supplies Fully Secured",
-        "link": "https://www.newsofbahrain.com/bahrain/128746.html",
+        "title": "Iranian Footballers Travel Back via Turkey After Controversy",
+        "link": "https://www.newsofbahrain.com/world/128749.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9i68JAWL7n_2026-03-18_1773833225thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7tv2x9XOnd_2026-03-18_1773833673thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,16 +372,6 @@
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_BDEgTWdsLO_2026-03-18_1773832644thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian political system does not depend on one person, says Foreign Minister Araghchi",
-        "link": "https://www.newsofbahrain.com/world/128739.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iSW7mVMZxf_2026-03-18_1773832580thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-18 11:43:00 UTC"
+  "fetched_at": "2026-03-18 13:04:32 UTC"
 }
