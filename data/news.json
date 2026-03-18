@@ -16,26 +16,26 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 20
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Fortifying Bahrain: Allied Reinforcements Amid Iranian Aggression",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHktb3ctYnlxeS1tc0xZSUs4SEpiemZ1UWo1VEZhS0syVjI0d1dSV2hwZFhvRjJnS01NSXRxZ1IySjFnWU9vMXF4OUdSbTRhMnI2amoxTDFzUHQ2R205Q1pEcVhvX1pSVndTNmJEalAzaURxZXFFdVZsOERteF9BMGEzNFczRnU5TVpxQw?oc=5",
-        "published": "17 Mar 2026, 04:38 PM",
-        "iso_date": "2026-03-17T16:38:27+00:00",
+        "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
+        "published": "17 Mar 2026, 11:37 PM",
+        "iso_date": "2026-03-17T23:37:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
-        "published": "17 Mar 2026, 11:37 PM",
-        "iso_date": "2026-03-17T23:37:30+00:00",
+        "title": "Fortifying Bahrain: Allied Reinforcements Amid Iranian Aggression",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHktb3ctYnlxeS1tc0xZSUs4SEpiemZ1UWo1VEZhS0syVjI0d1dSV2hwZFhvRjJnS01NSXRxZ1IySjFnWU9vMXF4OUdSbTRhMnI2amoxTDFzUHQ2R205Q1pEcVhvX1pSVndTNmJEalAzaURxZXFFdVZsOERteF9BMGEzNFczRnU5TVpxQw?oc=5",
+        "published": "17 Mar 2026, 04:38 PM",
+        "iso_date": "2026-03-17T16:38:27+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,6 +52,16 @@
         "category": "Latest"
       },
       {
+        "title": "Qatar intercepts nine missiles in overnight attack",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGkwaURBVjAwWm03OGhiamt5dXV3VVpZNHJ5czhZV3NlN0V3S1hCTjR4aEt5ejR3aEYxb1FMZkx3YW9ZaE83alZFZUswVTdvSXdrZF8wMEdMMmktNWNYeWoyelplYVZrcS13VE5FcEtCdGh0ZG1EaFNLcGxfLURXOUpsVQ?oc=5",
+        "published": "18 Mar 2026, 08:34 AM",
+        "iso_date": "2026-03-18T08:34:19+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWkpva0xBa2FrOUV1QnJLQU1nbEVUTzQ3SFg0bkNqeHFuMk9ramhudFBjR0s0bURkMnUxSzlGT0ZCV0QtOF9PQkhZUFFJR3R1WG5hcW81RW5KcHk3YlVfdThaNUkwQkpRbXZnVUNzbzNMLXlTQjN2bW5sMk5scGhrTXltVWx3X0hHOFBVamQ3THgzeGlaQzd2d0FyMXRPWmVBLVFjTFFaVmZQMzBFOUN6aVliMnctOGlrVmZsc2hLRUs0a096T205d0xnZkJrZ3lTeXVSRnJjNlpGNWlaUVp6NmpvQWc1Y29GekdENURn?oc=5",
         "published": "17 Mar 2026, 03:30 PM",
@@ -62,20 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
-        "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQTUlsRVg0YU9OOFp3S3F1bll3ZjNBSEk0NDFSUWx2Q3dyM1FBRGZrM1BZajVTUVRnUy1Da0pnRDVHVXdZX1huS1gteVBRaTBhdVAzeWhQSVFYbU1vSWZ0dGpXMkVQZnB4Y3BnWFFrMWVoN2RMYVRPc2c5MUdKaGNFeWhUSU5HdFNPN3g3eEFYT05KcUVscEQ0bVJLb2ZtbGRobGd2X0hDSTRtemZxUjRTS1F0aldDX0pyM3hiQjdTYjZiRE9tX1FoWlRVdGhmQ1hpb1BhSURlaF81bXFOdDZKM2VkUjNFNVM5Tjl2TXRCbW52TUtmTjA0NTVXdWR3MXcxVEFLTFlPamZuSGRZMUMwQlgyNjI1TEt0ZGpPUXF1ckdSbjEtVTRjVTFGSU01RWNlQVZzMmlJc0FibEtwUVdGcHVRb2NhSHlhcGdvVWpTYzZZRUJxSXZKSHRLVWZmckEwbEYybmZENA?oc=5",
-        "published": "17 Mar 2026, 04:29 PM",
-        "iso_date": "2026-03-17T16:29:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran launches missile attacks on Israel and US bases amid ongoing conflict",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc241d3RDUV95aEZPbUNDWXR4MEwwamVGcWZBQUIzQjlIUWZOUFFSa2hFM3h5VXJ3T3VzMGNqdTlabVhWU01fa0Y2NEI4R0ZBTjBMa0p2QmkwdURNOUpBSnF5ZWtINlZTVGJSYjdMV1hEWDJqS20zRnJ4c0JYLVBEXzl1dUd1ZmkybGY4MmlidndnUnZfVG5ubThWTXEtVm5lX255MnZmSGlUZDd3QlA2RDV6MkFPN0ZiYlpSUnJibk8?oc=5",
-        "published": "18 Mar 2026, 01:36 AM",
-        "iso_date": "2026-03-18T01:36:48+00:00",
+        "title": "UAE Extending Remote Learning To Eid al-Fitr Prayers At Mosques In UAE; 5 GCC Updates For You",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObzNxVENrZ1pRSDVlZ2c3dkQyUHI3MUdYWm5hZ2tDMnMtRUhON0lwb04yT2laTUNycGd3TVg5VXpGd0tQejNyU0VrU1ZJVHJBQks3VjkxTGdqRmwyTVlpdzltVnBkeGdtR09PRHpydFg0OFU5VV9MQ2c0ZzVrakhES0x3LUt6ZjVnME9hWUZDR1J1OXpUdHhWN3BRQTBwSFNBVWpEM2k1ajlNMkhXejNGN3ZWbXBnVjNaVC1Nalh2WlFpUThpSUMyUkJsMGRQYnd20gHWAUFVX3lxTE5hUC1CcVI0RkQ1X1kyaFk4Wkx0NFlsTi1aX3FFWDZ1d0FERW5IeTkxMnlKTG1YWG5xY1YwLVJCSGx4VmRtTUdtWnlKeVE4Y2ZpZHcxOS0yNE16aGFDN1ltc18xR0F3RFprMkFlb2tKdjdCcF8ySTlTZjlMUEZPdlMxb3hKdHExeVljekVoSUU1TkJzaDZ5VFdmSUNLU0E3Y0dpR1NHUHlfTVByVmREbWJiNDRmakNJUGFweWhUN3FaYVIwNnYxTlM2Ymt0cGJfenJ4MUJ0dkE?oc=5",
+        "published": "18 Mar 2026, 10:42 AM",
+        "iso_date": "2026-03-18T10:42:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -114,6 +114,16 @@
     ],
     "gdn": [
       {
+        "title": "364 missiles and drones destroyed",
+        "link": "https://www.gdnonline.com/Details/1378959/364-missiles-and-drones-destroyed",
+        "published": "18 Mar 2026",
+        "iso_date": "2026-03-18T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318120516drone_T.jpg?20260318",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "President Trump emphasises full US support for Bahrain",
         "link": "https://www.gdnonline.com/Details/1378932/President-Trump-emphasises-full-US-support-for-Bahrain-",
         "published": "18 Mar 2026",
@@ -150,16 +160,6 @@
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260317/20260317230901websitesize(8)_T.jpg?20260318",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "More destinations added to Gulf Airâs temporary Dammam operations",
-        "link": "https://www.gdnonline.com/Details/1378897/More-destinations-added-to-Gulf-Airâs-temporary-Dammam-operations",
-        "published": "18 Mar 2026",
-        "iso_date": "2026-03-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260317_224434_0_T.jpg?20260318",
         "source": "gdn",
         "category": "Latest"
       },
@@ -264,7 +264,208 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Pope says idea England ‘weren’t fussed’ about the Ashes was tough to take",
+        "link": "https://www.newsofbahrain.com/sports/128725.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wbnuJlgZSp_2026-03-18_1773826005resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Van de Ven insists it’s ‘nonsense’ to say players don’t care about Spurs’ plight",
+        "link": "https://www.newsofbahrain.com/sports/128724.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J0CSrBD3y6_2026-03-18_1773826479resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Barca Flick’s ‘last job’ but not yet certain on renewal",
+        "link": "https://www.newsofbahrain.com/sports/128723.html",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5gOSuvb9tc_2026-03-18_1773825379resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Malaysia hit with 3-0 forfeits to send Vietnam to Asian Cup",
+        "link": "https://www.newsofbahrain.com/sports/128722.html",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uetKIHl9fA_2026-03-18_1773825208resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Hard-hitting Conway steers New Zealand to victory over South Africa",
+        "link": "https://www.newsofbahrain.com/sports/128721.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UGTKjqHkny_2026-03-18_1773825032resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "No Abnormal Radiation Levels Detected in Bahrain, Confirms Supreme Council for Environment",
+        "link": "https://www.newsofbahrain.com/bahrain/128712.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hzPKg6CV4u_2026-03-18_1773822831thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MP calls for emergency units across governorates",
+        "link": "https://www.newsofbahrain.com/bahrain/128711.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j2BxlOshpw_2026-03-18_1773822577thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MPs condemn Al-Aqsa closure",
+        "link": "https://www.newsofbahrain.com/bahrain/128710.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PIMbc0Ew7J_2026-03-18_1773822445thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Man jailed for drunk driving causing death of girlfriend",
+        "link": "https://www.newsofbahrain.com/bahrain/128709.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pJSM0QGnaR_2026-03-18_1773822295thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Protecting rights, reinforcing values",
+        "link": "https://www.newsofbahrain.com/bahrain/128708.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LHDipyYl6Z_2026-03-18_1773822240thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Scotland Says No to Assisted Dying After Emotional Debate",
+        "link": "https://www.newsofbahrain.com/world/128705.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_18WGHIb3u7_2026-03-18_1773821557thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iraq to resume oil exports through Turkey's Ceyhan port",
+        "link": "https://www.newsofbahrain.com/world/128701.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O0jgeVGRTd_2026-03-18_1773820911thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "FIFA Rejects Iran Venue Change Request from US to Mexico",
+        "link": "https://www.newsofbahrain.com/world/128700.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zZfdeWLatq_2026-03-18_1773820667thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Zelenskyy offers 1,000 drone interceptors a day to Gulf states",
+        "link": "https://www.newsofbahrain.com/world/128697.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6rt4cMJ9fk_2026-03-18_1773819839thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Xbox opens ‘Starfield’ to PlayStation gamers in further blow to exclusivity",
+        "link": "https://www.newsofbahrain.com/business/128716.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HBX5z1spPK_2026-03-18_1773823669thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "War fuels fears of new oil crisis",
+        "link": "https://www.newsofbahrain.com/business/128715.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_96mtQvAn4M_2026-03-18_1773823545thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Fed expected to keep rates steady as Iran war impact looms",
+        "link": "https://www.newsofbahrain.com/business/128714.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9C1smkXVn6_2026-03-18_1773823307thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BisB holds virtual Ordinary and Extraordinary General Meetings for Year Ended 2025",
+        "link": "https://www.newsofbahrain.com/business/128713.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cIkuX5Cpl2_2026-03-18_1773823000thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Reporters of War: Digital Media Challenges",
+        "link": "https://www.newsofbahrain.com/views/128654.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bQCpfL7iXy_2026-03-17_1773748119thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A “Breathalyser” for this war!",
+        "link": "https://www.newsofbahrain.com/views/128518.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1RLOTXz8Aa_2026-03-15_1773579966thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -378,5 +579,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-18 09:51:44 UTC"
+  "fetched_at": "2026-03-18 10:50:51 UTC"
 }
