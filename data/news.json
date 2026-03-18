@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain's Bapco declares force majeure after Iran strikes its largest oil facility: What it means",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2JSaUlVTF9Pd3R4cFVWQkJtZUd1MVVhblJxbDNtdEVUOG92QjVEYXRwTHRhWVBBanB3UnYwb3dCUzB0VUJIVC1nOG1DakJfOEt1YUhEd0tOSGZVN0ZVRThOT2FMWXZWei1ndDhmR0doMlJvVGhoOWtZSkJSWThsSlVzTW00OU9Yb3ZOVS1BMmtNRTVveHZ0aXNPSEhUa1p5M0RBZjFSbHFIMmpGRUdKLW1GdklOcjVsWmpfaUZkeTJfb29fNUNrZ01qVnJ1cndrZjVuNUQ2VU44TUVtUklTZHYydW1xQ0tIOThpT1pVRlVsT2xr?oc=5",
+        "published": "17 Mar 2026, 11:37 PM",
+        "iso_date": "2026-03-17T23:37:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "One killed by debris from intercepted missile in Abu Dhabi",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03M0N6RWlxWng0N3M4OERpUFF0QUk2eWVfRlowR2xMZ0h6NExESjJyZmFFWUxERDRlVFpUbzJ1djE4QUxGV3ZnbDZwaWdPUms5eDJZ?oc=5",
@@ -32,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWkpva0xBa2FrOUV1QnJLQU1nbEVUTzQ3SFg0bkNqeHFuMk9ramhudFBjR0s0bURkMnUxSzlGT0ZCV0QtOF9PQkhZUFFJR3R1WG5hcW81RW5KcHk3YlVfdThaNUkwQkpRbXZnVUNzbzNMLXlTQjN2bW5sMk5scGhrTXltVWx3X0hHOFBVamQ3THgzeGlaQzd2d0FyMXRPWmVBLVFjTFFaVmZQMzBFOUN6aVliMnctOGlrVmZsc2hLRUs0a096T205d0xnZkJrZ3lTeXVSRnJjNlpGNWlaUVp6NmpvQWc1Y29GekdENURn?oc=5",
-        "published": "17 Mar 2026, 03:30 PM",
-        "iso_date": "2026-03-17T15:30:38+00:00",
+        "title": "Fortifying Bahrain: Allied Reinforcements Amid Iranian Aggression",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHktb3ctYnlxeS1tc0xZSUs4SEpiemZ1UWo1VEZhS0syVjI0d1dSV2hwZFhvRjJnS01NSXRxZ1IySjFnWU9vMXF4OUdSbTRhMnI2amoxTDFzUHQ2R205Q1pEcVhvX1pSVndTNmJEalAzaURxZXFFdVZsOERteF9BMGEzNFczRnU5TVpxQw?oc=5",
+        "published": "17 Mar 2026, 04:38 PM",
+        "iso_date": "2026-03-17T16:38:27+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,20 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMEtMcjY3cGM2dmphSldsa3JBd3NFOXo1dFNGc2hTUkQxdGJQUTlBM1FWaDJWczNCWEc3Z2RZeEEyeFZkSl9EczU0VE1zV1JINDNGZU1Fb0RpWklhcFBKQ3RWdXI3bDFsMjFkNnpyYmxnY1ZFRE5nTTBIVlZFRjdMNy1nWE9qbnVwd2FaN256SjBXUE1MT1hvVUpXbU96NVlubktIRVdzaGEwNVFNYURfMDA0YXB5STIxY0ZYZ3dXYnpTRDJUTmx2SkVncktxaXdwYlZYR0l5UXJYeWF0Y1k4ejdBRkE3Wk9EOEcxVjIwcmxSN0EtMmJR?oc=5",
-        "published": "17 Mar 2026, 09:27 AM",
-        "iso_date": "2026-03-17T09:27:01+00:00",
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWkpva0xBa2FrOUV1QnJLQU1nbEVUTzQ3SFg0bkNqeHFuMk9ramhudFBjR0s0bURkMnUxSzlGT0ZCV0QtOF9PQkhZUFFJR3R1WG5hcW81RW5KcHk3YlVfdThaNUkwQkpRbXZnVUNzbzNMLXlTQjN2bW5sMk5scGhrTXltVWx3X0hHOFBVamQ3THgzeGlaQzd2d0FyMXRPWmVBLVFjTFFaVmZQMzBFOUN6aVliMnctOGlrVmZsc2hLRUs0a096T205d0xnZkJrZ3lTeXVSRnJjNlpGNWlaUVp6NmpvQWc1Y29GekdENURn?oc=5",
+        "published": "17 Mar 2026, 03:30 PM",
+        "iso_date": "2026-03-17T15:30:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
-        "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQTUlsRVg0YU9OOFp3S3F1bll3ZjNBSEk0NDFSUWx2Q3dyM1FBRGZrM1BZajVTUVRnUy1Da0pnRDVHVXdZX1huS1gteVBRaTBhdVAzeWhQSVFYbU1vSWZ0dGpXMkVQZnB4Y3BnWFFrMWVoN2RMYVRPc2c5MUdKaGNFeWhUSU5HdFNPN3g3eEFYT05KcUVscEQ0bVJLb2ZtbGRobGd2X0hDSTRtemZxUjRTS1F0aldDX0pyM3hiQjdTYjZiRE9tX1FoWlRVdGhmQ1hpb1BhSURlaF81bXFOdDZKM2VkUjNFNVM5Tjl2TXRCbW52TUtmTjA0NTVXdWR3MXcxVEFLTFlPamZuSGRZMUMwQlgyNjI1TEt0ZGpPUXF1ckdSbjEtVTRjVTFGSU01RWNlQVZzMmlJc0FibEtwUVdGcHVRb2NhSHlhcGdvVWpTYzZZRUJxSXZKSHRLVWZmckEwbEYybmZENA?oc=5",
-        "published": "17 Mar 2026, 04:29 PM",
-        "iso_date": "2026-03-17T16:29:55+00:00",
+        "title": "Middle East flights: Gulf Air repositions aircraft from Bahrain airport",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMEtMcjY3cGM2dmphSldsa3JBd3NFOXo1dFNGc2hTUkQxdGJQUTlBM1FWaDJWczNCWEc3Z2RZeEEyeFZkSl9EczU0VE1zV1JINDNGZU1Fb0RpWklhcFBKQ3RWdXI3bDFsMjFkNnpyYmxnY1ZFRE5nTTBIVlZFRjdMNy1nWE9qbnVwd2FaN256SjBXUE1MT1hvVUpXbU96NVlubktIRVdzaGEwNVFNYURfMDA0YXB5STIxY0ZYZ3dXYnpTRDJUTmx2SkVncktxaXdwYlZYR0l5UXJYeWF0Y1k4ejdBRkE3Wk9EOEcxVjIwcmxSN0EtMmJR?oc=5",
+        "published": "17 Mar 2026, 09:27 AM",
+        "iso_date": "2026-03-17T09:27:01+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,12 +266,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain gets 1.5% of power from renewables",
+        "link": "https://www.newsofbahrain.com/bahrain/128686.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zYjqH7byFf_2026-03-18_1773816841resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Italy warns drifting Russian LNG tanker could explode in Mediterranean at any time",
+        "link": "https://www.newsofbahrain.com/world/128685.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4V0BlXZ3tR_2026-03-18_1773816797resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kia Donates Trucks to Boost River Cleanup Efforts in Guatemala",
+        "link": "https://www.newsofbahrain.com/trends/128684.html",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xsSm3FhybV_2026-03-18_1773816630resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "South Korea Suspends Rifle Drills After Girl at Playground Injured by Suspected Stray Bullet",
+        "link": "https://www.newsofbahrain.com/world/128683.html",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8Ami4ITpDU_2026-03-18_1773816199resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Projectile Reportedly Hits Near Bushehr Nuclear Plant, No Damage or Injuries",
+        "link": "https://www.newsofbahrain.com/world/128678.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DgVWiEU1sI_2026-03-18_1773813568resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Delivers Joint GCC Statement in Geneva",
         "link": "https://www.newsofbahrain.com/bahrain/128677.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kfZF3rPG1U_2026-03-17_1773784579resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kfZF3rPG1U_2026-03-17_1773784579thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,27 +331,7 @@
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_npL9GaZVYg_2026-03-17_1773773002resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Explosions Rock Baghdad as US Embassy Targeted in Drone and Rocket Attack",
-        "link": "https://www.newsofbahrain.com/world/128675.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2O6Pgjpzo8_2026-03-17_1773771595resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Says NATO Allies Decline Role in Iran Operation",
-        "link": "https://www.newsofbahrain.com/world/128674.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qkQA3oyZ09_2026-03-17_1773766332resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_npL9GaZVYg_2026-03-17_1773773002thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -301,7 +341,7 @@
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UIM9Jmz3tj_2026-03-17_1773763214resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UIM9Jmz3tj_2026-03-17_1773763214thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -316,32 +356,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Condemns Terror Plot Targeting Kuwait’s Sovereignty",
-        "link": "https://www.newsofbahrain.com/bahrain/128668.html",
+        "title": "Explosions Rock Baghdad as US Embassy Targeted in Drone and Rocket Attack",
+        "link": "https://www.newsofbahrain.com/world/128675.html",
         "published": "17 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iSrMNnszpy_2026-03-17_1773752838thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Why Iranian drones are hard to stop",
-        "link": "https://www.newsofbahrain.com/world/128671.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WVZw7YgFlk_2026-03-17_1773753898thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Buzz, unease as UK crowds watch US bombers",
-        "link": "https://www.newsofbahrain.com/world/128670.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bNviJjt475_2026-03-17_1773753373thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2O6Pgjpzo8_2026-03-17_1773771595thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-18 05:46:25 UTC"
+  "fetched_at": "2026-03-18 06:58:26 UTC"
 }
