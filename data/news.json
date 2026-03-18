@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHktb3ctYnlxeS1tc0xZSUs4SEpiemZ1UWo1VEZhS0syVjI0d1dSV2hwZFhvRjJnS01NSXRxZ1IySjFnWU9vMXF4OUdSbTRhMnI2amoxTDFzUHQ2R205Q1pEcVhvX1pSVndTNmJEalAzaURxZXFFdVZsOERteF9BMGEzNFczRnU5TVpxQw?oc=5",
         "published": "17 Mar 2026, 04:38 PM",
         "iso_date": "2026-03-17T16:38:27+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "How Saudi Arabia views the Iran conflict and Israel’s destabilizing role",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41aXJzUVA4Ty1ndFlQN255bDZ4blBDZ1pHdFdITE9VLXpoejU5RURCQ2F0bk03MDBJR1R4clhmc1pvdV81YTZZNWZ3Q2ktcG9HMzZ3X3E0UQ?oc=5",
-        "published": "17 Mar 2026, 04:00 PM",
-        "iso_date": "2026-03-17T16:00:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,12 +256,72 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain gets 1.5% of power from renewables",
-        "link": "https://www.newsofbahrain.com/bahrain/128686.html",
+        "title": "Vocational training law draft amendment",
+        "link": "https://www.newsofbahrain.com/bahrain/128699.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zYjqH7byFf_2026-03-18_1773816841resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ytx1QZ7Vv2_2026-03-18_1773820184resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Posting sensitive photos online sends defendants to court",
+        "link": "https://www.newsofbahrain.com/bahrain/128698.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NPSBrgtvFI_2026-03-18_1773819987resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Zelenskyy offers 1,000 drone interceptors a day to Gulf states",
+        "link": "https://www.newsofbahrain.com/world/128697.html",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6rt4cMJ9fk_2026-03-18_1773819839resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shura Council Hails Community Partnership as Pillar of National Security and Stability",
+        "link": "https://www.newsofbahrain.com/bahrain/128696.html",
+        "published": "18 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WRPQh0ZvNu_2026-03-18_1773819713resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Nurana Island plots left without roads or services",
+        "link": "https://www.newsofbahrain.com/bahrain/128695.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XMLv1I5gkz_2026-03-18_1773819478resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Push for three-month loan payment freeze",
+        "link": "https://www.newsofbahrain.com/bahrain/128694.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GldD2WaSK5_2026-03-18_1773819365thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Cuba Restores Power After 29-Hour Nationwide Blackout Amid Fuel Crunch",
+        "link": "https://www.newsofbahrain.com/world/128692.html",
+        "published": "18 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i8YxrHCDTX_2026-03-18_1773818853thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -281,87 +331,17 @@
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4V0BlXZ3tR_2026-03-18_1773816797resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kia Donates Trucks to Boost River Cleanup Efforts in Guatemala",
-        "link": "https://www.newsofbahrain.com/trends/128684.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xsSm3FhybV_2026-03-18_1773816630resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4V0BlXZ3tR_2026-03-18_1773816797thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "South Korea Suspends Rifle Drills After Girl at Playground Injured by Suspected Stray Bullet",
         "link": "https://www.newsofbahrain.com/world/128683.html",
-        "published": "18 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8Ami4ITpDU_2026-03-18_1773816199resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Projectile Reportedly Hits Near Bushehr Nuclear Plant, No Damage or Injuries",
-        "link": "https://www.newsofbahrain.com/world/128678.html",
         "published": "18 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DgVWiEU1sI_2026-03-18_1773813568resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Delivers Joint GCC Statement in Geneva",
-        "link": "https://www.newsofbahrain.com/bahrain/128677.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kfZF3rPG1U_2026-03-17_1773784579thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain and Jordan Leaders Hold High-Level Talks on Regional Developments",
-        "link": "https://www.newsofbahrain.com/bahrain/128676.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_npL9GaZVYg_2026-03-17_1773773002thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain expresses strong concern over Iran’s threat to close the Strait of Hormuz",
-        "link": "https://www.newsofbahrain.com/bahrain/128673.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UIM9Jmz3tj_2026-03-17_1773763214thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini Rights Groups Call on UN Human Rights Council to Condemn Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/128672.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hTjkRigyov_2026-03-17_1773755150thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Explosions Rock Baghdad as US Embassy Targeted in Drone and Rocket Attack",
-        "link": "https://www.newsofbahrain.com/world/128675.html",
-        "published": "17 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2O6Pgjpzo8_2026-03-17_1773771595thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8Ami4ITpDU_2026-03-18_1773816199thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-18 06:58:26 UTC"
+  "fetched_at": "2026-03-18 07:57:10 UTC"
 }
