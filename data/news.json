@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 19
+      "count": 15
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Morocco affirms full solidarity with Arab countries against Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeDZpMG03UllpcWNvS1dqTkJDeDBIRGxLY2QwVUJSS0RtMW9rWURROEt0eGExUGJWSkpYLVZ3aEs5cl9FanZtR2xLMkFlRlRHZ1BXU2NZZ25Bb0FFMkRhZUt1RnhRYXJTUzZ3TDRMQUUtUE1wNzE0Zml0QkFFNXIyRFZpSVM4UzRwZXVPaWt0dkNhOWN5NzY5a1B0RGlla0dNMXdiSVpfcG1ob2xXQXV1dm5QbU1OdXM2OU55T0lKMERnaVpIME8tRUlrQVdSRlh6OHQzSHhoSVFnV0JtZFF1U05MbGk1Vml5b1NyOE9rQjRpdFhJSkY0cHVQVXU1OFY5cnIw?oc=5",
+        "published": "18 Mar 2026, 04:41 PM",
+        "iso_date": "2026-03-18T16:41:21+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain Announces March 20 as Eid Al-Fitr 2026",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXpNMnB2RjVEMDFJSnppS3N0Ty1NYnZFWlp2dVhCYzZUZ0x1b0hBb3dHWXNadUo3MUNpb0U0ZlpOYWVUYWZFblhCclhJTUJSNG04c25XLW9paEI0Z1dIZE9TSFh0LUV1OGc1NXQxNS1fQnVONnA5Rm9XdTRTY1VfQWFkSzRHVXNZRmxqZ1R5SnJFVkd3elBXMC1scw?oc=5",
@@ -36,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoZXUyUnhFVzhOak5hOEJ2NXFpUDQ4YzZmY1pIemhsODF2c2RXVFRseFRhYl83MDlvR1pqV2EtYlZoMWM3Sk5MdUpuSlNhMXliQVhmSVEzQTkwRmU1cUNGampBTjh5dGtiWXJVUW9mU3BsNGZHM0JjM0s0NWQ?oc=5",
         "published": "19 Mar 2026, 05:12 AM",
         "iso_date": "2026-03-19T05:12:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Leclerc tops F1 pre-season testing in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0xBbU9pMVY1Z3J0QjIwQ3dyVk5ucVVBclhBc2xYbmtfLUtWeVg3ajVLWjA1UVVYNGk0TF9VMTBrbU9tc0s5ZlZhZGxtdnBFVzZ4YmxON2VJeFJMTU1pbTVGR3c5REJ0aXl1b1Y4WEo2VTIzXzBScHQ5cmpZdF9rREQ2WUt2eUtjRHRJdFVvMGVsNEJtTWlSSzhBOUMxX3FxRWpR?oc=5",
-        "published": "18 Mar 2026, 12:45 PM",
-        "iso_date": "2026-03-18T12:45:05+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Jordan: Authorities respond to 73 reports of falling objects and shrapnel across various parts of the kingdom",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONW1hZVl3bDhvZUVCc2xtN0hxNUYtaWZrRGs5b21CaHVtbzlkTUVQaG1oTUhuRTVYSVBPdmVMMFVqbUFPcEZaTVdnVjlyRUUtci1mVUFpc3c1UDBRVTlmSHBzX1BDdG0zV2EzTFpDdDdMbmRDYmZCRi1OTnQxRHlnT2F2eEtHSVZ5UHhlZUVFeEYwR21lSDR1cWRFUFV6RDF6S0ozaFpRRkpPZ1Yya2VFTzRCUC1FSUREdUdTU29MZGxzY0h5S09kWkpwOEJLVHkxRnZLVnNSNy01elN5a2R4QlQ4X3J5UW5lNWJBLUlR?oc=5",
-        "published": "18 Mar 2026, 01:17 PM",
-        "iso_date": "2026-03-18T13:17:21+00:00",
+        "title": "Leclerc tops F1 pre-season testing in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0xBbU9pMVY1Z3J0QjIwQ3dyVk5ucVVBclhBc2xYbmtfLUtWeVg3ajVLWjA1UVVYNGk0TF9VMTBrbU9tc0s5ZlZhZGxtdnBFVzZ4YmxON2VJeFJMTU1pbTVGR3c5REJ0aXl1b1Y4WEo2VTIzXzBScHQ5cmpZdF9rREQ2WUt2eUtjRHRJdFVvMGVsNEJtTWlSSzhBOUMxX3FxRWpR?oc=5",
+        "published": "18 Mar 2026, 12:45 PM",
+        "iso_date": "2026-03-18T12:45:05+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -86,16 +86,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNal9aZmctazJ1VnNPRWswb3JjaG1qX0kwbUU1NzR6N3BlZzh2SEhmQUlKaUJJV0hNWDNsVDdyUTVJSUlaWWRBaWtqQ3kzUkQ5dU01VEx4eDVEU3QzZTlFUjlBRW1zWlp2VXgzNGZaY1EzdXNwazdFVV9nWGNMX2l2d05CODdTY0RneTVZSWtmZGE1enNUNHVucGNFa2tlRS1TU2NoVXlNazVCV3RLaVdDY2dYcEZlX3duWXlwOGtfT2Fsa25Pa1RVaktKdDlyVGthRXRyOGZxWFFzQ3V0M19nX2FxSnJWbTY5VVF5U3BWV0xjcEk4WnEwNWt2YWFyZWhXVXFscGFrZkdtVWxTeHU5TkY4eGhQOFBCaVB1NjVSNW5MUUtMSUNfOV9XeGNablNEblVsRUxadTZfejZfTmpoOHJiWjd4VUt1ZmI1REwxLTRiaFJnbGtqcXhWdEV0Y2xhRWxvZnNlTEJtb2czb0thY19tcGVsZVZIeHZIU25PMjdhaUxBZl8ybk8zcjlyUEpLTHpEb05yX0tGY3VqV3dHa19IUFlQcTg?oc=5",
         "published": "18 Mar 2026, 02:48 PM",
         "iso_date": "2026-03-18T14:48:30+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGF5Z3dQQk96aTJ1VjVGWGZkVFhZZVc0UG1jaGFDSTA5T3FCM01mdks5TkJmeEtRRUlZR1hsMGRadnpTYzlZQ3FadEpoc0lnajFUWTJYZDh4Sk96VS1ZUlliTnRiaW9KME1nWmJLNFdXWm00WXkwVVlMMjlQb3NTSkQ1dFI0UHo1ekxWTlRlU0lzMjY0U2NEVXdybURUaUhuWml4WG4ycUZzSk0?oc=5",
-        "published": "18 Mar 2026, 11:30 PM",
-        "iso_date": "2026-03-18T23:30:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -286,52 +276,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Seef Entertainment launches special community initiative during Eid Al Fitr",
-        "link": "https://www.newsofbahrain.com/sports/128778.html",
+        "title": "Eid begins tomorrow as Bahrain prepares for celebration of hope and renewal",
+        "link": "https://www.newsofbahrain.com/bahrain/128786.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5pSNDGvmYi_2026-03-19_1773898289resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_laFxPUJd2v_2026-03-19_1773902982resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "BFA cancels youth competitions amid Gulf tensions",
-        "link": "https://www.newsofbahrain.com/sports/128777.html",
+        "title": "Beware: He Is Watching You!",
+        "link": "https://www.newsofbahrain.com/views/128785.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WtrTB0pxOQ_2026-03-19_1773897691resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jqyZpC0nVc_2026-03-19_1773902009resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Beach Handball Set for Sanya",
-        "link": "https://www.newsofbahrain.com/sports/128776.html",
+        "title": "Stocks fall, oil surges as US inflation jumps and Israel strikes gas facilities",
+        "link": "https://www.newsofbahrain.com/business/128784.html",
         "published": "19 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-19T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iglmnOdLVp_2026-03-19_1773897591resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BVPQDZ3glj_2026-03-19_1773900601resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Fernandez uncertain over Chelsea future after Champions League exit",
-        "link": "https://www.newsofbahrain.com/sports/128775.html",
+        "title": "Bahrain Islamic Bank signs strategic cooperation agreement with NAD Holding Group",
+        "link": "https://www.newsofbahrain.com/business/128783.html",
         "published": "19 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-19T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ADozs9pZxr_2026-03-19_1773897494resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4dEZXekumU_2026-03-19_1773900195resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Club clinches 25th Table Tennis League crown",
-        "link": "https://www.newsofbahrain.com/sports/128774.html",
+        "title": "BFM shareholders approve cash dividends of BHD 620,620 for FY 2025",
+        "link": "https://www.newsofbahrain.com/business/128782.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0UdXKg2QiR_2026-03-19_1773897384resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bfeuQKyw7O_2026-03-19_1773899902resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -376,12 +366,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Reviews Key Infrastructure Projects at Ministerial Meeting",
-        "link": "https://www.newsofbahrain.com/bahrain/128755.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
+        "title": "Trump waives shipping law",
+        "link": "https://www.newsofbahrain.com/world/128780.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WqCt2OwVFu_2026-03-18_1773834928thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LxEp2gy04F_2026-03-19_1773899044thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -416,52 +406,12 @@
         "category": "Latest"
       },
       {
-        "title": "Qatar Condemns Iranian Attack on Ras Laffan Industrial City",
-        "link": "https://www.newsofbahrain.com/world/128766.html",
+        "title": "NBB Group holds Virtual Annual Ordinary and Extraordinary General Meeting",
+        "link": "https://www.newsofbahrain.com/business/128779.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zTP80WJdRF_2026-03-18_1773868236thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Xbox opens ‘Starfield’ to PlayStation gamers in further blow to exclusivity",
-        "link": "https://www.newsofbahrain.com/business/128716.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HBX5z1spPK_2026-03-18_1773823669thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "War fuels fears of new oil crisis",
-        "link": "https://www.newsofbahrain.com/business/128715.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_96mtQvAn4M_2026-03-18_1773823545thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Fed expected to keep rates steady as Iran war impact looms",
-        "link": "https://www.newsofbahrain.com/business/128714.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9C1smkXVn6_2026-03-18_1773823307thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BisB holds virtual Ordinary and Extraordinary General Meetings for Year Ended 2025",
-        "link": "https://www.newsofbahrain.com/business/128713.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cIkuX5Cpl2_2026-03-18_1773823000thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZKQULNMFdY_2026-03-19_1773898958thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -589,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 05:42:19 UTC"
+  "fetched_at": "2026-03-19 06:54:50 UTC"
 }
