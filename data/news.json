@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -90,6 +90,16 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGF5Z3dQQk96aTJ1VjVGWGZkVFhZZVc0UG1jaGFDSTA5T3FCM01mdks5TkJmeEtRRUlZR1hsMGRadnpTYzlZQ3FadEpoc0lnajFUWTJYZDh4Sk96VS1ZUlliTnRiaW9KME1nWmJLNFdXWm00WXkwVVlMMjlQb3NTSkQ1dFI0UHo1ekxWTlRlU0lzMjY0U2NEVXdybURUaUhuWml4WG4ycUZzSk0?oc=5",
+        "published": "18 Mar 2026, 11:30 PM",
+        "iso_date": "2026-03-18T23:30:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
@@ -99,7 +109,7 @@
         "published": "19 Mar 2026",
         "iso_date": "2026-03-19T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319121936bdf12(1)_T.jpg?20260319",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319123738bdf12(1)_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -529,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 12:57:55 UTC"
+  "fetched_at": "2026-03-19 14:09:12 UTC"
 }
