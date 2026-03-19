@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,102 +16,11 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 15
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Bahrain: Sweeping Arrests Amid Conflict",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbWhpN1NBNkJyc0JqLWV6Umk0b3Z5Sm0xR18wZFVOcVdhZC1iU3dmU2dzMnVEdTkwcm96TlpocEpIZzRWOHk3TEJKZnNKQUZ1bllrWU1OUFd3M3F3S182MXY4dHh2OVNUcmhDQk5zeFpaMWw0SDNWbGlwNUhRWms?oc=5",
-        "published": "19 Mar 2026, 05:00 AM",
-        "iso_date": "2026-03-19T05:00:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Announces March 20 as Eid Al-Fitr 2026",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXpNMnB2RjVEMDFJSnppS3N0Ty1NYnZFWlp2dVhCYzZUZ0x1b0hBb3dHWXNadUo3MUNpb0U0ZlpOYWVUYWZFblhCclhJTUJSNG04c25XLW9paEI0Z1dIZE9TSFh0LUV1OGc1NXQxNS1fQnVONnA5Rm9XdTRTY1VfQWFkSzRHVXNZRmxqZ1R5SnJFVkd3elBXMC1scw?oc=5",
-        "published": "18 Mar 2026, 04:35 PM",
-        "iso_date": "2026-03-18T16:35:56+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Leclerc tops F1 pre-season testing in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0xBbU9pMVY1Z3J0QjIwQ3dyVk5ucVVBclhBc2xYbmtfLUtWeVg3ajVLWjA1UVVYNGk0TF9VMTBrbU9tc0s5ZlZhZGxtdnBFVzZ4YmxON2VJeFJMTU1pbTVGR3c5REJ0aXl1b1Y4WEo2VTIzXzBScHQ5cmpZdF9rREQ2WUt2eUtjRHRJdFVvMGVsNEJtTWlSSzhBOUMxX3FxRWpR?oc=5",
-        "published": "18 Mar 2026, 12:45 PM",
-        "iso_date": "2026-03-18T12:45:05+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain confirms no abnormal radiation levels after Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sWngydlVHVXF6QzN6b01tUllSUUhMQlVESGMxcjI2YW1IODZFcTQxdEJfOEk1YW1jMXBBWTZob2tyNW1QZ016UW1sRUg5R0RHak5Sdg?oc=5",
-        "published": "18 Mar 2026, 02:21 PM",
-        "iso_date": "2026-03-18T14:21:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump, Bahrain king discuss security, regional tensions in phone call",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG1XblpYeEs4LWlhMWRPV0YwUW1PT2RpQTN1ZlNXeUZ4djBpX19vM1hhYmpkbVl6V1dXbXFzY3p6WXJDUEJFNDhzZEk4NGRWRGk0b1NtR1dpZTJyUUhWNVpiWUdjXzRoNTRKVkJWN3p5YkIzMWVSTkVVWDEzNnRVdnpPLW1wWHFkS2Z4c0pXcUtYYnRWRzhGaWNiY0RHdnppaVJ6NzVFdFAwTGlfMlMxVDltN0tLYWtR?oc=5",
-        "published": "18 Mar 2026, 11:19 AM",
-        "iso_date": "2026-03-18T11:19:16+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Jordan: Authorities respond to 73 reports of falling objects and shrapnel across various parts of the kingdom",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONW1hZVl3bDhvZUVCc2xtN0hxNUYtaWZrRGs5b21CaHVtbzlkTUVQaG1oTUhuRTVYSVBPdmVMMFVqbUFPcEZaTVdnVjlyRUUtci1mVUFpc3c1UDBRVTlmSHBzX1BDdG0zV2EzTFpDdDdMbmRDYmZCRi1OTnQxRHlnT2F2eEtHSVZ5UHhlZUVFeEYwR21lSDR1cWRFUFV6RDF6S0ozaFpRRkpPZ1Yya2VFTzRCUC1FSUREdUdTU29MZGxzY0h5S09kWkpwOEJLVHkxRnZLVnNSNy01elN5a2R4QlQ4X3J5UW5lNWJBLUlR?oc=5",
-        "published": "18 Mar 2026, 01:17 PM",
-        "iso_date": "2026-03-18T13:17:21+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPdmtBUG40bF9PdDVjZXFDQ3BTWnJXTzJFaFg0YTVJMnlNMFVDUWZrdG5SUHpUeXRXRFhMcDNfemhJbXk3a0dsTEpqTi1DVVFDdkRjQUZsaHRDb181TDdYdk1MVmh6b2JaaVdLdlVEN2lvc0FnOF8ySDFETjNFSHRoNkNXRkZ0dVdwdzNmb0IxM0NMMTRDUDU0U3MwTFRyWGdoWTFlLUkxVjRzWmxnOUwxYnd6eThLWE9RZFhjbzRpZmVybFVCNFRzejBNcXU1UE9jUEJ6WklIYUNFZk1oVGlmRUFtaVVNUlVGako0ZmplS09mT3dHRUR3bUtSUHFfMmZ2S3hUX1A5Z0E3WkI0RWJ5M1JzcHFiMHBBTkptajQ4emdEc19oZjVyXzJWVWpXejhSeXpQczNPMGhuUEJBazljUlVvaFFpUGl1MkIyeXVXQkdJWUR4UWJ0bmlZYWxhQ3FIWnYxSDYwUi1rc0ZTYnRSODBZNFhab05DY2VFZ0w1cjJ2V05iZk9BUTRjc3ltNkVsLUR3VlE1ZU5HYXgxX1FReVIwMndNNWRvOU5LV0NNWlpKVzZzVG5hMU9rbDBINjVtVTdqQ3BJSXhtVlplMTJCblkwR2lseFhyTUxtVTkxVm5lTlFvTGpuemdQU1lPdw?oc=5",
-        "published": "18 Mar 2026, 02:54 PM",
-        "iso_date": "2026-03-18T14:54:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXRHSXdTbUtSUTBaazkwR3REWXFxNWZKTWI2Q2dpdlFDVzlock53c2toU0VxVnktWWZQamM0enM0RGV0R0FjNzhISG8zZ2d1aHJfaWtzODdNdW12akZfQlNQeUtIUFdGMU1NTG52cjZPbnV3UVFKU3pPdzdKdVRWN3RyaEJYbzU4X3FXRUh1N3hsa1JGd1Rod18yS2h0X1VFcjNTbXNnenZpNllwT0xtSXA3Z2I0RTVfcDRlbzVTc0NsLVhhdmNjby05aXMtVWxNYVVsdGJmV0hKUk80b282aGlDWFk0NHY4S2UzODFkYjBOX29UNU84LW1xZzVUVjRvLVI1ZGh4US0yU2t6QVBsNA?oc=5",
-        "published": "18 Mar 2026, 11:43 AM",
-        "iso_date": "2026-03-18T11:43:34+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGF5Z3dQQk96aTJ1VjVGWGZkVFhZZVc0UG1jaGFDSTA5T3FCM01mdks5TkJmeEtRRUlZR1hsMGRadnpTYzlZQ3FadEpoc0lnajFUWTJYZDh4Sk96VS1ZUlliTnRiaW9KME1nWmJLNFdXWm00WXkwVVlMMjlQb3NTSkQ1dFI0UHo1ekxWTlRlU0lzMjY0U2NEVXdybURUaUhuWml4WG4ycUZzSk0?oc=5",
-        "published": "18 Mar 2026, 11:30 PM",
-        "iso_date": "2026-03-18T23:30:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
         "title": "Eid Al Fitr to begin tomorrow",
@@ -214,6 +123,16 @@
         "category": "Latest"
       },
       {
+        "title": "Galatasaray midfielder Lang to undergo surgery after freak thumb injury",
+        "link": "https://www.gdnonline.com/Details/1379054/Galatasaray-midfielder-Lang-to-undergo-surgery-after-freak-thumb-injury",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319104758liv(2)_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Messi scores 900th career goal, joins Ronaldo in elite club",
         "link": "https://www.gdnonline.com/Details/1379053/Messi-scores-900th-career-goal,-joins-Ronaldo-in-elite-club",
         "published": "19 Mar 2026",
@@ -254,16 +173,6 @@
         "category": "Latest"
       },
       {
-        "title": "Barca roar into quarters",
-        "link": "https://www.gdnonline.com/Details/1379035/Barca-roar-into-quarters",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319_023324_0_T.jpg?20260319",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "âDune: Part Threeâ trailer lands, a day after sneak peek with Zendaya, director Villeneuve",
         "link": "https://www.gdnonline.com/Details/1378978/âDune-Part-Threeâ-trailer-lands,-a-day-after-sneak-peek-with-Zendaya,-director-Villeneuve",
         "published": "18 Mar 2026",
@@ -296,6 +205,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "US weighs sending thousands of troops to region as Iran war rages: Report",
+        "link": "https://www.newsofbahrain.com/world/128802.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kVpKZabXud_2026-03-19_1773912763resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Pentagon requests $200bn for Iran war, report says",
         "link": "https://www.newsofbahrain.com/world/128801.html",
         "published": "19 Mar 2026, 09:22 AM",
@@ -308,8 +227,8 @@
       {
         "title": "FBI investigating counter-terrorism chief who resigned over Iran war, report says",
         "link": "https://www.newsofbahrain.com/world/128800.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_tqB8ZI7hkJ_2026-03-19_1773907922resized_pic.jpg",
         "source": "newsofbahrain",
@@ -328,20 +247,10 @@
       {
         "title": "Iran still plans to participate in World Cup but will not travel to US",
         "link": "https://www.newsofbahrain.com/world/128798.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PhQN5CYKbX_2026-03-19_1773905787resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Accuses UAE of Enabling Attacks, Demands Reparations",
-        "link": "https://www.newsofbahrain.com/world/128797.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WClHQwR9XV_2026-03-19_1773905714resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PhQN5CYKbX_2026-03-19_1773905787resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -442,16 +351,6 @@
         "iso_date": "2026-03-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_jqyZpC0nVc_2026-03-19_1773902009thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Reporters of War: Digital Media Challenges",
-        "link": "https://www.newsofbahrain.com/views/128654.html",
-        "published": "17 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bQCpfL7iXy_2026-03-17_1773748119thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -569,5 +468,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 08:38:16 UTC"
+  "fetched_at": "2026-03-19 09:40:12 UTC"
 }
