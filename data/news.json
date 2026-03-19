@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 19
     }
   },
   "articles": {
@@ -26,6 +26,26 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXpNMnB2RjVEMDFJSnppS3N0Ty1NYnZFWlp2dVhCYzZUZ0x1b0hBb3dHWXNadUo3MUNpb0U0ZlpOYWVUYWZFblhCclhJTUJSNG04c25XLW9paEI0Z1dIZE9TSFh0LUV1OGc1NXQxNS1fQnVONnA5Rm9XdTRTY1VfQWFkSzRHVXNZRmxqZ1R5SnJFVkd3elBXMC1scw?oc=5",
         "published": "18 Mar 2026, 04:35 PM",
         "iso_date": "2026-03-18T16:35:56+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Conflict Sparks Mass Arrests",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoZXUyUnhFVzhOak5hOEJ2NXFpUDQ4YzZmY1pIemhsODF2c2RXVFRseFRhYl83MDlvR1pqV2EtYlZoMWM3Sk5MdUpuSlNhMXliQVhmSVEzQTkwRmU1cUNGampBTjh5dGtiWXJVUW9mU3BsNGZHM0JjM0s0NWQ?oc=5",
+        "published": "19 Mar 2026, 05:12 AM",
+        "iso_date": "2026-03-19T05:12:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Leclerc tops F1 pre-season testing in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0xBbU9pMVY1Z3J0QjIwQ3dyVk5ucVVBclhBc2xYbmtfLUtWeVg3ajVLWjA1UVVYNGk0TF9VMTBrbU9tc0s5ZlZhZGxtdnBFVzZ4YmxON2VJeFJMTU1pbTVGR3c5REJ0aXl1b1Y4WEo2VTIzXzBScHQ5cmpZdF9rREQ2WUt2eUtjRHRJdFVvMGVsNEJtTWlSSzhBOUMxX3FxRWpR?oc=5",
+        "published": "18 Mar 2026, 12:45 PM",
+        "iso_date": "2026-03-18T12:45:05+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,50 +72,30 @@
         "category": "Latest"
       },
       {
+        "title": "Jordan: Authorities respond to 73 reports of falling objects and shrapnel across various parts of the kingdom",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONW1hZVl3bDhvZUVCc2xtN0hxNUYtaWZrRGs5b21CaHVtbzlkTUVQaG1oTUhuRTVYSVBPdmVMMFVqbUFPcEZaTVdnVjlyRUUtci1mVUFpc3c1UDBRVTlmSHBzX1BDdG0zV2EzTFpDdDdMbmRDYmZCRi1OTnQxRHlnT2F2eEtHSVZ5UHhlZUVFeEYwR21lSDR1cWRFUFV6RDF6S0ozaFpRRkpPZ1Yya2VFTzRCUC1FSUREdUdTU29MZGxzY0h5S09kWkpwOEJLVHkxRnZLVnNSNy01elN5a2R4QlQ4X3J5UW5lNWJBLUlR?oc=5",
+        "published": "18 Mar 2026, 01:17 PM",
+        "iso_date": "2026-03-18T13:17:21+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
+        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNal9aZmctazJ1VnNPRWswb3JjaG1qX0kwbUU1NzR6N3BlZzh2SEhmQUlKaUJJV0hNWDNsVDdyUTVJSUlaWWRBaWtqQ3kzUkQ5dU01VEx4eDVEU3QzZTlFUjlBRW1zWlp2VXgzNGZaY1EzdXNwazdFVV9nWGNMX2l2d05CODdTY0RneTVZSWtmZGE1enNUNHVucGNFa2tlRS1TU2NoVXlNazVCV3RLaVdDY2dYcEZlX3duWXlwOGtfT2Fsa25Pa1RVaktKdDlyVGthRXRyOGZxWFFzQ3V0M19nX2FxSnJWbTY5VVF5U3BWV0xjcEk4WnEwNWt2YWFyZWhXVXFscGFrZkdtVWxTeHU5TkY4eGhQOFBCaVB1NjVSNW5MUUtMSUNfOV9XeGNablNEblVsRUxadTZfejZfTmpoOHJiWjd4VUt1ZmI1REwxLTRiaFJnbGtqcXhWdEV0Y2xhRWxvZnNlTEJtb2czb0thY19tcGVsZVZIeHZIU25PMjdhaUxBZl8ybk8zcjlyUEpLTHpEb05yX0tGY3VqV3dHa19IUFlQcTg?oc=5",
+        "published": "18 Mar 2026, 02:48 PM",
+        "iso_date": "2026-03-18T14:48:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaW9aQmRid0dXUXpuU2lEazRtdk9VQ3p4eGZja1kyUEl5VFdyWHVMZUREWnhJNjhaVE4xcjF4aEttY29IdUVSbmgwRGtzOXhYSGlibVNjVkhiM1ZwWUNaQnUwQW5aTXpVc1B4VDdZNWN3VVZwRmVDMFQ4UTJfUWJzZkxyLTBiajc2cnNNaXIxQzF6bmtVeHBqbjVZV0s1TF9IZDF0c0VNdzZvbFVzRWVKR3EycUQ2Tm5QVE5uSW4yM0Y5YmFTdGfSAcYBQVVfeXFMTmlvWkJkYndHV1F6blNpRGs0bXZPVUN6eHhmY2tZMlBJeVRXclh1TGVERFp4STY4WlROMXIxeGhLbWNvSHVFUm5oMERrczl4WEhpYm1TY1ZIYjNWcFlDWkJ1MEFuWk16VXNQeFQ3WTVjd1VWcEZlQzBUOFEyX1Fic2ZMci0wYmo3NnJzTWlyMUMxem5rVXhwam41WVdLNUxfSGQxdHNFTXc2b2xVc0VlSkdxMnFENk5uUFRObkluMjNGOWJhU3Rn?oc=5",
-        "published": "18 Mar 2026, 11:07 PM",
-        "iso_date": "2026-03-18T23:07:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Council of Representatives condemns Iranian missile attacks, affirms Bahrain’s right to respond",
-        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQNlN0QTU3dktGU3pVUHVaTXZCTWY5M1Iwa1p1aXdIU2p6SElNQ2xLR09jZ3ktTVY1QXVneFA0ZldPWVB0YUtlT1ZNcEFoUHEwSnRYdFRlRlNmOWwtd0VFZ3QxS1FZWi1fQ3MxQlVaV3M1dGduYXJWaVNRalFuRGVSZ1hXYlFQaVdWQTZ4RVV4cEphYm12TTNsSGl1OWhZN2p6aXRfcmhIUGZhWTdmNkhEV2pncENhMHBCRENxcEhNRThfUFlMMGVZamVTaXNfdEFIU0NUY1Z4TmVsV3J0Vlo0VWFuN2N4UV93SlAwN2E1RHBJTi10SEJQYzM3b0pfUDFqcmxHM0JqZldMWkRaV0k3OFAxS2p1ZXVJUEtkOA?oc=5",
-        "published": "18 Mar 2026, 07:56 AM",
-        "iso_date": "2026-03-18T07:56:22+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE Extending Remote Learning To Eid al-Fitr Prayers At Mosques In UAE; 5 GCC Updates For You",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVAtQnFSNEZENV9ZMmhZOFpMdDRZbE4tWl9xRVg2dXdBREVuSHk5MTJ5SkxtWFhucWNWMC1SQkhseFZkbU1HbVp5SnlROGNmaWR3MTktMjRNemhhQzdZbXNfMUdBd0RaazJBZW9rSnY3QnBfMkk5U2Y5TFBGT3ZTMW94SnRxMXlZY3pFaElFNU5Cc2g2eVRXZklDS1NBN2NHaUdTR1B5X01QclZkRG1iYjQ0ZmpDSVBhcHloVDdxWmFSMDZ2MU5TNmJrdHBiX3pyeDFCdHZB0gHWAUFVX3lxTE5hUC1CcVI0RkQ1X1kyaFk4Wkx0NFlsTi1aX3FFWDZ1d0FERW5IeTkxMnlKTG1YWG5xY1YwLVJCSGx4VmRtTUdtWnlKeVE4Y2ZpZHcxOS0yNE16aGFDN1ltc18xR0F3RFprMkFlb2tKdjdCcF8ySTlTZjlMUEZPdlMxb3hKdHExeVljekVoSUU1TkJzaDZ5VFdmSUNLU0E3Y0dpR1NHUHlfTVByVmREbWJiNDRmakNJUGFweWhUN3FaYVIwNnYxTlM2Ymt0cGJfenJ4MUJ0dkE?oc=5",
-        "published": "18 Mar 2026, 10:42 AM",
-        "iso_date": "2026-03-18T10:42:23+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Interior Ministry: One killed, two injured after fire on vessel at Salman Industrial City",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjgyWFN1RWtHQXhNNkQtRFNMNHBaVXNRXzNvVEpVZXQ1czRoVWRYZTF2SDRWMnZ3S0NYVFBFYUtsUzk1NUdSaUFTTXV0a3Zwa1FZZldJcnBDY1dVWlhwUjFkM0htY3B4ZFByaDlGVVZzRElYcXVJekdMUUZWeFFobTF0b3V2NzVrZXBpb3VPc2Q0OGhhSkluNHh5VzQ0QkZYNVdNMkplbWJOQVROdVQ2YXk1SXZObVVPd3ZFd3ZobDZOWFN4eWo2WlBxb2E3R1N0TkE?oc=5",
-        "published": "18 Mar 2026, 05:29 PM",
-        "iso_date": "2026-03-18T17:29:50+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone intercepted and destroyed east of Al-Jouf Region",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUx5YVB5c2RpTnEtM3VYb0Z4Y1BOdHNPcmNWRGNCTjlyMDd4SllfaHVQeVFMR3ZMc3M5aXBFQnh4Qzgyay1MaGZXRjBxNHZGY2hldDgtekRueXA2TFNReGpQaFdacjdGQmluOVppQVNfT3JGUVFxektYQUcyYmRZenQyMnRyUWNmd1dLTm5ENWZVQ2lnRVNidXJjTUhacmZMZWJBeGJwMkszQQ?oc=5",
-        "published": "18 Mar 2026, 01:50 PM",
-        "iso_date": "2026-03-18T13:50:22+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGF5Z3dQQk96aTJ1VjVGWGZkVFhZZVc0UG1jaGFDSTA5T3FCM01mdks5TkJmeEtRRUlZR1hsMGRadnpTYzlZQ3FadEpoc0lnajFUWTJYZDh4Sk96VS1ZUlliTnRiaW9KME1nWmJLNFdXWm00WXkwVVlMMjlQb3NTSkQ1dFI0UHo1ekxWTlRlU0lzMjY0U2NEVXdybURUaUhuWml4WG4ycUZzSk0?oc=5",
+        "published": "18 Mar 2026, 11:30 PM",
+        "iso_date": "2026-03-18T23:30:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -286,52 +286,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Seef Entertainment launches special community initiative during Eid Al Fitr",
+        "link": "https://www.newsofbahrain.com/sports/128778.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5pSNDGvmYi_2026-03-19_1773898289resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BFA cancels youth competitions amid Gulf tensions",
+        "link": "https://www.newsofbahrain.com/sports/128777.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WtrTB0pxOQ_2026-03-19_1773897691resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Beach Handball Set for Sanya",
+        "link": "https://www.newsofbahrain.com/sports/128776.html",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iglmnOdLVp_2026-03-19_1773897591resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Fernandez uncertain over Chelsea future after Champions League exit",
+        "link": "https://www.newsofbahrain.com/sports/128775.html",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ADozs9pZxr_2026-03-19_1773897494resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Club clinches 25th Table Tennis League crown",
+        "link": "https://www.newsofbahrain.com/sports/128774.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0UdXKg2QiR_2026-03-19_1773897384resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Condemns Iranian Attack on Qatar’s Ras Laffan Industrial City",
         "link": "https://www.newsofbahrain.com/bahrain/128770.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q1A5oh0kVO_2026-03-18_1773876155resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Foils Terror Plot Targeting Vital Facilities",
-        "link": "https://www.newsofbahrain.com/world/128769.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9NHrTJn4cK_2026-03-18_1773875472resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Abu Dhabi Authorities Respond to Missile Interception Incident",
-        "link": "https://www.newsofbahrain.com/world/128768.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1I4xtGfYdm_2026-03-18_1773874450resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Expels Iranian Diplomats, Orders Exit Within 24 Hours",
-        "link": "https://www.newsofbahrain.com/world/128767.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_20igNlIpOs_2026-03-18_1773872815resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Condemns Iranian Attack on Ras Laffan Industrial City",
-        "link": "https://www.newsofbahrain.com/world/128766.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zTP80WJdRF_2026-03-18_1773868236resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q1A5oh0kVO_2026-03-18_1773876155thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -372,6 +382,46 @@
         "iso_date": "2026-03-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WqCt2OwVFu_2026-03-18_1773834928thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Foils Terror Plot Targeting Vital Facilities",
+        "link": "https://www.newsofbahrain.com/world/128769.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9NHrTJn4cK_2026-03-18_1773875472thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Abu Dhabi Authorities Respond to Missile Interception Incident",
+        "link": "https://www.newsofbahrain.com/world/128768.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1I4xtGfYdm_2026-03-18_1773874450thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar Expels Iranian Diplomats, Orders Exit Within 24 Hours",
+        "link": "https://www.newsofbahrain.com/world/128767.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_20igNlIpOs_2026-03-18_1773872815thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar Condemns Iranian Attack on Ras Laffan Industrial City",
+        "link": "https://www.newsofbahrain.com/world/128766.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zTP80WJdRF_2026-03-18_1773868236thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +589,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 04:26:15 UTC"
+  "fetched_at": "2026-03-19 05:42:19 UTC"
 }
