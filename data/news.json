@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain: Sweeping Arrests Amid Conflict",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbWhpN1NBNkJyc0JqLWV6Umk0b3Z5Sm0xR18wZFVOcVdhZC1iU3dmU2dzMnVEdTkwcm96TlpocEpIZzRWOHk3TEJKZnNKQUZ1bllrWU1OUFd3M3F3S182MXY4dHh2OVNUcmhDQk5zeFpaMWw0SDNWbGlwNUhRWms?oc=5",
+        "published": "19 Mar 2026, 05:00 AM",
+        "iso_date": "2026-03-19T05:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Ministers discuss Iran escalation during Arab-Islamic talks",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VS21SMExod193QmZJbEZjX2c0QVhXZ1AwTmNBaUdIMEFYVnhQLUsyY2JaWWQ3bWpOaWVwTEdHTWthR2ltaE1QMEVzVDIwSzNkQndR?oc=5",
@@ -42,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Conflict Sparks Mass Arrests",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoZXUyUnhFVzhOak5hOEJ2NXFpUDQ4YzZmY1pIemhsODF2c2RXVFRseFRhYl83MDlvR1pqV2EtYlZoMWM3Sk5MdUpuSlNhMXliQVhmSVEzQTkwRmU1cUNGampBTjh5dGtiWXJVUW9mU3BsNGZHM0JjM0s0NWQ?oc=5",
-        "published": "19 Mar 2026, 05:12 AM",
-        "iso_date": "2026-03-19T05:12:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Announces March 20 as Eid Al-Fitr 2026",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXpNMnB2RjVEMDFJSnppS3N0Ty1NYnZFWlp2dVhCYzZUZ0x1b0hBb3dHWXNadUo3MUNpb0U0ZlpOYWVUYWZFblhCclhJTUJSNG04c25XLW9paEI0Z1dIZE9TSFh0LUV1OGc1NXQxNS1fQnVONnA5Rm9XdTRTY1VfQWFkSzRHVXNZRmxqZ1R5SnJFVkd3elBXMC1scw?oc=5",
         "published": "18 Mar 2026, 04:35 PM",
@@ -62,20 +62,30 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain confirms no abnormal radiation levels after Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sWngydlVHVXF6QzN6b01tUllSUUhMQlVESGMxcjI2YW1IODZFcTQxdEJfOEk1YW1jMXBBWTZob2tyNW1QZ016UW1sRUg5R0RHak5Sdg?oc=5",
-        "published": "18 Mar 2026, 02:21 PM",
-        "iso_date": "2026-03-18T14:21:00+00:00",
+        "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaW9aQmRid0dXUXpuU2lEazRtdk9VQ3p4eGZja1kyUEl5VFdyWHVMZUREWnhJNjhaVE4xcjF4aEttY29IdUVSbmgwRGtzOXhYSGlibVNjVkhiM1ZwWUNaQnUwQW5aTXpVc1B4VDdZNWN3VVZwRmVDMFQ4UTJfUWJzZkxyLTBiajc2cnNNaXIxQzF6bmtVeHBqbjVZV0s1TF9IZDF0c0VNdzZvbFVzRWVKR3EycUQ2Tm5QVE5uSW4yM0Y5YmFTdGfSAcYBQVVfeXFMTmlvWkJkYndHV1F6blNpRGs0bXZPVUN6eHhmY2tZMlBJeVRXclh1TGVERFp4STY4WlROMXIxeGhLbWNvSHVFUm5oMERrczl4WEhpYm1TY1ZIYjNWcFlDWkJ1MEFuWk16VXNQeFQ3WTVjd1VWcEZlQzBUOFEyX1Fic2ZMci0wYmo3NnJzTWlyMUMxem5rVXhwam41WVdLNUxfSGQxdHNFTXc2b2xVc0VlSkdxMnFENk5uUFRObkluMjNGOWJhU3Rn?oc=5",
+        "published": "18 Mar 2026, 11:07 PM",
+        "iso_date": "2026-03-18T23:07:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPdmtBUG40bF9PdDVjZXFDQ3BTWnJXTzJFaFg0YTVJMnlNMFVDUWZrdG5SUHpUeXRXRFhMcDNfemhJbXk3a0dsTEpqTi1DVVFDdkRjQUZsaHRDb181TDdYdk1MVmh6b2JaaVdLdlVEN2lvc0FnOF8ySDFETjNFSHRoNkNXRkZ0dVdwdzNmb0IxM0NMMTRDUDU0U3MwTFRyWGdoWTFlLUkxVjRzWmxnOUwxYnd6eThLWE9RZFhjbzRpZmVybFVCNFRzejBNcXU1UE9jUEJ6WklIYUNFZk1oVGlmRUFtaVVNUlVGako0ZmplS09mT3dHRUR3bUtSUHFfMmZ2S3hUX1A5Z0E3WkI0RWJ5M1JzcHFiMHBBTkptajQ4emdEc19oZjVyXzJWVWpXejhSeXpQczNPMGhuUEJBazljUlVvaFFpUGl1MkIyeXVXQkdJWUR4UWJ0bmlZYWxhQ3FIWnYxSDYwUi1rc0ZTYnRSODBZNFhab05DY2VFZ0w1cjJ2V05iZk9BUTRjc3ltNkVsLUR3VlE1ZU5HYXgxX1FReVIwMndNNWRvOU5LV0NNWlpKVzZzVG5hMU9rbDBINjVtVTdqQ3BJSXhtVlplMTJCblkwR2lseFhyTUxtVTkxVm5lTlFvTGpuemdQU1lPdw?oc=5",
-        "published": "18 Mar 2026, 02:54 PM",
-        "iso_date": "2026-03-18T14:54:00+00:00",
+        "title": "Bahrain confirms no abnormal radiation levels after Iranian attack",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa1ZCTFdnX2JRTWxOSjJYcVFTeFNzQzFaaWlKMkdQaFRvV3ZsQ3dSWDhUVHFmVWZ1ZmJmb2h6Z2ZIZDlzc1ZFRWdlUmtNTGhkS2xLQVlDUW1JM3ZYREtsR0h4aThzMVBKS0VHakt0VkhpTUpXS0FWT052NTNQc3lOTjA2OE52UHJLUllsTG5rWExpRkFpYkgzYzh6OFdtbkpuN19yUlJtTkRZWDV5QndpcHRKSzNKdWo0VWc?oc=5",
+        "published": "18 Mar 2026, 07:34 PM",
+        "iso_date": "2026-03-18T19:34:58+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Interior Ministry: One killed, two injured after fire on vessel at Salman Industrial City",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjgyWFN1RWtHQXhNNkQtRFNMNHBaVXNRXzNvVEpVZXQ1czRoVWRYZTF2SDRWMnZ3S0NYVFBFYUtsUzk1NUdSaUFTTXV0a3Zwa1FZZldJcnBDY1dVWlhwUjFkM0htY3B4ZFByaDlGVVZzRElYcXVJekdMUUZWeFFobTF0b3V2NzVrZXBpb3VPc2Q0OGhhSkluNHh5VzQ0QkZYNVdNMkplbWJOQVROdVQ2YXk1SXZObVVPd3ZFd3ZobDZOWFN4eWo2WlBxb2E3R1N0TkE?oc=5",
+        "published": "18 Mar 2026, 05:29 PM",
+        "iso_date": "2026-03-18T17:29:50+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -90,19 +100,19 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGF5Z3dQQk96aTJ1VjVGWGZkVFhZZVc0UG1jaGFDSTA5T3FCM01mdks5TkJmeEtRRUlZR1hsMGRadnpTYzlZQ3FadEpoc0lnajFUWTJYZDh4Sk96VS1ZUlliTnRiaW9KME1nWmJLNFdXWm00WXkwVVlMMjlQb3NTSkQ1dFI0UHo1ekxWTlRlU0lzMjY0U2NEVXdybURUaUhuWml4WG4ycUZzSk0?oc=5",
-        "published": "18 Mar 2026, 11:30 PM",
-        "iso_date": "2026-03-18T23:30:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "Royal pardon for 300 inmates for Eid Al Fitr",
+        "link": "https://www.gdnonline.com/Details/1379088/Royal-pardon-for-300-inmates-for-Eid-Al-Fitr",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319164822kinghamad2.jpeg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "BDF General Command: 134 missiles, 238 drones destroyed",
         "link": "https://www.gdnonline.com/Details/1379073/BDF-General-Command-134-missiles,-238-drones-destroyed",
@@ -140,16 +150,6 @@
         "iso_date": "2026-03-19T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260319/202603190158441-3_T.jpg?20260319",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Development and infrastructure projects reviewed",
-        "link": "https://www.gdnonline.com/Details/1379005/Development-and-infrastructure-projects-reviewed-",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319003502deputypm_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -286,6 +286,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Indian Sailors and Ships Secure in Gulf Region, Says Union Government",
+        "link": "https://www.newsofbahrain.com/world/128829.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CFGyxhIH2M_2026-03-19_1773928929resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Adnoc CEO says Iran's attacks on Gulf energy are acts of ‘global economic warfare’",
         "link": "https://www.newsofbahrain.com/bahrain/128828.html",
         "published": "19 Mar 2026, 09:22 AM",
@@ -298,8 +308,8 @@
       {
         "title": "Al Salam Bank Offers Up to Half-Price Discount on Keeta Orders for Its Cardholders",
         "link": "https://www.newsofbahrain.com/business/128827.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_W7eoTAKr5c_2026-03-19_1773923684resized_pic.jpg",
         "source": "newsofbahrain",
@@ -318,20 +328,10 @@
       {
         "title": "Qatar Condemns Iranian Attacks at NATO Meeting, Warns of Regional Escalation",
         "link": "https://www.newsofbahrain.com/world/128825.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BU1dq97GHJ_2026-03-19_1773923057resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Super Al Khaldiya Cruise Past Muharraq",
-        "link": "https://www.newsofbahrain.com/sports/128824.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dgZhsikNb9_2026-03-19_1773922769resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BU1dq97GHJ_2026-03-19_1773923057resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -372,16 +372,6 @@
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_nh7AEWLOmt_2026-03-19_1773919758thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Denmark ‘Prepared for Worst’ as Troops Deployed to Greenland: Report",
-        "link": "https://www.newsofbahrain.com/world/128811.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bBL8n4lDEw_2026-03-19_1773918956thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 14:09:12 UTC"
+  "fetched_at": "2026-03-19 15:11:56 UTC"
 }
