@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -80,16 +80,6 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGF5Z3dQQk96aTJ1VjVGWGZkVFhZZVc0UG1jaGFDSTA5T3FCM01mdks5TkJmeEtRRUlZR1hsMGRadnpTYzlZQ3FadEpoc0lnajFUWTJYZDh4Sk96VS1ZUlliTnRiaW9KME1nWmJLNFdXWm00WXkwVVlMMjlQb3NTSkQ1dFI0UHo1ekxWTlRlU0lzMjY0U2NEVXdybURUaUhuWml4WG4ycUZzSk0?oc=5",
-        "published": "18 Mar 2026, 11:30 PM",
-        "iso_date": "2026-03-18T23:30:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
@@ -134,12 +124,12 @@
         "category": "Latest"
       },
       {
-        "title": "CBB keeps rate steady",
-        "link": "https://www.gdnonline.com/Details/1379003/CBB-keeps-rate-steady",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
+        "title": "Strait of Hormuz traffic âdips to 100 shipsâ",
+        "link": "https://www.gdnonline.com/Details/1379093/Strait-of-Hormuz-traffic-âdips-to-100-shipsâ",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319004502cbb_T.jpg?20260320",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/202603192301542_T.jpg?20260320",
         "source": "gdn",
         "category": "Latest"
       },
@@ -150,6 +140,16 @@
         "iso_date": "2026-03-20T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260320/20260319_220555_0_T.jpg?20260320",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "CBB keeps rate steady",
+        "link": "https://www.gdnonline.com/Details/1379003/CBB-keeps-rate-steady",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319004502cbb_T.jpg?20260320",
         "source": "gdn",
         "category": "Latest"
       },
@@ -184,52 +184,52 @@
         "category": "Latest"
       },
       {
-        "title": "Galatasaray midfielder Lang to undergo surgery after freak thumb injury",
-        "link": "https://www.gdnonline.com/Details/1379054/Galatasaray-midfielder-Lang-to-undergo-surgery-after-freak-thumb-injury",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
+        "title": "Philippines clinch World Cup berth",
+        "link": "https://www.gdnonline.com/Details/1379131/Philippines-clinch-World-Cup-berth",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319104758liv(2)_T.jpg?20260320",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320015429actions_T.jpg?20260320",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Messi scores 900th career goal, joins Ronaldo in elite club",
-        "link": "https://www.gdnonline.com/Details/1379053/Messi-scores-900th-career-goal,-joins-Ronaldo-in-elite-club",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
+        "title": "Football team to train in Bahrain",
+        "link": "https://www.gdnonline.com/Details/1379115/Football-team-to-train-in-Bahrain",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319100442messi(5)_T.jpg?20260320",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320005634zxxz_T.jpg?20260320",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Khaldiya beat Muharraq to lift Super Cup",
-        "link": "https://www.gdnonline.com/Details/1379031/Khaldiya-beat-Muharraq-to-lift-Super-Cup",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
+        "title": "Messi joins Ronaldo in 900 club",
+        "link": "https://www.gdnonline.com/Details/1379116/Messi-joins-Ronaldo-in-900-club",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319_015944_2_T.jpg?20260320",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320005746ikam_T.jpg?20260320",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Football fixtures announced",
-        "link": "https://www.gdnonline.com/Details/1379030/Football-fixtures-announced",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
+        "title": "Morocco fans welcome Africa Cup decision",
+        "link": "https://www.gdnonline.com/Details/1379117/Morocco-fans-welcome-Africa-Cup-decision",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319_015943_0.png?20260320",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320005808moaoao_T.jpg?20260320",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Senegal seeks investigation after title row",
-        "link": "https://www.gdnonline.com/Details/1379027/Senegal-seeks-investigation-after-title-row",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
+        "title": "Villa advance",
+        "link": "https://www.gdnonline.com/Details/1379132/Villa-advance",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319021929senegal_T.jpg?20260320",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320_014835_0_T.jpg?20260320",
         "source": "gdn",
         "category": "Latest"
       },
@@ -260,16 +260,6 @@
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260318/20260318154249websize(5)_T.jpg?20260320",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran can choose between a path of death and destruction ... or peace and prosperity",
-        "link": "https://www.gdnonline.com/Details/1379018/Iran-can-choose-between-a-path-of-death-and-destruction--or-peace-and-prosperity",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "",
         "source": "gdn",
         "category": "Latest"
       }
@@ -529,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 23:27:04 UTC"
+  "fetched_at": "2026-03-19 23:53:18 UTC"
 }
