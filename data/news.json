@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -42,30 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Morocco affirms full solidarity with Arab countries against Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeDZpMG03UllpcWNvS1dqTkJDeDBIRGxLY2QwVUJSS0RtMW9rWURROEt0eGExUGJWSkpYLVZ3aEs5cl9FanZtR2xLMkFlRlRHZ1BXU2NZZ25Bb0FFMkRhZUt1RnhRYXJTUzZ3TDRMQUUtUE1wNzE0Zml0QkFFNXIyRFZpSVM4UzRwZXVPaWt0dkNhOWN5NzY5a1B0RGlla0dNMXdiSVpfcG1ob2xXQXV1dm5QbU1OdXM2OU55T0lKMERnaVpIME8tRUlrQVdSRlh6OHQzSHhoSVFnV0JtZFF1U05MbGk1Vml5b1NyOE9rQjRpdFhJSkY0cHVQVXU1OFY5cnIw?oc=5",
-        "published": "18 Mar 2026, 04:41 PM",
-        "iso_date": "2026-03-18T16:41:21+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Announces March 20 as Eid Al-Fitr 2026",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXpNMnB2RjVEMDFJSnppS3N0Ty1NYnZFWlp2dVhCYzZUZ0x1b0hBb3dHWXNadUo3MUNpb0U0ZlpOYWVUYWZFblhCclhJTUJSNG04c25XLW9paEI0Z1dIZE9TSFh0LUV1OGc1NXQxNS1fQnVONnA5Rm9XdTRTY1VfQWFkSzRHVXNZRmxqZ1R5SnJFVkd3elBXMC1scw?oc=5",
         "published": "18 Mar 2026, 04:35 PM",
         "iso_date": "2026-03-18T16:35:56+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaW9aQmRid0dXUXpuU2lEazRtdk9VQ3p4eGZja1kyUEl5VFdyWHVMZUREWnhJNjhaVE4xcjF4aEttY29IdUVSbmgwRGtzOXhYSGlibVNjVkhiM1ZwWUNaQnUwQW5aTXpVc1B4VDdZNWN3VVZwRmVDMFQ4UTJfUWJzZkxyLTBiajc2cnNNaXIxQzF6bmtVeHBqbjVZV0s1TF9IZDF0c0VNdzZvbFVzRWVKR3EycUQ2Tm5QVE5uSW4yM0Y5YmFTdGfSAcYBQVVfeXFMTmlvWkJkYndHV1F6blNpRGs0bXZPVUN6eHhmY2tZMlBJeVRXclh1TGVERFp4STY4WlROMXIxeGhLbWNvSHVFUm5oMERrczl4WEhpYm1TY1ZIYjNWcFlDWkJ1MEFuWk16VXNQeFQ3WTVjd1VWcEZlQzBUOFEyX1Fic2ZMci0wYmo3NnJzTWlyMUMxem5rVXhwam41WVdLNUxfSGQxdHNFTXc2b2xVc0VlSkdxMnFENk5uUFRObkluMjNGOWJhU3Rn?oc=5",
-        "published": "18 Mar 2026, 11:07 PM",
-        "iso_date": "2026-03-18T23:07:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -82,6 +62,16 @@
         "category": "Latest"
       },
       {
+        "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaW9aQmRid0dXUXpuU2lEazRtdk9VQ3p4eGZja1kyUEl5VFdyWHVMZUREWnhJNjhaVE4xcjF4aEttY29IdUVSbmgwRGtzOXhYSGlibVNjVkhiM1ZwWUNaQnUwQW5aTXpVc1B4VDdZNWN3VVZwRmVDMFQ4UTJfUWJzZkxyLTBiajc2cnNNaXIxQzF6bmtVeHBqbjVZV0s1TF9IZDF0c0VNdzZvbFVzRWVKR3EycUQ2Tm5QVE5uSW4yM0Y5YmFTdGfSAcYBQVVfeXFMTmlvWkJkYndHV1F6blNpRGs0bXZPVUN6eHhmY2tZMlBJeVRXclh1TGVERFp4STY4WlROMXIxeGhLbWNvSHVFUm5oMERrczl4WEhpYm1TY1ZIYjNWcFlDWkJ1MEFuWk16VXNQeFQ3WTVjd1VWcEZlQzBUOFEyX1Fic2ZMci0wYmo3NnJzTWlyMUMxem5rVXhwam41WVdLNUxfSGQxdHNFTXc2b2xVc0VlSkdxMnFENk5uUFRObkluMjNGOWJhU3Rn?oc=5",
+        "published": "18 Mar 2026, 11:07 PM",
+        "iso_date": "2026-03-18T23:07:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Interior Ministry: One killed, two injured after fire on vessel at Salman Industrial City",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjgyWFN1RWtHQXhNNkQtRFNMNHBaVXNRXzNvVEpVZXQ1czRoVWRYZTF2SDRWMnZ3S0NYVFBFYUtsUzk1NUdSaUFTTXV0a3Zwa1FZZldJcnBDY1dVWlhwUjFkM0htY3B4ZFByaDlGVVZzRElYcXVJekdMUUZWeFFobTF0b3V2NzVrZXBpb3VPc2Q0OGhhSkluNHh5VzQ0QkZYNVdNMkplbWJOQVROdVQ2YXk1SXZObVVPd3ZFd3ZobDZOWFN4eWo2WlBxb2E3R1N0TkE?oc=5",
         "published": "18 Mar 2026, 05:29 PM",
@@ -92,10 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 134 missiles, 238 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa0cycjUtNFpXNWw1T0taZ1VFek50Q0l5ajBWT1Z5dDV3YTRNOHpBOGlMWkRvLV9FdDdrbjVnWWtUTHllQUFseFJpemZDdVNoM1FlWFBmaEh4WjdPaFdhM1FtU09DSWYyMjFZVWViZGFPeEUxSzYzZTF0ay1lZHZDYjBpNzUtMzhuRGtxZXpBOEUxYndmaUJ0ME5hTmdySHFFemlSMGxZRUFCUDYxNmpxTi1GQkFDcC0wRmt3cGt6aW42MHRLN24w?oc=5",
-        "published": "19 Mar 2026, 10:08 AM",
-        "iso_date": "2026-03-19T10:08:00+00:00",
+        "title": "Bahrain Intercepts, Destroys 134 Missiles, 238 Drones Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2IwQml0QWVzNXU3WTdFT1UtbDVDSDNyT1lCbEcyd0NTaVBETjEtOHE3VDZfNFphX0pLbFpIMUczSGVSNGRZNkQ0cHdFR2s0YWk2cnFMOGx4T2JNUFFfZk85LWhJSndPaFlJcHFLMF95aUo5cVoyeVRXMXNnT214Mkd3X1VOTUVpdldQcERSbmRfZ2N1M0VKRGg0bVl1Zw?oc=5",
+        "published": "19 Mar 2026, 10:15 AM",
+        "iso_date": "2026-03-19T10:15:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -286,10 +276,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Indian Sailors and Ships Secure in Gulf Region, Says Union Government",
-        "link": "https://www.newsofbahrain.com/world/128829.html",
+        "title": "17% of export capacity knocked offline: Qatar",
+        "link": "https://www.newsofbahrain.com/world/128831.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lperQb9Kyn_2026-03-19_1773937178resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Journalists Injured in Israeli Strike Near Al-Qasmiya Bridge in Southern Lebanon",
+        "link": "https://www.newsofbahrain.com/world/128830.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QP9q8LswIp_2026-03-19_1773934940resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Indian Sailors and Ships Secure in Gulf Region, Says Union Government",
+        "link": "https://www.newsofbahrain.com/world/128829.html",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_CFGyxhIH2M_2026-03-19_1773928929resized_pic.jpg",
         "source": "newsofbahrain",
@@ -298,8 +308,8 @@
       {
         "title": "Adnoc CEO says Iran's attacks on Gulf energy are acts of ‘global economic warfare’",
         "link": "https://www.newsofbahrain.com/bahrain/128828.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_vLflHs31Uh_2026-03-19_1773924684resized_pic.jpg",
         "source": "newsofbahrain",
@@ -308,8 +318,8 @@
       {
         "title": "Al Salam Bank Offers Up to Half-Price Discount on Keeta Orders for Its Cardholders",
         "link": "https://www.newsofbahrain.com/business/128827.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_W7eoTAKr5c_2026-03-19_1773923684resized_pic.jpg",
         "source": "newsofbahrain",
@@ -318,20 +328,10 @@
       {
         "title": "Bahrain Condemns Iranian Attack on UAE Gas Facilities",
         "link": "https://www.newsofbahrain.com/bahrain/128826.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_onMk6IFawX_2026-03-19_1773923154resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Condemns Iranian Attacks at NATO Meeting, Warns of Regional Escalation",
-        "link": "https://www.newsofbahrain.com/world/128825.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BU1dq97GHJ_2026-03-19_1773923057resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_onMk6IFawX_2026-03-19_1773923154thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -366,12 +366,12 @@
         "category": "Latest"
       },
       {
-        "title": "Myanmar junta touts surrender of over 500 rebel fighters",
-        "link": "https://www.newsofbahrain.com/world/128815.html",
+        "title": "Qatar Condemns Iranian Attacks at NATO Meeting, Warns of Regional Escalation",
+        "link": "https://www.newsofbahrain.com/world/128825.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nh7AEWLOmt_2026-03-19_1773919758thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BU1dq97GHJ_2026-03-19_1773923057thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 15:11:56 UTC"
+  "fetched_at": "2026-03-19 16:28:53 UTC"
 }
