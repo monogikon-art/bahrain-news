@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,16 +22,6 @@
   "articles": {
     "bna": [
       {
-        "title": "Morocco affirms full solidarity with Arab countries against Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeDZpMG03UllpcWNvS1dqTkJDeDBIRGxLY2QwVUJSS0RtMW9rWURROEt0eGExUGJWSkpYLVZ3aEs5cl9FanZtR2xLMkFlRlRHZ1BXU2NZZ25Bb0FFMkRhZUt1RnhRYXJTUzZ3TDRMQUUtUE1wNzE0Zml0QkFFNXIyRFZpSVM4UzRwZXVPaWt0dkNhOWN5NzY5a1B0RGlla0dNMXdiSVpfcG1ob2xXQXV1dm5QbU1OdXM2OU55T0lKMERnaVpIME8tRUlrQVdSRlh6OHQzSHhoSVFnV0JtZFF1U05MbGk1Vml5b1NyOE9rQjRpdFhJSkY0cHVQVXU1OFY5cnIw?oc=5",
-        "published": "18 Mar 2026, 04:41 PM",
-        "iso_date": "2026-03-18T16:41:21+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Announces March 20 as Eid Al-Fitr 2026",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXpNMnB2RjVEMDFJSnppS3N0Ty1NYnZFWlp2dVhCYzZUZ0x1b0hBb3dHWXNadUo3MUNpb0U0ZlpOYWVUYWZFblhCclhJTUJSNG04c25XLW9paEI0Z1dIZE9TSFh0LUV1OGc1NXQxNS1fQnVONnA5Rm9XdTRTY1VfQWFkSzRHVXNZRmxqZ1R5SnJFVkd3elBXMC1scw?oc=5",
         "published": "18 Mar 2026, 04:35 PM",
@@ -46,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoZXUyUnhFVzhOak5hOEJ2NXFpUDQ4YzZmY1pIemhsODF2c2RXVFRseFRhYl83MDlvR1pqV2EtYlZoMWM3Sk5MdUpuSlNhMXliQVhmSVEzQTkwRmU1cUNGampBTjh5dGtiWXJVUW9mU3BsNGZHM0JjM0s0NWQ?oc=5",
         "published": "19 Mar 2026, 05:12 AM",
         "iso_date": "2026-03-19T05:12:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Leclerc tops F1 pre-season testing in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0xBbU9pMVY1Z3J0QjIwQ3dyVk5ucVVBclhBc2xYbmtfLUtWeVg3ajVLWjA1UVVYNGk0TF9VMTBrbU9tc0s5ZlZhZGxtdnBFVzZ4YmxON2VJeFJMTU1pbTVGR3c5REJ0aXl1b1Y4WEo2VTIzXzBScHQ5cmpZdF9rREQ2WUt2eUtjRHRJdFVvMGVsNEJtTWlSSzhBOUMxX3FxRWpR?oc=5",
+        "published": "18 Mar 2026, 12:45 PM",
+        "iso_date": "2026-03-18T12:45:05+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Leclerc tops F1 pre-season testing in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0xBbU9pMVY1Z3J0QjIwQ3dyVk5ucVVBclhBc2xYbmtfLUtWeVg3ajVLWjA1UVVYNGk0TF9VMTBrbU9tc0s5ZlZhZGxtdnBFVzZ4YmxON2VJeFJMTU1pbTVGR3c5REJ0aXl1b1Y4WEo2VTIzXzBScHQ5cmpZdF9rREQ2WUt2eUtjRHRJdFVvMGVsNEJtTWlSSzhBOUMxX3FxRWpR?oc=5",
-        "published": "18 Mar 2026, 12:45 PM",
-        "iso_date": "2026-03-18T12:45:05+00:00",
+        "title": "Council of Representatives condemns Iranian missile attacks, affirms Bahrain’s right to respond",
+        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQNlN0QTU3dktGU3pVUHVaTXZCTWY5M1Iwa1p1aXdIU2p6SElNQ2xLR09jZ3ktTVY1QXVneFA0ZldPWVB0YUtlT1ZNcEFoUHEwSnRYdFRlRlNmOWwtd0VFZ3QxS1FZWi1fQ3MxQlVaV3M1dGduYXJWaVNRalFuRGVSZ1hXYlFQaVdWQTZ4RVV4cEphYm12TTNsSGl1OWhZN2p6aXRfcmhIUGZhWTdmNkhEV2pncENhMHBCRENxcEhNRThfUFlMMGVZamVTaXNfdEFIU0NUY1Z4TmVsV3J0Vlo0VWFuN2N4UV93SlAwN2E1RHBJTi10SEJQYzM3b0pfUDFqcmxHM0JqZldMWkRaV0k3OFAxS2p1ZXVJUEtkOA?oc=5",
+        "published": "18 Mar 2026, 07:56 AM",
+        "iso_date": "2026-03-18T07:56:22+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -86,6 +86,16 @@
         "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNal9aZmctazJ1VnNPRWswb3JjaG1qX0kwbUU1NzR6N3BlZzh2SEhmQUlKaUJJV0hNWDNsVDdyUTVJSUlaWWRBaWtqQ3kzUkQ5dU01VEx4eDVEU3QzZTlFUjlBRW1zWlp2VXgzNGZaY1EzdXNwazdFVV9nWGNMX2l2d05CODdTY0RneTVZSWtmZGE1enNUNHVucGNFa2tlRS1TU2NoVXlNazVCV3RLaVdDY2dYcEZlX3duWXlwOGtfT2Fsa25Pa1RVaktKdDlyVGthRXRyOGZxWFFzQ3V0M19nX2FxSnJWbTY5VVF5U3BWV0xjcEk4WnEwNWt2YWFyZWhXVXFscGFrZkdtVWxTeHU5TkY4eGhQOFBCaVB1NjVSNW5MUUtMSUNfOV9XeGNablNEblVsRUxadTZfejZfTmpoOHJiWjd4VUt1ZmI1REwxLTRiaFJnbGtqcXhWdEV0Y2xhRWxvZnNlTEJtb2czb0thY19tcGVsZVZIeHZIU25PMjdhaUxBZl8ybk8zcjlyUEpLTHpEb05yX0tGY3VqV3dHa19IUFlQcTg?oc=5",
         "published": "18 Mar 2026, 02:48 PM",
         "iso_date": "2026-03-18T14:48:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGF5Z3dQQk96aTJ1VjVGWGZkVFhZZVc0UG1jaGFDSTA5T3FCM01mdks5TkJmeEtRRUlZR1hsMGRadnpTYzlZQ3FadEpoc0lnajFUWTJYZDh4Sk96VS1ZUlliTnRiaW9KME1nWmJLNFdXWm00WXkwVVlMMjlQb3NTSkQ1dFI0UHo1ekxWTlRlU0lzMjY0U2NEVXdybURUaUhuWml4WG4ycUZzSk0?oc=5",
+        "published": "18 Mar 2026, 11:30 PM",
+        "iso_date": "2026-03-18T23:30:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -104,12 +114,32 @@
         "category": "Latest"
       },
       {
-        "title": "Volunteersâ noble deeds commended",
-        "link": "https://www.gdnonline.com/Details/1379008/Volunteersâ-noble-deeds-commended",
+        "title": "Eid prayers to be held at 6am in designated mosques",
+        "link": "https://www.gdnonline.com/Details/1379045/Eid-prayers-to-be-held-at-6am-in-designated-mosques",
         "published": "19 Mar 2026",
         "iso_date": "2026-03-19T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319_002448_3.jpeg?20260319",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319033133edited34_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Atmosphere âsafeâ",
+        "link": "https://www.gdnonline.com/Details/1379024/Atmosphere-âsafeâ",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/202603190158441-3_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Development and infrastructure projects reviewed",
+        "link": "https://www.gdnonline.com/Details/1379005/Development-and-infrastructure-projects-reviewed-",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319003502deputypm_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -120,26 +150,6 @@
         "iso_date": "2026-03-19T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260319/20260319003036un_T.jpg?20260319",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Supplies of essentials and pricing come under scrutiny",
-        "link": "https://www.gdnonline.com/Details/1379014/Supplies-of-essentials-and-pricing-come-under-scrutiny",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319010657itwo_T.jpg?20260319",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Alosra unveils strategy to safeguard food supplies",
-        "link": "https://www.gdnonline.com/Details/1379007/Alosra-unveils-strategy-to-safeguard-food-supplies",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319_002448_0_T.jpg?20260319",
         "source": "gdn",
         "category": "Latest"
       },
@@ -194,6 +204,16 @@
         "category": "Latest"
       },
       {
+        "title": "Messi scores 900th career goal, joins Ronaldo in elite club",
+        "link": "https://www.gdnonline.com/Details/1379053/Messi-scores-900th-career-goal,-joins-Ronaldo-in-elite-club",
+        "published": "19 Mar 2026",
+        "iso_date": "2026-03-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319100442messi(5)_T.jpg?20260319",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Khaldiya beat Muharraq to lift Super Cup",
         "link": "https://www.gdnonline.com/Details/1379031/Khaldiya-beat-Muharraq-to-lift-Super-Cup",
         "published": "19 Mar 2026",
@@ -234,16 +254,6 @@
         "category": "Latest"
       },
       {
-        "title": "Japan set up title showdown with Australia",
-        "link": "https://www.gdnonline.com/Details/1379034/Japan-set-up-title-showdown-with-Australia",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319032247images(2)_T.jpg?20260319",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "âDune: Part Threeâ trailer lands, a day after sneak peek with Zendaya, director Villeneuve",
         "link": "https://www.gdnonline.com/Details/1378978/âDune-Part-Threeâ-trailer-lands,-a-day-after-sneak-peek-with-Zendaya,-director-Villeneuve",
         "published": "18 Mar 2026",
@@ -276,42 +286,112 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Eid begins tomorrow as Bahrain prepares for celebration of hope and renewal",
-        "link": "https://www.newsofbahrain.com/bahrain/128786.html",
+        "title": "Iran still plans to participate in World Cup but will not travel to US",
+        "link": "https://www.newsofbahrain.com/world/128798.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_laFxPUJd2v_2026-03-19_1773902982resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PhQN5CYKbX_2026-03-19_1773905787resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Beware: He Is Watching You!",
-        "link": "https://www.newsofbahrain.com/views/128785.html",
+        "title": "Iran Accuses UAE of Enabling Attacks, Demands Reparations",
+        "link": "https://www.newsofbahrain.com/world/128797.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jqyZpC0nVc_2026-03-19_1773902009resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WClHQwR9XV_2026-03-19_1773905714resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Cathay Pacific Suspends Dubai, Riyadh Flights Until April 30",
+        "link": "https://www.newsofbahrain.com/world/128796.html",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o0QjW41wyn_2026-03-19_1773905442resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "NATO allies in talks on 'best way' to re-open Hormuz strait",
+        "link": "https://www.newsofbahrain.com/world/128795.html",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_S8xAG7uhb9_2026-03-19_1773905163resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gold price surge and ongoing tensions soften Ramadan trade at Manama Souq",
+        "link": "https://www.newsofbahrain.com/bahrain/128793.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NTGHm64x3q_2026-03-19_1773904592resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Man jailed for fatal road accident in Seef District",
+        "link": "https://www.newsofbahrain.com/bahrain/128792.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9RiEktzM0s_2026-03-19_1773904271thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MP warns of shipping strain and building material shortages in Kingdom",
+        "link": "https://www.newsofbahrain.com/bahrain/128791.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H50KDwlayp_2026-03-19_1773904143thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain promotes values and social responsibility",
+        "link": "https://www.newsofbahrain.com/bahrain/128790.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xhV5UfCMj8_2026-03-19_1773903930thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Waiver of municipal fee arrears for low-income death cases",
+        "link": "https://www.newsofbahrain.com/bahrain/128789.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oBIhlEcxbw_2026-03-19_1773903761thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Stocks fall, oil surges as US inflation jumps and Israel strikes gas facilities",
         "link": "https://www.newsofbahrain.com/business/128784.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BVPQDZ3glj_2026-03-19_1773900601resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BVPQDZ3glj_2026-03-19_1773900601thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain Islamic Bank signs strategic cooperation agreement with NAD Holding Group",
         "link": "https://www.newsofbahrain.com/business/128783.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4dEZXekumU_2026-03-19_1773900195resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4dEZXekumU_2026-03-19_1773900195thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -321,87 +401,7 @@
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bfeuQKyw7O_2026-03-19_1773899902resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Condemns Iranian Attack on Qatar’s Ras Laffan Industrial City",
-        "link": "https://www.newsofbahrain.com/bahrain/128770.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q1A5oh0kVO_2026-03-18_1773876155thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A Pause, Not Goodbye",
-        "link": "https://www.newsofbahrain.com/bahrain/128760.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_usfCP42vjH_2026-03-18_1773852688thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Three Injured in Karbabad House Fire",
-        "link": "https://www.newsofbahrain.com/bahrain/128759.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FUaDBXtfip_2026-03-18_1773848940thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Defence Force Intercepts 130 Missiles, 234 Drones",
-        "link": "https://www.newsofbahrain.com/bahrain/128756.html",
-        "published": "18 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yXTCKczZjR_2026-03-18_1773835278thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump waives shipping law",
-        "link": "https://www.newsofbahrain.com/world/128780.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LxEp2gy04F_2026-03-19_1773899044thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Foils Terror Plot Targeting Vital Facilities",
-        "link": "https://www.newsofbahrain.com/world/128769.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9NHrTJn4cK_2026-03-18_1773875472thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Abu Dhabi Authorities Respond to Missile Interception Incident",
-        "link": "https://www.newsofbahrain.com/world/128768.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1I4xtGfYdm_2026-03-18_1773874450thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Expels Iranian Diplomats, Orders Exit Within 24 Hours",
-        "link": "https://www.newsofbahrain.com/world/128767.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_20igNlIpOs_2026-03-18_1773872815thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bfeuQKyw7O_2026-03-19_1773899902thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -412,6 +412,16 @@
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZKQULNMFdY_2026-03-19_1773898958thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Beware: He Is Watching You!",
+        "link": "https://www.newsofbahrain.com/views/128785.html",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jqyZpC0nVc_2026-03-19_1773902009thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 06:54:50 UTC"
+  "fetched_at": "2026-03-19 07:45:05 UTC"
 }
