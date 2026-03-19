@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -53,7 +53,7 @@
       },
       {
         "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFVyYTBlbFFMUXkxTDZ2LXNGa2FSUkpGckNRbUR6SmFETFBDYmZJRnFfX0NWS3M4dnRFTXhwSlgydUwtU19DcmRFWnhVUDg3dXBoNm9WZWczdjVDSkdES0QxVVFfLTBrUFpPQXVROHRmalVadFdZNlgwUG96OHFxYWtXaXkyUGhFNUVyNEI1TFdlWFRYck5WRzQwbTFyclljR0hrTk1PcjZJSUxBRFA5bUdrT0FLeHNiWDQ3VDJB0gHGAUFVX3lxTE5pb1pCZGJ3R1dRem5TaURrNG12T1VDenh4ZmNrWTJQSXlUV3JYdUxlRERaeEk2OFpUTjFyMXhoS21jb0h1RVJuaDBEa3M5eFhIaWJtU2NWSGIzVnBZQ1pCdTBBblpNelVzUHhUN1k1Y3dVVnBGZUMwVDhRMl9RYnNmTHItMGJqNzZyc01pcjFDMXpua1V4cGpuNVlXSzVMX0hkMXRzRU13Nm9sVXNFZUpHcTJxRDZOblBUTm5JbjIzRjliYVN0Zw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaW9aQmRid0dXUXpuU2lEazRtdk9VQ3p4eGZja1kyUEl5VFdyWHVMZUREWnhJNjhaVE4xcjF4aEttY29IdUVSbmgwRGtzOXhYSGlibVNjVkhiM1ZwWUNaQnUwQW5aTXpVc1B4VDdZNWN3VVZwRmVDMFQ4UTJfUWJzZkxyLTBiajc2cnNNaXIxQzF6bmtVeHBqbjVZV0s1TF9IZDF0c0VNdzZvbFVzRWVKR3EycUQ2Tm5QVE5uSW4yM0Y5YmFTdGfSAcYBQVVfeXFMTmlvWkJkYndHV1F6blNpRGs0bXZPVUN6eHhmY2tZMlBJeVRXclh1TGVERFp4STY4WlROMXIxeGhLbWNvSHVFUm5oMERrczl4WEhpYm1TY1ZIYjNWcFlDWkJ1MEFuWk16VXNQeFQ3WTVjd1VWcEZlQzBUOFEyX1Fic2ZMci0wYmo3NnJzTWlyMUMxem5rVXhwam41WVdLNUxfSGQxdHNFTXc2b2xVc0VlSkdxMnFENk5uUFRObkluMjNGOWJhU3Rn?oc=5",
         "published": "18 Mar 2026, 11:07 PM",
         "iso_date": "2026-03-18T23:07:00+00:00",
         "summary": "",
@@ -72,6 +72,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain intercepts, destroys 139 missiles, 238 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPazZhYTVEZTNuRlgyM3Fkclk4dnRZaW1mRUlJSFViMzBhbDlKbDgzUjRrM0F4T3lOZGtpcXphc2NUaGRQYlZzU0xmSGN4N2pZakxJWWphUlFqeGhrcXhoNmt4U2kzdGFYdklQWHVodGYxTm5UTE1lbXdLVFNjUlduZHRDOENYbUt2RENHc3llZWtFakZscEU0QlYxbkRfUmRvVndMVFU3UkRwUmIzdnQ5WF9kdE5WUTljWi1aSDIwOXJMcm0zaWhV?oc=5",
+        "published": "19 Mar 2026, 10:26 PM",
+        "iso_date": "2026-03-19T22:26:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Intercepts, Destroys 134 Missiles, 238 Drones Since Start Of Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2IwQml0QWVzNXU3WTdFT1UtbDVDSDNyT1lCbEcyd0NTaVBETjEtOHE3VDZfNFphX0pLbFpIMUczSGVSNGRZNkQ0cHdFR2s0YWk2cnFMOGx4T2JNUFFfZk85LWhJSndPaFlJcHFLMF95aUo5cVoyeVRXMXNnT214Mkd3X1VOTUVpdldQcERSbmRfZ2N1M0VKRGg0bVl1Zw?oc=5",
         "published": "19 Mar 2026, 10:15 AM",
@@ -84,12 +94,12 @@
     ],
     "gdn": [
       {
-        "title": "Bahrain prepared to welcome Eid with ample food supplies",
-        "link": "https://www.gdnonline.com/Details/1379100/Bahrain-prepared-to-welcome-Eid-with-ample-food-supplies",
+        "title": "Eid Mubarak!",
+        "link": "https://www.gdnonline.com/Details/1379111/Eid-Mubarak",
         "published": "20 Mar 2026",
         "iso_date": "2026-03-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260319_220553_0.jpeg?20260320",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320004616hmkinghamad_T.jpg?20260320",
         "source": "gdn",
         "category": "Latest"
       },
@@ -104,32 +114,22 @@
         "category": "Latest"
       },
       {
-        "title": "Group gifts goodie bags to attack victims",
-        "link": "https://www.gdnonline.com/Details/1379095/Group-gifts-goodie-bags-to-attack-victims",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/2026031922580212_T.jpg?20260320",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Royal pardon for 300 inmates for Eid Al Fitr",
-        "link": "https://www.gdnonline.com/Details/1379088/Royal-pardon-for-300-inmates-for-Eid-Al-Fitr",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319164822kinghamad2.jpeg?20260320",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Shelter for families affected by Iran attacks in Hidd and Sitra",
         "link": "https://www.gdnonline.com/Details/1379091/Shelter-for-families-affected-by-Iran-attacks-in-Hidd-and-Sitra",
         "published": "20 Mar 2026",
         "iso_date": "2026-03-20T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260320/20260319_220515_2.jpeg?20260320",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "US father recounts ordeal after escaping hotel attack",
+        "link": "https://www.gdnonline.com/Details/1379092/US-father-recounts-ordeal-after-escaping-hotel-attack-",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260319_220519_0.jpeg?20260320",
         "source": "gdn",
         "category": "Latest"
       },
@@ -260,6 +260,16 @@
         "iso_date": "2026-03-18T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260318/20260318154249websize(5)_T.jpg?20260320",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran can choose between a path of death and destruction ... or peace and prosperity",
+        "link": "https://www.gdnonline.com/Details/1379018/Iran-can-choose-between-a-path-of-death-and-destruction--or-peace-and-prosperity",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "",
         "source": "gdn",
         "category": "Latest"
       }
@@ -519,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 22:25:12 UTC"
+  "fetched_at": "2026-03-19 22:55:18 UTC"
 }
