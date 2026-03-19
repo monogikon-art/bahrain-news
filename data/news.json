@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,7 +20,68 @@
     }
   },
   "articles": {
-    "bna": [],
+    "bna": [
+      {
+        "title": "Bahrain: Sweeping Arrests Amid Conflict",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbWhpN1NBNkJyc0JqLWV6Umk0b3Z5Sm0xR18wZFVOcVdhZC1iU3dmU2dzMnVEdTkwcm96TlpocEpIZzRWOHk3TEJKZnNKQUZ1bllrWU1OUFd3M3F3S182MXY4dHh2OVNUcmhDQk5zeFpaMWw0SDNWbGlwNUhRWms?oc=5",
+        "published": "19 Mar 2026, 05:00 AM",
+        "iso_date": "2026-03-19T05:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Ministers discuss Iran escalation during Arab-Islamic talks",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VS21SMExod193QmZJbEZjX2c0QVhXZ1AwTmNBaUdIMEFYVnhQLUsyY2JaWWQ3bWpOaWVwTEdHTWthR2ltaE1QMEVzVDIwSzNkQndR?oc=5",
+        "published": "19 Mar 2026, 07:57 AM",
+        "iso_date": "2026-03-19T07:57:44+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain confirms no abnormal radiation levels after Iranian attack",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNY191ZjlRMVIwempjNWtvLW8xUlZaNlY4U3B0eUZwT2l0Ui1vckNYSmZzZU1QMHBjQlFMaEdiOTZ5ZmdpY20yVVgzZUFsbWlfZUxxNS16bkhZUi1yRUItZnNlNl9HMG9IbXJvcjNmS2VhMml5NXpHeVpUajYtWlBvN0tBMUZEWlZ3aWRaeWNiOXNqdVJ4Ym4xbWZMTjh3RVVpY3l3Z2xTTFNScU14MU9OTDVlcy04b0NUNjFjbDFzaUpZSE9fdWJYd2RmUFMtSExNX2dOQ005NEgxaU8wSkRJSTFEMEdBa2lMZU1RM2ZqRHdhVjVzQ1BGbEwtRkFjU3p6R1VybGE4MVhIakJtQTBZYXNlU3A1SldJeDBRakMtSzZuOUtKNEZ4OXBuWUFPejlUWWJtV1FKeHlKMWczcG9NQmpJT0FGVXpOUWs5b09nT00?oc=5",
+        "published": "19 Mar 2026, 12:20 AM",
+        "iso_date": "2026-03-19T00:20:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Atleast 6 killed due to Israeli air strike in eastern Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFVyYTBlbFFMUXkxTDZ2LXNGa2FSUkpGckNRbUR6SmFETFBDYmZJRnFfX0NWS3M4dnRFTXhwSlgydUwtU19DcmRFWnhVUDg3dXBoNm9WZWczdjVDSkdES0QxVVFfLTBrUFpPQXVROHRmalVadFdZNlgwUG96OHFxYWtXaXkyUGhFNUVyNEI1TFdlWFRYck5WRzQwbTFyclljR0hrTk1PcjZJSUxBRFA5bUdrT0FLeHNiWDQ3VDJB0gHGAUFVX3lxTE5pb1pCZGJ3R1dRem5TaURrNG12T1VDenh4ZmNrWTJQSXlUV3JYdUxlRERaeEk2OFpUTjFyMXhoS21jb0h1RVJuaDBEa3M5eFhIaWJtU2NWSGIzVnBZQ1pCdTBBblpNelVzUHhUN1k1Y3dVVnBGZUMwVDhRMl9RYnNmTHItMGJqNzZyc01pcjFDMXpua1V4cGpuNVlXSzVMX0hkMXRzRU13Nm9sVXNFZUpHcTJxRDZOblBUTm5JbjIzRjliYVN0Zw?oc=5",
+        "published": "18 Mar 2026, 11:07 PM",
+        "iso_date": "2026-03-18T23:07:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOeDQzVER4VlpycFJFTzU3VmpwVGdBUDhNVDlUNlNKMGlqWjNJUVBSX0dTaExIdUJBWEF5S3ZvdDVLN3VvRmZhNVY1czRJSURGNXNjSUxwZ1NFM0NxZG9HUHpfcTdRYkEwaTRqa2phUnJlMnNQWEtkOVRPdWw5b3RReTNFY0JaYUw5Yk1BdzlDcUN6U1IyVzJZbmprVEc3eDRSOEFUUmVaMUNDci1xMUtSTHkyeXJaVHc3cThOWDJwb2ZNcTRnaklIRVdKdFNwYnRDNXV3eFNQM3VpTnl3T3FlWjRWZnhlOGZVSjBfQmQ5WkVaQTlmblBRMjktRjQ5cHJMcjllWC13MkpTYzB3RzNhTk5iLURxQ2pfWWdxN1BnZFplQ1lFWklVeGxRdXlPc1FRNEJyWnJn?oc=5",
+        "published": "19 Mar 2026, 03:14 PM",
+        "iso_date": "2026-03-19T15:14:27+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Intercepts, Destroys 134 Missiles, 238 Drones Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2IwQml0QWVzNXU3WTdFT1UtbDVDSDNyT1lCbEcyd0NTaVBETjEtOHE3VDZfNFphX0pLbFpIMUczSGVSNGRZNkQ0cHdFR2s0YWk2cnFMOGx4T2JNUFFfZk85LWhJSndPaFlJcHFLMF95aUo5cVoyeVRXMXNnT214Mkd3X1VOTUVpdldQcERSbmRfZ2N1M0VKRGg0bVl1Zw?oc=5",
+        "published": "19 Mar 2026, 10:15 AM",
+        "iso_date": "2026-03-19T10:15:08+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
     "gdn": [
       {
         "title": "Royal pardon for 300 inmates for Eid Al Fitr",
@@ -205,6 +266,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Qatar LNG Output Hit by Missile Attacks, $20 Billion Annual Loss Estimated",
+        "link": "https://www.newsofbahrain.com/world/128832.html",
+        "published": "19 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_muChfYO3TI_2026-03-19_1773953676resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "17% of export capacity knocked offline: Qatar",
         "link": "https://www.newsofbahrain.com/world/128831.html",
         "published": "19 Mar 2026, 09:22 AM",
@@ -217,8 +288,8 @@
       {
         "title": "Journalists Injured in Israeli Strike Near Al-Qasmiya Bridge in Southern Lebanon",
         "link": "https://www.newsofbahrain.com/world/128830.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
+        "published": "19 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QP9q8LswIp_2026-03-19_1773934940resized_pic.jpg",
         "source": "newsofbahrain",
@@ -237,20 +308,10 @@
       {
         "title": "Adnoc CEO says Iran's attacks on Gulf energy are acts of ‘global economic warfare’",
         "link": "https://www.newsofbahrain.com/bahrain/128828.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vLflHs31Uh_2026-03-19_1773924684resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Al Salam Bank Offers Up to Half-Price Discount on Keeta Orders for Its Cardholders",
-        "link": "https://www.newsofbahrain.com/business/128827.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W7eoTAKr5c_2026-03-19_1773923684resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vLflHs31Uh_2026-03-19_1773924684resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -295,12 +356,12 @@
         "category": "Latest"
       },
       {
-        "title": "Qatar Condemns Iranian Attacks at NATO Meeting, Warns of Regional Escalation",
-        "link": "https://www.newsofbahrain.com/world/128825.html",
+        "title": "Al Salam Bank Offers Up to Half-Price Discount on Keeta Orders for Its Cardholders",
+        "link": "https://www.newsofbahrain.com/business/128827.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BU1dq97GHJ_2026-03-19_1773923057thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W7eoTAKr5c_2026-03-19_1773923684thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -458,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 20:33:39 UTC"
+  "fetched_at": "2026-03-19 21:32:53 UTC"
 }
