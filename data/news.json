@@ -4,84 +4,23 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 18
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 0
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Bahrain: Sweeping Arrests Amid Conflict",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbWhpN1NBNkJyc0JqLWV6Umk0b3Z5Sm0xR18wZFVOcVdhZC1iU3dmU2dzMnVEdTkwcm96TlpocEpIZzRWOHk3TEJKZnNKQUZ1bllrWU1OUFd3M3F3S182MXY4dHh2OVNUcmhDQk5zeFpaMWw0SDNWbGlwNUhRWms?oc=5",
-        "published": "19 Mar 2026, 05:00 AM",
-        "iso_date": "2026-03-19T05:00:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Ministers discuss Iran escalation during Arab-Islamic talks",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VS21SMExod193QmZJbEZjX2c0QVhXZ1AwTmNBaUdIMEFYVnhQLUsyY2JaWWQ3bWpOaWVwTEdHTWthR2ltaE1QMEVzVDIwSzNkQndR?oc=5",
-        "published": "19 Mar 2026, 07:57 AM",
-        "iso_date": "2026-03-19T07:57:44+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOeDQzVER4VlpycFJFTzU3VmpwVGdBUDhNVDlUNlNKMGlqWjNJUVBSX0dTaExIdUJBWEF5S3ZvdDVLN3VvRmZhNVY1czRJSURGNXNjSUxwZ1NFM0NxZG9HUHpfcTdRYkEwaTRqa2phUnJlMnNQWEtkOVRPdWw5b3RReTNFY0JaYUw5Yk1BdzlDcUN6U1IyVzJZbmprVEc3eDRSOEFUUmVaMUNDci1xMUtSTHkyeXJaVHc3cThOWDJwb2ZNcTRnaklIRVdKdFNwYnRDNXV3eFNQM3VpTnl3T3FlWjRWZnhlOGZVSjBfQmQ5WkVaQTlmblBRMjktRjQ5cHJMcjllWC13MkpTYzB3RzNhTk5iLURxQ2pfWWdxN1BnZFplQ1lFWklVeGxRdXlPc1FRNEJyWnJn?oc=5",
-        "published": "19 Mar 2026, 03:14 PM",
-        "iso_date": "2026-03-19T15:14:27+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain confirms no abnormal radiation levels after Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNY191ZjlRMVIwempjNWtvLW8xUlZaNlY4U3B0eUZwT2l0Ui1vckNYSmZzZU1QMHBjQlFMaEdiOTZ5ZmdpY20yVVgzZUFsbWlfZUxxNS16bkhZUi1yRUItZnNlNl9HMG9IbXJvcjNmS2VhMml5NXpHeVpUajYtWlBvN0tBMUZEWlZ3aWRaeWNiOXNqdVJ4Ym4xbWZMTjh3RVVpY3l3Z2xTTFNScU14MU9OTDVlcy04b0NUNjFjbDFzaUpZSE9fdWJYd2RmUFMtSExNX2dOQ005NEgxaU8wSkRJSTFEMEdBa2lMZU1RM2ZqRHdhVjVzQ1BGbEwtRkFjU3p6R1VybGE4MVhIakJtQTBZYXNlU3A1SldJeDBRakMtSzZuOUtKNEZ4OXBuWUFPejlUWWJtV1FKeHlKMWczcG9NQmpJT0FGVXpOUWs5b09nT00?oc=5",
-        "published": "19 Mar 2026, 12:20 AM",
-        "iso_date": "2026-03-19T00:20:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts, destroys 139 missiles, 238 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPazZhYTVEZTNuRlgyM3Fkclk4dnRZaW1mRUlJSFViMzBhbDlKbDgzUjRrM0F4T3lOZGtpcXphc2NUaGRQYlZzU0xmSGN4N2pZakxJWWphUlFqeGhrcXhoNmt4U2kzdGFYdklQWHVodGYxTm5UTE1lbXdLVFNjUlduZHRDOENYbUt2RENHc3llZWtFakZscEU0QlYxbkRfUmRvVndMVFU3UkRwUmIzdnQ5WF9kdE5WUTljWi1aSDIwOXJMcm0zaWhV?oc=5",
-        "published": "19 Mar 2026, 10:26 PM",
-        "iso_date": "2026-03-19T22:26:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts, Destroys 134 Missiles, 238 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2IwQml0QWVzNXU3WTdFT1UtbDVDSDNyT1lCbEcyd0NTaVBETjEtOHE3VDZfNFphX0pLbFpIMUczSGVSNGRZNkQ0cHdFR2s0YWk2cnFMOGx4T2JNUFFfZk85LWhJSndPaFlJcHFLMF95aUo5cVoyeVRXMXNnT214Mkd3X1VOTUVpdldQcERSbmRfZ2N1M0VKRGg0bVl1Zw?oc=5",
-        "published": "19 Mar 2026, 10:15 AM",
-        "iso_date": "2026-03-19T10:15:08+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
         "title": "Eid Mubarak!",
@@ -234,16 +173,6 @@
         "category": "Latest"
       },
       {
-        "title": "âDune: Part Threeâ trailer lands, a day after sneak peek with Zendaya, director Villeneuve",
-        "link": "https://www.gdnonline.com/Details/1378978/âDune-Part-Threeâ-trailer-lands,-a-day-after-sneak-peek-with-Zendaya,-director-Villeneuve",
-        "published": "18 Mar 2026",
-        "iso_date": "2026-03-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318155556websize(6)_T.jpg?20260320",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "On a mission in space",
         "link": "https://www.gdnonline.com/Details/1378992/On-a-mission-in-space",
         "published": "19 Mar 2026",
@@ -252,160 +181,9 @@
         "image": "https://www.gdnonline.com/gdnimages/20260319/20260318_204527_2_T.jpg?20260320",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Ryan Gosling goes solo in space for film âProject Hail Maryâ",
-        "link": "https://www.gdnonline.com/Details/1378976/Ryan-Gosling-goes-solo-in-space-for-film-âProject-Hail-Maryâ",
-        "published": "18 Mar 2026",
-        "iso_date": "2026-03-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260318/20260318154249websize(5)_T.jpg?20260320",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Qatar LNG Output Hit by Missile Attacks, $20 Billion Annual Loss Estimated",
-        "link": "https://www.newsofbahrain.com/world/128832.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_muChfYO3TI_2026-03-19_1773953676resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "17% of export capacity knocked offline: Qatar",
-        "link": "https://www.newsofbahrain.com/world/128831.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lperQb9Kyn_2026-03-19_1773937178resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Journalists Injured in Israeli Strike Near Al-Qasmiya Bridge in Southern Lebanon",
-        "link": "https://www.newsofbahrain.com/world/128830.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QP9q8LswIp_2026-03-19_1773934940resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Indian Sailors and Ships Secure in Gulf Region, Says Union Government",
-        "link": "https://www.newsofbahrain.com/world/128829.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CFGyxhIH2M_2026-03-19_1773928929resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Adnoc CEO says Iran's attacks on Gulf energy are acts of ‘global economic warfare’",
-        "link": "https://www.newsofbahrain.com/bahrain/128828.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vLflHs31Uh_2026-03-19_1773924684resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Condemns Iranian Attack on UAE Gas Facilities",
-        "link": "https://www.newsofbahrain.com/bahrain/128826.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_onMk6IFawX_2026-03-19_1773923154thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Stronger safeguards move forward as Shura reviews key financial law amendment",
-        "link": "https://www.newsofbahrain.com/bahrain/128821.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fQzVboMwag_2026-03-19_1773922199thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Giving Before Eid",
-        "link": "https://www.newsofbahrain.com/bahrain/128819.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ya8uKSxjsM_2026-03-19_1773921540thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini Man Sentenced to 5 Years for Using Counterfeit Money",
-        "link": "https://www.newsofbahrain.com/bahrain/128818.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W54ueZkHRn_2026-03-19_1773920480thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Al Salam Bank Offers Up to Half-Price Discount on Keeta Orders for Its Cardholders",
-        "link": "https://www.newsofbahrain.com/business/128827.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W7eoTAKr5c_2026-03-19_1773923684thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Stocks fall, oil surges as US inflation jumps and Israel strikes gas facilities",
-        "link": "https://www.newsofbahrain.com/business/128784.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BVPQDZ3glj_2026-03-19_1773900601thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Islamic Bank signs strategic cooperation agreement with NAD Holding Group",
-        "link": "https://www.newsofbahrain.com/business/128783.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4dEZXekumU_2026-03-19_1773900195thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BFM shareholders approve cash dividends of BHD 620,620 for FY 2025",
-        "link": "https://www.newsofbahrain.com/business/128782.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bfeuQKyw7O_2026-03-19_1773899902thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Beware: He Is Watching You!",
-        "link": "https://www.newsofbahrain.com/views/128785.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jqyZpC0nVc_2026-03-19_1773902009thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -519,5 +297,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-19 23:53:18 UTC"
+  "fetched_at": "2026-03-20 01:52:20 UTC"
 }
