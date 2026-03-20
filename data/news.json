@@ -236,10 +236,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Switzerland Halts Arms Export Approvals to US Over Iran Conflict",
-        "link": "https://www.newsofbahrain.com/world/128886.html",
+        "title": "Trump Calls NATO Allies “Cowards” Amid Iran Conflict",
+        "link": "https://www.newsofbahrain.com/world/128888.html",
         "published": "20 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_R50PdVEvbu_2026-03-20_1774024195resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India–Bahrain Leaders Exchange Eid Greetings, Review West Asia Situation",
+        "link": "https://www.newsofbahrain.com/bahrain/128887.html",
+        "published": "20 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9zvmWCapRH_2026-03-20_1774024068resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Switzerland Halts Arms Export Approvals to US Over Iran Conflict",
+        "link": "https://www.newsofbahrain.com/world/128886.html",
+        "published": "20 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-20T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_2MPmJ4AkyN_2026-03-20_1774014698resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +268,8 @@
       {
         "title": "Germany Eases Arms Export Rules to Gulf States and Ukraine",
         "link": "https://www.newsofbahrain.com/world/128885.html",
-        "published": "20 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-20T09:22:55+00:00",
+        "published": "20 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-20T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_OdbfymJhGr_2026-03-20_1774014674resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +278,8 @@
       {
         "title": "$200 Billion Iran War Funding Request Faces Backlash in US Congress",
         "link": "https://www.newsofbahrain.com/world/128884.html",
-        "published": "20 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-20T09:00:43+00:00",
+        "published": "20 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_UuDfmT0Lbw_2026-03-20_1774014646resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,20 +288,10 @@
       {
         "title": "HM King Hamad bin Isa Al Khalifa Performs Eid Prayer",
         "link": "https://www.newsofbahrain.com/bahrain/128883.html",
-        "published": "20 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://img.youtube.com/vi/Urb_N1cGvuU/hqdefault.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sri Lanka Rejected Early March Landing Requests for US Warplanes, Says President Dissanayake",
-        "link": "https://www.newsofbahrain.com/world/128880.html",
         "published": "20 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_46cKCl5MRU_2026-03-20_1774009083resized_pic.jpg",
+        "image": "https://img.youtube.com/vi/Urb_N1cGvuU/hqdefault.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,16 +322,6 @@
         "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_KMqTzLj4wY_2026-03-20_1774004923thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Accountants Association Condemns Iranian Attack",
-        "link": "https://www.newsofbahrain.com/bahrain/128862.html",
-        "published": "20 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5aftIiVuAy_2026-03-20_1773994843thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-20 15:40:09 UTC"
+  "fetched_at": "2026-03-20 16:39:28 UTC"
 }
