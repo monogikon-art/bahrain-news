@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "Gulf Air extends Dammam ops amid Bahrain closure - ch",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWh1RjNaSUhsaS12NWZWa1dDSEJEVmE5RHoxSUNQcFR0eU1kVXJZMUp6Y3dTakpJaUk4b0tZcG1DTmduXzN2eXZaQklOY05IMmxrM2xFcWRMdUs4MkR4bU1Dd0YwSW94RmFVcXkxZm1xUjVweTdIY1U1cm9HbVRlTWVWQi1UYlZ2aXYtV3VtTFdhZw?oc=5",
+        "published": "20 Mar 2026, 06:19 AM",
+        "iso_date": "2026-03-20T06:19:32+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain intercepts 141 missiles and 242 drones since start of Iranian aggression",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4akQtTGNDRVVyeVZxdmhKY2NBVDFLakV3NXNicU5uMGJaMEt4SXBOb1NrdHZGN2ZaRW1xV3J2TDhrVHduOVFVcUNHaWw4QVZFQU5N?oc=5",
         "published": "20 Mar 2026, 12:38 PM",
@@ -52,10 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 139 missiles, 238 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS2s5QUhRUXRMN3dRRVlpQUNpekJqZUtySjZuRjE1UmdCQmQ3VldIaUxYVHV1SWJYT3B0cEMyYmVGa3NIdlZlVnlhY1FTU2VMWGEzZG9OVWZhUm5UVUdhYnNaOW5RRWNyekZpdkF5NTh3SDFVeTZzUkhHQnZmYzU4M3IxS0xURjZHXzN4UldFWkc5eFdkUTBpOERBeklEejJGT1hGT1VkcFNkME1SMHNLSUkwNk5hRmtUb3Z2R3dOOEJsWEFRY1ZYU0drZS0wS1RDTXhIX01rSmpOQ2hqVFQ3cXNsbTbSAeQBQVVfeXFMTktrOUFIUVF0TDd3UUVZaUFDaXpCamVLcko2bkYxNVJnQkJkN1ZXSGlMWFR1dUliWE9wdHBDMmJlRmtzSHZWZVZ5YWNRU1NlTFhhM2RvTlVmYVJuVFVHYWJzWjluUUVjcnpGaXZBeTU4d0gxVXk2c1JIR0J2ZmM1ODNyMUtMVEY2R18zeFJXRVpHOXhXZFEwaThEQXpJRHoyRk9YRk9VZHBTZDBNUjBzS0lJMDZOYUZrVG92dkd3TjhCbFhBUWNWWFNHa2UtMEtUQ014SF9Na0pqTkNoalRUN3FzbG02?oc=5",
-        "published": "19 Mar 2026, 10:34 PM",
-        "iso_date": "2026-03-19T22:34:06+00:00",
+        "title": "Saudi air defenses intercept 27 drones since early Eid morning",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGN0Y21iOUhIcEZNWWszcnNVV0FyODd6YnRfWHplbGM4bHFCQ0xQclJlWWlOUjA0b1FfalBjV2l4UWowVWdsaVZDZzZQLUZJdDJSVHlYRE5lOXQ0a3FxeTlhSlFER0o1U2FNclJjZXQ4N3Fid3IyLVBoc3lFN3laX3lWQkgtXzQyblVUb2VpS0V2a1dyYnZjMVpsaHJwQTIxM21EUENwbjljWEdwblhMQVp6M0k?oc=5",
+        "published": "20 Mar 2026, 05:15 PM",
+        "iso_date": "2026-03-20T17:15:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts139 missiles, 238 drones since start of attacks",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oQk9IeXhrVnoyaEJ4SEVCeFdvV2ZuNzZfdXh5YTRjVnk1LW9XSG1ZRXlqX2ZMSzl6SnA4MDBIc3N2aUh1bmZkN0pFYnVOWjRQVkl4a0I5R1VyX09N?oc=5",
+        "published": "19 Mar 2026, 11:02 PM",
+        "iso_date": "2026-03-19T23:02:14+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -74,52 +94,52 @@
     ],
     "gdn": [
       {
-        "title": "HM King receives phone call from Indian Prime Minister Modi",
-        "link": "https://www.gdnonline.com/Details/1379179/HM-King-receives-phone-call-from-Indian-Prime-Minister-Modi",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
+        "title": "Legislators push to fast-track Nurana Island infrastructure",
+        "link": "https://www.gdnonline.com/Details/1379187/Legislators-push-to-fast-track-Nurana-Island-infrastructure",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320200650websitesize(1)_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321005250ntwo_T.jpg?20260321",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Eight rescued from fire at a multi-storey residential building in Amwaj",
-        "link": "https://www.gdnonline.com/Details/1379176/Eight-rescued-from-fire-at-a-multi-storey-residential-building-in-Amwaj",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
+        "title": "Rainwater harvesting call",
+        "link": "https://www.gdnonline.com/Details/1379185/Rainwater-harvesting-call",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320164113fire_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321004933carsone_T.jpg?20260321",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "HM King performs Eid Al Fitr prayers",
-        "link": "https://www.gdnonline.com/Details/1379162/HM-King-performs-Eid-Al-Fitr-prayers",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
+        "title": "Charities step up Eid support despite turmoil",
+        "link": "https://www.gdnonline.com/Details/1379180/Charities-step-up-Eid-support-despite-turmoil",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320113853king1(4)_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260320_223407_0_T.jpg?20260321",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Eid Mubarak!",
-        "link": "https://www.gdnonline.com/Details/1379111/Eid-Mubarak",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
+        "title": "Iranian aggression condemned",
+        "link": "https://www.gdnonline.com/Details/1379181/Iranian-aggression-condemned",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320004616hmkinghamad_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320225324baaa_T.jpg?20260321",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Civil Defence tackle warehouse fire",
-        "link": "https://www.gdnonline.com/Details/1379141/Civil-Defence-tackle-warehouse-fire",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
+        "title": "Man jailed for death crash",
+        "link": "https://www.gdnonline.com/Details/1379182/Man-jailed-for-death-crash",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320083638moi1231_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320225051jail_T.jpg?20260321",
         "source": "gdn",
         "category": "Latest"
       },
@@ -236,6 +256,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Joins Global Statement on Strait of Hormuz Tensions",
+        "link": "https://www.newsofbahrain.com/bahrain/128894.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CNPJR10GA6_2026-03-20_1774045644resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Trump Signals Possible Wind-Down of U.S. Military Efforts in Middle East",
         "link": "https://www.newsofbahrain.com/world/128893.html",
         "published": "21 Mar 2026, 09:22 AM",
@@ -248,8 +278,8 @@
       {
         "title": "Trump: “No Ceasefire” With Iran",
         "link": "https://www.newsofbahrain.com/world/128892.html",
-        "published": "20 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-20T09:22:55+00:00",
+        "published": "20 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-20T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_w0dlyhc64k_2026-03-20_1774039053resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,20 +298,10 @@
       {
         "title": "Air India, Air India Express to Operate 42 Flights",
         "link": "https://www.newsofbahrain.com/world/128890.html",
-        "published": "20 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WZEHyvK60X_2026-03-20_1774030414resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Files ICAO Complaint Over Airspace Crisis",
-        "link": "https://www.newsofbahrain.com/world/128889.html",
         "published": "20 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J7LMupVtKY_2026-03-20_1774027264resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WZEHyvK60X_2026-03-20_1774030414resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,16 +342,6 @@
         "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_w8Wz3gdeTS_2026-03-20_1774005297thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "No More Turning Back as Chamber Moves to Ease Voting Barriers",
-        "link": "https://www.newsofbahrain.com/bahrain/128875.html",
-        "published": "20 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KMqTzLj4wY_2026-03-20_1774004923thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-20 22:25:01 UTC"
+  "fetched_at": "2026-03-20 22:55:44 UTC"
 }
