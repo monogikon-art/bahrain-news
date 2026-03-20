@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -236,6 +236,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Air India, Air India Express to Operate 42 Flights",
+        "link": "https://www.newsofbahrain.com/world/128890.html",
+        "published": "20 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WZEHyvK60X_2026-03-20_1774030414resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Qatar Files ICAO Complaint Over Airspace Crisis",
         "link": "https://www.newsofbahrain.com/world/128889.html",
         "published": "20 Mar 2026, 09:22 AM",
@@ -248,8 +258,8 @@
       {
         "title": "Trump Calls NATO Allies “Cowards” Amid Iran Conflict",
         "link": "https://www.newsofbahrain.com/world/128888.html",
-        "published": "20 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-20T09:22:55+00:00",
+        "published": "20 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-20T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_R50PdVEvbu_2026-03-20_1774024195resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,20 +278,10 @@
       {
         "title": "Switzerland Halts Arms Export Approvals to US Over Iran Conflict",
         "link": "https://www.newsofbahrain.com/world/128886.html",
-        "published": "20 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2MPmJ4AkyN_2026-03-20_1774014698resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Germany Eases Arms Export Rules to Gulf States and Ukraine",
-        "link": "https://www.newsofbahrain.com/world/128885.html",
         "published": "20 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OdbfymJhGr_2026-03-20_1774014674resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2MPmJ4AkyN_2026-03-20_1774014698resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,16 +352,6 @@
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_BVPQDZ3glj_2026-03-19_1773900601thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Islamic Bank signs strategic cooperation agreement with NAD Holding Group",
-        "link": "https://www.newsofbahrain.com/business/128783.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4dEZXekumU_2026-03-19_1773900195thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-20 17:33:48 UTC"
+  "fetched_at": "2026-03-20 18:43:20 UTC"
 }
