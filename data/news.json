@@ -74,6 +74,16 @@
     ],
     "gdn": [
       {
+        "title": "Eight rescued from fire at a multi-storey residential building in Amwaj",
+        "link": "https://www.gdnonline.com/Details/1379176/Eight-rescued-from-fire-at-a-multi-storey-residential-building-in-Amwaj",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320164113fire_T.jpg?20260320",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "HM King performs Eid Al Fitr prayers",
         "link": "https://www.gdnonline.com/Details/1379162/HM-King-performs-Eid-Al-Fitr-prayers",
         "published": "20 Mar 2026",
@@ -110,16 +120,6 @@
         "iso_date": "2026-03-20T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260320/20260319_220519_0.jpeg?20260320",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Strait of Hormuz traffic âdips to 100 shipsâ",
-        "link": "https://www.gdnonline.com/Details/1379093/Strait-of-Hormuz-traffic-âdips-to-100-shipsâ",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/202603192301542_T.jpg?20260320",
         "source": "gdn",
         "category": "Latest"
       },
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-20 13:59:46 UTC"
+  "fetched_at": "2026-03-20 14:53:21 UTC"
 }
