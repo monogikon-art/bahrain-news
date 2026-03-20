@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 17
     }
   },
   "articles": {
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS2s5QUhRUXRMN3dRRVlpQUNpekJqZUtySjZuRjE1UmdCQmQ3VldIaUxYVHV1SWJYT3B0cEMyYmVGa3NIdlZlVnlhY1FTU2VMWGEzZG9OVWZhUm5UVUdhYnNaOW5RRWNyekZpdkF5NTh3SDFVeTZzUkhHQnZmYzU4M3IxS0xURjZHXzN4UldFWkc5eFdkUTBpOERBeklEejJGT1hGT1VkcFNkME1SMHNLSUkwNk5hRmtUb3Z2R3dOOEJsWEFRY1ZYU0drZS0wS1RDTXhIX01rSmpOQ2hqVFQ3cXNsbTbSAeQBQVVfeXFMTktrOUFIUVF0TDd3UUVZaUFDaXpCamVLcko2bkYxNVJnQkJkN1ZXSGlMWFR1dUliWE9wdHBDMmJlRmtzSHZWZVZ5YWNRU1NlTFhhM2RvTlVmYVJuVFVHYWJzWjluUUVjcnpGaXZBeTU4d0gxVXk2c1JIR0J2ZmM1ODNyMUtMVEY2R18zeFJXRVpHOXhXZFEwaThEQXpJRHoyRk9YRk9VZHBTZDBNUjBzS0lJMDZOYUZrVG92dkd3TjhCbFhBUWNWWFNHa2UtMEtUQ014SF9Na0pqTkNoalRUN3FzbG02?oc=5",
         "published": "19 Mar 2026, 10:34 PM",
         "iso_date": "2026-03-19T22:34:06+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Drone strikes hit two Kuwait refineries, fires contained without injuries",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlRWTHhJTlhBMGVRd0lKWDl4T1ZNbFZSRHJSX2dXUUpMY0RVZ3lrN0puUE1Ud0RpTk9vRExMMW9TTk5TVXNMOFhJbnZGXzNneWV2bk1QMXVQdnFpczFWSmhWdnl1c1hJNVBpQ2JyOXRKN2tObFNhSFEyZ2duLUp1eVN1NU5hRmZCZDhaYU83eDB1T1g4YkgyM3ktTDBVS1JLUjV5bXhPWWJzS2l2d0x2MFFsZ0ZmckFtOVR1TFdvTElkZw?oc=5",
+        "published": "19 Mar 2026, 02:50 PM",
+        "iso_date": "2026-03-19T14:50:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,52 +236,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Barcelona, Liverpool, Bayern and Atletico reach Champions League quarter-finals",
-        "link": "https://www.newsofbahrain.com/sports/128865.html",
+        "title": "Tanker hit off UAE near Hormuz Strait",
+        "link": "https://www.newsofbahrain.com/world/128874.html",
         "published": "20 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AlT1SUhDLC_2026-03-20_1773995596resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Rgl9ihdwmP_2026-03-20_1773998142resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UN Secretary General Guterres Calls on Iran to Stop Attacks",
-        "link": "https://www.newsofbahrain.com/world/128864.html",
+        "title": "Oman foreign minister slams US war on Iran, blames Israel",
+        "link": "https://www.newsofbahrain.com/world/128873.html",
         "published": "20 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J1UuHRnEmz_2026-03-20_1773995076resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1xBOXtqESL_2026-03-20_1773997863resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Ramadan Charity Initiatives at BhavansBahrain Indian School",
-        "link": "https://www.newsofbahrain.com/views/128863.html",
+        "title": "EU summit fails to rally Orban behind stalled Ukraine loan",
+        "link": "https://www.newsofbahrain.com/world/128872.html",
         "published": "20 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-20T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kM5iZAU4X2_2026-03-20_1773995004resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UHPSwpVOi5_2026-03-20_1773997734resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Super Al Khaldiya Cruise Past Muharraq",
+        "link": "https://www.newsofbahrain.com/sports/128871.html",
+        "published": "20 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-20T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YIauH4F0c9_2026-03-20_1773996725resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "World Cup to 'go ahead as scheduled' amid Iran uncertainty",
+        "link": "https://www.newsofbahrain.com/sports/128870.html",
+        "published": "20 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h240wzoGFj_2026-03-20_1773996634resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain Accountants Association Condemns Iranian Attack",
         "link": "https://www.newsofbahrain.com/bahrain/128862.html",
-        "published": "20 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5aftIiVuAy_2026-03-20_1773994843resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump’s Pearl Harbour Remark Creates Awkward Moment with Japan PM",
-        "link": "https://www.newsofbahrain.com/world/128861.html",
         "published": "20 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c82Vy75T1t_2026-03-20_1773994565resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5aftIiVuAy_2026-03-20_1773994843thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -316,22 +336,12 @@
         "category": "Latest"
       },
       {
-        "title": "Iran: US intel chief sidesteps Trump ‘imminent threat’ claim",
-        "link": "https://www.newsofbahrain.com/world/128858.html",
+        "title": "IRGC Spokesman Ali Mohammad Naini Killed in US-Israeli Strikes",
+        "link": "https://www.newsofbahrain.com/world/128869.html",
         "published": "20 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uvFK94Aita_2026-03-20_1773994305thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "No Set End to Iran War as US Prepares Major Offensive: Hegseth",
-        "link": "https://www.newsofbahrain.com/world/128857.html",
-        "published": "20 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_apAYGw3rlg_2026-03-20_1773994672thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nN8TwRS3Dz_2026-03-20_1773996494thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -372,6 +382,16 @@
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_4dEZXekumU_2026-03-19_1773900195thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ramadan Charity Initiatives at BhavansBahrain Indian School",
+        "link": "https://www.newsofbahrain.com/views/128863.html",
+        "published": "20 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-20T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kM5iZAU4X2_2026-03-20_1773995004thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-20 08:36:52 UTC"
+  "fetched_at": "2026-03-20 09:37:54 UTC"
 }
