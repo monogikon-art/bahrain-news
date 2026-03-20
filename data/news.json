@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VS21SMExod193QmZJbEZjX2c0QVhXZ1AwTmNBaUdIMEFYVnhQLUsyY2JaWWQ3bWpOaWVwTEdHTWthR2ltaE1QMEVzVDIwSzNkQndR?oc=5",
         "published": "19 Mar 2026, 07:57 AM",
         "iso_date": "2026-03-19T07:57:44+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone strikes hit two Kuwait refineries, fires contained without injuries",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlRWTHhJTlhBMGVRd0lKWDl4T1ZNbFZSRHJSX2dXUUpMY0RVZ3lrN0puUE1Ud0RpTk9vRExMMW9TTk5TVXNMOFhJbnZGXzNneWV2bk1QMXVQdnFpczFWSmhWdnl1c1hJNVBpQ2JyOXRKN2tObFNhSFEyZ2duLUp1eVN1NU5hRmZCZDhaYU83eDB1T1g4YkgyM3ktTDBVS1JLUjV5bXhPWWJzS2l2d0x2MFFsZ0ZmckFtOVR1TFdvTElkZw?oc=5",
-        "published": "19 Mar 2026, 02:50 PM",
-        "iso_date": "2026-03-19T14:50:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,6 +236,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Drone Attack Sparks Fire at Kuwait’s Mina Al-Ahmadi Refinery",
+        "link": "https://www.newsofbahrain.com/world/128836.html",
+        "published": "20 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Jkp6SbQOK5_2026-03-20_1773989429resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Leads GCC Talks in Washington on Regional Security",
+        "link": "https://www.newsofbahrain.com/bahrain/128835.html",
+        "published": "20 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7GmCWEMZis_2026-03-20_1773988938resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Civil Defence Extinguishes Warehouse Fire Following Iranian Attack",
+        "link": "https://www.newsofbahrain.com/bahrain/128834.html",
+        "published": "20 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-20T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9PRjCYh6d3_2026-03-20_1773988762resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Welcomes Eid Al-Fitr with Light Rain and Pleasant Weather",
+        "link": "https://www.newsofbahrain.com/bahrain/128833.html",
+        "published": "20 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-20T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O90gaoEnX1_2026-03-20_1773988353resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Qatar LNG Output Hit by Missile Attacks, $20 Billion Annual Loss Estimated",
         "link": "https://www.newsofbahrain.com/world/128832.html",
         "published": "19 Mar 2026, 09:22 AM",
@@ -256,42 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "17% of export capacity knocked offline: Qatar",
-        "link": "https://www.newsofbahrain.com/world/128831.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lperQb9Kyn_2026-03-19_1773937178resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Journalists Injured in Israeli Strike Near Al-Qasmiya Bridge in Southern Lebanon",
-        "link": "https://www.newsofbahrain.com/world/128830.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QP9q8LswIp_2026-03-19_1773934940resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Indian Sailors and Ships Secure in Gulf Region, Says Union Government",
-        "link": "https://www.newsofbahrain.com/world/128829.html",
-        "published": "19 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CFGyxhIH2M_2026-03-19_1773928929resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Adnoc CEO says Iran's attacks on Gulf energy are acts of ‘global economic warfare’",
         "link": "https://www.newsofbahrain.com/bahrain/128828.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vLflHs31Uh_2026-03-19_1773924684resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vLflHs31Uh_2026-03-19_1773924684thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,32 +306,22 @@
         "category": "Latest"
       },
       {
-        "title": "Stronger safeguards move forward as Shura reviews key financial law amendment",
-        "link": "https://www.newsofbahrain.com/bahrain/128821.html",
+        "title": "17% of export capacity knocked offline: Qatar",
+        "link": "https://www.newsofbahrain.com/world/128831.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fQzVboMwag_2026-03-19_1773922199thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lperQb9Kyn_2026-03-19_1773937178thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Giving Before Eid",
-        "link": "https://www.newsofbahrain.com/bahrain/128819.html",
+        "title": "Journalists Injured in Israeli Strike Near Al-Qasmiya Bridge in Southern Lebanon",
+        "link": "https://www.newsofbahrain.com/world/128830.html",
         "published": "19 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ya8uKSxjsM_2026-03-19_1773921540thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini Man Sentenced to 5 Years for Using Counterfeit Money",
-        "link": "https://www.newsofbahrain.com/bahrain/128818.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W54ueZkHRn_2026-03-19_1773920480thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QP9q8LswIp_2026-03-19_1773934940thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-20 05:33:51 UTC"
+  "fetched_at": "2026-03-20 06:51:19 UTC"
 }
