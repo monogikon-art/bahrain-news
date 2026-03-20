@@ -42,16 +42,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain: Sweeping Arrests Amid Conflict, HRW Says",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZE9zbUdFNC1zaTlidk51d1U0MmVHSWRmR3EyOWRjOXJ4cEt3TnBQOGltd1Rod3dnekF6cHBscGFObnBWT0xnX2xKUkNDRHZ2dHRISDQxQzJBalZaZjNFWlI2RnV3MGlRdjRTU2o0T0xIOGFlYjFGTTllVUVkd1dKSE5xaFZYWmJ5ZzM2bzF5WHo?oc=5",
-        "published": "19 Mar 2026, 11:43 PM",
-        "iso_date": "2026-03-19T23:43:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain intercepts 141 missiles and 242 drones since start of Iranian aggression",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4akQtTGNDRVVyeVZxdmhKY2NBVDFLakV3NXNicU5uMGJaMEt4SXBOb1NrdHZGN2ZaRW1xV3J2TDhrVHduOVFVcUNHaWw4QVZFQU5N?oc=5",
         "published": "20 Mar 2026, 12:38 PM",
@@ -76,6 +66,16 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOek01ektfRURMTW5sa3VSTnJLdDRxZEh6RnFUN2VCREZreENib3NIV3Roa0ZZVEJQX2pzMUxWM3hUS3FZTk5wZmNNaXlydXQ3NTFoV1k4NTAxeS1DVHlobGJvMEJhdmY5aEVEbEk5VGVTd1BOdDhTMXFEa3JXVENha3FTWjRaMWpITHJlZnphWmhCWmdjVjJKNTFkemQ2THUtdW5OcDZCaGpoQno4MVc0WHFmS0F3Zw?oc=5",
         "published": "20 Mar 2026, 10:04 AM",
         "iso_date": "2026-03-20T10:04:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
+        "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQTUlsRVg0YU9OOFp3S3F1bll3ZjNBSEk0NDFSUWx2Q3dyM1FBRGZrM1BZajVTUVRnUy1Da0pnRDVHVXdZX1huS1gteVBRaTBhdVAzeWhQSVFYbU1vSWZ0dGpXMkVQZnB4Y3BnWFFrMWVoN2RMYVRPc2c5MUdKaGNFeWhUSU5HdFNPN3g3eEFYT05KcUVscEQ0bVJLb2ZtbGRobGd2X0hDSTRtemZxUjRTS1F0aldDX0pyM3hiQjdTYjZiRE9tX1FoWlRVdGhmQ1hpb1BhSURlaF81bXFOdDZKM2VkUjNFNVM5Tjl2TXRCbW52TUtmTjA0NTVXdWR3MXcxVEFLTFlPamZuSGRZMUMwQlgyNjI1TEt0ZGpPUXF1ckdSbjEtVTRjVTFGSU01RWNlQVZzMmlJc0FibEtwUVdGcHVRb2NhSHlhcGdvVWpTYzZZRUJxSXZKSHRLVWZmckEwbEYybmZENA?oc=5",
+        "published": "20 Mar 2026, 01:14 PM",
+        "iso_date": "2026-03-20T13:14:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -124,12 +124,12 @@
         "category": "Latest"
       },
       {
-        "title": "Man jailed for death crash",
-        "link": "https://www.gdnonline.com/Details/1379182/Man-jailed-for-death-crash",
+        "title": "King performs prayers",
+        "link": "https://www.gdnonline.com/Details/1379198/King-performs-prayers",
         "published": "21 Mar 2026",
         "iso_date": "2026-03-21T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320225051jail_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321012306two_T.jpg?20260321",
         "source": "gdn",
         "category": "Latest"
       },
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-20 23:26:03 UTC"
+  "fetched_at": "2026-03-20 23:51:45 UTC"
 }
