@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,6 +32,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain intercepts, destroys 139 missiles, 238 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS2s5QUhRUXRMN3dRRVlpQUNpekJqZUtySjZuRjE1UmdCQmQ3VldIaUxYVHV1SWJYT3B0cEMyYmVGa3NIdlZlVnlhY1FTU2VMWGEzZG9OVWZhUm5UVUdhYnNaOW5RRWNyekZpdkF5NTh3SDFVeTZzUkhHQnZmYzU4M3IxS0xURjZHXzN4UldFWkc5eFdkUTBpOERBeklEejJGT1hGT1VkcFNkME1SMHNLSUkwNk5hRmtUb3Z2R3dOOEJsWEFRY1ZYU0drZS0wS1RDTXhIX01rSmpOQ2hqVFQ3cXNsbTbSAeQBQVVfeXFMTktrOUFIUVF0TDd3UUVZaUFDaXpCamVLcko2bkYxNVJnQkJkN1ZXSGlMWFR1dUliWE9wdHBDMmJlRmtzSHZWZVZ5YWNRU1NlTFhhM2RvTlVmYVJuVFVHYWJzWjluUUVjcnpGaXZBeTU4d0gxVXk2c1JIR0J2ZmM1ODNyMUtMVEY2R18zeFJXRVpHOXhXZFEwaThEQXpJRHoyRk9YRk9VZHBTZDBNUjBzS0lJMDZOYUZrVG92dkd3TjhCbFhBUWNWWFNHa2UtMEtUQ014SF9Na0pqTkNoalRUN3FzbG02?oc=5",
+        "published": "19 Mar 2026, 10:34 PM",
+        "iso_date": "2026-03-19T22:34:06+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Ministers discuss Iran escalation during Arab-Islamic talks",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VS21SMExod193QmZJbEZjX2c0QVhXZ1AwTmNBaUdIMEFYVnhQLUsyY2JaWWQ3bWpOaWVwTEdHTWthR2ltaE1QMEVzVDIwSzNkQndR?oc=5",
         "published": "19 Mar 2026, 07:57 AM",
@@ -42,20 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOeDQzVER4VlpycFJFTzU3VmpwVGdBUDhNVDlUNlNKMGlqWjNJUVBSX0dTaExIdUJBWEF5S3ZvdDVLN3VvRmZhNVY1czRJSURGNXNjSUxwZ1NFM0NxZG9HUHpfcTdRYkEwaTRqa2phUnJlMnNQWEtkOVRPdWw5b3RReTNFY0JaYUw5Yk1BdzlDcUN6U1IyVzJZbmprVEc3eDRSOEFUUmVaMUNDci1xMUtSTHkyeXJaVHc3cThOWDJwb2ZNcTRnaklIRVdKdFNwYnRDNXV3eFNQM3VpTnl3T3FlWjRWZnhlOGZVSjBfQmQ5WkVaQTlmblBRMjktRjQ5cHJMcjllWC13MkpTYzB3RzNhTk5iLURxQ2pfWWdxN1BnZFplQ1lFWklVeGxRdXlPc1FRNEJyWnJn?oc=5",
-        "published": "19 Mar 2026, 03:14 PM",
-        "iso_date": "2026-03-19T15:14:27+00:00",
+        "title": "Drone strikes hit two Kuwait refineries, fires contained without injuries",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlRWTHhJTlhBMGVRd0lKWDl4T1ZNbFZSRHJSX2dXUUpMY0RVZ3lrN0puUE1Ud0RpTk9vRExMMW9TTk5TVXNMOFhJbnZGXzNneWV2bk1QMXVQdnFpczFWSmhWdnl1c1hJNVBpQ2JyOXRKN2tObFNhSFEyZ2duLUp1eVN1NU5hRmZCZDhaYU83eDB1T1g4YkgyM3ktTDBVS1JLUjV5bXhPWWJzS2l2d0x2MFFsZ0ZmckFtOVR1TFdvTElkZw?oc=5",
+        "published": "19 Mar 2026, 02:50 PM",
+        "iso_date": "2026-03-19T14:50:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 139 missiles, 238 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS2s5QUhRUXRMN3dRRVlpQUNpekJqZUtySjZuRjE1UmdCQmQ3VldIaUxYVHV1SWJYT3B0cEMyYmVGa3NIdlZlVnlhY1FTU2VMWGEzZG9OVWZhUm5UVUdhYnNaOW5RRWNyekZpdkF5NTh3SDFVeTZzUkhHQnZmYzU4M3IxS0xURjZHXzN4UldFWkc5eFdkUTBpOERBeklEejJGT1hGT1VkcFNkME1SMHNLSUkwNk5hRmtUb3Z2R3dOOEJsWEFRY1ZYU0drZS0wS1RDTXhIX01rSmpOQ2hqVFQ3cXNsbTbSAeQBQVVfeXFMTktrOUFIUVF0TDd3UUVZaUFDaXpCamVLcko2bkYxNVJnQkJkN1ZXSGlMWFR1dUliWE9wdHBDMmJlRmtzSHZWZVZ5YWNRU1NlTFhhM2RvTlVmYVJuVFVHYWJzWjluUUVjcnpGaXZBeTU4d0gxVXk2c1JIR0J2ZmM1ODNyMUtMVEY2R18zeFJXRVpHOXhXZFEwaThEQXpJRHoyRk9YRk9VZHBTZDBNUjBzS0lJMDZOYUZrVG92dkd3TjhCbFhBUWNWWFNHa2UtMEtUQ014SF9Na0pqTkNoalRUN3FzbG02?oc=5",
-        "published": "19 Mar 2026, 10:34 PM",
-        "iso_date": "2026-03-19T22:34:06+00:00",
+        "title": "Bahrain intercepts, destroys 134 missiles, 238 UAVs since attacks",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SNjlDX0s1V3E5Y1ZlUmVIc0dKOV9ucjhiZU9DeU14THRSdFZ2XzdMNi1YanUwT0E1SF9valVzd1NZQktEX3BHQW1rOU1KQ2lET1NPY3dld3ZnZm45?oc=5",
+        "published": "19 Mar 2026, 01:03 PM",
+        "iso_date": "2026-03-19T13:03:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-20 04:12:13 UTC"
+  "fetched_at": "2026-03-20 05:33:51 UTC"
 }
