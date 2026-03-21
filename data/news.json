@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain says warehouse fire contained, condemns attacks on Kuwait refineries",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xMllhWXAxWDBST1Y3RFdreUFYZkprODlOVC1KNXFIcU9vQXphbHVucEo0ZW96LWxuN3Frak5sQ2hHc1RWY1k4NWYzbWNsSEFabHBz?oc=5",
-        "published": "20 Mar 2026, 10:10 AM",
-        "iso_date": "2026-03-20T10:10:09+00:00",
+        "title": "What makes the Shahed 'kamikaze' drone the most feared weapon in Iran's arsenal?",
+        "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOVm1wY0pSamwyQlpORGpBUHhuZEFfa0wwYkdoaDdTUTlPb1l6ZFVsZTNzMy1VNXBYUmlSV2FyWTRzWWdEdUxvVl96ams4b1pvOXpzQTYyeGF3LTZrMEJLb2pDWlBtUUFFaFd5VTQ5NlJhTEJWeEJfSV95RXFMR2dOQU9WOXI1RGU0a2xjYXU0bWppdEQzOHZSNHJNWU1ZRm5yWWMwUFpCRkgxTlVYX1NBd3hBN2ZVNHRrSEpjMGhZZG4tTzg2bFB1NzRwM0M1cDZEMUkxN1J2Mk9sX2VmTkxQOWhaQTBwM09tNjFIYXZJOUU3bTZvSVBIa19XNF9SdGlLLXhKZ3JBWGV1a2ZYTFNmWHotTkhsbjJHdm95ekdSd1dMcW54SF9neUNLbzU2aVlYcC1LRVhYZS1WTndqMktsbXBnYjBNUmxnUUNOYkV3em1MUFhzQ2dQSkRMbDJXN0VlaGJYRllnZzRpbXVHMGxFVWJDc3FOSndpLWNqSEllUTZVQWpaVktsWTUyX2xVMFFaazRwSXR1dzJYbWtldmc?oc=5",
+        "published": "20 Mar 2026, 08:38 PM",
+        "iso_date": "2026-03-20T20:38:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -63,19 +63,9 @@
       },
       {
         "title": "Bahrain pledges support for Strait of Hormuz safety efforts",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaExYMEFsSGNENXNSUnZEbUtxbXZ6ZjhRZ2U1ODZNNjZEbTNsbzdrWXlHbGJSN2M0VEJ5T0ZZNVdKbkhvZlNKWXJYUlhZTFhCZWVBSVdQdkF5eTMtckN2RTBFdWpWZzdmQ3ROd0lRckQ4ZnRjS1UtcS0wTXVQQVpoTE16aVBTTkZiSnpEUnV4MA?oc=5",
-        "published": "21 Mar 2026, 03:02 AM",
-        "iso_date": "2026-03-21T03:02:52+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain destroys 141 missiles, 242 UAVs since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOek01ektfRURMTW5sa3VSTnJLdDRxZEh6RnFUN2VCREZreENib3NIV3Roa0ZZVEJQX2pzMUxWM3hUS3FZTk5wZmNNaXlydXQ3NTFoV1k4NTAxeS1DVHlobGJvMEJhdmY5aEVEbEk5VGVTd1BOdDhTMXFEa3JXVENha3FTWjRaMWpITHJlZnphWmhCWmdjVjJKNTFkemQ2THUtdW5OcDZCaGpoQno4MVc0WHFmS0F3Zw?oc=5",
-        "published": "20 Mar 2026, 10:04 AM",
-        "iso_date": "2026-03-20T10:04:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejlmZkNUSEIycHNVY1FXYTBGOHFtZUNkN19kQVFNdWZTeENzUTRVMDVNcVJxdUgwNGFRX1pCQm9sa2VRR2JneWttOWZoTUdNZ0FPZUxTUVE1MlRTamVKSGdLTFB5NlpzdTJhbG1hVWZVbmxXOXNBNnNubVA5Wl9EeUNQdXNteUlfd2Iwa0hwRHJuVDBvVDdxNFpqTG5wQQ?oc=5",
+        "published": "21 Mar 2026, 05:00 AM",
+        "iso_date": "2026-03-21T05:00:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,42 +186,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "How can Hormuz shipping blockage be solved?",
-        "link": "https://www.newsofbahrain.com/business/128914.html",
+        "title": "Iran’s Natanz Facility Hit in Latest Strike, No Radiation Leak Reported",
+        "link": "https://www.newsofbahrain.com/world/128919.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yGgi16txdD_2026-03-21_1774084956resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bJ7gDKPEBo_2026-03-21_1774087838resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Trump gets approval for gold coin in his likeness",
-        "link": "https://www.newsofbahrain.com/business/128913.html",
+        "title": "Refiners in Asia Eye Iranian Oil After US Grants Limited Waive",
+        "link": "https://www.newsofbahrain.com/world/128918.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AiWtbhjZKM_2026-03-21_1774083992resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Amst5dGPU7_2026-03-21_1774087264resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Stocks drop, as oil rises as Mideast war persists",
-        "link": "https://www.newsofbahrain.com/business/128912.html",
+        "title": "Air India Flight Returns to Delhi After Deploying Wrong Aircraft for Canada Route",
+        "link": "https://www.newsofbahrain.com/world/128917.html",
         "published": "21 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cKavAXswTO_2026-03-21_1774081977resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H2uNS4oOcK_2026-03-21_1774087067resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Middle East Crude Surges Toward $150 Amid Geopolitical Tensions",
+        "link": "https://www.newsofbahrain.com/bahrain/128916.html",
+        "published": "21 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IDXghaEWA0_2026-03-21_1774086823resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump administration seeks billions from Harvard in anti-Semitism lawsuit",
+        "link": "https://www.newsofbahrain.com/world/128915.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LZoPOUKFvN_2026-03-21_1774086739resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Court orders tenant company to pay BD8,700 and vacate shop",
         "link": "https://www.newsofbahrain.com/bahrain/128911.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fta8NWdz4B_2026-03-21_1774081332resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fta8NWdz4B_2026-03-21_1774081332thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -241,7 +251,7 @@
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6kaxPsf7Dm_2026-03-21_1774081037resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6kaxPsf7Dm_2026-03-21_1774081037thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -266,52 +276,32 @@
         "category": "Latest"
       },
       {
-        "title": "Man jailed for three years for smuggling tombak in onions",
-        "link": "https://www.newsofbahrain.com/bahrain/128905.html",
+        "title": "How can Hormuz shipping blockage be solved?",
+        "link": "https://www.newsofbahrain.com/business/128914.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tnacq4CM1p_2026-03-21_1774080245thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yGgi16txdD_2026-03-21_1774084956thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "India Blocks Release of Oscar-Nominated 'The Voice of Hind Rajab' Over ‘Political Sensitivities’",
-        "link": "https://www.newsofbahrain.com/world/128907.html",
+        "title": "Trump gets approval for gold coin in his likeness",
+        "link": "https://www.newsofbahrain.com/business/128913.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D6O7YqjaxA_2026-03-21_1774080569thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AiWtbhjZKM_2026-03-21_1774083992thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Tehran ready to let Japanese Ships pass Strait of Hormuz, says Iranian FM",
-        "link": "https://www.newsofbahrain.com/world/128904.html",
+        "title": "Stocks drop, as oil rises as Mideast war persists",
+        "link": "https://www.newsofbahrain.com/business/128912.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UNex04Drob_2026-03-21_1774080194thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Four Men on Trial in Paris Over $1 Million Watch Theft",
-        "link": "https://www.newsofbahrain.com/world/128902.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MR6rJZX0as_2026-03-21_1774079954thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Strike on Suspected Drug Boat Leaves Two Dead, One Survivor",
-        "link": "https://www.newsofbahrain.com/world/128900.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wdmRZ3flLn_2026-03-21_1774080158thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cKavAXswTO_2026-03-21_1774081977thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 09:39:29 UTC"
+  "fetched_at": "2026-03-21 10:23:15 UTC"
 }
