@@ -42,16 +42,6 @@
         "category": "Latest"
       },
       {
-        "title": "Twenty countries pledge to secure Strait of Hormuz",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHRsSmdfcWllcUpLQUotbVhRanVkMjd3V1B0OEp0cE43WTlkUEtSckRfaXlXVzU3eEpMazB2NTZTT09LcDBUU0tPeWFqR2hxNjhGeXJBb21TZDNRMnI5SlJKTXlMd2VaT3dJYnZWN2FVOXhjYnBvdlBkYllJcTVNb2VfTdIBgwFBVV95cUxNbHRsSmdfcWllcUpLQUotbVhRanVkMjd3V1B0OEp0cE43WTlkUEtSckRfaXlXVzU3eEpMazB2NTZTT09LcDBUU0tPeWFqR2hxNjhGeXJBb21TZDNRMnI5SlJKTXlMd2VaT3dJYnZWN2FVOXhjYnBvdlBkYllJcTVNb2VfTQ?oc=5",
-        "published": "21 Mar 2026, 04:29 PM",
-        "iso_date": "2026-03-21T16:29:38+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Egyptian-Bahraini summit: Agreement to confront regional threats and support Gulf security",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUjRBVjk4UmxldDNrZE9mdnBhcHVUWmh5bkd6TGhLMUc2bGp4bHJlVHFVSEdWT056WXJOT3FWTE9TaXRMRVZHa3pUbm5WdzZzU0h2Wi0zeVEteVFFSGo2TnZOZ0NqaEJURjVvcHdzTUl6T0cyR2p0NGM3Z1UwbG9weEktbXY5bDRLUWJzZkY1X3AtbGJIeGljTkVDT2ZJOXg2Z3Rjb0dYTWZ0WUl5Q1ZzMTZHWDAtTG9md2QwaDFkV3F1azU2Zktya3cyVm9VVHI5R1QzZ2JJN3g?oc=5",
         "published": "21 Mar 2026, 01:17 PM",
@@ -66,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXRHSXdTbUtSUTBaazkwR3REWXFxNWZKTWI2Q2dpdlFDVzlock53c2toU0VxVnktWWZQamM0enM0RGV0R0FjNzhISG8zZ2d1aHJfaWtzODdNdW12akZfQlNQeUtIUFdGMU1NTG52cjZPbnV3UVFKU3pPdzdKdVRWN3RyaEJYbzU4X3FXRUh1N3hsa1JGd1Rod18yS2h0X1VFcjNTbXNnenZpNllwT0xtSXA3Z2I0RTVfcDRlbzVTc0NsLVhhdmNjby05aXMtVWxNYVVsdGJmV0hKUk80b282aGlDWFk0NHY4S2UzODFkYjBOX29UNU84LW1xZzVUVjRvLVI1ZGh4US0yU2t6QVBsNA?oc=5",
         "published": "21 Mar 2026, 05:16 AM",
         "iso_date": "2026-03-21T05:16:19+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts 143 missiles, 244 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnV6TE9RUFhFTWhOMWxzY05fbllMZkJPUFp4V055N1lOSC04NjFjamdrLVIyWUVhdVhSNy13N2xhVGowUzRSVTAta3N6TTN4V2hoa0ZyeV93Q1g0a0dOQ2o4X04zRmFyX1B0Vk1jSk1zU20zZDdaZEh2VkJCSnVEbXpqbHJsSDlPOFdEV3BsVXhXWTdOUWVxTlhNUG1qZFJhR1p3dzdEckk0WmFRUm40VU9wNTZvYWtKRDNr?oc=5",
+        "published": "21 Mar 2026, 09:26 PM",
+        "iso_date": "2026-03-21T21:26:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -449,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 21:21:47 UTC"
+  "fetched_at": "2026-03-21 21:46:46 UTC"
 }
