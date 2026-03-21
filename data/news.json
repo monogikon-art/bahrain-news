@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGN0Y21iOUhIcEZNWWszcnNVV0FyODd6YnRfWHplbGM4bHFCQ0xQclJlWWlOUjA0b1FfalBjV2l4UWowVWdsaVZDZzZQLUZJdDJSVHlYRE5lOXQ0a3FxeTlhSlFER0o1U2FNclJjZXQ4N3Fid3IyLVBoc3lFN3laX3lWQkgtXzQyblVUb2VpS0V2a1dyYnZjMVpsaHJwQTIxM21EUENwbjljWEdwblhMQVp6M0k?oc=5",
         "published": "20 Mar 2026, 05:15 PM",
         "iso_date": "2026-03-20T17:15:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi air defenses intercept 4 ballistic missiles over Riyadh, no casualties reported",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb1FBQzZuZ0FUX3F3TmNiX2hQNi1fTlhHUjJYUjFPeHVUclIycWpITHdKVExUTENsQ0VpVkhMMmtRRW9NUXE5NEJYSlBaNWFaTmpBeTdMTmNJekhQc0Y1YjBxdUJ4ZFpFcVhmZURKV0NGZGpLTUlQQVk0M1FQX05iSF9RUUphOEZ5Ui1QbEFnN0RHcC1BcWRTNzBoYzlDUkNQLTNHbEdHNzZSY0R1RC1ScWMyZ0YzOVhMT3BYa3pIc2wtU3lYaHlRVGVkTTl4ZVJpM0E?oc=5",
+        "published": "20 Mar 2026, 05:10 PM",
+        "iso_date": "2026-03-20T17:10:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 05:26:56 UTC"
+  "fetched_at": "2026-03-21 06:01:55 UTC"
 }
