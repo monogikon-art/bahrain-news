@@ -196,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Saudi Arabia expels Iranian military officials",
+        "link": "https://www.newsofbahrain.com/world/128947.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mHEUVT1qM6_2026-03-21_1774125642resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain–Egypt Talks Focus on Regional Stability and Security",
         "link": "https://www.newsofbahrain.com/bahrain/128946.html",
         "published": "21 Mar 2026, 09:22 AM",
@@ -208,8 +218,8 @@
       {
         "title": "Leave for Safety, Still Pay Rent? | Security Fears vs Rental Obligations",
         "link": "https://www.newsofbahrain.com/bahrain/128945.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
+        "published": "21 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-21T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_eENRZ3WClY_2026-03-21_1774121566resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,20 +238,10 @@
       {
         "title": "Drone attack causes fire at Kuwait oil refinery",
         "link": "https://www.newsofbahrain.com/world/128943.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ShEWnby3rk_2026-03-21_1774101554resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NASA returns moon rocket to pad, eyeing April 1 launch",
-        "link": "https://www.newsofbahrain.com/world/128942.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QrOVqJbzc1_2026-03-21_1774101297resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ShEWnby3rk_2026-03-21_1774101554resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -266,22 +266,22 @@
         "category": "Latest"
       },
       {
+        "title": "NASA returns moon rocket to pad, eyeing April 1 launch",
+        "link": "https://www.newsofbahrain.com/world/128942.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QrOVqJbzc1_2026-03-21_1774101297thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "North Korean leader, daughter try out new tank",
         "link": "https://www.newsofbahrain.com/world/128941.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_jakVJpCtf7_2026-03-21_1774101217thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Waives Sanctions on Iranian Oil for 30 Days; Tehran Denies Floating Supply",
-        "link": "https://www.newsofbahrain.com/world/128932.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WMo3TYBDA1_2026-03-21_1774098970thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 20:22:38 UTC"
+  "fetched_at": "2026-03-21 20:49:57 UTC"
 }
