@@ -196,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Stocks drop, as oil rises as Mideast war persists",
+        "link": "https://www.newsofbahrain.com/business/128912.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cKavAXswTO_2026-03-21_1774081977resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Court orders tenant company to pay BD8,700 and vacate shop",
         "link": "https://www.newsofbahrain.com/bahrain/128911.html",
         "published": "21 Mar 2026, 09:22 AM",
@@ -208,8 +218,8 @@
       {
         "title": "Judges ready for English cases, execution still in the works",
         "link": "https://www.newsofbahrain.com/bahrain/128910.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
+        "published": "21 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-21T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_6kaxPsf7Dm_2026-03-21_1774081037resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +238,8 @@
       {
         "title": "India Blocks Release of Oscar-Nominated 'The Voice of Hind Rajab' Over ‘Political Sensitivities’",
         "link": "https://www.newsofbahrain.com/world/128907.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_D6O7YqjaxA_2026-03-21_1774080569resized_pic.jpg",
         "source": "newsofbahrain",
@@ -241,7 +251,7 @@
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2zvosXlp6Q_2026-03-21_1774080524resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2zvosXlp6Q_2026-03-21_1774080524thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,16 +322,6 @@
         "iso_date": "2026-03-19T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_W7eoTAKr5c_2026-03-19_1773923684thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Stocks fall, oil surges as US inflation jumps and Israel strikes gas facilities",
-        "link": "https://www.newsofbahrain.com/business/128784.html",
-        "published": "19 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BVPQDZ3glj_2026-03-19_1773900601thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 08:28:55 UTC"
+  "fetched_at": "2026-03-21 08:59:14 UTC"
 }
