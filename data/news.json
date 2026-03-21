@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -186,6 +186,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Dubai Renames ‘Housewives’ as ‘Generation Shapers’ on Mother’s Day",
+        "link": "https://www.newsofbahrain.com/world/128923.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mNAogYlSwI_2026-03-21_1774089898resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Putin Reaffirms Moscow’s Commitment to Tehran as a ‘Loyal Friend and Partner’",
+        "link": "https://www.newsofbahrain.com/world/128922.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QCMY1rbha2_2026-03-21_1774089448resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rain, Strong Winds Sweep UAE as Authorities Issue Safety Alerts",
+        "link": "https://www.newsofbahrain.com/world/128921.html",
+        "published": "21 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1CdFYiSuPZ_2026-03-21_1774088652resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "‘The War Must Be Completely and Permanently Ended’, says Abbas Araghchi",
+        "link": "https://www.newsofbahrain.com/world/128920.html",
+        "published": "21 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IQE2cvRwfk_2026-03-21_1774088210resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Iran’s Natanz Facility Hit in Latest Strike, No Radiation Leak Reported",
         "link": "https://www.newsofbahrain.com/world/128919.html",
         "published": "21 Mar 2026, 09:22 AM",
@@ -196,42 +236,12 @@
         "category": "Latest"
       },
       {
-        "title": "Refiners in Asia Eye Iranian Oil After US Grants Limited Waive",
-        "link": "https://www.newsofbahrain.com/world/128918.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Amst5dGPU7_2026-03-21_1774087264resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Air India Flight Returns to Delhi After Deploying Wrong Aircraft for Canada Route",
-        "link": "https://www.newsofbahrain.com/world/128917.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H2uNS4oOcK_2026-03-21_1774087067resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Middle East Crude Surges Toward $150 Amid Geopolitical Tensions",
         "link": "https://www.newsofbahrain.com/bahrain/128916.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IDXghaEWA0_2026-03-21_1774086823resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump administration seeks billions from Harvard in anti-Semitism lawsuit",
-        "link": "https://www.newsofbahrain.com/world/128915.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LZoPOUKFvN_2026-03-21_1774086739resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IDXghaEWA0_2026-03-21_1774086823thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 10:23:15 UTC"
+  "fetched_at": "2026-03-21 10:52:07 UTC"
 }
