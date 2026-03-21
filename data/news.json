@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 11
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -52,6 +52,16 @@
         "category": "Latest"
       },
       {
+        "title": "Saudi air defenses intercept 4 ballistic missiles over Riyadh, no casualties reported",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb1FBQzZuZ0FUX3F3TmNiX2hQNi1fTlhHUjJYUjFPeHVUclIycWpITHdKVExUTENsQ0VpVkhMMmtRRW9NUXE5NEJYSlBaNWFaTmpBeTdMTmNJekhQc0Y1YjBxdUJ4ZFpFcVhmZURKV0NGZGpLTUlQQVk0M1FQX05iSF9RUUphOEZ5Ui1QbEFnN0RHcC1BcWRTNzBoYzlDUkNQLTNHbEdHNzZSY0R1RC1ScWMyZ0YzOVhMT3BYa3pIc2wtU3lYaHlRVGVkTTl4ZVJpM0E?oc=5",
+        "published": "20 Mar 2026, 05:10 PM",
+        "iso_date": "2026-03-20T17:10:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain pledges support for Strait of Hormuz safety efforts",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaExYMEFsSGNENXNSUnZEbUtxbXZ6ZjhRZ2U1ODZNNjZEbTNsbzdrWXlHbGJSN2M0VEJ5T0ZZNVdKbkhvZlNKWXJYUlhZTFhCZWVBSVdQdkF5eTMtckN2RTBFdWpWZzdmQ3ROd0lRckQ4ZnRjS1UtcS0wTXVQQVpoTE16aVBTTkZiSnpEUnV4MA?oc=5",
         "published": "21 Mar 2026, 03:02 AM",
@@ -72,15 +82,166 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "Two killed in Zallaq collision involving vehicle and bikes",
+        "link": "https://www.gdnonline.com/Details/1379231/Two-killed-in-Zallaq-collision-involving-vehicle-and-bikes",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321083750websitesize(4)_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Legislators push to fast-track Nurana Island infrastructure",
+        "link": "https://www.gdnonline.com/Details/1379187/Legislators-push-to-fast-track-Nurana-Island-infrastructure",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321005250ntwo_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Rainwater harvesting call",
+        "link": "https://www.gdnonline.com/Details/1379185/Rainwater-harvesting-call",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321004933carsone_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Charities step up Eid support despite turmoil",
+        "link": "https://www.gdnonline.com/Details/1379180/Charities-step-up-Eid-support-despite-turmoil",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260320_223407_0_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian aggression condemned",
+        "link": "https://www.gdnonline.com/Details/1379181/Iranian-aggression-condemned",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320225324baaa_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Chamber poll procedures outlined as deadline nears for nominations",
+        "link": "https://www.gdnonline.com/Details/1379103/Chamber-poll-procedures-outlined-as-deadline-nears-for-nominations",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260319_220555_0_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Philippines clinch World Cup berth",
+        "link": "https://www.gdnonline.com/Details/1379131/Philippines-clinch-World-Cup-berth",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320015429actions_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Football team to train in Bahrain",
+        "link": "https://www.gdnonline.com/Details/1379115/Football-team-to-train-in-Bahrain",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320005634zxxz_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Messi joins Ronaldo in 900 club",
+        "link": "https://www.gdnonline.com/Details/1379116/Messi-joins-Ronaldo-in-900-club",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320005746ikam_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Morocco fans welcome Africa Cup decision",
+        "link": "https://www.gdnonline.com/Details/1379117/Morocco-fans-welcome-Africa-Cup-decision",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320005808moaoao_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Villa advance",
+        "link": "https://www.gdnonline.com/Details/1379132/Villa-advance",
+        "published": "20 Mar 2026",
+        "iso_date": "2026-03-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320_014835_0_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
-        "title": "US deploying more Marines to MidEast",
-        "link": "https://www.newsofbahrain.com/world/128895.html",
+        "title": "US Strike on Suspected Drug Boat Leaves Two Dead, One Survivor",
+        "link": "https://www.newsofbahrain.com/world/128900.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lY2hNuKZko_2026-03-21_1774076273resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9vBP1YSbnC_2026-03-21_1774079269resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Colombia’s President Gustavo Petro under investigation in US for drug ties",
+        "link": "https://www.newsofbahrain.com/world/128899.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HVwSY6vAeg_2026-03-21_1774078922resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Costa Rica Extradites Citizens to US for First Time in Landmark Move",
+        "link": "https://www.newsofbahrain.com/world/128898.html",
+        "published": "21 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3ycNoax2bi_2026-03-21_1774077587resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Faith, unity mark Eid celebrations across Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/128897.html",
+        "published": "21 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OT5JufjQdK_2026-03-21_1774077084resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Chuck Norris, Hollywood action star, dies at 86",
+        "link": "https://www.newsofbahrain.com/world/128896.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TF4Jgp0VNX_2026-03-21_1774077063resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -90,37 +251,7 @@
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CNPJR10GA6_2026-03-20_1774045644resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Signals Possible Wind-Down of U.S. Military Efforts in Middle East",
-        "link": "https://www.newsofbahrain.com/world/128893.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O8hodEGa4v_2026-03-20_1774044780resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump: “No Ceasefire” With Iran",
-        "link": "https://www.newsofbahrain.com/world/128892.html",
-        "published": "20 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w0dlyhc64k_2026-03-20_1774039053resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Auric Air Plane Crashes at Nairobi Wilson Airport",
-        "link": "https://www.newsofbahrain.com/world/128891.html",
-        "published": "20 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3FQPmAB1ph_2026-03-20_1774038362resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CNPJR10GA6_2026-03-20_1774045644thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -151,16 +282,6 @@
         "iso_date": "2026-03-20T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_IiYtKdgGD3_2026-03-20_1774005607thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura Council Chairman: Royal Pardon of 300 Inmates Reflects King’s Commitment to Humanitarian Approach and National Progress",
-        "link": "https://www.newsofbahrain.com/bahrain/128876.html",
-        "published": "20 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w8Wz3gdeTS_2026-03-20_1774005297thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -338,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 07:07:39 UTC"
+  "fetched_at": "2026-03-21 07:51:27 UTC"
 }
