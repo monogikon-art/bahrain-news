@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 14
     }
   },
   "articles": {
@@ -196,10 +196,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Drone attack causes fire at Kuwait oil refinery",
-        "link": "https://www.newsofbahrain.com/world/128943.html",
+        "title": "Bahrain–Egypt Talks Focus on Regional Stability and Security",
+        "link": "https://www.newsofbahrain.com/bahrain/128946.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WqQKgcS4d2_2026-03-21_1774121965resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Leave for Safety, Still Pay Rent? | Security Fears vs Rental Obligations",
+        "link": "https://www.newsofbahrain.com/bahrain/128945.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eENRZ3WClY_2026-03-21_1774121566resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain and U.S. Discuss Regional Security in High-Level Call",
+        "link": "https://www.newsofbahrain.com/bahrain/128944.html",
+        "published": "21 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eYIJqT3klH_2026-03-21_1774120837resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Drone attack causes fire at Kuwait oil refinery",
+        "link": "https://www.newsofbahrain.com/world/128943.html",
+        "published": "21 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-21T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ShEWnby3rk_2026-03-21_1774101554resized_pic.jpg",
         "source": "newsofbahrain",
@@ -212,36 +242,6 @@
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QrOVqJbzc1_2026-03-21_1774101297resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "North Korean leader, daughter try out new tank",
-        "link": "https://www.newsofbahrain.com/world/128941.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jakVJpCtf7_2026-03-21_1774101217resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Swiatek stunned at Miami Open by 50th-ranked Linette",
-        "link": "https://www.newsofbahrain.com/sports/128939.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ak0BhNUW8m_2026-03-21_1774100751resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kane credits Kompany’s Bayern ‘evolution’ as treble beckons",
-        "link": "https://www.newsofbahrain.com/sports/128938.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XVsxObSZ0L_2026-03-21_1774100617resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -266,32 +266,12 @@
         "category": "Latest"
       },
       {
-        "title": "Judges ready for English cases, execution still in the works",
-        "link": "https://www.newsofbahrain.com/bahrain/128910.html",
+        "title": "North Korean leader, daughter try out new tank",
+        "link": "https://www.newsofbahrain.com/world/128941.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6kaxPsf7Dm_2026-03-21_1774081037thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Warning for Bahrain-Saudi travelers: Pregnant  woman detained after taxi driver’s liquor smuggling attempt",
-        "link": "https://www.newsofbahrain.com/bahrain/128909.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8qEU3OCjid_2026-03-21_1774080857thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Grand Imam of Al Azhar condemns Iranian aggression targeting Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/128906.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2zvosXlp6Q_2026-03-21_1774080524thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jakVJpCtf7_2026-03-21_1774101217thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 19:21:40 UTC"
+  "fetched_at": "2026-03-21 19:44:53 UTC"
 }
