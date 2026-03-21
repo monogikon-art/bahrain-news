@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGN0Y21iOUhIcEZNWWszcnNVV0FyODd6YnRfWHplbGM4bHFCQ0xQclJlWWlOUjA0b1FfalBjV2l4UWowVWdsaVZDZzZQLUZJdDJSVHlYRE5lOXQ0a3FxeTlhSlFER0o1U2FNclJjZXQ4N3Fid3IyLVBoc3lFN3laX3lWQkgtXzQyblVUb2VpS0V2a1dyYnZjMVpsaHJwQTIxM21EUENwbjljWEdwblhMQVp6M0k?oc=5",
         "published": "20 Mar 2026, 05:15 PM",
         "iso_date": "2026-03-20T17:15:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain pledges support for Strait of Hormuz safety efforts",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaExYMEFsSGNENXNSUnZEbUtxbXZ6ZjhRZ2U1ODZNNjZEbTNsbzdrWXlHbGJSN2M0VEJ5T0ZZNVdKbkhvZlNKWXJYUlhZTFhCZWVBSVdQdkF5eTMtckN2RTBFdWpWZzdmQ3ROd0lRckQ4ZnRjS1UtcS0wTXVQQVpoTE16aVBTTkZiSnpEUnV4MA?oc=5",
+        "published": "21 Mar 2026, 03:02 AM",
+        "iso_date": "2026-03-21T03:02:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 04:03:26 UTC"
+  "fetched_at": "2026-03-21 05:26:56 UTC"
 }
