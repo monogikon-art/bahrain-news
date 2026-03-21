@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -33,7 +33,7 @@
       },
       {
         "title": "What makes the Shahed 'kamikaze' drone the most feared weapon in Iran's arsenal?",
-        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPUDFDM0RxenJQV3A1NHZoc0xSckJHQ3pPM0k1cndPdXpHaUVmLVZTdXZQcUhNVmFORmFVLU5VcWtQYXpvRWkwVEU3VEdMNmczbTd3dEd5T1JidFhQOUVfaXpsbHRLdElkZVBES2FUa2tDTDdGVXNCemJTa1VxNkU4dWNINXJDeVhTYlpsX3lWWVFrUjJsczJ2WEtDRlBCVUNWcVRETmFJUExXZllBaVk1cnFhaWJVVlJmdHh0SGFoeTVWZ0NzUHZmNmF2cEFmTXcyX0NxeEZteDdTWTVuZ2t3ZWVrTm1xa25DTzRSWFNEaHIyNk1UX25uVU1QZEdrUmxJVFd1eE1SM2VIbFdzbzRubjJtXy02NDZsM2FJRC1OSjV6dzhXU1BXYnlMMXN5WEYxd2dwMHg5OXBFUVpnaWwzRmZGZWJYNzNNeUp4cHk0UmJlNXU3SU1hWkQwQnVySGZOUmVCbW44RGhkeUx3X3VIUXVUWTVwQVA0di1LS0hCelFySndZNHRYWUFFMWxhNXpCX2FFSk4xMjE0RVMz?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOVm1wY0pSamwyQlpORGpBUHhuZEFfa0wwYkdoaDdTUTlPb1l6ZFVsZTNzMy1VNXBYUmlSV2FyWTRzWWdEdUxvVl96ams4b1pvOXpzQTYyeGF3LTZrMEJLb2pDWlBtUUFFaFd5VTQ5NlJhTEJWeEJfSV95RXFMR2dOQU9WOXI1RGU0a2xjYXU0bWppdEQzOHZSNHJNWU1ZRm5yWWMwUFpCRkgxTlVYX1NBd3hBN2ZVNHRrSEpjMGhZZG4tTzg2bFB1NzRwM0M1cDZEMUkxN1J2Mk9sX2VmTkxQOWhaQTBwM09tNjFIYXZJOUU3bTZvSVBIa19XNF9SdGlLLXhKZ3JBWGV1a2ZYTFNmWHotTkhsbjJHdm95ekdSd1dMcW54SF9neUNLbzU2aVlYcC1LRVhYZS1WTndqMktsbXBnYjBNUmxnUUNOYkV3em1MUFhzQ2dQSkRMbDJXN0VlaGJYRllnZzRpbXVHMGxFVWJDc3FOSndpLWNqSEllUTZVQWpaVktsWTUyX2xVMFFaazRwSXR1dzJYbWtldmc?oc=5",
         "published": "20 Mar 2026, 08:38 PM",
         "iso_date": "2026-03-20T20:38:08+00:00",
         "summary": "",
@@ -42,10 +42,20 @@
         "category": "Latest"
       },
       {
+        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXRHSXdTbUtSUTBaazkwR3REWXFxNWZKTWI2Q2dpdlFDVzlock53c2toU0VxVnktWWZQamM0enM0RGV0R0FjNzhISG8zZ2d1aHJfaWtzODdNdW12akZfQlNQeUtIUFdGMU1NTG52cjZPbnV3UVFKU3pPdzdKdVRWN3RyaEJYbzU4X3FXRUh1N3hsa1JGd1Rod18yS2h0X1VFcjNTbXNnenZpNllwT0xtSXA3Z2I0RTVfcDRlbzVTc0NsLVhhdmNjby05aXMtVWxNYVVsdGJmV0hKUk80b282aGlDWFk0NHY4S2UzODFkYjBOX29UNU84LW1xZzVUVjRvLVI1ZGh4US0yU2t6QVBsNA?oc=5",
+        "published": "21 Mar 2026, 05:16 AM",
+        "iso_date": "2026-03-21T05:16:19+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Saudi air defenses intercept 27 drones since early Eid morning",
-        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOSVJsbDc5cWttWjFPaWdlUWhpeTJIbkF3YzJtS29Ka2Q0UEVzemRCaEotTUkza3phSVA3MkxtdUhYdXBlOUVkUHZQY2NCdzFNeGFNVFBRcXpuVEo5WkZzUmxCTk9wcERIVG1vWG9TVjlRZGtnaGY5QjROTkQxQ19rS3Nwckt1ZkMyR3lrN1Y4U0o3emdwZERJN3dXd2dPMC1kMnhWUk00SXF1MGl0MlNSazlCOEFZS1c4WXpqRGxnRFl1WjB5Rjk3aTJjemF5Y0dWTzhaVlp3ZnFiZDRKdk96bUQ1NmZfLWlfQjV5Nkp6dlE3dEFOUHdEWGNrb1pFVWh3bU9zTVNBOURwaV9Fa1NwajFDV0NrSzdRQXA1Q0pDbTYyYlF6SXZ4LXRZWUU0QTBXN2hCQWtQSUtwcVJfSDlLRF9rRWY5T1lmbklJ?oc=5",
-        "published": "20 Mar 2026, 08:17 PM",
-        "iso_date": "2026-03-20T20:17:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGN0Y21iOUhIcEZNWWszcnNVV0FyODd6YnRfWHplbGM4bHFCQ0xQclJlWWlOUjA0b1FfalBjV2l4UWowVWdsaVZDZzZQLUZJdDJSVHlYRE5lOXQ0a3FxeTlhSlFER0o1U2FNclJjZXQ4N3Fid3IyLVBoc3lFN3laX3lWQkgtXzQyblVUb2VpS0V2a1dyYnZjMVpsaHJwQTIxM21EUENwbjljWEdwblhMQVp6M0k?oc=5",
+        "published": "20 Mar 2026, 05:15 PM",
+        "iso_date": "2026-03-20T17:15:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 14:23:52 UTC"
+  "fetched_at": "2026-03-21 14:52:18 UTC"
 }
