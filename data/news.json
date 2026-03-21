@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,26 +16,16 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 19
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "What makes the Shahed 'kamikaze' drone the most feared weapon in Iran's arsenal?",
-        "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOVm1wY0pSamwyQlpORGpBUHhuZEFfa0wwYkdoaDdTUTlPb1l6ZFVsZTNzMy1VNXBYUmlSV2FyWTRzWWdEdUxvVl96ams4b1pvOXpzQTYyeGF3LTZrMEJLb2pDWlBtUUFFaFd5VTQ5NlJhTEJWeEJfSV95RXFMR2dOQU9WOXI1RGU0a2xjYXU0bWppdEQzOHZSNHJNWU1ZRm5yWWMwUFpCRkgxTlVYX1NBd3hBN2ZVNHRrSEpjMGhZZG4tTzg2bFB1NzRwM0M1cDZEMUkxN1J2Mk9sX2VmTkxQOWhaQTBwM09tNjFIYXZJOUU3bTZvSVBIa19XNF9SdGlLLXhKZ3JBWGV1a2ZYTFNmWHotTkhsbjJHdm95ekdSd1dMcW54SF9neUNLbzU2aVlYcC1LRVhYZS1WTndqMktsbXBnYjBNUmxnUUNOYkV3em1MUFhzQ2dQSkRMbDJXN0VlaGJYRllnZzRpbXVHMGxFVWJDc3FOSndpLWNqSEllUTZVQWpaVktsWTUyX2xVMFFaazRwSXR1dzJYbWtldmc?oc=5",
-        "published": "20 Mar 2026, 08:38 PM",
-        "iso_date": "2026-03-20T20:38:08+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXRHSXdTbUtSUTBaazkwR3REWXFxNWZKTWI2Q2dpdlFDVzlock53c2toU0VxVnktWWZQamM0enM0RGV0R0FjNzhISG8zZ2d1aHJfaWtzODdNdW12akZfQlNQeUtIUFdGMU1NTG52cjZPbnV3UVFKU3pPdzdKdVRWN3RyaEJYbzU4X3FXRUh1N3hsa1JGd1Rod18yS2h0X1VFcjNTbXNnenZpNllwT0xtSXA3Z2I0RTVfcDRlbzVTc0NsLVhhdmNjby05aXMtVWxNYVVsdGJmV0hKUk80b282aGlDWFk0NHY4S2UzODFkYjBOX29UNU84LW1xZzVUVjRvLVI1ZGh4US0yU2t6QVBsNA?oc=5",
-        "published": "21 Mar 2026, 05:16 AM",
-        "iso_date": "2026-03-21T05:16:19+00:00",
+        "title": "Iran's foreign minister admits Islamic Republic is receiving military support from Russia and China",
+        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOd3d3T095Z2FkZzVCRWlNSVVEM0F0eDZadzZGbS1kanQ3bTFtQWx4NDgzMHpXS0RSMUZScHQ2SEcwT1Jha0hiMDdjUjYxYXc2WFlnXzRTclhXYllLYVRXT09hTWFramhJRGx5Vk0xZktTVEkxZG9XbGlXWWFsNFlYRm1KRkN1azVDcy1wZmhtcFdLQWFEZ2hsZTk3cTZaLXgyZktHTmxPM2w0cTFRNWFtVm1yODNiQnZILXN1QVNodzBQN1AyUFJPY3RIdWNuNkhIaW9QeC1OdUlteTVObHpSX0k5Z0V2eW5VN1VFbnZ1b1E4dVZPQmRQV3VTOXYyLWhHOEhqNlp2SnVZY2hYYU0wOUpsTlFYcVpCV1lWOTJQZVBHQ0lVczh1c1hLYW5jYlVNWVBGSWtSLXo0RDZFb1ZNRWo5OTJyOFpDZ2lIRUtXVVF4b0llWE84MDFIN1ZSWkg4RnF1a3dzeFVTUi1sUFFmQ1lPVVMzMEhrWV9DeTVRNkpNTUF0S0xFbnlhNHVLOVNPQnIzOGprTEQyZnJPYzZTSExmVFZiVkxwa2s4el9mLXdHWDlHTnplZS1R?oc=5",
+        "published": "20 Mar 2026, 08:28 PM",
+        "iso_date": "2026-03-20T20:28:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -43,9 +33,9 @@
       },
       {
         "title": "Saudi air defenses intercept 27 drones since early Eid morning",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGN0Y21iOUhIcEZNWWszcnNVV0FyODd6YnRfWHplbGM4bHFCQ0xQclJlWWlOUjA0b1FfalBjV2l4UWowVWdsaVZDZzZQLUZJdDJSVHlYRE5lOXQ0a3FxeTlhSlFER0o1U2FNclJjZXQ4N3Fid3IyLVBoc3lFN3laX3lWQkgtXzQyblVUb2VpS0V2a1dyYnZjMVpsaHJwQTIxM21EUENwbjljWEdwblhMQVp6M0k?oc=5",
-        "published": "20 Mar 2026, 05:15 PM",
-        "iso_date": "2026-03-20T17:15:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOSVJsbDc5cWttWjFPaWdlUWhpeTJIbkF3YzJtS29Ka2Q0UEVzemRCaEotTUkza3phSVA3MkxtdUhYdXBlOUVkUHZQY2NCdzFNeGFNVFBRcXpuVEo5WkZzUmxCTk9wcERIVG1vWG9TVjlRZGtnaGY5QjROTkQxQ19rS3Nwckt1ZkMyR3lrN1Y4U0o3emdwZERJN3dXd2dPMC1kMnhWUk00SXF1MGl0MlNSazlCOEFZS1c4WXpqRGxnRFl1WjB5Rjk3aTJjemF5Y0dWTzhaVlp3ZnFiZDRKdk96bUQ1NmZfLWlfQjV5Nkp6dlE3dEFOUHdEWGNrb1pFVWh3bU9zTVNBOURwaV9Fa1NwajFDV0NrSzdRQXA1Q0pDbTYyYlF6SXZ4LXRZWUU0QTBXN2hCQWtQSUtwcVJfSDlLRF9rRWY5T1lmbklJ?oc=5",
+        "published": "20 Mar 2026, 08:17 PM",
+        "iso_date": "2026-03-20T20:17:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -63,9 +53,9 @@
       },
       {
         "title": "Bahrain pledges support for Strait of Hormuz safety efforts",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejlmZkNUSEIycHNVY1FXYTBGOHFtZUNkN19kQVFNdWZTeENzUTRVMDVNcVJxdUgwNGFRX1pCQm9sa2VRR2JneWttOWZoTUdNZ0FPZUxTUVE1MlRTamVKSGdLTFB5NlpzdTJhbG1hVWZVbmxXOXNBNnNubVA5Wl9EeUNQdXNteUlfd2Iwa0hwRHJuVDBvVDdxNFpqTG5wQQ?oc=5",
-        "published": "21 Mar 2026, 05:00 AM",
-        "iso_date": "2026-03-21T05:00:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaExYMEFsSGNENXNSUnZEbUtxbXZ6ZjhRZ2U1ODZNNjZEbTNsbzdrWXlHbGJSN2M0VEJ5T0ZZNVdKbkhvZlNKWXJYUlhZTFhCZWVBSVdQdkF5eTMtckN2RTBFdWpWZzdmQ3ROd0lRckQ4ZnRjS1UtcS0wTXVQQVpoTE16aVBTTkZiSnpEUnV4MA?oc=5",
+        "published": "21 Mar 2026, 03:02 AM",
+        "iso_date": "2026-03-21T03:02:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -186,52 +176,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Israel Signals Major Escalation in Strikes Against Iran",
-        "link": "https://www.newsofbahrain.com/world/128926.html",
+        "title": "Liverpool suffer Salah blow in chase for Champions League",
+        "link": "https://www.newsofbahrain.com/sports/128937.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PWzpIFuTfG_2026-03-21_1774096484resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jeHDRNhQyv_2026-03-21_1774100204resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "11 Dead, Dozens Injured in Massive Fire at South Korean Car Parts Plant",
-        "link": "https://www.newsofbahrain.com/world/128925.html",
+        "title": "Wembanyama lifts playoffbound Spurs, Doncic and James fuel Lakers",
+        "link": "https://www.newsofbahrain.com/sports/128936.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d18cAklHgo_2026-03-21_1774095284resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_02QAzLhPTs_2026-03-21_1774099913resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UK allows US to use bases to strike Strait of Hormuz targets",
-        "link": "https://www.newsofbahrain.com/world/128924.html",
+        "title": "Forest survive shoot-out to reach Europa League quarters, Villa advance",
+        "link": "https://www.newsofbahrain.com/sports/128935.html",
         "published": "21 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ox8daEQpbw_2026-03-21_1774092750resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_826zrphVKX_2026-03-21_1774099757resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Dubai Renames ‘Housewives’ as ‘Generation Shapers’ on Mother’s Day",
-        "link": "https://www.newsofbahrain.com/world/128923.html",
+        "title": "Arsenal must prove they are winners in League Cup final, says Arteta",
+        "link": "https://www.newsofbahrain.com/sports/128934.html",
         "published": "21 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mNAogYlSwI_2026-03-21_1774089898resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kR6bJPpYZQ_2026-03-21_1774099346resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Putin Reaffirms Moscow’s Commitment to Tehran as a ‘Loyal Friend and Partner’",
-        "link": "https://www.newsofbahrain.com/world/128922.html",
+        "title": "Spurs face survival showdown, Chelsea need top-four surge",
+        "link": "https://www.newsofbahrain.com/sports/128933.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QCMY1rbha2_2026-03-21_1774089448resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BHo3NueCYQ_2026-03-21_1774099185resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,6 +272,46 @@
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_2zvosXlp6Q_2026-03-21_1774080524thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Waives Sanctions on Iranian Oil for 30 Days; Tehran Denies Floating Supply",
+        "link": "https://www.newsofbahrain.com/world/128932.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WMo3TYBDA1_2026-03-21_1774098970thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Seized Oil Tankers Cost U.S. Millions, Undermining Trump’s ‘Financial Boon’ Claim",
+        "link": "https://www.newsofbahrain.com/world/128931.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_K4xg3aetAX_2026-03-21_1774097751thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Indian PM Modi condemns attacks on critical infrastructure in talks with Iran president",
+        "link": "https://www.newsofbahrain.com/world/128930.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GUz0y7LAS6_2026-03-21_1774097650thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ukraine Launches More Than 280 Drones at Russia in One of Its Largest Strikes",
+        "link": "https://www.newsofbahrain.com/world/128929.html",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_krsaSLjout_2026-03-21_1774097422thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 12:41:10 UTC"
+  "fetched_at": "2026-03-21 13:40:11 UTC"
 }
