@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,16 +16,26 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 19
+      "count": 16
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Iran's foreign minister admits Islamic Republic is receiving military support from Russia and China",
-        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOd3d3T095Z2FkZzVCRWlNSVVEM0F0eDZadzZGbS1kanQ3bTFtQWx4NDgzMHpXS0RSMUZScHQ2SEcwT1Jha0hiMDdjUjYxYXc2WFlnXzRTclhXYllLYVRXT09hTWFramhJRGx5Vk0xZktTVEkxZG9XbGlXWWFsNFlYRm1KRkN1azVDcy1wZmhtcFdLQWFEZ2hsZTk3cTZaLXgyZktHTmxPM2w0cTFRNWFtVm1yODNiQnZILXN1QVNodzBQN1AyUFJPY3RIdWNuNkhIaW9QeC1OdUlteTVObHpSX0k5Z0V2eW5VN1VFbnZ1b1E4dVZPQmRQV3VTOXYyLWhHOEhqNlp2SnVZY2hYYU0wOUpsTlFYcVpCV1lWOTJQZVBHQ0lVczh1c1hLYW5jYlVNWVBGSWtSLXo0RDZFb1ZNRWo5OTJyOFpDZ2lIRUtXVVF4b0llWE84MDFIN1ZSWkg4RnF1a3dzeFVTUi1sUFFmQ1lPVVMzMEhrWV9DeTVRNkpNTUF0S0xFbnlhNHVLOVNPQnIzOGprTEQyZnJPYzZTSExmVFZiVkxwa2s4el9mLXdHWDlHTnplZS1R?oc=5",
-        "published": "20 Mar 2026, 08:28 PM",
-        "iso_date": "2026-03-20T20:28:12+00:00",
+        "title": "Egyptian president arrives in Bahrain amid regional escalation",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGE1VDJ3eW4xcjlWMkVlcy1vbHpmRkdkV2poSWh2TXYyMlFfT1Qxb2o3MXZ5dS1qU3F4RFF2dVBkTkdwNVFKSldMalNFMk9kM0NSQ1pRS21welpDSFN3aVRCcUlWeFNDR2Vrbnd1cl9tMmtCRlM3WEdrb3ZEMUo0TElaOE1OVXhwS0tzSHgzenc5NWRMTWdLMEktLS1UNWljZU1iY205cHRCR1E?oc=5",
+        "published": "21 Mar 2026, 01:42 PM",
+        "iso_date": "2026-03-21T13:42:53+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "What makes the Shahed 'kamikaze' drone the most feared weapon in Iran's arsenal?",
+        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPUDFDM0RxenJQV3A1NHZoc0xSckJHQ3pPM0k1cndPdXpHaUVmLVZTdXZQcUhNVmFORmFVLU5VcWtQYXpvRWkwVEU3VEdMNmczbTd3dEd5T1JidFhQOUVfaXpsbHRLdElkZVBES2FUa2tDTDdGVXNCemJTa1VxNkU4dWNINXJDeVhTYlpsX3lWWVFrUjJsczJ2WEtDRlBCVUNWcVRETmFJUExXZllBaVk1cnFhaWJVVlJmdHh0SGFoeTVWZ0NzUHZmNmF2cEFmTXcyX0NxeEZteDdTWTVuZ2t3ZWVrTm1xa25DTzRSWFNEaHIyNk1UX25uVU1QZEdrUmxJVFd1eE1SM2VIbFdzbzRubjJtXy02NDZsM2FJRC1OSjV6dzhXU1BXYnlMMXN5WEYxd2dwMHg5OXBFUVpnaWwzRmZGZWJYNzNNeUp4cHk0UmJlNXU3SU1hWkQwQnVySGZOUmVCbW44RGhkeUx3X3VIUXVUWTVwQVA0di1LS0hCelFySndZNHRYWUFFMWxhNXpCX2FFSk4xMjE0RVMz?oc=5",
+        "published": "20 Mar 2026, 08:38 PM",
+        "iso_date": "2026-03-20T20:38:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -64,6 +74,16 @@
     ],
     "gdn": [
       {
+        "title": "HM King Hamad holds talks with Egyptian President",
+        "link": "https://www.gdnonline.com/Details/1379242/HM-King-Hamad-holds-talks-with-Egyptian-President",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321154205websize(4)_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Two killed in Zallaq collision involving vehicle and bikes",
         "link": "https://www.gdnonline.com/Details/1379231/Two-killed-in-Zallaq-collision-involving-vehicle-and-bikes",
         "published": "21 Mar 2026",
@@ -100,16 +120,6 @@
         "iso_date": "2026-03-21T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260321/20260320_223407_0_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian aggression condemned",
-        "link": "https://www.gdnonline.com/Details/1379181/Iranian-aggression-condemned",
-        "published": "21 Mar 2026",
-        "iso_date": "2026-03-21T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320225324baaa_T.jpg?20260321",
         "source": "gdn",
         "category": "Latest"
       },
@@ -176,52 +186,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Liverpool suffer Salah blow in chase for Champions League",
-        "link": "https://www.newsofbahrain.com/sports/128937.html",
+        "title": "Drone attack causes fire at Kuwait oil refinery",
+        "link": "https://www.newsofbahrain.com/world/128943.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jeHDRNhQyv_2026-03-21_1774100204resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ShEWnby3rk_2026-03-21_1774101554resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Wembanyama lifts playoffbound Spurs, Doncic and James fuel Lakers",
-        "link": "https://www.newsofbahrain.com/sports/128936.html",
+        "title": "NASA returns moon rocket to pad, eyeing April 1 launch",
+        "link": "https://www.newsofbahrain.com/world/128942.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_02QAzLhPTs_2026-03-21_1774099913resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QrOVqJbzc1_2026-03-21_1774101297resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Forest survive shoot-out to reach Europa League quarters, Villa advance",
-        "link": "https://www.newsofbahrain.com/sports/128935.html",
+        "title": "North Korean leader, daughter try out new tank",
+        "link": "https://www.newsofbahrain.com/world/128941.html",
         "published": "21 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_826zrphVKX_2026-03-21_1774099757resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jakVJpCtf7_2026-03-21_1774101217resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Arsenal must prove they are winners in League Cup final, says Arteta",
-        "link": "https://www.newsofbahrain.com/sports/128934.html",
+        "title": "Swiatek stunned at Miami Open by 50th-ranked Linette",
+        "link": "https://www.newsofbahrain.com/sports/128939.html",
         "published": "21 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kR6bJPpYZQ_2026-03-21_1774099346resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ak0BhNUW8m_2026-03-21_1774100751resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Spurs face survival showdown, Chelsea need top-four surge",
-        "link": "https://www.newsofbahrain.com/sports/128933.html",
+        "title": "Kane credits Kompany’s Bayern ‘evolution’ as treble beckons",
+        "link": "https://www.newsofbahrain.com/sports/128938.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BHo3NueCYQ_2026-03-21_1774099185resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XVsxObSZ0L_2026-03-21_1774100617resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,36 +292,6 @@
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WMo3TYBDA1_2026-03-21_1774098970thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Seized Oil Tankers Cost U.S. Millions, Undermining Trump’s ‘Financial Boon’ Claim",
-        "link": "https://www.newsofbahrain.com/world/128931.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_K4xg3aetAX_2026-03-21_1774097751thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Indian PM Modi condemns attacks on critical infrastructure in talks with Iran president",
-        "link": "https://www.newsofbahrain.com/world/128930.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GUz0y7LAS6_2026-03-21_1774097650thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ukraine Launches More Than 280 Drones at Russia in One of Its Largest Strikes",
-        "link": "https://www.newsofbahrain.com/world/128929.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_krsaSLjout_2026-03-21_1774097422thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 13:40:11 UTC"
+  "fetched_at": "2026-03-21 14:23:52 UTC"
 }
