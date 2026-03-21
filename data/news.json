@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 16
+      "count": 11
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -66,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOek01ektfRURMTW5sa3VSTnJLdDRxZEh6RnFUN2VCREZreENib3NIV3Roa0ZZVEJQX2pzMUxWM3hUS3FZTk5wZmNNaXlydXQ3NTFoV1k4NTAxeS1DVHlobGJvMEJhdmY5aEVEbEk5VGVTd1BOdDhTMXFEa3JXVENha3FTWjRaMWpITHJlZnphWmhCWmdjVjJKNTFkemQ2THUtdW5OcDZCaGpoQno4MVc0WHFmS0F3Zw?oc=5",
         "published": "20 Mar 2026, 10:04 AM",
         "iso_date": "2026-03-20T10:04:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
-        "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQTUlsRVg0YU9OOFp3S3F1bll3ZjNBSEk0NDFSUWx2Q3dyM1FBRGZrM1BZajVTUVRnUy1Da0pnRDVHVXdZX1huS1gteVBRaTBhdVAzeWhQSVFYbU1vSWZ0dGpXMkVQZnB4Y3BnWFFrMWVoN2RMYVRPc2c5MUdKaGNFeWhUSU5HdFNPN3g3eEFYT05KcUVscEQ0bVJLb2ZtbGRobGd2X0hDSTRtemZxUjRTS1F0aldDX0pyM3hiQjdTYjZiRE9tX1FoWlRVdGhmQ1hpb1BhSURlaF81bXFOdDZKM2VkUjNFNVM5Tjl2TXRCbW52TUtmTjA0NTVXdWR3MXcxVEFLTFlPamZuSGRZMUMwQlgyNjI1TEt0ZGpPUXF1ckdSbjEtVTRjVTFGSU01RWNlQVZzMmlJc0FibEtwUVdGcHVRb2NhSHlhcGdvVWpTYzZZRUJxSXZKSHRLVWZmckEwbEYybmZENA?oc=5",
-        "published": "20 Mar 2026, 01:14 PM",
-        "iso_date": "2026-03-20T13:14:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -144,46 +134,6 @@
         "category": "Latest"
       },
       {
-        "title": "CBB keeps rate steady",
-        "link": "https://www.gdnonline.com/Details/1379003/CBB-keeps-rate-steady",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319004502cbb_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB Group holds virtual meeting",
-        "link": "https://www.gdnonline.com/Details/1378998/NBB-Group-holds-virtual-meeting",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319002420officials_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BFMâs shareholders approve cash dividends of BD620,620",
-        "link": "https://www.gdnonline.com/Details/1378999/BFMâs-shareholders-approve-cash-dividends-of-BD620,620",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319_001625_0_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Hotels Groupâs shareholders approve BD5.64m dividend for 2025",
-        "link": "https://www.gdnonline.com/Details/1379001/Gulf-Hotels-Groupâs-shareholders-approve-BD564m-dividend-for-2025",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260319003923picone_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Philippines clinch World Cup berth",
         "link": "https://www.gdnonline.com/Details/1379131/Philippines-clinch-World-Cup-berth",
         "published": "20 Mar 2026",
@@ -230,16 +180,6 @@
         "iso_date": "2026-03-20T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260320/20260320_014835_0_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "On a mission in space",
-        "link": "https://www.gdnonline.com/Details/1378992/On-a-mission-in-space",
-        "published": "19 Mar 2026",
-        "iso_date": "2026-03-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260319/20260318_204527_2_T.jpg?20260321",
         "source": "gdn",
         "category": "Latest"
       }
@@ -499,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-20 23:51:45 UTC"
+  "fetched_at": "2026-03-21 01:46:17 UTC"
 }
