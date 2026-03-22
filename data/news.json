@@ -10,13 +10,13 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 5
+      "count": 8
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -54,57 +54,127 @@
     ],
     "gdn": [
       {
-        "title": "British PM calls Bahrain's HRH Crown Prince & PM to discuss Iran aggression latest",
-        "link": "https://www.gdnonline.com/Details/1379246/British-PM-calls-Bahrains-HRH-Crown-Prince--PM-to-discuss-Iran-aggression-latest",
-        "published": "21 Mar 2026",
-        "iso_date": "2026-03-21T00:00:00",
+        "title": "Boosting ties with Egypt",
+        "link": "https://www.gdnonline.com/Details/1379248/Boosting-ties-with-Egypt",
+        "published": "22 Mar 2026",
+        "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321201131gdn-websitesize-2026-03-21t201905.430_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322022102alsisi_T.jpg?20260322",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "HM King Hamad holds talks with Egyptian President",
-        "link": "https://www.gdnonline.com/Details/1379242/HM-King-Hamad-holds-talks-with-Egyptian-President",
-        "published": "21 Mar 2026",
-        "iso_date": "2026-03-21T00:00:00",
+        "title": "Travel disruptions spark emotional exhaustion",
+        "link": "https://www.gdnonline.com/Details/1379261/Travel-disruptions-spark-emotional-exhaustion",
+        "published": "22 Mar 2026",
+        "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321154205websize(4)_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260321_225701_1.jpeg?20260322",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Two killed in Zallaq collision involving vehicle and bikes",
-        "link": "https://www.gdnonline.com/Details/1379231/Two-killed-in-Zallaq-collision-involving-vehicle-and-bikes",
-        "published": "21 Mar 2026",
-        "iso_date": "2026-03-21T00:00:00",
+        "title": "Ensuring readiness with emergency survival kits",
+        "link": "https://www.gdnonline.com/Details/1379249/Ensuring-readiness-with-emergency-survival-kits",
+        "published": "22 Mar 2026",
+        "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321083750websitesize(4)_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260321_225609_0_T.jpg?20260322",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Legislators push to fast-track Nurana Island infrastructure",
-        "link": "https://www.gdnonline.com/Details/1379187/Legislators-push-to-fast-track-Nurana-Island-infrastructure",
-        "published": "21 Mar 2026",
-        "iso_date": "2026-03-21T00:00:00",
+        "title": "Two children rescued from house fire in Janusan",
+        "link": "https://www.gdnonline.com/Details/1379301/Two-children-rescued-from-house-fire-in-Janusan",
+        "published": "22 Mar 2026",
+        "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321005250ntwo_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322090632civildefence.jpeg?20260322",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Rainwater harvesting call",
-        "link": "https://www.gdnonline.com/Details/1379185/Rainwater-harvesting-call",
-        "published": "21 Mar 2026",
-        "iso_date": "2026-03-21T00:00:00",
+        "title": "Urgent clean-up call over old housing blocks debris",
+        "link": "https://www.gdnonline.com/Details/1379247/Urgent-clean-up-call-over-old-housing-blocks-debris",
+        "published": "22 Mar 2026",
+        "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321004933carsone_T.jpg?20260321",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322003434four_T.jpg?20260322",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bellingham and Mbappe âfit for Madrid derbyâ",
+        "link": "https://www.gdnonline.com/Details/1379294/Bellingham-and-Mbappe-âfit-for-Madrid-derbyâ",
+        "published": "22 Mar 2026",
+        "iso_date": "2026-03-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_020022_2_T.jpg?20260322",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bayern thrash Union Berlin to extend lead",
+        "link": "https://www.gdnonline.com/Details/1379288/Bayern-thrash-Union-Berlin-to-extend-lead",
+        "published": "22 Mar 2026",
+        "iso_date": "2026-03-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322014156bayern_T.jpg?20260322",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Liverpoolâs Champions League hopes dented",
+        "link": "https://www.gdnonline.com/Details/1379295/Liverpoolâs-Champions-League-hopes-dented",
+        "published": "22 Mar 2026",
+        "iso_date": "2026-03-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_020023_0_T.jpg?20260322",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
+      {
+        "title": "CENTCOM Releases Strike Footage as US-Iran Tensions Escalate",
+        "link": "https://www.newsofbahrain.com/world/128964.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Kf93itNgYd_2026-03-22_1774167059resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bangladesh Seeks $2 Billion Loans to Tackle Fuel Crisis Amid Global Price Spike",
+        "link": "https://www.newsofbahrain.com/world/128963.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1SFdpZom3s_2026-03-22_1774166615resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Cuba Plunged into Darkness as Power Grid Collapses for Second Time in a Week",
+        "link": "https://www.newsofbahrain.com/world/128962.html",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sb875KUtDV_2026-03-22_1774166319resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Civil Defence Rescues Two Children from House Fire in Jannusan",
+        "link": "https://www.newsofbahrain.com/bahrain/128961.html",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TPOoBbj4JM_2026-03-22_1774165978resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Missile Strikes Deepen Crisis as Iran Warns ‘Enemy’ Vessels and US Issues Fresh Threats",
         "link": "https://www.newsofbahrain.com/world/128960.html",
@@ -112,46 +182,6 @@
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WdnKuACPEM_2026-03-22_1774164118resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "13 Children Among 64 Killed in Sudan Hospital Strike: WHO",
-        "link": "https://www.newsofbahrain.com/world/128958.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nhD0t7N9lR_2026-03-22_1774162584resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE President Urges Diplomacy Amid Iran Attacks on Gulf States",
-        "link": "https://www.newsofbahrain.com/world/128957.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zNtvyAIKUq_2026-03-22_1774161328resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Work from Home, Travel Less: IEA Advice as Oil Crisis Deepens",
-        "link": "https://www.newsofbahrain.com/world/128956.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MZgPH2dfts_2026-03-22_1774160815resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India to Lift Domestic Flight Fare Caps from March 23",
-        "link": "https://www.newsofbahrain.com/world/128954.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D7R4Sj6gkO_2026-03-22_1774160547resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -192,16 +222,6 @@
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_IDXghaEWA0_2026-03-21_1774086823thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Court orders tenant company to pay BD8,700 and vacate shop",
-        "link": "https://www.newsofbahrain.com/bahrain/128911.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fta8NWdz4B_2026-03-21_1774081332thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -369,5 +389,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 07:36:17 UTC"
+  "fetched_at": "2026-03-22 08:30:43 UTC"
 }
