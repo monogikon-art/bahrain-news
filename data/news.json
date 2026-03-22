@@ -176,6 +176,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Starmer, Trump Discuss Reopening Strait of Hormuz in Phone Call",
+        "link": "https://www.newsofbahrain.com/world/128990.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2QMEs4Z9In_2026-03-22_1774221324resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Welcomes G7-EU Support for Regional Security",
         "link": "https://www.newsofbahrain.com/bahrain/128989.html",
         "published": "23 Mar 2026, 09:22 AM",
@@ -188,8 +198,8 @@
       {
         "title": "Iran President Responds to Trump’s 48-Hour Hormuz Deadline",
         "link": "https://www.newsofbahrain.com/world/128987.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_fuT2QVX1oG_2026-03-22_1774212086resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,20 +218,10 @@
       {
         "title": "22 Nations Unite to Secure Strait of Hormuz: NATO Chief",
         "link": "https://www.newsofbahrain.com/world/128984.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZpg9wMs0T_2026-03-22_1774198901resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Denies Claims of F-15 Downing, Confirms No Aircraft Lost",
-        "link": "https://www.newsofbahrain.com/world/128983.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vzbjQmEqYB_2026-03-22_1774198609resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZpg9wMs0T_2026-03-22_1774198901resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -256,12 +256,12 @@
         "category": "Latest"
       },
       {
-        "title": "Jordan’s Senate President Affirms Full Solidarity with Bahrain",
-        "link": "https://www.newsofbahrain.com/world/128982.html",
+        "title": "US Denies Claims of F-15 Downing, Confirms No Aircraft Lost",
+        "link": "https://www.newsofbahrain.com/world/128983.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PdDtO76gq0_2026-03-22_1774197969thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vzbjQmEqYB_2026-03-22_1774198609thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -409,5 +409,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 22:51:29 UTC"
+  "fetched_at": "2026-03-22 23:24:25 UTC"
 }
