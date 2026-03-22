@@ -42,20 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain says 145 missiles and 246 drones intercepted since Iranian attacks began",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0tRTHJMSmp4dk5Xb2JMR1EtT1EzLUlwdzNTMHZJM3RKSjhpSWVKOThXTUVZVlp0cTZRX0JWeHgwX2NQdDVPd3k4WlBhZ1RxTlN1Vl82dkhhLUxOb1Y1dVVEZUhNc3NKWGtfbXpOMi10TjdlRTlpdTE2TDN0NzhlT016NlVZdmZwOFFtdjNCRzVDeWQ3LTd3X3hzN1NHb1B2aks4NjY4dnhzVXlQYVNyM2swWU9RV0NrS1NF?oc=5",
-        "published": "22 Mar 2026, 10:46 AM",
-        "iso_date": "2026-03-22T10:46:15+00:00",
+        "title": "Iran says it downed F-15 near Hormuz Island",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTks0SGVfVHIyMWlXb0UzcWh1QTdhMjBady1EUno1alBUOGx2RjNfSndyQUxkX2pqQzNwUlUxcFF3RE43VHJhbUR5aTZBWWxUWm9WTmtCb0FseER0LXdjLWZUT0dwajQxdlpLc0tmWjFWaGd1R09YQWQ3OGc0UHE0elVqc2Myemo4R2d3OE5TR0dORjRDa0t0RDhxVQ?oc=5",
+        "published": "22 Mar 2026, 05:07 PM",
+        "iso_date": "2026-03-22T17:07:57+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Saudi Interior Ministry warns of SR100,000 fine, jail for harboring residency violators",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeENFMmUxclpKS3hISnYxSmRzaDlKam5hTXhaQ2NYRzc3T2RJdWQtMlZvS3J4R0J0SFpQWHcyc1hvOWVIM3lSMXNXR2dpWU92U1NMVDNuTEZqLXRiUE1DTTRHLWJJN3dHRGk2eUhfTk1SSmVvRFluMUJwZUhDeXViMkNPcGQwZEEyQUQ0UFdSRFg4SWdfLWRNWHRBUk5MWkRGRmNZN1g1OTRrVWo5ZEVZUUJHLWxFQzgySUFOZTdrZUhqTzZUWmVNMGZidU5uZnppUXRJ?oc=5",
-        "published": "22 Mar 2026, 12:50 AM",
-        "iso_date": "2026-03-22T00:50:15+00:00",
+        "title": "Bahrain says 145 missiles and 246 drones intercepted since Iranian attacks began",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0tRTHJMSmp4dk5Xb2JMR1EtT1EzLUlwdzNTMHZJM3RKSjhpSWVKOThXTUVZVlp0cTZRX0JWeHgwX2NQdDVPd3k4WlBhZ1RxTlN1Vl82dkhhLUxOb1Y1dVVEZUhNc3NKWGtfbXpOMi10TjdlRTlpdTE2TDN0NzhlT016NlVZdmZwOFFtdjNCRzVDeWQ3LTd3X3hzN1NHb1B2aks4NjY4dnhzVXlQYVNyM2swWU9RV0NrS1NF?oc=5",
+        "published": "22 Mar 2026, 10:46 AM",
+        "iso_date": "2026-03-22T10:46:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -94,6 +94,16 @@
         "category": "Latest"
       },
       {
+        "title": "Proposal backed to develop Bahrainâs own Global Village",
+        "link": "https://www.gdnonline.com/Details/1379320/Proposal-backed-to-develop-Bahrainâs-own-Global-Village",
+        "published": "23 Mar 2026",
+        "iso_date": "2026-03-23T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260322_220659_2_T.jpg?20260323",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Zenj Exchange offers bonus on remittances",
         "link": "https://www.gdnonline.com/Details/1379330/Zenj-Exchange-offers-bonus-on-remittances",
         "published": "23 Mar 2026",
@@ -110,16 +120,6 @@
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260323/20260322_220732_2_T.jpg?20260323",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Well-rounded educational experience",
-        "link": "https://www.gdnonline.com/Details/1379331/Well-rounded-educational-experience",
-        "published": "23 Mar 2026",
-        "iso_date": "2026-03-23T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260322_220813_1.png?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -409,5 +409,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 23:24:25 UTC"
+  "fetched_at": "2026-03-22 23:50:57 UTC"
 }
