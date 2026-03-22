@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 12
     }
   },
   "articles": {
@@ -146,6 +146,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Extends Condolences to Qatar and Turkey After Deadly Helicopter Crash",
+        "link": "https://www.newsofbahrain.com/bahrain/128978.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ijYErJRpF5_2026-03-22_1774191722resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Israel Seeks Global Support in Confrontation with Iran",
         "link": "https://www.newsofbahrain.com/world/128977.html",
         "published": "22 Mar 2026, 09:22 AM",
@@ -158,8 +168,8 @@
       {
         "title": "US Central Command Releases Images of Hit Iranian Site",
         "link": "https://www.newsofbahrain.com/world/128976.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_KbWBgUDcrQ_2026-03-22_1774181504resized_pic.jpg",
         "source": "newsofbahrain",
@@ -178,20 +188,10 @@
       {
         "title": "UAE Air Defences Intercept 4 Ballistic Missiles, 25 Drones Reports Latest Interceptions",
         "link": "https://www.newsofbahrain.com/world/128972.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YiECBFkKzy_2026-03-22_1774180840resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Belgium Urges Restraint After Iran Strikes Southern Israel",
-        "link": "https://www.newsofbahrain.com/world/128971.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BaN7WhCuAn_2026-03-22_1774180761resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YiECBFkKzy_2026-03-22_1774180840resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -232,16 +232,6 @@
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_eYIJqT3klH_2026-03-21_1774120837thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Middle East Crude Surges Toward $150 Amid Geopolitical Tensions",
-        "link": "https://www.newsofbahrain.com/bahrain/128916.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IDXghaEWA0_2026-03-21_1774086823thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -389,5 +379,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 14:53:14 UTC"
+  "fetched_at": "2026-03-22 15:22:56 UTC"
 }
