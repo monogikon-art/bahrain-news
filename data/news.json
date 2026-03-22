@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 12
     }
   },
   "articles": {
@@ -136,6 +136,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "6 of 7 missing in helicopter crash in Qatar found dead",
+        "link": "https://www.newsofbahrain.com/world/128966.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DTU4IFt9cQ_2026-03-22_1774168279resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "CENTCOM Releases Strike Footage as US-Iran Tensions Escalate",
         "link": "https://www.newsofbahrain.com/world/128964.html",
         "published": "22 Mar 2026, 09:22 AM",
@@ -148,8 +158,8 @@
       {
         "title": "Bangladesh Seeks $2 Billion Loans to Tackle Fuel Crisis Amid Global Price Spike",
         "link": "https://www.newsofbahrain.com/world/128963.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1SFdpZom3s_2026-03-22_1774166615resized_pic.jpg",
         "source": "newsofbahrain",
@@ -168,20 +178,10 @@
       {
         "title": "Civil Defence Rescues Two Children from House Fire in Jannusan",
         "link": "https://www.newsofbahrain.com/bahrain/128961.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TPOoBbj4JM_2026-03-22_1774165978resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Missile Strikes Deepen Crisis as Iran Warns ‘Enemy’ Vessels and US Issues Fresh Threats",
-        "link": "https://www.newsofbahrain.com/world/128960.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WdnKuACPEM_2026-03-22_1774164118resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TPOoBbj4JM_2026-03-22_1774165978resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -252,26 +252,6 @@
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_cKavAXswTO_2026-03-21_1774081977thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Air India, Air India Express to Operate 42 Flights",
-        "link": "https://www.newsofbahrain.com/world/128890.html",
-        "published": "20 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WZEHyvK60X_2026-03-20_1774030414thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ramadan Charity Initiatives at BhavansBahrain Indian School",
-        "link": "https://www.newsofbahrain.com/views/128863.html",
-        "published": "20 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kM5iZAU4X2_2026-03-20_1773995004thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -389,5 +369,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 08:30:43 UTC"
+  "fetched_at": "2026-03-22 09:29:11 UTC"
 }
