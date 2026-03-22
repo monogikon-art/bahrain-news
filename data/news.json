@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 5
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -22,10 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain, Egypt call for int’l cooperation to protect Strait of Hormuz",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTRINGd0OHE5dTJ4d0t6Y3NXbWZZTzdVQUtnYlo3NWItdG4zMGtvaUVqc1dOSXpmbmhTMDhjbmowSl9yYWlEdnFMdlNYZHd1d1NjNDFIMkdFQXlEbkw2X0JrLVZ4NXdpd1ZFd1B2SXlQZkFZUmdYMVZGbEcyYndtTnBnNkZ2Tll4YVVDSERmdGRxckh3Tm1Ic29ITXU4amFPaGRPTUl4N29paWFidWFsctIBtgFBVV95cUxQZGs3dWx3dnpKUng2bGhpSFFTWEVkRzRoQlFmRWpJeFljRzJ2OXYwOFdsel9KWnJ5cF95ck15UUZqc1Rrd1Q4ZlpjVG5tdVhxZG1hZ3ZQdVRVQzA4Vm5zZzVLYW1XOFlVWmRTTFh2ODg2TjJBNlNMNkFZTHVuOHBnb1k0YjNsU0J6QklRQ2pnaTB4QVVxZ05oenl1engzWWlXRlhjNXk4RF9YdTY3MVBHdkJ0WkV6QQ?oc=5",
-        "published": "21 Mar 2026, 04:13 PM",
-        "iso_date": "2026-03-21T16:13:00+00:00",
+        "title": "Bahrain, Egypt call for int'l cooperation to protect Strait of Hormuz",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLUZiUzFXd3NZb19lWmg4ZFRUWWZBaHdoWnpfcE1Lb1JjbTQycVFvWlVFT3FkbVQ0YXJST0N0dE45alp6bGNhcEp2UmEtVTEzRUowSldsTnY4cENLVVVPcTBNdnlEVDJQVlVjVGNoSi1qVmVkX1J1U1N3NXpUSmt3UUt4bWhxcURjdlRUUDZCM2ZTb01aVU9OQzRrbGJBOWF1WVhhWTdHY3NPc3lYMHBvM1pn?oc=5",
+        "published": "21 Mar 2026, 06:07 PM",
+        "iso_date": "2026-03-21T18:07:50+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -33,19 +33,9 @@
       },
       {
         "title": "Egyptian president arrives in Bahrain amid regional escalation",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGE1VDJ3eW4xcjlWMkVlcy1vbHpmRkdkV2poSWh2TXYyMlFfT1Qxb2o3MXZ5dS1qU3F4RFF2dVBkTkdwNVFKSldMalNFMk9kM0NSQ1pRS21welpDSFN3aVRCcUlWeFNDR2Vrbnd1cl9tMmtCRlM3WEdrb3ZEMUo0TElaOE1OVXhwS0tzSHgzenc5NWRMTWdLMEktLS1UNWljZU1iY205cHRCR1E?oc=5",
-        "published": "21 Mar 2026, 01:42 PM",
-        "iso_date": "2026-03-21T13:42:53+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNal9aZmctazJ1VnNPRWswb3JjaG1qX0kwbUU1NzR6N3BlZzh2SEhmQUlKaUJJV0hNWDNsVDdyUTVJSUlaWWRBaWtqQ3kzUkQ5dU01VEx4eDVEU3QzZTlFUjlBRW1zWlp2VXgzNGZaY1EzdXNwazdFVV9nWGNMX2l2d05CODdTY0RneTVZSWtmZGE1enNUNHVucGNFa2tlRS1TU2NoVXlNazVCV3RLaVdDY2dYcEZlX3duWXlwOGtfT2Fsa25Pa1RVaktKdDlyVGthRXRyOGZxWFFzQ3V0M19nX2FxSnJWbTY5VVF5U3BWV0xjcEk4WnEwNWt2YWFyZWhXVXFscGFrZkdtVWxTeHU5TkY4eGhQOFBCaVB1NjVSNW5MUUtMSUNfOV9XeGNablNEblVsRUxadTZfejZfTmpoOHJiWjd4VUt1ZmI1REwxLTRiaFJnbGtqcXhWdEV0Y2xhRWxvZnNlTEJtb2czb0thY19tcGVsZVZIeHZIU25PMjdhaUxBZl8ybk8zcjlyUEpLTHpEb05yX0tGY3VqV3dHa19IUFlQcTg?oc=5",
-        "published": "21 Mar 2026, 04:31 AM",
-        "iso_date": "2026-03-21T04:31:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSnFrMkVNVUNfOXpjQjB4c3hEWGJjUmJqbmNWbW9GeFZ0TEVaLTdUbzBacjF2VTFIX3hCY1hyRER4MGZmTVdyM0ppZHNsSzJpSXFJV3Q4R0h5SGtPQmRqN0ZIRUFvZjlhNkxUZ29yTC1KVGlrNEVTTVgzaEJSR3RxMGk1cVdkREpELXdyTDd3?oc=5",
+        "published": "21 Mar 2026, 02:23 PM",
+        "iso_date": "2026-03-21T14:23:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -60,19 +50,60 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      }
+    ],
+    "gdn": [
+      {
+        "title": "British PM calls Bahrain's HRH Crown Prince & PM to discuss Iran aggression latest",
+        "link": "https://www.gdnonline.com/Details/1379246/British-PM-calls-Bahrains-HRH-Crown-Prince--PM-to-discuss-Iran-aggression-latest",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321201131gdn-websitesize-2026-03-21t201905.430_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
       },
       {
-        "title": "Bahrain pledges support for Strait of Hormuz safety efforts",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejlmZkNUSEIycHNVY1FXYTBGOHFtZUNkN19kQVFNdWZTeENzUTRVMDVNcVJxdUgwNGFRX1pCQm9sa2VRR2JneWttOWZoTUdNZ0FPZUxTUVE1MlRTamVKSGdLTFB5NlpzdTJhbG1hVWZVbmxXOXNBNnNubVA5Wl9EeUNQdXNteUlfd2Iwa0hwRHJuVDBvVDdxNFpqTG5wQQ?oc=5",
-        "published": "21 Mar 2026, 05:00 AM",
-        "iso_date": "2026-03-21T05:00:54+00:00",
+        "title": "HM King Hamad holds talks with Egyptian President",
+        "link": "https://www.gdnonline.com/Details/1379242/HM-King-Hamad-holds-talks-with-Egyptian-President",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
         "summary": "",
-        "image": "",
-        "source": "bna",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321154205websize(4)_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Two killed in Zallaq collision involving vehicle and bikes",
+        "link": "https://www.gdnonline.com/Details/1379231/Two-killed-in-Zallaq-collision-involving-vehicle-and-bikes",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321083750websitesize(4)_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Legislators push to fast-track Nurana Island infrastructure",
+        "link": "https://www.gdnonline.com/Details/1379187/Legislators-push-to-fast-track-Nurana-Island-infrastructure",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321005250ntwo_T.jpg?20260321",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Rainwater harvesting call",
+        "link": "https://www.gdnonline.com/Details/1379185/Rainwater-harvesting-call",
+        "published": "21 Mar 2026",
+        "iso_date": "2026-03-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260321/20260321004933carsone_T.jpg?20260321",
+        "source": "gdn",
         "category": "Latest"
       }
     ],
-    "gdn": [],
     "newsofbahrain": [
       {
         "title": "Trump Threatens to “Obliterate” Iran Power Plants",
@@ -328,5 +359,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 04:22:40 UTC"
+  "fetched_at": "2026-03-22 05:36:27 UTC"
 }
