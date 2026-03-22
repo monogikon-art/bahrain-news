@@ -176,6 +176,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Welcomes G7-EU Support for Regional Security",
+        "link": "https://www.newsofbahrain.com/bahrain/128989.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OqR8ymPo7w_2026-03-22_1774216233resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Iran President Responds to Trump’s 48-Hour Hormuz Deadline",
         "link": "https://www.newsofbahrain.com/world/128987.html",
         "published": "22 Mar 2026, 09:22 AM",
@@ -188,8 +198,8 @@
       {
         "title": "Bahrain MPs Act as ‘Voice of the People’ During Crisis",
         "link": "https://www.newsofbahrain.com/bahrain/128985.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_A5zB9aslyh_2026-03-22_1774200860resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,20 +218,10 @@
       {
         "title": "US Denies Claims of F-15 Downing, Confirms No Aircraft Lost",
         "link": "https://www.newsofbahrain.com/world/128983.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vzbjQmEqYB_2026-03-22_1774198609resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Jordan’s Senate President Affirms Full Solidarity with Bahrain",
-        "link": "https://www.newsofbahrain.com/world/128982.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PdDtO76gq0_2026-03-22_1774197969resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vzbjQmEqYB_2026-03-22_1774198609resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -256,12 +256,12 @@
         "category": "Latest"
       },
       {
-        "title": "Leave for Safety, Still Pay Rent? | Security Fears vs Rental Obligations",
-        "link": "https://www.newsofbahrain.com/bahrain/128945.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
+        "title": "Jordan’s Senate President Affirms Full Solidarity with Bahrain",
+        "link": "https://www.newsofbahrain.com/world/128982.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eENRZ3WClY_2026-03-21_1774121566thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PdDtO76gq0_2026-03-22_1774197969thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -409,5 +409,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 21:48:55 UTC"
+  "fetched_at": "2026-03-22 22:22:00 UTC"
 }
