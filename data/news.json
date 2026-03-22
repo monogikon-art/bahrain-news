@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -106,42 +106,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Trump Threatens to “Obliterate” Iran Power Plants",
-        "link": "https://www.newsofbahrain.com/world/128950.html",
+        "title": "UAE President Urges Diplomacy Amid Iran Attacks on Gulf States",
+        "link": "https://www.newsofbahrain.com/world/128957.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qQBrGy1Fs3_2026-03-22_1774140711resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zNtvyAIKUq_2026-03-22_1774161328resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE Shuts Down Iranian-Linked Hospital",
-        "link": "https://www.newsofbahrain.com/world/128949.html",
+        "title": "Work from Home, Travel Less: IEA Advice as Oil Crisis Deepens",
+        "link": "https://www.newsofbahrain.com/world/128956.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w6nekDcFuZ_2026-03-22_1774138585resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MZgPH2dfts_2026-03-22_1774160815resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Iran Missiles Hit Southern Israel, 100+ Injured",
-        "link": "https://www.newsofbahrain.com/world/128948.html",
+        "title": "India to Lift Domestic Flight Fare Caps from March 23",
+        "link": "https://www.newsofbahrain.com/world/128954.html",
         "published": "22 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pXvMbHrcfB_2026-03-21_1774137440resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D7R4Sj6gkO_2026-03-22_1774160547resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Saudi Arabia expels Iranian military officials",
-        "link": "https://www.newsofbahrain.com/world/128947.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
+        "title": "Sri Lanka Raises Fuel Prices Again Amid Middle East War Fears",
+        "link": "https://www.newsofbahrain.com/world/128953.html",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mHEUVT1qM6_2026-03-21_1774125642resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_upM1DRGtVn_2026-03-22_1774160272resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Former FBI Chief Robert Mueller Lauded in Death, Trump Comment Triggers Criticism",
+        "link": "https://www.newsofbahrain.com/world/128951.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MvK6PermT1_2026-03-22_1774160064resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -151,7 +161,7 @@
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WqQKgcS4d2_2026-03-21_1774121965resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WqQKgcS4d2_2026-03-21_1774121965thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -359,5 +369,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 05:36:27 UTC"
+  "fetched_at": "2026-03-22 06:46:43 UTC"
 }
