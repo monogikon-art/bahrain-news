@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 12
+      "count": 13
     }
   },
   "articles": {
@@ -33,9 +33,9 @@
       },
       {
         "title": "Egyptian president arrives in Bahrain amid regional escalation",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSnFrMkVNVUNfOXpjQjB4c3hEWGJjUmJqbmNWbW9GeFZ0TEVaLTdUbzBacjF2VTFIX3hCY1hyRER4MGZmTVdyM0ppZHNsSzJpSXFJV3Q4R0h5SGtPQmRqN0ZIRUFvZjlhNkxUZ29yTC1KVGlrNEVTTVgzaEJSR3RxMGk1cVdkREpELXdyTDd3?oc=5",
-        "published": "21 Mar 2026, 02:23 PM",
-        "iso_date": "2026-03-21T14:23:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGE1VDJ3eW4xcjlWMkVlcy1vbHpmRkdkV2poSWh2TXYyMlFfT1Qxb2o3MXZ5dS1qU3F4RFF2dVBkTkdwNVFKSldMalNFMk9kM0NSQ1pRS21welpDSFN3aVRCcUlWeFNDR2Vrbnd1cl9tMmtCRlM3WEdrb3ZEMUo0TElaOE1OVXhwS0tzSHgzenc5NWRMTWdLMEktLS1UNWljZU1iY205cHRCR1E?oc=5",
+        "published": "21 Mar 2026, 01:42 PM",
+        "iso_date": "2026-03-21T13:42:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -136,6 +136,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Japan Weighs Minesweeping Role in Strait of Hormuz After Ceasefire",
+        "link": "https://www.newsofbahrain.com/world/128967.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5CZh2TRWXk_2026-03-22_1774172686resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "6 of 7 missing in helicopter crash in Qatar found dead",
         "link": "https://www.newsofbahrain.com/world/128966.html",
         "published": "22 Mar 2026, 09:22 AM",
@@ -148,8 +158,8 @@
       {
         "title": "CENTCOM Releases Strike Footage as US-Iran Tensions Escalate",
         "link": "https://www.newsofbahrain.com/world/128964.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Kf93itNgYd_2026-03-22_1774167059resized_pic.jpg",
         "source": "newsofbahrain",
@@ -168,8 +178,8 @@
       {
         "title": "Cuba Plunged into Darkness as Power Grid Collapses for Second Time in a Week",
         "link": "https://www.newsofbahrain.com/world/128962.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_sb875KUtDV_2026-03-22_1774166319resized_pic.jpg",
         "source": "newsofbahrain",
@@ -181,7 +191,7 @@
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TPOoBbj4JM_2026-03-22_1774165978resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TPOoBbj4JM_2026-03-22_1774165978thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -369,5 +379,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 09:29:11 UTC"
+  "fetched_at": "2026-03-22 09:56:32 UTC"
 }
