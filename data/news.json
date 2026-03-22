@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGE1VDJ3eW4xcjlWMkVlcy1vbHpmRkdkV2poSWh2TXYyMlFfT1Qxb2o3MXZ5dS1qU3F4RFF2dVBkTkdwNVFKSldMalNFMk9kM0NSQ1pRS21welpDSFN3aVRCcUlWeFNDR2Vrbnd1cl9tMmtCRlM3WEdrb3ZEMUo0TElaOE1OVXhwS0tzSHgzenc5NWRMTWdLMEktLS1UNWljZU1iY205cHRCR1E?oc=5",
         "published": "21 Mar 2026, 01:42 PM",
         "iso_date": "2026-03-21T13:42:53+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain says 145 missiles and 246 drones intercepted since Iranian attacks began",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0tRTHJMSmp4dk5Xb2JMR1EtT1EzLUlwdzNTMHZJM3RKSjhpSWVKOThXTUVZVlp0cTZRX0JWeHgwX2NQdDVPd3k4WlBhZ1RxTlN1Vl82dkhhLUxOb1Y1dVVEZUhNc3NKWGtfbXpOMi10TjdlRTlpdTE2TDN0NzhlT016NlVZdmZwOFFtdjNCRzVDeWQ3LTd3X3hzN1NHb1B2aks4NjY4dnhzVXlQYVNyM2swWU9RV0NrS1NF?oc=5",
+        "published": "22 Mar 2026, 10:46 AM",
+        "iso_date": "2026-03-22T10:46:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -379,5 +389,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 10:27:36 UTC"
+  "fetched_at": "2026-03-22 10:54:33 UTC"
 }
