@@ -42,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 143 missiles, 244 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnV6TE9RUFhFTWhOMWxzY05fbllMZkJPUFp4V055N1lOSC04NjFjamdrLVIyWUVhdVhSNy13N2xhVGowUzRSVTAta3N6TTN4V2hoa0ZyeV93Q1g0a0dOQ2o4X04zRmFyX1B0Vk1jSk1zU20zZDdaZEh2VkJCSnVEbXpqbHJsSDlPOFdEV3BsVXhXWTdOUWVxTlhNUG1qZFJhR1p3dzdEckk0WmFRUm40VU9wNTZvYWtKRDNr?oc=5",
-        "published": "21 Mar 2026, 09:26 PM",
-        "iso_date": "2026-03-21T21:26:00+00:00",
+        "title": "Bahrain intercepts 145 missiles, 246 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGhhMGwySlJJMnFrU3hVWFU0SHlmWDRpUVU2cVM2eW9uZXdlc1VNT2RsOC1wYUhUc21RWE1FWERxNGtyVWYxaHh0a2VDdlB4M2pNZlFNd1VZYTJjamE3MWtJSGZwZFZPYWQ3VG1OWEE1d3Q1cFVPbkJwVjFHTE1COUxHT1QtbGNzdENHdVV0d2RuWkRwd0RIRXNwR1RRWm1majZPSExka05nczRHR2JSTnE1N1BPd3ZIdDJJ?oc=5",
+        "published": "22 Mar 2026, 10:06 AM",
+        "iso_date": "2026-03-22T10:06:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -136,6 +136,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Pakistan Rejects Fuel Price Hike Despite Rising Global Oil Costs",
+        "link": "https://www.newsofbahrain.com/world/128968.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ertcndhA2F_2026-03-22_1774173790resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Japan Weighs Minesweeping Role in Strait of Hormuz After Ceasefire",
         "link": "https://www.newsofbahrain.com/world/128967.html",
         "published": "22 Mar 2026, 09:22 AM",
@@ -148,8 +158,8 @@
       {
         "title": "6 of 7 missing in helicopter crash in Qatar found dead",
         "link": "https://www.newsofbahrain.com/world/128966.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_DTU4IFt9cQ_2026-03-22_1774168279resized_pic.jpg",
         "source": "newsofbahrain",
@@ -168,20 +178,10 @@
       {
         "title": "Bangladesh Seeks $2 Billion Loans to Tackle Fuel Crisis Amid Global Price Spike",
         "link": "https://www.newsofbahrain.com/world/128963.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1SFdpZom3s_2026-03-22_1774166615resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Cuba Plunged into Darkness as Power Grid Collapses for Second Time in a Week",
-        "link": "https://www.newsofbahrain.com/world/128962.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sb875KUtDV_2026-03-22_1774166319resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1SFdpZom3s_2026-03-22_1774166615resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -379,5 +379,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 09:56:32 UTC"
+  "fetched_at": "2026-03-22 10:27:36 UTC"
 }
