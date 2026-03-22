@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 8
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -62,88 +62,7 @@
         "category": "Latest"
       }
     ],
-    "gdn": [
-      {
-        "title": "Boosting ties with Egypt",
-        "link": "https://www.gdnonline.com/Details/1379248/Boosting-ties-with-Egypt",
-        "published": "22 Mar 2026",
-        "iso_date": "2026-03-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322022102alsisi_T.jpg?20260322",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Travel disruptions spark emotional exhaustion",
-        "link": "https://www.gdnonline.com/Details/1379261/Travel-disruptions-spark-emotional-exhaustion",
-        "published": "22 Mar 2026",
-        "iso_date": "2026-03-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260321_225701_1.jpeg?20260322",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Ensuring readiness with emergency survival kits",
-        "link": "https://www.gdnonline.com/Details/1379249/Ensuring-readiness-with-emergency-survival-kits",
-        "published": "22 Mar 2026",
-        "iso_date": "2026-03-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260321_225609_0_T.jpg?20260322",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Two children rescued from house fire in Janusan",
-        "link": "https://www.gdnonline.com/Details/1379301/Two-children-rescued-from-house-fire-in-Janusan",
-        "published": "22 Mar 2026",
-        "iso_date": "2026-03-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322090632civildefence.jpeg?20260322",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Urgent clean-up call over old housing blocks debris",
-        "link": "https://www.gdnonline.com/Details/1379247/Urgent-clean-up-call-over-old-housing-blocks-debris",
-        "published": "22 Mar 2026",
-        "iso_date": "2026-03-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322003434four_T.jpg?20260322",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bellingham and Mbappe âfit for Madrid derbyâ",
-        "link": "https://www.gdnonline.com/Details/1379294/Bellingham-and-Mbappe-âfit-for-Madrid-derbyâ",
-        "published": "22 Mar 2026",
-        "iso_date": "2026-03-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_020022_2_T.jpg?20260322",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bayern thrash Union Berlin to extend lead",
-        "link": "https://www.gdnonline.com/Details/1379288/Bayern-thrash-Union-Berlin-to-extend-lead",
-        "published": "22 Mar 2026",
-        "iso_date": "2026-03-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322014156bayern_T.jpg?20260322",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Liverpoolâs Champions League hopes dented",
-        "link": "https://www.gdnonline.com/Details/1379295/Liverpoolâs-Champions-League-hopes-dented",
-        "published": "22 Mar 2026",
-        "iso_date": "2026-03-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_020023_0_T.jpg?20260322",
-        "source": "gdn",
-        "category": "Latest"
-      }
-    ],
+    "gdn": [],
     "newsofbahrain": [
       {
         "title": "Bahrain MPs Act as ‘Voice of the People’ During Crisis",
@@ -389,5 +308,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 18:32:38 UTC"
+  "fetched_at": "2026-03-22 19:22:42 UTC"
 }
