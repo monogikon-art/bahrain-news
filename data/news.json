@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 12
     }
   },
   "articles": {
@@ -166,6 +166,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Iran President Responds to Trump’s 48-Hour Hormuz Deadline",
+        "link": "https://www.newsofbahrain.com/world/128987.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fuT2QVX1oG_2026-03-22_1774212086resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain MPs Act as ‘Voice of the People’ During Crisis",
         "link": "https://www.newsofbahrain.com/bahrain/128985.html",
         "published": "22 Mar 2026, 09:22 AM",
@@ -178,8 +188,8 @@
       {
         "title": "22 Nations Unite to Secure Strait of Hormuz: NATO Chief",
         "link": "https://www.newsofbahrain.com/world/128984.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZpg9wMs0T_2026-03-22_1774198901resized_pic.jpg",
         "source": "newsofbahrain",
@@ -198,20 +208,10 @@
       {
         "title": "Jordan’s Senate President Affirms Full Solidarity with Bahrain",
         "link": "https://www.newsofbahrain.com/world/128982.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PdDtO76gq0_2026-03-22_1774197969resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s 3×3 Teams Target Asia Cup Success in Singapore",
-        "link": "https://www.newsofbahrain.com/sports/128981.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W5htUBHNAv_2026-03-22_1774197822resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PdDtO76gq0_2026-03-22_1774197969resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -252,16 +252,6 @@
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_eENRZ3WClY_2026-03-21_1774121566thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Rejects Trump’s 48-Hour Ultimatum, Threatens Retaliation Against Energy Infrastructure",
-        "link": "https://www.newsofbahrain.com/world/128979.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b34JVNrUpF_2026-03-22_1774193937thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -409,5 +399,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 20:23:40 UTC"
+  "fetched_at": "2026-03-22 20:51:39 UTC"
 }
