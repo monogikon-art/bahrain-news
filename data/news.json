@@ -106,10 +106,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "UAE President Urges Diplomacy Amid Iran Attacks on Gulf States",
-        "link": "https://www.newsofbahrain.com/world/128957.html",
+        "title": "Missile Strikes Deepen Crisis as Iran Warns ‘Enemy’ Vessels and US Issues Fresh Threats",
+        "link": "https://www.newsofbahrain.com/world/128960.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WdnKuACPEM_2026-03-22_1774164118resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "13 Children Among 64 Killed in Sudan Hospital Strike: WHO",
+        "link": "https://www.newsofbahrain.com/world/128958.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nhD0t7N9lR_2026-03-22_1774162584resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE President Urges Diplomacy Amid Iran Attacks on Gulf States",
+        "link": "https://www.newsofbahrain.com/world/128957.html",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zNtvyAIKUq_2026-03-22_1774161328resized_pic.jpg",
         "source": "newsofbahrain",
@@ -118,8 +138,8 @@
       {
         "title": "Work from Home, Travel Less: IEA Advice as Oil Crisis Deepens",
         "link": "https://www.newsofbahrain.com/world/128956.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_MZgPH2dfts_2026-03-22_1774160815resized_pic.jpg",
         "source": "newsofbahrain",
@@ -128,30 +148,10 @@
       {
         "title": "India to Lift Domestic Flight Fare Caps from March 23",
         "link": "https://www.newsofbahrain.com/world/128954.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D7R4Sj6gkO_2026-03-22_1774160547resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sri Lanka Raises Fuel Prices Again Amid Middle East War Fears",
-        "link": "https://www.newsofbahrain.com/world/128953.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_upM1DRGtVn_2026-03-22_1774160272resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Former FBI Chief Robert Mueller Lauded in Death, Trump Comment Triggers Criticism",
-        "link": "https://www.newsofbahrain.com/world/128951.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MvK6PermT1_2026-03-22_1774160064resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D7R4Sj6gkO_2026-03-22_1774160547resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -369,5 +369,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 06:46:43 UTC"
+  "fetched_at": "2026-03-22 07:36:17 UTC"
 }
