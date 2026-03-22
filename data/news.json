@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,6 +52,16 @@
         "category": "Latest"
       },
       {
+        "title": "Saudi Interior Ministry warns of SR100,000 fine, jail for harboring residency violators",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeENFMmUxclpKS3hISnYxSmRzaDlKam5hTXhaQ2NYRzc3T2RJdWQtMlZvS3J4R0J0SFpQWHcyc1hvOWVIM3lSMXNXR2dpWU92U1NMVDNuTEZqLXRiUE1DTTRHLWJJN3dHRGk2eUhfTk1SSmVvRFluMUJwZUhDeXViMkNPcGQwZEEyQUQ0UFdSRFg4SWdfLWRNWHRBUk5MWkRGRmNZN1g1OTRrVWo5ZEVZUUJHLWxFQzgySUFOZTdrZUhqTzZUWmVNMGZidU5uZnppUXRJ?oc=5",
+        "published": "22 Mar 2026, 12:50 AM",
+        "iso_date": "2026-03-22T00:50:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain intercepts 145 missiles, 246 drones since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGhhMGwySlJJMnFrU3hVWFU0SHlmWDRpUVU2cVM2eW9uZXdlc1VNT2RsOC1wYUhUc21RWE1FWERxNGtyVWYxaHh0a2VDdlB4M2pNZlFNd1VZYTJjamE3MWtJSGZwZFZPYWQ3VG1OWEE1d3Q1cFVPbkJwVjFHTE1COUxHT1QtbGNzdENHdVV0d2RuWkRwd0RIRXNwR1RRWm1majZPSExka05nczRHR2JSTnE1N1BPd3ZIdDJJ?oc=5",
         "published": "22 Mar 2026, 10:06 AM",
@@ -69,7 +79,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322022102alsisi_T.jpg?20260322",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322022102alsisi_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -79,7 +89,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260321_225701_1.jpeg?20260322",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260321_225701_1.jpeg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -89,7 +99,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260321_225609_0_T.jpg?20260322",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260321_225609_0_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +109,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322090632civildefence.jpeg?20260322",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322090632civildefence.jpeg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +119,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322003434four_T.jpg?20260322",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322003434four_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,7 +129,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_212810_0_T.jpg?20260322",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_212810_0_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +139,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_191109_0_T.jpg?20260322",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_191109_0_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +149,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_020022_2_T.jpg?20260322",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_020022_2_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +159,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322014156bayern_T.jpg?20260322",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322014156bayern_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +169,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_020023_0_T.jpg?20260322",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_020023_0_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       }
@@ -399,5 +409,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 21:23:02 UTC"
+  "fetched_at": "2026-03-22 21:48:55 UTC"
 }
