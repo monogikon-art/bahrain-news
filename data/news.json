@@ -146,10 +146,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Jordan’s Senate President Affirms Full Solidarity with Bahrain",
-        "link": "https://www.newsofbahrain.com/world/128982.html",
+        "title": "22 Nations Unite to Secure Strait of Hormuz: NATO Chief",
+        "link": "https://www.newsofbahrain.com/world/128984.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZpg9wMs0T_2026-03-22_1774198901resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Denies Claims of F-15 Downing, Confirms No Aircraft Lost",
+        "link": "https://www.newsofbahrain.com/world/128983.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vzbjQmEqYB_2026-03-22_1774198609resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Jordan’s Senate President Affirms Full Solidarity with Bahrain",
+        "link": "https://www.newsofbahrain.com/world/128982.html",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_PdDtO76gq0_2026-03-22_1774197969resized_pic.jpg",
         "source": "newsofbahrain",
@@ -158,8 +178,8 @@
       {
         "title": "Bahrain’s 3×3 Teams Target Asia Cup Success in Singapore",
         "link": "https://www.newsofbahrain.com/sports/128981.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_W5htUBHNAv_2026-03-22_1774197822resized_pic.jpg",
         "source": "newsofbahrain",
@@ -168,20 +188,10 @@
       {
         "title": "Muharraq, Manama Set for Khalifa bin Salman Cup Final",
         "link": "https://www.newsofbahrain.com/sports/128980.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_oMg5eDnASa_2026-03-22_1774197625resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Rejects Trump’s 48-Hour Ultimatum, Threatens Retaliation Against Energy Infrastructure",
-        "link": "https://www.newsofbahrain.com/world/128979.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b34JVNrUpF_2026-03-22_1774193937resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -191,7 +201,7 @@
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ijYErJRpF5_2026-03-22_1774191722resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ijYErJRpF5_2026-03-22_1774191722thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -236,22 +246,12 @@
         "category": "Latest"
       },
       {
-        "title": "Israel Seeks Global Support in Confrontation with Iran",
-        "link": "https://www.newsofbahrain.com/world/128977.html",
+        "title": "Iran Rejects Trump’s 48-Hour Ultimatum, Threatens Retaliation Against Energy Infrastructure",
+        "link": "https://www.newsofbahrain.com/world/128979.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8Ys37aDRkx_2026-03-22_1774181966thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Central Command Releases Images of Hit Iranian Site",
-        "link": "https://www.newsofbahrain.com/world/128976.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KbWBgUDcrQ_2026-03-22_1774181504thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b34JVNrUpF_2026-03-22_1774193937thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -399,5 +399,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 16:55:03 UTC"
+  "fetched_at": "2026-03-22 17:23:01 UTC"
 }
