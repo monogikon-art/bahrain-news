@@ -146,6 +146,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Qatar Defence Ministry Announces Casualties After Helicopter Crash; Qatar-Turkey Personnel Among Dead",
+        "link": "https://www.newsofbahrain.com/world/128969.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TU2dsPaJNB_2026-03-22_1774179700resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Pakistan Rejects Fuel Price Hike Despite Rising Global Oil Costs",
         "link": "https://www.newsofbahrain.com/world/128968.html",
         "published": "22 Mar 2026, 09:22 AM",
@@ -158,8 +168,8 @@
       {
         "title": "Japan Weighs Minesweeping Role in Strait of Hormuz After Ceasefire",
         "link": "https://www.newsofbahrain.com/world/128967.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_5CZh2TRWXk_2026-03-22_1774172686resized_pic.jpg",
         "source": "newsofbahrain",
@@ -178,20 +188,10 @@
       {
         "title": "CENTCOM Releases Strike Footage as US-Iran Tensions Escalate",
         "link": "https://www.newsofbahrain.com/world/128964.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Kf93itNgYd_2026-03-22_1774167059resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bangladesh Seeks $2 Billion Loans to Tackle Fuel Crisis Amid Global Price Spike",
-        "link": "https://www.newsofbahrain.com/world/128963.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1SFdpZom3s_2026-03-22_1774166615resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Kf93itNgYd_2026-03-22_1774167059resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -389,5 +389,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-22 11:21:02 UTC"
+  "fetched_at": "2026-03-22 11:45:33 UTC"
 }
