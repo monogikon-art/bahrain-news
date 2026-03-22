@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 11
+      "count": 5
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -122,74 +122,44 @@
         "image": "https://www.gdnonline.com/gdnimages/20260321/20260321004933carsone_T.jpg?20260321",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Chamber poll procedures outlined as deadline nears for nominations",
-        "link": "https://www.gdnonline.com/Details/1379103/Chamber-poll-procedures-outlined-as-deadline-nears-for-nominations",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260319_220555_0_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Philippines clinch World Cup berth",
-        "link": "https://www.gdnonline.com/Details/1379131/Philippines-clinch-World-Cup-berth",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320015429actions_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Football team to train in Bahrain",
-        "link": "https://www.gdnonline.com/Details/1379115/Football-team-to-train-in-Bahrain",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320005634zxxz_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Messi joins Ronaldo in 900 club",
-        "link": "https://www.gdnonline.com/Details/1379116/Messi-joins-Ronaldo-in-900-club",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320005746ikam_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Morocco fans welcome Africa Cup decision",
-        "link": "https://www.gdnonline.com/Details/1379117/Morocco-fans-welcome-Africa-Cup-decision",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320005808moaoao_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Villa advance",
-        "link": "https://www.gdnonline.com/Details/1379132/Villa-advance",
-        "published": "20 Mar 2026",
-        "iso_date": "2026-03-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260320/20260320_014835_0_T.jpg?20260321",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
+        "title": "Trump Threatens to “Obliterate” Iran Power Plants",
+        "link": "https://www.newsofbahrain.com/world/128950.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qQBrGy1Fs3_2026-03-22_1774140711resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE Shuts Down Iranian-Linked Hospital",
+        "link": "https://www.newsofbahrain.com/world/128949.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w6nekDcFuZ_2026-03-22_1774138585resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Missiles Hit Southern Israel, 100+ Injured",
+        "link": "https://www.newsofbahrain.com/world/128948.html",
+        "published": "22 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-22T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pXvMbHrcfB_2026-03-21_1774137440resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Saudi Arabia expels Iranian military officials",
         "link": "https://www.newsofbahrain.com/world/128947.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
+        "published": "21 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-21T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_mHEUVT1qM6_2026-03-21_1774125642resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,30 +178,20 @@
       {
         "title": "Leave for Safety, Still Pay Rent? | Security Fears vs Rental Obligations",
         "link": "https://www.newsofbahrain.com/bahrain/128945.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
+        "published": "21 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eENRZ3WClY_2026-03-21_1774121566resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eENRZ3WClY_2026-03-21_1774121566thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain and U.S. Discuss Regional Security in High-Level Call",
         "link": "https://www.newsofbahrain.com/bahrain/128944.html",
-        "published": "21 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eYIJqT3klH_2026-03-21_1774120837resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone attack causes fire at Kuwait oil refinery",
-        "link": "https://www.newsofbahrain.com/world/128943.html",
         "published": "21 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ShEWnby3rk_2026-03-21_1774101554resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eYIJqT3klH_2026-03-21_1774120837thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -252,26 +212,6 @@
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fta8NWdz4B_2026-03-21_1774081332thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NASA returns moon rocket to pad, eyeing April 1 launch",
-        "link": "https://www.newsofbahrain.com/world/128942.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QrOVqJbzc1_2026-03-21_1774101297thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "North Korean leader, daughter try out new tank",
-        "link": "https://www.newsofbahrain.com/world/128941.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jakVJpCtf7_2026-03-21_1774101217thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +379,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-21 23:47:03 UTC"
+  "fetched_at": "2026-03-22 01:57:26 UTC"
 }
