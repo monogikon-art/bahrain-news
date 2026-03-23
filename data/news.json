@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "Iran says it downed F-15 near Hormuz Island",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTks0SGVfVHIyMWlXb0UzcWh1QTdhMjBady1EUno1alBUOGx2RjNfSndyQUxkX2pqQzNwUlUxcFF3RE43VHJhbUR5aTZBWWxUWm9WTmtCb0FseER0LXdjLWZUT0dwajQxdlpLc0tmWjFWaGd1R09YQWQ3OGc0UHE0elVqc2Myemo4R2d3OE5TR0dORjRDa0t0RDhxVQ?oc=5",
+        "published": "22 Mar 2026, 05:07 PM",
+        "iso_date": "2026-03-22T17:07:57+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain says 145 missiles and 246 drones intercepted since Iranian attacks began",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0tRTHJMSmp4dk5Xb2JMR1EtT1EzLUlwdzNTMHZJM3RKSjhpSWVKOThXTUVZVlp0cTZRX0JWeHgwX2NQdDVPd3k4WlBhZ1RxTlN1Vl82dkhhLUxOb1Y1dVVEZUhNc3NKWGtfbXpOMi10TjdlRTlpdTE2TDN0NzhlT016NlVZdmZwOFFtdjNCRzVDeWQ3LTd3X3hzN1NHb1B2aks4NjY4dnhzVXlQYVNyM2swWU9RV0NrS1NF?oc=5",
         "published": "22 Mar 2026, 10:46 AM",
@@ -56,6 +66,16 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGhhMGwySlJJMnFrU3hVWFU0SHlmWDRpUVU2cVM2eW9uZXdlc1VNT2RsOC1wYUhUc21RWE1FWERxNGtyVWYxaHh0a2VDdlB4M2pNZlFNd1VZYTJjamE3MWtJSGZwZFZPYWQ3VG1OWEE1d3Q1cFVPbkJwVjFHTE1COUxHT1QtbGNzdENHdVV0d2RuWkRwd0RIRXNwR1RRWm1majZPSExka05nczRHR2JSTnE1N1BPd3ZIdDJJ?oc=5",
         "published": "22 Mar 2026, 10:06 AM",
         "iso_date": "2026-03-22T10:06:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ1FmRGp3RVlqRVZGS3Z1cHFjLWE3WnRXTHlmYmlmUGtJR2Z0SVZDVGo3WFF6M3BxQXZsbGdDdFZVeWZ0Z0FydkpZcFg0RGZXWkZya2dfM1RtUE12R3pQNUFNbk5CQkdiaS1kU2tMaXhSMTRzVjB1NjBodkJEZjNnMXpfZDVXQXA0dGpsbDdwc1RDeF9GQVJXX2ZPVjhvXzJfSWJlUUh4bTktUW0xSlNUbXFENm5qRjY3dzVULWc2WlI?oc=5",
+        "published": "22 Mar 2026, 09:17 PM",
+        "iso_date": "2026-03-22T21:17:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -166,52 +186,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Al Salam Bank Resumes Full Operations Across All Its Branches Starting Wednesday, 25 March 2026",
-        "link": "https://www.newsofbahrain.com/business/129023.html",
+        "title": "Iran Reaffirms Strategic Support for Sri Lanka Amid Regional Tensions",
+        "link": "https://www.newsofbahrain.com/world/129032.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GSKVHZMeIC_2026-03-23_1774251307resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2wQRtHUNns_2026-03-23_1774255806resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Australia, Singapore sign deal to safeguard energy supplies",
-        "link": "https://www.newsofbahrain.com/world/129022.html",
+        "title": "Arson Attack on Jewish Ambulances in London Probed as Hate Crime",
+        "link": "https://www.newsofbahrain.com/world/129031.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qE2fhR7BnH_2026-03-23_1774250764resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KeLHsCO4Fm_2026-03-23_1774255163resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Are Iran's power plants the next targets in the war?",
+        "link": "https://www.newsofbahrain.com/world/129030.html",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GHCh05xYTB_2026-03-23_1774254625resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran missiles targeting Diego Garcia fell short, intercepted: UK minister",
+        "link": "https://www.newsofbahrain.com/world/129029.html",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GeuH7bmhSA_2026-03-23_1774254035resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Strikes caused 'heavy damage' to Iran water, energy infrastructure",
+        "link": "https://www.newsofbahrain.com/world/129028.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wDHWNnqxQu_2026-03-23_1774253758resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "UAE President Shaikh Mohamed holds talks with Serbian leader in Abu Dhabi",
         "link": "https://www.newsofbahrain.com/bahrain/129021.html",
-        "published": "23 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-23T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hf4jZLosYE_2026-03-23_1774249918resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "New Zealand Opens Door to Australian-Standard Fuel for 12 Months",
-        "link": "https://www.newsofbahrain.com/world/129020.html",
-        "published": "23 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-23T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dXNcCwGm9D_2026-03-23_1774247529resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Vietnam, Russia Move to Deepen Energy Ties During High-Level Visit",
-        "link": "https://www.newsofbahrain.com/world/129019.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FUkq5OwXCm_2026-03-23_1774247399resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hf4jZLosYE_2026-03-23_1774249918thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -256,12 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "“No Country Immune” IEA Chief Sounds Alarm on Worsening Energy Crisis",
-        "link": "https://www.newsofbahrain.com/world/129017.html",
+        "title": "Al Salam Bank Resumes Full Operations Across All Its Branches Starting Wednesday, 25 March 2026",
+        "link": "https://www.newsofbahrain.com/business/129023.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_a8jmB6Zcpq_2026-03-23_1774247242thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GSKVHZMeIC_2026-03-23_1774251307thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -409,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-23 07:43:49 UTC"
+  "fetched_at": "2026-03-23 08:51:22 UTC"
 }
