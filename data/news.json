@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 12
+      "count": 14
     }
   },
   "articles": {
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wbERXMEhkQnRDWXBfcXNNNXVqSGxrNmtSWWVoMW5jT3dSb2d5Y216X1pPY0dGczlOeTRaai1US2FCWi1oY2RWYjVhZTd2ZFFR?oc=5",
         "published": "22 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-22T09:00:42+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran says it downed F-15 near Hormuz Island",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTks0SGVfVHIyMWlXb0UzcWh1QTdhMjBady1EUno1alBUOGx2RjNfSndyQUxkX2pqQzNwUlUxcFF3RE43VHJhbUR5aTZBWWxUWm9WTmtCb0FseER0LXdjLWZUT0dwajQxdlpLc0tmWjFWaGd1R09YQWQ3OGc0UHE0elVqc2Myemo4R2d3OE5TR0dORjRDa0t0RDhxVQ?oc=5",
-        "published": "22 Mar 2026, 05:07 PM",
-        "iso_date": "2026-03-22T17:07:57+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -176,10 +166,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Starmer, Trump Discuss Reopening Strait of Hormuz in Phone Call",
-        "link": "https://www.newsofbahrain.com/world/128990.html",
+        "title": "Araujo header scrapes Liga leaders Barca win over Rayo",
+        "link": "https://www.newsofbahrain.com/sports/128992.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z3vdT52Eas_2026-03-23_1774240318resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dortmund part ways with sporting director Kehl",
+        "link": "https://www.newsofbahrain.com/sports/128991.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6AI2sGjTJF_2026-03-23_1774240016resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Starmer, Trump Discuss Reopening Strait of Hormuz in Phone Call",
+        "link": "https://www.newsofbahrain.com/world/128990.html",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_2QMEs4Z9In_2026-03-22_1774221324resized_pic.jpg",
         "source": "newsofbahrain",
@@ -188,8 +198,8 @@
       {
         "title": "Bahrain Welcomes G7-EU Support for Regional Security",
         "link": "https://www.newsofbahrain.com/bahrain/128989.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_OqR8ymPo7w_2026-03-22_1774216233resized_pic.jpg",
         "source": "newsofbahrain",
@@ -198,8 +208,8 @@
       {
         "title": "Iran President Responds to Trump’s 48-Hour Hormuz Deadline",
         "link": "https://www.newsofbahrain.com/world/128987.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_fuT2QVX1oG_2026-03-22_1774212086resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,20 +218,10 @@
       {
         "title": "Bahrain MPs Act as ‘Voice of the People’ During Crisis",
         "link": "https://www.newsofbahrain.com/bahrain/128985.html",
-        "published": "22 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_A5zB9aslyh_2026-03-22_1774200860resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "22 Nations Unite to Secure Strait of Hormuz: NATO Chief",
-        "link": "https://www.newsofbahrain.com/world/128984.html",
         "published": "22 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZpg9wMs0T_2026-03-22_1774198901resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_A5zB9aslyh_2026-03-22_1774200860thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -252,6 +252,16 @@
         "iso_date": "2026-03-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WqQKgcS4d2_2026-03-21_1774121965thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "22 Nations Unite to Secure Strait of Hormuz: NATO Chief",
+        "link": "https://www.newsofbahrain.com/world/128984.html",
+        "published": "22 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZpg9wMs0T_2026-03-22_1774198901thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -409,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-23 01:58:55 UTC"
+  "fetched_at": "2026-03-23 04:33:49 UTC"
 }
