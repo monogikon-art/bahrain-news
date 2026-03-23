@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,16 +42,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran says it downed F-15 near Hormuz Island",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTks0SGVfVHIyMWlXb0UzcWh1QTdhMjBady1EUno1alBUOGx2RjNfSndyQUxkX2pqQzNwUlUxcFF3RE43VHJhbUR5aTZBWWxUWm9WTmtCb0FseER0LXdjLWZUT0dwajQxdlpLc0tmWjFWaGd1R09YQWQ3OGc0UHE0elVqc2Myemo4R2d3OE5TR0dORjRDa0t0RDhxVQ?oc=5",
-        "published": "22 Mar 2026, 05:07 PM",
-        "iso_date": "2026-03-22T17:07:57+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain says 145 missiles and 246 drones intercepted since Iranian attacks began",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0tRTHJMSmp4dk5Xb2JMR1EtT1EzLUlwdzNTMHZJM3RKSjhpSWVKOThXTUVZVlp0cTZRX0JWeHgwX2NQdDVPd3k4WlBhZ1RxTlN1Vl82dkhhLUxOb1Y1dVVEZUhNc3NKWGtfbXpOMi10TjdlRTlpdTE2TDN0NzhlT016NlVZdmZwOFFtdjNCRzVDeWQ3LTd3X3hzN1NHb1B2aks4NjY4dnhzVXlQYVNyM2swWU9RV0NrS1NF?oc=5",
         "published": "22 Mar 2026, 10:46 AM",
@@ -66,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGhhMGwySlJJMnFrU3hVWFU0SHlmWDRpUVU2cVM2eW9uZXdlc1VNT2RsOC1wYUhUc21RWE1FWERxNGtyVWYxaHh0a2VDdlB4M2pNZlFNd1VZYTJjamE3MWtJSGZwZFZPYWQ3VG1OWEE1d3Q1cFVPbkJwVjFHTE1COUxHT1QtbGNzdENHdVV0d2RuWkRwd0RIRXNwR1RRWm1majZPSExka05nczRHR2JSTnE1N1BPd3ZIdDJJ?oc=5",
         "published": "22 Mar 2026, 10:06 AM",
         "iso_date": "2026-03-22T10:06:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ1FmRGp3RVlqRVZGS3Z1cHFjLWE3WnRXTHlmYmlmUGtJR2Z0SVZDVGo3WFF6M3BxQXZsbGdDdFZVeWZ0Z0FydkpZcFg0RGZXWkZya2dfM1RtUE12R3pQNUFNbk5CQkdiaS1kU2tMaXhSMTRzVjB1NjBodkJEZjNnMXpfZDVXQXA0dGpsbDdwc1RDeF9GQVJXX2ZPVjhvXzJfSWJlUUh4bTktUW0xSlNUbXFENm5qRjY3dzVULWc2WlI?oc=5",
-        "published": "22 Mar 2026, 09:17 PM",
-        "iso_date": "2026-03-22T21:17:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -186,92 +166,102 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Al Salam Bank Resumes Full Operations Across All Its Branches Starting Wednesday, 25 March 2026",
+        "link": "https://www.newsofbahrain.com/business/129023.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GSKVHZMeIC_2026-03-23_1774251307resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Australia, Singapore sign deal to safeguard energy supplies",
+        "link": "https://www.newsofbahrain.com/world/129022.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qE2fhR7BnH_2026-03-23_1774250764resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE President Shaikh Mohamed holds talks with Serbian leader in Abu Dhabi",
+        "link": "https://www.newsofbahrain.com/bahrain/129021.html",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hf4jZLosYE_2026-03-23_1774249918resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "New Zealand Opens Door to Australian-Standard Fuel for 12 Months",
+        "link": "https://www.newsofbahrain.com/world/129020.html",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dXNcCwGm9D_2026-03-23_1774247529resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Vietnam, Russia Move to Deepen Energy Ties During High-Level Visit",
+        "link": "https://www.newsofbahrain.com/world/129019.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FUkq5OwXCm_2026-03-23_1774247399resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "United front for Bahrain amid Iranian attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/129018.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cKde0x4E8w_2026-03-23_1774247264thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Eid brings strength",
+        "link": "https://www.newsofbahrain.com/bahrain/129016.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zT9oQwSmxJ_2026-03-23_1774246946thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Sharif highlights unity, security and economic progress",
+        "link": "https://www.newsofbahrain.com/bahrain/129015.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z8q5BZbdI3_2026-03-23_1774246403thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Pakistan reaffirms unity, resolve on Pakistan Day",
         "link": "https://www.newsofbahrain.com/bahrain/129014.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d43WN0ayiU_2026-03-23_1774246001resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d43WN0ayiU_2026-03-23_1774246001thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "MP Al Olaiwi urges government to act fast to repair state of Bahrain’s fishing trade",
-        "link": "https://www.newsofbahrain.com/bahrain/129013.html",
+        "title": "“No Country Immune” IEA Chief Sounds Alarm on Worsening Energy Crisis",
+        "link": "https://www.newsofbahrain.com/world/129017.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xP32GHyEJR_2026-03-23_1774245603resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Final day today for BCCI election applications",
-        "link": "https://www.newsofbahrain.com/bahrain/129012.html",
-        "published": "23 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-23T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6DnbRzx4JL_2026-03-23_1774245463resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Only Bahraini citizens can manage recruitment offices under new rule",
-        "link": "https://www.newsofbahrain.com/bahrain/129011.html",
-        "published": "23 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-23T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EBkzYwv5je_2026-03-23_1774245180resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘Bahrain’s community partnership key in crisis’",
-        "link": "https://www.newsofbahrain.com/bahrain/129010.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Am0spyxiao_2026-03-23_1774244989resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump reposts video mocking Starmer on Truth Social",
-        "link": "https://www.newsofbahrain.com/world/129006.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dy2QKgpfIU_2026-03-23_1774243003thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Starmer, Trump Discuss Reopening Strait of Hormuz in Phone Call",
-        "link": "https://www.newsofbahrain.com/world/128990.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2QMEs4Z9In_2026-03-22_1774221324thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran President Responds to Trump’s 48-Hour Hormuz Deadline",
-        "link": "https://www.newsofbahrain.com/world/128987.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fuT2QVX1oG_2026-03-22_1774212086thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "22 Nations Unite to Secure Strait of Hormuz: NATO Chief",
-        "link": "https://www.newsofbahrain.com/world/128984.html",
-        "published": "22 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZpg9wMs0T_2026-03-22_1774198901thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_a8jmB6Zcpq_2026-03-23_1774247242thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +292,6 @@
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHsKWY8d5C_2026-03-23_1774241886thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "How can Hormuz shipping blockage be solved?",
-        "link": "https://www.newsofbahrain.com/business/128914.html",
-        "published": "21 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yGgi16txdD_2026-03-21_1774084956thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -429,5 +409,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-23 06:09:19 UTC"
+  "fetched_at": "2026-03-23 07:43:49 UTC"
 }
