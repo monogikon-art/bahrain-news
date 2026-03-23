@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,20 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain says 145 missiles and 246 drones intercepted since Iranian attacks began",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0tRTHJMSmp4dk5Xb2JMR1EtT1EzLUlwdzNTMHZJM3RKSjhpSWVKOThXTUVZVlp0cTZRX0JWeHgwX2NQdDVPd3k4WlBhZ1RxTlN1Vl82dkhhLUxOb1Y1dVVEZUhNc3NKWGtfbXpOMi10TjdlRTlpdTE2TDN0NzhlT016NlVZdmZwOFFtdjNCRzVDeWQ3LTd3X3hzN1NHb1B2aks4NjY4dnhzVXlQYVNyM2swWU9RV0NrS1NF?oc=5",
-        "published": "22 Mar 2026, 10:46 AM",
-        "iso_date": "2026-03-22T10:46:15+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts 145 missiles, 246 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGhhMGwySlJJMnFrU3hVWFU0SHlmWDRpUVU2cVM2eW9uZXdlc1VNT2RsOC1wYUhUc21RWE1FWERxNGtyVWYxaHh0a2VDdlB4M2pNZlFNd1VZYTJjamE3MWtJSGZwZFZPYWQ3VG1OWEE1d3Q1cFVPbkJwVjFHTE1COUxHT1QtbGNzdENHdVV0d2RuWkRwd0RIRXNwR1RRWm1majZPSExka05nczRHR2JSTnE1N1BPd3ZIdDJJ?oc=5",
-        "published": "22 Mar 2026, 10:06 AM",
-        "iso_date": "2026-03-22T10:06:00+00:00",
+        "title": "Bahrain intercepts 147 missiles, 282 drones since onset of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHduWGUwRU5FeEE4THh5dHdhdG9ad3V3dDBCZFE2eW1wRG9jV0k0aWF1OTVtanZiUmNfdHM3ZXQ3bkJEZFp3Mk1lSTV6b0JpU2dPUERZY2J5TEdwVHRKQzkzdHNZcnVhaVI2UFVjTUNCb0RTUEJTbndUZnE5NE9EdU5iV29zakluYUtZYV9oekNIRnlLb0JJTm13cmIzSWtvLU93T2xLbjJ4cHBqX19xNWllaDlGVVA3Y1JJ?oc=5",
+        "published": "23 Mar 2026, 10:09 AM",
+        "iso_date": "2026-03-23T10:09:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -156,6 +146,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "US Says Funds Sufficient for Iran War, Seeks Backup Budget",
+        "link": "https://www.newsofbahrain.com/world/129036.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Nq8h3aM90D_2026-03-23_1774262593resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "China Urges De-escalation in Iran Conflict, Warns of ‘Vicious Cycle’",
         "link": "https://www.newsofbahrain.com/world/129035.html",
         "published": "23 Mar 2026, 09:22 AM",
@@ -168,8 +168,8 @@
       {
         "title": "Iran Warns of Retaliatory Strikes on Power Networks in the Gulf as Trump Issues Threat",
         "link": "https://www.newsofbahrain.com/world/129033.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Cv0oGWbBUy_2026-03-23_1774257128resized_pic.jpg",
         "source": "newsofbahrain",
@@ -188,20 +188,10 @@
       {
         "title": "Arson Attack on Jewish Ambulances in London Probed as Hate Crime",
         "link": "https://www.newsofbahrain.com/world/129031.html",
-        "published": "23 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-23T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KeLHsCO4Fm_2026-03-23_1774255163resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Are Iran's power plants the next targets in the war?",
-        "link": "https://www.newsofbahrain.com/world/129030.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GHCh05xYTB_2026-03-23_1774254625resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KeLHsCO4Fm_2026-03-23_1774255163resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -409,5 +399,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-23 09:59:18 UTC"
+  "fetched_at": "2026-03-23 11:00:04 UTC"
 }
