@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,26 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Saudi defenses intercept missile, down 15 drones across Eastern Province",
-        "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNZmZQcFFpU1ZXXzNHY1lHb09UWDBBWGxuYWU1dlBsTXhOZG1zYlZrazEzQ2FsbWVmWnBuQ1RQY3JsY01JYzFheUdyUHNRNHViejZRV1VRR2xWQ2VzU0J4VUhHVklaVG5UWEYtVW1lamduMFVYWUZzbGFaSzB4TGE1LU9aeGw1ZG92c294bFcwTTdBc213YkM5WEJVcklfVlg5cU84VTlFZjR0ZGoydkxXeGUyTTJyMUg2YzNoS0o4Z0luejVxS1FtTkRkVHl5di1tcEQ5d3l0V01ueW9ZS1NRZy1kb1lIZjlyM1I0Zl9OemJyWjZfbGc4cERJUXBTZnFYbFYwaUk2OTFvU0NEQW4yZ3hjSFhwOHItRm1ibmNmYnlZZnVqcE9acUN2TklCX3JTMy0ya0F2NmVGWUU2c1U2NzJRa3NZMTNaaVh2MTUxNjdLVk9RUlNR?oc=5",
-        "published": "22 Mar 2026, 10:25 PM",
-        "iso_date": "2026-03-22T22:25:16+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE suspends Habshan gas operations after missile debris incident",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaVRRQkl4dzc2UVJBemFrZFBPLWM4dlRISzI2OWtEWE1vR2w2Wk9QbXhja2JtYmNxcV9wZ3RhMndralFKUXBEcDNGbXdfNzRyemw4Ym5HR3piMi0ydm0wS0VBSDJfOU8waUROMU41VnlnYlNiWUtLV0FWU09iOVYyYXVhbmkyTHc0RXVPRTgxRm4yVkNOVXdaUVJOZFF0LWpJdW5ZSzdNMjNnU29lOWIyUGZsVmdnWUVx?oc=5",
-        "published": "23 Mar 2026, 01:42 AM",
-        "iso_date": "2026-03-23T01:42:54+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain intercepts 147 missiles, 282 drones since onset of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHduWGUwRU5FeEE4THh5dHdhdG9ad3V3dDBCZFE2eW1wRG9jV0k0aWF1OTVtanZiUmNfdHM3ZXQ3bkJEZFp3Mk1lSTV6b0JpU2dPUERZY2J5TEdwVHRKQzkzdHNZcnVhaVI2UFVjTUNCb0RTUEJTbndUZnE5NE9EdU5iV29zakluYUtZYV9oekNIRnlLb0JJTm13cmIzSWtvLU93T2xLbjJ4cHBqX19xNWllaDlGVVA3Y1JJ?oc=5",
         "published": "23 Mar 2026, 10:09 AM",
@@ -89,7 +69,7 @@
         "published": "23 Mar 2026",
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323154058crownprince1_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323154058crownprince1_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +79,7 @@
         "published": "23 Mar 2026",
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_000934_1_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_000934_1_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +89,7 @@
         "published": "23 Mar 2026",
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323012206edited_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323012206edited_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,7 +99,7 @@
         "published": "23 Mar 2026",
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323002336twowheeler_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323002336twowheeler_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +109,7 @@
         "published": "23 Mar 2026",
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260322_220659_2_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260322_220659_2_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +119,7 @@
         "published": "23 Mar 2026",
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_033020_0_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_033020_0_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +129,7 @@
         "published": "23 Mar 2026",
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_033021_0_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_033021_0_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +139,7 @@
         "published": "23 Mar 2026",
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_013215_0_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_013215_0_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +149,7 @@
         "published": "23 Mar 2026",
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_013217_0_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_013217_0_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +159,7 @@
         "published": "22 Mar 2026",
         "iso_date": "2026-03-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_212810_0_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260322/20260322_212810_0_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       }
@@ -439,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-23 21:33:19 UTC"
+  "fetched_at": "2026-03-23 22:28:58 UTC"
 }
