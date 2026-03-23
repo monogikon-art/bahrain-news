@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,16 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran says it downed F-15 near Hormuz Island",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTks0SGVfVHIyMWlXb0UzcWh1QTdhMjBady1EUno1alBUOGx2RjNfSndyQUxkX2pqQzNwUlUxcFF3RE43VHJhbUR5aTZBWWxUWm9WTmtCb0FseER0LXdjLWZUT0dwajQxdlpLc0tmWjFWaGd1R09YQWQ3OGc0UHE0elVqc2Myemo4R2d3OE5TR0dORjRDa0t0RDhxVQ?oc=5",
-        "published": "22 Mar 2026, 05:07 PM",
-        "iso_date": "2026-03-22T17:07:57+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain intercepts 147 missiles, 282 drones since onset of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHduWGUwRU5FeEE4THh5dHdhdG9ad3V3dDBCZFE2eW1wRG9jV0k0aWF1OTVtanZiUmNfdHM3ZXQ3bkJEZFp3Mk1lSTV6b0JpU2dPUERZY2J5TEdwVHRKQzkzdHNZcnVhaVI2UFVjTUNCb0RTUEJTbndUZnE5NE9EdU5iV29zakluYUtZYV9oekNIRnlLb0JJTm13cmIzSWtvLU93T2xLbjJ4cHBqX19xNWllaDlGVVA3Y1JJ?oc=5",
         "published": "23 Mar 2026, 10:09 AM",
@@ -50,26 +40,16 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2R5ZVk2bEtTNWU4bFlON2I1UlhJVW4xel9iQ2l5Qk5PN3VMamZmNFZSU0VXbTNzMlpnMTQ0V2FOcngwUE9rZXNYRHhrc19oRVpyS21BUThmNDYxdWxEb1JhellaYUNseGxsMVNBZG9Ka0xVTkdMcEV5U0JoMFRHMkdUZWRJVDk4VC05UE04cFBaTkxmajE0T3VVRHFVbmxwYW5GTk1XWWY1djFGTzlzX2IxRE5maTJVRHQ1U1BEWlNhY25ZSHlrSk5MQldsZ010?oc=5",
-        "published": "22 Mar 2026, 06:38 PM",
-        "iso_date": "2026-03-22T18:38:58+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "EXCLUSIVE: Prayer for peace",
-        "link": "https://www.gdnonline.com/Details/1379344/EXCLUSIVE-Prayer-for-peace",
+        "title": "HRH Prince Salman chairs extraordinary Cabinet meeting",
+        "link": "https://www.gdnonline.com/Details/1379383/HRH-Prince-Salman-chairs-extraordinary-Cabinet-meeting",
         "published": "23 Mar 2026",
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323012206edited_T.jpg?20260323",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323154058crownprince1_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -80,6 +60,16 @@
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_000934_1_T.jpg?20260323",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "EXCLUSIVE: Prayer for peace",
+        "link": "https://www.gdnonline.com/Details/1379344/EXCLUSIVE-Prayer-for-peace",
+        "published": "23 Mar 2026",
+        "iso_date": "2026-03-23T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323012206edited_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -100,16 +90,6 @@
         "iso_date": "2026-03-23T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260323/20260322_220659_2_T.jpg?20260323",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain âentitled to seek compensation from Iranâ",
-        "link": "https://www.gdnonline.com/Details/1379358/Bahrain-âentitled-to-seek-compensation-from-Iranâ",
-        "published": "23 Mar 2026",
-        "iso_date": "2026-03-23T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323021507images_T.jpg?20260323",
         "source": "gdn",
         "category": "Latest"
       },
@@ -409,5 +389,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-23 13:00:25 UTC"
+  "fetched_at": "2026-03-23 14:19:11 UTC"
 }
