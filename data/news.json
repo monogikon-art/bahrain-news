@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,16 +22,6 @@
   "articles": {
     "bna": [
       {
-        "title": "UAE, Bahrain intercept missiles and drones as Gulf tensions escalate",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxZE1lS3RxY1lfZ1Z2aUhpblg3UWo1aEVNVmtXWWhvTTdaVVdpTEZRNlFQN0RibnJvNjBYYXgwS2tnV3ZVTE5ydTU0LWFsWnRRQy1j?oc=5",
-        "published": "22 Mar 2026, 12:39 PM",
-        "iso_date": "2026-03-22T12:39:16+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain intercepts 147 missiles, 282 drones since start of Iran attacks",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDR5THZFZmktY2tXSXRXbWlYT1ZLWjVZaGpGRXhsaEdFRWtNVVpXcndGcHhnbTZfb0UxYl92ZFNEay1ZdE9oQnNhQ1JGQ0Rld3FWUXV4eS1HWWk3MnZQRGZXOThmQzVELVJPWVAxdUVTeENncDU0ckgzakZJX25DV3ZtalB3d3BHZGs2UTZDQ2pTWnFGbVJPbWlrRFhKR1dSQ3prVlE1Z01lMl9pbHc?oc=5",
         "published": "23 Mar 2026, 11:01 AM",
@@ -42,10 +32,30 @@
         "category": "Latest"
       },
       {
+        "title": "Iran says it downed F-15 near Hormuz Island",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTks0SGVfVHIyMWlXb0UzcWh1QTdhMjBady1EUno1alBUOGx2RjNfSndyQUxkX2pqQzNwUlUxcFF3RE43VHJhbUR5aTZBWWxUWm9WTmtCb0FseER0LXdjLWZUT0dwajQxdlpLc0tmWjFWaGd1R09YQWQ3OGc0UHE0elVqc2Myemo4R2d3OE5TR0dORjRDa0t0RDhxVQ?oc=5",
+        "published": "22 Mar 2026, 05:07 PM",
+        "iso_date": "2026-03-22T17:07:57+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain intercepts 147 missiles, 282 drones since onset of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHduWGUwRU5FeEE4THh5dHdhdG9ad3V3dDBCZFE2eW1wRG9jV0k0aWF1OTVtanZiUmNfdHM3ZXQ3bkJEZFp3Mk1lSTV6b0JpU2dPUERZY2J5TEdwVHRKQzkzdHNZcnVhaVI2UFVjTUNCb0RTUEJTbndUZnE5NE9EdU5iV29zakluYUtZYV9oekNIRnlLb0JJTm13cmIzSWtvLU93T2xLbjJ4cHBqX19xNWllaDlGVVA3Y1JJ?oc=5",
         "published": "23 Mar 2026, 10:09 AM",
         "iso_date": "2026-03-23T10:09:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2R5ZVk2bEtTNWU4bFlON2I1UlhJVW4xel9iQ2l5Qk5PN3VMamZmNFZSU0VXbTNzMlpnMTQ0V2FOcngwUE9rZXNYRHhrc19oRVpyS21BUThmNDYxdWxEb1JhellaYUNseGxsMVNBZG9Ka0xVTkdMcEV5U0JoMFRHMkdUZWRJVDk4VC05UE04cFBaTkxmajE0T3VVRHFVbmxwYW5GTk1XWWY1djFGTzlzX2IxRE5maTJVRHQ1U1BEWlNhY25ZSHlrSk5MQldsZ010?oc=5",
+        "published": "22 Mar 2026, 06:38 PM",
+        "iso_date": "2026-03-22T18:38:58+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -156,6 +166,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Jet Collides with Fire Truck Leaving 2 Dead, Dozens Injured in New York",
+        "link": "https://www.newsofbahrain.com/world/129047.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YwNQHvXLcD_2026-03-23_1774269607resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Cabinet Condemns Iranian Aggression",
+        "link": "https://www.newsofbahrain.com/bahrain/129046.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rnVFlsmawo_2026-03-23_1774268590resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russia, Iran FMs hold call after US-Iran war talks: Moscow",
+        "link": "https://www.newsofbahrain.com/world/129045.html",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KW5ACmVMkU_2026-03-23_1774268152resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "“No Assessment” UK Under Threat from Iran, Keir Starmer",
+        "link": "https://www.newsofbahrain.com/world/129044.html",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HWb0eCEKch_2026-03-23_1774267961resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Trump Announces Talks With Iran, Postpones Strikes on Power Plants",
         "link": "https://www.newsofbahrain.com/world/129043.html",
         "published": "23 Mar 2026, 09:22 AM",
@@ -166,42 +216,12 @@
         "category": "Latest"
       },
       {
-        "title": "Iran Threatens Naval Mines in Gulf if Attacked",
-        "link": "https://www.newsofbahrain.com/world/129041.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P0QJ7gAYEZ_2026-03-23_1774265258resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "IDF Admits Artillery Fire Killed Israeli Civilian",
-        "link": "https://www.newsofbahrain.com/world/129040.html",
-        "published": "23 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-23T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xJQ8cqkYOB_2026-03-23_1774264473resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Reaffirms “Peace Through Strength” Amid Iran Tensions",
-        "link": "https://www.newsofbahrain.com/world/129039.html",
-        "published": "23 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-23T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oIycZ0vrDN_2026-03-23_1774264354resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Court Sentences Business Owner to 5 Years for VAT Evasion",
         "link": "https://www.newsofbahrain.com/bahrain/129038.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hWI1rL2Ysq_2026-03-23_1774263884resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hWI1rL2Ysq_2026-03-23_1774263884thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -232,16 +252,6 @@
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zT9oQwSmxJ_2026-03-23_1774246946thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "MP Al Olaiwi urges government to act fast to repair state of Bahrain’s fishing trade",
-        "link": "https://www.newsofbahrain.com/bahrain/129013.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xP32GHyEJR_2026-03-23_1774245603thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -399,5 +409,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-23 11:50:16 UTC"
+  "fetched_at": "2026-03-23 13:00:25 UTC"
 }
