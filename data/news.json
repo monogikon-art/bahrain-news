@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxZE1lS3RxY1lfZ1Z2aUhpblg3UWo1aEVNVmtXWWhvTTdaVVdpTEZRNlFQN0RibnJvNjBYYXgwS2tnV3ZVTE5ydTU0LWFsWnRRQy1j?oc=5",
         "published": "22 Mar 2026, 12:39 PM",
         "iso_date": "2026-03-22T12:39:16+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts 147 missiles, 282 drones since start of Iran attacks",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDR5THZFZmktY2tXSXRXbWlYT1ZLWjVZaGpGRXhsaEdFRWtNVVpXcndGcHhnbTZfb0UxYl92ZFNEay1ZdE9oQnNhQ1JGQ0Rld3FWUXV4eS1HWWk3MnZQRGZXOThmQzVELVJPWVAxdUVTeENncDU0ckgzakZJX25DV3ZtalB3d3BHZGs2UTZDQ2pTWnFGbVJPbWlrRFhKR1dSQ3prVlE1Z01lMl9pbHc?oc=5",
+        "published": "23 Mar 2026, 11:01 AM",
+        "iso_date": "2026-03-23T11:01:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -146,52 +156,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "US Says Funds Sufficient for Iran War, Seeks Backup Budget",
-        "link": "https://www.newsofbahrain.com/world/129036.html",
+        "title": "Trump Announces Talks With Iran, Postpones Strikes on Power Plants",
+        "link": "https://www.newsofbahrain.com/world/129043.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Nq8h3aM90D_2026-03-23_1774262593resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WqyfEb09Rr_2026-03-23_1774265552resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "China Urges De-escalation in Iran Conflict, Warns of ‘Vicious Cycle’",
-        "link": "https://www.newsofbahrain.com/world/129035.html",
+        "title": "Iran Threatens Naval Mines in Gulf if Attacked",
+        "link": "https://www.newsofbahrain.com/world/129041.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HcGsQJDLaA_2026-03-23_1774258365resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P0QJ7gAYEZ_2026-03-23_1774265258resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Iran Warns of Retaliatory Strikes on Power Networks in the Gulf as Trump Issues Threat",
-        "link": "https://www.newsofbahrain.com/world/129033.html",
+        "title": "IDF Admits Artillery Fire Killed Israeli Civilian",
+        "link": "https://www.newsofbahrain.com/world/129040.html",
         "published": "23 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-23T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Cv0oGWbBUy_2026-03-23_1774257128resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xJQ8cqkYOB_2026-03-23_1774264473resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Iran Reaffirms Strategic Support for Sri Lanka Amid Regional Tensions",
-        "link": "https://www.newsofbahrain.com/world/129032.html",
+        "title": "Trump Reaffirms “Peace Through Strength” Amid Iran Tensions",
+        "link": "https://www.newsofbahrain.com/world/129039.html",
         "published": "23 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-23T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2wQRtHUNns_2026-03-23_1774255806resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oIycZ0vrDN_2026-03-23_1774264354resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Arson Attack on Jewish Ambulances in London Probed as Hate Crime",
-        "link": "https://www.newsofbahrain.com/world/129031.html",
+        "title": "Bahrain Court Sentences Business Owner to 5 Years for VAT Evasion",
+        "link": "https://www.newsofbahrain.com/bahrain/129038.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KeLHsCO4Fm_2026-03-23_1774255163resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hWI1rL2Ysq_2026-03-23_1774263884resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Intercepts 147 Missiles, 282 Drones",
+        "link": "https://www.newsofbahrain.com/bahrain/129037.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7TMsCcFwv2_2026-03-23_1774263106thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -222,26 +242,6 @@
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_xP32GHyEJR_2026-03-23_1774245603thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Final day today for BCCI election applications",
-        "link": "https://www.newsofbahrain.com/bahrain/129012.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6DnbRzx4JL_2026-03-23_1774245463thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Only Bahraini citizens can manage recruitment offices under new rule",
-        "link": "https://www.newsofbahrain.com/bahrain/129011.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EBkzYwv5je_2026-03-23_1774245180thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -399,5 +399,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-23 11:00:04 UTC"
+  "fetched_at": "2026-03-23 11:50:16 UTC"
 }
