@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 14
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Eight Hezbollah members killed in Israel’s Friday strikes on Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxORllDUTAxSlRpcVp1ajRQNzZKQS0tUHMzODlUbkN5d2FHcmtHeUNPcFN1T1ZLS0haNHpQUl9QQ3BLUUx1Z1RoUl9YNVV1dDN5REQ4cmJScFJTa196WGdDcll3MjVYWmNFZjZiekZFLUdscFJLUno3UGxQZWdVdGZSeldZUTZ5NWJvWEJtQzlBQXZEY2FfZWhWYzl4NFlDMVlOSklwTzdUR3h2N081dlVoaVUtblRnQV93bDlvdzhfNVZna3BHdncteldSTEhFYlpXMzVUZWE5VGFjdnZHVldCcTRHaExJNmM3TkJtQkx5UTRoV0lSdWs5Nl96el9WUHY3ZXRtc3cybENKeEJyLW9zSzBleWJvQnhhanltNGh3UzlzSWFZaFZtRFdqOHZlYm9OQW5uZU9ZZGlEc19CM2k3ZGw1c0dLQURjRF9ZbkswdzMxTmMzMC1NOFl5SENVbmhqZWFEMA?oc=5",
+        "published": "23 Mar 2026, 01:53 PM",
+        "iso_date": "2026-03-23T13:53:20+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain intercepts 147 missiles, 282 drones since start of Iran attacks",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDR5THZFZmktY2tXSXRXbWlYT1ZLWjVZaGpGRXhsaEdFRWtNVVpXcndGcHhnbTZfb0UxYl92ZFNEay1ZdE9oQnNhQ1JGQ0Rld3FWUXV4eS1HWWk3MnZQRGZXOThmQzVELVJPWVAxdUVTeENncDU0ckgzakZJX25DV3ZtalB3d3BHZGs2UTZDQ2pTWnFGbVJPbWlrRFhKR1dSQ3prVlE1Z01lMl9pbHc?oc=5",
@@ -32,10 +42,30 @@
         "category": "Latest"
       },
       {
+        "title": "Countries with the most submarines",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNXlmTzIzYlVUVERYQURrQXBYNG5xV1NqdzA3Zm50MkoycWJRQ1B2Y04xTkNKNUhSYnVNVjlDclQ0akFJRGNfTm50bWx0STBXeVZMRXVtam1NME03TWhjRGVwSFBmSGtXOVFvTi1lbmZPZURHeFVZMTRSS3pVVmkzWUNObG4ycElfUUxUX1VJaklSV1NtS0RWc3pNclRQcHVRVl8wOEFENW1Tc0tVbzlDQW5qaE5LaGJkRGd6cFg3TGExcHJGY3k0UGNMRWc?oc=5",
+        "published": "23 Mar 2026, 04:10 PM",
+        "iso_date": "2026-03-23T16:10:37+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iran says it downed F-15 near Hormuz Island",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTks0SGVfVHIyMWlXb0UzcWh1QTdhMjBady1EUno1alBUOGx2RjNfSndyQUxkX2pqQzNwUlUxcFF3RE43VHJhbUR5aTZBWWxUWm9WTmtCb0FseER0LXdjLWZUT0dwajQxdlpLc0tmWjFWaGd1R09YQWQ3OGc0UHE0elVqc2Myemo4R2d3OE5TR0dORjRDa0t0RDhxVQ?oc=5",
         "published": "22 Mar 2026, 05:07 PM",
         "iso_date": "2026-03-22T17:07:57+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE suspends Habshan gas operations after missile debris incident",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaVRRQkl4dzc2UVJBemFrZFBPLWM4dlRISzI2OWtEWE1vR2w2Wk9QbXhja2JtYmNxcV9wZ3RhMndralFKUXBEcDNGbXdfNzRyemw4Ym5HR3piMi0ydm0wS0VBSDJfOU8waUROMU41VnlnYlNiWUtLV0FWU09iOVYyYXVhbmkyTHc0RXVPRTgxRm4yVkNOVXdaUVJOZFF0LWpJdW5ZSzdNMjNnU29lOWIyUGZsVmdnWUVx?oc=5",
+        "published": "23 Mar 2026, 01:42 AM",
+        "iso_date": "2026-03-23T01:42:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -53,9 +83,9 @@
       },
       {
         "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ1FmRGp3RVlqRVZGS3Z1cHFjLWE3WnRXTHlmYmlmUGtJR2Z0SVZDVGo3WFF6M3BxQXZsbGdDdFZVeWZ0Z0FydkpZcFg0RGZXWkZya2dfM1RtUE12R3pQNUFNbk5CQkdiaS1kU2tMaXhSMTRzVjB1NjBodkJEZjNnMXpfZDVXQXA0dGpsbDdwc1RDeF9GQVJXX2ZPVjhvXzJfSWJlUUh4bTktUW0xSlNUbXFENm5qRjY3dzVULWc2WlI?oc=5",
-        "published": "22 Mar 2026, 09:17 PM",
-        "iso_date": "2026-03-22T21:17:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2R5ZVk2bEtTNWU4bFlON2I1UlhJVW4xel9iQ2l5Qk5PN3VMamZmNFZSU0VXbTNzMlpnMTQ0V2FOcngwUE9rZXNYRHhrc19oRVpyS21BUThmNDYxdWxEb1JhellaYUNseGxsMVNBZG9Ka0xVTkdMcEV5U0JoMFRHMkdUZWRJVDk4VC05UE04cFBaTkxmajE0T3VVRHFVbmxwYW5GTk1XWWY1djFGTzlzX2IxRE5maTJVRHQ1U1BEWlNhY25ZSHlrSk5MQldsZ010?oc=5",
+        "published": "22 Mar 2026, 06:38 PM",
+        "iso_date": "2026-03-22T18:38:58+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -164,7 +194,148 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Trump: “Very Strong Talks” With Iran Could End Conflict",
+        "link": "https://www.newsofbahrain.com/world/129049.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qrxHW8jvXU_2026-03-23_1774282003resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar Government Resumes Full On-Site Operations Effective March 24",
+        "link": "https://www.newsofbahrain.com/gcc/129048.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yTk4KQjLoG_2026-03-23_1774276833resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Jet Collides with Fire Truck Leaving 2 Dead, Dozens Injured in New York",
+        "link": "https://www.newsofbahrain.com/world/129047.html",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YwNQHvXLcD_2026-03-23_1774269607resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Cabinet Condemns Iranian Aggression",
+        "link": "https://www.newsofbahrain.com/bahrain/129046.html",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rnVFlsmawo_2026-03-23_1774268590resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russia, Iran FMs hold call after US-Iran war talks: Moscow",
+        "link": "https://www.newsofbahrain.com/world/129045.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KW5ACmVMkU_2026-03-23_1774268152resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Court Sentences Business Owner to 5 Years for VAT Evasion",
+        "link": "https://www.newsofbahrain.com/bahrain/129038.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hWI1rL2Ysq_2026-03-23_1774263884thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Intercepts 147 Missiles, 282 Drones",
+        "link": "https://www.newsofbahrain.com/bahrain/129037.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7TMsCcFwv2_2026-03-23_1774263106thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "United front for Bahrain amid Iranian attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/129018.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cKde0x4E8w_2026-03-23_1774247264thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Eid brings strength",
+        "link": "https://www.newsofbahrain.com/bahrain/129016.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zT9oQwSmxJ_2026-03-23_1774246946thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "“No Assessment” UK Under Threat from Iran, Keir Starmer",
+        "link": "https://www.newsofbahrain.com/world/129044.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HWb0eCEKch_2026-03-23_1774267961thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Salam Bank Resumes Full Operations Across All Its Branches Starting Wednesday, 25 March 2026",
+        "link": "https://www.newsofbahrain.com/business/129023.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GSKVHZMeIC_2026-03-23_1774251307thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Damaged Russian tanker to be towed to Libya: state-owned company",
+        "link": "https://www.newsofbahrain.com/business/129003.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g8Aupmdjia_2026-03-23_1774242317thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump orders immigration agents to airports amid crippling budget standoff",
+        "link": "https://www.newsofbahrain.com/business/129002.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_grtwuYqZe6_2026-03-23_1774242154thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "War more than six months would hit global economy, TotalEnergies boss says",
+        "link": "https://www.newsofbahrain.com/business/129001.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHsKWY8d5C_2026-03-23_1774241886thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -278,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-23 15:35:09 UTC"
+  "fetched_at": "2026-03-23 16:54:13 UTC"
 }
