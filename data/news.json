@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,7 +20,28 @@
     }
   },
   "articles": {
-    "bna": [],
+    "bna": [
+      {
+        "title": "Amazon’s Bahrain data centre ‘disrupted’ by drone - Arabian Gulf Business Insight | AGBI",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXpMRXY3R1FpRkhZR004eERfYXdZLU5mMHZLZlhuUjBGMTFoOE95YnduOU5YcnBpQmdzSldmNWZSUTc3VXUtOGZSSDFqN283SlpVWG9BbjZnZkhOYXFvcEdHYnhkUC1tckFTSjFRTUg2cmVyY0lLRVRTR1RmSEFOWTkwbmhfNEtn?oc=5",
+        "published": "24 Mar 2026, 07:40 AM",
+        "iso_date": "2026-03-24T07:40:29+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Not Every Video Is True, A Quiet Warning in a Loud Digital World | THE DAILY TRIBUNE | KINGDOM OF BAHRAIN",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZUEFhMENCbi1pS1Z0THQ5OXJFcXo0RnlXOVU4UFNwRkdjZ2ltU1lFQ0FqRzViUUdJQk9hdk5RZFNsY0VscWVETVNfejN0WU95Ml8zZVVPdmxjd2JwcEE?oc=5",
+        "published": "24 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-24T09:00:43+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
     "gdn": [
       {
         "title": "Tankers deployed as heavy rains lash Bahrain",
@@ -418,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 22:59:42 UTC"
+  "fetched_at": "2026-03-24 23:39:24 UTC"
 }
