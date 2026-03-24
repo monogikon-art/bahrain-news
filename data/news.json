@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -76,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTR4bFpOczFnbmN3LTJBRVl5MUpHWWxDOHd3ZC1xQVBHMjNONVhnSDAxRENYblVjNFJLTFJ3cU92N2k0QXh3a28tRk1CUTlteGpDMUZaT1M2UmZrUzJmaFV0ZHNMa29DQlhwWE9vMmlHdldULXhaMzlEWTREeVRVaWF2cHZZYjRIS2c?oc=5",
         "published": "23 Mar 2026, 05:39 PM",
         "iso_date": "2026-03-23T17:39:33+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Countries with the most submarines",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNXlmTzIzYlVUVERYQURrQXBYNG5xV1NqdzA3Zm50MkoycWJRQ1B2Y04xTkNKNUhSYnVNVjlDclQ0akFJRGNfTm50bWx0STBXeVZMRXVtam1NME03TWhjRGVwSFBmSGtXOVFvTi1lbmZPZURHeFVZMTRSS3pVVmkzWUNObG4ycElfUUxUX1VJaklSV1NtS0RWc3pNclRQcHVRVl8wOEFENW1Tc0tVbzlDQW5qaE5LaGJkRGd6cFg3TGExcHJGY3k0UGNMRWc?oc=5",
-        "published": "23 Mar 2026, 04:10 PM",
-        "iso_date": "2026-03-23T16:10:37+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,20 +196,30 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Qatar Condoles UAE Over Contractor’s Death in Bahrain Missile Attack",
+        "link": "https://www.newsofbahrain.com/bahrain/129120.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJO7a3dvzu_2026-03-24_1774372983resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "UAE Soldier Killed Defending Bahrain from Iranian Attack",
         "link": "https://www.newsofbahrain.com/bahrain/129119.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SRMaAJnCsl_2026-03-24_1774364299resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2JLbo9wNKU_2026-03-24_1774372769resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "The Whys and Wherefores of Wars",
         "link": "https://www.newsofbahrain.com/views/129118.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
+        "published": "24 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-24T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_5TQSJqBGF6_2026-03-24_1774358182resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +238,10 @@
       {
         "title": "Lebanon says one killed near Beirut, as Israel says struck Iran Guards member",
         "link": "https://www.newsofbahrain.com/world/129116.html",
-        "published": "24 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wTmQqtGLlA_2026-03-24_1774357062resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "'Point of no return' looming in Middle East war: Red Cross",
-        "link": "https://www.newsofbahrain.com/world/129115.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uINdilkgGV_2026-03-24_1774356878resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wTmQqtGLlA_2026-03-24_1774357062resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,12 +276,12 @@
         "category": "Latest"
       },
       {
-        "title": "The Dead Drop: How a Young Drug Dealer’s Scheme Unraveled",
-        "link": "https://www.newsofbahrain.com/bahrain/129107.html",
+        "title": "'Point of no return' looming in Middle East war: Red Cross",
+        "link": "https://www.newsofbahrain.com/world/129115.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9wYz5js8t4_2026-03-24_1774354118thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uINdilkgGV_2026-03-24_1774356878thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 16:04:08 UTC"
+  "fetched_at": "2026-03-24 17:30:00 UTC"
 }
