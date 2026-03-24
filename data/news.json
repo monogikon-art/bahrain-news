@@ -32,20 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Saudi minister of defense relays leadership’s praise for armed forces’ heroic role",
-        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSFlweUJSU1NtSE1ZRVdLSWJMWFIxbDdOSDFGMDNScDZoR3lHTTRaM3l4dzlqVi1KdTd1ZW53Y2hEX2xodENBT3N1U3Z0YUE0VWlyaHFtWU1YUGtRREFYa2ZtSnNMYWNOVExzT2NJdlJKNkNTX1RBVHNkRGtFNERqcDFXZFR3eDFqRXlXblh4ZU5YU3dKaDd5ak9GX3VtczhnQ2J2MEM2SkxuYTdkbkV2Um4zSFJ3TGlfOC1MbFdNTWx6WlN4aFlrVEFldXh1V0xRdlJ2NUszaE5CVGFaYU9MSGxTZXZQVHYwdGF6dWJ2bmFlYXUyc1Yza2VIYlp5NDNkanN1Y0pkWkxjSGZ2SE9aeV9XNEtNc1IzRjAtb1VDT0ktOEZvYWxjV0hOZDdJLTZlT0FGWjJVRTFIc2tFZ09melBIN1hUY19VZl9jbjlPVHhZbGFfWHUtY3hrRzFPQVFp?oc=5",
-        "published": "23 Mar 2026, 05:49 PM",
-        "iso_date": "2026-03-23T17:49:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts 147 missiles, 282 drones since start of Iran attacks",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDR5THZFZmktY2tXSXRXbWlYT1ZLWjVZaGpGRXhsaEdFRWtNVVpXcndGcHhnbTZfb0UxYl92ZFNEay1ZdE9oQnNhQ1JGQ0Rld3FWUXV4eS1HWWk3MnZQRGZXOThmQzVELVJPWVAxdUVTeENncDU0ckgzakZJX25DV3ZtalB3d3BHZGs2UTZDQ2pTWnFGbVJPbWlrRFhKR1dSQ3prVlE1Z01lMl9pbHc?oc=5",
-        "published": "23 Mar 2026, 11:01 AM",
-        "iso_date": "2026-03-23T11:01:52+00:00",
+        "title": "Amazon’s Bahrain data centre ‘disrupted’ by drone - Arabian Gulf Business Insight | AGBI",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXpMRXY3R1FpRkhZR004eERfYXdZLU5mMHZLZlhuUjBGMTFoOE95YnduOU5YcnBpQmdzSldmNWZSUTc3VXUtOGZSSDFqN283SlpVWG9BbjZnZkhOYXFvcEdHYnhkUC1tckFTSjFRTUg2cmVyY0lLRVRTR1RmSEFOWTkwbmhfNEtn?oc=5",
+        "published": "24 Mar 2026, 07:40 AM",
+        "iso_date": "2026-03-24T07:40:29+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -56,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTR4bFpOczFnbmN3LTJBRVl5MUpHWWxDOHd3ZC1xQVBHMjNONVhnSDAxRENYblVjNFJLTFJ3cU92N2k0QXh3a28tRk1CUTlteGpDMUZaT1M2UmZrUzJmaFV0ZHNMa29DQlhwWE9vMmlHdldULXhaMzlEWTREeVRVaWF2cHZZYjRIS2c?oc=5",
         "published": "23 Mar 2026, 05:39 PM",
         "iso_date": "2026-03-23T17:39:33+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts 147 missiles, 282 drones since start of Iran attacks",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDR5THZFZmktY2tXSXRXbWlYT1ZLWjVZaGpGRXhsaEdFRWtNVVpXcndGcHhnbTZfb0UxYl92ZFNEay1ZdE9oQnNhQ1JGQ0Rld3FWUXV4eS1HWWk3MnZQRGZXOThmQzVELVJPWVAxdUVTeENncDU0ckgzakZJX25DV3ZtalB3d3BHZGs2UTZDQ2pTWnFGbVJPbWlrRFhKR1dSQ3prVlE1Z01lMl9pbHc?oc=5",
+        "published": "23 Mar 2026, 11:01 AM",
+        "iso_date": "2026-03-23T11:01:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -176,52 +176,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Protecting navigation in Hormuz",
+        "link": "https://www.newsofbahrain.com/world/129073.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjdDpuNhsw_2026-03-24_1774339357resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kingdom advancing weather services for public safety",
+        "link": "https://www.newsofbahrain.com/bahrain/129072.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3dUK27eYNb_2026-03-24_1774339091resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Former Kenya Minister Arrested Over ‘Staged Disappearance’",
+        "link": "https://www.newsofbahrain.com/world/129071.html",
+        "published": "24 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-24T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J5reKiY3mf_2026-03-24_1774338900resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Palestine backs Bahrain security and stability",
+        "link": "https://www.newsofbahrain.com/bahrain/129070.html",
+        "published": "24 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-24T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2r0sFChykJ_2026-03-24_1774338817resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Alert: Brace for unstable weather until Friday",
+        "link": "https://www.newsofbahrain.com/bahrain/129069.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ie2qHUSmzV_2026-03-24_1774338716resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Civil Defence Extinguishes Fire After Iranian Attack",
         "link": "https://www.newsofbahrain.com/bahrain/129059.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VIQyXeaPtp_2026-03-24_1774335472resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "EU Chief Urges Immediate End to Middle East Hostilities",
-        "link": "https://www.newsofbahrain.com/world/129058.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kHm7dEPRnw_2026-03-24_1774334319resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "South Korea Tightens Vehicle Restrictions Amid Oil Supply Concerns",
-        "link": "https://www.newsofbahrain.com/world/129057.html",
-        "published": "24 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q9BYPo4Fzn_2026-03-24_1774333629resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Netanyahu Holds Talks with Trump, Says U.S. Sees Chance for Deal",
-        "link": "https://www.newsofbahrain.com/world/129055.html",
-        "published": "24 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8af3djiKTl_2026-03-24_1774333279resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Colombian Military Plane Crash Kills Dozens Near Peru Border",
-        "link": "https://www.newsofbahrain.com/world/129054.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W4jkK1pB9D_2026-03-24_1774332802resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VIQyXeaPtp_2026-03-24_1774335472thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -236,32 +246,22 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain FM Meets French Ambassador in Manama",
-        "link": "https://www.newsofbahrain.com/bahrain/129050.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
+        "title": "Slovenia becomes first EU country to introduce fuel rationing",
+        "link": "https://www.newsofbahrain.com/world/129068.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5S914o3vIb_2026-03-23_1774285920thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qdEVTvlcnA_2026-03-24_1774338589thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Cabinet Condemns Iranian Aggression",
-        "link": "https://www.newsofbahrain.com/bahrain/129046.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
+        "title": "Centcom denies reports of F-15 shot down over Kuwait",
+        "link": "https://www.newsofbahrain.com/world/129067.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rnVFlsmawo_2026-03-23_1774268590thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Court Sentences Business Owner to 5 Years for VAT Evasion",
-        "link": "https://www.newsofbahrain.com/bahrain/129038.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hWI1rL2Ysq_2026-03-23_1774263884thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CYFofkd8IK_2026-03-24_1774338351thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -419,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 07:00:30 UTC"
+  "fetched_at": "2026-03-24 08:06:39 UTC"
 }
