@@ -176,6 +176,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Power Outages Reported in Kuwait After Transmission Lines Damaged",
+        "link": "https://www.newsofbahrain.com/world/129052.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_09gdLIluCp_2026-03-24_1774325800resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "GCC Urges UN Action Over Iranian Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/129051.html",
         "published": "24 Mar 2026, 09:22 AM",
@@ -188,8 +198,8 @@
       {
         "title": "Bahrain FM Meets French Ambassador in Manama",
         "link": "https://www.newsofbahrain.com/bahrain/129050.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
+        "published": "23 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-23T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_5S914o3vIb_2026-03-23_1774285920resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,20 +218,10 @@
       {
         "title": "Qatar Government Resumes Full On-Site Operations Effective March 24",
         "link": "https://www.newsofbahrain.com/gcc/129048.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yTk4KQjLoG_2026-03-23_1774276833resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Jet Collides with Fire Truck Leaving 2 Dead, Dozens Injured in New York",
-        "link": "https://www.newsofbahrain.com/world/129047.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YwNQHvXLcD_2026-03-23_1774269607resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yTk4KQjLoG_2026-03-23_1774276833resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -256,22 +256,22 @@
         "category": "Latest"
       },
       {
+        "title": "Jet Collides with Fire Truck Leaving 2 Dead, Dozens Injured in New York",
+        "link": "https://www.newsofbahrain.com/world/129047.html",
+        "published": "23 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YwNQHvXLcD_2026-03-23_1774269607thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Russia, Iran FMs hold call after US-Iran war talks: Moscow",
         "link": "https://www.newsofbahrain.com/world/129045.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_KW5ACmVMkU_2026-03-23_1774268152thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "“No Assessment” UK Under Threat from Iran, Keir Starmer",
-        "link": "https://www.newsofbahrain.com/world/129044.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HWb0eCEKch_2026-03-23_1774267961thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 04:16:29 UTC"
+  "fetched_at": "2026-03-24 05:42:07 UTC"
 }
