@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 15
     }
   },
   "articles": {
@@ -42,20 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Saudi minister of defense relays leadership’s praise for armed forces’ heroic role",
-        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSFlweUJSU1NtSE1ZRVdLSWJMWFIxbDdOSDFGMDNScDZoR3lHTTRaM3l4dzlqVi1KdTd1ZW53Y2hEX2xodENBT3N1U3Z0YUE0VWlyaHFtWU1YUGtRREFYa2ZtSnNMYWNOVExzT2NJdlJKNkNTX1RBVHNkRGtFNERqcDFXZFR3eDFqRXlXblh4ZU5YU3dKaDd5ak9GX3VtczhnQ2J2MEM2SkxuYTdkbkV2Um4zSFJ3TGlfOC1MbFdNTWx6WlN4aFlrVEFldXh1V0xRdlJ2NUszaE5CVGFaYU9MSGxTZXZQVHYwdGF6dWJ2bmFlYXUyc1Yza2VIYlp5NDNkanN1Y0pkWkxjSGZ2SE9aeV9XNEtNc1IzRjAtb1VDT0ktOEZvYWxjV0hOZDdJLTZlT0FGWjJVRTFIc2tFZ09melBIN1hUY19VZl9jbjlPVHhZbGFfWHUtY3hrRzFPQVFp?oc=5",
-        "published": "23 Mar 2026, 05:49 PM",
-        "iso_date": "2026-03-23T17:49:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts 147 missiles, 282 drones since start of Iran attacks",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDR5THZFZmktY2tXSXRXbWlYT1ZLWjVZaGpGRXhsaEdFRWtNVVpXcndGcHhnbTZfb0UxYl92ZFNEay1ZdE9oQnNhQ1JGQ0Rld3FWUXV4eS1HWWk3MnZQRGZXOThmQzVELVJPWVAxdUVTeENncDU0ckgzakZJX25DV3ZtalB3d3BHZGs2UTZDQ2pTWnFGbVJPbWlrRFhKR1dSQ3prVlE1Z01lMl9pbHc?oc=5",
-        "published": "23 Mar 2026, 11:01 AM",
-        "iso_date": "2026-03-23T11:01:52+00:00",
+        "title": "Trump lashes out at reporter's 'crazy question' on putting US ground troops in Iran",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdzAwQWw3ZjBCWDlNbGxUbnBTUHdQNXFRdG9CLV9nNFd2aGVLVkhPMmJaMERVdnpVcV9FbWpTNGZkSWhVQ2JYQTBCWTBWNGxpWUNvYkZmOE9UZEJ6VjBlNEtCNm5fN0l2SUc1YTMwcTYxRV9PT2NJeGpIXzVJUW9vMnhaVkNCU1g3QWJfWWVibUNQcDFCNzVmRW8yaF9XMXl5UVI5TkdoLThiZWtUVVVZQ2htRHVKM1NUYXZlbUNJVElqcGd5ekJ0ejM4R3BJZ0Y2ZVNZaktHNFp5Y2VTYjZnZUlVUVZlZVYyNU93eTdWTEdBeVlrYlR3XzUtVnBndTJ1WGV3MXVuY3otb2s?oc=5",
+        "published": "23 Mar 2026, 05:33 PM",
+        "iso_date": "2026-03-23T17:33:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,10 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 147 Missiles, 282 Drones Since Onset Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSEpHN3RlMHNodHNqTXRrN3VTOUdhcEtEczJKNHAtUXFfSHhQcjdnZ1lzUnFHbTlZWmNZNDNYUVR2RXVtWTRqb1FiSDJva2N0RTNhb2lLZnFWSW1vZVRzUXM2eHFrd2FqQVJwTUJOSkJWQkFwMTYwS083VVdudENPbXR1NUVIQzhqV0tndklLcDJwOEk2SExaSXlRWEg3NWs?oc=5",
-        "published": "23 Mar 2026, 10:15 AM",
-        "iso_date": "2026-03-23T10:15:04+00:00",
+        "title": "Eight Hezbollah members killed in Israel’s Friday strikes on Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxORllDUTAxSlRpcVp1ajRQNzZKQS0tUHMzODlUbkN5d2FHcmtHeUNPcFN1T1ZLS0haNHpQUl9QQ3BLUUx1Z1RoUl9YNVV1dDN5REQ4cmJScFJTa196WGdDcll3MjVYWmNFZjZiekZFLUdscFJLUno3UGxQZWdVdGZSeldZUTZ5NWJvWEJtQzlBQXZEY2FfZWhWYzl4NFlDMVlOSklwTzdUR3h2N081dlVoaVUtblRnQV93bDlvdzhfNVZna3BHdncteldSTEhFYlpXMzVUZWE5VGFjdnZHVldCcTRHaExJNmM3TkJtQkx5UTRoV0lSdWs5Nl96el9WUHY3ZXRtc3cybENKeEJyLW9zSzBleWJvQnhhanltNGh3UzlzSWFZaFZtRFdqOHZlYm9OQW5uZU9ZZGlEc19CM2k3ZGw1c0dLQURjRF9ZbkswdzMxTmMzMC1NOFl5SENVbmhqZWFEMA?oc=5",
+        "published": "23 Mar 2026, 01:53 PM",
+        "iso_date": "2026-03-23T13:53:20+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Countries with the most submarines",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNXlmTzIzYlVUVERYQURrQXBYNG5xV1NqdzA3Zm50MkoycWJRQ1B2Y04xTkNKNUhSYnVNVjlDclQ0akFJRGNfTm50bWx0STBXeVZMRXVtam1NME03TWhjRGVwSFBmSGtXOVFvTi1lbmZPZURHeFVZMTRSS3pVVmkzWUNObG4ycElfUUxUX1VJaklSV1NtS0RWc3pNclRQcHVRVl8wOEFENW1Tc0tVbzlDQW5qaE5LaGJkRGd6cFg3TGExcHJGY3k0UGNMRWc?oc=5",
+        "published": "23 Mar 2026, 04:10 PM",
+        "iso_date": "2026-03-23T16:10:37+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -186,52 +186,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Vinicius double helps Real Madrid edge Atletico thriller",
-        "link": "https://www.newsofbahrain.com/sports/129097.html",
+        "title": "UN to Hold Urgent Debate on Iran Strikes",
+        "link": "https://www.newsofbahrain.com/world/129102.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eHwYcayfuF_2026-03-24_1774346326resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WNmqpuCv3x_2026-03-24_1774349923resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Messi scores for Miami in 3-2 MLS victory at NYCFC",
-        "link": "https://www.newsofbahrain.com/sports/129096.html",
+        "title": "Lufthansa, Cathay Extend Middle East Flight Suspensions",
+        "link": "https://www.newsofbahrain.com/world/129101.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVXJYIRAux_2026-03-24_1774346218resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_S5eNUrfLZm_2026-03-24_1774349861resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Korda sends Alcaraz to another early exit in Miami, Sabalenka advances",
-        "link": "https://www.newsofbahrain.com/sports/129094.html",
+        "title": "Malaysia reaffirms support for Bahrain amid tensions",
+        "link": "https://www.newsofbahrain.com/world/129100.html",
         "published": "24 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-24T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GF4c0PX5qL_2026-03-24_1774345378resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W4YL2sDFKv_2026-03-24_1774348511resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bezzecchi wins second race of the season at Brazil MotoGP",
-        "link": "https://www.newsofbahrain.com/sports/129093.html",
+        "title": "Arteta defends Kepa selection after blunder",
+        "link": "https://www.newsofbahrain.com/sports/129099.html",
         "published": "24 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-24T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rc8oOws6Ku_2026-03-24_1774345012resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7ONiqhe5ul_2026-03-24_1774347761resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Griezmann given go-ahead to talk with Orlando City",
-        "link": "https://www.newsofbahrain.com/sports/129092.html",
+        "title": "Man City’s League Cup glory adds twist to title race",
+        "link": "https://www.newsofbahrain.com/sports/129098.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_piVHAat0Tl_2026-03-24_1774344821resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LBjHO9WAyF_2026-03-24_1774347238resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -291,37 +291,7 @@
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9vDzwE8y4n_2026-03-24_1774343060thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Two more India-bound tankers cross Strait of Hormuz: shipping ministry",
-        "link": "https://www.newsofbahrain.com/world/129085.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vY45db0lqC_2026-03-24_1774342440thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UK Minister: Expanding Fossil Fuels ‘Wrong Lesson’ from Energy Crisis",
-        "link": "https://www.newsofbahrain.com/world/129082.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CfhSdWXexs_2026-03-24_1774341765thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Protecting navigation in Hormuz",
-        "link": "https://www.newsofbahrain.com/world/129073.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjdDpuNhsw_2026-03-24_1774339357thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N8QbvThpx1_2026-03-24_1774347468thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 10:13:20 UTC"
+  "fetched_at": "2026-03-24 11:13:44 UTC"
 }
