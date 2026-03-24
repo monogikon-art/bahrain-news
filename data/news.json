@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,10 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Punjab govt deploys anti-drone gun",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTR4bFpOczFnbmN3LTJBRVl5MUpHWWxDOHd3ZC1xQVBHMjNONVhnSDAxRENYblVjNFJLTFJ3cU92N2k0QXh3a28tRk1CUTlteGpDMUZaT1M2UmZrUzJmaFV0ZHNMa29DQlhwWE9vMmlHdldULXhaMzlEWTREeVRVaWF2cHZZYjRIS2c?oc=5",
-        "published": "23 Mar 2026, 05:39 PM",
-        "iso_date": "2026-03-23T17:39:33+00:00",
+        "title": "Saudi minister of defense relays leadership’s praise for armed forces’ heroic role",
+        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSFlweUJSU1NtSE1ZRVdLSWJMWFIxbDdOSDFGMDNScDZoR3lHTTRaM3l4dzlqVi1KdTd1ZW53Y2hEX2xodENBT3N1U3Z0YUE0VWlyaHFtWU1YUGtRREFYa2ZtSnNMYWNOVExzT2NJdlJKNkNTX1RBVHNkRGtFNERqcDFXZFR3eDFqRXlXblh4ZU5YU3dKaDd5ak9GX3VtczhnQ2J2MEM2SkxuYTdkbkV2Um4zSFJ3TGlfOC1MbFdNTWx6WlN4aFlrVEFldXh1V0xRdlJ2NUszaE5CVGFaYU9MSGxTZXZQVHYwdGF6dWJ2bmFlYXUyc1Yza2VIYlp5NDNkanN1Y0pkWkxjSGZ2SE9aeV9XNEtNc1IzRjAtb1VDT0ktOEZvYWxjV0hOZDdJLTZlT0FGWjJVRTFIc2tFZ09melBIN1hUY19VZl9jbjlPVHhZbGFfWHUtY3hrRzFPQVFp?oc=5",
+        "published": "23 Mar 2026, 05:49 PM",
+        "iso_date": "2026-03-23T17:49:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDR5THZFZmktY2tXSXRXbWlYT1ZLWjVZaGpGRXhsaEdFRWtNVVpXcndGcHhnbTZfb0UxYl92ZFNEay1ZdE9oQnNhQ1JGQ0Rld3FWUXV4eS1HWWk3MnZQRGZXOThmQzVELVJPWVAxdUVTeENncDU0ckgzakZJX25DV3ZtalB3d3BHZGs2UTZDQ2pTWnFGbVJPbWlrRFhKR1dSQ3prVlE1Z01lMl9pbHc?oc=5",
         "published": "23 Mar 2026, 11:01 AM",
         "iso_date": "2026-03-23T11:01:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Punjab govt deploys anti-drone gun",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTR4bFpOczFnbmN3LTJBRVl5MUpHWWxDOHd3ZC1xQVBHMjNONVhnSDAxRENYblVjNFJLTFJ3cU92N2k0QXh3a28tRk1CUTlteGpDMUZaT1M2UmZrUzJmaFV0ZHNMa29DQlhwWE9vMmlHdldULXhaMzlEWTREeVRVaWF2cHZZYjRIS2c?oc=5",
+        "published": "23 Mar 2026, 05:39 PM",
+        "iso_date": "2026-03-23T17:39:33+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -419,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 01:50:20 UTC"
+  "fetched_at": "2026-03-24 04:16:29 UTC"
 }
