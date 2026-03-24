@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 16
     }
   },
   "articles": {
@@ -52,20 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "Punjab govt deploys anti-drone gun",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTR4bFpOczFnbmN3LTJBRVl5MUpHWWxDOHd3ZC1xQVBHMjNONVhnSDAxRENYblVjNFJLTFJ3cU92N2k0QXh3a28tRk1CUTlteGpDMUZaT1M2UmZrUzJmaFV0ZHNMa29DQlhwWE9vMmlHdldULXhaMzlEWTREeVRVaWF2cHZZYjRIS2c?oc=5",
-        "published": "23 Mar 2026, 05:39 PM",
-        "iso_date": "2026-03-23T17:39:33+00:00",
+        "title": "Not Every Video Is True, A Quiet Warning in a Loud Digital World | THE DAILY TRIBUNE | KINGDOM OF BAHRAIN",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZUEFhMENCbi1pS1Z0THQ5OXJFcXo0RnlXOVU4UFNwRkdjZ2ltU1lFQ0FqRzViUUdJQk9hdk5RZFNsY0VscWVETVNfejN0WU95Ml8zZVVPdmxjd2JwcEE?oc=5",
+        "published": "24 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-24T09:00:43+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Eight Hezbollah members killed in Israel’s Friday strikes on Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxORllDUTAxSlRpcVp1ajRQNzZKQS0tUHMzODlUbkN5d2FHcmtHeUNPcFN1T1ZLS0haNHpQUl9QQ3BLUUx1Z1RoUl9YNVV1dDN5REQ4cmJScFJTa196WGdDcll3MjVYWmNFZjZiekZFLUdscFJLUno3UGxQZWdVdGZSeldZUTZ5NWJvWEJtQzlBQXZEY2FfZWhWYzl4NFlDMVlOSklwTzdUR3h2N081dlVoaVUtblRnQV93bDlvdzhfNVZna3BHdncteldSTEhFYlpXMzVUZWE5VGFjdnZHVldCcTRHaExJNmM3TkJtQkx5UTRoV0lSdWs5Nl96el9WUHY3ZXRtc3cybENKeEJyLW9zSzBleWJvQnhhanltNGh3UzlzSWFZaFZtRFdqOHZlYm9OQW5uZU9ZZGlEc19CM2k3ZGw1c0dLQURjRF9ZbkswdzMxTmMzMC1NOFl5SENVbmhqZWFEMA?oc=5",
-        "published": "23 Mar 2026, 01:53 PM",
-        "iso_date": "2026-03-23T13:53:20+00:00",
+        "title": "Punjab govt deploys anti-drone gun",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTR4bFpOczFnbmN3LTJBRVl5MUpHWWxDOHd3ZC1xQVBHMjNONVhnSDAxRENYblVjNFJLTFJ3cU92N2k0QXh3a28tRk1CUTlteGpDMUZaT1M2UmZrUzJmaFV0ZHNMa29DQlhwWE9vMmlHdldULXhaMzlEWTREeVRVaWF2cHZZYjRIS2c?oc=5",
+        "published": "23 Mar 2026, 05:39 PM",
+        "iso_date": "2026-03-23T17:39:33+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,92 +196,112 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Not Every Video Is True, A Quiet Warning in a Loud Digital World",
-        "link": "https://www.newsofbahrain.com/bahrain/129104.html",
+        "title": "The Whys and Wherefores of Wars",
+        "link": "https://www.newsofbahrain.com/views/129118.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yISAEDULsW_2026-03-24_1774353485resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5TQSJqBGF6_2026-03-24_1774358182resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "EU, Australia Strike Landmark Free Trade Deal",
-        "link": "https://www.newsofbahrain.com/world/129103.html",
+        "title": "World Economic Forum postpones Saudi Arabia summit",
+        "link": "https://www.newsofbahrain.com/gcc/129117.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XGdMQI5YgH_2026-03-24_1774353120resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_K31lpgGADJ_2026-03-24_1774357563resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UN to Hold Urgent Debate on Iran Strikes",
-        "link": "https://www.newsofbahrain.com/world/129102.html",
+        "title": "Lebanon says one killed near Beirut, as Israel says struck Iran Guards member",
+        "link": "https://www.newsofbahrain.com/world/129116.html",
         "published": "24 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-24T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WNmqpuCv3x_2026-03-24_1774349923resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wTmQqtGLlA_2026-03-24_1774357062resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Lufthansa, Cathay Extend Middle East Flight Suspensions",
-        "link": "https://www.newsofbahrain.com/world/129101.html",
+        "title": "'Point of no return' looming in Middle East war: Red Cross",
+        "link": "https://www.newsofbahrain.com/world/129115.html",
         "published": "24 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-24T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_S5eNUrfLZm_2026-03-24_1774349861resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uINdilkgGV_2026-03-24_1774356878resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Malaysia reaffirms support for Bahrain amid tensions",
-        "link": "https://www.newsofbahrain.com/world/129100.html",
+        "title": "UK sending air defence systems to Gulf: PM",
+        "link": "https://www.newsofbahrain.com/world/129114.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W4YL2sDFKv_2026-03-24_1774348511resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yi3o6M5OCQ_2026-03-24_1774356609resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Rare shelf cloud spotted",
-        "link": "https://www.newsofbahrain.com/bahrain/129084.html",
+        "title": "NBB Announces Reopening of Branch Network Across the Kingdom",
+        "link": "https://www.newsofbahrain.com/bahrain/129112.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z6GbJpqm74_2026-03-24_1774342031thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XUDxwTn69E_2026-03-24_1774356232thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Thunderstorm brings rain, strong winds across Kingdom",
-        "link": "https://www.newsofbahrain.com/bahrain/129083.html",
+        "title": "Bahrain’s Youth Stand Firm at the Frontline of the Nation’s Future",
+        "link": "https://www.newsofbahrain.com/bahrain/129110.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c9DUdBkjzv_2026-03-24_1774341866thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SEYbNPftu0_2026-03-24_1774354684thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Filipino community delivers meals, essentials, and hope to fellow workers in need",
-        "link": "https://www.newsofbahrain.com/bahrain/129081.html",
+        "title": "Youth at the Heart of a Nation’s Future",
+        "link": "https://www.newsofbahrain.com/bahrain/129109.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WgeLlko3qF_2026-03-24_1774341662thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1w8girQFj7_2026-03-24_1774354555thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "‘Thief and fraudster of electronic devices’",
-        "link": "https://www.newsofbahrain.com/bahrain/129080.html",
+        "title": "The Dead Drop: How a Young Drug Dealer’s Scheme Unraveled",
+        "link": "https://www.newsofbahrain.com/bahrain/129107.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UTA5eFzRDi_2026-03-24_1774340923thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9wYz5js8t4_2026-03-24_1774354118thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Court Orders Company to Compensate Supervisor Despite Allegations of Data Leak",
+        "link": "https://www.newsofbahrain.com/bahrain/129106.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Muz32YvdIX_2026-03-24_1774353913thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "USS Gerald Ford back at Crete naval base: AFP",
+        "link": "https://www.newsofbahrain.com/world/129113.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_M9HChbIZtR_2026-03-24_1774356417thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,6 +342,16 @@
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_GSKVHZMeIC_2026-03-23_1774251307thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India is against obstruction of Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/views/129111.html",
+        "published": "24 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-24T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2iJYP94xaX_2026-03-24_1774355017thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -439,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 12:02:21 UTC"
+  "fetched_at": "2026-03-24 13:54:56 UTC"
 }
