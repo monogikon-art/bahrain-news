@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 18
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Amazon’s Bahrain data centre ‘disrupted’ by drone - Arabian Gulf Business Insight | AGBI",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXpMRXY3R1FpRkhZR004eERfYXdZLU5mMHZLZlhuUjBGMTFoOE95YnduOU5YcnBpQmdzSldmNWZSUTc3VXUtOGZSSDFqN283SlpVWG9BbjZnZkhOYXFvcEdHYnhkUC1tckFTSjFRTUg2cmVyY0lLRVRTR1RmSEFOWTkwbmhfNEtn?oc=5",
+        "published": "24 Mar 2026, 07:40 AM",
+        "iso_date": "2026-03-24T07:40:29+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain intercepts 147 Iranian missiles and 282 drones since February",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zTndnZWtVYWU0ZlkwZ0o1dmxRWm50QW1Eb0lDN3k1aHlJRG9NR1hJVmE3TXBUNFRZSnpWVHF0ZjNhM0lkV1Vpa3RFcFhibFFJbDlF?oc=5",
@@ -32,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Amazon’s Bahrain data centre ‘disrupted’ by drone - Arabian Gulf Business Insight | AGBI",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXpMRXY3R1FpRkhZR004eERfYXdZLU5mMHZLZlhuUjBGMTFoOE95YnduOU5YcnBpQmdzSldmNWZSUTc3VXUtOGZSSDFqN283SlpVWG9BbjZnZkhOYXFvcEdHYnhkUC1tckFTSjFRTUg2cmVyY0lLRVRTR1RmSEFOWTkwbmhfNEtn?oc=5",
-        "published": "24 Mar 2026, 07:40 AM",
-        "iso_date": "2026-03-24T07:40:29+00:00",
+        "title": "Saudi minister of defense relays leadership’s praise for armed forces’ heroic role",
+        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSFlweUJSU1NtSE1ZRVdLSWJMWFIxbDdOSDFGMDNScDZoR3lHTTRaM3l4dzlqVi1KdTd1ZW53Y2hEX2xodENBT3N1U3Z0YUE0VWlyaHFtWU1YUGtRREFYa2ZtSnNMYWNOVExzT2NJdlJKNkNTX1RBVHNkRGtFNERqcDFXZFR3eDFqRXlXblh4ZU5YU3dKaDd5ak9GX3VtczhnQ2J2MEM2SkxuYTdkbkV2Um4zSFJ3TGlfOC1MbFdNTWx6WlN4aFlrVEFldXh1V0xRdlJ2NUszaE5CVGFaYU9MSGxTZXZQVHYwdGF6dWJ2bmFlYXUyc1Yza2VIYlp5NDNkanN1Y0pkWkxjSGZ2SE9aeV9XNEtNc1IzRjAtb1VDT0ktOEZvYWxjV0hOZDdJLTZlT0FGWjJVRTFIc2tFZ09melBIN1hUY19VZl9jbjlPVHhZbGFfWHUtY3hrRzFPQVFp?oc=5",
+        "published": "23 Mar 2026, 05:49 PM",
+        "iso_date": "2026-03-23T17:49:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,20 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 147 missiles, 282 drones since onset of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHduWGUwRU5FeEE4THh5dHdhdG9ad3V3dDBCZFE2eW1wRG9jV0k0aWF1OTVtanZiUmNfdHM3ZXQ3bkJEZFp3Mk1lSTV6b0JpU2dPUERZY2J5TEdwVHRKQzkzdHNZcnVhaVI2UFVjTUNCb0RTUEJTbndUZnE5NE9EdU5iV29zakluYUtZYV9oekNIRnlLb0JJTm13cmIzSWtvLU93T2xLbjJ4cHBqX19xNWllaDlGVVA3Y1JJ?oc=5",
-        "published": "23 Mar 2026, 10:09 AM",
-        "iso_date": "2026-03-23T10:09:00+00:00",
+        "title": "Punjab govt deploys anti-drone gun",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTR4bFpOczFnbmN3LTJBRVl5MUpHWWxDOHd3ZC1xQVBHMjNONVhnSDAxRENYblVjNFJLTFJ3cU92N2k0QXh3a28tRk1CUTlteGpDMUZaT1M2UmZrUzJmaFV0ZHNMa29DQlhwWE9vMmlHdldULXhaMzlEWTREeVRVaWF2cHZZYjRIS2c?oc=5",
+        "published": "23 Mar 2026, 05:39 PM",
+        "iso_date": "2026-03-23T17:39:33+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Punjab govt deploys anti-drone gun",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTR4bFpOczFnbmN3LTJBRVl5MUpHWWxDOHd3ZC1xQVBHMjNONVhnSDAxRENYblVjNFJLTFJ3cU92N2k0QXh3a28tRk1CUTlteGpDMUZaT1M2UmZrUzJmaFV0ZHNMa29DQlhwWE9vMmlHdldULXhaMzlEWTREeVRVaWF2cHZZYjRIS2c?oc=5",
-        "published": "23 Mar 2026, 05:39 PM",
-        "iso_date": "2026-03-23T17:39:33+00:00",
+        "title": "Bahrain Intercepts 147 Missiles, 282 Drones Since Onset Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSEpHN3RlMHNodHNqTXRrN3VTOUdhcEtEczJKNHAtUXFfSHhQcjdnZ1lzUnFHbTlZWmNZNDNYUVR2RXVtWTRqb1FiSDJva2N0RTNhb2lLZnFWSW1vZVRzUXM2eHFrd2FqQVJwTUJOSkJWQkFwMTYwS083VVdudENPbXR1NUVIQzhqV0tndklLcDJwOEk2SExaSXlRWEg3NWs?oc=5",
+        "published": "23 Mar 2026, 10:15 AM",
+        "iso_date": "2026-03-23T10:15:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -176,42 +186,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Oil prices slide, European stocks rebound on Trump’s Iran remarks",
-        "link": "https://www.newsofbahrain.com/business/129088.html",
+        "title": "Vinicius double helps Real Madrid edge Atletico thriller",
+        "link": "https://www.newsofbahrain.com/sports/129097.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IRY6xE5oy7_2026-03-24_1774343417resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eHwYcayfuF_2026-03-24_1774346326resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Russia, Vietnam advance plans for first nuclear power plant",
-        "link": "https://www.newsofbahrain.com/world/129087.html",
+        "title": "Messi scores for Miami in 3-2 MLS victory at NYCFC",
+        "link": "https://www.newsofbahrain.com/sports/129096.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9vDzwE8y4n_2026-03-24_1774343060resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVXJYIRAux_2026-03-24_1774346218resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Gold Prices Fall 15%, Eid Shopping Surges",
-        "link": "https://www.newsofbahrain.com/business/129086.html",
+        "title": "Korda sends Alcaraz to another early exit in Miami, Sabalenka advances",
+        "link": "https://www.newsofbahrain.com/sports/129094.html",
         "published": "24 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-24T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_I3iUo8bEV2_2026-03-24_1774342856resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GF4c0PX5qL_2026-03-24_1774345378resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Two more India-bound tankers cross Strait of Hormuz: shipping ministry",
-        "link": "https://www.newsofbahrain.com/world/129085.html",
+        "title": "Bezzecchi wins second race of the season at Brazil MotoGP",
+        "link": "https://www.newsofbahrain.com/sports/129093.html",
         "published": "24 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-24T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vY45db0lqC_2026-03-24_1774342440resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rc8oOws6Ku_2026-03-24_1774345012resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Griezmann given go-ahead to talk with Orlando City",
+        "link": "https://www.newsofbahrain.com/sports/129092.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_piVHAat0Tl_2026-03-24_1774344821resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -221,7 +241,7 @@
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z6GbJpqm74_2026-03-24_1774342031resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z6GbJpqm74_2026-03-24_1774342031thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -266,6 +286,26 @@
         "category": "Latest"
       },
       {
+        "title": "Russia, Vietnam advance plans for first nuclear power plant",
+        "link": "https://www.newsofbahrain.com/world/129087.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9vDzwE8y4n_2026-03-24_1774343060thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Two more India-bound tankers cross Strait of Hormuz: shipping ministry",
+        "link": "https://www.newsofbahrain.com/world/129085.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vY45db0lqC_2026-03-24_1774342440thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "UK Minister: Expanding Fossil Fuels ‘Wrong Lesson’ from Energy Crisis",
         "link": "https://www.newsofbahrain.com/world/129082.html",
         "published": "24 Mar 2026, 09:22 AM",
@@ -286,22 +326,42 @@
         "category": "Latest"
       },
       {
+        "title": "What cargo ships are passing Hormuz strait?",
+        "link": "https://www.newsofbahrain.com/business/129089.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Dg9TMicxhr_2026-03-24_1774344147thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil prices slide, European stocks rebound on Trump’s Iran remarks",
+        "link": "https://www.newsofbahrain.com/business/129088.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IRY6xE5oy7_2026-03-24_1774343417thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gold Prices Fall 15%, Eid Shopping Surges",
+        "link": "https://www.newsofbahrain.com/business/129086.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_I3iUo8bEV2_2026-03-24_1774342856thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Al Salam Bank Resumes Full Operations Across All Its Branches Starting Wednesday, 25 March 2026",
         "link": "https://www.newsofbahrain.com/business/129023.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_GSKVHZMeIC_2026-03-23_1774251307thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Damaged Russian tanker to be towed to Libya: state-owned company",
-        "link": "https://www.newsofbahrain.com/business/129003.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g8Aupmdjia_2026-03-23_1774242317thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -419,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 09:14:55 UTC"
+  "fetched_at": "2026-03-24 10:13:20 UTC"
 }
