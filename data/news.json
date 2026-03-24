@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -62,6 +62,16 @@
         "category": "Latest"
       },
       {
+        "title": "Saudi minister of defense relays leadership’s praise for armed forces’ heroic role",
+        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSFlweUJSU1NtSE1ZRVdLSWJMWFIxbDdOSDFGMDNScDZoR3lHTTRaM3l4dzlqVi1KdTd1ZW53Y2hEX2xodENBT3N1U3Z0YUE0VWlyaHFtWU1YUGtRREFYa2ZtSnNMYWNOVExzT2NJdlJKNkNTX1RBVHNkRGtFNERqcDFXZFR3eDFqRXlXblh4ZU5YU3dKaDd5ak9GX3VtczhnQ2J2MEM2SkxuYTdkbkV2Um4zSFJ3TGlfOC1MbFdNTWx6WlN4aFlrVEFldXh1V0xRdlJ2NUszaE5CVGFaYU9MSGxTZXZQVHYwdGF6dWJ2bmFlYXUyc1Yza2VIYlp5NDNkanN1Y0pkWkxjSGZ2SE9aeV9XNEtNc1IzRjAtb1VDT0ktOEZvYWxjV0hOZDdJLTZlT0FGWjJVRTFIc2tFZ09melBIN1hUY19VZl9jbjlPVHhZbGFfWHUtY3hrRzFPQVFp?oc=5",
+        "published": "23 Mar 2026, 05:49 PM",
+        "iso_date": "2026-03-23T17:49:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Punjab govt deploys anti-drone gun",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTR4bFpOczFnbmN3LTJBRVl5MUpHWWxDOHd3ZC1xQVBHMjNONVhnSDAxRENYblVjNFJLTFJ3cU92N2k0QXh3a28tRk1CUTlteGpDMUZaT1M2UmZrUzJmaFV0ZHNMa29DQlhwWE9vMmlHdldULXhaMzlEWTREeVRVaWF2cHZZYjRIS2c?oc=5",
         "published": "23 Mar 2026, 05:39 PM",
@@ -83,6 +93,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Iran attack in Bahrain kills Moroccan civilian contractor in the UAE Armed Forces and injures BDF heroes",
+        "link": "https://www.gdnonline.com/Details/1379448/Iran-attack-in-Bahrain-kills-Moroccan-civilian-contractor-in-the-UAE-Armed-Forces-and-injures-BDF-heroes",
+        "published": "24 Mar 2026",
+        "iso_date": "2026-03-24T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324182029gdn-websitesize-2026-03-24t182841.600_T.jpg?20260324",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Unstable weather to continue",
         "link": "https://www.gdnonline.com/Details/1379410/Unstable-weather-to-continue",
@@ -120,16 +140,6 @@
         "iso_date": "2026-03-24T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260324/20260323_220228_0_T.jpg?20260324",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Centres for children with special needs shift to online learning",
-        "link": "https://www.gdnonline.com/Details/1379400/Centres-for-children-with-special-needs-shift-to-online-learning-",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260323_220246_3_T.jpg?20260324",
         "source": "gdn",
         "category": "Latest"
       },
@@ -196,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "UAE Soldier Killed Defending Bahrain from Iranian Attack",
+        "link": "https://www.newsofbahrain.com/bahrain/129119.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SRMaAJnCsl_2026-03-24_1774364299resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "The Whys and Wherefores of Wars",
         "link": "https://www.newsofbahrain.com/views/129118.html",
         "published": "24 Mar 2026, 09:22 AM",
@@ -228,20 +248,10 @@
       {
         "title": "'Point of no return' looming in Middle East war: Red Cross",
         "link": "https://www.newsofbahrain.com/world/129115.html",
-        "published": "24 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uINdilkgGV_2026-03-24_1774356878resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UK sending air defence systems to Gulf: PM",
-        "link": "https://www.newsofbahrain.com/world/129114.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yi3o6M5OCQ_2026-03-24_1774356609resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uINdilkgGV_2026-03-24_1774356878resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,12 +296,12 @@
         "category": "Latest"
       },
       {
-        "title": "Court Orders Company to Compensate Supervisor Despite Allegations of Data Leak",
-        "link": "https://www.newsofbahrain.com/bahrain/129106.html",
+        "title": "UK sending air defence systems to Gulf: PM",
+        "link": "https://www.newsofbahrain.com/world/129114.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Muz32YvdIX_2026-03-24_1774353913thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yi3o6M5OCQ_2026-03-24_1774356609thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 14:54:54 UTC"
+  "fetched_at": "2026-03-24 16:04:08 UTC"
 }
