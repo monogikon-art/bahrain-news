@@ -156,6 +156,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Trump Says Iran Gave “Very Big Present” Over Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/world/129121.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y0haBjJlwn_2026-03-24_1774382614resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Qatar Condoles UAE Over Contractor’s Death in Bahrain Missile Attack",
         "link": "https://www.newsofbahrain.com/bahrain/129120.html",
         "published": "24 Mar 2026, 09:22 AM",
@@ -168,8 +178,8 @@
       {
         "title": "UAE Soldier Killed Defending Bahrain from Iranian Attack",
         "link": "https://www.newsofbahrain.com/bahrain/129119.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
+        "published": "24 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-24T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_2JLbo9wNKU_2026-03-24_1774372769resized_pic.jpg",
         "source": "newsofbahrain",
@@ -188,20 +198,10 @@
       {
         "title": "Lebanon says one killed near Beirut, as Israel says struck Iran Guards member",
         "link": "https://www.newsofbahrain.com/world/129116.html",
-        "published": "24 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wTmQqtGLlA_2026-03-24_1774357062resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "'Point of no return' looming in Middle East war: Red Cross",
-        "link": "https://www.newsofbahrain.com/world/129115.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uINdilkgGV_2026-03-24_1774356878resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wTmQqtGLlA_2026-03-24_1774357062resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -236,22 +236,22 @@
         "category": "Latest"
       },
       {
+        "title": "'Point of no return' looming in Middle East war: Red Cross",
+        "link": "https://www.newsofbahrain.com/world/129115.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uINdilkgGV_2026-03-24_1774356878thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "UK sending air defence systems to Gulf: PM",
         "link": "https://www.newsofbahrain.com/world/129114.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_yi3o6M5OCQ_2026-03-24_1774356609thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "USS Gerald Ford back at Crete naval base: AFP",
-        "link": "https://www.newsofbahrain.com/world/129113.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_M9HChbIZtR_2026-03-24_1774356417thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -419,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 19:52:06 UTC"
+  "fetched_at": "2026-03-24 20:38:03 UTC"
 }
