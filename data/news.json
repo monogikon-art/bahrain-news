@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -176,12 +176,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Power Outages Reported in Kuwait After Transmission Lines Damaged",
-        "link": "https://www.newsofbahrain.com/world/129052.html",
+        "title": "Civil Defence Extinguishes Fire After Iranian Attack",
+        "link": "https://www.newsofbahrain.com/bahrain/129059.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_09gdLIluCp_2026-03-24_1774325800resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VIQyXeaPtp_2026-03-24_1774335472resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EU Chief Urges Immediate End to Middle East Hostilities",
+        "link": "https://www.newsofbahrain.com/world/129058.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kHm7dEPRnw_2026-03-24_1774334319resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "South Korea Tightens Vehicle Restrictions Amid Oil Supply Concerns",
+        "link": "https://www.newsofbahrain.com/world/129057.html",
+        "published": "24 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-24T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q9BYPo4Fzn_2026-03-24_1774333629resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Netanyahu Holds Talks with Trump, Says U.S. Sees Chance for Deal",
+        "link": "https://www.newsofbahrain.com/world/129055.html",
+        "published": "24 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-24T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8af3djiKTl_2026-03-24_1774333279resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Colombian Military Plane Crash Kills Dozens Near Peru Border",
+        "link": "https://www.newsofbahrain.com/world/129054.html",
+        "published": "24 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W4jkK1pB9D_2026-03-24_1774332802resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -191,37 +231,17 @@
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iTJkFNf0xw_2026-03-23_1774300205resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iTJkFNf0xw_2026-03-23_1774300205thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain FM Meets French Ambassador in Manama",
         "link": "https://www.newsofbahrain.com/bahrain/129050.html",
-        "published": "23 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-23T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5S914o3vIb_2026-03-23_1774285920resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump: “Very Strong Talks” With Iran Could End Conflict",
-        "link": "https://www.newsofbahrain.com/world/129049.html",
-        "published": "23 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-23T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qrxHW8jvXU_2026-03-23_1774282003resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Government Resumes Full On-Site Operations Effective March 24",
-        "link": "https://www.newsofbahrain.com/gcc/129048.html",
         "published": "23 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yTk4KQjLoG_2026-03-23_1774276833resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5S914o3vIb_2026-03-23_1774285920thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -242,36 +262,6 @@
         "iso_date": "2026-03-23T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hWI1rL2Ysq_2026-03-23_1774263884thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts 147 Missiles, 282 Drones",
-        "link": "https://www.newsofbahrain.com/bahrain/129037.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7TMsCcFwv2_2026-03-23_1774263106thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Jet Collides with Fire Truck Leaving 2 Dead, Dozens Injured in New York",
-        "link": "https://www.newsofbahrain.com/world/129047.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YwNQHvXLcD_2026-03-23_1774269607thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russia, Iran FMs hold call after US-Iran war talks: Moscow",
-        "link": "https://www.newsofbahrain.com/world/129045.html",
-        "published": "23 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-23T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KW5ACmVMkU_2026-03-23_1774268152thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 05:42:07 UTC"
+  "fetched_at": "2026-03-24 07:00:30 UTC"
 }
