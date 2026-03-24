@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 11
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -20,86 +20,85 @@
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Amazon’s Bahrain data centre ‘disrupted’ by drone - Arabian Gulf Business Insight | AGBI",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXpMRXY3R1FpRkhZR004eERfYXdZLU5mMHZLZlhuUjBGMTFoOE95YnduOU5YcnBpQmdzSldmNWZSUTc3VXUtOGZSSDFqN283SlpVWG9BbjZnZkhOYXFvcEdHYnhkUC1tckFTSjFRTUg2cmVyY0lLRVRTR1RmSEFOWTkwbmhfNEtn?oc=5",
-        "published": "24 Mar 2026, 07:40 AM",
-        "iso_date": "2026-03-24T07:40:29+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Not Every Video Is True, A Quiet Warning in a Loud Digital World | THE DAILY TRIBUNE | KINGDOM OF BAHRAIN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZUEFhMENCbi1pS1Z0THQ5OXJFcXo0RnlXOVU4UFNwRkdjZ2ltU1lFQ0FqRzViUUdJQk9hdk5RZFNsY0VscWVETVNfejN0WU95Ml8zZVVPdmxjd2JwcEE?oc=5",
-        "published": "24 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-24T09:00:43+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
-        "title": "Iran attack in Bahrain kills Moroccan civilian contractor in the UAE Armed Forces and injures BDF heroes",
-        "link": "https://www.gdnonline.com/Details/1379448/Iran-attack-in-Bahrain-kills-Moroccan-civilian-contractor-in-the-UAE-Armed-Forces-and-injures-BDF-heroes",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
+        "title": "Tankers deployed as heavy rains lash Bahrain",
+        "link": "https://www.gdnonline.com/Details/1379476/Tankers-deployed-as-heavy-rains-lash-Bahrain",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324182029gdn-websitesize-2026-03-24t182841.600_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_001540_1_T.jpg?20260325",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Unstable weather to continue",
-        "link": "https://www.gdnonline.com/Details/1379410/Unstable-weather-to-continue",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
+        "title": "342 Gulf Filipinos take chartered flight home",
+        "link": "https://www.gdnonline.com/Details/1379475/342-Gulf-Filipinos-take-chartered-flight-home",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324_001148_2_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_001539_0.jpeg?20260325",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Cabinet condemns Iranian aggression",
-        "link": "https://www.gdnonline.com/Details/1379409/Cabinet-condemns-Iranian-aggression",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
+        "title": "Expatriates account for major contribution to SIO",
+        "link": "https://www.gdnonline.com/Details/1379451/Expatriates-account-for-major-contribution-to-SIO",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324002228canva_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212517_0_T.jpg?20260325",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "HRH Prince Salman receives telephone call from Malaysian Prime Minister",
-        "link": "https://www.gdnonline.com/Details/1379442/HRH-Prince-Salman-receives-telephone-call-from-Malaysian-Prime-Minister",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
+        "title": "Medical university takes measures to continue classes",
+        "link": "https://www.gdnonline.com/Details/1379461/Medical-university-takes-measures-to-continue-classes",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324142450kl56_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325004427edited_T.jpg?20260325",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Religious leaders unite in call for peace and harmony",
-        "link": "https://www.gdnonline.com/Details/1379396/Religious-leaders-unite-in-call-for-peace-and-harmony",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
+        "title": "Free online yoga session to reduce stress",
+        "link": "https://www.gdnonline.com/Details/1379460/Free-online-yoga-session-to-reduce-stress",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260323_220228_0_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212558_0_T.jpg?20260325",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "NBB announces reopening of branch network across Bahrain",
-        "link": "https://www.gdnonline.com/Details/1379443/NBB-announces-reopening-of-branch-network-across-Bahrain",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
+        "title": "NBB reopens branch network",
+        "link": "https://www.gdnonline.com/Details/1379464/NBB-reopens-branch-network",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324143156sd45_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212601_0_T.jpg?20260325",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BBK resumes full operations across Bahrain",
+        "link": "https://www.gdnonline.com/Details/1379463/BBK-resumes-full-operations-across-Bahrain",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212600_2_T.jpg?20260325",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "High-tech voting and streamlined logistics set for Chamber elections",
+        "link": "https://www.gdnonline.com/Details/1379462/High-tech-voting-and-streamlined-logistics-set-for-Chamber-elections",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212559_4_T.jpg?20260325",
         "source": "gdn",
         "category": "Latest"
       },
@@ -419,5 +418,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 22:27:35 UTC"
+  "fetched_at": "2026-03-24 22:59:42 UTC"
 }
