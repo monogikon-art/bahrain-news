@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -30,66 +30,56 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Qatar extinguishes Ras Laffan fires after missile strikes, no injuries reported",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMG1aZFBGOU4wcXN1OVNhbjgtVzExVEliT0lBOGgxLXh0ZW1IRHdKUjlHQ3hPOXZYTlVlNWhUei1SamFGRzNiVDVETC1PM29mVXZSVzZoNmFMdDVZMkIwa0RWdHliRXhYMkQ0VmJITlU0ZW1zQTgxcFlpTjFDR3AzS1hyczRvQjhYMi03TkM2ei1LSTVGdV9Pa3hqbE1MQmNvazBQY183d0NoX3BwNVU1RW01eHVqdHdsUWR6LVo3TjRCcWZJWTlCTXJB?oc=5",
-        "published": "25 Mar 2026, 02:50 PM",
-        "iso_date": "2026-03-25T14:50:17+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "Tankers deployed as heavy rains lash Bahrain",
-        "link": "https://www.gdnonline.com/Details/1379476/Tankers-deployed-as-heavy-rains-lash-Bahrain",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
+        "title": "Current weather conditions âtypical for this time of yearâ",
+        "link": "https://www.gdnonline.com/Details/1379541/Current-weather-conditions-âtypical-for-this-time-of-yearâ",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_001540_1_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325224602gdn-websitesize-2026-03-25t225408.813_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "342 Gulf Filipinos take chartered flight home",
-        "link": "https://www.gdnonline.com/Details/1379475/342-Gulf-Filipinos-take-chartered-flight-home",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
+        "title": "Technical fault in municipal system disrupts key services",
+        "link": "https://www.gdnonline.com/Details/1379548/Technical-fault-in-municipal-system-disrupts-key-services",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_001539_0.jpeg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223023_2.jpeg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Expatriates account for major contribution to SIO",
-        "link": "https://www.gdnonline.com/Details/1379451/Expatriates-account-for-major-contribution-to-SIO",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
+        "title": "Websites experiencing temporary downtime",
+        "link": "https://www.gdnonline.com/Details/1379550/Websites-experiencing-temporary-downtime",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212517_0_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325225001gdn-websitesize-2026-03-25t225822.109_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Medical university takes measures to continue classes",
-        "link": "https://www.gdnonline.com/Details/1379461/Medical-university-takes-measures-to-continue-classes",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
+        "title": "New school facilities reviewed",
+        "link": "https://www.gdnonline.com/Details/1379551/New-school-facilities-reviewed-",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325004427edited_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223025_0.jfif?20260326",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Free online yoga session to reduce stress",
-        "link": "https://www.gdnonline.com/Details/1379460/Free-online-yoga-session-to-reduce-stress",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
+        "title": "Driver jailed for fatal crash",
+        "link": "https://www.gdnonline.com/Details/1379549/Driver-jailed-for-fatal-crash-",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212558_0_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325224806gdn-websitesize-2026-03-25t225626.620_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -449,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-25 22:32:27 UTC"
+  "fetched_at": "2026-03-25 23:31:39 UTC"
 }
