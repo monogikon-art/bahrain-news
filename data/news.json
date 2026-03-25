@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -176,42 +176,82 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Kim Jong Un Says Iran War Validates North Korea’s Nuclear Strategy",
+        "link": "https://www.newsofbahrain.com/world/129128.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o0GCVmALjJ_2026-03-25_1774421537resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Malaysia stands with Bahrain amid Iran threats",
+        "link": "https://www.newsofbahrain.com/bahrain/129127.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8soNHPCcQh_2026-03-25_1774421450resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Intercepts Drone Attack on Airport Fuel Depot; No Injuries Reported",
+        "link": "https://www.newsofbahrain.com/world/129126.html",
+        "published": "25 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KloAfWpiDw_2026-03-25_1774420498resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shura Youth Committee Highlights Role of Bahraini Youth in National Development",
+        "link": "https://www.newsofbahrain.com/bahrain/129125.html",
+        "published": "25 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_clZGdNPgo2_2026-03-25_1774420350resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Smarter Skies, Stronger Readiness Across Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/129124.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zf4UJKOoh1_2026-03-25_1774420204resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Online Learning and Its Impact on Children During the War",
+        "link": "https://www.newsofbahrain.com/bahrain/129123.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_S8XlDR31z7_2026-03-25_1774420057thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "From Earth to Space, Bahrain’s Youth Are Reaching New Heights",
+        "link": "https://www.newsofbahrain.com/bahrain/129122.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iXNCwdRtE8_2026-03-25_1774419839thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Trump Says Iran Gave “Very Big Present” Over Strait of Hormuz",
         "link": "https://www.newsofbahrain.com/world/129121.html",
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y0haBjJlwn_2026-03-24_1774382614resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Condoles UAE Over Contractor’s Death in Bahrain Missile Attack",
-        "link": "https://www.newsofbahrain.com/bahrain/129120.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJO7a3dvzu_2026-03-24_1774372983resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE Soldier Killed Defending Bahrain from Iranian Attack",
-        "link": "https://www.newsofbahrain.com/bahrain/129119.html",
-        "published": "24 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2JLbo9wNKU_2026-03-24_1774372769resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "World Economic Forum postpones Saudi Arabia summit",
-        "link": "https://www.newsofbahrain.com/gcc/129117.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_K31lpgGADJ_2026-03-24_1774357563resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y0haBjJlwn_2026-03-24_1774382614thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -221,57 +261,7 @@
         "published": "24 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wTmQqtGLlA_2026-03-24_1774357062resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB Announces Reopening of Branch Network Across the Kingdom",
-        "link": "https://www.newsofbahrain.com/bahrain/129112.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XUDxwTn69E_2026-03-24_1774356232thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s Youth Stand Firm at the Frontline of the Nation’s Future",
-        "link": "https://www.newsofbahrain.com/bahrain/129110.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SEYbNPftu0_2026-03-24_1774354684thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Youth at the Heart of a Nation’s Future",
-        "link": "https://www.newsofbahrain.com/bahrain/129109.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1w8girQFj7_2026-03-24_1774354555thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "'Point of no return' looming in Middle East war: Red Cross",
-        "link": "https://www.newsofbahrain.com/world/129115.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uINdilkgGV_2026-03-24_1774356878thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UK sending air defence systems to Gulf: PM",
-        "link": "https://www.newsofbahrain.com/world/129114.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yi3o6M5OCQ_2026-03-24_1774356609thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wTmQqtGLlA_2026-03-24_1774357062thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-25 05:43:05 UTC"
+  "fetched_at": "2026-03-25 06:58:47 UTC"
 }
