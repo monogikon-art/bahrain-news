@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -20,140 +20,30 @@
     }
   },
   "articles": {
-    "bna": [],
-    "gdn": [
+    "bna": [
       {
-        "title": "Tankers deployed as heavy rains lash Bahrain",
-        "link": "https://www.gdnonline.com/Details/1379476/Tankers-deployed-as-heavy-rains-lash-Bahrain",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
+        "title": "Bahrain intercepts, destroys 153 missiles, 331 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWEV3TVRCN3BEY1phQnNORl9NQUdKUU9vNFNBLVNNYXJodWJFNF95NnZ1UVhjUlI1ZDFxS0Y4c05NV3dONXZpOWdnZDJITWlyQ2NXbFpGMnd4VWdpMldnOHFCX2hyZVJQOVlxS19WRGprRjd4OXFvZlVnYzctcUg4ZmFLeVBQZzZxalhZRGc1UkhvUUJ6SExnQ1BDMVR6SVFuaHRGalNwbEtWYTZWUTJvZmpsdTBSeXp5RXVKZ1JmeWItTExMOS1z?oc=5",
+        "published": "25 Mar 2026, 01:41 PM",
+        "iso_date": "2026-03-25T13:41:00+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_001540_1_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "342 Gulf Filipinos take chartered flight home",
-        "link": "https://www.gdnonline.com/Details/1379475/342-Gulf-Filipinos-take-chartered-flight-home",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_001539_0.jpeg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Expatriates account for major contribution to SIO",
-        "link": "https://www.gdnonline.com/Details/1379451/Expatriates-account-for-major-contribution-to-SIO",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212517_0_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Medical university takes measures to continue classes",
-        "link": "https://www.gdnonline.com/Details/1379461/Medical-university-takes-measures-to-continue-classes",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325004427edited_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Free online yoga session to reduce stress",
-        "link": "https://www.gdnonline.com/Details/1379460/Free-online-yoga-session-to-reduce-stress",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212558_0_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB reopens branch network",
-        "link": "https://www.gdnonline.com/Details/1379464/NBB-reopens-branch-network",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212601_0_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BBK resumes full operations across Bahrain",
-        "link": "https://www.gdnonline.com/Details/1379463/BBK-resumes-full-operations-across-Bahrain",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212600_2_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "High-tech voting and streamlined logistics set for Chamber elections",
-        "link": "https://www.gdnonline.com/Details/1379462/High-tech-voting-and-streamlined-logistics-set-for-Chamber-elections",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212559_4_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Salah announces Liverpool departure at end of season",
-        "link": "https://www.gdnonline.com/Details/1379487/Salah-announces-Liverpool-departure-at-end-of-season",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_003703_0_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Jeddah set to host stalled AFC matches",
-        "link": "https://www.gdnonline.com/Details/1379485/Jeddah-set-to-host-stalled-AFC-matches",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325023701capture_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Orlando sign Griezmann",
-        "link": "https://www.gdnonline.com/Details/1379486/Orlando-sign-Griezmann",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325004324asof_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Liverpool's Salah to end glittering Anfield career at end of season",
-        "link": "https://www.gdnonline.com/Details/1379473/Liverpools-Salah-to-end-glittering-Anfield-career-at-end-of-season",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/202603242324557tn4njhrnzibharonszdp2ge5a(1)_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain national team kick off local gathering",
-        "link": "https://www.gdnonline.com/Details/1379424/Bahrain-national-team-kick-off-local-gathering",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324_004648_1.jfif?20260325",
-        "source": "gdn",
+        "image": "",
+        "source": "bna",
         "category": "Latest"
       }
     ],
+    "gdn": [],
     "newsofbahrain": [
+      {
+        "title": "German Foreign Minister hopes Iran peace talks given chance to succeed",
+        "link": "https://www.newsofbahrain.com/world/129195.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yvr6xPs0VD_2026-03-25_1774450133resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "HM King Hamad Visits Injured After Iranian Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/129194.html",
@@ -167,8 +57,8 @@
       {
         "title": "Police Impersonation and Violent Robbery… 5-Year Sentence Upheld on Appeal",
         "link": "https://www.newsofbahrain.com/bahrain/129193.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
+        "published": "25 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-25T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_DaI4cetKUH_2026-03-25_1774445449resized_pic.jpg",
         "source": "newsofbahrain",
@@ -187,8 +77,8 @@
       {
         "title": "A generation trusted to lead Bahrain forward",
         "link": "https://www.newsofbahrain.com/bahrain/129191.html",
-        "published": "25 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-25T09:00:43+00:00",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ab8VMFYkP5_2026-03-25_1774445169resized_pic.jpg",
         "source": "newsofbahrain",
@@ -200,7 +90,7 @@
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iQNvgTHJl0_2026-03-25_1774444995resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iQNvgTHJl0_2026-03-25_1774444995thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -231,16 +121,6 @@
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_x0NcXiwaC2_2026-03-25_1774441643thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India’s first court-approved passive euthanasia: 31-year-old Harish Rana dies after life support withdrawn",
-        "link": "https://www.newsofbahrain.com/world/129186.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VMqZrh03AU_2026-03-25_1774441193thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -408,5 +288,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-25 14:41:17 UTC"
+  "fetched_at": "2026-03-25 16:07:43 UTC"
 }
