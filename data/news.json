@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,22 +16,11 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Not Every Video Is True, A Quiet Warning in a Loud Digital World | THE DAILY TRIBUNE | KINGDOM OF BAHRAIN",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZUEFhMENCbi1pS1Z0THQ5OXJFcXo0RnlXOVU4UFNwRkdjZ2ltU1lFQ0FqRzViUUdJQk9hdk5RZFNsY0VscWVETVNfejN0WU95Ml8zZVVPdmxjd2JwcEE?oc=5",
-        "published": "24 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-24T09:00:43+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
         "title": "Tankers deployed as heavy rains lash Bahrain",
@@ -166,42 +155,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Inside the Vote as Chamber Maps Out Every Step",
-        "link": "https://www.newsofbahrain.com/business/129151.html",
+        "title": "Sinner, Sabalenka march on in Miami as more seeds crash out",
+        "link": "https://www.newsofbahrain.com/sports/129165.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pSjHvE59y7_2026-03-25_1774428095resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6qkayVI2zX_2026-03-25_1774431855resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Oil, stock trading spiked before Trump’s Iran remarks: media",
-        "link": "https://www.newsofbahrain.com/business/129150.html",
+        "title": "Pressure on Italy as play-off hopefuls eye 2026 World Cup",
+        "link": "https://www.newsofbahrain.com/bahrain/129164.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PKADJ4iNfb_2026-03-25_1774427767resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4rAfoOP3ka_2026-03-25_1774431301resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "BBK resumes full branch operations across Bahrain",
-        "link": "https://www.newsofbahrain.com/business/129148.html",
+        "title": "Bahrain eServices Face Temporary Downtime",
+        "link": "https://www.newsofbahrain.com/bahrain/129163.html",
         "published": "25 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-25T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5pUZstKAC0_2026-03-25_1774426567resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BHyf7piYSz_2026-03-25_1774430665resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, UK Discuss Strategic Ties in High-Level Call",
+        "link": "https://www.newsofbahrain.com/bahrain/129162.html",
+        "published": "25 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7qMt0xEJz2_2026-03-25_1774430571resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Indonesia Adopts Work-From-Home Policy as Oil Shortages Bite",
+        "link": "https://www.newsofbahrain.com/world/129161.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5SZcrQwmOA_2026-03-25_1774430423resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Home at last: Filipino workers return safely from Bahrain",
         "link": "https://www.newsofbahrain.com/bahrain/129147.html",
-        "published": "25 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-25T09:00:43+00:00",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bKzwqEXAxr_2026-03-25_1774426224resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bKzwqEXAxr_2026-03-25_1774426224thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -211,87 +220,77 @@
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KroZwxUBXV_2026-03-25_1774425966resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KroZwxUBXV_2026-03-25_1774425966thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Civil servant jailed for taking bribe",
-        "link": "https://www.newsofbahrain.com/bahrain/129145.html",
+        "title": "UN Warns of “Unmitigated Catastrophe”",
+        "link": "https://www.newsofbahrain.com/world/129158.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yH3wr5lc7S_2026-03-25_1774425768thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5uxAmX43Tj_2026-03-25_1774429907thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Public hospitals running as normal",
-        "link": "https://www.newsofbahrain.com/bahrain/129142.html",
+        "title": "Gaza Situation ‘Very Difficult’ Despite Ceasefire Progress: UN Official",
+        "link": "https://www.newsofbahrain.com/world/129156.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GyseFpi8jq_2026-03-25_1774425588thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZWgXPE0G6F_2026-03-25_1774429349thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Court orders company to compensate supervisor",
-        "link": "https://www.newsofbahrain.com/bahrain/129141.html",
+        "title": "Canada tells Israel that Lebanon’s sovereignty ‘must not be violated",
+        "link": "https://www.newsofbahrain.com/world/129155.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5oTjSEry10_2026-03-25_1774425407thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ClvGbAyjVO_2026-03-25_1774428878thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Japan to Tap State Oil Reserves as Hormuz Crisis Disrupts Supply",
-        "link": "https://www.newsofbahrain.com/world/129144.html",
+        "title": "EU says illegal for Slovakia to charge foreigners more for diesel",
+        "link": "https://www.newsofbahrain.com/business/129159.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W5iAHp9DfP_2026-03-25_1774425675thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bnrwlx6VGm_2026-03-25_1774430019thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "OpenAI Shuts Down Sora App After Deepfake Concerns",
-        "link": "https://www.newsofbahrain.com/world/129139.html",
+        "title": "Philippines declares ‘national energy emergency",
+        "link": "https://www.newsofbahrain.com/business/129157.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q5ro28lpbu_2026-03-25_1774424815thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J9gCIWVYEo_2026-03-25_1774429866thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Indonesia Considers Cutting Free School Meals to Ease Budget Pressure",
-        "link": "https://www.newsofbahrain.com/world/129135.html",
+        "title": "Inside the Vote as Chamber Maps Out Every Step",
+        "link": "https://www.newsofbahrain.com/business/129151.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kX8LQdDcwl_2026-03-25_1774424100thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pSjHvE59y7_2026-03-25_1774428095thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "WTO Warns Hormuz Closure may result Global Food Price Surge",
-        "link": "https://www.newsofbahrain.com/world/129132.html",
+        "title": "Oil, stock trading spiked before Trump’s Iran remarks: media",
+        "link": "https://www.newsofbahrain.com/business/129150.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yW4dfuoZjz_2026-03-25_1774422901thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "What cargo ships are passing Hormuz strait?",
-        "link": "https://www.newsofbahrain.com/business/129089.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Dg9TMicxhr_2026-03-24_1774344147thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PKADJ4iNfb_2026-03-25_1774427767thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -419,5 +418,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-25 08:54:28 UTC"
+  "fetched_at": "2026-03-25 09:51:29 UTC"
 }
