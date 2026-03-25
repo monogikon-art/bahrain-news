@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -155,12 +155,82 @@
     ],
     "newsofbahrain": [
       {
+        "title": "HM King Hamad Visits Injured After Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/129194.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WFGHSCAzfL_2026-03-25_1774446200resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Police Impersonation and Violent Robbery… 5-Year Sentence Upheld on Appeal",
+        "link": "https://www.newsofbahrain.com/bahrain/129193.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DaI4cetKUH_2026-03-25_1774445449resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Instalment traps push families to the edge",
+        "link": "https://www.newsofbahrain.com/bahrain/129192.html",
+        "published": "25 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8geYNt93Rl_2026-03-25_1774445299resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A generation trusted to lead Bahrain forward",
+        "link": "https://www.newsofbahrain.com/bahrain/129191.html",
+        "published": "25 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ab8VMFYkP5_2026-03-25_1774445169resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Youth stand firm as Bahrain marks its future",
+        "link": "https://www.newsofbahrain.com/bahrain/129190.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iQNvgTHJl0_2026-03-25_1774444995resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "France urges Israel 'to refrain' from seizing south Lebanon zone",
+        "link": "https://www.newsofbahrain.com/world/129189.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_s76oGxjcDb_2026-03-25_1774444782thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India's economic fundamentals strong, ample coal, petrol available, PM Modi says",
+        "link": "https://www.newsofbahrain.com/world/129188.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w9JF58AbNg_2026-03-25_1774443690thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Shehbaz Sharif urges de-escalation in call with Saudi Crown Prince",
         "link": "https://www.newsofbahrain.com/world/129187.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x0NcXiwaC2_2026-03-25_1774441643resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x0NcXiwaC2_2026-03-25_1774441643thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -170,87 +240,7 @@
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VMqZrh03AU_2026-03-25_1774441193resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NASA to build $20 bn moon base, pause orbital lunar station plans",
-        "link": "https://www.newsofbahrain.com/world/129185.html",
-        "published": "25 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-25T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3kM4jpmE6W_2026-03-25_1774440957resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Meta ordered to pay $375m over child safety failures in New Mexico",
-        "link": "https://www.newsofbahrain.com/world/129184.html",
-        "published": "25 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-25T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7OFGpEAZhI_2026-03-25_1774440810resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Mammals cannot be cloned infinitely, mice study discovers",
-        "link": "https://www.newsofbahrain.com/world/129183.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UH3Ntmy8Ta_2026-03-25_1774440776resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain eServices Face Temporary Downtime",
-        "link": "https://www.newsofbahrain.com/bahrain/129163.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BHyf7piYSz_2026-03-25_1774430665thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, UK Discuss Strategic Ties in High-Level Call",
-        "link": "https://www.newsofbahrain.com/bahrain/129162.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7qMt0xEJz2_2026-03-25_1774430571thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Home at last: Filipino workers return safely from Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/129147.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bKzwqEXAxr_2026-03-25_1774426224thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Veteran Manama zari trader passes away",
-        "link": "https://www.newsofbahrain.com/bahrain/129146.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KroZwxUBXV_2026-03-25_1774425966thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Civil servant jailed for taking bribe",
-        "link": "https://www.newsofbahrain.com/bahrain/129145.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yH3wr5lc7S_2026-03-25_1774425768thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VMqZrh03AU_2026-03-25_1774441193thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -418,5 +408,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-25 13:02:13 UTC"
+  "fetched_at": "2026-03-25 14:41:17 UTC"
 }
