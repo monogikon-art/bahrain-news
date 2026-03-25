@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Amazon’s Bahrain data centre ‘disrupted’ by drone - Arabian Gulf Business Insight | AGBI",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXpMRXY3R1FpRkhZR004eERfYXdZLU5mMHZLZlhuUjBGMTFoOE95YnduOU5YcnBpQmdzSldmNWZSUTc3VXUtOGZSSDFqN283SlpVWG9BbjZnZkhOYXFvcEdHYnhkUC1tckFTSjFRTUg2cmVyY0lLRVRTR1RmSEFOWTkwbmhfNEtn?oc=5",
-        "published": "24 Mar 2026, 07:40 AM",
-        "iso_date": "2026-03-24T07:40:29+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Not Every Video Is True, A Quiet Warning in a Loud Digital World | THE DAILY TRIBUNE | KINGDOM OF BAHRAIN",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZUEFhMENCbi1pS1Z0THQ5OXJFcXo0RnlXOVU4UFNwRkdjZ2ltU1lFQ0FqRzViUUdJQk9hdk5RZFNsY0VscWVETVNfejN0WU95Ml8zZVVPdmxjd2JwcEE?oc=5",
@@ -176,92 +166,92 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Lawyer warns anonymous online abuse can lead to jail or fines in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/129140.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8UPs12D0fV_2026-03-25_1774425007resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "OpenAI Shuts Down Sora App After Deepfake Concerns",
+        "link": "https://www.newsofbahrain.com/world/129139.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q5ro28lpbu_2026-03-25_1774424815resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Human rights report details civilian impact of Iranian attacks in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/129138.html",
+        "published": "25 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YwCHgkfdi3_2026-03-25_1774424721resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shura chairman praises Bahrain’s ‘next generation’ on Youth Day today",
+        "link": "https://www.newsofbahrain.com/bahrain/129137.html",
+        "published": "25 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_khzAmMUpKF_2026-03-25_1774424565resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kingdom honours youth talents, achievements",
+        "link": "https://www.newsofbahrain.com/bahrain/129136.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zg4EjdmZGH_2026-03-25_1774424259resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "'New normal'",
+        "link": "https://www.newsofbahrain.com/bahrain/129133.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cV09Axt8Fq_2026-03-25_1774423371thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Indonesia Considers Cutting Free School Meals to Ease Budget Pressure",
+        "link": "https://www.newsofbahrain.com/world/129135.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kX8LQdDcwl_2026-03-25_1774424100thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "WTO Warns Hormuz Closure may result Global Food Price Surge",
+        "link": "https://www.newsofbahrain.com/world/129132.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yW4dfuoZjz_2026-03-25_1774422901thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Kim Jong Un Says Iran War Validates North Korea’s Nuclear Strategy",
         "link": "https://www.newsofbahrain.com/world/129128.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o0GCVmALjJ_2026-03-25_1774421537resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Malaysia stands with Bahrain amid Iran threats",
-        "link": "https://www.newsofbahrain.com/bahrain/129127.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8soNHPCcQh_2026-03-25_1774421450resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Intercepts Drone Attack on Airport Fuel Depot; No Injuries Reported",
-        "link": "https://www.newsofbahrain.com/world/129126.html",
-        "published": "25 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-25T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KloAfWpiDw_2026-03-25_1774420498resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura Youth Committee Highlights Role of Bahraini Youth in National Development",
-        "link": "https://www.newsofbahrain.com/bahrain/129125.html",
-        "published": "25 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-25T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_clZGdNPgo2_2026-03-25_1774420350resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Smarter Skies, Stronger Readiness Across Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/129124.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zf4UJKOoh1_2026-03-25_1774420204resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Online Learning and Its Impact on Children During the War",
-        "link": "https://www.newsofbahrain.com/bahrain/129123.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_S8XlDR31z7_2026-03-25_1774420057thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "From Earth to Space, Bahrain’s Youth Are Reaching New Heights",
-        "link": "https://www.newsofbahrain.com/bahrain/129122.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iXNCwdRtE8_2026-03-25_1774419839thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Says Iran Gave “Very Big Present” Over Strait of Hormuz",
-        "link": "https://www.newsofbahrain.com/world/129121.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y0haBjJlwn_2026-03-24_1774382614thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Lebanon says one killed near Beirut, as Israel says struck Iran Guards member",
-        "link": "https://www.newsofbahrain.com/world/129116.html",
-        "published": "24 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wTmQqtGLlA_2026-03-24_1774357062thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o0GCVmALjJ_2026-03-25_1774421537thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-25 06:58:47 UTC"
+  "fetched_at": "2026-03-25 07:57:12 UTC"
 }
