@@ -124,6 +124,36 @@
         "category": "Latest"
       },
       {
+        "title": "Salah announces Liverpool departure at end of season",
+        "link": "https://www.gdnonline.com/Details/1379487/Salah-announces-Liverpool-departure-at-end-of-season",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_003703_0_T.jpg?20260325",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Jeddah set to host stalled AFC matches",
+        "link": "https://www.gdnonline.com/Details/1379485/Jeddah-set-to-host-stalled-AFC-matches",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325023701capture_T.jpg?20260325",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Orlando sign Griezmann",
+        "link": "https://www.gdnonline.com/Details/1379486/Orlando-sign-Griezmann",
+        "published": "25 Mar 2026",
+        "iso_date": "2026-03-25T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325004324asof_T.jpg?20260325",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Liverpool's Salah to end glittering Anfield career at end of season",
         "link": "https://www.gdnonline.com/Details/1379473/Liverpools-Salah-to-end-glittering-Anfield-career-at-end-of-season",
         "published": "24 Mar 2026",
@@ -140,36 +170,6 @@
         "iso_date": "2026-03-24T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260324/20260324_004648_1.jfif?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Italy aim to overcome qualification setbacks",
-        "link": "https://www.gdnonline.com/Details/1379426/Italy-aim-to-overcome-qualification-setbacks",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324040211italy_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Messi scores as Inter Miami hold off NYCFC",
-        "link": "https://www.gdnonline.com/Details/1379370/Messi-scores-as-Inter-Miami-hold-off-NYCFC",
-        "published": "23 Mar 2026",
-        "iso_date": "2026-03-23T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_033020_0_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Real power past Atletico",
-        "link": "https://www.gdnonline.com/Details/1379371/Real-power-past-Atletico",
-        "published": "23 Mar 2026",
-        "iso_date": "2026-03-23T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260323/20260323_033021_0_T.jpg?20260325",
         "source": "gdn",
         "category": "Latest"
       }
@@ -439,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-24 23:39:24 UTC"
+  "fetched_at": "2026-03-25 01:55:53 UTC"
 }
