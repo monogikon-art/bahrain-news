@@ -4,19 +4,19 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -40,16 +40,6 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2R5ZVk2bEtTNWU4bFlON2I1UlhJVW4xel9iQ2l5Qk5PN3VMamZmNFZSU0VXbTNzMlpnMTQ0V2FOcngwUE9rZXNYRHhrc19oRVpyS21BUThmNDYxdWxEb1JhellaYUNseGxsMVNBZG9Ka0xVTkdMcEV5U0JoMFRHMkdUZWRJVDk4VC05UE04cFBaTkxmajE0T3VVRHFVbmxwYW5GTk1XWWY1djFGTzlzX2IxRE5maTJVRHQ1U1BEWlNhY25ZSHlrSk5MQldsZ010?oc=5",
-        "published": "25 Mar 2026, 01:14 PM",
-        "iso_date": "2026-03-25T13:14:36+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
@@ -59,7 +49,7 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_001540_1_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_001540_1_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -69,7 +59,7 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_001539_0.jpeg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_001539_0.jpeg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -79,7 +69,7 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212517_0_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212517_0_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -89,7 +79,7 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325004427edited_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325004427edited_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +89,37 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212558_0_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212558_0_T.jpg?20260326",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Merchantsâ voices âkey to revitalising Manama Suqâ",
+        "link": "https://www.gdnonline.com/Details/1379559/Merchantsâ-voices-âkey-to-revitalising-Manama-Suqâ",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223038_0_T.jpg?20260326",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "GFH general assembly approves 10.11 per cent cash dividend",
+        "link": "https://www.gdnonline.com/Details/1379564/GFH-general-assembly-approves-1011-per-cent-cash-dividend",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223057_0_T.jpg?20260326",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "All Share Index closes lower",
+        "link": "https://www.gdnonline.com/Details/1379563/All-Share-Index-closes-lower",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325230227gz_ncriw4aa07cm(1)_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +129,7 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212601_0_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212601_0_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,17 +139,7 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212600_2_T.jpg?20260325",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "High-tech voting and streamlined logistics set for Chamber elections",
-        "link": "https://www.gdnonline.com/Details/1379462/High-tech-voting-and-streamlined-logistics-set-for-Chamber-elections",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212559_4_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212600_2_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +149,7 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_003703_0_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_003703_0_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +159,7 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325023701capture_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325023701capture_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +169,7 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325004324asof_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325004324asof_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +179,7 @@
         "published": "24 Mar 2026",
         "iso_date": "2026-03-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/202603242324557tn4njhrnzibharonszdp2ge5a(1)_T.jpg?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260324/202603242324557tn4njhrnzibharonszdp2ge5a(1)_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,19 +189,69 @@
         "published": "24 Mar 2026",
         "iso_date": "2026-03-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324_004648_1.jfif?20260325",
+        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324_004648_1.jfif?20260326",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
+        "title": "Man Arrested for Phone Installment Scam and Fraud",
+        "link": "https://www.newsofbahrain.com/bahrain/129205.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wtLHkOPDE1_2026-03-25_1774477621resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Parliament Meets GCC Lawmakers Ahead of IPU",
+        "link": "https://www.newsofbahrain.com/bahrain/129204.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e3qci2MuGv_2026-03-25_1774477487resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Roundabout Approved to Ease Daily Traffic",
+        "link": "https://www.newsofbahrain.com/bahrain/129203.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ty1Vw6P9Za_2026-03-25_1774477283resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Mosquito Traps Approved for Public Spaces",
+        "link": "https://www.newsofbahrain.com/bahrain/129202.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j9XxAEJqFn_2026-03-25_1774477154resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rain Response Reviewed After Council Approval",
+        "link": "https://www.newsofbahrain.com/bahrain/129201.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aJZ4WD9A5o_2026-03-25_1774477042resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Trump-Xi Meeting Set for May Amid Ongoing Iran Conflict",
         "link": "https://www.newsofbahrain.com/world/129198.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t9pQlUAO1Z_2026-03-25_1774463641resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t9pQlUAO1Z_2026-03-25_1774463641thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -201,57 +261,17 @@
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x3PjbpJelL_2026-03-25_1774462748resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King Hamad Visits Injured After Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/129196.html",
-        "published": "25 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-25T09:00:43+00:00",
-        "summary": "",
-        "image": "https://img.youtube.com/vi/78bg5BBcj0Y/hqdefault.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x3PjbpJelL_2026-03-25_1774462748thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "German Foreign Minister hopes Iran peace talks given chance to succeed",
         "link": "https://www.newsofbahrain.com/world/129195.html",
-        "published": "25 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-25T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yvr6xPs0VD_2026-03-25_1774450133resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Police Impersonation and Violent Robbery… 5-Year Sentence Upheld on Appeal",
-        "link": "https://www.newsofbahrain.com/bahrain/129193.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DaI4cetKUH_2026-03-25_1774445449thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Instalment traps push families to the edge",
-        "link": "https://www.newsofbahrain.com/bahrain/129192.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8geYNt93Rl_2026-03-25_1774445299thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A generation trusted to lead Bahrain forward",
-        "link": "https://www.newsofbahrain.com/bahrain/129191.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ab8VMFYkP5_2026-03-25_1774445169thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yvr6xPs0VD_2026-03-25_1774450133thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-25 21:35:52 UTC"
+  "fetched_at": "2026-03-25 22:32:27 UTC"
 }
