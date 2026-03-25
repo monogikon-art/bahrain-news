@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,30 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain intercepts, destroys 153 missiles, 331 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWEV3TVRCN3BEY1phQnNORl9NQUdKUU9vNFNBLVNNYXJodWJFNF95NnZ1UVhjUlI1ZDFxS0Y4c05NV3dONXZpOWdnZDJITWlyQ2NXbFpGMnd4VWdpMldnOHFCX2hyZVJQOVlxS19WRGprRjd4OXFvZlVnYzctcUg4ZmFLeVBQZzZxalhZRGc1UkhvUUJ6SExnQ1BDMVR6SVFuaHRGalNwbEtWYTZWUTJvZmpsdTBSeXp5RXVKZ1JmeWItTExMOS1z?oc=5",
-        "published": "25 Mar 2026, 01:41 PM",
-        "iso_date": "2026-03-25T13:41:00+00:00",
+        "title": "Bahrain Intercepts, Destroys 153 Missiles, 331 Drones Since Start of Iranian Attacks - Emirates 24|7",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
+        "published": "25 Mar 2026, 03:59 PM",
+        "iso_date": "2026-03-25T15:59:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar extinguishes Ras Laffan fires after missile strikes, no injuries reported",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMG1aZFBGOU4wcXN1OVNhbjgtVzExVEliT0lBOGgxLXh0ZW1IRHdKUjlHQ3hPOXZYTlVlNWhUei1SamFGRzNiVDVETC1PM29mVXZSVzZoNmFMdDVZMkIwa0RWdHliRXhYMkQ0VmJITlU0ZW1zQTgxcFlpTjFDR3AzS1hyczRvQjhYMi03TkM2ei1LSTVGdV9Pa3hqbE1MQmNvazBQY183d0NoX3BwNVU1RW01eHVqdHdsUWR6LVo3TjRCcWZJWTlCTXJB?oc=5",
+        "published": "25 Mar 2026, 02:50 PM",
+        "iso_date": "2026-03-25T14:50:17+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2R5ZVk2bEtTNWU4bFlON2I1UlhJVW4xel9iQ2l5Qk5PN3VMamZmNFZSU0VXbTNzMlpnMTQ0V2FOcngwUE9rZXNYRHhrc19oRVpyS21BUThmNDYxdWxEb1JhellaYUNseGxsMVNBZG9Ka0xVTkdMcEV5U0JoMFRHMkdUZWRJVDk4VC05UE04cFBaTkxmajE0T3VVRHFVbmxwYW5GTk1XWWY1djFGTzlzX2IxRE5maTJVRHQ1U1BEWlNhY25ZSHlrSk5MQldsZ010?oc=5",
+        "published": "25 Mar 2026, 01:14 PM",
+        "iso_date": "2026-03-25T13:14:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -409,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-25 18:52:37 UTC"
+  "fetched_at": "2026-03-25 19:44:22 UTC"
 }
