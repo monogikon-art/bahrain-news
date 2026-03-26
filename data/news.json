@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -23,19 +23,9 @@
     "bna": [
       {
         "title": "Bahrain Intercepts 154 Missiles, 350 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mS09WSWZDdWl5cWdzRlZiU1pTTnlERVlIX09yUlNNTGl1ak93VVFpcXNoVkxFa3ZpTE50LUgwRkN4RjZPazZVTlNQYUZ1cHhtM0s1dGxOdjBSNERnOVdLSTFB?oc=5",
-        "published": "26 Mar 2026, 02:38 PM",
-        "iso_date": "2026-03-26T14:38:38+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini air defence systems intercept fresh wave of Iranian ballistic missiles",
-        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNYXVTNEtXTVh0RV9obE5TaU5xcGtMaE42dTBFLVlCMlYxODVjQjJTejFqLWR5dVo5czE5TVpEcDQ5SUZYWUwtS1RsaE9HRS1hSnI3Rkl6MXI4RnhFRGNRWkdIaloycEFSNzVWZE1zeHJGeV9iN01FTnpweXU2NTFXYmxpdmZTRzFOU1RUVkFwMW5EN0xHQ3VLQWhQdFJCWFJDMXY3VlQ2OTFESmhBWFowR1diMXFEZWNkai1fT09lcnRMb251VWFxbnFPaFhhVDRSWGhzUlI4YVBRdXFJSXVUV0NIRTBLNG9JTUd4SVZFR3h0ellOQnN0WmNqQlhiS0FhMUs2cEY1MUg5TFh6akdBVXNscnFVd3JGOHotWnc0N2FzYUh0SFJINTUzSEZrSURTN3ZIbUk2TWZDbGpOem1vckhFRkE1dVM0RU1IaTUtajJrc1NWYWY5UlN5WnVxUQ?oc=5",
-        "published": "25 Mar 2026, 11:42 PM",
-        "iso_date": "2026-03-25T23:42:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZnc5bmhHWW9wQmFHaWZMOGhvS3R4MGcyUnZMb2dUS0xDQlV1RURnYUNGS3N5YXd5a1N2WFk5YVFlMjF4bmlvNWQ5eTdpeVB4eVNWVy1yc2J6MVJyMXA0RVRB?oc=5",
+        "published": "26 Mar 2026, 02:56 PM",
+        "iso_date": "2026-03-26T14:56:24+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,20 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts, Destroys 153 Missiles, 331 Drones Since Start of Iranian Attacks - Emirates 24|7",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDUxclB1eU5RZE40SGNlVTd3M09jTjNYdGo4SUlPM3VYbkZBWVZvdV9GOWdHNXFxbk94NTJIUkFmU29qUHdTU1BIZUtfeExqelJZVTFRYUp3bW56aTA5eUJVcWUyMHBlYUVEbVZ5TldtX09oVEs2bERWV18wMVo4TjhINlhfbTdXWUxaYmFLdFp1RUNXWkZOZTdaZ1J5dkxmYzZXQmVNZFZBR1VjNzQzSUUxTEVoM3NEajNBNdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
-        "published": "25 Mar 2026, 03:59 PM",
-        "iso_date": "2026-03-25T15:59:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Shocking admission fuels fears of secret Israeli spy base in gulf state",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWldfNVFxNXlFeWhrZnBOaEJETDIxQnZHcGE5Tzd6S1A3UFJMR0ctdEphNndDTlpic2lscGJhYzFiTWRGc3BoajRHWXBXXzFBUzJCaG9SZ1FGWDJ4eWMzR1Z4d1hTd083SDdMdXRpdF9UUnBHdlVtcU81cWZlMzV1M2RJdFY3cWFaTUlNZGhkMk53WDRNZzJ2emRDeHcxQUVyR2ZMb0NUQV9FdU9mZy1kTDlB?oc=5",
-        "published": "25 Mar 2026, 04:10 PM",
-        "iso_date": "2026-03-25T16:10:36+00:00",
+        "title": "Bahrain intercepts 153 missiles, 331 drones since the war broke",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUnUtbHhFWHh4SFQzcEhxQmRGQkFaWUQzclFJc1dTb2hMa202T3FPWWdFRWc5OUFNMWpUNnl1M3pOMnJweTZqcU1FdDFzNk5GNUM0VzhLZGZLbVE?oc=5",
+        "published": "25 Mar 2026, 04:31 PM",
+        "iso_date": "2026-03-25T16:31:42+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,10 +216,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "IRGC navy commander killed in airstrike, says Israel defence minister",
-        "link": "https://www.newsofbahrain.com/world/129258.html",
+        "title": "Washington Proposes 15-Point Peace Framework via Pakistan",
+        "link": "https://www.newsofbahrain.com/world/129261.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LSaFhIxBNe_2026-03-26_1774541137resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Washington Claims Strategic Gains as Pressure Mounts on Iran",
+        "link": "https://www.newsofbahrain.com/world/129260.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OiZmLIvMNc_2026-03-26_1774538581resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump Warns Iran to Abandon Nuclear Ambitions",
+        "link": "https://www.newsofbahrain.com/world/129259.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SVcexLkDaQ_2026-03-26_1774538505resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "IRGC navy commander killed in airstrike, says Israel defence minister",
+        "link": "https://www.newsofbahrain.com/world/129258.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1WZiPIJs8b_2026-03-26_1774534895resized_pic.jpg",
         "source": "newsofbahrain",
@@ -252,36 +262,6 @@
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_4BEmGaKzCW_2026-03-26_1774534402resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India boosts climate commitments for 2035",
-        "link": "https://www.newsofbahrain.com/world/129254.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fVRJgpjqaN_2026-03-26_1774530740resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN chief says Lebanon must not become next Gaza amid fighting",
-        "link": "https://www.newsofbahrain.com/world/129253.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NbfBLOtCqx_2026-03-26_1774530606resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hungary says will phase out gas deliveries to Ukraine",
-        "link": "https://www.newsofbahrain.com/world/129252.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YSQX1bdfrB_2026-03-26_1774530455resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 14:47:41 UTC"
+  "fetched_at": "2026-03-26 16:09:50 UTC"
 }
