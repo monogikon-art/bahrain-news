@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain intercepts, destroys 154 missiles, 350 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUFBRUpNY2JqMjFpVHhFcDUydG82LUJBRlBHa2V2eEg1QkZFelVCTmNIamsxXzVsQjQ5NVllLTB5RGM3WXpuVWthdWZvUGk0UlhkZzlOZXB2TnRMeGhFa1VTZTdkY2hlbG1ELVVvbXNkRzQwY3JzcXZ1SkZCMFNHWWxLT254eHZ6NE5UNDR3MVFuZDlLYWxLY0xHNFcxbVR6OFlnYmdPMncweFZSTTI0d2ExeUFjNHp3ZnZuUEltaERGMV9scjBhMVJXSQ?oc=5",
-        "published": "26 Mar 2026, 11:32 AM",
-        "iso_date": "2026-03-26T11:32:09+00:00",
+        "title": "Bahraini minister visits injured victims of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxaW5sNGtGWlA2MnBKQ1FQYTFnUTNvV3dDV19PRTlvUkZhbXF2clBSbE9veTZvM29XdVVNemwteE9Qd1pGc3NtUi1wR3NWNVVOOC1pNjRSRWhES2pt?oc=5",
+        "published": "26 Mar 2026, 05:45 PM",
+        "iso_date": "2026-03-26T17:45:45+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,10 +52,30 @@
         "category": "Latest"
       },
       {
+        "title": "Bahraini air defence systems intercept fresh wave of Iranian ballistic missiles",
+        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNYXVTNEtXTVh0RV9obE5TaU5xcGtMaE42dTBFLVlCMlYxODVjQjJTejFqLWR5dVo5czE5TVpEcDQ5SUZYWUwtS1RsaE9HRS1hSnI3Rkl6MXI4RnhFRGNRWkdIaloycEFSNzVWZE1zeHJGeV9iN01FTnpweXU2NTFXYmxpdmZTRzFOU1RUVkFwMW5EN0xHQ3VLQWhQdFJCWFJDMXY3VlQ2OTFESmhBWFowR1diMXFEZWNkai1fT09lcnRMb251VWFxbnFPaFhhVDRSWGhzUlI4YVBRdXFJSXVUV0NIRTBLNG9JTUd4SVZFR3h0ellOQnN0WmNqQlhiS0FhMUs2cEY1MUg5TFh6akdBVXNscnFVd3JGOHotWnc0N2FzYUh0SFJINTUzSEZrSURTN3ZIbUk2TWZDbGpOem1vckhFRkE1dVM0RU1IaTUtajJrc1NWYWY5UlN5WnVxUQ?oc=5",
+        "published": "25 Mar 2026, 11:42 PM",
+        "iso_date": "2026-03-25T23:42:38+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain intercepts 154 missiles, 350 drones since start of Iran attacks",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2lJSzEwZndBYXpjMEp3bXRTekg5d3ZxTUJPNFN1NWs5dk1oVzRkNlJYYUk3Y1hVN2pncW1XUGhNY3pIMDU0a2J2RE1pZWw5VGRLaWZVX0g4OEdJS0tjZ3o5OEs3TW8xbmRyOXNxeVVHZTdyVGo1Vmw3Rll2dnYtaGJ0V25GZEU5VU4zXzBJemgxMXQ4QldBMTdkb3ZIYVJLWVdYcEN3YnY3RjlDZmc?oc=5",
         "published": "26 Mar 2026, 11:28 AM",
         "iso_date": "2026-03-26T11:28:07+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain's Public Prosecution refers 14 defendants to Criminal Court for spying for Iran's IRGC",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaERsREF4ZFlLUzl3ZFZ2QTBydDJmdjJKU2k3RmxCUnAyek9LdW5JemUxWmlaMDVUTVlJU2JjZVJDV2tsOFNYU055MDlqeFZFSkREeGNIcGk5OXFQWk02NzY5ZGpYTGxCV3A5U1Y1Y1JJTm5vR0xWX2FLbHhKTTNROU1UZFhRa3pxcHVmZDlmd2lSaGtnYVJvcmVSM19NYWtfZFExeTB0R0tvQzhtdzBURW9DZzM5TEpMVGNnbmlBb1JIaUJONzkzNjMzQld3cEZGNWc?oc=5",
+        "published": "26 Mar 2026, 06:45 PM",
+        "iso_date": "2026-03-26T18:45:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -80,6 +100,16 @@
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260326/20260326135918bpp_T.jpg?20260326",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Lucky escape for family as garage roof collapses amid rains",
+        "link": "https://www.gdnonline.com/Details/1379622/Lucky-escape-for-family-as-garage-roof-collapses-amid-rains",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326203130websitesize_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -110,16 +140,6 @@
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260326/20260326082230_ÙØ²Ø§Ø±Ø©Ø§ÙØ¯Ø§Ø®ÙÙØ©-Ø¬Ø±Ø§Ø¡Ø§ÙØ¹Ø¯ÙØ§ÙØ§ÙØ¥ÙØ±Ø§ÙÙØ§ÙØ³Ø§ÙØ±â¦.Ø§ÙØ¯ÙØ§Ø¹Ø§ÙÙØ¯ÙÙÙØ³ÙØ·Ø±Ø¹ÙÙØ­Ø±ÙÙØ¨Ø¥Ø­Ø¯ÙØ§ÙÙÙØ´Ø¢ØªØ¨ÙØ­Ø§_T.jpg?20260326",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Technical fault in municipal system disrupts key services",
-        "link": "https://www.gdnonline.com/Details/1379548/Technical-fault-in-municipal-system-disrupts-key-services",
-        "published": "26 Mar 2026",
-        "iso_date": "2026-03-26T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223023_2.jpeg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -226,10 +246,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Man Arrested for Luring Children Online with Fake Gifts",
-        "link": "https://www.newsofbahrain.com/bahrain/129262.html",
+        "title": "Fire Claims Lives of Siblings Days After Eid in Barbar",
+        "link": "https://www.newsofbahrain.com/bahrain/129264.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pLqH9PBX14_2026-03-26_1774548990resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Foreign Minister Arrives in France for High-Stakes G7 Talks",
+        "link": "https://www.newsofbahrain.com/world/129263.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_k6BDx091ny_2026-03-26_1774546996resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Man Arrested for Luring Children Online with Fake Gifts",
+        "link": "https://www.newsofbahrain.com/bahrain/129262.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ne6ol2rutk_2026-03-26_1774545350resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +278,8 @@
       {
         "title": "Washington Proposes 15-Point Peace Framework via Pakistan",
         "link": "https://www.newsofbahrain.com/world/129261.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LSaFhIxBNe_2026-03-26_1774541137resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,30 +288,10 @@
       {
         "title": "Washington Claims Strategic Gains as Pressure Mounts on Iran",
         "link": "https://www.newsofbahrain.com/world/129260.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OiZmLIvMNc_2026-03-26_1774538581resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Warns Iran to Abandon Nuclear Ambitions",
-        "link": "https://www.newsofbahrain.com/world/129259.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SVcexLkDaQ_2026-03-26_1774538505resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "IRGC navy commander killed in airstrike, says Israel defence minister",
-        "link": "https://www.newsofbahrain.com/world/129258.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1WZiPIJs8b_2026-03-26_1774534895resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OiZmLIvMNc_2026-03-26_1774538581resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,12 +326,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Air Defenses Intercept Over 500 Iranian Missiles and Drones",
-        "link": "https://www.newsofbahrain.com/bahrain/129238.html",
+        "title": "Trump Warns Iran to Abandon Nuclear Ambitions",
+        "link": "https://www.newsofbahrain.com/world/129259.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hDoK8lmVQi_2026-03-26_1774525083thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SVcexLkDaQ_2026-03-26_1774538505thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 17:34:27 UTC"
+  "fetched_at": "2026-03-26 19:01:20 UTC"
 }
