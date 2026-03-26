@@ -16,14 +16,14 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 14
     }
   },
   "articles": {
     "bna": [
       {
         "title": "Bahrain Intercepts, Destroys 153 Missiles, 331 Drones Since Start of Iranian Attacks - Emirates 24|7",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDUxclB1eU5RZE40SGNlVTd3M09jTjNYdGo4SUlPM3VYbkZBWVZvdV9GOWdHNXFxbk94NTJIUkFmU29qUHdTU1BIZUtfeExqelJZVTFRYUp3bW56aTA5eUJVcWUyMHBlYUVEbVZ5TldtX09oVEs2bERWV18wMVo4TjhINlhfbTdXWUxaYmFLdFp1RUNXWkZOZTdaZ1J5dkxmYzZXQmVNZFZBR1VjNzQzSUUxTEVoM3NEajNBNdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
         "published": "25 Mar 2026, 03:59 PM",
         "iso_date": "2026-03-25T15:59:00+00:00",
         "summary": "",
@@ -194,7 +194,148 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Trump: Iranian Leaders “Afraid” to Admit Talks",
+        "link": "https://www.newsofbahrain.com/world/129207.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LDEk60rduX_2026-03-26_1774488632resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "No Casualties After Fire Erupts at Muharraq Facility",
+        "link": "https://www.newsofbahrain.com/bahrain/129206.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gE2hPRjqMa_2026-03-26_1774484142resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Man Arrested for Phone Installment Scam and Fraud",
+        "link": "https://www.newsofbahrain.com/bahrain/129205.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wtLHkOPDE1_2026-03-25_1774477621resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Parliament Meets GCC Lawmakers Ahead of IPU",
+        "link": "https://www.newsofbahrain.com/bahrain/129204.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e3qci2MuGv_2026-03-25_1774477487resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Roundabout Approved to Ease Daily Traffic",
+        "link": "https://www.newsofbahrain.com/bahrain/129203.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ty1Vw6P9Za_2026-03-25_1774477283resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Mosquito Traps Approved for Public Spaces",
+        "link": "https://www.newsofbahrain.com/bahrain/129202.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j9XxAEJqFn_2026-03-25_1774477154thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump-Xi Meeting Set for May Amid Ongoing Iran Conflict",
+        "link": "https://www.newsofbahrain.com/world/129198.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t9pQlUAO1Z_2026-03-25_1774463641thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "White House Dismisses ‘Speculative’ 15-Point Iran Plan",
+        "link": "https://www.newsofbahrain.com/world/129197.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x3PjbpJelL_2026-03-25_1774462748thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "German Foreign Minister hopes Iran peace talks given chance to succeed",
+        "link": "https://www.newsofbahrain.com/world/129195.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yvr6xPs0VD_2026-03-25_1774450133thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EU says illegal for Slovakia to charge foreigners more for diesel",
+        "link": "https://www.newsofbahrain.com/business/129159.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bnrwlx6VGm_2026-03-25_1774430019thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Philippines declares ‘national energy emergency",
+        "link": "https://www.newsofbahrain.com/business/129157.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J9gCIWVYEo_2026-03-25_1774429866thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Inside the Vote as Chamber Maps Out Every Step",
+        "link": "https://www.newsofbahrain.com/business/129151.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pSjHvE59y7_2026-03-25_1774428095thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil, stock trading spiked before Trump’s Iran remarks: media",
+        "link": "https://www.newsofbahrain.com/business/129150.html",
+        "published": "25 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PKADJ4iNfb_2026-03-25_1774427767thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India is against obstruction of Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/views/129111.html",
+        "published": "24 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-24T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2iJYP94xaX_2026-03-24_1774355017thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -308,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 02:02:33 UTC"
+  "fetched_at": "2026-03-26 04:43:41 UTC"
 }
