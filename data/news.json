@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 18
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNYXVTNEtXTVh0RV9obE5TaU5xcGtMaE42dTBFLVlCMlYxODVjQjJTejFqLWR5dVo5czE5TVpEcDQ5SUZYWUwtS1RsaE9HRS1hSnI3Rkl6MXI4RnhFRGNRWkdIaloycEFSNzVWZE1zeHJGeV9iN01FTnpweXU2NTFXYmxpdmZTRzFOU1RUVkFwMW5EN0xHQ3VLQWhQdFJCWFJDMXY3VlQ2OTFESmhBWFowR1diMXFEZWNkai1fT09lcnRMb251VWFxbnFPaFhhVDRSWGhzUlI4YVBRdXFJSXVUV0NIRTBLNG9JTUd4SVZFR3h0ellOQnN0WmNqQlhiS0FhMUs2cEY1MUg5TFh6akdBVXNscnFVd3JGOHotWnc0N2FzYUh0SFJINTUzSEZrSURTN3ZIbUk2TWZDbGpOem1vckhFRkE1dVM0RU1IaTUtajJrc1NWYWY5UlN5WnVxUQ?oc=5",
         "published": "25 Mar 2026, 11:42 PM",
         "iso_date": "2026-03-25T23:42:38+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Intercepts, Destroys 154 Missiles, 350 Drones Since Start of Iranian Attacks - Emirates 24|7",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlNMVW45RnVraVF1Z2l0NnZsRzIxNTUxM2xnSUhHUXVQcWFfMHYwZGlhdmtObklqdHg2M2xmd0NXZWt6S21KZ0ZWUTJyZmVOVVdpV2tZUXRHRkVaRVVxdHVGdEpmT0I5ZXNydXdZTVdYajJLTGYyc3J5TXNoTkotRThLbHVnZmltaFhFdzktV2c1SFhpZVFUX0Q4VU5aZ2tvYWZ2QTVoM0gtWTF1aVV2bWxFeUFoTUFGMTc5N9IB1wFBVV95cUxQQXpSZzZuaGhBQVJpQ2xEbEdHVkpnZWp0cGtTRzZlc0FoOHROVmlFSlo3R1J3WkJXbXpReDlfemE3bTJWdGN6amhEV2hXSXV6b19wLVBWZ205am5BS0JMT29lNzRBUHNpSWNpMEVVTThGeFZKSWNpaUVrdV9nbVFoQmRpZW4wZ2VnLW1VWDZfWXUySDlsVDBtY2xRN1RlWjV5SXZvdk9ZNGI2UzFZSmJZMWVIMXZncE01NWthS3d1MHl6MzRKd2hDSGREdzJOd2N5dDZacTZRcw?oc=5",
+        "published": "26 Mar 2026, 10:30 AM",
+        "iso_date": "2026-03-26T10:30:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -43,7 +53,7 @@
       },
       {
         "title": "Bahrain Intercepts, Destroys 153 Missiles, 331 Drones Since Start of Iranian Attacks - Emirates 24|7",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDUxclB1eU5RZE40SGNlVTd3M09jTjNYdGo4SUlPM3VYbkZBWVZvdV9GOWdHNXFxbk94NTJIUkFmU29qUHdTU1BIZUtfeExqelJZVTFRYUp3bW56aTA5eUJVcWUyMHBlYUVEbVZ5TldtX09oVEs2bERWV18wMVo4TjhINlhfbTdXWUxaYmFLdFp1RUNXWkZOZTdaZ1J5dkxmYzZXQmVNZFZBR1VjNzQzSUUxTEVoM3NEajNBNdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
         "published": "25 Mar 2026, 03:59 PM",
         "iso_date": "2026-03-25T15:59:00+00:00",
         "summary": "",
@@ -66,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWldfNVFxNXlFeWhrZnBOaEJETDIxQnZHcGE5Tzd6S1A3UFJMR0ctdEphNndDTlpic2lscGJhYzFiTWRGc3BoajRHWXBXXzFBUzJCaG9SZ1FGWDJ4eWMzR1Z4d1hTd083SDdMdXRpdF9UUnBHdlVtcU81cWZlMzV1M2RJdFY3cWFaTUlNZGhkMk53WDRNZzJ2emRDeHcxQUVyR2ZMb0NUQV9FdU9mZy1kTDlB?oc=5",
         "published": "25 Mar 2026, 04:10 PM",
         "iso_date": "2026-03-25T16:10:36+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2R5ZVk2bEtTNWU4bFlON2I1UlhJVW4xel9iQ2l5Qk5PN3VMamZmNFZSU0VXbTNzMlpnMTQ0V2FOcngwUE9rZXNYRHhrc19oRVpyS21BUThmNDYxdWxEb1JhellaYUNseGxsMVNBZG9Ka0xVTkdMcEV5U0JoMFRHMkdUZWRJVDk4VC05UE04cFBaTkxmajE0T3VVRHFVbmxwYW5GTk1XWWY1djFGTzlzX2IxRE5maTJVRHQ1U1BEWlNhY25ZSHlrSk5MQldsZ010?oc=5",
-        "published": "25 Mar 2026, 01:14 PM",
-        "iso_date": "2026-03-25T13:14:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -134,12 +134,12 @@
         "category": "Latest"
       },
       {
-        "title": "Merchantsâ voices âkey to revitalising Manama Suqâ",
-        "link": "https://www.gdnonline.com/Details/1379559/Merchantsâ-voices-âkey-to-revitalising-Manama-Suqâ",
+        "title": "VIDEO: Merchantsâ voices âkey to revitalising Manama Suqâ",
+        "link": "https://www.gdnonline.com/Details/1379559/VIDEO-Merchantsâ-voices-âkey-to-revitalising-Manama-Suqâ",
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223038_0_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223038_2_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -236,12 +236,82 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Pentagon ramps up weapons production",
-        "link": "https://www.newsofbahrain.com/world/129239.html",
+        "title": "Russia pulls more staff from Iran nuclear plant after reported strike",
+        "link": "https://www.newsofbahrain.com/world/129251.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LEltkV0FCe_2026-03-26_1774525712resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YfRhHlTwyi_2026-03-26_1774530260resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Brazil unveils first locally made supersonic fighter jet",
+        "link": "https://www.newsofbahrain.com/sports/129250.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zBxHhm5d9X_2026-03-26_1774529881resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Injury threatens ex-Arsenal ace Tomiyasu’s World Cup dream",
+        "link": "https://www.newsofbahrain.com/sports/129249.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_82ADmQyw7b_2026-03-26_1774529758resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Knicks close on Celtics after Brunson’s 32 points",
+        "link": "https://www.newsofbahrain.com/sports/129248.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wHaG8zLIAK_2026-03-26_1774529608resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Erling Haaland Makes Strategic Move into Global Chess with Norway Chess Investment",
+        "link": "https://www.newsofbahrain.com/sports/129247.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3Lr8uvMtRo_2026-03-26_1774529116resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "From Bahrain to the World",
+        "link": "https://www.newsofbahrain.com/bahrain/129243.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LNZyhQqEp4_2026-03-26_1774527307thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Minister of Education Inspects New Academic Buildings at Two Primary Schools",
+        "link": "https://www.newsofbahrain.com/bahrain/129242.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lgv49tNWiP_2026-03-26_1774526874thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC Moves to Activate Green Lanes to Secure Trade Flow",
+        "link": "https://www.newsofbahrain.com/bahrain/129240.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LG5b0PtSV4_2026-03-26_1774525848thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,37 +321,7 @@
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hDoK8lmVQi_2026-03-26_1774525083resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "The risk you didn’t pack!",
-        "link": "https://www.newsofbahrain.com/views/129237.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UnTZODjphV_2026-03-26_1774524998resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Criticises NATO Allies Over Lack of Support in Iran Conflict",
-        "link": "https://www.newsofbahrain.com/world/129236.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SHe2EFTP89_2026-03-26_1774524318resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "China shipping giant Cosco says resumes bookings to some Gulf countries",
-        "link": "https://www.newsofbahrain.com/business/129235.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OWIl4R1JET_2026-03-26_1774522943resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hDoK8lmVQi_2026-03-26_1774525083thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,52 +336,42 @@
         "category": "Latest"
       },
       {
-        "title": "Housing demand",
-        "link": "https://www.newsofbahrain.com/bahrain/129221.html",
+        "title": "EU Parliament Approves US Tariff Deal with Conditions",
+        "link": "https://www.newsofbahrain.com/world/129241.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mfIqOsaoQy_2026-03-26_1774513431thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YF8fsjE5xq_2026-03-26_1774526252thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Security and public service sectors maintain operations",
-        "link": "https://www.newsofbahrain.com/bahrain/129220.html",
+        "title": "Pentagon ramps up weapons production",
+        "link": "https://www.newsofbahrain.com/world/129239.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_guOXclIhEk_2026-03-26_1774513143thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LEltkV0FCe_2026-03-26_1774525712thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "MP backs restriction on recruitment office managers",
-        "link": "https://www.newsofbahrain.com/bahrain/129219.html",
+        "title": "Trump Criticises NATO Allies Over Lack of Support in Iran Conflict",
+        "link": "https://www.newsofbahrain.com/world/129236.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WMyfKIDzwg_2026-03-26_1774512539thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SHe2EFTP89_2026-03-26_1774524318thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "South Korea to roll out $17 bn 'wartime' budget to Combat Soaring Energy Costs",
-        "link": "https://www.newsofbahrain.com/world/129233.html",
+        "title": "China shipping giant Cosco says resumes bookings to some Gulf countries",
+        "link": "https://www.newsofbahrain.com/business/129235.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ib8mTVkqC5_2026-03-26_1774522331thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran's attacks will not go unpunished, says Dr Anwar Gargash",
-        "link": "https://www.newsofbahrain.com/world/129231.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sVd8xM2ezG_2026-03-26_1774521337thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OWIl4R1JET_2026-03-26_1774522943thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -372,6 +402,16 @@
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHPehRNG8X_2026-03-26_1774514284thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The risk you didn’t pack!",
+        "link": "https://www.newsofbahrain.com/views/129237.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UnTZODjphV_2026-03-26_1774524998thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -489,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 11:51:19 UTC"
+  "fetched_at": "2026-03-26 13:07:22 UTC"
 }
