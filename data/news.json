@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,21 +16,11 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahraini air defence systems intercept fresh wave of Iranian ballistic missiles",
-        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNYXVTNEtXTVh0RV9obE5TaU5xcGtMaE42dTBFLVlCMlYxODVjQjJTejFqLWR5dVo5czE5TVpEcDQ5SUZYWUwtS1RsaE9HRS1hSnI3Rkl6MXI4RnhFRGNRWkdIaloycEFSNzVWZE1zeHJGeV9iN01FTnpweXU2NTFXYmxpdmZTRzFOU1RUVkFwMW5EN0xHQ3VLQWhQdFJCWFJDMXY3VlQ2OTFESmhBWFowR1diMXFEZWNkai1fT09lcnRMb251VWFxbnFPaFhhVDRSWGhzUlI4YVBRdXFJSXVUV0NIRTBLNG9JTUd4SVZFR3h0ellOQnN0WmNqQlhiS0FhMUs2cEY1MUg5TFh6akdBVXNscnFVd3JGOHotWnc0N2FzYUh0SFJINTUzSEZrSURTN3ZIbUk2TWZDbGpOem1vckhFRkE1dVM0RU1IaTUtajJrc1NWYWY5UlN5WnVxUQ?oc=5",
-        "published": "25 Mar 2026, 11:42 PM",
-        "iso_date": "2026-03-25T23:42:38+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain Intercepts, Destroys 153 Missiles, 331 Drones Since Start of Iranian Attacks - Emirates 24|7",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
@@ -52,20 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "Shocking admission fuels fears of secret Israeli spy base in gulf state",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWldfNVFxNXlFeWhrZnBOaEJETDIxQnZHcGE5Tzd6S1A3UFJMR0ctdEphNndDTlpic2lscGJhYzFiTWRGc3BoajRHWXBXXzFBUzJCaG9SZ1FGWDJ4eWMzR1Z4d1hTd083SDdMdXRpdF9UUnBHdlVtcU81cWZlMzV1M2RJdFY3cWFaTUlNZGhkMk53WDRNZzJ2emRDeHcxQUVyR2ZMb0NUQV9FdU9mZy1kTDlB?oc=5",
-        "published": "25 Mar 2026, 04:10 PM",
-        "iso_date": "2026-03-25T16:10:36+00:00",
+        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2R5ZVk2bEtTNWU4bFlON2I1UlhJVW4xel9iQ2l5Qk5PN3VMamZmNFZSU0VXbTNzMlpnMTQ0V2FOcngwUE9rZXNYRHhrc19oRVpyS21BUThmNDYxdWxEb1JhellaYUNseGxsMVNBZG9Ka0xVTkdMcEV5U0JoMFRHMkdUZWRJVDk4VC05UE04cFBaTkxmajE0T3VVRHFVbmxwYW5GTk1XWWY1djFGTzlzX2IxRE5maTJVRHQ1U1BEWlNhY25ZSHlrSk5MQldsZ010?oc=5",
+        "published": "25 Mar 2026, 01:14 PM",
+        "iso_date": "2026-03-25T13:14:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2R5ZVk2bEtTNWU4bFlON2I1UlhJVW4xel9iQ2l5Qk5PN3VMamZmNFZSU0VXbTNzMlpnMTQ0V2FOcngwUE9rZXNYRHhrc19oRVpyS21BUThmNDYxdWxEb1JhellaYUNseGxsMVNBZG9Ka0xVTkdMcEV5U0JoMFRHMkdUZWRJVDk4VC05UE04cFBaTkxmajE0T3VVRHFVbmxwYW5GTk1XWWY1djFGTzlzX2IxRE5maTJVRHQ1U1BEWlNhY25ZSHlrSk5MQldsZ010?oc=5",
-        "published": "25 Mar 2026, 01:14 PM",
-        "iso_date": "2026-03-25T13:14:36+00:00",
+        "title": "Shocking admission fuels fears of secret Israeli spy base in gulf state",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWldfNVFxNXlFeWhrZnBOaEJETDIxQnZHcGE5Tzd6S1A3UFJMR0ctdEphNndDTlpic2lscGJhYzFiTWRGc3BoajRHWXBXXzFBUzJCaG9SZ1FGWDJ4eWMzR1Z4d1hTd083SDdMdXRpdF9UUnBHdlVtcU81cWZlMzV1M2RJdFY3cWFaTUlNZGhkMk53WDRNZzJ2emRDeHcxQUVyR2ZMb0NUQV9FdU9mZy1kTDlB?oc=5",
+        "published": "25 Mar 2026, 04:10 PM",
+        "iso_date": "2026-03-25T16:10:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Two Dead After Missile Debris Falls in Abu Dhabi",
+        "link": "https://www.newsofbahrain.com/world/129227.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FIVEqxvred_2026-03-26_1774517806resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Top WTO official sounds fertiliser warning over Middle East war",
         "link": "https://www.newsofbahrain.com/business/129226.html",
         "published": "26 Mar 2026, 09:22 AM",
@@ -238,8 +238,8 @@
       {
         "title": "Khalid Al-Ameen: Iran’s aggressive targeting of Gulf states signals a looming global fertilizer crisis",
         "link": "https://www.newsofbahrain.com/business/129225.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHPehRNG8X_2026-03-26_1774514284resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +258,8 @@
       {
         "title": "‘Arsonist’ held",
         "link": "https://www.newsofbahrain.com/bahrain/129222.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_wi3XgBqSrt_2026-03-26_1774513540resized_pic.jpg",
         "source": "newsofbahrain",
@@ -271,7 +271,7 @@
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mfIqOsaoQy_2026-03-26_1774513431resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mfIqOsaoQy_2026-03-26_1774513431thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -336,32 +336,12 @@
         "category": "Latest"
       },
       {
-        "title": "Trump: Iranian Leaders “Afraid” to Admit Talks",
-        "link": "https://www.newsofbahrain.com/world/129207.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LDEk60rduX_2026-03-26_1774488632thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "EU says illegal for Slovakia to charge foreigners more for diesel",
         "link": "https://www.newsofbahrain.com/business/129159.html",
         "published": "25 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-25T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_bnrwlx6VGm_2026-03-25_1774430019thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India is against obstruction of Strait of Hormuz",
-        "link": "https://www.newsofbahrain.com/views/129111.html",
-        "published": "24 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2iJYP94xaX_2026-03-24_1774355017thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -479,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 08:51:10 UTC"
+  "fetched_at": "2026-03-26 09:58:22 UTC"
 }
