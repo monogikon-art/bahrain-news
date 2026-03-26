@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wRDVESHBKaG5SQzlod3EyaHQ0SE14Z3V6N1BUZVlBaU9pdEwtdTVfMDNtemZmWjZFZXdraTBVaUxSY2QyT21iZW1zODlLSlRaVldr?oc=5",
         "published": "26 Mar 2026, 05:49 PM",
         "iso_date": "2026-03-26T17:49:36+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts, destroys 154 missiles, 350 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUFBRUpNY2JqMjFpVHhFcDUydG82LUJBRlBHa2V2eEg1QkZFelVCTmNIamsxXzVsQjQ5NVllLTB5RGM3WXpuVWthdWZvUGk0UlhkZzlOZXB2TnRMeGhFa1VTZTdkY2hlbG1ELVVvbXNkRzQwY3JzcXZ1SkZCMFNHWWxLT254eHZ6NE5UNDR3MVFuZDlLYWxLY0xHNFcxbVR6OFlnYmdPMncweFZSTTI0d2ExeUFjNHp3ZnZuUEltaERGMV9scjBhMVJXSQ?oc=5",
+        "published": "26 Mar 2026, 11:32 AM",
+        "iso_date": "2026-03-26T11:32:09+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -66,6 +76,16 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2lJSzEwZndBYXpjMEp3bXRTekg5d3ZxTUJPNFN1NWs5dk1oVzRkNlJYYUk3Y1hVN2pncW1XUGhNY3pIMDU0a2J2RE1pZWw5VGRLaWZVX0g4OEdJS0tjZ3o5OEs3TW8xbmRyOXNxeVVHZTdyVGo1Vmw3Rll2dnYtaGJ0V25GZEU5VU4zXzBJemgxMXQ4QldBMTdkb3ZIYVJLWVdYcEN3YnY3RjlDZmc?oc=5",
         "published": "26 Mar 2026, 11:28 AM",
         "iso_date": "2026-03-26T11:28:07+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahraini air defence systems intercept fresh wave of Iranian ballistic missiles",
+        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNYXVTNEtXTVh0RV9obE5TaU5xcGtMaE42dTBFLVlCMlYxODVjQjJTejFqLWR5dVo5czE5TVpEcDQ5SUZYWUwtS1RsaE9HRS1hSnI3Rkl6MXI4RnhFRGNRWkdIaloycEFSNzVWZE1zeHJGeV9iN01FTnpweXU2NTFXYmxpdmZTRzFOU1RUVkFwMW5EN0xHQ3VLQWhQdFJCWFJDMXY3VlQ2OTFESmhBWFowR1diMXFEZWNkai1fT09lcnRMb251VWFxbnFPaFhhVDRSWGhzUlI4YVBRdXFJSXVUV0NIRTBLNG9JTUd4SVZFR3h0ellOQnN0WmNqQlhiS0FhMUs2cEY1MUg5TFh6akdBVXNscnFVd3JGOHotWnc0N2FzYUh0SFJINTUzSEZrSURTN3ZIbUk2TWZDbGpOem1vckhFRkE1dVM0RU1IaTUtajJrc1NWYWY5UlN5WnVxUQ?oc=5",
+        "published": "25 Mar 2026, 11:42 PM",
+        "iso_date": "2026-03-25T23:42:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 22:26:00 UTC"
+  "fetched_at": "2026-03-26 22:56:19 UTC"
 }
