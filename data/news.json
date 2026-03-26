@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,30 @@
   "articles": {
     "bna": [
       {
+        "title": "Bahraini air defence systems intercept fresh wave of Iranian ballistic missiles",
+        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNYXVTNEtXTVh0RV9obE5TaU5xcGtMaE42dTBFLVlCMlYxODVjQjJTejFqLWR5dVo5czE5TVpEcDQ5SUZYWUwtS1RsaE9HRS1hSnI3Rkl6MXI4RnhFRGNRWkdIaloycEFSNzVWZE1zeHJGeV9iN01FTnpweXU2NTFXYmxpdmZTRzFOU1RUVkFwMW5EN0xHQ3VLQWhQdFJCWFJDMXY3VlQ2OTFESmhBWFowR1diMXFEZWNkai1fT09lcnRMb251VWFxbnFPaFhhVDRSWGhzUlI4YVBRdXFJSXVUV0NIRTBLNG9JTUd4SVZFR3h0ellOQnN0WmNqQlhiS0FhMUs2cEY1MUg5TFh6akdBVXNscnFVd3JGOHotWnc0N2FzYUh0SFJINTUzSEZrSURTN3ZIbUk2TWZDbGpOem1vckhFRkE1dVM0RU1IaTUtajJrc1NWYWY5UlN5WnVxUQ?oc=5",
+        "published": "25 Mar 2026, 11:42 PM",
+        "iso_date": "2026-03-25T23:42:38+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Intercepts, Destroys 153 Missiles, 331 Drones Since Start of Iranian Attacks - Emirates 24|7",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
         "published": "25 Mar 2026, 03:59 PM",
         "iso_date": "2026-03-25T15:59:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar extinguishes Ras Laffan fires after missile strikes, no injuries reported",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMG1aZFBGOU4wcXN1OVNhbjgtVzExVEliT0lBOGgxLXh0ZW1IRHdKUjlHQ3hPOXZYTlVlNWhUei1SamFGRzNiVDVETC1PM29mVXZSVzZoNmFMdDVZMkIwa0RWdHliRXhYMkQ0VmJITlU0ZW1zQTgxcFlpTjFDR3AzS1hyczRvQjhYMi03TkM2ei1LSTVGdV9Pa3hqbE1MQmNvazBQY183d0NoX3BwNVU1RW01eHVqdHdsUWR6LVo3TjRCcWZJWTlCTXJB?oc=5",
+        "published": "25 Mar 2026, 02:50 PM",
+        "iso_date": "2026-03-25T14:50:17+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -40,6 +60,16 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2R5ZVk2bEtTNWU4bFlON2I1UlhJVW4xel9iQ2l5Qk5PN3VMamZmNFZSU0VXbTNzMlpnMTQ0V2FOcngwUE9rZXNYRHhrc19oRVpyS21BUThmNDYxdWxEb1JhellaYUNseGxsMVNBZG9Ka0xVTkdMcEV5U0JoMFRHMkdUZWRJVDk4VC05UE04cFBaTkxmajE0T3VVRHFVbmxwYW5GTk1XWWY1djFGTzlzX2IxRE5maTJVRHQ1U1BEWlNhY25ZSHlrSk5MQldsZ010?oc=5",
+        "published": "25 Mar 2026, 01:14 PM",
+        "iso_date": "2026-03-25T13:14:36+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
@@ -50,6 +80,16 @@
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260325/20260325224602gdn-websitesize-2026-03-25t225408.813_T.jpg?20260326",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Civil Defence teams contain fire at a facility in Muharraq",
+        "link": "https://www.gdnonline.com/Details/1379589/Civil-Defence-teams-contain-fire-at-a-facility-in-Muharraq",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326082230_ÙØ²Ø§Ø±Ø©Ø§ÙØ¯Ø§Ø®ÙÙØ©-Ø¬Ø±Ø§Ø¡Ø§ÙØ¹Ø¯ÙØ§ÙØ§ÙØ¥ÙØ±Ø§ÙÙØ§ÙØ³Ø§ÙØ±â¦.Ø§ÙØ¯ÙØ§Ø¹Ø§ÙÙØ¯ÙÙÙØ³ÙØ·Ø±Ø¹ÙÙØ­Ø±ÙÙØ¨Ø¥Ø­Ø¯ÙØ§ÙÙÙØ´Ø¢ØªØ¨ÙØ­Ø§_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -80,16 +120,6 @@
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223025_0.jfif?20260326",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Driver jailed for fatal crash",
-        "link": "https://www.gdnonline.com/Details/1379549/Driver-jailed-for-fatal-crash-",
-        "published": "26 Mar 2026",
-        "iso_date": "2026-03-26T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325224806gdn-websitesize-2026-03-25t225626.620_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -449,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 04:43:41 UTC"
+  "fetched_at": "2026-03-26 06:11:15 UTC"
 }
