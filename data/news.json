@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain intercepts, destroys 154 missiles, 350 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUFBRUpNY2JqMjFpVHhFcDUydG82LUJBRlBHa2V2eEg1QkZFelVCTmNIamsxXzVsQjQ5NVllLTB5RGM3WXpuVWthdWZvUGk0UlhkZzlOZXB2TnRMeGhFa1VTZTdkY2hlbG1ELVVvbXNkRzQwY3JzcXZ1SkZCMFNHWWxLT254eHZ6NE5UNDR3MVFuZDlLYWxLY0xHNFcxbVR6OFlnYmdPMncweFZSTTI0d2ExeUFjNHp3ZnZuUEltaERGMV9scjBhMVJXSQ?oc=5",
+        "published": "26 Mar 2026, 11:32 AM",
+        "iso_date": "2026-03-26T11:32:09+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain Intercepts 154 Missiles, 350 Drones Since Start Of Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZnc5bmhHWW9wQmFHaWZMOGhvS3R4MGcyUnZMb2dUS0xDQlV1RURnYUNGS3N5YXd5a1N2WFk5YVFlMjF4bmlvNWQ5eTdpeVB4eVNWVy1yc2J6MVJyMXA0RVRB?oc=5",
@@ -52,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 153 missiles, 331 drones since the war broke",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUnUtbHhFWHh4SFQzcEhxQmRGQkFaWUQzclFJc1dTb2hMa202T3FPWWdFRWc5OUFNMWpUNnl1M3pOMnJweTZqcU1FdDFzNk5GNUM0VzhLZGZLbVE?oc=5",
-        "published": "25 Mar 2026, 04:31 PM",
-        "iso_date": "2026-03-25T16:31:42+00:00",
+        "title": "Bahrain Intercepts, Destroys 154 Missiles, 350 Drones Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3BValgzS3h0clNNMk9NYmdGcnltYjUwVm16MWhrWWVxRzFFUC1fTlRucnFsM2lLSVlpUjROVGFyRUhrMVNmM1phUVJfNURMMnNnR2FiejJ6ZjZYZWVETE1OMk9xWFFtWWNyMFJSamVFREFFc3laUFhSQkRiOGo2bG5VR2dIVnFiQVREYThzeE5zZWw3eV9sQzBNb01fUQ?oc=5",
+        "published": "26 Mar 2026, 10:15 AM",
+        "iso_date": "2026-03-26T10:15:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Man Arrested for Luring Children Online with Fake Gifts",
+        "link": "https://www.newsofbahrain.com/bahrain/129262.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ne6ol2rutk_2026-03-26_1774545350resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Washington Proposes 15-Point Peace Framework via Pakistan",
         "link": "https://www.newsofbahrain.com/world/129261.html",
         "published": "26 Mar 2026, 09:22 AM",
@@ -228,8 +248,8 @@
       {
         "title": "Washington Claims Strategic Gains as Pressure Mounts on Iran",
         "link": "https://www.newsofbahrain.com/world/129260.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_OiZmLIvMNc_2026-03-26_1774538581resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,20 +268,10 @@
       {
         "title": "IRGC navy commander killed in airstrike, says Israel defence minister",
         "link": "https://www.newsofbahrain.com/world/129258.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1WZiPIJs8b_2026-03-26_1774534895resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘Strange’ Iranian Negotiators ‘Begging’ for Deal After Military ‘Obliteration’, says Trump",
-        "link": "https://www.newsofbahrain.com/world/129257.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4BEmGaKzCW_2026-03-26_1774534402resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1WZiPIJs8b_2026-03-26_1774534895resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +312,6 @@
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hDoK8lmVQi_2026-03-26_1774525083thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘Arsonist’ held",
-        "link": "https://www.newsofbahrain.com/bahrain/129222.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wi3XgBqSrt_2026-03-26_1774513540thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 16:09:50 UTC"
+  "fetched_at": "2026-03-26 17:34:27 UTC"
 }
