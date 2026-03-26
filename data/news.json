@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,30 +22,20 @@
   "articles": {
     "bna": [
       {
+        "title": "Two Ukrainian drones stray into Estonia and Latvia, with one hitting a power station",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObEFlUnBHbU5tcW8zMERfS3NvSEthNzl0ZDdFdnR5QTBmYjJOeko2S0tSSWdWUmdqX0pXN0l2cVRfMU9YamF5a3lURHhNZ2E3dXdPWDREN0c1N1BnZ2hyY1ZTaHhBUkd2WDEwQUtqTnh6UnFmXzlaaU1aa1VYTGU3NG15eHpONlVMbElKTEo0VTB4a05tTjNrTVFWVXQ3VU5wdjJLSjJTNEVFb01fWTBqcE5SRVZzcEZaT3RuSl9CTi0waUNVaVZSVTFsVDgycGNNUmdEN1VJVEtTR0ptblVHY2ptOHB3eWw1LUtncjZER29TdDMtX2tNYmF5Q2p6WG8?oc=5",
+        "published": "25 Mar 2026, 11:35 PM",
+        "iso_date": "2026-03-25T23:35:59+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Intercepts, Destroys 153 Missiles, 331 Drones Since Start of Iranian Attacks - Emirates 24|7",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
         "published": "25 Mar 2026, 03:59 PM",
         "iso_date": "2026-03-25T15:59:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar extinguishes Ras Laffan fires after missile strikes, no injuries reported",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMG1aZFBGOU4wcXN1OVNhbjgtVzExVEliT0lBOGgxLXh0ZW1IRHdKUjlHQ3hPOXZYTlVlNWhUei1SamFGRzNiVDVETC1PM29mVXZSVzZoNmFMdDVZMkIwa0RWdHliRXhYMkQ0VmJITlU0ZW1zQTgxcFlpTjFDR3AzS1hyczRvQjhYMi03TkM2ei1LSTVGdV9Pa3hqbE1MQmNvazBQY183d0NoX3BwNVU1RW01eHVqdHdsUWR6LVo3TjRCcWZJWTlCTXJB?oc=5",
-        "published": "25 Mar 2026, 02:50 PM",
-        "iso_date": "2026-03-25T14:50:17+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain arrests five accused of spying for Iran’s IRGC in latest crackdown",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2R5ZVk2bEtTNWU4bFlON2I1UlhJVW4xel9iQ2l5Qk5PN3VMamZmNFZSU0VXbTNzMlpnMTQ0V2FOcngwUE9rZXNYRHhrc19oRVpyS21BUThmNDYxdWxEb1JhellaYUNseGxsMVNBZG9Ka0xVTkdMcEV5U0JoMFRHMkdUZWRJVDk4VC05UE04cFBaTkxmajE0T3VVRHFVbmxwYW5GTk1XWWY1djFGTzlzX2IxRE5maTJVRHQ1U1BEWlNhY25ZSHlrSk5MQldsZ010?oc=5",
-        "published": "25 Mar 2026, 01:14 PM",
-        "iso_date": "2026-03-25T13:14:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -63,6 +53,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "154 ballistic missiles, 350 drones destroyed",
+        "link": "https://www.gdnonline.com/Details/1379611/154-ballistic-missiles,-350-drones-destroyed-",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326123132bdf1_T.jpg?20260326",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Current weather conditions âtypical for this time of yearâ",
         "link": "https://www.gdnonline.com/Details/1379541/Current-weather-conditions-âtypical-for-this-time-of-yearâ",
@@ -100,16 +100,6 @@
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260325/20260325225001gdn-websitesize-2026-03-25t225822.109_T.jpg?20260326",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "New school facilities reviewed",
-        "link": "https://www.gdnonline.com/Details/1379551/New-school-facilities-reviewed-",
-        "published": "26 Mar 2026",
-        "iso_date": "2026-03-26T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223025_0.jfif?20260326",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,10 +206,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Two Dead After Missile Debris Falls in Abu Dhabi",
-        "link": "https://www.newsofbahrain.com/world/129227.html",
+        "title": "South Korea to roll out $17 bn 'wartime' budget to Combat Soaring Energy Costs",
+        "link": "https://www.newsofbahrain.com/world/129233.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ib8mTVkqC5_2026-03-26_1774522331resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran's attacks will not go unpunished, says Dr Anwar Gargash",
+        "link": "https://www.newsofbahrain.com/world/129231.html",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sVd8xM2ezG_2026-03-26_1774521337resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Two Dead After Missile Debris Falls in Abu Dhabi",
+        "link": "https://www.newsofbahrain.com/world/129227.html",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FIVEqxvred_2026-03-26_1774517806resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +238,8 @@
       {
         "title": "Top WTO official sounds fertiliser warning over Middle East war",
         "link": "https://www.newsofbahrain.com/business/129226.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
+        "published": "26 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-26T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_gMhHqft3ei_2026-03-26_1774514518resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +248,10 @@
       {
         "title": "Khalid Al-Ameen: Iran’s aggressive targeting of Gulf states signals a looming global fertilizer crisis",
         "link": "https://www.newsofbahrain.com/business/129225.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
+        "published": "26 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHPehRNG8X_2026-03-26_1774514284resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NBBawards USD 500,000 to 50 winners in February Thara’a draw",
-        "link": "https://www.newsofbahrain.com/business/129224.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_slLJWYNyft_2026-03-26_1774514122resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,7 +261,7 @@
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wi3XgBqSrt_2026-03-26_1774513540resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wi3XgBqSrt_2026-03-26_1774513540thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -316,22 +316,12 @@
         "category": "Latest"
       },
       {
-        "title": "Fuel Crisis May Open Door for Philippines – China Talks",
-        "link": "https://www.newsofbahrain.com/world/129214.html",
+        "title": "NBBawards USD 500,000 to 50 winners in February Thara’a draw",
+        "link": "https://www.newsofbahrain.com/business/129224.html",
         "published": "26 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d2opXIBAzU_2026-03-26_1774509696thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "South Korea Activates Emergency Measures as Energy Crisis Deepens",
-        "link": "https://www.newsofbahrain.com/world/129212.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DLtCHxqNgV_2026-03-26_1774508482thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_slLJWYNyft_2026-03-26_1774514122thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 09:58:22 UTC"
+  "fetched_at": "2026-03-26 10:57:03 UTC"
 }
