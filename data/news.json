@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,16 +16,26 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 0
     }
   },
   "articles": {
     "bna": [
       {
         "title": "Bahrain Intercepts, Destroys 153 Missiles, 331 Drones Since Start of Iranian Attacks - Emirates 24|7",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDUxclB1eU5RZE40SGNlVTd3M09jTjNYdGo4SUlPM3VYbkZBWVZvdV9GOWdHNXFxbk94NTJIUkFmU29qUHdTU1BIZUtfeExqelJZVTFRYUp3bW56aTA5eUJVcWUyMHBlYUVEbVZ5TldtX09oVEs2bERWV18wMVo4TjhINlhfbTdXWUxaYmFLdFp1RUNXWkZOZTdaZ1J5dkxmYzZXQmVNZFZBR1VjNzQzSUUxTEVoM3NEajNBNdIB1wFBVV95cUxNbHAwUzlPMG5JT2lzdl9jbTN1MW0xN1lvUlp6SjNiZ1pnSzRpbUFXZ1UwcGtOa1hMd3hhXzR1TWh6Rlk4a0laRmJkOTZTNHF5aXJfdEFudEdRSE82S2hDSldEaXptVEFxUDU5ZE55NlU3RjBDQ3M3Mnc4c0dFVWhadWpmWVFwMG9teFdKVHM4cWtibGNiaklhRUZtQmVGLS1mVWc2MW9Db1hXMERZNlhFWHR3b2xIRS1IUWxsNllYQ2pxNUhyX1ZxUHdwMktZQ2ZQUlF3anFGSQ?oc=5",
         "published": "25 Mar 2026, 03:59 PM",
         "iso_date": "2026-03-25T15:59:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Shocking admission fuels fears of secret Israeli spy base in gulf state",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWldfNVFxNXlFeWhrZnBOaEJETDIxQnZHcGE5Tzd6S1A3UFJMR0ctdEphNndDTlpic2lscGJhYzFiTWRGc3BoajRHWXBXXzFBUzJCaG9SZ1FGWDJ4eWMzR1Z4d1hTd083SDdMdXRpdF9UUnBHdlVtcU81cWZlMzV1M2RJdFY3cWFaTUlNZGhkMk53WDRNZzJ2emRDeHcxQUVyR2ZMb0NUQV9FdU9mZy1kTDlB?oc=5",
+        "published": "25 Mar 2026, 04:10 PM",
+        "iso_date": "2026-03-25T16:10:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -134,6 +144,46 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain step up training",
+        "link": "https://www.gdnonline.com/Details/1379573/Bahrain-step-up-training",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326014736footy_T.jpg?20260326",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Irelandâs Coleman fit for Czech test",
+        "link": "https://www.gdnonline.com/Details/1379572/Irelandâs-Coleman-fit-for-Czech-test",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326014803coleman_T.jpg?20260326",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Vinicius eager to replicate Real success with Brazil",
+        "link": "https://www.gdnonline.com/Details/1379571/Vinicius-eager-to-replicate-Real-success-with-Brazil",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326_010234_0_T.jpg?20260326",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Senegal appeal to CAS against title decision",
+        "link": "https://www.gdnonline.com/Details/1379574/Senegal-appeal-to-CAS-against-title-decision",
+        "published": "26 Mar 2026",
+        "iso_date": "2026-03-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326014502enegal_T.jpg?20260326",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Salah announces Liverpool departure at end of season",
         "link": "https://www.gdnonline.com/Details/1379487/Salah-announces-Liverpool-departure-at-end-of-season",
         "published": "25 Mar 2026",
@@ -142,190 +192,9 @@
         "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_003703_0_T.jpg?20260326",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Jeddah set to host stalled AFC matches",
-        "link": "https://www.gdnonline.com/Details/1379485/Jeddah-set-to-host-stalled-AFC-matches",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325023701capture_T.jpg?20260326",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Orlando sign Griezmann",
-        "link": "https://www.gdnonline.com/Details/1379486/Orlando-sign-Griezmann",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325004324asof_T.jpg?20260326",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Liverpool's Salah to end glittering Anfield career at end of season",
-        "link": "https://www.gdnonline.com/Details/1379473/Liverpools-Salah-to-end-glittering-Anfield-career-at-end-of-season",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/202603242324557tn4njhrnzibharonszdp2ge5a(1)_T.jpg?20260326",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain national team kick off local gathering",
-        "link": "https://www.gdnonline.com/Details/1379424/Bahrain-national-team-kick-off-local-gathering",
-        "published": "24 Mar 2026",
-        "iso_date": "2026-03-24T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260324/20260324_004648_1.jfif?20260326",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Man Arrested for Phone Installment Scam and Fraud",
-        "link": "https://www.newsofbahrain.com/bahrain/129205.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wtLHkOPDE1_2026-03-25_1774477621resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Parliament Meets GCC Lawmakers Ahead of IPU",
-        "link": "https://www.newsofbahrain.com/bahrain/129204.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e3qci2MuGv_2026-03-25_1774477487resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Roundabout Approved to Ease Daily Traffic",
-        "link": "https://www.newsofbahrain.com/bahrain/129203.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ty1Vw6P9Za_2026-03-25_1774477283resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Mosquito Traps Approved for Public Spaces",
-        "link": "https://www.newsofbahrain.com/bahrain/129202.html",
-        "published": "26 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j9XxAEJqFn_2026-03-25_1774477154resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Rain Response Reviewed After Council Approval",
-        "link": "https://www.newsofbahrain.com/bahrain/129201.html",
-        "published": "26 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aJZ4WD9A5o_2026-03-25_1774477042resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump-Xi Meeting Set for May Amid Ongoing Iran Conflict",
-        "link": "https://www.newsofbahrain.com/world/129198.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t9pQlUAO1Z_2026-03-25_1774463641thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "White House Dismisses ‘Speculative’ 15-Point Iran Plan",
-        "link": "https://www.newsofbahrain.com/world/129197.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x3PjbpJelL_2026-03-25_1774462748thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "German Foreign Minister hopes Iran peace talks given chance to succeed",
-        "link": "https://www.newsofbahrain.com/world/129195.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yvr6xPs0VD_2026-03-25_1774450133thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "France urges Israel 'to refrain' from seizing south Lebanon zone",
-        "link": "https://www.newsofbahrain.com/world/129189.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_s76oGxjcDb_2026-03-25_1774444782thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "EU says illegal for Slovakia to charge foreigners more for diesel",
-        "link": "https://www.newsofbahrain.com/business/129159.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bnrwlx6VGm_2026-03-25_1774430019thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Philippines declares ‘national energy emergency",
-        "link": "https://www.newsofbahrain.com/business/129157.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J9gCIWVYEo_2026-03-25_1774429866thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Inside the Vote as Chamber Maps Out Every Step",
-        "link": "https://www.newsofbahrain.com/business/129151.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pSjHvE59y7_2026-03-25_1774428095thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil, stock trading spiked before Trump’s Iran remarks: media",
-        "link": "https://www.newsofbahrain.com/business/129150.html",
-        "published": "25 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PKADJ4iNfb_2026-03-25_1774427767thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India is against obstruction of Strait of Hormuz",
-        "link": "https://www.newsofbahrain.com/views/129111.html",
-        "published": "24 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2iJYP94xaX_2026-03-24_1774355017thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -439,5 +308,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-25 23:31:39 UTC"
+  "fetched_at": "2026-03-26 02:02:33 UTC"
 }
