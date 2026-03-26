@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,18 +32,8 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 154 missiles, 350 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUFBRUpNY2JqMjFpVHhFcDUydG82LUJBRlBHa2V2eEg1QkZFelVCTmNIamsxXzVsQjQ5NVllLTB5RGM3WXpuVWthdWZvUGk0UlhkZzlOZXB2TnRMeGhFa1VTZTdkY2hlbG1ELVVvbXNkRzQwY3JzcXZ1SkZCMFNHWWxLT254eHZ6NE5UNDR3MVFuZDlLYWxLY0xHNFcxbVR6OFlnYmdPMncweFZSTTI0d2ExeUFjNHp3ZnZuUEltaERGMV9scjBhMVJXSQ?oc=5",
-        "published": "26 Mar 2026, 11:32 AM",
-        "iso_date": "2026-03-26T11:32:09+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "IRGC-linked cells targeting Bahrain referred to Criminal Court",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbnRIRWo5VTNSbEdJNjBBbEVvcTBzaVlURm9nc1VXTnpoTU1SYWJGYXhVNnBIcW9Yc3FTdGY3YTQxMzl0WFlsM3BBSDhHZVR1UlJqZkxzS1NGT1BRU0c4WUlfX3R3QjctcWpYZnFNSThJSHNVeHEtTEdHbmFaSnd2dkZycmVGZmZBVTBhOUNCeGlwVWw1c3pONDNIakgteUN6OEw4MlcwWlg2bFluNVpiUnJBejQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVFKc3BmSDVZV0xqYWs1cXp1T1IxNDM3NW1vVjRNQjRra3pSbEQ5RUg4TTF4dV81eDFGekZ2ZWMzVDEyUGxScVBydmZEazd4eTEydE9meHJQV19HR3Vmc2RnR2MxRjh4S2N4UHM3M3RlcENjcVpXUVZGNXdwcXl5aE02X21vQ0ptSzRWZ2JxcGpoRjVYSFZmd0JUZmNCTUdyV01sTGNhTlJwNk02NTdzWQ?oc=5",
         "published": "26 Mar 2026, 08:23 PM",
         "iso_date": "2026-03-26T20:23:07+00:00",
         "summary": "",
@@ -63,9 +53,9 @@
       },
       {
         "title": "Bahrain Intercepts 154 Missiles, 350 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51bnZYZDBjbDIya1dIX1ppVlloNDEzMElXekRBdUlCOTFvRGt0S1NfZG4zZGhGY1VlemRHNy1BZFpGbGpoaVl4SVFrWmhabjlIVG42TTMycnFDcUJE?oc=5",
-        "published": "26 Mar 2026, 03:03 PM",
-        "iso_date": "2026-03-26T15:03:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZnc5bmhHWW9wQmFHaWZMOGhvS3R4MGcyUnZMb2dUS0xDQlV1RURnYUNGS3N5YXd5a1N2WFk5YVFlMjF4bmlvNWQ5eTdpeVB4eVNWVy1yc2J6MVJyMXA0RVRB?oc=5",
+        "published": "26 Mar 2026, 02:56 PM",
+        "iso_date": "2026-03-26T14:56:24+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -76,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2lJSzEwZndBYXpjMEp3bXRTekg5d3ZxTUJPNFN1NWs5dk1oVzRkNlJYYUk3Y1hVN2pncW1XUGhNY3pIMDU0a2J2RE1pZWw5VGRLaWZVX0g4OEdJS0tjZ3o5OEs3TW8xbmRyOXNxeVVHZTdyVGo1Vmw3Rll2dnYtaGJ0V25GZEU5VU4zXzBJemgxMXQ4QldBMTdkb3ZIYVJLWVdYcEN3YnY3RjlDZmc?oc=5",
         "published": "26 Mar 2026, 11:28 AM",
         "iso_date": "2026-03-26T11:28:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini air defence systems intercept fresh wave of Iranian ballistic missiles",
-        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNYXVTNEtXTVh0RV9obE5TaU5xcGtMaE42dTBFLVlCMlYxODVjQjJTejFqLWR5dVo5czE5TVpEcDQ5SUZYWUwtS1RsaE9HRS1hSnI3Rkl6MXI4RnhFRGNRWkdIaloycEFSNzVWZE1zeHJGeV9iN01FTnpweXU2NTFXYmxpdmZTRzFOU1RUVkFwMW5EN0xHQ3VLQWhQdFJCWFJDMXY3VlQ2OTFESmhBWFowR1diMXFEZWNkai1fT09lcnRMb251VWFxbnFPaFhhVDRSWGhzUlI4YVBRdXFJSXVUV0NIRTBLNG9JTUd4SVZFR3h0ellOQnN0WmNqQlhiS0FhMUs2cEY1MUg5TFh6akdBVXNscnFVd3JGOHotWnc0N2FzYUh0SFJINTUzSEZrSURTN3ZIbUk2TWZDbGpOem1vckhFRkE1dVM0RU1IaTUtajJrc1NWYWY5UlN5WnVxUQ?oc=5",
-        "published": "25 Mar 2026, 11:42 PM",
-        "iso_date": "2026-03-25T23:42:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -109,7 +89,7 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326135918bpp_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326135918bpp_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,7 +99,7 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326203130websitesize_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326203130websitesize_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +109,7 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326123132bdf1_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326123132bdf1_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +119,7 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325224602gdn-websitesize-2026-03-25t225408.813_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325224602gdn-websitesize-2026-03-25t225408.813_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +129,47 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326082230_ÙØ²Ø§Ø±Ø©Ø§ÙØ¯Ø§Ø®ÙÙØ©-Ø¬Ø±Ø§Ø¡Ø§ÙØ¹Ø¯ÙØ§ÙØ§ÙØ¥ÙØ±Ø§ÙÙØ§ÙØ³Ø§ÙØ±â¦.Ø§ÙØ¯ÙØ§Ø¹Ø§ÙÙØ¯ÙÙÙØ³ÙØ·Ø±Ø¹ÙÙØ­Ø±ÙÙØ¨Ø¥Ø­Ø¯ÙØ§ÙÙÙØ´Ø¢ØªØ¨ÙØ­Ø§_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326082230_ÙØ²Ø§Ø±Ø©Ø§ÙØ¯Ø§Ø®ÙÙØ©-Ø¬Ø±Ø§Ø¡Ø§ÙØ¹Ø¯ÙØ§ÙØ§ÙØ¥ÙØ±Ø§ÙÙØ§ÙØ³Ø§ÙØ±â¦.Ø§ÙØ¯ÙØ§Ø¹Ø§ÙÙØ¯ÙÙÙØ³ÙØ·Ø±Ø¹ÙÙØ­Ø±ÙÙØ¨Ø¥Ø­Ø¯ÙØ§ÙÙÙØ´Ø¢ØªØ¨ÙØ­Ø§_T.jpg?20260327",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bank ABCâs AGM approves $85.1m dividend",
+        "link": "https://www.gdnonline.com/Details/1379641/Bank-ABCâs-AGM-approves-$851m-dividend",
+        "published": "27 Mar 2026",
+        "iso_date": "2026-03-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/202603262332562_T.jpg?20260327",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Basrec annual general meeting discusses strategic outlook",
+        "link": "https://www.gdnonline.com/Details/1379636/Basrec-annual-general-meeting-discusses-strategic-outlook",
+        "published": "27 Mar 2026",
+        "iso_date": "2026-03-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/202603262330345_T.jpg?20260327",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Comprehensive plan âto ensure exemplary Chamber electionsâ",
+        "link": "https://www.gdnonline.com/Details/1379638/Comprehensive-plan-âto-ensure-exemplary-Chamber-electionsâ",
+        "published": "27 Mar 2026",
+        "iso_date": "2026-03-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260326_230913_1_T.jpg?20260327",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "NBB announces transition to full operating capacity from Sunday",
+        "link": "https://www.gdnonline.com/Details/1379635/NBB-announces-transition-to-full-operating-capacity-from-Sunday",
+        "published": "27 Mar 2026",
+        "iso_date": "2026-03-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260326_230912_0_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,47 +179,7 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223038_2_T.jpg?20260326",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "GFH general assembly approves 10.11 per cent cash dividend",
-        "link": "https://www.gdnonline.com/Details/1379564/GFH-general-assembly-approves-1011-per-cent-cash-dividend",
-        "published": "26 Mar 2026",
-        "iso_date": "2026-03-26T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223057_0_T.jpg?20260326",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "All Share Index closes lower",
-        "link": "https://www.gdnonline.com/Details/1379563/All-Share-Index-closes-lower",
-        "published": "26 Mar 2026",
-        "iso_date": "2026-03-26T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325230227gz_ncriw4aa07cm(1)_T.jpg?20260326",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB reopens branch network",
-        "link": "https://www.gdnonline.com/Details/1379464/NBB-reopens-branch-network",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212601_0_T.jpg?20260326",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BBK resumes full operations across Bahrain",
-        "link": "https://www.gdnonline.com/Details/1379463/BBK-resumes-full-operations-across-Bahrain",
-        "published": "25 Mar 2026",
-        "iso_date": "2026-03-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260324_212600_2_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223038_2_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -209,7 +189,7 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326014736footy_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326014736footy_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -219,7 +199,7 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326014803coleman_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326014803coleman_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -229,7 +209,7 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326_010234_0_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326_010234_0_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -239,7 +219,7 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326014502enegal_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326014502enegal_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -249,7 +229,7 @@
         "published": "25 Mar 2026",
         "iso_date": "2026-03-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_003703_0_T.jpg?20260326",
+        "image": "https://www.gdnonline.com/gdnimages/20260325/20260325_003703_0_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       }
@@ -509,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 21:35:29 UTC"
+  "fetched_at": "2026-03-26 22:26:00 UTC"
 }
