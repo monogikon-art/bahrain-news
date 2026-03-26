@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlNMVW45RnVraVF1Z2l0NnZsRzIxNTUxM2xnSUhHUXVQcWFfMHYwZGlhdmtObklqdHg2M2xmd0NXZWt6S21KZ0ZWUTJyZmVOVVdpV2tZUXRHRkVaRVVxdHVGdEpmT0I5ZXNydXdZTVdYajJLTGYyc3J5TXNoTkotRThLbHVnZmltaFhFdzktV2c1SFhpZVFUX0Q4VU5aZ2tvYWZ2QTVoM0gtWTF1aVV2bWxFeUFoTUFGMTc5N9IB1wFBVV95cUxQQXpSZzZuaGhBQVJpQ2xEbEdHVkpnZWp0cGtTRzZlc0FoOHROVmlFSlo3R1J3WkJXbXpReDlfemE3bTJWdGN6amhEV2hXSXV6b19wLVBWZ205am5BS0JMT29lNzRBUHNpSWNpMEVVTThGeFZKSWNpaUVrdV9nbVFoQmRpZW4wZ2VnLW1VWDZfWXUySDlsVDBtY2xRN1RlWjV5SXZvdk9ZNGI2UzFZSmJZMWVIMXZncE01NWthS3d1MHl6MzRKd2hDSGREdzJOd2N5dDZacTZRcw?oc=5",
         "published": "26 Mar 2026, 10:30 AM",
         "iso_date": "2026-03-26T10:30:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini air defence systems intercept fresh wave of Iranian ballistic missiles",
-        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNYXVTNEtXTVh0RV9obE5TaU5xcGtMaE42dTBFLVlCMlYxODVjQjJTejFqLWR5dVo5czE5TVpEcDQ5SUZYWUwtS1RsaE9HRS1hSnI3Rkl6MXI4RnhFRGNRWkdIaloycEFSNzVWZE1zeHJGeV9iN01FTnpweXU2NTFXYmxpdmZTRzFOU1RUVkFwMW5EN0xHQ3VLQWhQdFJCWFJDMXY3VlQ2OTFESmhBWFowR1diMXFEZWNkai1fT09lcnRMb251VWFxbnFPaFhhVDRSWGhzUlI4YVBRdXFJSXVUV0NIRTBLNG9JTUd4SVZFR3h0ellOQnN0WmNqQlhiS0FhMUs2cEY1MUg5TFh6akdBVXNscnFVd3JGOHotWnc0N2FzYUh0SFJINTUzSEZrSURTN3ZIbUk2TWZDbGpOem1vckhFRkE1dVM0RU1IaTUtajJrc1NWYWY5UlN5WnVxUQ?oc=5",
-        "published": "25 Mar 2026, 11:42 PM",
-        "iso_date": "2026-03-25T23:42:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-26 19:01:20 UTC"
+  "fetched_at": "2026-03-26 20:01:10 UTC"
 }
