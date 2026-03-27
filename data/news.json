@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 19
+      "count": 14
     }
   },
   "articles": {
@@ -94,6 +94,16 @@
     ],
     "gdn": [
       {
+        "title": "Gulf Air extends temporary operations from Dammam until April 30",
+        "link": "https://www.gdnonline.com/Details/1379679/Gulf-Air-extends-temporary-operations-from-Dammam-until-April-30",
+        "published": "27 Mar 2026",
+        "iso_date": "2026-03-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327114103gf_T.jpg?20260327",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "PROVOCATEURS POUNCED UPON: 14 to face trial over links to Iranian aggression",
         "link": "https://www.gdnonline.com/Details/1379646/PROVOCATEURS-POUNCED-UPON-14-to-face-trial-over-links-to-Iranian-aggression",
         "published": "27 Mar 2026",
@@ -130,16 +140,6 @@
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_011915_0.jpeg?20260327",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Blaze put out",
-        "link": "https://www.gdnonline.com/Details/1379653/Blaze-put-out",
-        "published": "27 Mar 2026",
-        "iso_date": "2026-03-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327011042civildefence.jpeg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -246,142 +246,92 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Victorious ready for key test at E3 Saxo Classic",
-        "link": "https://www.newsofbahrain.com/sports/129300.html",
+        "title": "Shura Committee Recommends Rejecting Pension Amendment Bill",
+        "link": "https://www.newsofbahrain.com/bahrain/129309.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TrV6eGg2JW_2026-03-27_1774600986resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oF2O3H0Vza_2026-03-27_1774604346resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Norris talks up McLaren chances after double China disaster",
-        "link": "https://www.newsofbahrain.com/sports/129299.html",
+        "title": "Suspect Detained for 7 Days Over Mobile Phone Installment Fraud Case",
+        "link": "https://www.newsofbahrain.com/bahrain/129308.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HerKNTuhc0_2026-03-27_1774600856resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cW2oVSqp9m_2026-03-27_1774603998resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Mercedes teen ace Antonelli wants more of the same after maiden win",
-        "link": "https://www.newsofbahrain.com/sports/129298.html",
+        "title": "Non-Bahraini Patients Made 91,503 Hospital Visits in 2025",
+        "link": "https://www.newsofbahrain.com/bahrain/129307.html",
         "published": "27 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-27T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qm8Axtn6rH_2026-03-27_1774600725resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c27O8SPYrQ_2026-03-27_1774603252resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Muharraq Dominate Rivals Al Ahli in Semifinal Opener",
-        "link": "https://www.newsofbahrain.com/sports/129297.html",
+        "title": "Solar Solutions Fly Off Shelves",
+        "link": "https://www.newsofbahrain.com/bahrain/129306.html",
         "published": "27 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-27T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kJdZfRYaK4_2026-03-27_1774600558resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hwkeJ7LuO2_2026-03-27_1774602853resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Al Najma stun Manama with last-gasp winner",
-        "link": "https://www.newsofbahrain.com/sports/129296.html",
+        "title": "They Were Not Just Listening",
+        "link": "https://www.newsofbahrain.com/bahrain/129305.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OLqTFN51Aa_2026-03-27_1774600288resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HbEv6Yica7_2026-03-27_1774602635resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Silent heroes on the road",
-        "link": "https://www.newsofbahrain.com/bahrain/129286.html",
+        "title": "Sri Lanka Jails Man for Hoarding 4 Litres of Fuel Amid Crisis",
+        "link": "https://www.newsofbahrain.com/world/129304.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5o6Ths4Dgt_2026-03-27_1774598481thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nMlE7yBhdY_2026-03-27_1774602451thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Shura set to debate bill on rejection of marriage grant increase",
-        "link": "https://www.newsofbahrain.com/bahrain/129285.html",
+        "title": "Pakistan says ‘US-Iran indirect talks taking place’",
+        "link": "https://www.newsofbahrain.com/world/129303.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lCrJcSK3aQ_2026-03-27_1774598364thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FgNyeAP5rT_2026-03-27_1774601992thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Royal care for injured during critical times",
-        "link": "https://www.newsofbahrain.com/bahrain/129284.html",
+        "title": "Russian oil arrives as Philippines battles ‘energy emergency’",
+        "link": "https://www.newsofbahrain.com/world/129302.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3LtCSRjEgu_2026-03-27_1774598218thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rARFqU4vWM_2026-03-27_1774601872thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Focus on civilian protection",
-        "link": "https://www.newsofbahrain.com/bahrain/129283.html",
+        "title": "North Korea, Belarus sign ‘friendship’ treaty during Lukashenko visit",
+        "link": "https://www.newsofbahrain.com/world/129301.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lAMBd2XkuD_2026-03-27_1774597762thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Four working days ‘would widen public and private hours gap’",
-        "link": "https://www.newsofbahrain.com/bahrain/129282.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NWqLUYAd5O_2026-03-27_1774597532thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Austria’s Headscarf Ban Fuels Debate Over Rights and Identity",
-        "link": "https://www.newsofbahrain.com/world/129291.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lu0mBL9VNW_2026-03-27_1774599231thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN Security Council to hold closed-door meeting on Iran",
-        "link": "https://www.newsofbahrain.com/world/129290.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RUr136Bkmt_2026-03-27_1774599226thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zelenskyy meets Saudi Crown Prince as he pitches anti-drone expertise and technology",
-        "link": "https://www.newsofbahrain.com/world/129280.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hW39LcHsbw_2026-03-27_1774596975thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Signature to Appear on US Banknotes in Historic First",
-        "link": "https://www.newsofbahrain.com/world/129279.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XReioAgZBd_2026-03-27_1774597036thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qGed6zOYFL_2026-03-27_1774601661thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 08:47:10 UTC"
+  "fetched_at": "2026-03-27 09:52:01 UTC"
 }
