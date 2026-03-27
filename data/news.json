@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1lfSHk5eFZrakFiWU9fUkkxeU9MM25XU240ellNeV9uaTltaC1XRTB5UzZHMkEwQnc4M2FiaUl0cEcxNVhBQXNJLXN3cjZJUFFOaVAyb1NIZTlPY1B4N1lURmtDSUpPbExJamN4Sjhwa2dsRllNUlprR0w0SnNEWC1kUFVIZVlaQjBrdDhYMy1MNWttekp2b25zblJHVVc2aGlnVWVfVkZuVENiWnM5Q3JXMk04MTMxUEhQSTRkbmNPMVdhSzg4Tk9TcVFOLVZycWpiNERnYkt4bE0tal9VbThyQlLSAeQBQVVfeXFMTk9ZX0h5OXhWa2pBYllPX1JJMXlPTDNuV1NuNHpZTXlfbmk5bWgtV0UweVM2RzJBMEJ3ODNhYmlJdHBHMTVYQUFzSS1zd3I2SVBRTmlQMm9TSGU5T2NQeDdZVEZrQ0lKT2xMSWpjeEo4cGtnbEZZTVJaa0dMNEpzRFgtZFBVSGVZWkIwa3Q4WDMtTDVrbXpKdm9uc25SR1VXNmhpZ1VlX1ZGblRDYlpzOUNyVzJNODEzMVBIUEk0ZG5jTzFXYUs4OE5PU3FRTi1WcnFqYjREZ2JLeGxNLWpfVW04ckJS?oc=5",
         "published": "26 Mar 2026, 07:32 PM",
         "iso_date": "2026-03-26T19:32:34+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Intercepts, Destroys 154 Missiles, 362 Drones Since Onset Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdV9Qai12ZkdqTzI5LWZUWWJhMDUyaWlPdE9qMjY1UHM0LVRIYVNOaE92NkotOEpYMWp0ZEVYMWM5Y0Ztb0p3XzEwWlg0WXZFcV9rNXZTMThKSmsxcHI1b2pqSXlLVUpxZHRNQS1SZThlUkU2SmhMSkEwRWt1RG4xWDhEam8xT1BVVFpFMi01TEFBUW1kWTFuNHJraWR2Zw?oc=5",
+        "published": "27 Mar 2026, 09:30 AM",
+        "iso_date": "2026-03-27T09:30:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -209,7 +219,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022516fone_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_021836_0_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       }
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 15:25:24 UTC"
+  "fetched_at": "2026-03-27 16:12:57 UTC"
 }
