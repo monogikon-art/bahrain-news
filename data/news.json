@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain Destroys 74 Missiles, 92 Iranian Drones Since Saturday",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40UEU5dllZMnNYenEzS3RubTZQNGdLclRuRHMzcG1MdU1JTjk3dU0yZ2wyQk9ON0hISDJtY0xNeWNOUngzdlpVTkdRblhWVWprRFEwQg?oc=5",
+        "published": "27 Mar 2026, 05:15 AM",
+        "iso_date": "2026-03-27T05:15:35+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain's Public Prosecution refers 14 defendants to Criminal Court for spying for Iran's IRGC",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ0lUbko2a3ZuX2l0SThHYll0ZGhQUGZSMXlUNnpHN05DV2o1Qlc3ZGhBUGtBcks1LWZkMHlmTVJMLTk2LXJHampmMmZnMm9TUDd0TEptNGd3bWdnRDJGbkRJVE0waDlxbnVjUk5ycXBuLUlvLVNwU0Q5RFF5Rk5xaTR3ZllId2ZrNkNLZ3dYOFRtSy1PeFV6TDlTaHpKamdQa001SG4wTGF3bHQ1VDFNcHFYMFZEdTlNUUJHYmpydklIYTJCUkhXdVZJLThCOW5FTUtQaWN1X3Nudmto?oc=5",
         "published": "27 Mar 2026, 05:31 AM",
@@ -69,7 +79,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327225452gdn-websitesize-2026-03-27t230231.067_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327225452gdn-websitesize-2026-03-27t230231.067_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -79,7 +89,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327002921bone_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327002921bone_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -89,7 +99,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327005603gavel1_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327005603gavel1_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +109,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327002523dralbinmohammed_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327002523dralbinmohammed_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +119,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327051729a_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327051729a_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,7 +129,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/202603262332562_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/202603262332562_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +139,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260326_230912_0_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260326_230912_0_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +149,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/202603262330345_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/202603262330345_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +159,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260326_230913_1_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260326_230913_1_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +169,7 @@
         "published": "26 Mar 2026",
         "iso_date": "2026-03-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223038_2_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260326/20260325_223038_2_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +179,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_144303_0_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_144303_0_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +189,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327023126italyfb_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327023126italyfb_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +199,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_021838_0_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_021838_0_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +209,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022800afc_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022800afc_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -209,17 +219,37 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022516fone_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022516fone_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
+        "title": "Trump Says Iran Talks Underway, Hormuz Access Key to Potential Deal",
+        "link": "https://www.newsofbahrain.com/world/129334.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gqRkuy32YT_2026-03-27_1774650221resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tiger Woods Arrested After Rollover Crash in Florida",
+        "link": "https://www.newsofbahrain.com/world/129333.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1flRHFgMtp_2026-03-27_1774648472resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "IAEA Monitoring Strike on Ardakan Nuclear Site",
         "link": "https://www.newsofbahrain.com/world/129332.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
+        "published": "27 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_olZ1au0v8A_2026-03-27_1774641718resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +258,8 @@
       {
         "title": "MOI Clarifies Misinformation as Probe Begins into Detainee’s Death",
         "link": "https://www.newsofbahrain.com/bahrain/129331.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
+        "published": "27 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WSX7V8pOYD_2026-03-27_1774638024resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,30 +268,10 @@
       {
         "title": "Gulf Air Extends Dammam Operations Until April 2026",
         "link": "https://www.newsofbahrain.com/bahrain/129329.html",
-        "published": "27 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GIWdlFXcvE_2026-03-27_1774621819resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Egypt raises train and metro tickets starting Friday",
-        "link": "https://www.newsofbahrain.com/world/129328.html",
-        "published": "27 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Xdish2PFoN_2026-03-27_1774618625resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar PM Holds High-Level Talks in Washington to Strengthen Strategic and Energy Cooperation",
-        "link": "https://www.newsofbahrain.com/world/129327.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9BZLmuJsch_2026-03-27_1774618569resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GIWdlFXcvE_2026-03-27_1774621819resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,12 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Epstein survivors sue US govt over revealed identities",
-        "link": "https://www.newsofbahrain.com/world/129322.html",
+        "title": "Egypt raises train and metro tickets starting Friday",
+        "link": "https://www.newsofbahrain.com/world/129328.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gu0ldgEoOC_2026-03-27_1774616243thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Xdish2PFoN_2026-03-27_1774618625thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 21:31:19 UTC"
+  "fetched_at": "2026-03-27 22:28:29 UTC"
 }
