@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,30 +32,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Destroys 74 Missiles, 92 Iranian Drones Since Saturday",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40UEU5dllZMnNYenEzS3RubTZQNGdLclRuRHMzcG1MdU1JTjk3dU0yZ2wyQk9ON0hISDJtY0xNeWNOUngzdlpVTkdRblhWVWprRFEwQg?oc=5",
-        "published": "27 Mar 2026, 05:15 AM",
-        "iso_date": "2026-03-27T05:15:35+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts, destroys 154 missiles, 350 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUFBRUpNY2JqMjFpVHhFcDUydG82LUJBRlBHa2V2eEg1QkZFelVCTmNIamsxXzVsQjQ5NVllLTB5RGM3WXpuVWthdWZvUGk0UlhkZzlOZXB2TnRMeGhFa1VTZTdkY2hlbG1ELVVvbXNkRzQwY3JzcXZ1SkZCMFNHWWxLT254eHZ6NE5UNDR3MVFuZDlLYWxLY0xHNFcxbVR6OFlnYmdPMncweFZSTTI0d2ExeUFjNHp3ZnZuUEltaERGMV9scjBhMVJXSQ?oc=5",
-        "published": "26 Mar 2026, 11:32 AM",
-        "iso_date": "2026-03-26T11:32:09+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "IRGC-linked cells targeting Bahrain referred to Criminal Court",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVFKc3BmSDVZV0xqYWs1cXp1T1IxNDM3NW1vVjRNQjRra3pSbEQ5RUg4TTF4dV81eDFGekZ2ZWMzVDEyUGxScVBydmZEazd4eTEydE9meHJQV19HR3Vmc2RnR2MxRjh4S2N4UHM3M3RlcENjcVpXUVZGNXdwcXl5aE02X21vQ0ptSzRWZ2JxcGpoRjVYSFZmd0JUZmNCTUdyV01sTGNhTlJwNk02NTdzWQ?oc=5",
-        "published": "26 Mar 2026, 08:23 PM",
-        "iso_date": "2026-03-26T20:23:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkxBQmlvTDFDZFQ5WF9RVFdYdXdKbVJHNnY5U2dZTmZFSGdVTFN4N2w1VFNOdjZDd0V0Vkhqb252cG9fTE9BUHlraU9ud09TamgxWEFwY1ptSjc1M1ZRVlFQMXZxVXZ1X3hmS3lLZWVwUjNiZ3d1dUV3b0d5MWE2blpINmdoUEZzRjNjLVdXaDRDbEJPNENNel9JMjIzRy1xVUdPSGk1c0VaLTNOdE5zeQ?oc=5",
+        "published": "27 Mar 2026, 07:01 AM",
+        "iso_date": "2026-03-27T07:01:54+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump, Bahrain king discuss security, regional tensions in phone call",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG1XblpYeEs4LWlhMWRPV0YwUW1PT2RpQTN1ZlNXeUZ4djBpX19vM1hhYmpkbVl6V1dXbXFzY3p6WXJDUEJFNDhzZEk4NGRWRGk0b1NtR1dpZTJyUUhWNVpiWUdjXzRoNTRKVkJWN3p5YkIzMWVSTkVVWDEzNnRVdnpPLW1wWHFkS2Z4c0pXcUtYYnRWRzhGaWNiY0RHdnppaVJ6NzVFdFAwTGlfMlMxVDltN0tLYWtR?oc=5",
+        "published": "26 Mar 2026, 08:00 PM",
+        "iso_date": "2026-03-26T20:00:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -66,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1lfSHk5eFZrakFiWU9fUkkxeU9MM25XU240ellNeV9uaTltaC1XRTB5UzZHMkEwQnc4M2FiaUl0cEcxNVhBQXNJLXN3cjZJUFFOaVAyb1NIZTlPY1B4N1lURmtDSUpPbExJamN4Sjhwa2dsRllNUlprR0w0SnNEWC1kUFVIZVlaQjBrdDhYMy1MNWttekp2b25zblJHVVc2aGlnVWVfVkZuVENiWnM5Q3JXMk04MTMxUEhQSTRkbmNPMVdhSzg4Tk9TcVFOLVZycWpiNERnYkt4bE0tal9VbThyQlLSAeQBQVVfeXFMTk9ZX0h5OXhWa2pBYllPX1JJMXlPTDNuV1NuNHpZTXlfbmk5bWgtV0UweVM2RzJBMEJ3ODNhYmlJdHBHMTVYQUFzSS1zd3I2SVBRTmlQMm9TSGU5T2NQeDdZVEZrQ0lKT2xMSWpjeEo4cGtnbEZZTVJaa0dMNEpzRFgtZFBVSGVZWkIwa3Q4WDMtTDVrbXpKdm9uc25SR1VXNmhpZ1VlX1ZGblRDYlpzOUNyVzJNODEzMVBIUEk0ZG5jTzFXYUs4OE5PU3FRTi1WcnFqYjREZ2JLeGxNLWpfVW04ckJS?oc=5",
         "published": "26 Mar 2026, 07:32 PM",
         "iso_date": "2026-03-26T19:32:34+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts 154 missiles, 350 drones since start of Iran attacks",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2lJSzEwZndBYXpjMEp3bXRTekg5d3ZxTUJPNFN1NWs5dk1oVzRkNlJYYUk3Y1hVN2pncW1XUGhNY3pIMDU0a2J2RE1pZWw5VGRLaWZVX0g4OEdJS0tjZ3o5OEs3TW8xbmRyOXNxeVVHZTdyVGo1Vmw3Rll2dnYtaGJ0V25GZEU5VU4zXzBJemgxMXQ4QldBMTdkb3ZIYVJLWVdYcEN3YnY3RjlDZmc?oc=5",
-        "published": "26 Mar 2026, 11:28 AM",
-        "iso_date": "2026-03-26T11:28:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,10 +226,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Rapper Balendra Shah Sworn In as Nepal’s Youngest Prime Minister After Landslide Election Victory",
-        "link": "https://www.newsofbahrain.com/world/129312.html",
+        "title": "India slashes fuel taxes due to Mideast war shortages: Finance minister",
+        "link": "https://www.newsofbahrain.com/world/129314.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lsoLwV7WZ2_2026-03-27_1774610491resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Japan to boost coal-fired power as Mideast war causes energy turmoil",
+        "link": "https://www.newsofbahrain.com/world/129313.html",
+        "published": "27 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xQuN1zn46F_2026-03-27_1774609055resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rapper Balendra Shah Sworn In as Nepal’s Youngest Prime Minister After Landslide Election Victory",
+        "link": "https://www.newsofbahrain.com/world/129312.html",
+        "published": "27 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_wPBfSkZTYu_2026-03-27_1774606186resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +258,8 @@
       {
         "title": "Cyclone Shuts Major Australian LNG Plants, Tightening Global Supply",
         "link": "https://www.newsofbahrain.com/world/129311.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
+        "published": "27 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_qwnZc9xPVj_2026-03-27_1774605463resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +268,8 @@
       {
         "title": "Bahrain Intercepts 154 Missiles, 362 Drones in Ongoing Attacks",
         "link": "https://www.newsofbahrain.com/bahrain/129310.html",
-        "published": "27 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-27T09:00:43+00:00",
+        "published": "27 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_D5MtQN8fJS_2026-03-27_1774604937resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,10 +278,10 @@
       {
         "title": "Shura Committee Recommends Rejecting Pension Amendment Bill",
         "link": "https://www.newsofbahrain.com/bahrain/129309.html",
-        "published": "27 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-27T09:00:43+00:00",
+        "published": "27 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oF2O3H0Vza_2026-03-27_1774604346resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oF2O3H0Vza_2026-03-27_1774604346thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -291,7 +291,7 @@
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cW2oVSqp9m_2026-03-27_1774603998resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cW2oVSqp9m_2026-03-27_1774603998thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,26 +312,6 @@
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hwkeJ7LuO2_2026-03-27_1774602853thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sri Lanka Jails Man for Hoarding 4 Litres of Fuel Amid Crisis",
-        "link": "https://www.newsofbahrain.com/world/129304.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nMlE7yBhdY_2026-03-27_1774602451thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pakistan says ‘US-Iran indirect talks taking place’",
-        "link": "https://www.newsofbahrain.com/world/129303.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FgNyeAP5rT_2026-03-27_1774601992thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 10:43:50 UTC"
+  "fetched_at": "2026-03-27 11:39:29 UTC"
 }
