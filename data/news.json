@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,21 +16,11 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
     "bna": [
-      {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
-        "published": "27 Mar 2026, 02:24 PM",
-        "iso_date": "2026-03-27T14:24:39+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "IRGC-linked cells targeting Bahrain referred to Criminal Court",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkxBQmlvTDFDZFQ5WF9RVFdYdXdKbVJHNnY5U2dZTmZFSGdVTFN4N2w1VFNOdjZDd0V0Vkhqb252cG9fTE9BUHlraU9ud09TamgxWEFwY1ptSjc1M1ZRVlFQMXZxVXZ1X3hmS3lLZWVwUjNiZ3d1dUV3b0d5MWE2blpINmdoUEZzRjNjLVdXaDRDbEJPNENNel9JMjIzRy1xVUdPSGk1c0VaLTNOdE5zeQ?oc=5",
@@ -99,7 +89,7 @@
         "published": "28 Mar 2026",
         "iso_date": "2026-03-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260328/20260327_231511_0.jpeg?20260328",
+        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328014157shop_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +99,7 @@
         "published": "28 Mar 2026",
         "iso_date": "2026-03-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260328/20260327_231510_0_T.jpg?20260328",
+        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328014440parliament_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -130,6 +120,16 @@
         "iso_date": "2026-03-28T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260328/20260327_231526_0_T.jpg?20260328",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Business leaders head to polls today",
+        "link": "https://www.gdnonline.com/Details/1379740/Business-leaders-head-to-polls-today",
+        "published": "28 Mar 2026",
+        "iso_date": "2026-03-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328020708bahrainchamber_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -164,12 +164,22 @@
         "category": "Latest"
       },
       {
-        "title": "Comprehensive plan âto ensure exemplary Chamber electionsâ",
-        "link": "https://www.gdnonline.com/Details/1379638/Comprehensive-plan-âto-ensure-exemplary-Chamber-electionsâ",
-        "published": "27 Mar 2026",
-        "iso_date": "2026-03-27T00:00:00",
+        "title": "Egypt cruise past Saudi",
+        "link": "https://www.gdnonline.com/Details/1379745/Egypt-cruise-past-Saudi",
+        "published": "28 Mar 2026",
+        "iso_date": "2026-03-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260326_230913_1_T.jpg?20260328",
+        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328_022337_0_T.jpg?20260328",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Recovery day held for football team",
+        "link": "https://www.gdnonline.com/Details/1379744/Recovery-day-held-for-football-team",
+        "published": "28 Mar 2026",
+        "iso_date": "2026-03-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328022931football_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -202,29 +212,19 @@
         "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_021838_0_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Asian Cup 2027 draw in Saudi postponed",
-        "link": "https://www.gdnonline.com/Details/1379676/Asian-Cup-2027-draw-in-Saudi-postponed",
-        "published": "27 Mar 2026",
-        "iso_date": "2026-03-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022800afc_T.jpg?20260328",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Footballers continue practice",
-        "link": "https://www.gdnonline.com/Details/1379675/Footballers-continue-practice",
-        "published": "27 Mar 2026",
-        "iso_date": "2026-03-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022516fone_T.jpg?20260328",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
+      {
+        "title": "Trump: Over 3,500 Iranian Military Targets Still Remaining in Iran",
+        "link": "https://www.newsofbahrain.com/world/129338.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ksw8TNGSj9_2026-03-27_1774652982resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Trump Claims U.S. Near Completion of Military Targets in Iran",
         "link": "https://www.newsofbahrain.com/world/129337.html",
@@ -238,8 +238,8 @@
       {
         "title": "Trump Says Iran Talks Underway, Hormuz Access Key to Potential Deal",
         "link": "https://www.newsofbahrain.com/world/129334.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_gqRkuy32YT_2026-03-27_1774650221resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +258,8 @@
       {
         "title": "IAEA Monitoring Strike on Ardakan Nuclear Site",
         "link": "https://www.newsofbahrain.com/world/129332.html",
-        "published": "27 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-27T09:00:43+00:00",
+        "published": "27 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_olZ1au0v8A_2026-03-27_1774641718resized_pic.jpg",
         "source": "newsofbahrain",
@@ -271,7 +271,7 @@
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WSX7V8pOYD_2026-03-27_1774638024resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WSX7V8pOYD_2026-03-27_1774638024thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 23:01:47 UTC"
+  "fetched_at": "2026-03-27 23:52:15 UTC"
 }
