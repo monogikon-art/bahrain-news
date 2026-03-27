@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
+        "published": "27 Mar 2026, 02:24 PM",
+        "iso_date": "2026-03-27T14:24:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "IRGC-linked cells targeting Bahrain referred to Criminal Court",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkxBQmlvTDFDZFQ5WF9RVFdYdXdKbVJHNnY5U2dZTmZFSGdVTFN4N2w1VFNOdjZDd0V0Vkhqb252cG9fTE9BUHlraU9ud09TamgxWEFwY1ptSjc1M1ZRVlFQMXZxVXZ1X3hmS3lLZWVwUjNiZ3d1dUV3b0d5MWE2blpINmdoUEZzRjNjLVdXaDRDbEJPNENNel9JMjIzRy1xVUdPSGk1c0VaLTNOdE5zeQ?oc=5",
         "published": "27 Mar 2026, 07:01 AM",
@@ -32,20 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain's Public Prosecution refers 14 defendants to Criminal Court for spying for Iran's IRGC",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQekhWNEZtTTdOQ192QXJzcHhaTUx5eXRBaHlTTGZ6ajktbm9ZTXYzbFhkNDlOMVlfUXlFeWs3aGlqWEV5NEcyZXltUlE1UVYtQktlOThqYktzMmRZbUx4dFgwOG9rREFqT29yWUl5UHhlbzUzVlhIWkZ1UDBuSkdMUGo5SzBEZkNtbXJ6d21VazVDUXVmcFo2YkZLU1BnekZqM2ZyTDQ1cktOSlMwY291am9Bdl9UbVFrZ1RHV0Z5eVF1RkxVUm1OT1NrY20wT3QycHfSAeQBQVVfeXFMTk9ZX0h5OXhWa2pBYllPX1JJMXlPTDNuV1NuNHpZTXlfbmk5bWgtV0UweVM2RzJBMEJ3ODNhYmlJdHBHMTVYQUFzSS1zd3I2SVBRTmlQMm9TSGU5T2NQeDdZVEZrQ0lKT2xMSWpjeEo4cGtnbEZZTVJaa0dMNEpzRFgtZFBVSGVZWkIwa3Q4WDMtTDVrbXpKdm9uc25SR1VXNmhpZ1VlX1ZGblRDYlpzOUNyVzJNODEzMVBIUEk0ZG5jTzFXYUs4OE5PU3FRTi1WcnFqYjREZ2JLeGxNLWpfVW04ckJS?oc=5",
-        "published": "26 Mar 2026, 07:32 PM",
-        "iso_date": "2026-03-26T19:32:34+00:00",
+        "title": "Trump, Bahrain king discuss security, regional tensions in phone call",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG1XblpYeEs4LWlhMWRPV0YwUW1PT2RpQTN1ZlNXeUZ4djBpX19vM1hhYmpkbVl6V1dXbXFzY3p6WXJDUEJFNDhzZEk4NGRWRGk0b1NtR1dpZTJyUUhWNVpiWUdjXzRoNTRKVkJWN3p5YkIzMWVSTkVVWDEzNnRVdnpPLW1wWHFkS2Z4c0pXcUtYYnRWRzhGaWNiY0RHdnppaVJ6NzVFdFAwTGlfMlMxVDltN0tLYWtR?oc=5",
+        "published": "26 Mar 2026, 08:00 PM",
+        "iso_date": "2026-03-26T20:00:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Trump, Bahrain king discuss security, regional tensions in phone call",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG1XblpYeEs4LWlhMWRPV0YwUW1PT2RpQTN1ZlNXeUZ4djBpX19vM1hhYmpkbVl6V1dXbXFzY3p6WXJDUEJFNDhzZEk4NGRWRGk0b1NtR1dpZTJyUUhWNVpiWUdjXzRoNTRKVkJWN3p5YkIzMWVSTkVVWDEzNnRVdnpPLW1wWHFkS2Z4c0pXcUtYYnRWRzhGaWNiY0RHdnppaVJ6NzVFdFAwTGlfMlMxVDltN0tLYWtR?oc=5",
-        "published": "26 Mar 2026, 08:00 PM",
-        "iso_date": "2026-03-26T20:00:48+00:00",
+        "title": "Bahrain's Public Prosecution refers 14 defendants to Criminal Court for spying for Iran's IRGC",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ0lUbko2a3ZuX2l0SThHYll0ZGhQUGZSMXlUNnpHN05DV2o1Qlc3ZGhBUGtBcks1LWZkMHlmTVJMLTk2LXJHampmMmZnMm9TUDd0TEptNGd3bWdnRDJGbkRJVE0waDlxbnVjUk5ycXBuLUlvLVNwU0Q5RFF5Rk5xaTR3ZllId2ZrNkNLZ3dYOFRtSy1PeFV6TDlTaHpKamdQa001SG4wTGF3bHQ1VDFNcHFYMFZEdTlNUUJHYmpydklIYTJCUkhXdVZJLThCOW5FTUtQaWN1X3Nudmto?oc=5",
+        "published": "27 Mar 2026, 05:31 AM",
+        "iso_date": "2026-03-27T05:31:29+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 19:23:04 UTC"
+  "fetched_at": "2026-03-27 19:57:47 UTC"
 }
