@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "Trump, Bahrain king discuss security, regional tensions in phone call",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG1XblpYeEs4LWlhMWRPV0YwUW1PT2RpQTN1ZlNXeUZ4djBpX19vM1hhYmpkbVl6V1dXbXFzY3p6WXJDUEJFNDhzZEk4NGRWRGk0b1NtR1dpZTJyUUhWNVpiWUdjXzRoNTRKVkJWN3p5YkIzMWVSTkVVWDEzNnRVdnpPLW1wWHFkS2Z4c0pXcUtYYnRWRzhGaWNiY0RHdnppaVJ6NzVFdFAwTGlfMlMxVDltN0tLYWtR?oc=5",
+        "published": "26 Mar 2026, 08:00 PM",
+        "iso_date": "2026-03-26T20:00:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain's Public Prosecution refers 14 defendants to Criminal Court for spying for Iran's IRGC",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1lfSHk5eFZrakFiWU9fUkkxeU9MM25XU240ellNeV9uaTltaC1XRTB5UzZHMkEwQnc4M2FiaUl0cEcxNVhBQXNJLXN3cjZJUFFOaVAyb1NIZTlPY1B4N1lURmtDSUpPbExJamN4Sjhwa2dsRllNUlprR0w0SnNEWC1kUFVIZVlaQjBrdDhYMy1MNWttekp2b25zblJHVVc2aGlnVWVfVkZuVENiWnM5Q3JXMk04MTMxUEhQSTRkbmNPMVdhSzg4Tk9TcVFOLVZycWpiNERnYkt4bE0tal9VbThyQlLSAeQBQVVfeXFMTk9ZX0h5OXhWa2pBYllPX1JJMXlPTDNuV1NuNHpZTXlfbmk5bWgtV0UweVM2RzJBMEJ3ODNhYmlJdHBHMTVYQUFzSS1zd3I2SVBRTmlQMm9TSGU5T2NQeDdZVEZrQ0lKT2xMSWpjeEo4cGtnbEZZTVJaa0dMNEpzRFgtZFBVSGVZWkIwa3Q4WDMtTDVrbXpKdm9uc25SR1VXNmhpZ1VlX1ZGblRDYlpzOUNyVzJNODEzMVBIUEk0ZG5jTzFXYUs4OE5PU3FRTi1WcnFqYjREZ2JLeGxNLWpfVW04ckJS?oc=5",
         "published": "26 Mar 2026, 07:32 PM",
@@ -53,9 +63,9 @@
       },
       {
         "title": "Bahrain Intercepts 154 Missiles, 350 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZnc5bmhHWW9wQmFHaWZMOGhvS3R4MGcyUnZMb2dUS0xDQlV1RURnYUNGS3N5YXd5a1N2WFk5YVFlMjF4bmlvNWQ5eTdpeVB4eVNWVy1yc2J6MVJyMXA0RVRB?oc=5",
-        "published": "26 Mar 2026, 02:56 PM",
-        "iso_date": "2026-03-26T14:56:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51bnZYZDBjbDIya1dIX1ppVlloNDEzMElXekRBdUlCOTFvRGt0S1NfZG4zZGhGY1VlemRHNy1BZFpGbGpoaVl4SVFrWmhabjlIVG42TTMycnFDcUJE?oc=5",
+        "published": "26 Mar 2026, 03:03 PM",
+        "iso_date": "2026-03-26T15:03:28+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -64,12 +74,12 @@
     ],
     "gdn": [
       {
-        "title": "Gulf Air extends temporary operations from Dammam until April 30",
-        "link": "https://www.gdnonline.com/Details/1379679/Gulf-Air-extends-temporary-operations-from-Dammam-until-April-30",
+        "title": "Feeder bus system planned to support metro project",
+        "link": "https://www.gdnonline.com/Details/1379644/Feeder-bus-system-planned-to-support-metro-project",
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327114103gf_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327002921bone_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -84,32 +94,32 @@
         "category": "Latest"
       },
       {
-        "title": "504 interceptions",
-        "link": "https://www.gdnonline.com/Details/1379645/504-interceptions",
+        "title": "Call for holistic review of four-day workweek plan",
+        "link": "https://www.gdnonline.com/Details/1379624/Call-for-holistic-review-of-four-day-workweek-plan",
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327004556csf.jpeg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327002523dralbinmohammed_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Committee reviews crisis plans",
-        "link": "https://www.gdnonline.com/Details/1379649/Committee-reviews-crisis-plans",
+        "title": "Impact on transport movement and supply chains discussed",
+        "link": "https://www.gdnonline.com/Details/1379650/Impact-on-transport-movement-and-supply-chains-discussed",
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327044731b_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327051729a_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Unstable weather conditions set to continue",
-        "link": "https://www.gdnonline.com/Details/1379661/Unstable-weather-conditions-set-to-continue",
+        "title": "Boy dies in house blaze tragedy",
+        "link": "https://www.gdnonline.com/Details/1379631/Boy-dies-in-house-blaze-tragedy",
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_011915_0.jpeg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327005413boypasses_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -209,17 +219,47 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022516fone_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_021836_0_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "Shop Closed Over Unjustified Price Hike in Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/129324.html",
+        "title": "Egypt raises train and metro tickets starting Friday",
+        "link": "https://www.newsofbahrain.com/world/129328.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Xdish2PFoN_2026-03-27_1774618625resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar PM Holds High-Level Talks in Washington to Strengthen Strategic and Energy Cooperation",
+        "link": "https://www.newsofbahrain.com/world/129327.html",
+        "published": "27 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9BZLmuJsch_2026-03-27_1774618569resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King meets BDF officers",
+        "link": "https://www.newsofbahrain.com/bahrain/129326.html",
+        "published": "27 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-27T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2rVnlSwRF1_2026-03-27_1774618098resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shop Closed Over Unjustified Price Hike in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/129324.html",
+        "published": "27 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_HUdSjmzbOu_2026-03-27_1774615656resized_pic.jpg",
         "source": "newsofbahrain",
@@ -232,36 +272,6 @@
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gu0ldgEoOC_2026-03-27_1774616243resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Venezuela Orders Week-Long Closure Amid Power Shortages and Heatwave",
-        "link": "https://www.newsofbahrain.com/world/129321.html",
-        "published": "27 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PR4NUVnZMa_2026-03-27_1774612965resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Mexico's navy says two boats ferrying aid to Cuba are missing",
-        "link": "https://www.newsofbahrain.com/world/129320.html",
-        "published": "27 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GC30W8Nts5_2026-03-27_1774612869resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "China Calls for Stronger Trade Cooperation with US",
-        "link": "https://www.newsofbahrain.com/world/129319.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Drljs5xQo6_2026-03-27_1774612816resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,12 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Non-Bahraini Patients Made 91,503 Hospital Visits in 2025",
-        "link": "https://www.newsofbahrain.com/bahrain/129307.html",
+        "title": "Venezuela Orders Week-Long Closure Amid Power Shortages and Heatwave",
+        "link": "https://www.newsofbahrain.com/world/129321.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c27O8SPYrQ_2026-03-27_1774603252thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PR4NUVnZMa_2026-03-27_1774612965thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 12:59:12 UTC"
+  "fetched_at": "2026-03-27 14:14:28 UTC"
 }
