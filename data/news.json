@@ -22,10 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahraini minister visits injured victims of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wRDVESHBKaG5SQzlod3EyaHQ0SE14Z3V6N1BUZVlBaU9pdEwtdTVfMDNtemZmWjZFZXdraTBVaUxSY2QyT21iZW1zODlLSlRaVldr?oc=5",
-        "published": "26 Mar 2026, 05:49 PM",
-        "iso_date": "2026-03-26T17:49:36+00:00",
+        "title": "Bahrain Destroys 74 Missiles, 92 Iranian Drones Since Saturday",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40UEU5dllZMnNYenEzS3RubTZQNGdLclRuRHMzcG1MdU1JTjk3dU0yZ2wyQk9ON0hISDJtY0xNeWNOUngzdlpVTkdRblhWVWprRFEwQg?oc=5",
+        "published": "27 Mar 2026, 05:15 AM",
+        "iso_date": "2026-03-27T05:15:35+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -219,7 +219,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022516fone_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_021836_0_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       }
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 17:25:41 UTC"
+  "fetched_at": "2026-03-27 18:10:29 UTC"
 }
