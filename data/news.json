@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
+        "published": "27 Mar 2026, 02:24 PM",
+        "iso_date": "2026-03-27T14:24:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "IRGC-linked cells targeting Bahrain referred to Criminal Court",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkxBQmlvTDFDZFQ5WF9RVFdYdXdKbVJHNnY5U2dZTmZFSGdVTFN4N2w1VFNOdjZDd0V0Vkhqb252cG9fTE9BUHlraU9ud09TamgxWEFwY1ptSjc1M1ZRVlFQMXZxVXZ1X3hmS3lLZWVwUjNiZ3d1dUV3b0d5MWE2blpINmdoUEZzRjNjLVdXaDRDbEJPNENNel9JMjIzRy1xVUdPSGk1c0VaLTNOdE5zeQ?oc=5",
@@ -53,6 +63,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Interior Ministry issues statement on death of detainee",
+        "link": "https://www.gdnonline.com/Details/1379700/Interior-Ministry-issues-statement-on-death-of-detainee",
+        "published": "27 Mar 2026",
+        "iso_date": "2026-03-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327225452gdn-websitesize-2026-03-27t230231.067_T.jpg?20260327",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Feeder bus system planned to support metro project",
         "link": "https://www.gdnonline.com/Details/1379644/Feeder-bus-system-planned-to-support-metro-project",
@@ -90,16 +110,6 @@
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260327/20260327051729a_T.jpg?20260327",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Boy dies in house blaze tragedy",
-        "link": "https://www.gdnonline.com/Details/1379631/Boy-dies-in-house-blaze-tragedy",
-        "published": "27 Mar 2026",
-        "iso_date": "2026-03-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327005413boypasses_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +209,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_021836_0_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022516fone_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       }
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 20:42:28 UTC"
+  "fetched_at": "2026-03-27 21:31:19 UTC"
 }
