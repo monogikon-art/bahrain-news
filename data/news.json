@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -33,19 +33,9 @@
       },
       {
         "title": "IRGC-linked cells targeting Bahrain referred to Criminal Court",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkxBQmlvTDFDZFQ5WF9RVFdYdXdKbVJHNnY5U2dZTmZFSGdVTFN4N2w1VFNOdjZDd0V0Vkhqb252cG9fTE9BUHlraU9ud09TamgxWEFwY1ptSjc1M1ZRVlFQMXZxVXZ1X3hmS3lLZWVwUjNiZ3d1dUV3b0d5MWE2blpINmdoUEZzRjNjLVdXaDRDbEJPNENNel9JMjIzRy1xVUdPSGk1c0VaLTNOdE5zeQ?oc=5",
-        "published": "27 Mar 2026, 07:01 AM",
-        "iso_date": "2026-03-27T07:01:54+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump, Bahrain king discuss security, regional tensions in phone call",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG1XblpYeEs4LWlhMWRPV0YwUW1PT2RpQTN1ZlNXeUZ4djBpX19vM1hhYmpkbVl6V1dXbXFzY3p6WXJDUEJFNDhzZEk4NGRWRGk0b1NtR1dpZTJyUUhWNVpiWUdjXzRoNTRKVkJWN3p5YkIzMWVSTkVVWDEzNnRVdnpPLW1wWHFkS2Z4c0pXcUtYYnRWRzhGaWNiY0RHdnppaVJ6NzVFdFAwTGlfMlMxVDltN0tLYWtR?oc=5",
-        "published": "26 Mar 2026, 08:00 PM",
-        "iso_date": "2026-03-26T20:00:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVFKc3BmSDVZV0xqYWs1cXp1T1IxNDM3NW1vVjRNQjRra3pSbEQ5RUg4TTF4dV81eDFGekZ2ZWMzVDEyUGxScVBydmZEazd4eTEydE9meHJQV19HR3Vmc2RnR2MxRjh4S2N4UHM3M3RlcENjcVpXUVZGNXdwcXl5aE02X21vQ0ptSzRWZ2JxcGpoRjVYSFZmd0JUZmNCTUdyV01sTGNhTlJwNk02NTdzWQ?oc=5",
+        "published": "26 Mar 2026, 08:23 PM",
+        "iso_date": "2026-03-26T20:23:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -63,9 +53,9 @@
       },
       {
         "title": "Bahrain Intercepts 154 Missiles, 350 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51bnZYZDBjbDIya1dIX1ppVlloNDEzMElXekRBdUlCOTFvRGt0S1NfZG4zZGhGY1VlemRHNy1BZFpGbGpoaVl4SVFrWmhabjlIVG42TTMycnFDcUJE?oc=5",
-        "published": "26 Mar 2026, 03:03 PM",
-        "iso_date": "2026-03-26T15:03:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZnc5bmhHWW9wQmFHaWZMOGhvS3R4MGcyUnZMb2dUS0xDQlV1RURnYUNGS3N5YXd5a1N2WFk5YVFlMjF4bmlvNWQ5eTdpeVB4eVNWVy1yc2J6MVJyMXA0RVRB?oc=5",
+        "published": "26 Mar 2026, 02:56 PM",
+        "iso_date": "2026-03-26T14:56:24+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -174,6 +164,16 @@
         "category": "Latest"
       },
       {
+        "title": "Former England manager Hodgson joins Bristol City as interim coach",
+        "link": "https://www.gdnonline.com/Details/1379689/Former-England-manager-Hodgson-joins-Bristol-City-as-interim-coach",
+        "published": "27 Mar 2026",
+        "iso_date": "2026-03-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_144303_0_T.jpg?20260327",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Italy stay in pursuit",
         "link": "https://www.gdnonline.com/Details/1379678/Italy-stay-in-pursuit",
         "published": "27 Mar 2026",
@@ -209,59 +209,59 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_021836_0_T.jpg?20260327",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain step up training",
-        "link": "https://www.gdnonline.com/Details/1379573/Bahrain-step-up-training",
-        "published": "26 Mar 2026",
-        "iso_date": "2026-03-26T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/20260326014736footy_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022516fone_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "India slashes fuel taxes due to Mideast war shortages: Finance minister",
-        "link": "https://www.newsofbahrain.com/world/129314.html",
+        "title": "Shop Closed Over Unjustified Price Hike in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/129324.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lsoLwV7WZ2_2026-03-27_1774610491resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HUdSjmzbOu_2026-03-27_1774615656resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Japan to boost coal-fired power as Mideast war causes energy turmoil",
-        "link": "https://www.newsofbahrain.com/world/129313.html",
+        "title": "Epstein survivors sue US govt over revealed identities",
+        "link": "https://www.newsofbahrain.com/world/129322.html",
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xQuN1zn46F_2026-03-27_1774609055resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gu0ldgEoOC_2026-03-27_1774616243resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Rapper Balendra Shah Sworn In as Nepal’s Youngest Prime Minister After Landslide Election Victory",
-        "link": "https://www.newsofbahrain.com/world/129312.html",
+        "title": "Venezuela Orders Week-Long Closure Amid Power Shortages and Heatwave",
+        "link": "https://www.newsofbahrain.com/world/129321.html",
         "published": "27 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-27T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wPBfSkZTYu_2026-03-27_1774606186resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PR4NUVnZMa_2026-03-27_1774612965resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Cyclone Shuts Major Australian LNG Plants, Tightening Global Supply",
-        "link": "https://www.newsofbahrain.com/world/129311.html",
+        "title": "Mexico's navy says two boats ferrying aid to Cuba are missing",
+        "link": "https://www.newsofbahrain.com/world/129320.html",
         "published": "27 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-27T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qwnZc9xPVj_2026-03-27_1774605463resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GC30W8Nts5_2026-03-27_1774612869resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "China Calls for Stronger Trade Cooperation with US",
+        "link": "https://www.newsofbahrain.com/world/129319.html",
+        "published": "27 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Drljs5xQo6_2026-03-27_1774612816resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,7 +271,7 @@
         "published": "27 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D5MtQN8fJS_2026-03-27_1774604937resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D5MtQN8fJS_2026-03-27_1774604937thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +302,6 @@
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_c27O8SPYrQ_2026-03-27_1774603252thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Solar Solutions Fly Off Shelves",
-        "link": "https://www.newsofbahrain.com/bahrain/129306.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hwkeJ7LuO2_2026-03-27_1774602853thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 11:39:29 UTC"
+  "fetched_at": "2026-03-27 12:59:12 UTC"
 }
