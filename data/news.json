@@ -63,9 +63,9 @@
       },
       {
         "title": "Bahrain Intercepts 154 Missiles, 350 Drones Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51bnZYZDBjbDIya1dIX1ppVlloNDEzMElXekRBdUlCOTFvRGt0S1NfZG4zZGhGY1VlemRHNy1BZFpGbGpoaVl4SVFrWmhabjlIVG42TTMycnFDcUJE?oc=5",
-        "published": "26 Mar 2026, 03:03 PM",
-        "iso_date": "2026-03-26T15:03:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZnc5bmhHWW9wQmFHaWZMOGhvS3R4MGcyUnZMb2dUS0xDQlV1RURnYUNGS3N5YXd5a1N2WFk5YVFlMjF4bmlvNWQ5eTdpeVB4eVNWVy1yc2J6MVJyMXA0RVRB?oc=5",
+        "published": "26 Mar 2026, 02:56 PM",
+        "iso_date": "2026-03-26T14:56:24+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -114,6 +114,16 @@
         "category": "Latest"
       },
       {
+        "title": "Committee reviews crisis plans",
+        "link": "https://www.gdnonline.com/Details/1379649/Committee-reviews-crisis-plans",
+        "published": "27 Mar 2026",
+        "iso_date": "2026-03-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327044731b_T.jpg?20260327",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Unstable weather conditions set to continue",
         "link": "https://www.gdnonline.com/Details/1379661/Unstable-weather-conditions-set-to-continue",
         "published": "27 Mar 2026",
@@ -130,16 +140,6 @@
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260327/20260327011042civildefence.jpeg?20260327",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Ceiling collapse during rain raises concern over safety",
-        "link": "https://www.gdnonline.com/Details/1379627/Ceiling-collapse-during-rain-raises-concern-over-safety",
-        "published": "27 Mar 2026",
-        "iso_date": "2026-03-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/202603270104571_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -229,7 +229,7 @@
         "published": "27 Mar 2026",
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327022516fone_T.jpg?20260327",
+        "image": "https://www.gdnonline.com/gdnimages/20260327/20260327_021836_0_T.jpg?20260327",
         "source": "gdn",
         "category": "Latest"
       },
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-27 02:03:20 UTC"
+  "fetched_at": "2026-03-27 04:44:13 UTC"
 }
