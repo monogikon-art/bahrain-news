@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,36 +16,26 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 12
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
-        "published": "27 Mar 2026, 02:24 PM",
-        "iso_date": "2026-03-27T14:24:39+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Jazeera Airways To Resume Karachi Flights Via Dammam From April 7",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VVZFYlhRMjJrQ3ZvUVpMRmphaTJFYUJhY3haQk16WDNTTlFJOWU2ZE5vOGlVVkE3SWQ5Q29jTlN2a1RNRlpmVThRTWhsdGFMYUVFNnd2ejFraGxGMmsyamd3?oc=5",
-        "published": "28 Mar 2026, 10:37 AM",
-        "iso_date": "2026-03-28T10:37:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFOXZudGNkZEV4cllPbXpaRGRldGd1LUVvdlFPUjNobVAzamp3ZmFBMzNUMTF0eVJfa0FqcFM0NHpnTHRWWmlsQUd2TmxlUFpiLVZUc0lFbDlaRG50a2xUd0xB?oc=5",
+        "published": "28 Mar 2026, 09:37 AM",
+        "iso_date": "2026-03-28T09:37:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain: 174 missiles, 385 drones destroyed since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlpjdHJJV2tLYXlIUFRWeDR1aDd1el9GT1dyUk52Q3J0WlcyZEgyYlNUQWVnV1JQUDQxc29tM1Izbks3X1FlOUlkTGtGMUdjUkwxaEk4QVAzMnJZeTFRa2NEYmRhWURCS2xTNHVfT09tMF85Um8tMkUwR2tLcmV2enBZZ1VvOHIxaVpvVmZkWDY3UF90cVluWDVyOV83UHNkOEFqY1pETkdQaHNFcWRIb2I5Q2ViZHRjbGc?oc=5",
-        "published": "28 Mar 2026, 11:33 AM",
-        "iso_date": "2026-03-28T11:33:00+00:00",
+        "title": "Bahrain: 174 Missiles, 385 Drones Destroyed Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0d0eUs4RGxVYklnWWNkbXRiLUN3bWFfM1pKaXZLMG9SaUVRYm1xNXNvTGo2OG1VNEY2eE9Ccng2STFqUXZnNWhhVTNxRXBiQjY3OVFCS1I1VnE4LV9fb0V6cDVmckdDbDJrRURvUzBNMjZRb1RGWTZ0M0RKQkV4WG9SSFltd0x5T09RWkJvUEluN2J0V195M1ZfNEo2UQ?oc=5",
+        "published": "28 Mar 2026, 11:45 AM",
+        "iso_date": "2026-03-28T11:45:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain bans all drone use amid heightened security situation",
+        "link": "https://www.newsofbahrain.com/bahrain/129368.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IbOTFM7yxn_2026-03-28_1774706891resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Zelensky Lands in Doha After Saudi, UAE Visits",
         "link": "https://www.newsofbahrain.com/world/129367.html",
         "published": "28 Mar 2026, 09:22 AM",
@@ -218,8 +218,8 @@
       {
         "title": "The IAEA reports a new strike near Iran's Bushehr nuclear plant, with no damage recorded",
         "link": "https://www.newsofbahrain.com/world/129366.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LSlxN4GVPJ_2026-03-28_1774699143resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +238,10 @@
       {
         "title": "Third fire reported in Abu Dhabi, total injured rises to six",
         "link": "https://www.newsofbahrain.com/world/129363.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rda8G5Uisg_2026-03-28_1774695343resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Millions expected to join ‘No Kings’ protests against Trump in the US",
-        "link": "https://www.newsofbahrain.com/world/129362.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gkOKjYzmQr_2026-03-28_1774693822resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rda8G5Uisg_2026-03-28_1774695343resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +282,6 @@
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_HUdSjmzbOu_2026-03-27_1774615656thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts 154 Missiles, 362 Drones in Ongoing Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/129310.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D5MtQN8fJS_2026-03-27_1774604937thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 13:49:06 UTC"
+  "fetched_at": "2026-03-28 14:29:31 UTC"
 }
