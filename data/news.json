@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xN2h2NlBMN3NJejhUd3NxVXpRZFBKRXJTdEpCR0gwUHR0Z0lZQTNucEU1YWZqYk9Xd1FRNDV3N2htdDJsMDhBQ1A3ZmIxSE5ZZDRvcElBZw?oc=5",
         "published": "28 Mar 2026, 04:29 PM",
         "iso_date": "2026-03-28T16:29:58+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain bans use of drones effective immediately until further notice - nna",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRW1tTFlDXzN4UGRYdkcyNmRzcGxLWmxWbEdNR041TWJ5QkJ1YUwyZkJLUkFsQ3h4YVdxem5BUzRsVEFsN3ZIRHdwMjl1WXI2dklSWjRSdk5nR3BvWEUtN0ZDQldTcUV1VFVvbGVEQ2JzNXdGLUNnTVhXUFhQY2tVY0FrVjNMLVpMbUtveXhMdC04TjlwcWFNaFJ0czZIcnh6MmJuUjBnSmgxUTdpTUh6Y0hJVQ?oc=5",
+        "published": "28 Mar 2026, 05:20 PM",
+        "iso_date": "2026-03-28T17:20:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Ukraine Seeks Long-Term Industrial Partnerships with Saudi Arabia and Qatar",
+        "link": "https://www.newsofbahrain.com/world/129372.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j6hdBoul40_2026-03-28_1774721669resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Minister Reviews Progress of BCCI Elections",
         "link": "https://www.newsofbahrain.com/bahrain/129371.html",
         "published": "28 Mar 2026, 09:22 AM",
@@ -218,8 +238,8 @@
       {
         "title": "Kuwait Extinguishes Airport Fuel Tank Fire After 58 Hours",
         "link": "https://www.newsofbahrain.com/world/129370.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_iCg5ckmIEA_2026-03-28_1774718406resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +258,10 @@
       {
         "title": "Bahrain bans all drone use amid heightened security situation",
         "link": "https://www.newsofbahrain.com/bahrain/129368.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IbOTFM7yxn_2026-03-28_1774706891resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zelensky Lands in Doha After Saudi, UAE Visits",
-        "link": "https://www.newsofbahrain.com/world/129367.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XdJIt5RUOG_2026-03-28_1774703077resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IbOTFM7yxn_2026-03-28_1774706891resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,12 +296,12 @@
         "category": "Latest"
       },
       {
-        "title": "The IAEA reports a new strike near Iran's Bushehr nuclear plant, with no damage recorded",
-        "link": "https://www.newsofbahrain.com/world/129366.html",
+        "title": "Zelensky Lands in Doha After Saudi, UAE Visits",
+        "link": "https://www.newsofbahrain.com/world/129367.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LSlxN4GVPJ_2026-03-28_1774699143thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XdJIt5RUOG_2026-03-28_1774703077thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 17:54:18 UTC"
+  "fetched_at": "2026-03-28 18:36:20 UTC"
 }
