@@ -196,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Ukraine’s Zelensky lands in Qatar after meeting UAE leadership",
+        "link": "https://www.newsofbahrain.com/world/129364.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X8zcK5nd2k_2026-03-28_1774695593resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Third fire reported in Abu Dhabi, total injured rises to six",
         "link": "https://www.newsofbahrain.com/world/129363.html",
         "published": "28 Mar 2026, 09:22 AM",
@@ -208,8 +218,8 @@
       {
         "title": "Millions expected to join ‘No Kings’ protests against Trump in the US",
         "link": "https://www.newsofbahrain.com/world/129362.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_gkOKjYzmQr_2026-03-28_1774693822resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,20 +238,10 @@
       {
         "title": "Cristiano Ronaldo resumes training after injury recovery",
         "link": "https://www.newsofbahrain.com/sports/129358.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qv7TadPQrO_2026-03-28_1774693198resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Strikes hit Ukraine cities, kill three as war intensifies",
-        "link": "https://www.newsofbahrain.com/world/129357.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KrUusk6RzA_2026-03-28_1774692762resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qv7TadPQrO_2026-03-28_1774693198resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 11:00:05 UTC"
+  "fetched_at": "2026-03-28 11:35:40 UTC"
 }
