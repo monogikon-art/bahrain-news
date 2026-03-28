@@ -216,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Education Minister: Student Safety Remains Top Priority",
+        "link": "https://www.newsofbahrain.com/world/129375.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c8dArYLQI7_2026-03-28_1774728165resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Zelensky warns over Russian satellite surveillance of U.S. and allied bases",
         "link": "https://www.newsofbahrain.com/world/129374.html",
         "published": "28 Mar 2026, 09:22 AM",
@@ -228,8 +238,8 @@
       {
         "title": "Starmer Pushes Back Against Trump Pressure Over Iran War Stance",
         "link": "https://www.newsofbahrain.com/world/129373.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1UdjvEQy42_2026-03-28_1774723862resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,20 +258,10 @@
       {
         "title": "Minister Reviews Progress of BCCI Elections",
         "link": "https://www.newsofbahrain.com/bahrain/129371.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q0JTzH3KrX_2026-03-28_1774719693resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Extinguishes Airport Fuel Tank Fire After 58 Hours",
-        "link": "https://www.newsofbahrain.com/world/129370.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iCg5ckmIEA_2026-03-28_1774718406resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q0JTzH3KrX_2026-03-28_1774719693resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 19:53:09 UTC"
+  "fetched_at": "2026-03-28 20:26:16 UTC"
 }
