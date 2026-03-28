@@ -216,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Ukraine Seeks Long-Term Industrial Partnerships with Saudi Arabia and Qatar",
-        "link": "https://www.newsofbahrain.com/world/129372.html",
+        "title": "Zelensky warns over Russian satellite surveillance of U.S. and allied bases",
+        "link": "https://www.newsofbahrain.com/world/129374.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zflLPJK58y_2026-03-28_1774725525resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Starmer Pushes Back Against Trump Pressure Over Iran War Stance",
+        "link": "https://www.newsofbahrain.com/world/129373.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1UdjvEQy42_2026-03-28_1774723862resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ukraine Seeks Long-Term Industrial Partnerships with Saudi Arabia and Qatar",
+        "link": "https://www.newsofbahrain.com/world/129372.html",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_j6hdBoul40_2026-03-28_1774721669resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +248,8 @@
       {
         "title": "Minister Reviews Progress of BCCI Elections",
         "link": "https://www.newsofbahrain.com/bahrain/129371.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_q0JTzH3KrX_2026-03-28_1774719693resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +258,10 @@
       {
         "title": "Kuwait Extinguishes Airport Fuel Tank Fire After 58 Hours",
         "link": "https://www.newsofbahrain.com/world/129370.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_iCg5ckmIEA_2026-03-28_1774718406resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "USS Tripoli Arrives in U.S. Central Command Region",
-        "link": "https://www.newsofbahrain.com/world/129369.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5UcBdDm4FP_2026-03-28_1774712462resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,7 +271,7 @@
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IbOTFM7yxn_2026-03-28_1774706891resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IbOTFM7yxn_2026-03-28_1774706891thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +302,6 @@
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_2rVnlSwRF1_2026-03-27_1774618098thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zelensky Lands in Doha After Saudi, UAE Visits",
-        "link": "https://www.newsofbahrain.com/world/129367.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XdJIt5RUOG_2026-03-28_1774703077thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 18:36:20 UTC"
+  "fetched_at": "2026-03-28 19:27:38 UTC"
 }
