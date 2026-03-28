@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain: 174 Missiles and 385 Drones Intercepted Since Start of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xN2h2NlBMN3NJejhUd3NxVXpRZFBKRXJTdEpCR0gwUHR0Z0lZQTNucEU1YWZqYk9Xd1FRNDV3N2htdDJsMDhBQ1A3ZmIxSE5ZZDRvcElBZw?oc=5",
-        "published": "28 Mar 2026, 09:55 PM",
-        "iso_date": "2026-03-28T21:55:32+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain bans use of drones effective immediately until further notice - nna",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRW1tTFlDXzN4UGRYdkcyNmRzcGxLWmxWbEdNR041TWJ5QkJ1YUwyZkJLUkFsQ3h4YVdxem5BUzRsVEFsN3ZIRHdwMjl1WXI2dklSWjRSdk5nR3BvWEUtN0ZDQldTcUV1VFVvbGVEQ2JzNXdGLUNnTVhXUFhQY2tVY0FrVjNMLVpMbUtveXhMdC04TjlwcWFNaFJ0czZIcnh6MmJuUjBnSmgxUTdpTUh6Y0hJVQ?oc=5",
@@ -79,7 +69,7 @@
         "published": "29 Mar 2026",
         "iso_date": "2026-03-29T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260328_231345_0_T.jpg?20260329",
+        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329015520beforeafter_T.jpg?20260329",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +99,7 @@
         "published": "29 Mar 2026",
         "iso_date": "2026-03-29T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260328_231347_1.jfif?20260329",
+        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329015647cyclist_T.jpg?20260329",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Alba Confirms Facility Targeted in Iranian Attack; Two Employees Injured",
+        "link": "https://www.newsofbahrain.com/bahrain/129376.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KG7mrqWA6M_2026-03-28_1774741071resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Education Minister: Student Safety Remains Top Priority",
         "link": "https://www.newsofbahrain.com/world/129375.html",
         "published": "28 Mar 2026, 09:22 AM",
@@ -228,8 +228,8 @@
       {
         "title": "Zelensky warns over Russian satellite surveillance of U.S. and allied bases",
         "link": "https://www.newsofbahrain.com/world/129374.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zflLPJK58y_2026-03-28_1774725525resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +248,8 @@
       {
         "title": "Ukraine Seeks Long-Term Industrial Partnerships with Saudi Arabia and Qatar",
         "link": "https://www.newsofbahrain.com/world/129372.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_j6hdBoul40_2026-03-28_1774721669resized_pic.jpg",
         "source": "newsofbahrain",
@@ -261,7 +261,7 @@
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q0JTzH3KrX_2026-03-28_1774719693resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q0JTzH3KrX_2026-03-28_1774719693thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +292,6 @@
         "iso_date": "2026-03-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_GIWdlFXcvE_2026-03-27_1774621819thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King meets BDF officers",
-        "link": "https://www.newsofbahrain.com/bahrain/129326.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2rVnlSwRF1_2026-03-27_1774618098thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 23:30:07 UTC"
+  "fetched_at": "2026-03-28 23:57:04 UTC"
 }
