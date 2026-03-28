@@ -44,6 +44,16 @@
     ],
     "gdn": [
       {
+        "title": "23 drones and 20 missiles targeting Bahrain destroyed in the last 24 hours",
+        "link": "https://www.gdnonline.com/Details/1379774/23-drones-and-20-missiles-targeting-Bahrain-destroyed-in-the-last-24-hours",
+        "published": "28 Mar 2026",
+        "iso_date": "2026-03-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328175847bdf(2)_T.jpg?20260328",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "The use of drones banned across Bahrain",
         "link": "https://www.gdnonline.com/Details/1379773/The-use-of-drones-banned-across-Bahrain",
         "published": "28 Mar 2026",
@@ -80,16 +90,6 @@
         "iso_date": "2026-03-28T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260328/20260328014157shop_T.jpg?20260328",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Draft law pushes for stricter action to protect consumers",
-        "link": "https://www.gdnonline.com/Details/1379704/Draft-law-pushes-for-stricter-action-to-protect-consumers-",
-        "published": "28 Mar 2026",
-        "iso_date": "2026-03-28T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328014440parliament_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -196,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "USS Tripoli Arrives in U.S. Central Command Region",
+        "link": "https://www.newsofbahrain.com/world/129369.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5UcBdDm4FP_2026-03-28_1774712462resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain bans all drone use amid heightened security situation",
         "link": "https://www.newsofbahrain.com/bahrain/129368.html",
         "published": "28 Mar 2026, 09:22 AM",
@@ -208,8 +218,8 @@
       {
         "title": "Zelensky Lands in Doha After Saudi, UAE Visits",
         "link": "https://www.newsofbahrain.com/world/129367.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_XdJIt5RUOG_2026-03-28_1774703077resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,20 +238,10 @@
       {
         "title": "Ukraine’s Zelensky lands in Qatar after meeting UAE leadership",
         "link": "https://www.newsofbahrain.com/world/129364.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X8zcK5nd2k_2026-03-28_1774695593resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Third fire reported in Abu Dhabi, total injured rises to six",
-        "link": "https://www.newsofbahrain.com/world/129363.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rda8G5Uisg_2026-03-28_1774695343resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X8zcK5nd2k_2026-03-28_1774695593resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 15:39:12 UTC"
+  "fetched_at": "2026-03-28 16:30:05 UTC"
 }
