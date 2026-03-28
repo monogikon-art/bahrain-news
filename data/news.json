@@ -114,6 +114,16 @@
         "category": "Latest"
       },
       {
+        "title": "Foulath Holding declares force majeure due to regional developments",
+        "link": "https://www.gdnonline.com/Details/1379790/Foulath-Holding-declares-force-majeure-due-to-regional-developments",
+        "published": "28 Mar 2026",
+        "iso_date": "2026-03-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328231900foulath_T.jpg?20260328",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Chamber's 'key milestone' election - Minister",
         "link": "https://www.gdnonline.com/Details/1379775/Bahrain-Chambers-key-milestone-election---Minister",
         "published": "28 Mar 2026",
@@ -150,16 +160,6 @@
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260326/202603262332562_T.jpg?20260328",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB announces transition to full operating capacity from Sunday",
-        "link": "https://www.gdnonline.com/Details/1379635/NBB-announces-transition-to-full-operating-capacity-from-Sunday",
-        "published": "27 Mar 2026",
-        "iso_date": "2026-03-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260327/20260326_230912_0_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -449,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 20:26:16 UTC"
+  "fetched_at": "2026-03-28 20:55:49 UTC"
 }
