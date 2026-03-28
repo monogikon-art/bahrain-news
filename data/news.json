@@ -206,10 +206,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "USS Tripoli Arrives in U.S. Central Command Region",
-        "link": "https://www.newsofbahrain.com/world/129369.html",
+        "title": "Minister Reviews Progress of BCCI Elections",
+        "link": "https://www.newsofbahrain.com/bahrain/129371.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q0JTzH3KrX_2026-03-28_1774719693resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Extinguishes Airport Fuel Tank Fire After 58 Hours",
+        "link": "https://www.newsofbahrain.com/world/129370.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iCg5ckmIEA_2026-03-28_1774718406resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "USS Tripoli Arrives in U.S. Central Command Region",
+        "link": "https://www.newsofbahrain.com/world/129369.html",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_5UcBdDm4FP_2026-03-28_1774712462resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,8 +238,8 @@
       {
         "title": "Bahrain bans all drone use amid heightened security situation",
         "link": "https://www.newsofbahrain.com/bahrain/129368.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_IbOTFM7yxn_2026-03-28_1774706891resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,30 +248,10 @@
       {
         "title": "Zelensky Lands in Doha After Saudi, UAE Visits",
         "link": "https://www.newsofbahrain.com/world/129367.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XdJIt5RUOG_2026-03-28_1774703077resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "The IAEA reports a new strike near Iran's Bushehr nuclear plant, with no damage recorded",
-        "link": "https://www.newsofbahrain.com/world/129366.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LSlxN4GVPJ_2026-03-28_1774699143resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ukraine’s Zelensky lands in Qatar after meeting UAE leadership",
-        "link": "https://www.newsofbahrain.com/world/129364.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X8zcK5nd2k_2026-03-28_1774695593resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XdJIt5RUOG_2026-03-28_1774703077resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,12 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "Shop Closed Over Unjustified Price Hike in Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/129324.html",
-        "published": "27 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-27T09:22:55+00:00",
+        "title": "The IAEA reports a new strike near Iran's Bushehr nuclear plant, with no damage recorded",
+        "link": "https://www.newsofbahrain.com/world/129366.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HUdSjmzbOu_2026-03-27_1774615656thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LSlxN4GVPJ_2026-03-28_1774699143thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 17:01:09 UTC"
+  "fetched_at": "2026-03-28 17:54:18 UTC"
 }
