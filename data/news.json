@@ -196,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "5 Indians injured in UAE after missile interception sparks fires",
+        "link": "https://www.newsofbahrain.com/world/129344.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QEB6MYxL7p_2026-03-28_1774683933resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Trump calls Hormuz ‘Strait of Trump’, presses Iran for deal",
         "link": "https://www.newsofbahrain.com/world/129343.html",
         "published": "28 Mar 2026, 09:22 AM",
@@ -208,8 +218,8 @@
       {
         "title": "Former Nepal PM KP Sharma Oli Arrested Over Deadly 2025 Protests",
         "link": "https://www.newsofbahrain.com/world/129342.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_wTmLWCBPRF_2026-03-28_1774681398resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,20 +238,10 @@
       {
         "title": "UN Launches Task Force to Address Strait of Hormuz Trade Risks",
         "link": "https://www.newsofbahrain.com/world/129339.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iLu74JyYPO_2026-03-28_1774656682resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump: Over 3,500 Iranian Military Targets Still Remaining in Iran",
-        "link": "https://www.newsofbahrain.com/world/129338.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ksw8TNGSj9_2026-03-27_1774652982resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iLu74JyYPO_2026-03-28_1774656682resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 07:42:51 UTC"
+  "fetched_at": "2026-03-28 08:35:11 UTC"
 }
