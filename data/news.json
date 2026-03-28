@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain: 174 Missiles and 385 Drones Intercepted Since Start of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xN2h2NlBMN3NJejhUd3NxVXpRZFBKRXJTdEpCR0gwUHR0Z0lZQTNucEU1YWZqYk9Xd1FRNDV3N2htdDJsMDhBQ1A3ZmIxSE5ZZDRvcElBZw?oc=5",
+        "published": "28 Mar 2026, 04:29 PM",
+        "iso_date": "2026-03-28T16:29:58+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Jazeera Airways To Resume Karachi Flights Via Dammam From April 7",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFOXZudGNkZEV4cllPbXpaRGRldGd1LUVvdlFPUjNobVAzamp3ZmFBMzNUMTF0eVJfa0FqcFM0NHpnTHRWWmlsQUd2TmxlUFpiLVZUc0lFbDlaRG50a2xUd0xB?oc=5",
@@ -94,6 +104,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain Chamber's 'key milestone' election - Minister",
+        "link": "https://www.gdnonline.com/Details/1379775/Bahrain-Chambers-key-milestone-election---Minister",
+        "published": "28 Mar 2026",
+        "iso_date": "2026-03-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328191429election_T.jpg?20260328",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Chamber elections set to mark a defining milestone",
         "link": "https://www.gdnonline.com/Details/1379715/Bahrain-Chamber-elections-set-to-mark-a-defining-milestone",
         "published": "28 Mar 2026",
@@ -130,16 +150,6 @@
         "iso_date": "2026-03-27T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260327/20260326_230912_0_T.jpg?20260328",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Basrec annual general meeting discusses strategic outlook",
-        "link": "https://www.gdnonline.com/Details/1379636/Basrec-annual-general-meeting-discusses-strategic-outlook",
-        "published": "27 Mar 2026",
-        "iso_date": "2026-03-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260326/202603262330345_T.jpg?20260328",
         "source": "gdn",
         "category": "Latest"
       },
@@ -429,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 16:30:05 UTC"
+  "fetched_at": "2026-03-28 17:01:09 UTC"
 }
