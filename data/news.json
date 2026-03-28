@@ -206,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Zelensky Lands in Doha After Saudi, UAE Visits",
+        "link": "https://www.newsofbahrain.com/world/129367.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XdJIt5RUOG_2026-03-28_1774703077resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "The IAEA reports a new strike near Iran's Bushehr nuclear plant, with no damage recorded",
         "link": "https://www.newsofbahrain.com/world/129366.html",
         "published": "28 Mar 2026, 09:22 AM",
@@ -218,8 +228,8 @@
       {
         "title": "Ukraine’s Zelensky lands in Qatar after meeting UAE leadership",
         "link": "https://www.newsofbahrain.com/world/129364.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
+        "published": "28 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_X8zcK5nd2k_2026-03-28_1774695593resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +248,10 @@
       {
         "title": "Millions expected to join ‘No Kings’ protests against Trump in the US",
         "link": "https://www.newsofbahrain.com/world/129362.html",
-        "published": "28 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gkOKjYzmQr_2026-03-28_1774693822resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Indonesia bans social media for under-16s in major safety move",
-        "link": "https://www.newsofbahrain.com/world/129361.html",
         "published": "28 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9Qp1RmM48V_2026-03-28_1774693599resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gkOKjYzmQr_2026-03-28_1774693822resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-28 12:48:16 UTC"
+  "fetched_at": "2026-03-28 13:49:06 UTC"
 }
