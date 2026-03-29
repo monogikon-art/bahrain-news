@@ -246,10 +246,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "UAE Condemns Iranian Attack on Kuwait Military Camp",
-        "link": "https://www.newsofbahrain.com/world/129444.html",
+        "title": "Bahrain Condemns Iran Attacks on Kuwait",
+        "link": "https://www.newsofbahrain.com/bahrain/129446.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b3BPURtWpj_2026-03-29_1774817767resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Water Strategy Achieves 81% Progress",
+        "link": "https://www.newsofbahrain.com/bahrain/129445.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W3Y9Bceh80_2026-03-29_1774816310resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE Condemns Iranian Attack on Kuwait Military Camp",
+        "link": "https://www.newsofbahrain.com/world/129444.html",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_yr29e7EPtz_2026-03-29_1774815511resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +278,8 @@
       {
         "title": "UN Nuclear Watchdog Reports Major Damage at Iranian Heavy Water Plant",
         "link": "https://www.newsofbahrain.com/world/129443.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_KCXL2nwB73_2026-03-29_1774814420resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +288,8 @@
       {
         "title": "Bahrain Coast Guard restricts fishing and leisure vessel operations",
         "link": "https://www.newsofbahrain.com/bahrain/129442.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_idpkutTqGs_2026-03-29_1774812811resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,20 +298,10 @@
       {
         "title": "Bahrain condemns attacks targeting Kurdistan leadership residences",
         "link": "https://www.newsofbahrain.com/bahrain/129441.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XAz6Ye4pu0_2026-03-29_1774812216resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "U.S. Embassies in Qatar and Iraq Issue Fresh Security Warnings",
-        "link": "https://www.newsofbahrain.com/world/129440.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n0CLSYUVHh_2026-03-29_1774810050resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XAz6Ye4pu0_2026-03-29_1774812216thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,22 +316,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Chairs Arab League Meeting, Condemns Regional Threats",
-        "link": "https://www.newsofbahrain.com/bahrain/129435.html",
+        "title": "U.S. Embassies in Qatar and Iraq Issue Fresh Security Warnings",
+        "link": "https://www.newsofbahrain.com/world/129440.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ItmwRLWVcF_2026-03-29_1774798030thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Southern Governor reviews security preparedness",
-        "link": "https://www.newsofbahrain.com/bahrain/129424.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kuDWb3pJRU_2026-03-29_1774789079thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n0CLSYUVHh_2026-03-29_1774810050thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-29 20:32:38 UTC"
+  "fetched_at": "2026-03-29 21:28:47 UTC"
 }
