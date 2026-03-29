@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 15
     }
   },
   "articles": {
@@ -82,30 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "World News",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOd9IB-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOdw?oc=5",
-        "published": "29 Mar 2026, 01:18 AM",
-        "iso_date": "2026-03-29T01:18:15+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Aluminium smelter confirms Iranian attack",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0dzVDIzSDh6RjU2U3JRREVLMHVKRnhUT1Q3dW9MNkF3MWtUd1lpeExyUmo3TlZ0Z1NGRlJCOFVRZVpzUGloQ042R3FWNktiQjdjaGRmTldSTTJZQnRJMHVuQjBVZS0xZDFiV25TTmU3SWR1S2lRQ0I3dzVkTWs0b1RWNWV1MFFxNnJQUFAxZmo?oc=5",
         "published": "29 Mar 2026, 05:35 AM",
         "iso_date": "2026-03-29T05:35:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "World News | Air Raid Sirens Activated Across Kuwait, Bahrain and Israel Amid Reported Missile Threats",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3pXTXhzZmN5OGoyaHVGLWM0bVAyWmxfUDJSMUhoZkI3TWlYUDVLbkpHSEpHVHlrbTZSOVAwNHFOQUM0OFpNOTczN2h6eG1iSDdSU1RpMElwUWwxYTNiQ2xmMGVpMVBxbEZVR19tNlg1dWpQLUpLMWtGel96VHIxcS1iVEV4aURtODNkdjdWcmdjTTJuZFhLbVFYOEozZEFvTzdkaUt4NmViaGF0Tkl1N09lcmx4OXdEaE9hRktQTmtEWXlwQnNvcWJZTVdjMnExNnlPTGk5N3NSNWRVcVpFX2RrU25KSHNH0gHoAUFVX3lxTE5XeldNeHNmY3k4ajJodUYtYzRtUDJabF9QMlIxSGhmQjdNaVhQNUtuSkdISkdUeWttNlI5UDA0cU5BQzQ4Wk05NzM3aHp4bWJIN1JTVGkwSXBRbDFhM2JDbGYwZWkxUHFsRlVHX202WDV1alAtSksxa0Z6X3pUcjFxLWJURXhpRG04M2R2N1ZyZ2NNMm5kWEttUVg4SjNkQW9PN2RpS3g2ZWJoYXROSXU3T2VybHg5d0RoT2FGS1BOa0RZeXBCc29xYllNV2MycTE2eU9MaTk3c1I1ZFVxWkVfZGtTbkpIc0c?oc=5",
-        "published": "29 Mar 2026, 02:46 AM",
-        "iso_date": "2026-03-29T02:46:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,42 +246,82 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Di Giannantonio takes second straight MotoGP pole in Austin",
+        "link": "https://www.newsofbahrain.com/world/129429.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ua5PHAVSyd_2026-03-29_1774790514resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India opens 2nd international airport in capital",
+        "link": "https://www.newsofbahrain.com/world/129428.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D0xfFdGjm2_2026-03-29_1774789922resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Foreign media association slams Israeli forces' 'violent assault' on CNN crew",
+        "link": "https://www.newsofbahrain.com/world/129427.html",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4jqwu7WPex_2026-03-29_1774789772resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India approves $25 bn defence buys, including Russian missile systems",
+        "link": "https://www.newsofbahrain.com/world/129426.html",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Nsb2ApWJVZ_2026-03-29_1774789496resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Sweet heist? Nestle says 12 tonnes of KitKat stolen",
+        "link": "https://www.newsofbahrain.com/world/129425.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o4U1VAg92M_2026-03-29_1774789317resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Southern Governor reviews security preparedness",
+        "link": "https://www.newsofbahrain.com/bahrain/129424.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kuDWb3pJRU_2026-03-29_1774789079thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Rainwater floods Isa Town houses",
         "link": "https://www.newsofbahrain.com/bahrain/129420.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q4GuUFYIpq_2026-03-29_1774787992resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India Union Minister Piyush Goyal Unveils Malabar Gold & Diamonds’ USD 24 Million CSR Initiative for FY 2026–27",
-        "link": "https://www.newsofbahrain.com/business/129419.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ytKN9TwWgS_2026-03-29_1774787808resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BCCI polls mark key milestone for private sector, says Minister",
-        "link": "https://www.newsofbahrain.com/business/129418.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jT03D7okQa_2026-03-29_1774788223resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q4GuUFYIpq_2026-03-29_1774787992thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "CBSE introduces revised Class 12 evaluation for West Asia students",
         "link": "https://www.newsofbahrain.com/bahrain/129417.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_moM2WEkPwN_2026-03-29_1774786813resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_moM2WEkPwN_2026-03-29_1774786813thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -311,7 +331,7 @@
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IaE1lP7rSd_2026-03-29_1774786619resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IaE1lP7rSd_2026-03-29_1774786619thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,52 +346,22 @@
         "category": "Latest"
       },
       {
-        "title": "A Vote That Reaches Every Household",
-        "link": "https://www.newsofbahrain.com/bahrain/129414.html",
+        "title": "India Union Minister Piyush Goyal Unveils Malabar Gold & Diamonds’ USD 24 Million CSR Initiative for FY 2026–27",
+        "link": "https://www.newsofbahrain.com/business/129419.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hdyUj2Duma_2026-03-29_1774786363thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ytKN9TwWgS_2026-03-29_1774787808thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Pakistan Engages Türkiye, Egypt in High-Level Talks on Regional Stability",
-        "link": "https://www.newsofbahrain.com/world/129406.html",
+        "title": "BCCI polls mark key milestone for private sector, says Minister",
+        "link": "https://www.newsofbahrain.com/business/129418.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G41YZOEhNj_2026-03-29_1774778317thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zelensky warns over Russian satellite surveillance of U.S. and allied bases",
-        "link": "https://www.newsofbahrain.com/world/129374.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zflLPJK58y_2026-03-28_1774725525thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Starmer Pushes Back Against Trump Pressure Over Iran War Stance",
-        "link": "https://www.newsofbahrain.com/world/129373.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1UdjvEQy42_2026-03-28_1774723862thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ukraine Seeks Long-Term Industrial Partnerships with Saudi Arabia and Qatar",
-        "link": "https://www.newsofbahrain.com/world/129372.html",
-        "published": "28 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j6hdBoul40_2026-03-28_1774721669thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jT03D7okQa_2026-03-29_1774788223thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -392,6 +382,16 @@
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_SkwWhrlLxT_2026-03-29_1774751194thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Managing the Digital Frontline in Wartime",
+        "link": "https://www.newsofbahrain.com/views/129421.html",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MH28syxtNw_2026-03-29_1774788386thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -509,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-29 12:48:58 UTC"
+  "fetched_at": "2026-03-29 13:51:26 UTC"
 }
