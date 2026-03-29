@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYjBVUGRvZm51RVV5bjNIbkJyY0RLRHFqeDlEVnZQT1ZJN05hTGRZR2FneDh5QXJWM21MQklPeVdoQkhTOGc2cjV1TkZLRmI3TWFhb3dOc3NZbVd4UTFKY0FNbUxEWlpkRUZxNHJYR3hkaWJWMHFzV0dVTXZRQTI5TFV3SWZsZjgxZjRhc29nU2F1Q3kyOGlHSnhUYU43WTRwTXRoa25RZklxTjRUV2pNUWEwaENRMDVZb0c1NUZGMVdLR0V2QWhNRlRjRXRWTWtIRWlIdWdKU04xZ21pTTFJM0J5emNEblZtVnh0bXdoT1FKTnRJbDhJXzFNTUI4R2JzaW9V0gGDAkFVX3lxTE9iMFVQZG9mbnVFVXluM0huQnJjREtEcWp4OURWdlBPVkk3TmFMZFlHYWd4OHlBclYzbUxCSU95V2hCSFM4ZzZyNXVORktGYjdNYWFvd05zc1ltV3hRMUpjQU1tTERaWmRFRnE0clhHeGRpYlYwcXNXR1VNdlFBMjlMVXdJZmxmODFmNGFzb2dTYXVDeTI4aUdKeFRhTjdZNHBNdGhrblFmSXFONFRXak1RYTBoQ1EwNVlvRzU1RkYxV0tHRXZBaE1GVGNFdFZNa0hFaUh1Z0pTTjFnbWlNMUkzQnl6Y0RuVm1WeHRtd2hPUUpOdElsOElfMU1NQjhHYnNpb1U?oc=5",
-        "published": "29 Mar 2026, 01:06 AM",
-        "iso_date": "2026-03-29T01:06:00+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain amid missile threats",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2dMNFl2UlJFYnZmRWdCbW1mem5UcGJMNDY0TDdrYlJRX3o3eFhSUWJaUDNQcUlVNGxIamJUQjFCMDBnWndCUldlTUtEOXdjX2EtVjdpWXd3Y1hoYlVGZS1BNTAzZTg3ZzlSdjk4QkU1bW9PbERNU1oxZ0ZoT1BoV19yWFJtNmlDQklIYTNwbHBsTG42XzRwdVNweU9yb0ttNEpiYWtDbjFZY1FrV2lFNVpjbTRCcXM4Nkxwc2hTZVpYMWlNMEpjQXRsT21sUdIB0wFBVV95cUxPQzJRWm5rTDM1eDQtNmw4MkhEbk5KbFgxTFNTTmlaUVVwOXozaTBPNGxKM2I4c2FrZlpYVGpCLWFwSWpwVlE1TjE4OURRWEFDVTFybDBVRzdIQlRXekdXN1l5M3pJVWp1SXl0UXhIMXlZVVI2TWthS1Y1anFNcXdGenpuQ1IyaU9peHpwRTdXclJoRjh2bW5aNW9EakV0TG8yWFdFcXYwbVFna1A5MG1LNWxyNzU5VWp2Uk5SWnpGMU94RXlhMjFkRF91RUdmUjlLbkc4?oc=5",
+        "published": "29 Mar 2026, 03:28 AM",
+        "iso_date": "2026-03-29T03:28:54+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian Attack on Bahrain's Alba Facility Confirmed, 2 Injured",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmVaZ3dRSzNkYmROOF9vRWVzRWpwWDlhWmN1Y3dDN2dFS3NHc2U4RklycmZhWWRCal92QWVFdk45MWItWXZNSzdXX3A3bzBaT20tWUtqMXY1MHVIWkJKS1ZTdUk2RHVIMkx1b213V0pueVNWQWU0dFoyelh4V0ZlUmwzclJ0MzhVVzhyMm5rMFZmd3l1dTN1U2xYc1lxZldKN2kzSkwxTDM3b1pFMERVMUVrcGlLTEtWR1dV0gHAAUFVX3lxTFBKV3BPQlZxclBCN1FkTXA3YWdIQ3RZSkdXWXdxSTFVV1NvY1hTcWNYWmNFaTQ3RWFaMlV1dS1XT2pfMjFUZk5jWE9jaThsWld0MkhWUHFsLWdJaW1pUHZudmhaTm5xNkZIb0tNN1BkRzl0bGRFWFF4MDh5bGMwdUJUaUR3MS1WMEw4UDIxcDJQemdUMjVsZ0ZneDlTOHk3dmpxZjRuQmRUUDhtdEVLT0hia1BjQ0dlNzNyaEVxRkJvTA?oc=5",
+        "published": "29 Mar 2026, 01:30 AM",
+        "iso_date": "2026-03-29T01:30:20+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,20 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain: 174 missiles, 385 drones destroyed since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlpjdHJJV2tLYXlIUFRWeDR1aDd1el9GT1dyUk52Q3J0WlcyZEgyYlNUQWVnV1JQUDQxc29tM1Izbks3X1FlOUlkTGtGMUdjUkwxaEk4QVAzMnJZeTFRa2NEYmRhWURCS2xTNHVfT09tMF85Um8tMkUwR2tLcmV2enBZZ1VvOHIxaVpvVmZkWDY3UF90cVluWDVyOV83UHNkOEFqY1pETkdQaHNFcWRIb2I5Q2ViZHRjbGc?oc=5",
-        "published": "28 Mar 2026, 11:33 AM",
-        "iso_date": "2026-03-28T11:33:00+00:00",
+        "title": "World News",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOd9IB-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOdw?oc=5",
+        "published": "29 Mar 2026, 01:18 AM",
+        "iso_date": "2026-03-29T01:18:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain's Foulath Holding Declares Force Majeure Due To Regional Conditions",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbk5ZVjNfWVJiR0ZnRnRnVXpCQ1dDOUlPM3JXWGN3SVpONXhBZEpWRE92LTRteDBXdHF1dFE0czI2TlZzNFdKUmpiSng4UHg0YXB1VkhxWDYxZDVtSjZLa0lSRnlRZnNZTnRINEtKaS1QTno5VzJBTU9ickh6NUsxcjZaLVVFVC1OTnhpamFYeWZZbFpJSmtOUVVVLU1HUjQ?oc=5",
-        "published": "28 Mar 2026, 09:15 PM",
-        "iso_date": "2026-03-28T21:15:05+00:00",
+        "title": "Bahrain: 174 missiles, 385 drones destroyed since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlpjdHJJV2tLYXlIUFRWeDR1aDd1el9GT1dyUk52Q3J0WlcyZEgyYlNUQWVnV1JQUDQxc29tM1Izbks3X1FlOUlkTGtGMUdjUkwxaEk4QVAzMnJZeTFRa2NEYmRhWURCS2xTNHVfT09tMF85Um8tMkUwR2tLcmV2enBZZ1VvOHIxaVpvVmZkWDY3UF90cVluWDVyOV83UHNkOEFqY1pETkdQaHNFcWRIb2I5Q2ViZHRjbGc?oc=5",
+        "published": "28 Mar 2026, 11:33 AM",
+        "iso_date": "2026-03-28T11:33:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-29 02:34:10 UTC"
+  "fetched_at": "2026-03-29 05:08:23 UTC"
 }
