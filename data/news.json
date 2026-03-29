@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 17
     }
   },
   "articles": {
@@ -82,10 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "World News",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOd9IB-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOdw?oc=5",
-        "published": "29 Mar 2026, 01:18 AM",
-        "iso_date": "2026-03-29T01:18:15+00:00",
+        "title": "World News | Air Raid Sirens Activated Across Kuwait, Bahrain and Israel Amid Reported Missile Threats",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3pXTXhzZmN5OGoyaHVGLWM0bVAyWmxfUDJSMUhoZkI3TWlYUDVLbkpHSEpHVHlrbTZSOVAwNHFOQUM0OFpNOTczN2h6eG1iSDdSU1RpMElwUWwxYTNiQ2xmMGVpMVBxbEZVR19tNlg1dWpQLUpLMWtGel96VHIxcS1iVEV4aURtODNkdjdWcmdjTTJuZFhLbVFYOEozZEFvTzdkaUt4NmViaGF0Tkl1N09lcmx4OXdEaE9hRktQTmtEWXlwQnNvcWJZTVdjMnExNnlPTGk5N3NSNWRVcVpFX2RrU25KSHNH0gHoAUFVX3lxTE5XeldNeHNmY3k4ajJodUYtYzRtUDJabF9QMlIxSGhmQjdNaVhQNUtuSkdISkdUeWttNlI5UDA0cU5BQzQ4Wk05NzM3aHp4bWJIN1JTVGkwSXBRbDFhM2JDbGYwZWkxUHFsRlVHX202WDV1alAtSksxa0Z6X3pUcjFxLWJURXhpRG04M2R2N1ZyZ2NNMm5kWEttUVg4SjNkQW9PN2RpS3g2ZWJoYXROSXU3T2VybHg5d0RoT2FGS1BOa0RZeXBCc29xYllNV2MycTE2eU9MaTk3c1I1ZFVxWkVfZGtTbkpIc0c?oc=5",
+        "published": "29 Mar 2026, 02:46 AM",
+        "iso_date": "2026-03-29T02:46:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -96,16 +96,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0dzVDIzSDh6RjU2U3JRREVLMHVKRnhUT1Q3dW9MNkF3MWtUd1lpeExyUmo3TlZ0Z1NGRlJCOFVRZVpzUGloQ042R3FWNktiQjdjaGRmTldSTTJZQnRJMHVuQjBVZS0xZDFiV25TTmU3SWR1S2lRQ0I3dzVkTWs0b1RWNWV1MFFxNnJQUFAxZmo?oc=5",
         "published": "29 Mar 2026, 05:35 AM",
         "iso_date": "2026-03-29T05:35:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "World News | Air Raid Sirens Activated Across Kuwait, Bahrain and Israel Amid Reported Missile Threats",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3pXTXhzZmN5OGoyaHVGLWM0bVAyWmxfUDJSMUhoZkI3TWlYUDVLbkpHSEpHVHlrbTZSOVAwNHFOQUM0OFpNOTczN2h6eG1iSDdSU1RpMElwUWwxYTNiQ2xmMGVpMVBxbEZVR19tNlg1dWpQLUpLMWtGel96VHIxcS1iVEV4aURtODNkdjdWcmdjTTJuZFhLbVFYOEozZEFvTzdkaUt4NmViaGF0Tkl1N09lcmx4OXdEaE9hRktQTmtEWXlwQnNvcWJZTVdjMnExNnlPTGk5N3NSNWRVcVpFX2RrU25KSHNH0gHoAUFVX3lxTE5XeldNeHNmY3k4ajJodUYtYzRtUDJabF9QMlIxSGhmQjdNaVhQNUtuSkdISkdUeWttNlI5UDA0cU5BQzQ4Wk05NzM3aHp4bWJIN1JTVGkwSXBRbDFhM2JDbGYwZWkxUHFsRlVHX202WDV1alAtSksxa0Z6X3pUcjFxLWJURXhpRG04M2R2N1ZyZ2NNMm5kWEttUVg4SjNkQW9PN2RpS3g2ZWJoYXROSXU3T2VybHg5d0RoT2FGS1BOa0RZeXBCc29xYllNV2MycTE2eU9MaTk3c1I1ZFVxWkVfZGtTbkpIc0c?oc=5",
-        "published": "29 Mar 2026, 02:46 AM",
-        "iso_date": "2026-03-29T02:46:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,6 +256,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Chairs Arab League Meeting, Condemns Regional Threats",
+        "link": "https://www.newsofbahrain.com/bahrain/129435.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ItmwRLWVcF_2026-03-29_1774798030resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Antonelli leads Mercedes 1-2 as Verstappen suffers qualifying shock",
         "link": "https://www.newsofbahrain.com/sports/129434.html",
         "published": "29 Mar 2026, 09:22 AM",
@@ -278,8 +278,8 @@
       {
         "title": "Future Stars series delivers thrilling action",
         "link": "https://www.newsofbahrain.com/sports/129433.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ovHgQK0Zpt_2026-03-29_1774792960resized_pic.jpg",
         "source": "newsofbahrain",
@@ -298,20 +298,10 @@
       {
         "title": "Kohli fires Bengaluru to big win after IPL remembers stampede dead",
         "link": "https://www.newsofbahrain.com/sports/129431.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BDPfXALOQW_2026-03-29_1774792701resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Vingegaard nears Tour of Catalonia victory with stage six win",
-        "link": "https://www.newsofbahrain.com/sports/129430.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rc285WGydN_2026-03-29_1774792474resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BDPfXALOQW_2026-03-29_1774792701resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,16 +342,6 @@
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_IaE1lP7rSd_2026-03-29_1774786619thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Before the Sirens, There Is a Decision",
-        "link": "https://www.newsofbahrain.com/bahrain/129415.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wGMeCVi65v_2026-03-29_1774786511thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -559,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-29 14:31:20 UTC"
+  "fetched_at": "2026-03-29 15:28:19 UTC"
 }
