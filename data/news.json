@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 10
+      "count": 13
     }
   },
   "articles": {
@@ -62,6 +62,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain bans use of drones effective immediately until further notice - nna",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRW1tTFlDXzN4UGRYdkcyNmRzcGxLWmxWbEdNR041TWJ5QkJ1YUwyZkJLUkFsQ3h4YVdxem5BUzRsVEFsN3ZIRHdwMjl1WXI2dklSWjRSdk5nR3BvWEUtN0ZDQldTcUV1VFVvbGVEQ2JzNXdGLUNnTVhXUFhQY2tVY0FrVjNMLVpMbUtveXhMdC04TjlwcWFNaFJ0czZIcnh6MmJuUjBnSmgxUTdpTUh6Y0hJVQ?oc=5",
+        "published": "28 Mar 2026, 05:20 PM",
+        "iso_date": "2026-03-28T17:20:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian Attack on Bahrain's Alba Facility Confirmed, 2 Injured",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmVaZ3dRSzNkYmROOF9vRWVzRWpwWDlhWmN1Y3dDN2dFS3NHc2U4RklycmZhWWRCal92QWVFdk45MWItWXZNSzdXX3A3bzBaT20tWUtqMXY1MHVIWkJKS1ZTdUk2RHVIMkx1b213V0pueVNWQWU0dFoyelh4V0ZlUmwzclJ0MzhVVzhyMm5rMFZmd3l1dTN1U2xYc1lxZldKN2kzSkwxTDM3b1pFMERVMUVrcGlLTEtWR1dV0gHAAUFVX3lxTFBKV3BPQlZxclBCN1FkTXA3YWdIQ3RZSkdXWXdxSTFVV1NvY1hTcWNYWmNFaTQ3RWFaMlV1dS1XT2pfMjFUZk5jWE9jaThsWld0MkhWUHFsLWdJaW1pUHZudmhaTm5xNkZIb0tNN1BkRzl0bGRFWFF4MDh5bGMwdUJUaUR3MS1WMEw4UDIxcDJQemdUMjVsZ0ZneDlTOHk3dmpxZjRuQmRUUDhtdEVLT0hia1BjQ0dlNzNyaEVxRkJvTA?oc=5",
         "published": "29 Mar 2026, 01:30 AM",
@@ -72,10 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain bans use of drones effective immediately until further notice - nna",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRW1tTFlDXzN4UGRYdkcyNmRzcGxLWmxWbEdNR041TWJ5QkJ1YUwyZkJLUkFsQ3h4YVdxem5BUzRsVEFsN3ZIRHdwMjl1WXI2dklSWjRSdk5nR3BvWEUtN0ZDQldTcUV1VFVvbGVEQ2JzNXdGLUNnTVhXUFhQY2tVY0FrVjNMLVpMbUtveXhMdC04TjlwcWFNaFJ0czZIcnh6MmJuUjBnSmgxUTdpTUh6Y0hJVQ?oc=5",
-        "published": "28 Mar 2026, 05:20 PM",
-        "iso_date": "2026-03-28T17:20:55+00:00",
+        "title": "World News",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOd9IB-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOdw?oc=5",
+        "published": "29 Mar 2026, 01:18 AM",
+        "iso_date": "2026-03-29T01:18:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -90,16 +100,36 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "World News | Air Raid Sirens Activated Across Kuwait, Bahrain and Israel Amid Reported Missile Threats",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3pXTXhzZmN5OGoyaHVGLWM0bVAyWmxfUDJSMUhoZkI3TWlYUDVLbkpHSEpHVHlrbTZSOVAwNHFOQUM0OFpNOTczN2h6eG1iSDdSU1RpMElwUWwxYTNiQ2xmMGVpMVBxbEZVR19tNlg1dWpQLUpLMWtGel96VHIxcS1iVEV4aURtODNkdjdWcmdjTTJuZFhLbVFYOEozZEFvTzdkaUt4NmViaGF0Tkl1N09lcmx4OXdEaE9hRktQTmtEWXlwQnNvcWJZTVdjMnExNnlPTGk5N3NSNWRVcVpFX2RrU25KSHNH0gHoAUFVX3lxTE5XeldNeHNmY3k4ajJodUYtYzRtUDJabF9QMlIxSGhmQjdNaVhQNUtuSkdISkdUeWttNlI5UDA0cU5BQzQ4Wk05NzM3aHp4bWJIN1JTVGkwSXBRbDFhM2JDbGYwZWkxUHFsRlVHX202WDV1alAtSksxa0Z6X3pUcjFxLWJURXhpRG04M2R2N1ZyZ2NNMm5kWEttUVg4SjNkQW9PN2RpS3g2ZWJoYXROSXU3T2VybHg5d0RoT2FGS1BOa0RZeXBCc29xYllNV2MycTE2eU9MaTk3c1I1ZFVxWkVfZGtTbkpIc0c?oc=5",
+        "published": "29 Mar 2026, 02:46 AM",
+        "iso_date": "2026-03-29T02:46:16+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "Estidamah sweeps chamber elections",
-        "link": "https://www.gdnonline.com/Details/1379830/Estidamah-sweeps-chamber-elections",
+        "title": "Interior Ministry announces maritime traffic ban from 6pm to 4am",
+        "link": "https://www.gdnonline.com/Details/1379861/Interior-Ministry-announces-maritime-traffic-ban-from-6pm-to-4am",
         "published": "29 Mar 2026",
         "iso_date": "2026-03-29T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329052011splash_T.jpg?20260329",
+        "image": "https://www.gdnonline.com/gdnimages/20260329/202603291503281231(1)_T.jpg?20260329",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "SCE announces lifting seasonal fishing ban on Safi, Shaari, Andag",
+        "link": "https://www.gdnonline.com/Details/1379859/SCE-announces-lifting-seasonal-fishing-ban-on-Safi,-Shaari,-Andag",
+        "published": "29 Mar 2026",
+        "iso_date": "2026-03-29T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329135321dominikrh-sea-7484743_640_T.jpg?20260329",
         "source": "gdn",
         "category": "Latest"
       },
@@ -124,22 +154,12 @@
         "category": "Latest"
       },
       {
-        "title": "Emergency teams pumped out 6,411 tanker loads of rainwater",
-        "link": "https://www.gdnonline.com/Details/1379782/Emergency-teams-pumped-out-6,411-tanker-loads-of-rainwater",
+        "title": "Estidamah sweeps chamber elections",
+        "link": "https://www.gdnonline.com/Details/1379830/Estidamah-sweeps-chamber-elections",
         "published": "29 Mar 2026",
         "iso_date": "2026-03-29T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329015520beforeafter_T.jpg?20260329",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Quarter of divorces âregistered after 15 years of marriageâ",
-        "link": "https://www.gdnonline.com/Details/1379784/Quarter-of-divorces-âregistered-after-15-years-of-marriageâ",
-        "published": "29 Mar 2026",
-        "iso_date": "2026-03-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260328_231349_0_T.jpg?20260329",
+        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329052011splash_T.jpg?20260329",
         "source": "gdn",
         "category": "Latest"
       },
@@ -246,62 +266,82 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Air Defences Intercept 6 Drones in 24 Hours",
-        "link": "https://www.newsofbahrain.com/bahrain/129408.html",
+        "title": "Rainwater floods Isa Town houses",
+        "link": "https://www.newsofbahrain.com/bahrain/129420.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JD9kWprhGu_2026-03-29_1774784110resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q4GuUFYIpq_2026-03-29_1774787992resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India Union Minister Piyush Goyal Unveils Malabar Gold & Diamonds’ USD 24 Million CSR Initiative for FY 2026–27",
+        "link": "https://www.newsofbahrain.com/business/129419.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ytKN9TwWgS_2026-03-29_1774787808resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BCCI polls mark key milestone for private sector, says Minister",
+        "link": "https://www.newsofbahrain.com/business/129418.html",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jT03D7okQa_2026-03-29_1774788223resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "CBSE introduces revised Class 12 evaluation for West Asia students",
+        "link": "https://www.newsofbahrain.com/bahrain/129417.html",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_moM2WEkPwN_2026-03-29_1774786813resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Fish Ban Begins as Families Rush to Save a Taste",
+        "link": "https://www.newsofbahrain.com/bahrain/129416.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IaE1lP7rSd_2026-03-29_1774786619resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Before the Sirens, There Is a Decision",
+        "link": "https://www.newsofbahrain.com/bahrain/129415.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wGMeCVi65v_2026-03-29_1774786511thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A Vote That Reaches Every Household",
+        "link": "https://www.newsofbahrain.com/bahrain/129414.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hdyUj2Duma_2026-03-29_1774786363thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Pakistan Engages Türkiye, Egypt in High-Level Talks on Regional Stability",
-        "link": "https://www.newsofbahrain.com/world/129407.html",
+        "link": "https://www.newsofbahrain.com/world/129406.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zxpTf9JZNH_2026-03-29_1774779882resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Services Committee declines support ‘in principle’ for three pension, retirement amendments",
-        "link": "https://www.newsofbahrain.com/bahrain/129405.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fTetXxpK7M_2026-03-29_1774774263resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "No expat hires since 2019",
-        "link": "https://www.newsofbahrain.com/bahrain/129403.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1Polmc5wNi_2026-03-29_1774773847resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man acquitted of obstructing enforcement proceedings",
-        "link": "https://www.newsofbahrain.com/bahrain/129402.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4zf1aurbsH_2026-03-29_1774773645thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Smooth voting process",
-        "link": "https://www.newsofbahrain.com/bahrain/129401.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SgIym0Xc7F_2026-03-29_1774773365thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G41YZOEhNj_2026-03-29_1774778317thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,6 +362,16 @@
         "iso_date": "2026-03-28T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1UdjvEQy42_2026-03-28_1774723862thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ukraine Seeks Long-Term Industrial Partnerships with Saudi Arabia and Qatar",
+        "link": "https://www.newsofbahrain.com/world/129372.html",
+        "published": "28 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j6hdBoul40_2026-03-28_1774721669thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-29 11:51:48 UTC"
+  "fetched_at": "2026-03-29 12:48:58 UTC"
 }
