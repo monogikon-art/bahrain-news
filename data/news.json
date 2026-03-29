@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -76,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRW1tTFlDXzN4UGRYdkcyNmRzcGxLWmxWbEdNR041TWJ5QkJ1YUwyZkJLUkFsQ3h4YVdxem5BUzRsVEFsN3ZIRHdwMjl1WXI2dklSWjRSdk5nR3BvWEUtN0ZDQldTcUV1VFVvbGVEQ2JzNXdGLUNnTVhXUFhQY2tVY0FrVjNMLVpMbUtveXhMdC04TjlwcWFNaFJ0czZIcnh6MmJuUjBnSmgxUTdpTUh6Y0hJVQ?oc=5",
         "published": "28 Mar 2026, 05:20 PM",
         "iso_date": "2026-03-28T17:20:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "World News | Air Raid Sirens Activated Across Kuwait, Bahrain and Israel Amid Reported Missile Threats",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3pXTXhzZmN5OGoyaHVGLWM0bVAyWmxfUDJSMUhoZkI3TWlYUDVLbkpHSEpHVHlrbTZSOVAwNHFOQUM0OFpNOTczN2h6eG1iSDdSU1RpMElwUWwxYTNiQ2xmMGVpMVBxbEZVR19tNlg1dWpQLUpLMWtGel96VHIxcS1iVEV4aURtODNkdjdWcmdjTTJuZFhLbVFYOEozZEFvTzdkaUt4NmViaGF0Tkl1N09lcmx4OXdEaE9hRktQTmtEWXlwQnNvcWJZTVdjMnExNnlPTGk5N3NSNWRVcVpFX2RrU25KSHNH0gHoAUFVX3lxTE5XeldNeHNmY3k4ajJodUYtYzRtUDJabF9QMlIxSGhmQjdNaVhQNUtuSkdISkdUeWttNlI5UDA0cU5BQzQ4Wk05NzM3aHp4bWJIN1JTVGkwSXBRbDFhM2JDbGYwZWkxUHFsRlVHX202WDV1alAtSksxa0Z6X3pUcjFxLWJURXhpRG04M2R2N1ZyZ2NNMm5kWEttUVg4SjNkQW9PN2RpS3g2ZWJoYXROSXU3T2VybHg5d0RoT2FGS1BOa0RZeXBCc29xYllNV2MycTE2eU9MaTk3c1I1ZFVxWkVfZGtTbkpIc0c?oc=5",
-        "published": "29 Mar 2026, 02:46 AM",
-        "iso_date": "2026-03-29T02:46:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -204,12 +194,12 @@
         "category": "Latest"
       },
       {
-        "title": "Diop debut for Morocco a boost in PR battle with Senegal",
-        "link": "https://www.gdnonline.com/Details/1379836/Diop-debut-for-Morocco-a-boost-in-PR-battle-with-Senegal",
+        "title": "Spurs interim boss Tudor leaves club after five defeats in seven games",
+        "link": "https://www.gdnonline.com/Details/1379871/Spurs-interim-boss-Tudor-leaves-club-after-five-defeats-in-seven-games",
         "published": "29 Mar 2026",
         "iso_date": "2026-03-29T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329100732diop_T.jpg?20260329",
+        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329_181117_0_T.jpg?20260329",
         "source": "gdn",
         "category": "Latest"
       },
@@ -220,6 +210,16 @@
         "iso_date": "2026-03-29T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260329/20260329102450van_T.jpg?20260329",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Diop debut for Morocco a boost in PR battle with Senegal",
+        "link": "https://www.gdnonline.com/Details/1379836/Diop-debut-for-Morocco-a-boost-in-PR-battle-with-Senegal",
+        "published": "29 Mar 2026",
+        "iso_date": "2026-03-29T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329100732diop_T.jpg?20260329",
         "source": "gdn",
         "category": "Latest"
       },
@@ -240,16 +240,6 @@
         "iso_date": "2026-03-29T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260329/20260329100105mxc_T.jpg?20260329",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Egypt cruise past Saudi",
-        "link": "https://www.gdnonline.com/Details/1379745/Egypt-cruise-past-Saudi",
-        "published": "28 Mar 2026",
-        "iso_date": "2026-03-28T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328_022337_0_T.jpg?20260329",
         "source": "gdn",
         "category": "Latest"
       }
@@ -539,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-29 15:28:19 UTC"
+  "fetched_at": "2026-03-29 15:55:53 UTC"
 }
