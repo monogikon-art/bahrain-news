@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 15
     }
   },
   "articles": {
@@ -154,6 +154,16 @@
         "category": "Latest"
       },
       {
+        "title": "Foulath Holding to resume operations from March 30",
+        "link": "https://www.gdnonline.com/Details/1379873/Foulath-Holding-to-resume-operations-from-March-30",
+        "published": "29 Mar 2026",
+        "iso_date": "2026-03-29T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329201347foulath_T.jpg?20260329",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Companies âintegrating video games into marketing campaignsâ",
         "link": "https://www.gdnonline.com/Details/1379789/Companies-âintegrating-video-games-into-marketing-campaignsâ",
         "published": "29 Mar 2026",
@@ -190,16 +200,6 @@
         "iso_date": "2026-03-29T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260329/20260329033255foulath_T.jpg?20260329",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Foulath Holding declares force majeure due to regional developments",
-        "link": "https://www.gdnonline.com/Details/1379790/Foulath-Holding-declares-force-majeure-due-to-regional-developments",
-        "published": "28 Mar 2026",
-        "iso_date": "2026-03-28T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260328/20260328231900foulath_T.jpg?20260329",
         "source": "gdn",
         "category": "Latest"
       },
@@ -256,10 +256,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Chairs Arab League Meeting, Condemns Regional Threats",
-        "link": "https://www.newsofbahrain.com/bahrain/129435.html",
+        "title": "Arab foreign ministers discuss regional security and maritime threats",
+        "link": "https://www.newsofbahrain.com/bahrain/129437.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xuXa7hbd8c_2026-03-29_1774806299resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian Ambassador Defies Lebanon Exit Order",
+        "link": "https://www.newsofbahrain.com/world/129436.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GEKdvmQjZq_2026-03-29_1774805998resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Chairs Arab League Meeting, Condemns Regional Threats",
+        "link": "https://www.newsofbahrain.com/bahrain/129435.html",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ItmwRLWVcF_2026-03-29_1774798030resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +288,8 @@
       {
         "title": "Antonelli leads Mercedes 1-2 as Verstappen suffers qualifying shock",
         "link": "https://www.newsofbahrain.com/sports/129434.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_bmiz2ptad5_2026-03-29_1774793846resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,30 +298,10 @@
       {
         "title": "Future Stars series delivers thrilling action",
         "link": "https://www.newsofbahrain.com/sports/129433.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ovHgQK0Zpt_2026-03-29_1774792960resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Austin Ogukwa set to make Najma debut",
-        "link": "https://www.newsofbahrain.com/sports/129432.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RtKkigwBOa_2026-03-29_1774792775resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kohli fires Bengaluru to big win after IPL remembers stampede dead",
-        "link": "https://www.newsofbahrain.com/sports/129431.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BDPfXALOQW_2026-03-29_1774792701resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ovHgQK0Zpt_2026-03-29_1774792960resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -336,16 +336,6 @@
         "category": "Latest"
       },
       {
-        "title": "Fish Ban Begins as Families Rush to Save a Taste",
-        "link": "https://www.newsofbahrain.com/bahrain/129416.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IaE1lP7rSd_2026-03-29_1774786619thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "India opens 2nd international airport in capital",
         "link": "https://www.newsofbahrain.com/world/129428.html",
         "published": "29 Mar 2026, 09:22 AM",
@@ -372,16 +362,6 @@
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Nsb2ApWJVZ_2026-03-29_1774789496thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sweet heist? Nestle says 12 tonnes of KitKat stolen",
-        "link": "https://www.newsofbahrain.com/world/129425.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o4U1VAg92M_2026-03-29_1774789317thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-29 17:27:32 UTC"
+  "fetched_at": "2026-03-29 17:57:43 UTC"
 }
