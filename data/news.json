@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -72,6 +72,16 @@
         "category": "Latest"
       },
       {
+        "title": "World News",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOd9IB-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOdw?oc=5",
+        "published": "29 Mar 2026, 01:18 AM",
+        "iso_date": "2026-03-29T01:18:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Aluminium smelter confirms Iranian attack",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0dzVDIzSDh6RjU2U3JRREVLMHVKRnhUT1Q3dW9MNkF3MWtUd1lpeExyUmo3TlZ0Z1NGRlJCOFVRZVpzUGloQ042R3FWNktiQjdjaGRmTldSTTJZQnRJMHVuQjBVZS0xZDFiV25TTmU3SWR1S2lRQ0I3dzVkTWs0b1RWNWV1MFFxNnJQUFAxZmo?oc=5",
         "published": "29 Mar 2026, 05:35 AM",
@@ -82,10 +92,10 @@
         "category": "Latest"
       },
       {
-        "title": "World News",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOd9IB-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOdw?oc=5",
-        "published": "29 Mar 2026, 01:18 AM",
-        "iso_date": "2026-03-29T01:18:15+00:00",
+        "title": "World News | Air Raid Sirens Activated Across Kuwait, Bahrain and Israel Amid Reported Missile Threats",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3pXTXhzZmN5OGoyaHVGLWM0bVAyWmxfUDJSMUhoZkI3TWlYUDVLbkpHSEpHVHlrbTZSOVAwNHFOQUM0OFpNOTczN2h6eG1iSDdSU1RpMElwUWwxYTNiQ2xmMGVpMVBxbEZVR19tNlg1dWpQLUpLMWtGel96VHIxcS1iVEV4aURtODNkdjdWcmdjTTJuZFhLbVFYOEozZEFvTzdkaUt4NmViaGF0Tkl1N09lcmx4OXdEaE9hRktQTmtEWXlwQnNvcWJZTVdjMnExNnlPTGk5N3NSNWRVcVpFX2RrU25KSHNH0gHoAUFVX3lxTE5XeldNeHNmY3k4ajJodUYtYzRtUDJabF9QMlIxSGhmQjdNaVhQNUtuSkdISkdUeWttNlI5UDA0cU5BQzQ4Wk05NzM3aHp4bWJIN1JTVGkwSXBRbDFhM2JDbGYwZWkxUHFsRlVHX202WDV1alAtSksxa0Z6X3pUcjFxLWJURXhpRG04M2R2N1ZyZ2NNMm5kWEttUVg4SjNkQW9PN2RpS3g2ZWJoYXROSXU3T2VybHg5d0RoT2FGS1BOa0RZeXBCc29xYllNV2MycTE2eU9MaTk3c1I1ZFVxWkVfZGtTbkpIc0c?oc=5",
+        "published": "29 Mar 2026, 02:46 AM",
+        "iso_date": "2026-03-29T02:46:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,10 +256,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Pakistan reaffirms mediation efforts with Iran and the United States",
-        "link": "https://www.newsofbahrain.com/world/129439.html",
+        "title": "Bahrain condemns attacks targeting Kurdistan leadership residences",
+        "link": "https://www.newsofbahrain.com/bahrain/129441.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XAz6Ye4pu0_2026-03-29_1774812216resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "U.S. Embassies in Qatar and Iraq Issue Fresh Security Warnings",
+        "link": "https://www.newsofbahrain.com/world/129440.html",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n0CLSYUVHh_2026-03-29_1774810050resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pakistan reaffirms mediation efforts with Iran and the United States",
+        "link": "https://www.newsofbahrain.com/world/129439.html",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_tV9k8xNCye_2026-03-29_1774808597resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +288,8 @@
       {
         "title": "Arab foreign ministers discuss regional security and maritime threats",
         "link": "https://www.newsofbahrain.com/bahrain/129437.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_xuXa7hbd8c_2026-03-29_1774806299resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +298,8 @@
       {
         "title": "Iranian Ambassador Defies Lebanon Exit Order",
         "link": "https://www.newsofbahrain.com/world/129436.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
+        "published": "29 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_GEKdvmQjZq_2026-03-29_1774805998resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,20 +308,10 @@
       {
         "title": "Bahrain Chairs Arab League Meeting, Condemns Regional Threats",
         "link": "https://www.newsofbahrain.com/bahrain/129435.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ItmwRLWVcF_2026-03-29_1774798030resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Antonelli leads Mercedes 1-2 as Verstappen suffers qualifying shock",
-        "link": "https://www.newsofbahrain.com/sports/129434.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bmiz2ptad5_2026-03-29_1774793846resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ItmwRLWVcF_2026-03-29_1774798030thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -316,32 +336,12 @@
         "category": "Latest"
       },
       {
-        "title": "CBSE introduces revised Class 12 evaluation for West Asia students",
-        "link": "https://www.newsofbahrain.com/bahrain/129417.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_moM2WEkPwN_2026-03-29_1774786813thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "India opens 2nd international airport in capital",
         "link": "https://www.newsofbahrain.com/world/129428.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_D0xfFdGjm2_2026-03-29_1774789922thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Foreign media association slams Israeli forces' 'violent assault' on CNN crew",
-        "link": "https://www.newsofbahrain.com/world/129427.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4jqwu7WPex_2026-03-29_1774789772thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-29 18:48:00 UTC"
+  "fetched_at": "2026-03-29 19:29:53 UTC"
 }
