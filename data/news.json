@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 10
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -82,20 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "Jazeera Airways To Resume Karachi Flights Via Dammam From April 7",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VVZFYlhRMjJrQ3ZvUVpMRmphaTJFYUJhY3haQk16WDNTTlFJOWU2ZE5vOGlVVkE3SWQ5Q29jTlN2a1RNRlpmVThRTWhsdGFMYUVFNnd2ejFraGxGMmsyamd3?oc=5",
-        "published": "28 Mar 2026, 10:37 AM",
-        "iso_date": "2026-03-28T10:37:56+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "World News",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOd9IB-wFBVV95cUxNUUtIU1BnOXozTFVvMHJSaUN5Nk1VSmZwNWVfTE1yZ2lySmJIYTZ0ajdkcTY4VlRtS2xYOWw0Yk9IaFNzWFowWmxja0tEbXNqNDMzekh5VFRBdHY2TllkcUVOSklqUWhRMjhQd2h1Ukl1ckMtRElxV090N2s1WnFZRThSNHNyNEJsN3hPcHBiU2RmRVI5RE9rS3RRTWFBczZFWDJ6b3hCNHBZUWxuTi1KcXJ4dlFpVHBxdzR6b1gteUJhNDgxNG15bW8wblY4Um5QSTFUMW5icTA0eFQyZVlUYWRCdldfWUpQNEdiYVJFNm5fSklnVWtsenFOdw?oc=5",
-        "published": "29 Mar 2026, 01:18 AM",
-        "iso_date": "2026-03-29T01:18:15+00:00",
+        "title": "World News | Air Raid Sirens Activated Across Kuwait, Bahrain and Israel Amid Reported Missile Threats",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3pXTXhzZmN5OGoyaHVGLWM0bVAyWmxfUDJSMUhoZkI3TWlYUDVLbkpHSEpHVHlrbTZSOVAwNHFOQUM0OFpNOTczN2h6eG1iSDdSU1RpMElwUWwxYTNiQ2xmMGVpMVBxbEZVR19tNlg1dWpQLUpLMWtGel96VHIxcS1iVEV4aURtODNkdjdWcmdjTTJuZFhLbVFYOEozZEFvTzdkaUt4NmViaGF0Tkl1N09lcmx4OXdEaE9hRktQTmtEWXlwQnNvcWJZTVdjMnExNnlPTGk5N3NSNWRVcVpFX2RrU25KSHNH0gHoAUFVX3lxTE5XeldNeHNmY3k4ajJodUYtYzRtUDJabF9QMlIxSGhmQjdNaVhQNUtuSkdISkdUeWttNlI5UDA0cU5BQzQ4Wk05NzM3aHp4bWJIN1JTVGkwSXBRbDFhM2JDbGYwZWkxUHFsRlVHX202WDV1alAtSksxa0Z6X3pUcjFxLWJURXhpRG04M2R2N1ZyZ2NNMm5kWEttUVg4SjNkQW9PN2RpS3g2ZWJoYXROSXU3T2VybHg5d0RoT2FGS1BOa0RZeXBCc29xYllNV2MycTE2eU9MaTk3c1I1ZFVxWkVfZGtTbkpIc0c?oc=5",
+        "published": "29 Mar 2026, 02:46 AM",
+        "iso_date": "2026-03-29T02:46:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -112,10 +102,10 @@
         "category": "Latest"
       },
       {
-        "title": "World News | Air Raid Sirens Activated Across Kuwait, Bahrain and Israel Amid Reported Missile Threats",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3pXTXhzZmN5OGoyaHVGLWM0bVAyWmxfUDJSMUhoZkI3TWlYUDVLbkpHSEpHVHlrbTZSOVAwNHFOQUM0OFpNOTczN2h6eG1iSDdSU1RpMElwUWwxYTNiQ2xmMGVpMVBxbEZVR19tNlg1dWpQLUpLMWtGel96VHIxcS1iVEV4aURtODNkdjdWcmdjTTJuZFhLbVFYOEozZEFvTzdkaUt4NmViaGF0Tkl1N09lcmx4OXdEaE9hRktQTmtEWXlwQnNvcWJZTVdjMnExNnlPTGk5N3NSNWRVcVpFX2RrU25KSHNH0gHoAUFVX3lxTE5XeldNeHNmY3k4ajJodUYtYzRtUDJabF9QMlIxSGhmQjdNaVhQNUtuSkdISkdUeWttNlI5UDA0cU5BQzQ4Wk05NzM3aHp4bWJIN1JTVGkwSXBRbDFhM2JDbGYwZWkxUHFsRlVHX202WDV1alAtSksxa0Z6X3pUcjFxLWJURXhpRG04M2R2N1ZyZ2NNMm5kWEttUVg4SjNkQW9PN2RpS3g2ZWJoYXROSXU3T2VybHg5d0RoT2FGS1BOa0RZeXBCc29xYllNV2MycTE2eU9MaTk3c1I1ZFVxWkVfZGtTbkpIc0c?oc=5",
-        "published": "29 Mar 2026, 02:46 AM",
-        "iso_date": "2026-03-29T02:46:16+00:00",
+        "title": "Bahrain: 174 missiles, 385 drones destroyed since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlpjdHJJV2tLYXlIUFRWeDR1aDd1el9GT1dyUk52Q3J0WlcyZEgyYlNUQWVnV1JQUDQxc29tM1Izbks3X1FlOUlkTGtGMUdjUkwxaEk4QVAzMnJZeTFRa2NEYmRhWURCS2xTNHVfT09tMF85Um8tMkUwR2tLcmV2enBZZ1VvOHIxaVpvVmZkWDY3UF90cVluWDVyOV83UHNkOEFqY1pETkdQaHNFcWRIb2I5Q2ViZHRjbGc?oc=5",
+        "published": "28 Mar 2026, 11:33 AM",
+        "iso_date": "2026-03-28T11:33:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-29 10:29:35 UTC"
+  "fetched_at": "2026-03-29 11:02:16 UTC"
 }
