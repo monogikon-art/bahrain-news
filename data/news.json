@@ -16,21 +16,11 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 17
     }
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain’s Alba confirms Iranian attack on aluminum facilities, two injured",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwWWpIRnBWR1g2Y0hnMlVhdHVVd251SmJRcnVvZGl3NUl3UHphWG5aak5lMWxMRnItbnBscWVpOEgtaXFtWU53Q0xST2M3V1ZwTzRr?oc=5",
-        "published": "29 Mar 2026, 08:22 AM",
-        "iso_date": "2026-03-29T08:22:43+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain’s Foulath Holding declares force majeure on some operations",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdk94a1UwY2JiMEFFb3VJZnBYaXZYUTZnSGN5aEZwZ1hCQ19YUlRJQTNGNzhra0o0Ykd5VTZCMWxabU9PSnlkUVdXYUQ3c1UxdnVDYW9vak9HcTc2cFVlc1JHOGZCX3lTcHQzNGpBbFhzV0ZwTlVLdTZuMnY3RDZLcEhESDlfQW1NNlBIcTZoYUR1cmhnYWc?oc=5",
@@ -52,10 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "UAE and Bahrain aluminium plants hit by Iranian strikes - Arabian Gulf Business Insight | AGBI",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzBjck15MHB0VzZRVkxhOURMWWpObjdQZFFwajlsWGpYX24zYV9ZUVNVeUZGZ0I4VThsNEVQRzJBNnQzaWNJekpWQ253TzdRc1haTVAtaVc3N3RDeE82QVBVbGNzMnlFQlpMZ3pVeWQ4T3gxakFxWmNWMjFpWkZiaU4wZkVuOGV3MmJSQzhQVW05WklTSjFYRGxn?oc=5",
-        "published": "29 Mar 2026, 07:43 AM",
-        "iso_date": "2026-03-29T07:43:13+00:00",
+        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT1Y0UmtyQ0FXd2VmVVFNWHI2YzZaOG1IejVDUDNzdGp1emg0N2p6Q0dfTUFNSTNZRE9kWmRfN1RsZ245MHAxd1VheTF4TDhvSW43MUxZVGZjdTVMa1BvNnpFb3ZxT1dfNzNxbTBLTjQ0eHVYcjFyenc3UVJCUGs4QmhHWHVsUEVZU00tU2ktc1NMcExRellnRnF3RXZlOTBQbFgtYnVUdEc4VXFPRUYwNHlUWm9uaFBhZFgyemRtWmZYVy1jVFZpckZfZVBTVWhnNzI2M1NzWEJ6OXZZdjR0U284b3RpdFN0aFNTSTg0Y0pBYXJUTlJzb2lzbw?oc=5",
+        "published": "29 Mar 2026, 11:33 PM",
+        "iso_date": "2026-03-29T23:33:09+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Jazeera Airways To Resume Karachi Flights Via Dammam From April 7",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVC05NjBfb2RQMjNXT3I4bExzWHVlZ0ctVVhRcjQ4RkZJRF9ueWU5S0t5VVJBYWwtcUo4RUJFWEtrYk5pLTVLWXFIM1ZTaVBWeWtGOHJMWHM1TWNQY2hPbVFHVjVtNDhwcEhSZEtfZmJJZGozR1BDSXo1TkpGbFNtTg?oc=5",
+        "published": "29 Mar 2026, 09:14 AM",
+        "iso_date": "2026-03-29T09:14:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -63,9 +63,9 @@
       },
       {
         "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWTkzbUphYk9QQzFWVXFBeEJQY2E1V2tWd2dOQ1JkVUIxdWNtRHZsNjZqTXZJaGljRlpCS0xHRDhsTVE1TVNBRGtUWjR1Y1gxakptN2V3Q3dfc05uRTNydWpRRDRWMmdwaXJGeGdVWUNyQmoteEM4bEluZm5vQ3hDd1hpYTRYR3JtVE9URWxaMkJJajhiTmJqRTFCdE4taWRuUm1mc2tkUndDbWJGdnlHTDlJaWNaUnBESGRXdk1HeHBLUTBORWNXMEhXTTRDb2Y2b1BWSVNrZVBRU2NvUnpWWUxYSk0xVEVCUWR6U2dNR0h4V3JmLWZtTHFEeGE2bWJQeUZwMg?oc=5",
-        "published": "29 Mar 2026, 08:53 AM",
-        "iso_date": "2026-03-29T08:53:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNQWhySGFiajZMempKT1M1VjdmQUktMGZMRjRmSldrN0hGd2JnRXJxbC1DTXhJbl9RRV90dEZuTEE4UEVMVzJqR0hQcDVuejJLYVY5MVNBOE1fQWpOcGdaTzV3VWNXaVBKYmowUF85b0JUUkpGTHJGTjVPMzJkT2FqVURKVUdzZzhYOFZvLUp1cjRtbjRfNENLaEg5MHBGTzVhdFdJQml2OXp4YTBsdTdrYkt1M1RVcGd1UGlHajcwUFpCazV1NXlrUWJ0c1M4eGh6VGtlLTh0NjZqaVBSQ1IzX2NGSkpWMjlBclNDNzdfcU0tcDFFSGh6aHJpT0tHam1oR2k3QUIzcFkxMGJxU3dZWnlGX0toQ2w4dTZXR1RfQUZyNFBvdm1yVFZaLXIwbFZXUzZFZWVNVVl2T0xuZ0YyYkxFMGxWenBiaWFUUXpYdHRMMzhBNV8xSFFMbzhJOWlPTUNLdHd6RURoV1k3V0wzenhqRTZMUUlXOC1EUy1ER1ktRHJmbXlQOXhZUlZRdkJISEFvY3E2ZGJhd2c?oc=5",
+        "published": "29 Mar 2026, 09:04 AM",
+        "iso_date": "2026-03-29T09:04:33+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,12 +236,82 @@
     ],
     "newsofbahrain": [
       {
+        "title": "F1 drivers call for safety changes after Bearman smash",
+        "link": "https://www.newsofbahrain.com/sports/129477.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VSgeuwc8Xv_2026-03-30_1774858339resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tudor leaves after just seven games as Spurs battle for survival",
+        "link": "https://www.newsofbahrain.com/sports/129476.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XcFqvoynGa_2026-03-30_1774858235resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Egypt Imposes Early Closures to Save Energy Amid Regional Crisis",
+        "link": "https://www.newsofbahrain.com/world/129475.html",
+        "published": "30 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-30T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uxvdgIerPF_2026-03-30_1774858230resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump Floats Plan to “Take Iran’s Oil” in Financial Times Interview",
+        "link": "https://www.newsofbahrain.com/world/129473.html",
+        "published": "30 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-30T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xkMjI9KEOR_2026-03-30_1774858042resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "‘Excited’ Buttler rejuvenated for IPL after horror T20 World Cup",
+        "link": "https://www.newsofbahrain.com/sports/129472.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PVg4M6HSRQ_2026-03-30_1774857248resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF air defences destroy six drones",
+        "link": "https://www.newsofbahrain.com/bahrain/129466.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z7D5xaTh4H_2026-03-30_1774854742thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "24-hour care across Muharraq",
+        "link": "https://www.newsofbahrain.com/bahrain/129465.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dv73abeoWw_2026-03-30_1774854595thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Municipal measures enhance services",
         "link": "https://www.newsofbahrain.com/bahrain/129464.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X4nKyiOvaT_2026-03-30_1774853804resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X4nKyiOvaT_2026-03-30_1774853804thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,77 +321,67 @@
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_en9SIGtlhN_2026-03-30_1774852956resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_en9SIGtlhN_2026-03-30_1774852956thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Two more scholarships for scientific research",
         "link": "https://www.newsofbahrain.com/bahrain/129462.html",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JiDxMuHT9A_2026-03-30_1774852097resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘People first’",
-        "link": "https://www.newsofbahrain.com/bahrain/129461.html",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pT8n5uYdJx_2026-03-30_1774851740resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Parliamentary group to seek IPU Motion on Iran attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/129460.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ajK29YPfxL_2026-03-30_1774850916resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JiDxMuHT9A_2026-03-30_1774852097thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Trump: Iran Sending 20 Oil Tankers Through Hormuz Strait",
-        "link": "https://www.newsofbahrain.com/world/129449.html",
+        "title": "Indonesian UN Peacekeeper Killed, Three Injured in Lebanon",
+        "link": "https://www.newsofbahrain.com/world/129470.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d9j3MarSbx_2026-03-30_1774835774thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yh8neZtkm1_2026-03-30_1774856573thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Indian Worker Killed in Strike on Desalination Plant in Kuwait",
-        "link": "https://www.newsofbahrain.com/world/129448.html",
+        "title": "Pope Leo: God Rejects Prayers of Those Who Wage War",
+        "link": "https://www.newsofbahrain.com/world/129468.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SrmdjKAlqY_2026-03-30_1774832145thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HhumEnCSIk_2026-03-30_1774856068thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Closures, Remote Learning, and Security Alerts Across the region",
-        "link": "https://www.newsofbahrain.com/world/129447.html",
+        "title": "Two more India-bound tankers pass Strait of Hormuz: shipping ministry",
+        "link": "https://www.newsofbahrain.com/business/129471.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ETuv3sUwbL_2026-03-29_1774823703thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HG253mfcKP_2026-03-30_1774856870thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE Condemns Iranian Attack on Kuwait Military Camp",
-        "link": "https://www.newsofbahrain.com/world/129444.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
+        "title": "Al Baraka Islamic Bank holds 2026 Annual General Meeting virtually",
+        "link": "https://www.newsofbahrain.com/business/129469.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yr29e7EPtz_2026-03-29_1774815511thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YzBJ5SFDUd_2026-03-30_1774856435thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Takaful International Company AGM announces 15% cash dividends",
+        "link": "https://www.newsofbahrain.com/business/129467.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Jn4ZwLtM1f_2026-03-30_1774855112thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,26 +392,6 @@
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ytKN9TwWgS_2026-03-29_1774787808thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Foulath Holding Declares Force Majeure Amid Regional Tensions",
-        "link": "https://www.newsofbahrain.com/business/129378.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_InQzFOJBAW_2026-03-29_1774763944thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sustainability Bloc Sweeps Bahrain Chamber Elections with 17 Seats",
-        "link": "https://www.newsofbahrain.com/business/129377.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SkwWhrlLxT_2026-03-29_1774751194thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-30 07:06:09 UTC"
+  "fetched_at": "2026-03-30 08:54:35 UTC"
 }
