@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -23,19 +23,9 @@
     "bna": [
       {
         "title": "Bahrain arrests 3 suspects linked to Hezbollah",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZZVY5N0ZoN2ZKTGNXempPNFdCeUFsYjFjczBYQXlpTGNhYU1PSmY1bG9LejYwUHdYMXdJejJ0RENveE40YzhzWTd5MURmemhsSng5c29KcWtmMDUy?oc=5",
-        "published": "30 Mar 2026, 08:38 PM",
-        "iso_date": "2026-03-30T20:38:39+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
-        "published": "30 Mar 2026, 03:13 PM",
-        "iso_date": "2026-03-30T15:13:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjUW16dXJuT2xiZ1Ixb1NTc0VkcXNtd2dKc0xwSDc0UXRCSjFneUJ5MVJvTmZkNlJfSGlGMWlOc0t6SmtQWGFKRGEyal84cnhreVZN?oc=5",
+        "published": "30 Mar 2026, 08:42 PM",
+        "iso_date": "2026-03-30T20:42:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-30 22:32:08 UTC"
+  "fetched_at": "2026-03-30 23:32:01 UTC"
 }
