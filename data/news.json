@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -53,19 +53,9 @@
       },
       {
         "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT1ExNkFjMUhLbG96d2xOcTlrWk9IUlFWSlpMRlh5QVdTMW9HYWsycEI5dDNaUFJzdkdDeDNjZm81MVJWcjJMUFJ1SS05V3BxcVdYaUZvSExfOFYzZ1FZTzY3XzFNTkpMaUdielg5VUQ0SHh5d3R6RXlwU21ZRGluOGVxaklsQ3Jna2N2OXBRYWt2YUZlc0lCanRCUFNlWHpGeDdtNjRLY0lxdnZ0MWxoSDhlNFVlb2drYXE4U0VfUG1lc0twdUYtczFxTTFxOGJiNFVRWXNseV9NX3ZmUDU2M2w3QTNOd2MwU2c?oc=5",
-        "published": "29 Mar 2026, 02:42 AM",
-        "iso_date": "2026-03-29T02:42:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Attack on Bahrain's Alba Facility Confirmed, 2 Injured",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmVaZ3dRSzNkYmROOF9vRWVzRWpwWDlhWmN1Y3dDN2dFS3NHc2U4RklycmZhWWRCal92QWVFdk45MWItWXZNSzdXX3A3bzBaT20tWUtqMXY1MHVIWkJKS1ZTdUk2RHVIMkx1b213V0pueVNWQWU0dFoyelh4V0ZlUmwzclJ0MzhVVzhyMm5rMFZmd3l1dTN1U2xYc1lxZldKN2kzSkwxTDM3b1pFMERVMUVrcGlLTEtWR1dV0gHAAUFVX3lxTFBKV3BPQlZxclBCN1FkTXA3YWdIQ3RZSkdXWXdxSTFVV1NvY1hTcWNYWmNFaTQ3RWFaMlV1dS1XT2pfMjFUZk5jWE9jaThsWld0MkhWUHFsLWdJaW1pUHZudmhaTm5xNkZIb0tNN1BkRzl0bGRFWFF4MDh5bGMwdUJUaUR3MS1WMEw4UDIxcDJQemdUMjVsZ0ZneDlTOHk3dmpxZjRuQmRUUDhtdEVLT0hia1BjQ0dlNzNyaEVxRkJvTA?oc=5",
-        "published": "29 Mar 2026, 01:30 AM",
-        "iso_date": "2026-03-29T01:30:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWTkzbUphYk9QQzFWVXFBeEJQY2E1V2tWd2dOQ1JkVUIxdWNtRHZsNjZqTXZJaGljRlpCS0xHRDhsTVE1TVNBRGtUWjR1Y1gxakptN2V3Q3dfc05uRTNydWpRRDRWMmdwaXJGeGdVWUNyQmoteEM4bEluZm5vQ3hDd1hpYTRYR3JtVE9URWxaMkJJajhiTmJqRTFCdE4taWRuUm1mc2tkUndDbWJGdnlHTDlJaWNaUnBESGRXdk1HeHBLUTBORWNXMEhXTTRDb2Y2b1BWSVNrZVBRU2NvUnpWWUxYSk0xVEVCUWR6U2dNR0h4V3JmLWZtTHFEeGE2bWJQeUZwMg?oc=5",
+        "published": "29 Mar 2026, 08:53 AM",
+        "iso_date": "2026-03-29T08:53:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -76,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0dzVDIzSDh6RjU2U3JRREVLMHVKRnhUT1Q3dW9MNkF3MWtUd1lpeExyUmo3TlZ0Z1NGRlJCOFVRZVpzUGloQ042R3FWNktiQjdjaGRmTldSTTJZQnRJMHVuQjBVZS0xZDFiV25TTmU3SWR1S2lRQ0I3dzVkTWs0b1RWNWV1MFFxNnJQUFAxZmo?oc=5",
         "published": "29 Mar 2026, 05:35 AM",
         "iso_date": "2026-03-29T05:35:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "World News",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONWxLclNwTkFDazM1QTVEcTJYell0SjRVU09xR0xZc0JRdlJ2a19iN1lEMlNOVlAxUVU5T0hWXy13ZG55VW1zTlIwSVJobDZxZk04TGVVRTZsRFhkVEJVOHZWNGx5WTdRZGE1ZnZJUkg5WkUybmlNVjFXMUFuU2ZrWG1SeXc3dnFaRC13eExSUUkteEsyUFB6Q0VBeWJCVDhZYkdGQWJRZWVWcGVMQlc2VjE3THhHZmJCVGdHa1ljeXhianZxcnZuUDROeGdSOEkzUHltZzJkelRvMkNOdml2S3RtdmFaNzk4WXdXS1VkUFdVVi1hbWfSAfsBQVVfeXFMTVFLSFNQZzl6M0xVbzByUmlDeTZNVUpmcDVlX0xNcmdpckpiSGE2dGo3ZHE2OFZUbUtsWDlsNGJPSGhTc1haMFpsY2tLRG1zajQzM3pIeVRUQXR2Nk5ZZHFFTkpJalFoUTI4UHdodVJJdXJDLURJcVdPdDdrNVpxWUU4UjRzcjRCbDd4T3BwYlNkZkVSOURPa0t0UU1hQXM2RVgyem94QjRwWVFsbk4tSnFyeHZRaVRwcXc0em9YLXlCYTQ4MTRteW1vMG5WOFJuUEkxVDFuYnEwNHhUMmVZVGFkQnZXX1lKUDRHYmFSRTZuX0pJZ1VrbHpxTnc?oc=5",
-        "published": "29 Mar 2026, 01:18 AM",
-        "iso_date": "2026-03-29T01:18:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -159,7 +139,17 @@
         "published": "30 Mar 2026",
         "iso_date": "2026-03-30T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260330/20260329_223053_0_T.jpg?20260330",
+        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330040740sico_T.jpg?20260330",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Board meeting set",
+        "link": "https://www.gdnonline.com/Details/1379924/Board-meeting-set",
+        "published": "30 Mar 2026",
+        "iso_date": "2026-03-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330023533bahrainchamber_T.jpg?20260330",
         "source": "gdn",
         "category": "Latest"
       },
@@ -180,16 +170,6 @@
         "iso_date": "2026-03-29T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260329/20260328_231406_0_T.jpg?20260330",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Key milestone for Bahrainâs private sector",
-        "link": "https://www.gdnonline.com/Details/1379824/Key-milestone-for-Bahrainâs-private-sector",
-        "published": "29 Mar 2026",
-        "iso_date": "2026-03-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329034713mrfakhrotwo_T.jpg?20260330",
         "source": "gdn",
         "category": "Latest"
       },
@@ -246,10 +226,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Closures, Remote Learning, and Security Alerts Across the region",
-        "link": "https://www.newsofbahrain.com/world/129447.html",
+        "title": "Trump: Iran Sending 20 Oil Tankers Through Hormuz Strait",
+        "link": "https://www.newsofbahrain.com/world/129449.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d9j3MarSbx_2026-03-30_1774835774resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Indian Worker Killed in Strike on Desalination Plant in Kuwait",
+        "link": "https://www.newsofbahrain.com/world/129448.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SrmdjKAlqY_2026-03-30_1774832145resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Closures, Remote Learning, and Security Alerts Across the region",
+        "link": "https://www.newsofbahrain.com/world/129447.html",
+        "published": "30 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ETuv3sUwbL_2026-03-29_1774823703resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +258,8 @@
       {
         "title": "Bahrain Condemns Iran Attacks on Kuwait",
         "link": "https://www.newsofbahrain.com/bahrain/129446.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
+        "published": "29 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_b3BPURtWpj_2026-03-29_1774817767resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,30 +268,10 @@
       {
         "title": "Bahrain Water Strategy Achieves 81% Progress",
         "link": "https://www.newsofbahrain.com/bahrain/129445.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W3Y9Bceh80_2026-03-29_1774816310resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE Condemns Iranian Attack on Kuwait Military Camp",
-        "link": "https://www.newsofbahrain.com/world/129444.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yr29e7EPtz_2026-03-29_1774815511resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN Nuclear Watchdog Reports Major Damage at Iranian Heavy Water Plant",
-        "link": "https://www.newsofbahrain.com/world/129443.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KCXL2nwB73_2026-03-29_1774814420resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W3Y9Bceh80_2026-03-29_1774816310resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,12 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "U.S. Embassies in Qatar and Iraq Issue Fresh Security Warnings",
-        "link": "https://www.newsofbahrain.com/world/129440.html",
+        "title": "UAE Condemns Iranian Attack on Kuwait Military Camp",
+        "link": "https://www.newsofbahrain.com/world/129444.html",
         "published": "29 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n0CLSYUVHh_2026-03-29_1774810050thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yr29e7EPtz_2026-03-29_1774815511thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-29 23:59:16 UTC"
+  "fetched_at": "2026-03-30 02:55:29 UTC"
 }
