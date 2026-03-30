@@ -216,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "HM King Hamad, UK Defence Chief Discuss Regional Security",
+        "link": "https://www.newsofbahrain.com/bahrain/129503.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n7Zo5Yp1xL_2026-03-30_1774895732resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Saudi, Jordan, Qatar Leaders Hold Trilateral Talks in Jeddah",
         "link": "https://www.newsofbahrain.com/world/129502.html",
         "published": "30 Mar 2026, 09:22 AM",
@@ -228,8 +238,8 @@
       {
         "title": "Bahrain Crown Prince Meets UK Defence Secretary",
         "link": "https://www.newsofbahrain.com/bahrain/129501.html",
-        "published": "30 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-30T09:22:55+00:00",
+        "published": "30 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_t8dvgpUM5C_2026-03-30_1774891713resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,20 +258,10 @@
       {
         "title": "Ukraine Expands Strategic Military Ties Across Gulf Region",
         "link": "https://www.newsofbahrain.com/world/129498.html",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bTUuEwSP2G_2026-03-30_1774890744resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE Calls for Accountability as Arab League Condemns Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/world/129497.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KTVOHEpjM3_2026-03-30_1774887661resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bTUuEwSP2G_2026-03-30_1774890744resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,12 +296,12 @@
         "category": "Latest"
       },
       {
-        "title": "Municipal measures enhance services",
-        "link": "https://www.newsofbahrain.com/bahrain/129464.html",
+        "title": "UAE Calls for Accountability as Arab League Condemns Iranian Attacks",
+        "link": "https://www.newsofbahrain.com/world/129497.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X4nKyiOvaT_2026-03-30_1774853804thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KTVOHEpjM3_2026-03-30_1774887661thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-30 18:12:34 UTC"
+  "fetched_at": "2026-03-30 19:33:42 UTC"
 }
