@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2J0Ql93Ri1fTlRUdkhBWUtXWTBJaFRNbTVSUXlBZEVSai1BOGt4UjNrSkpJSFdhUFk0NG1aM1dnQ0JjVDZqSjFoTHpOSW8tUmd2eFVUdVlNUFBJU0pMTm9MUTJHY2xHQXpDX3VQeFVaNThfZFB1Q2FxUTFlZHlVSnlwYVJIbkdOOEVOb0wtNkJMdVBMci1J?oc=5",
         "published": "30 Mar 2026, 11:47 AM",
         "iso_date": "2026-03-30T11:47:28+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts, destroys 182 missiles, 398 drones since onset of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWnVKMTBTOUktZzJzV1NzM1JSZmFTY3gzeVFMVUVyR2xWTnN3Q3FTcE03VUxlQndUSzJybHQxcUVyM1E5WEtKOEdTZnhMcVE4Smd0dDM5Q0xWLUxBWS13dGdTTUI3TFZTU1ZmSV9qTlRKdXBTeGRMcGMzSTJMNXJUOTVNeWk0dEJaYmRQa3Q5b3piazhGQlBBSXAxV1ltZElqVU9abXJEYzlERUczYkUwV3loVmFPWENnQVBvX1VpRVdyY2hUcFBVMVRyOUo2NlE?oc=5",
+        "published": "30 Mar 2026, 09:48 AM",
+        "iso_date": "2026-03-30T09:48:41+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPY0tYS05NN1BhZmJHTmduZXpreEllVHQ1bTUzRGF1TEJsOUIxcTZ6aXJFVlRQS0NDTHlJdktReTd0ZUNFNzVlWkFkb2M4SU5NOVFTYjRuNUdNc041aTAyQnV6cDltYTNxN0ZXZHhrb2J0V3dVbHQxY1N5TjRWMkJkOVlWUExBc1RtNUNLVm5WbFJlWVBVcjhMa1hPc0hNYzc2V3NKWDJvT3p5OWZ2a3BFLXlPSzdoTUY3MEJ0S2JFY3BfeUVRWnN1OGRkUnJEODd0cDhwQVpnZmhyb2syOGFqNjlaaS1DWmRfeFg1ckdYT0o0Y0NyYVAzV3N1eUdxR0liUGhycktqXzBObTVZcG44bE5oc1I?oc=5",
-        "published": "30 Mar 2026, 03:33 AM",
-        "iso_date": "2026-03-30T03:33:31+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
         "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQY19ZeEowRnB6SjludTc3QTVaT3lUY2RNdS1mUDhUb2FxdU56TGIwbmxCRU9OLWtzYjQyRTNSSGkwOThrbVpyc1pCbDkwTFRFNXVVTUUxNjN1NUVJNDJ6QnY1b25rcXlVUUxXdmpCa3paVUdJNEVrS3J2dFdmZVJFNDFySU95NjRuVk4yczVrMHZsdzJUaGtfcDNJN204WEYta1FuSnZWaGdZOFJEM2RiLURUYVVrLXIyUTNieDdJVUpLVDhGWUJFUWRDVmFEWENMWWhoYzBFQnp6blVWYnRjRW1YWUFjcFZTVDV4eERkNXhYbjIyd2lkeENVajZoYmZUODlxZ2R0X28zckN0aGNiM2lUN2ZITjZaRzhmSXFZMmh5TEUyUWt3WmtTbnYwMzN0MVhWOTg1MUh4eko5b1BLeFV0RnhUdVhva0xCaGdUcy1ZVFVoQTNrakhsNmtYMXk3SVV3VzNvSTZJU2M5TlhKQ1pXckFoT29FM3BxaVdBcmJjaFpBdnlGeXJYdHA5VnpERVE?oc=5",
         "published": "30 Mar 2026, 02:37 AM",
@@ -60,19 +60,29 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Bahrain Intercepts, Destroys 182 Missiles, 398 Drones Since Onset Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGczQTJrTDFtOVVXcjJGZUN5eTludDRkQU43TFVtU1JaTVhEUG0yUkpoNVhjeGVZbU1BamNVaHFHYnE4U05LWDU4S2lKXzYyaE1GSFpXY09XWmdpLWt4eXgzekFuXzc1SmNTV1VGN3JrVFhUV19LQ1FkU1lVZDhvS1Awc25zQ0FmRkktOVY1eUdlRGVrVFFJSVJGLVNtZw?oc=5",
-        "published": "30 Mar 2026, 09:30 AM",
-        "iso_date": "2026-03-30T09:30:05+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "HRH Prince Salman chairs the weekly Cabinet Meeting",
+        "link": "https://www.gdnonline.com/Details/1379969/HRH-Prince-Salman-chairs-the-weekly-Cabinet-Meeting",
+        "published": "30 Mar 2026",
+        "iso_date": "2026-03-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330165032bahrainprincesalman(2)_T.jpg?20260330",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Princess Sabeeka commends role of Bahraini women amid current attacks",
+        "link": "https://www.gdnonline.com/Details/1379970/HRH-Princess-Sabeeka-commends-role-of-Bahraini-women-amid-current-attacks",
+        "published": "30 Mar 2026",
+        "iso_date": "2026-03-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330171044websitesize(1)_T.jpg?20260330",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Civil Defence extinguishes building fire in Al Dair",
         "link": "https://www.gdnonline.com/Details/1379930/Civil-Defence-extinguishes-building-fire-in-Al-Dair",
@@ -100,26 +110,6 @@
         "iso_date": "2026-03-30T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260330/20260330_001920_0_T.jpg?20260330",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Co-ordination meeting",
-        "link": "https://www.gdnonline.com/Details/1379893/Co-ordination-meeting",
-        "published": "30 Mar 2026",
-        "iso_date": "2026-03-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330003710medited_T.jpg?20260330",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Strict call to stay indoors during interceptive action",
-        "link": "https://www.gdnonline.com/Details/1379892/Strict-call-to-stay-indoors-during-interceptive-action",
-        "published": "30 Mar 2026",
-        "iso_date": "2026-03-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330003448alarm_T.jpg?20260330",
         "source": "gdn",
         "category": "Latest"
       },
@@ -174,6 +164,26 @@
         "category": "Latest"
       },
       {
+        "title": "Egypt national team director warns Salah against MLS move",
+        "link": "https://www.gdnonline.com/Details/1379956/Egypt-national-team-director-warns-Salah-against-MLS-move",
+        "published": "30 Mar 2026",
+        "iso_date": "2026-03-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330153829salah1(6)_T.jpg?20260330",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "France showcase firepower and squad depth in 3-1 Colombia win",
+        "link": "https://www.gdnonline.com/Details/1379955/France-showcase-firepower-and-squad-depth-in-3-1-Colombia-win",
+        "published": "30 Mar 2026",
+        "iso_date": "2026-03-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330154308french1(4)_T.jpg?20260330",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Spurs interim boss Tudor leaves club after five defeats in seven games",
         "link": "https://www.gdnonline.com/Details/1379871/Spurs-interim-boss-Tudor-leaves-club-after-five-defeats-in-seven-games",
         "published": "29 Mar 2026",
@@ -202,34 +212,34 @@
         "image": "https://www.gdnonline.com/gdnimages/20260329/20260329102450van_T.jpg?20260330",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Diop debut for Morocco a boost in PR battle with Senegal",
-        "link": "https://www.gdnonline.com/Details/1379836/Diop-debut-for-Morocco-a-boost-in-PR-battle-with-Senegal",
-        "published": "29 Mar 2026",
-        "iso_date": "2026-03-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329100732diop_T.jpg?20260330",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Easy win for Belgium over US rings alarm bells for World Cup co-hosts",
-        "link": "https://www.gdnonline.com/Details/1379835/Easy-win-for-Belgium-over-US-rings-alarm-bells-for-World-Cup-co-hosts",
-        "published": "29 Mar 2026",
-        "iso_date": "2026-03-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329101352bel(3)_T.jpg?20260330",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "Trump: US in Talks With “New Iranian Leadership” to End Operations",
-        "link": "https://www.newsofbahrain.com/world/129493.html",
+        "title": "Jordan orders spending cuts, bans use of government vehicles outside work hour",
+        "link": "https://www.newsofbahrain.com/world/129496.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_43D6RIhfxB_2026-03-30_1774881158resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Prince Salman Chairs Weekly Cabinet Meeting",
+        "link": "https://www.newsofbahrain.com/bahrain/129494.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OLj8Mzo2Ax_2026-03-30_1774878300resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump: US in Talks With “New Iranian Leadership” to End Operations",
+        "link": "https://www.newsofbahrain.com/world/129493.html",
+        "published": "30 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_j4hUJ2M0q9_2026-03-30_1774875724resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +248,8 @@
       {
         "title": "Spain closes airspace to US planes involved in Iran war",
         "link": "https://www.newsofbahrain.com/world/129492.html",
-        "published": "30 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-30T09:22:55+00:00",
+        "published": "30 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_a9zi0YsfTc_2026-03-30_1774875439resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,30 +258,10 @@
       {
         "title": "Fire Breaks Out at Haifa Oil Refinery After Missile Debris Strike",
         "link": "https://www.newsofbahrain.com/world/129491.html",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_K1umobEDcx_2026-03-30_1774875376resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Air China Resumes Flights Between Beijing and Pyongyang",
-        "link": "https://www.newsofbahrain.com/world/129490.html",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6iRzmquOnN_2026-03-30_1774875206resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Missile Strike Hits Iraqi Airbase, Destroys Military Aircraft",
-        "link": "https://www.newsofbahrain.com/world/129489.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cZArJFIVNq_2026-03-30_1774875095resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_K1umobEDcx_2026-03-30_1774875376resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,16 +302,6 @@
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_en9SIGtlhN_2026-03-30_1774852956thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Two more scholarships for scientific research",
-        "link": "https://www.newsofbahrain.com/bahrain/129462.html",
-        "published": "30 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JiDxMuHT9A_2026-03-30_1774852097thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-30 13:12:43 UTC"
+  "fetched_at": "2026-03-30 14:48:38 UTC"
 }
