@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2J0Ql93Ri1fTlRUdkhBWUtXWTBJaFRNbTVSUXlBZEVSai1BOGt4UjNrSkpJSFdhUFk0NG1aM1dnQ0JjVDZqSjFoTHpOSW8tUmd2eFVUdVlNUFBJU0pMTm9MUTJHY2xHQXpDX3VQeFVaNThfZFB1Q2FxUTFlZHlVSnlwYVJIbkdOOEVOb0wtNkJMdVBMci1J?oc=5",
         "published": "30 Mar 2026, 11:47 AM",
         "iso_date": "2026-03-30T11:47:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPY0tYS05NN1BhZmJHTmduZXpreEllVHQ1bTUzRGF1TEJsOUIxcTZ6aXJFVlRQS0NDTHlJdktReTd0ZUNFNzVlWkFkb2M4SU5NOVFTYjRuNUdNc041aTAyQnV6cDltYTNxN0ZXZHhrb2J0V3dVbHQxY1N5TjRWMkJkOVlWUExBc1RtNUNLVm5WbFJlWVBVcjhMa1hPc0hNYzc2V3NKWDJvT3p5OWZ2a3BFLXlPSzdoTUY3MEJ0S2JFY3BfeUVRWnN1OGRkUnJEODd0cDhwQVpnZmhyb2syOGFqNjlaaS1DWmRfeFg1ckdYT0o0Y0NyYVAzV3N1eUdxR0liUGhycktqXzBObTVZcG44bE5oc1I?oc=5",
-        "published": "30 Mar 2026, 03:33 AM",
-        "iso_date": "2026-03-30T03:33:31+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -74,8 +64,28 @@
     ],
     "gdn": [
       {
-        "title": "HRH Prince Salman chairs the weekly Cabinet Meeting",
-        "link": "https://www.gdnonline.com/Details/1379969/HRH-Prince-Salman-chairs-the-weekly-Cabinet-Meeting",
+        "title": "HM King receives UK Defence Secretary",
+        "link": "https://www.gdnonline.com/Details/1379976/HM-King-receives-UK-Defence-Secretary",
+        "published": "30 Mar 2026",
+        "iso_date": "2026-03-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330200229kingahamd1_T.jpg?20260330",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Prince Salman meets UK Defence Secretary",
+        "link": "https://www.gdnonline.com/Details/1379978/HRH-Prince-Salman-meets-UK-Defence-Secretary",
+        "published": "30 Mar 2026",
+        "iso_date": "2026-03-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330203034cp123(9)_T.jpg?20260330",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Prince Salman chairs weekly Cabinet meeting",
+        "link": "https://www.gdnonline.com/Details/1379969/HRH-Prince-Salman-chairs-weekly-Cabinet-meeting",
         "published": "30 Mar 2026",
         "iso_date": "2026-03-30T00:00:00",
         "summary": "",
@@ -100,26 +110,6 @@
         "iso_date": "2026-03-30T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260330/20260330112657civildefence3_T.jpg?20260330",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BDF General Command: 182 missiles, 398 drones destroyed since start of Iranian attacks",
-        "link": "https://www.gdnonline.com/Details/1379935/BDF-General-Command-182-missiles,-398-drones-destroyed-since-start-of-Iranian-attacks",
-        "published": "30 Mar 2026",
-        "iso_date": "2026-03-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330122314websitesize_T.jpg?20260330",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Tighter regulation of small business activities proposed",
-        "link": "https://www.gdnonline.com/Details/1379894/Tighter-regulation-of-small-business-activities-proposed",
-        "published": "30 Mar 2026",
-        "iso_date": "2026-03-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330_001920_0_T.jpg?20260330",
         "source": "gdn",
         "category": "Latest"
       },
@@ -226,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Saudi Crown Prince, Jordan King, and Qatar Emir Hold Key Talks on Regional Security in Jeddah",
-        "link": "https://www.newsofbahrain.com/world/129499.html",
+        "title": "Saudi, Jordan, Qatar Leaders Hold Trilateral Talks in Jeddah",
+        "link": "https://www.newsofbahrain.com/world/129502.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zjw5kCixsd_2026-03-30_1774893354resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Crown Prince Meets UK Defence Secretary",
+        "link": "https://www.newsofbahrain.com/bahrain/129501.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t8dvgpUM5C_2026-03-30_1774891713resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Crown Prince, Jordan King, and Qatar Emir Hold Key Talks on Regional Security in Jeddah",
+        "link": "https://www.newsofbahrain.com/world/129499.html",
+        "published": "30 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9IEcn6vzQe_2026-03-30_1774891423resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +248,8 @@
       {
         "title": "Ukraine Expands Strategic Military Ties Across Gulf Region",
         "link": "https://www.newsofbahrain.com/world/129498.html",
-        "published": "30 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-30T09:22:55+00:00",
+        "published": "30 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_bTUuEwSP2G_2026-03-30_1774890744resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,20 +258,10 @@
       {
         "title": "UAE Calls for Accountability as Arab League Condemns Iranian Attacks",
         "link": "https://www.newsofbahrain.com/world/129497.html",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_KTVOHEpjM3_2026-03-30_1774887661resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Jordan orders spending cuts, bans use of government vehicles outside work hour",
-        "link": "https://www.newsofbahrain.com/world/129496.html",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_43D6RIhfxB_2026-03-30_1774881158resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,7 +271,7 @@
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OLj8Mzo2Ax_2026-03-30_1774878300resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OLj8Mzo2Ax_2026-03-30_1774878300thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +302,6 @@
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_X4nKyiOvaT_2026-03-30_1774853804thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "No power cuts for supported homes despite BD84m in unpaid bills",
-        "link": "https://www.newsofbahrain.com/bahrain/129463.html",
-        "published": "30 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_en9SIGtlhN_2026-03-30_1774852956thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-30 17:27:13 UTC"
+  "fetched_at": "2026-03-30 18:12:34 UTC"
 }
