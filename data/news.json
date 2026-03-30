@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2J0Ql93Ri1fTlRUdkhBWUtXWTBJaFRNbTVSUXlBZEVSai1BOGt4UjNrSkpJSFdhUFk0NG1aM1dnQ0JjVDZqSjFoTHpOSW8tUmd2eFVUdVlNUFBJU0pMTm9MUTJHY2xHQXpDX3VQeFVaNThfZFB1Q2FxUTFlZHlVSnlwYVJIbkdOOEVOb0wtNkJMdVBMci1J?oc=5",
         "published": "30 Mar 2026, 11:47 AM",
         "iso_date": "2026-03-30T11:47:28+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPY0tYS05NN1BhZmJHTmduZXpreEllVHQ1bTUzRGF1TEJsOUIxcTZ6aXJFVlRQS0NDTHlJdktReTd0ZUNFNzVlWkFkb2M4SU5NOVFTYjRuNUdNc041aTAyQnV6cDltYTNxN0ZXZHhrb2J0V3dVbHQxY1N5TjRWMkJkOVlWUExBc1RtNUNLVm5WbFJlWVBVcjhMa1hPc0hNYzc2V3NKWDJvT3p5OWZ2a3BFLXlPSzdoTUY3MEJ0S2JFY3BfeUVRWnN1OGRkUnJEODd0cDhwQVpnZmhyb2syOGFqNjlaaS1DWmRfeFg1ckdYT0o0Y0NyYVAzV3N1eUdxR0liUGhycktqXzBObTVZcG44bE5oc1I?oc=5",
+        "published": "30 Mar 2026, 03:33 AM",
+        "iso_date": "2026-03-30T03:33:31+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -64,6 +74,16 @@
     ],
     "gdn": [
       {
+        "title": "Three arrested for forming terrorist cell linked to Lebanese Hezbollah terrorist group",
+        "link": "https://www.gdnonline.com/Details/1379981/Three-arrested-for-forming-terrorist-cell-linked-to-Lebanese-Hezbollah-terrorist-group",
+        "published": "30 Mar 2026",
+        "iso_date": "2026-03-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330220754terror12_T.jpg?20260330",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "HM King receives UK Defence Secretary",
         "link": "https://www.gdnonline.com/Details/1379976/HM-King-receives-UK-Defence-Secretary",
         "published": "30 Mar 2026",
@@ -100,16 +120,6 @@
         "iso_date": "2026-03-30T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260330/20260330171044websitesize(1)_T.jpg?20260330",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Civil Defence extinguishes building fire in Al Dair",
-        "link": "https://www.gdnonline.com/Details/1379930/Civil-Defence-extinguishes-building-fire-in-Al-Dair",
-        "published": "30 Mar 2026",
-        "iso_date": "2026-03-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330112657civildefence3_T.jpg?20260330",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "FBI: Michigan Synagogue Attack Linked to Hezbollah Inspiration",
+        "link": "https://www.newsofbahrain.com/world/129504.html",
+        "published": "30 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eF1iGB6UQb_2026-03-30_1774902577resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "HM King Hamad, UK Defence Chief Discuss Regional Security",
         "link": "https://www.newsofbahrain.com/bahrain/129503.html",
         "published": "30 Mar 2026, 09:22 AM",
@@ -228,8 +248,8 @@
       {
         "title": "Saudi, Jordan, Qatar Leaders Hold Trilateral Talks in Jeddah",
         "link": "https://www.newsofbahrain.com/world/129502.html",
-        "published": "30 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-30T09:22:55+00:00",
+        "published": "30 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zjw5kCixsd_2026-03-30_1774893354resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,20 +268,10 @@
       {
         "title": "Saudi Crown Prince, Jordan King, and Qatar Emir Hold Key Talks on Regional Security in Jeddah",
         "link": "https://www.newsofbahrain.com/world/129499.html",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9IEcn6vzQe_2026-03-30_1774891423resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ukraine Expands Strategic Military Ties Across Gulf Region",
-        "link": "https://www.newsofbahrain.com/world/129498.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bTUuEwSP2G_2026-03-30_1774890744resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9IEcn6vzQe_2026-03-30_1774891423resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,12 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "UAE Calls for Accountability as Arab League Condemns Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/world/129497.html",
+        "title": "Ukraine Expands Strategic Military Ties Across Gulf Region",
+        "link": "https://www.newsofbahrain.com/world/129498.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KTVOHEpjM3_2026-03-30_1774887661thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bTUuEwSP2G_2026-03-30_1774890744thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-30 19:33:42 UTC"
+  "fetched_at": "2026-03-30 20:41:50 UTC"
 }
