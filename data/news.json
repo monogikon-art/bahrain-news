@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 12
     }
   },
   "articles": {
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjUW16dXJuT2xiZ1Ixb1NTc0VkcXNtd2dKc0xwSDc0UXRCSjFneUJ5MVJvTmZkNlJfSGlGMWlOc0t6SmtQWGFKRGEyal84cnhreVZN?oc=5",
         "published": "30 Mar 2026, 08:42 PM",
         "iso_date": "2026-03-30T20:42:23+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s Foulath Holding declares force majeure on some operations",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2J0Ql93Ri1fTlRUdkhBWUtXWTBJaFRNbTVSUXlBZEVSai1BOGt4UjNrSkpJSFdhUFk0NG1aM1dnQ0JjVDZqSjFoTHpOSW8tUmd2eFVUdVlNUFBJU0pMTm9MUTJHY2xHQXpDX3VQeFVaNThfZFB1Q2FxUTFlZHlVSnlwYVJIbkdOOEVOb0wtNkJMdVBMci1J?oc=5",
-        "published": "30 Mar 2026, 11:47 AM",
-        "iso_date": "2026-03-30T11:47:28+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,6 +42,26 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain’s Foulath Holding declares force majeure on some operations",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2J0Ql93Ri1fTlRUdkhBWUtXWTBJaFRNbTVSUXlBZEVSai1BOGt4UjNrSkpJSFdhUFk0NG1aM1dnQ0JjVDZqSjFoTHpOSW8tUmd2eFVUdVlNUFBJU0pMTm9MUTJHY2xHQXpDX3VQeFVaNThfZFB1Q2FxUTFlZHlVSnlwYVJIbkdOOEVOb0wtNkJMdVBMci1J?oc=5",
+        "published": "30 Mar 2026, 11:47 AM",
+        "iso_date": "2026-03-30T11:47:28+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
+        "published": "30 Mar 2026, 03:13 PM",
+        "iso_date": "2026-03-30T15:13:36+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Destroys 74 Missiles, 92 Iranian Drones Since Saturday",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05VnplWHJpZmJROFA2MVlpT00xcDYyNVZPVzg3UEpUZWZudWwtSHRJbXdhNWl4M0RHWmYtanVGUUFmdmZlUnYtMHZLYmJmaF9jVGNLMVdHWWFLOXJJRVEtUzljNHZkVDFWSWpF?oc=5",
         "published": "30 Mar 2026, 06:23 PM",
@@ -62,20 +72,20 @@
         "category": "Latest"
       },
       {
-        "title": "‘People first’",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15STkycGl4dWVmdXFDN190Tk13aDdIWDgybW1FbzVSVXcwN1VXeTVNUGY3bkRwbXFFWE5JUWM4R2otQXk1ZEc3RmwxQnY3Zm82endCMGNQTFJRZFljOHc?oc=5",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
+        "title": "Bahrain intercepts 182 missiles, 398 drones since attack onset",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlZqUFpVam9sbjNCOS1Da0Q4aGZSdjJlcU1YbWg2MjZOclFUb0tJUWNnSzZuUE9MUnhsT2dlYndiLVlaYWpfQ0hrdEVtaW9wUTd5N0hVVFQ5QWtmSzk5dFd5QXhyU29Qak92dzgzXzRoUEM3UnRkMHc3bzhyOVA5dkx6T00tYm1GOUI4U3hEVndDS3hzZzRVRGYwWC15eXVrWHUyY0lreFg?oc=5",
+        "published": "30 Mar 2026, 12:19 PM",
+        "iso_date": "2026-03-30T12:19:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts, Destroys 182 Missiles, 398 Drones Since Onset Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGczQTJrTDFtOVVXcjJGZUN5eTludDRkQU43TFVtU1JaTVhEUG0yUkpoNVhjeGVZbU1BamNVaHFHYnE4U05LWDU4S2lKXzYyaE1GSFpXY09XWmdpLWt4eXgzekFuXzc1SmNTV1VGN3JrVFhUV19LQ1FkU1lVZDhvS1Awc25zQ0FmRkktOVY1eUdlRGVrVFFJSVJGLVNtZw?oc=5",
-        "published": "30 Mar 2026, 09:30 AM",
-        "iso_date": "2026-03-30T09:30:05+00:00",
+        "title": "Saudi Ports Authority introduces fee exemption: What it means for trade",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnhnbWJfbWpFVXFwVG16SHd4VTZ1Vm5obF9TZGlhbHJtSE1OaFRnVk5fUzZQLVdRNkVQdUEzUFBYRnhRRVVGTjZPMHBtaS1sbW1OSGVPbm1tUnEzSlBVVUgxcDF4MktnaEd0M0U0YXFTRXhsTl9mSkFqZFdDYzlXRHg1Z3RCbkk2dFBYRndQVVRoRmpsWnl1VUY4THpXbkQ1UXVTeFVTdHdLY202MHRHRWhZS1ZkNUVL?oc=5",
+        "published": "30 Mar 2026, 12:33 PM",
+        "iso_date": "2026-03-30T12:33:28+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +226,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "25% Dividend, 50 Years of Trust: BKIC Rewards Shareholders in a Defining Year",
-        "link": "https://www.newsofbahrain.com/bahrain/129525.html",
+        "title": "Municipal measures improve public services",
+        "link": "https://www.newsofbahrain.com/bahrain/129528.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ARfL9P1t0F_2026-03-31_1774951018resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Jordan, Kuwait Condemn Foiled Terror Plot Targeting Bahrain",
+        "link": "https://www.newsofbahrain.com/world/129527.html",
+        "published": "31 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w3b7ojQSLa_2026-03-31_1774949300resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Regulating ownership and trade of dangerous animals",
+        "link": "https://www.newsofbahrain.com/bahrain/129526.html",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TvpHG5DnE8_2026-03-31_1774948329resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "25% Dividend, 50 Years of Trust: BKIC Rewards Shareholders in a Defining Year",
+        "link": "https://www.newsofbahrain.com/bahrain/129525.html",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_qoWM2G6JIN_2026-03-31_1774946281resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,40 +278,10 @@
       {
         "title": "Oman Central Bank Governor Receives Bahrain Ambassador to Discuss Financial Cooperation",
         "link": "https://www.newsofbahrain.com/bahrain/129523.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yBjURxYECv_2026-03-31_1774945912resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Football Returns with Treble Dreams Alive",
-        "link": "https://www.newsofbahrain.com/sports/129522.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_L30xCd5lYm_2026-03-31_1774945858resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Protect Your Children Online: Be Their Safe Haven",
-        "link": "https://www.newsofbahrain.com/bahrain/129521.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_r5LI9h2eSf_2026-03-31_1774945728resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Broken Parks, Rising Costs… Who Is Protecting Public Spaces?",
-        "link": "https://www.newsofbahrain.com/bahrain/129520.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tp8w2AubNs_2026-03-31_1774945550thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yBjURxYECv_2026-03-31_1774945912thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,16 +316,6 @@
         "category": "Latest"
       },
       {
-        "title": "Eight Arab and Islamic states condemn Israeli restrictions on worship in Jerusalem",
-        "link": "https://www.newsofbahrain.com/world/129506.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ry9p7ci3na_2026-03-30_1774905789thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Two more India-bound tankers pass Strait of Hormuz: shipping ministry",
         "link": "https://www.newsofbahrain.com/business/129471.html",
         "published": "30 Mar 2026, 09:22 AM",
@@ -342,26 +342,6 @@
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Jn4ZwLtM1f_2026-03-30_1774855112thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India Union Minister Piyush Goyal Unveils Malabar Gold & Diamonds’ USD 24 Million CSR Initiative for FY 2026–27",
-        "link": "https://www.newsofbahrain.com/business/129419.html",
-        "published": "29 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ytKN9TwWgS_2026-03-29_1774787808thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Managing the Digital Frontline in Wartime",
-        "link": "https://www.newsofbahrain.com/views/129421.html",
-        "published": "29 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MH28syxtNw_2026-03-29_1774788386thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -479,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-31 08:54:37 UTC"
+  "fetched_at": "2026-03-31 10:03:32 UTC"
 }
