@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -216,10 +216,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Trump accuses France of refusing airspace for US warplanes to Israel",
-        "link": "https://www.newsofbahrain.com/world/129571.html",
+        "title": "9-Year Prison Sentence Upheld for Defendant in Deadly Saar Traffic Crash",
+        "link": "https://www.newsofbahrain.com/bahrain/129574.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3xfM47ApqO_2026-03-31_1774973564resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Italy Denies U.S. Use of Sicily Base Amid Rising NATO Tensions Over Middle East Operations",
+        "link": "https://www.newsofbahrain.com/world/129573.html",
+        "published": "31 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bm8tnkhv31_2026-03-31_1774972490resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE President Receives Emir of Qatar",
+        "link": "https://www.newsofbahrain.com/world/129572.html",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tvw1linMts_2026-03-31_1774972366resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump accuses France of refusing airspace for US warplanes to Israel",
+        "link": "https://www.newsofbahrain.com/world/129571.html",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ISHkU7daul_2026-03-31_1774967552resized_pic.jpg",
         "source": "newsofbahrain",
@@ -232,36 +262,6 @@
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZNcO8R1ug6_2026-03-31_1774967001resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Strikes Over 11,000 Iranian Targets in 30-Day",
-        "link": "https://www.newsofbahrain.com/world/129569.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3gBiawKScT_2026-03-31_1774966505resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Warns Attacks on Infrastructure Have “Crossed Red Lines”",
-        "link": "https://www.newsofbahrain.com/world/129568.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J9C0Nzt5v1_2026-03-31_1774966278resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pentagon Dismisses Allegations Regarding Secretary Hegseth’s broker sought defence fund investment before Iran war",
-        "link": "https://www.newsofbahrain.com/world/129567.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EtcI0kfas7_2026-03-31_1774963172resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +302,6 @@
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_XrCZ4fjFN6_2026-03-31_1774952432thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "MP calls for fix to labour site fault",
-        "link": "https://www.newsofbahrain.com/bahrain/129532.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4CNqIz05Gl_2026-03-31_1774952088thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-31 15:45:33 UTC"
+  "fetched_at": "2026-03-31 16:54:26 UTC"
 }
