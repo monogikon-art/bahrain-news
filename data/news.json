@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,16 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
-        "published": "30 Mar 2026, 03:13 PM",
-        "iso_date": "2026-03-30T15:13:36+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain’s Foulath Holding declares force majeure on some operations",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2J0Ql93Ri1fTlRUdkhBWUtXWTBJaFRNbTVSUXlBZEVSai1BOGt4UjNrSkpJSFdhUFk0NG1aM1dnQ0JjVDZqSjFoTHpOSW8tUmd2eFVUdVlNUFBJU0pMTm9MUTJHY2xHQXpDX3VQeFVaNThfZFB1Q2FxUTFlZHlVSnlwYVJIbkdOOEVOb0wtNkJMdVBMci1J?oc=5",
         "published": "30 Mar 2026, 11:47 AM",
@@ -52,20 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Destroys 74 Missiles, 92 Iranian Drones Since Saturday",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05VnplWHJpZmJROFA2MVlpT00xcDYyNVZPVzg3UEpUZWZudWwtSHRJbXdhNWl4M0RHWmYtanVGUUFmdmZlUnYtMHZLYmJmaF9jVGNLMVdHWWFLOXJJRVEtUzljNHZkVDFWSWpF?oc=5",
-        "published": "30 Mar 2026, 06:23 PM",
-        "iso_date": "2026-03-30T18:23:29+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "30 Mar 2026, 06:21 PM",
+        "iso_date": "2026-03-30T18:21:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
-        "published": "30 Mar 2026, 06:21 PM",
-        "iso_date": "2026-03-30T18:21:00+00:00",
+        "title": "Bahrain Destroys 74 Missiles, 92 Iranian Drones Since Saturday",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05VnplWHJpZmJROFA2MVlpT00xcDYyNVZPVzg3UEpUZWZudWwtSHRJbXdhNWl4M0RHWmYtanVGUUFmdmZlUnYtMHZLYmJmaF9jVGNLMVdHWWFLOXJJRVEtUzljNHZkVDFWSWpF?oc=5",
+        "published": "30 Mar 2026, 06:23 PM",
+        "iso_date": "2026-03-30T18:23:29+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,6 +186,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Moscow Aviation Institute Developing New Radar Satellite",
+        "link": "https://www.newsofbahrain.com/world/129508.html",
+        "published": "31 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6RjMktNdXZ_2026-03-31_1774937260resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Kuwaiti Tanker Damaged in Dubai Port Attack",
         "link": "https://www.newsofbahrain.com/world/129507.html",
         "published": "31 Mar 2026, 09:22 AM",
@@ -208,8 +208,8 @@
       {
         "title": "Eight Arab and Islamic states condemn Israeli restrictions on worship in Jerusalem",
         "link": "https://www.newsofbahrain.com/world/129506.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ry9p7ci3na_2026-03-30_1774905789resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,20 +228,10 @@
       {
         "title": "HM King Hamad, UK Defence Chief Discuss Regional Security",
         "link": "https://www.newsofbahrain.com/bahrain/129503.html",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n7Zo5Yp1xL_2026-03-30_1774895732resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi, Jordan, Qatar Leaders Hold Trilateral Talks in Jeddah",
-        "link": "https://www.newsofbahrain.com/world/129502.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zjw5kCixsd_2026-03-30_1774893354resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n7Zo5Yp1xL_2026-03-30_1774895732resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-31 04:58:02 UTC"
+  "fetched_at": "2026-03-31 06:17:17 UTC"
 }
