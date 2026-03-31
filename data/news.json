@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
-        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPOXR1NV9KRThWY29wbmx6cHpMNGNNd0dlYnhoSXJhSFhxSXhVbzBvazlKNmlKWkVCZDZURHdnYm5mcGRDRGNhdmJqdmZuV2N3N0tYSzlzMGhxTGFwWDNUMG1HYVRMb0pnVTY5Q1NkblhaM1ZPZmRvSjRPUXAzZU90T0pra3RzVHVrWUtRcnV4UWY5M1RjcTNaOHlCb1FXNDVseTFQU0NXVEFpUUx4RGxleG45d1A1TkJhUlNGMHh0T3Zqc1dicmNrWnR3alZsaFBUaGV3dEpLbzlqb3NiQ254TmNFb2RnSFNaeWd3Q3llN3pSelVFc2gyOENVOHBScU9GT1l6VjNXVFNUMzJ0dUdPUGJUUmRXSVNna29GQUtRYURRMlZNZ3dXY3FmeldmN2lsOE9LdFdfMTNCQTZWVFlzY2xxZw?oc=5",
-        "published": "31 Mar 2026, 08:58 AM",
-        "iso_date": "2026-03-31T08:58:28+00:00",
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
+        "published": "31 Mar 2026, 03:07 PM",
+        "iso_date": "2026-03-31T15:07:40+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -56,6 +56,26 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNTIxb1lBUW94TUlaRjdQTXVzdWhjMFRULXZKckJWd1hOS1B5TV9TSnhBaTZxbFZHcFh3cF9LSTZHdnV4NUstSl9uOHBtTEJ0WkdzbUQ3eXlSaWpfSTBvUHdyT1FyS2VQUkdvQzlaNGYzWkJhTG1LRWptbEM0RkRIbnp3UzdaLTVibjZ4Y1ZvTkoydFRTLWxXY3JqbGJPdw?oc=5",
         "published": "31 Mar 2026, 04:41 AM",
         "iso_date": "2026-03-31T04:41:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf defenses continue to confront Iranian threats with high efficiency",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVFUYy05c2tONTlQTjNLVTNTazlVcTItLXh2cFFMdTJOWFVmbThXSlBZTjIxXy1Dcng0QnB2N2hkUUNhOWNvWU8tMU1yTFItTU15YmhmRmd4VTR3cFU1bTRSSlQ2RHdhbmFlVVpNMVV6WEhKZVVhaktlZEJVdURXZ1FHYlE3a21icW52azd5OGhCSkFveDVua0dxWVJnSHpBb29jTFJvLTRLc2ZYSjFMUUFGUDAtZkxtTHhzMg?oc=5",
+        "published": "30 Mar 2026, 09:41 PM",
+        "iso_date": "2026-03-30T21:41:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHZjY1A0UUxpU0dscjNWZkd1RTBmYlIxaS05Yk9sakdmU0M1MlQ3VGFKVmFwaEdYdlNqZTVhcXQ2QnYzWmpxU2NFVzRlalVuNTVVNDBZTmdPMmhTS0Q4bTlMQm9HM0V6aDNLMmF2dGVmTjZNMlNtTGFqWVhOSmphQ3ROdklNZnJRMGdzbC16VzlUTk51QkZiYllUS3ZXOFN1ZVFMMEQ2SnlzR2N6eWc?oc=5",
+        "published": "31 Mar 2026, 07:59 AM",
+        "iso_date": "2026-03-31T07:59:51+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "U.S. Journalist Kidnapped in Baghdad",
+        "link": "https://www.newsofbahrain.com/world/129576.html",
+        "published": "31 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xKgNBR86e0_2026-03-31_1774988897resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain to Reopen Nurseries and Special Needs Schools from April 5",
         "link": "https://www.newsofbahrain.com/bahrain/129575.html",
         "published": "31 Mar 2026, 09:22 AM",
@@ -218,8 +248,8 @@
       {
         "title": "9-Year Prison Sentence Upheld for Defendant in Deadly Saar Traffic Crash",
         "link": "https://www.newsofbahrain.com/bahrain/129574.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_3xfM47ApqO_2026-03-31_1774973564resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +268,10 @@
       {
         "title": "UAE President Receives Emir of Qatar",
         "link": "https://www.newsofbahrain.com/world/129572.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tvw1linMts_2026-03-31_1774972366resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump accuses France of refusing airspace for US warplanes to Israel",
-        "link": "https://www.newsofbahrain.com/world/129571.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ISHkU7daul_2026-03-31_1774967552resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tvw1linMts_2026-03-31_1774972366resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,12 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian Missile Fire Dropped in Past 24 Hours, US Defence Secretary Says",
-        "link": "https://www.newsofbahrain.com/world/129570.html",
+        "title": "Trump accuses France of refusing airspace for US warplanes to Israel",
+        "link": "https://www.newsofbahrain.com/world/129571.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZNcO8R1ug6_2026-03-31_1774967001thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ISHkU7daul_2026-03-31_1774967552thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-31 19:56:05 UTC"
+  "fetched_at": "2026-03-31 20:40:53 UTC"
 }
