@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,16 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "Gulf defenses continue to confront Iranian threats with high efficiency",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVFUYy05c2tONTlQTjNLVTNTazlVcTItLXh2cFFMdTJOWFVmbThXSlBZTjIxXy1Dcng0QnB2N2hkUUNhOWNvWU8tMU1yTFItTU15YmhmRmd4VTR3cFU1bTRSSlQ2RHdhbmFlVVpNMVV6WEhKZVVhaktlZEJVdURXZ1FHYlE3a21icW52azd5OGhCSkFveDVua0dxWVJnSHpBb29jTFJvLTRLc2ZYSjFMUUFGUDAtZkxtTHhzMg?oc=5",
-        "published": "30 Mar 2026, 09:41 PM",
-        "iso_date": "2026-03-30T21:41:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Intercepts and Destroys 182 Missiles and 400 Drones Since Onset of Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFVdS1WZ1dFM0FpaGNPbzlRLUx5WElTTmhwSUlUWkIwdF81OTBqVmhmdWVZVE9MeW14YUFMS0VoZFZGYVNlVVo2VmRVTTk2TG1NNFNMbGN1eXA4MGNFM04yZk1palgwSTdlQ1FJc2NKajFCVXIyTVZ3Q1pfakVBX29xd01UMGFPdHY1cUVkaWkwcWMzcFJubzE2UVJfTTIzUW5PZlpUWEZjb21xUHJFSlFlOFhRRDJ2ZkhiX1FsQ2NzSWN6c2FNcFpvSGNwdFotU0dEWThySEsxNkZPNkNSaVFB0gHiAUFVX3lxTE55cVV1LVZnV0UzQWloY09vOVEtTHlYSVNOaHBJSVRaQjB0XzU5MGpWaGZ1ZVlUT0x5bXhhQUxLRWhkVkZhU2VVWjZWZFVNOTZMbU00U0xsY3V5cDgwY0UzTjJmTWlqWDBJN2VDUUlzY0pqMUJVcjJNVndDWl9qRUFfb3F3TVQwYU90djVxRWRpaTBxYzNwUm5vMTZRUl9NMjNRbk9mWlRYRmNvbXFQckVKUWU4WFFEMnZmSGJfUWxDY3NJY3pzYU1wWm9IY3B0Wi1TR0RZOHJISzE2Rk82Q1JpUUE?oc=5",
         "published": "31 Mar 2026, 11:55 AM",
@@ -62,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Despite regional tensions, Dubai’s property transactions rebound 49%",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNTIxb1lBUW94TUlaRjdQTXVzdWhjMFRULXZKckJWd1hOS1B5TV9TSnhBaTZxbFZHcFh3cF9LSTZHdnV4NUstSl9uOHBtTEJ0WkdzbUQ3eXlSaWpfSTBvUHdyT1FyS2VQUkdvQzlaNGYzWkJhTG1LRWptbEM0RkRIbnp3UzdaLTVibjZ4Y1ZvTkoydFRTLWxXY3JqbGJPdw?oc=5",
-        "published": "31 Mar 2026, 04:41 AM",
-        "iso_date": "2026-03-31T04:41:50+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
         "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
         "published": "30 Mar 2026, 06:21 PM",
@@ -80,9 +60,29 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Despite regional tensions, Dubai’s property transactions rebound 49%",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNTIxb1lBUW94TUlaRjdQTXVzdWhjMFRULXZKckJWd1hOS1B5TV9TSnhBaTZxbFZHcFh3cF9LSTZHdnV4NUstSl9uOHBtTEJ0WkdzbUQ3eXlSaWpfSTBvUHdyT1FyS2VQUkdvQzlaNGYzWkJhTG1LRWptbEM0RkRIbnp3UzdaLTVibjZ4Y1ZvTkoydFRTLWxXY3JqbGJPdw?oc=5",
+        "published": "31 Mar 2026, 04:41 AM",
+        "iso_date": "2026-03-31T04:41:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "Bahrainâs UN Mission sends 8th letter on Iranian attacks to Sec-Gen, Security Council President",
+        "link": "https://www.gdnonline.com/Details/1380059/Bahrainâs-UN-Mission-sends-8th-letter-on-Iranian-attacks-to-Sec-Gen,-Security-Council-President",
+        "published": "31 Mar 2026",
+        "iso_date": "2026-03-31T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331195002un1(1)_T.jpg?20260331",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "UAE, Kuwait, Jordan condemn terrorist plot in Bahrain, affirm full solidarity",
         "link": "https://www.gdnonline.com/Details/1380045/UAE,-Kuwait,-Jordan-condemn-terrorist-plot-in-Bahrain,-affirm-full-solidarity",
@@ -120,16 +120,6 @@
         "iso_date": "2026-03-31T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260331/20260331_011442_0_T.jpg?20260331",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrainâs relations with UK highlighted",
-        "link": "https://www.gdnonline.com/Details/1380004/Bahrainâs-relations-with-UK-highlighted",
-        "published": "31 Mar 2026",
-        "iso_date": "2026-03-31T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331012233hmtheking_T.jpg?20260331",
         "source": "gdn",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-31 16:54:26 UTC"
+  "fetched_at": "2026-03-31 17:54:28 UTC"
 }
