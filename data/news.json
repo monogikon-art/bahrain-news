@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -32,30 +32,20 @@
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
-        "published": "30 Mar 2026, 06:21 PM",
-        "iso_date": "2026-03-30T18:21:00+00:00",
+        "title": "Gulf defenses continue to confront Iranian threats with high efficiency",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVFUYy05c2tONTlQTjNLVTNTazlVcTItLXh2cFFMdTJOWFVmbThXSlBZTjIxXy1Dcng0QnB2N2hkUUNhOWNvWU8tMU1yTFItTU15YmhmRmd4VTR3cFU1bTRSSlQ2RHdhbmFlVVpNMVV6WEhKZVVhaktlZEJVdURXZ1FHYlE3a21icW52azd5OGhCSkFveDVua0dxWVJnSHpBb29jTFJvLTRLc2ZYSjFMUUFGUDAtZkxtTHhzMg?oc=5",
+        "published": "30 Mar 2026, 09:41 PM",
+        "iso_date": "2026-03-30T21:41:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts and Destroys 182 Missiles and 400 Drones Since Onset of Iranian Attacks - Emirates 24|7",
+        "title": "Bahrain Intercepts and Destroys 182 Missiles and 400 Drones Since Onset of Iranian Attacks",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFVdS1WZ1dFM0FpaGNPbzlRLUx5WElTTmhwSUlUWkIwdF81OTBqVmhmdWVZVE9MeW14YUFMS0VoZFZGYVNlVVo2VmRVTTk2TG1NNFNMbGN1eXA4MGNFM04yZk1palgwSTdlQ1FJc2NKajFCVXIyTVZ3Q1pfakVBX29xd01UMGFPdHY1cUVkaWkwcWMzcFJubzE2UVJfTTIzUW5PZlpUWEZjb21xUHJFSlFlOFhRRDJ2ZkhiX1FsQ2NzSWN6c2FNcFpvSGNwdFotU0dEWThySEsxNkZPNkNSaVFB0gHiAUFVX3lxTE55cVV1LVZnV0UzQWloY09vOVEtTHlYSVNOaHBJSVRaQjB0XzU5MGpWaGZ1ZVlUT0x5bXhhQUxLRWhkVkZhU2VVWjZWZFVNOTZMbU00U0xsY3V5cDgwY0UzTjJmTWlqWDBJN2VDUUlzY0pqMUJVcjJNVndDWl9qRUFfb3F3TVQwYU90djVxRWRpaTBxYzNwUm5vMTZRUl9NMjNRbk9mWlRYRmNvbXFQckVKUWU4WFFEMnZmSGJfUWxDY3NJY3pzYU1wWm9IY3B0Wi1TR0RZOHJISzE2Rk82Q1JpUUE?oc=5",
         "published": "31 Mar 2026, 11:55 AM",
         "iso_date": "2026-03-31T11:55:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
-        "published": "30 Mar 2026, 03:13 PM",
-        "iso_date": "2026-03-30T15:13:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,10 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "New paid parking zones announced in Abu Dhabi: Key areas revealed",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYzRnVjNnQUNwRWpVLW10THpGbVNPdzgzMmFYcFo2ZjJWUFdWeVhwdkJxZHBDbDlhaUNfelJ2MVFxZXBYY2JQUTkzeDlBbG81amZsbGM3QmRlRXJnMGdpYnZyZ2M1TnhpS0FYdDRJelRLU0NTNlZVSzJWSE9vdjhpa0Q3UUttb3Nkb3ZwRzlSUUNPdEMxcTNFNjV3bmUtN2hGU1hKT0tKdUpzaVU?oc=5",
-        "published": "30 Mar 2026, 05:54 PM",
-        "iso_date": "2026-03-30T17:54:57+00:00",
+        "title": "Despite regional tensions, Dubai’s property transactions rebound 49%",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNTIxb1lBUW94TUlaRjdQTXVzdWhjMFRULXZKckJWd1hOS1B5TV9TSnhBaTZxbFZHcFh3cF9LSTZHdnV4NUstSl9uOHBtTEJ0WkdzbUQ3eXlSaWpfSTBvUHdyT1FyS2VQUkdvQzlaNGYzWkJhTG1LRWptbEM0RkRIbnp3UzdaLTVibjZ4Y1ZvTkoydFRTLWxXY3JqbGJPdw?oc=5",
+        "published": "31 Mar 2026, 04:41 AM",
+        "iso_date": "2026-03-31T04:41:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "30 Mar 2026, 06:21 PM",
+        "iso_date": "2026-03-30T18:21:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,52 +216,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Trump accuses France of refusing airspace for US warplanes to Israel",
+        "link": "https://www.newsofbahrain.com/world/129571.html",
+        "published": "31 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ISHkU7daul_2026-03-31_1774967552resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian Missile Fire Dropped in Past 24 Hours, US Defence Secretary Says",
+        "link": "https://www.newsofbahrain.com/world/129570.html",
+        "published": "31 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZNcO8R1ug6_2026-03-31_1774967001resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Strikes Over 11,000 Iranian Targets in 30-Day",
+        "link": "https://www.newsofbahrain.com/world/129569.html",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3gBiawKScT_2026-03-31_1774966505resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar Warns Attacks on Infrastructure Have “Crossed Red Lines”",
+        "link": "https://www.newsofbahrain.com/world/129568.html",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J9C0Nzt5v1_2026-03-31_1774966278resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Pentagon Dismisses Allegations Regarding Secretary Hegseth’s broker sought defence fund investment before Iran war",
         "link": "https://www.newsofbahrain.com/world/129567.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_EtcI0kfas7_2026-03-31_1774963172resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "3 ships crossed Strait of Hormuz amid ongoing conflict: Chinese Foreign ministry",
-        "link": "https://www.newsofbahrain.com/world/129566.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SfxlqTMHeg_2026-03-31_1774962724resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Rubio says US hopeful in private talks after Iran ‘fractures’",
-        "link": "https://www.newsofbahrain.com/world/129565.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjsnMW1E4r_2026-03-31_1774961150resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "G7 pledge ‘necessary measures’ to ensure stable energy market",
-        "link": "https://www.newsofbahrain.com/business/129564.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N2hoTE59li_2026-03-31_1774961027resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russia 'glad' oil shipment reached Cuba",
-        "link": "https://www.newsofbahrain.com/business/129563.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gCYNf6i32X_2026-03-31_1774960774resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -316,12 +316,22 @@
         "category": "Latest"
       },
       {
-        "title": "Gold mine attack in South Sudan kills at least 73 people",
-        "link": "https://www.newsofbahrain.com/world/129561.html",
+        "title": "G7 pledge ‘necessary measures’ to ensure stable energy market",
+        "link": "https://www.newsofbahrain.com/business/129564.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qJkEP7Z3ei_2026-03-31_1774960498thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N2hoTE59li_2026-03-31_1774961027thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russia 'glad' oil shipment reached Cuba",
+        "link": "https://www.newsofbahrain.com/business/129563.html",
+        "published": "31 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gCYNf6i32X_2026-03-31_1774960774thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-31 14:07:38 UTC"
+  "fetched_at": "2026-03-31 15:45:33 UTC"
 }
