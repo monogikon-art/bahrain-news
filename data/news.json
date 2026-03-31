@@ -4,19 +4,19 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 11
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjUW16dXJuT2xiZ1Ixb1NTc0VkcXNtd2dKc0xwSDc0UXRCSjFneUJ5MVJvTmZkNlJfSGlGMWlOc0t6SmtQWGFKRGEyal84cnhreVZN?oc=5",
         "published": "30 Mar 2026, 08:42 PM",
         "iso_date": "2026-03-30T20:42:23+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
+        "published": "30 Mar 2026, 03:13 PM",
+        "iso_date": "2026-03-30T15:13:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,20 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
-        "published": "30 Mar 2026, 06:21 PM",
-        "iso_date": "2026-03-30T18:21:00+00:00",
+        "title": "Bahrain Destroys 74 Missiles, 92 Iranian Drones Since Saturday",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05VnplWHJpZmJROFA2MVlpT00xcDYyNVZPVzg3UEpUZWZudWwtSHRJbXdhNWl4M0RHWmYtanVGUUFmdmZlUnYtMHZLYmJmaF9jVGNLMVdHWWFLOXJJRVEtUzljNHZkVDFWSWpF?oc=5",
+        "published": "30 Mar 2026, 06:23 PM",
+        "iso_date": "2026-03-30T18:23:29+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Destroys 74 Missiles, 92 Iranian Drones Since Saturday",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05VnplWHJpZmJROFA2MVlpT00xcDYyNVZPVzg3UEpUZWZudWwtSHRJbXdhNWl4M0RHWmYtanVGUUFmdmZlUnYtMHZLYmJmaF9jVGNLMVdHWWFLOXJJRVEtUzljNHZkVDFWSWpF?oc=5",
-        "published": "30 Mar 2026, 06:23 PM",
-        "iso_date": "2026-03-30T18:23:29+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "30 Mar 2026, 06:21 PM",
+        "iso_date": "2026-03-30T18:21:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -74,52 +84,52 @@
     ],
     "gdn": [
       {
-        "title": "Call to temporarily lift ban on catching local fish varieties",
-        "link": "https://www.gdnonline.com/Details/1379983/Call-to-temporarily-lift-ban-on-catching-local-fish-varieties",
+        "title": "Zenj Exchange unveils mobile application",
+        "link": "https://www.gdnonline.com/Details/1380007/Zenj-Exchange-unveils-mobile-application",
         "published": "31 Mar 2026",
         "iso_date": "2026-03-31T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260331/20260330_231234_1_T.jpg?20260331",
+        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331013423zenjexchange_T.jpg?20260331",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Man accused of online child sexual harassment in provisional detention",
-        "link": "https://www.gdnonline.com/Details/1379985/Man-accused-of-online-child-sexual-harassment-in-provisional-detention",
+        "title": "Womenâs sense of national responsibility commended",
+        "link": "https://www.gdnonline.com/Details/1380006/Womenâs-sense-of-national-responsibility-commended",
         "published": "31 Mar 2026",
         "iso_date": "2026-03-31T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330232928iammrrob-hacking-2903156_1920_T.jpg?20260331",
+        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331013001herroyalhignessprincesssabeeka_T.jpg?20260331",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "MPs hope system fault will be fixed quickly",
-        "link": "https://www.gdnonline.com/Details/1379984/MPs-hope-system-fault-will-be-fixed-quickly-",
+        "title": "His Majestyâs visit to Iran attack victims praised",
+        "link": "https://www.gdnonline.com/Details/1380005/His-Majestyâs-visit-to-Iran-attack-victims-praised",
         "published": "31 Mar 2026",
         "iso_date": "2026-03-31T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260331/20260330_231235_1_T.jpg?20260331",
+        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331_011442_0_T.jpg?20260331",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Plea to instal proper drainage outlets in residential garages",
-        "link": "https://www.gdnonline.com/Details/1379986/Plea-to-instal-proper-drainage-outlets-in-residential-garages-",
+        "title": "Bahrainâs relations with UK highlighted",
+        "link": "https://www.gdnonline.com/Details/1380004/Bahrainâs-relations-with-UK-highlighted",
         "published": "31 Mar 2026",
         "iso_date": "2026-03-31T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260331/20260330_231236_1_T.jpg?20260331",
+        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331012233hmtheking_T.jpg?20260331",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Saar crash driver loses final appeal against conviction",
-        "link": "https://www.gdnonline.com/Details/1379982/Saar-crash-driver-loses-final-appeal-against-conviction",
+        "title": "CLOSE PARTNERSHIP: His Majesty King Hamad expressed pride in the longstanding relations between Bahrain and the United Kingdom",
+        "link": "https://www.gdnonline.com/Details/1380022/CLOSE-PARTNERSHIP-His-Majesty-King-Hamad-expressed-pride-in-the-longstanding-relations-between-Bahrain-and-the-United-Kingdom",
         "published": "31 Mar 2026",
         "iso_date": "2026-03-31T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260331/20260330_231233_3_T.jpg?20260331",
+        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331033821one_T.jpg?20260331",
         "source": "gdn",
         "category": "Latest"
       },
@@ -130,6 +140,16 @@
         "iso_date": "2026-03-30T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260329/20260329224840stocks_T.jpg?20260331",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrainâs property market shows âstructural resilienceâ",
+        "link": "https://www.gdnonline.com/Details/1379987/Bahrainâs-property-market-shows-âstructural-resilienceâ",
+        "published": "31 Mar 2026",
+        "iso_date": "2026-03-31T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260331/20260330_231245_0_T.jpg?20260331",
         "source": "gdn",
         "category": "Latest"
       },
@@ -154,6 +174,26 @@
         "category": "Latest"
       },
       {
+        "title": "Ahli crowned U21 league champions",
+        "link": "https://www.gdnonline.com/Details/1379999/Ahli-crowned-U21-league-champions",
+        "published": "31 Mar 2026",
+        "iso_date": "2026-03-31T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331013107okoh_T.jpg?20260331",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "National squad wind up training",
+        "link": "https://www.gdnonline.com/Details/1379993/National-squad-wind-up-training",
+        "published": "31 Mar 2026",
+        "iso_date": "2026-03-31T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331_011254_0.jfif?20260331",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Egypt national team director warns Salah against MLS move",
         "link": "https://www.gdnonline.com/Details/1379956/Egypt-national-team-director-warns-Salah-against-MLS-move",
         "published": "30 Mar 2026",
@@ -172,24 +212,44 @@
         "image": "https://www.gdnonline.com/gdnimages/20260330/20260330154308french1(4)_T.jpg?20260331",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Zubimendi joins Arsenal withdrawals from international squads",
-        "link": "https://www.gdnonline.com/Details/1379958/Zubimendi-joins-Arsenal-withdrawals-from-international-squads",
-        "published": "30 Mar 2026",
-        "iso_date": "2026-03-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330152519za_T.jpg?20260331",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "Moscow Aviation Institute Developing New Radar Satellite",
-        "link": "https://www.newsofbahrain.com/world/129508.html",
+        "title": "Knibb, Blummenfelt Win Oceanside Ironman 70.3",
+        "link": "https://www.newsofbahrain.com/sports/129511.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_36DRFJczHq_2026-03-31_1774942954resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pet Relocation in Current Times Calls for Careful Coordination",
+        "link": "https://www.newsofbahrain.com/bahrain/129510.html",
+        "published": "31 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WIJjE4mHeN_2026-03-31_1774942359resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Fake Cop, Real Threat: Violent Daylight Robbery Lands Defendant Back in Court",
+        "link": "https://www.newsofbahrain.com/bahrain/129509.html",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xUrL9ZWVYN_2026-03-31_1774941775resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Moscow Aviation Institute Developing New Radar Satellite",
+        "link": "https://www.newsofbahrain.com/world/129508.html",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_6RjMktNdXZ_2026-03-31_1774937260resized_pic.jpg",
         "source": "newsofbahrain",
@@ -206,32 +266,12 @@
         "category": "Latest"
       },
       {
-        "title": "Eight Arab and Islamic states condemn Israeli restrictions on worship in Jerusalem",
-        "link": "https://www.newsofbahrain.com/world/129506.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ry9p7ci3na_2026-03-30_1774905789resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "FBI: Michigan Synagogue Attack Linked to Hezbollah Inspiration",
-        "link": "https://www.newsofbahrain.com/world/129504.html",
-        "published": "30 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eF1iGB6UQb_2026-03-30_1774902577resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "HM King Hamad, UK Defence Chief Discuss Regional Security",
         "link": "https://www.newsofbahrain.com/bahrain/129503.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n7Zo5Yp1xL_2026-03-30_1774895732resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n7Zo5Yp1xL_2026-03-30_1774895732thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -256,22 +296,22 @@
         "category": "Latest"
       },
       {
-        "title": "BDF air defences destroy six drones",
-        "link": "https://www.newsofbahrain.com/bahrain/129466.html",
-        "published": "30 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-30T09:22:55+00:00",
+        "title": "Eight Arab and Islamic states condemn Israeli restrictions on worship in Jerusalem",
+        "link": "https://www.newsofbahrain.com/world/129506.html",
+        "published": "31 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z7D5xaTh4H_2026-03-30_1774854742thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ry9p7ci3na_2026-03-30_1774905789thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "24-hour care across Muharraq",
-        "link": "https://www.newsofbahrain.com/bahrain/129465.html",
+        "title": "FBI: Michigan Synagogue Attack Linked to Hezbollah Inspiration",
+        "link": "https://www.newsofbahrain.com/world/129504.html",
         "published": "30 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dv73abeoWw_2026-03-30_1774854595thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eF1iGB6UQb_2026-03-30_1774902577thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-31 06:17:17 UTC"
+  "fetched_at": "2026-03-31 07:50:59 UTC"
 }
