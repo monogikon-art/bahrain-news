@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 11
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -32,8 +32,18 @@
         "category": "Latest"
       },
       {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
+        "published": "30 Mar 2026, 03:13 PM",
+        "iso_date": "2026-03-30T15:13:36+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain’s Foulath Holding declares force majeure on some operations",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2J0Ql93Ri1fTlRUdkhBWUtXWTBJaFRNbTVSUXlBZEVSai1BOGt4UjNrSkpJSFdhUFk0NG1aM1dnQ0JjVDZqSjFoTHpOSW8tUmd2eFVUdVlNUFBJU0pMTm9MUTJHY2xHQXpDX3VQeFVaNThfZFB1Q2FxUTFlZHlVSnlwYVJIbkdOOEVOb0wtNkJMdVBMci1J?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdk94a1UwY2JiMEFFb3VJZnBYaXZYUTZnSGN5aEZwZ1hCQ19YUlRJQTNGNzhra0o0Ykd5VTZCMWxabU9PSnlkUVdXYUQ3c1UxdnVDYW9vak9HcTc2cFVlc1JHOGZCX3lTcHQzNGpBbFhzV0ZwTlVLdTZuMnY3RDZLcEhESDlfQW1NNlBIcTZoYUR1cmhnYWc?oc=5",
         "published": "30 Mar 2026, 11:47 AM",
         "iso_date": "2026-03-30T11:47:28+00:00",
         "summary": "",
@@ -53,19 +63,9 @@
       },
       {
         "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPY0tYS05NN1BhZmJHTmduZXpreEllVHQ1bTUzRGF1TEJsOUIxcTZ6aXJFVlRQS0NDTHlJdktReTd0ZUNFNzVlWkFkb2M4SU5NOVFTYjRuNUdNc041aTAyQnV6cDltYTNxN0ZXZHhrb2J0V3dVbHQxY1N5TjRWMkJkOVlWUExBc1RtNUNLVm5WbFJlWVBVcjhMa1hPc0hNYzc2V3NKWDJvT3p5OWZ2a3BFLXlPSzdoTUY3MEJ0S2JFY3BfeUVRWnN1OGRkUnJEODd0cDhwQVpnZmhyb2syOGFqNjlaaS1DWmRfeFg1ckdYT0o0Y0NyYVAzV3N1eUdxR0liUGhycktqXzBObTVZcG44bE5oc1I?oc=5",
-        "published": "30 Mar 2026, 03:33 AM",
-        "iso_date": "2026-03-30T03:33:31+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT1Y0UmtyQ0FXd2VmVVFNWHI2YzZaOG1IejVDUDNzdGp1emg0N2p6Q0dfTUFNSTNZRE9kWmRfN1RsZ245MHAxd1VheTF4TDhvSW43MUxZVGZjdTVMa1BvNnpFb3ZxT1dfNzNxbTBLTjQ0eHVYcjFyenc3UVJCUGs4QmhHWHVsUEVZU00tU2ktc1NMcExRellnRnF3RXZlOTBQbFgtYnVUdEc4VXFPRUYwNHlUWm9uaFBhZFgyemRtWmZYVy1jVFZpckZfZVBTVWhnNzI2M1NzWEJ6OXZZdjR0U284b3RpdFN0aFNTSTg0Y0pBYXJUTlJzb2lzbw?oc=5",
-        "published": "29 Mar 2026, 11:33 PM",
-        "iso_date": "2026-03-29T23:33:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "30 Mar 2026, 06:20 PM",
+        "iso_date": "2026-03-30T18:20:59+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -154,26 +154,6 @@
         "category": "Latest"
       },
       {
-        "title": "Foulath Holding to resume operations from March 30",
-        "link": "https://www.gdnonline.com/Details/1379873/Foulath-Holding-to-resume-operations-from-March-30",
-        "published": "29 Mar 2026",
-        "iso_date": "2026-03-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329201347foulath_T.jpg?20260331",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Companies âintegrating video games into marketing campaignsâ",
-        "link": "https://www.gdnonline.com/Details/1379789/Companies-âintegrating-video-games-into-marketing-campaignsâ",
-        "published": "29 Mar 2026",
-        "iso_date": "2026-03-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260328_231406_0_T.jpg?20260331",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Egypt national team director warns Salah against MLS move",
         "link": "https://www.gdnonline.com/Details/1379956/Egypt-national-team-director-warns-Salah-against-MLS-move",
         "published": "30 Mar 2026",
@@ -194,32 +174,12 @@
         "category": "Latest"
       },
       {
-        "title": "Spurs interim boss Tudor leaves club after five defeats in seven games",
-        "link": "https://www.gdnonline.com/Details/1379871/Spurs-interim-boss-Tudor-leaves-club-after-five-defeats-in-seven-games",
-        "published": "29 Mar 2026",
-        "iso_date": "2026-03-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329_181117_0_T.jpg?20260331",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Zubimendi joins Arsenal withdrawals from international squads",
         "link": "https://www.gdnonline.com/Details/1379958/Zubimendi-joins-Arsenal-withdrawals-from-international-squads",
         "published": "30 Mar 2026",
         "iso_date": "2026-03-30T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260330/20260330152519za_T.jpg?20260331",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Dutch coach Koeman praises performance but Van Dijk wants more",
-        "link": "https://www.gdnonline.com/Details/1379834/Dutch-coach-Koeman-praises-performance-but-Van-Dijk-wants-more",
-        "published": "29 Mar 2026",
-        "iso_date": "2026-03-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329102450van_T.jpg?20260331",
         "source": "gdn",
         "category": "Latest"
       }
@@ -479,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-30 23:32:01 UTC"
+  "fetched_at": "2026-03-31 02:04:21 UTC"
 }
