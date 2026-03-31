@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 12
+      "count": 13
     }
   },
   "articles": {
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2J0Ql93Ri1fTlRUdkhBWUtXWTBJaFRNbTVSUXlBZEVSai1BOGt4UjNrSkpJSFdhUFk0NG1aM1dnQ0JjVDZqSjFoTHpOSW8tUmd2eFVUdVlNUFBJU0pMTm9MUTJHY2xHQXpDX3VQeFVaNThfZFB1Q2FxUTFlZHlVSnlwYVJIbkdOOEVOb0wtNkJMdVBMci1J?oc=5",
         "published": "30 Mar 2026, 11:47 AM",
         "iso_date": "2026-03-30T11:47:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNUnh4VEVGR2FrbVp2clJISldoNDVJS3FYWWxWR0dNVGd1MkRWTWJBUlc5b2lEUXZTYUlHTEk5M1NBRDVMZ0dGNlQwdzM2MGNCbXZNWjVrVklIRU5TNHl5T1BkUS1mUHB3clQ4a09GTUEzYTY1YkpRblRHX3h3Ykt6emJneEVJYk9GaFdSdXNUang2ZDUzZUUxS1B3MldSdXNkTnU3V3ctNnh6TEF4V2xIWU94UFJQLTFLOEhxT1F3MElZRjdNY3lVVjlqVzQ1WjdqNmRTMWxiSlRaQUc5MzNiMExtNEtSZ2U4bmdLVFJVVXlJY0dtSFFlNDJ2X0tWZHA1VkFVaTFZOWJvZEpaNk5sYWtnR2xMX0VVcWNNZnhNR2wtdDlCcXpTX29HU0I4SGVHTTBBMUU2dG15OGRjb0p3S0JtT3pmY1kyRkVteWtqcTNVajUzZ3hpeVE5NEpFbm94XzJ6MkVMYmZnTGtBTEVkOFhTeHNaTWtoYXVXVDU4V0hYcnJDRjJzZm9HZVUtb09BVk9jM2U1UDBpNFBEMFc5WlZhQ3plQ00?oc=5",
-        "published": "30 Mar 2026, 03:13 PM",
-        "iso_date": "2026-03-30T15:13:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -144,22 +134,22 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain All Share Index closes lower",
-        "link": "https://www.gdnonline.com/Details/1379886/Bahrain-All-Share-Index-closes-lower",
-        "published": "30 Mar 2026",
-        "iso_date": "2026-03-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329224840stocks_T.jpg?20260331",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrainâs property market shows âstructural resilienceâ",
         "link": "https://www.gdnonline.com/Details/1379987/Bahrainâs-property-market-shows-âstructural-resilienceâ",
         "published": "31 Mar 2026",
         "iso_date": "2026-03-31T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260331/20260330_231245_0_T.jpg?20260331",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain All Share Index closes lower",
+        "link": "https://www.gdnonline.com/Details/1379886/Bahrain-All-Share-Index-closes-lower",
+        "published": "30 Mar 2026",
+        "iso_date": "2026-03-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260329/20260329224840stocks_T.jpg?20260331",
         "source": "gdn",
         "category": "Latest"
       },
@@ -226,92 +216,102 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Municipal measures improve public services",
-        "link": "https://www.newsofbahrain.com/bahrain/129528.html",
+        "title": "Oil rises on Trump’s Iran threats, stocks take cue on talks",
+        "link": "https://www.newsofbahrain.com/business/129544.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ARfL9P1t0F_2026-03-31_1774951018resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H3AiVIgGKk_2026-03-31_1774956015resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Jordan, Kuwait Condemn Foiled Terror Plot Targeting Bahrain",
-        "link": "https://www.newsofbahrain.com/world/129527.html",
+        "title": "Pakistan’s Deputy Prime Minister and Foreign Minister in China",
+        "link": "https://www.newsofbahrain.com/world/129543.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w3b7ojQSLa_2026-03-31_1774949300resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OlpZBSeHfM_2026-03-31_1774955779resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Regulating ownership and trade of dangerous animals",
-        "link": "https://www.newsofbahrain.com/bahrain/129526.html",
+        "title": "Bahrain Intercepts 182 Missiles, 400 Drones in Ongoing Attacks",
+        "link": "https://www.newsofbahrain.com/bahrain/129542.html",
         "published": "31 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-31T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TvpHG5DnE8_2026-03-31_1774948329resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y9fSKkeh2B_2026-03-31_1774955134resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "25% Dividend, 50 Years of Trust: BKIC Rewards Shareholders in a Defining Year",
-        "link": "https://www.newsofbahrain.com/bahrain/129525.html",
+        "title": "Held over terrorist cell",
+        "link": "https://www.newsofbahrain.com/bahrain/129541.html",
         "published": "31 Mar 2026, 09:00 AM",
         "iso_date": "2026-03-31T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qoWM2G6JIN_2026-03-31_1774946281resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CSWjqQ2RPT_2026-03-31_1774954895resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Shura Council Committee Reviews:  Draft Law Regulating Ownership and Trade of Dangerous Animals",
-        "link": "https://www.newsofbahrain.com/bahrain/129524.html",
+        "title": "CEO to Step Down After Backlash Over English-Only Message Following Air Canada Crash",
+        "link": "https://www.newsofbahrain.com/world/129540.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_heSsAtKRdV_2026-03-31_1774946027resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5PI98LgxXd_2026-03-31_1774954780resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Oman Central Bank Governor Receives Bahrain Ambassador to Discuss Financial Cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/129523.html",
+        "title": "Suspect held over online child sexual exploitation",
+        "link": "https://www.newsofbahrain.com/bahrain/129535.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yBjURxYECv_2026-03-31_1774945912thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DbBL2pdqXU_2026-03-31_1774953642thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Korean Air to enter 'emergency management mode' over fuel costs",
-        "link": "https://www.newsofbahrain.com/world/129515.html",
+        "title": "MP Al Doy files instalment sales bill setting prison term and BD5,000 fine for unlicensed traders",
+        "link": "https://www.newsofbahrain.com/bahrain/129533.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b9NTQKkHJm_2026-03-31_1774944553thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XrCZ4fjFN6_2026-03-31_1774952432thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Moscow Aviation Institute Developing New Radar Satellite",
-        "link": "https://www.newsofbahrain.com/world/129508.html",
+        "title": "MP calls for fix to labour site fault",
+        "link": "https://www.newsofbahrain.com/bahrain/129532.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6RjMktNdXZ_2026-03-31_1774937260thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4CNqIz05Gl_2026-03-31_1774952088thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Kuwaiti Tanker Damaged in Dubai Port Attack",
-        "link": "https://www.newsofbahrain.com/world/129507.html",
+        "title": "Kuwait Forms Committee to Assess Safe Resumption of Sports Activities",
+        "link": "https://www.newsofbahrain.com/world/129539.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_R78SEbDImi_2026-03-31_1774927245thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6INKxnCUF7_2026-03-31_1774954618thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+        "link": "https://www.newsofbahrain.com/world/129538.html",
+        "published": "31 Mar 2026, 09:22 AM",
+        "iso_date": "2026-03-31T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nGQDOZ1xpI_2026-03-31_1774953968thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-31 10:03:32 UTC"
+  "fetched_at": "2026-03-31 11:26:27 UTC"
 }
