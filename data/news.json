@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 0
     }
   },
   "articles": {
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWJUU2M3dzRFdzV3dkExcGhucUQ0a2w5bVY0VzZRbGJxbFloSjRPNm0zM3FIMGFydXUzV25mVi1JUE1jMDZpMjVDbEVhaHVodkF1VjlKd3ZNWFpjaURaMDk3cW5ELUpWSDBWS3ZTTWJrcW1NOEg1aHN1MUljdkFGdzZRZThmOXowTnR0X05EX0Voc3doVXQxcW1qSFRURk1zTUR4UFRfR1pPcXV1dndOSXFLMFhDTXFZd0d3LUg4V2ZWNXFfSUtHN9IByAFBVV95cUxQWWJUU2M3dzRFdzV3dkExcGhucUQ0a2w5bVY0VzZRbGJxbFloSjRPNm0zM3FIMGFydXUzV25mVi1JUE1jMDZpMjVDbEVhaHVodkF1VjlKd3ZNWFpjaURaMDk3cW5ELUpWSDBWS3ZTTWJrcW1NOEg1aHN1MUljdkFGdzZRZThmOXowTnR0X05EX0Voc3doVXQxcW1qSFRURk1zTUR4UFRfR1pPcXV1dndOSXFLMFhDTXFZd0d3LUg4V2ZWNXFfSUtHNw?oc=5",
         "published": "1 Apr 2026, 05:11 PM",
         "iso_date": "2026-04-01T17:11:05+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
+        "published": "31 Mar 2026, 11:54 PM",
+        "iso_date": "2026-03-31T23:54:35+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -204,158 +214,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Bahrain at UN warns: Iran’s actions risk setting dangerous global precedent",
-        "link": "https://www.newsofbahrain.com/bahrain/129673.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0Lt9GCVNE3_2026-04-01_1775082144resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Electricity Minister meets EU Special Representative for the Gulf",
-        "link": "https://www.newsofbahrain.com/bahrain/129672.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fUDwk2GOZM_2026-04-01_1775076259resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Council of Europe cites serious concerns ahead of Hungary vote",
-        "link": "https://www.newsofbahrain.com/world/129671.html",
-        "published": "1 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z5ri2UPkjZ_2026-04-01_1775076039resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodriguez",
-        "link": "https://www.newsofbahrain.com/world/129670.html",
-        "published": "1 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_thbMxpil5a_2026-04-01_1775075244resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Final ticket sales phase begins for FIFA World Cup",
-        "link": "https://www.newsofbahrain.com/sports/129669.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NroFZMilOe_2026-04-01_1775074956resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Government Entities to Operate with 50% Office Presence from April 5",
-        "link": "https://www.newsofbahrain.com/bahrain/129663.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vsd8CuFWYl_2026-04-01_1775073773thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air Adds Istanbul, Athens, India Route from Dammam",
-        "link": "https://www.newsofbahrain.com/bahrain/129661.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GhJxIrCfgl_2026-04-01_1775071470thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Revises Fuel Prices for April 2026",
-        "link": "https://www.newsofbahrain.com/bahrain/129660.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1PtcVpa0E8_2026-04-01_1775069182thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "SpaceX files to go public, paving way for record stock offering",
-        "link": "https://www.newsofbahrain.com/world/129668.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nH0WwkvjVr_2026-04-01_1775074657thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "France charges man over failed attack on US bank",
-        "link": "https://www.newsofbahrain.com/world/129667.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IL09X1ocNr_2026-04-01_1775074390thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Stocks rise on peace hopes, oil flat",
-        "link": "https://www.newsofbahrain.com/business/129646.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h9IBNz23Mv_2026-04-01_1775044407thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Beyon holds Annual General Meeting",
-        "link": "https://www.newsofbahrain.com/business/129645.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hdYb0fCrp6_2026-04-01_1775044072thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "The General Assembly of Bahrain Kuwait Insurance Co.  approves 25% Cash dividend",
-        "link": "https://www.newsofbahrain.com/business/129579.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j2myXuqTPB_2026-04-01_1775020953thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "G7 pledge ‘necessary measures’ to ensure stable energy market",
-        "link": "https://www.newsofbahrain.com/business/129564.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N2hoTE59li_2026-03-31_1774961027thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Where is ‘United Nations’ in today’s conflicts?",
-        "link": "https://www.newsofbahrain.com/views/129559.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1tPw8n2clv_2026-03-31_1774959885thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -469,5 +328,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-01 22:34:16 UTC"
+  "fetched_at": "2026-04-01 23:33:37 UTC"
 }
