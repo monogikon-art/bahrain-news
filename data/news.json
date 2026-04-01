@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,50 +22,20 @@
   "articles": {
     "bna": [
       {
+        "title": "Bahrain intercepts, destroys 186 missiles, 419 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaWRzUE9hdFdqdU9LaFVXdDI5c0dfSXowbXhyQU9pa3BWUWF1TWx3aWJHX2dFRDZFemt4c1Ixc3l6Smp6UkpkSE1jM3lJM2pkUnhNazRLZHAyTC1VLU5zNlZvOUxPdFBydU5RUzFQLTBCVzNTUERfc19TR1ZOenFQcDA1RF9scXg3SmhtRi01YUhpcUhOaGRZY1liR25GM3FLUnZpQWhZRi15cFpHdUc2NTZTOGkyellYRTlJNVI4TUwyREtld0pmS29mNzE3Y0RBMHRnOVBYdlAtQnMxRHlnbNIB4AFBVV95cUxQaWRzUE9hdFdqdU9LaFVXdDI5c0dfSXowbXhyQU9pa3BWUWF1TWx3aWJHX2dFRDZFemt4c1Ixc3l6Smp6UkpkSE1jM3lJM2pkUnhNazRLZHAyTC1VLU5zNlZvOUxPdFBydU5RUzFQLTBCVzNTUERfc19TR1ZOenFQcDA1RF9scXg3SmhtRi01YUhpcUhOaGRZY1liR25GM3FLUnZpQWhZRi15cFpHdUc2NTZTOGkyellYRTlJNVI4TUwyREtld0pmS29mNzE3Y0RBMHRnOVBYdlAtQnMxRHlnbA?oc=5",
+        "published": "1 Apr 2026, 05:10 PM",
+        "iso_date": "2026-04-01T17:10:17+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Israeli Parliament approves record 2026 defence budget as Iran war rages",
         "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNaHRfMjRnY1BPekpnVnhhMXhZODd6OFlueVRIUXQtLUJKUmRFMGlkUmJabnBoVXdXbHBBa1FObVZIaEZYOVZMZW5PcGlGVnhOR1JDVGVkS2lpS2pVU01BNUYyazFoMU1ORFRqWnNNeFE4eExoQ2tqUzlLMEh0Q00xek1VXzFSa2l0YkRGekVmLUhZRzFxZnRtUFNNY1VYTzU4aXdCUTBUQmdjYWQ1b3k4RzhVdk9NRHR4YWZLUnkzVHFzN0tkZWZBOXRPSkVYMjZ4MmR5VlRRQXNmZUd3VE9wcGl6S1B3bnZSTktHcWk2dUZNby02bWgxM28zbXVHT3V5TGszSE9NUjNLUERDNjZMU0xFa0FJX1djQVFRZHU1aDRFclpTa2ZuVUEyanUxcS1VXzRFaDM4M2NqNlMzQzdKOUs1ZzYzVXN5TVlyZlNNTHlKOTBSMTJrUDlUYWdxenZYQzV1V2t2a1IxRW5fcUU5ckJUZHBQRGFOdzhDTUNmdVBKbmVCUFk4MVpWbFZrbmNlNTRMeDJ2TXpEU25raG9NcjFnMVA?oc=5",
         "published": "31 Mar 2026, 11:32 PM",
         "iso_date": "2026-03-31T23:32:39+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Foreign Minister meets with UN Secretary-General in New York",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFBONGVBNnBDRnJqYTEtdndpeXZ3ckVsZUJnTzBLa09lUlNqMXN4eXloYzFEaHpPbkI2Q2NjQXBqYnRkenBHbm01ZlBjcmRmWHEyRzhOTjlVWE1JNjdlWmpTMFhBbks1b09uUUZEWS1pbWxwLWE1MVVNUmRFVU92c1pqNE41UzBkMl9rYkdRT3FfY0ZHa3dsUmx5M01aVllXVGtnTw?oc=5",
-        "published": "1 Apr 2026, 09:23 AM",
-        "iso_date": "2026-04-01T09:23:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Deputy Prime Minister chairs ministerial committee on development and infrastructure projects",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MZzllMVg4eGdKTi0zdTVScXFMd052Yy1zQTlkQ0JPVTczdVpWQzlhWUtSOGVkZmdPcVEtaHd0N2xTSzRmTlIyNlRXS0tKV2Z4SlEw?oc=5",
-        "published": "1 Apr 2026, 12:50 PM",
-        "iso_date": "2026-04-01T12:50:30+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
-        "published": "31 Mar 2026, 11:21 PM",
-        "iso_date": "2026-03-31T23:21:35+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXRHSXdTbUtSUTBaazkwR3REWXFxNWZKTWI2Q2dpdlFDVzlock53c2toU0VxVnktWWZQamM0enM0RGV0R0FjNzhISG8zZ2d1aHJfaWtzODdNdW12akZfQlNQeUtIUFdGMU1NTG52cjZPbnV3UVFKU3pPdzdKdVRWN3RyaEJYbzU4X3FXRUh1N3hsa1JGd1Rod18yS2h0X1VFcjNTbXNnenZpNllwT0xtSXA3Z2I0RTVfcDRlbzVTc0NsLVhhdmNjby05aXMtVWxNYVVsdGJmV0hKUk80b282aGlDWFk0NHY4S2UzODFkYjBOX29UNU84LW1xZzVUVjRvLVI1ZGh4US0yU2t6QVBsNA?oc=5",
-        "published": "1 Apr 2026, 12:22 AM",
-        "iso_date": "2026-04-01T00:22:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -82,10 +52,30 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
-        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWpDZHN5bFZQNU1mUlktSzRtanM4Rll2ZVVDSEJyTHhaU0xMVUROR2FfMGR2b2tDVXdLcWFCQzVzVEtSd2xNVGpCSmREUm1VejNWR2hiaUI1UUJwbjVXQldlR2t3R0VTellOMjQtR0RmTThJR2tFOFd6WEstZWVfelNwelp5N2hKejgxWkhhbkxDc3NOaWJLN2FZQkQ2dGR0Y1VMYjVDbmlJRUIzd2xEWUVKRkg3aFMxa2RoR1JmWmJodE1sQ0NXMHEzTXpITldzQ0d0TmV6U0xyZ2tHRVFaa2NqVnhYV09ld2hlNlFWcXRoTHZHbUJDcVgzSTN0Qzg5SmJlTDVQc3NUcHlTRzZrblRWcFJ4Z0NDYVRSdFVmWW5tcEVOcXp6RkJyb05KX0VxMUNYQ1A3b1QwR2tsTTMtQmZ4Yy0?oc=5",
-        "published": "31 Mar 2026, 04:52 PM",
-        "iso_date": "2026-03-31T16:52:30+00:00",
+        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXRHSXdTbUtSUTBaazkwR3REWXFxNWZKTWI2Q2dpdlFDVzlock53c2toU0VxVnktWWZQamM0enM0RGV0R0FjNzhISG8zZ2d1aHJfaWtzODdNdW12akZfQlNQeUtIUFdGMU1NTG52cjZPbnV3UVFKU3pPdzdKdVRWN3RyaEJYbzU4X3FXRUh1N3hsa1JGd1Rod18yS2h0X1VFcjNTbXNnenZpNllwT0xtSXA3Z2I0RTVfcDRlbzVTc0NsLVhhdmNjby05aXMtVWxNYVVsdGJmV0hKUk80b282aGlDWFk0NHY4S2UzODFkYjBOX29UNU84LW1xZzVUVjRvLVI1ZGh4US0yU2t6QVBsNA?oc=5",
+        "published": "1 Apr 2026, 12:22 AM",
+        "iso_date": "2026-04-01T00:22:08+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil prices surge amid Iranian attacks and leadership changes",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUTNCc3ZLTzRxSGFKam0yWGY0a1N0OC1mRVBzaWcyUXR3YkJ6aXotd2duRzRYUzVYc21LeHM3Z2hKUFNFYlVTdmtLMmVERHh5aFVLLXBPb19kWU9hWFdkb3JGR05KcVB1VTdaRmVJOGhVQV94REdxNnhBaGVpNG1iOEpOWU00R3RkNzFGRmR5NG9zc24xTmNOUmNxR2V4eXFpZDRkNWl5LU5MUUhGX2c?oc=5",
+        "published": "1 Apr 2026, 01:21 AM",
+        "iso_date": "2026-04-01T01:21:51+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Wayward war",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuR0lhRHg4dDNWSXNseUNJaDNfZHJ4a2pDdmp4aUZuRUg4aXNGNDZ6RmdlSmhnQWhCcWdKb1dKS2UzcUJYRGRwQUFPNkVEQTdDZGJZN3Z0VzlPU3kzQXZreHRhVDhWb0V3WUdz?oc=5",
+        "published": "1 Apr 2026, 08:27 AM",
+        "iso_date": "2026-04-01T08:27:02+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -93,6 +83,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Interior Minister: Bahrain steadfast in defending sovereignty under HM Kingâs leadership",
+        "link": "https://www.gdnonline.com/Details/1380184/Interior-Minister-Bahrain-steadfast-in-defending-sovereignty-under-HM-Kingâs-leadership",
+        "published": "1 Apr 2026",
+        "iso_date": "2026-04-01T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401192149moi1(7)_T.jpg?20260401",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Ignore false rumours about BFH, says chief executive",
         "link": "https://www.gdnonline.com/Details/1380182/Ignore-false-rumours-about-BFH,-says-chief-executive",
@@ -130,16 +130,6 @@
         "iso_date": "2026-04-01T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260401/20260401115729gdnwebsitesize(9)_T.jpg?20260401",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "New assessment system for schools takes effect",
-        "link": "https://www.gdnonline.com/Details/1380069/New-assessment-system-for-schools-takes-effect",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401000600o_T.jpg?20260401",
         "source": "gdn",
         "category": "Latest"
       },
@@ -246,6 +236,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Royal Humanitarian Foundation Unveils Community Reassurance Initiative in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/129659.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ct9hnPfV0K_2026-04-01_1775062285resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Iran’s New President Requests Ceasefire, Says Trump",
         "link": "https://www.newsofbahrain.com/world/129658.html",
         "published": "1 Apr 2026, 09:22 AM",
@@ -258,8 +258,8 @@
       {
         "title": "Russian military plane crashes in Crimea, killing 29 people",
         "link": "https://www.newsofbahrain.com/world/129657.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
+        "published": "1 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-01T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_nEJg2C6e4R_2026-04-01_1775051684resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,8 +278,8 @@
       {
         "title": "No promises this will be Israel’s ‘last war’, says Israeli Foreign Minister",
         "link": "https://www.newsofbahrain.com/world/129655.html",
-        "published": "1 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-01T09:00:43+00:00",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_urMVL5jWUh_2026-04-01_1775049641resized_pic.jpg",
         "source": "newsofbahrain",
@@ -291,7 +291,7 @@
         "published": "1 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4Tq9ZANXVW_2026-04-01_1775048250resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4Tq9ZANXVW_2026-04-01_1775048250thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,16 +312,6 @@
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_RANpOtL4vX_2026-04-01_1775045233thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s UNSC Presidency Marks Milestone in Its Diplomatic Journey, Says Foreign Minister",
-        "link": "https://www.newsofbahrain.com/bahrain/129648.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lrw0LVNJgv_2026-04-01_1775045122thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-01 16:04:54 UTC"
+  "fetched_at": "2026-04-01 17:27:55 UTC"
 }
