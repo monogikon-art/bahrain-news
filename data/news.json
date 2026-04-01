@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -23,7 +23,7 @@
     "bna": [
       {
         "title": "Israeli Parliament approves record 2026 defence budget as Iran war rages",
-        "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNaHRfMjRnY1BPekpnVnhhMXhZODd6OFlueVRIUXQtLUJKUmRFMGlkUmJabnBoVXdXbHBBa1FObVZIaEZYOVZMZW5PcGlGVnhOR1JDVGVkS2lpS2pVU01BNUYyazFoMU1ORFRqWnNNeFE4eExoQ2tqUzlLMEh0Q00xek1VXzFSa2l0YkRGekVmLUhZRzFxZnRtUFNNY1VYTzU4aXdCUTBUQmdjYWQ1b3k4RzhVdk9NRHR4YWZLUnkzVHFzN0tkZWZBOXRPSkVYMjZ4MmR5VlRRQXNmZUd3VE9wcGl6S1B3bnZSTktHcWk2dUZNby02bWgxM28zbXVHT3V5TGszSE9NUjNLUERDNjZMU0xFa0FJX1djQVFRZHU1aDRFclpTa2ZuVUEyanUxcS1VXzRFaDM4M2NqNlMzQzdKOUs1ZzYzVXN5TVlyZlNNTHlKOTBSMTJrUDlUYWdxenZYQzV1V2t2a1IxRW5fcUU5ckJUZHBQRGFOdzhDTUNmdVBKbmVCUFk4MVpWbFZrbmNlNTRMeDJ2TXpEU25raG9NcjFnMVA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQeVpJMnBnUkxockx3bU1yQ2tSdU5WUHVPcDNOdWl1RTdZQmNheTRWLWlCREpFSndjNzhQdjFsRVBoNDZUQy16VVhnazFlZW85M0xIcjNvalRISnVVUTdkemlTYkROY1JhaWhhVEhlTjFfN0dhTU51akpxdjcxTE1IbHI2dTlZRUVVSzRvTGlmWWtUMmNEQ2gtcENmdVE3U2pXVjB4VXFjVlRKTG40d2hadHJpMnY0Y2pfZ1RkWjhWNFJvS05wcWp2SzBzMGk4dTlSR1dDQ2VWRmF4Z2hhTXpfRzljbGtWVUR3NXpIcVhZU1lHZ1dOOVZaUEtjbkpVb2dSSnVGUUNyZXNBOXFnaGZhSzNSaDlSOTlXVUJpc0RxWWNtTEJSd2VmWUNuN1dJY2wzeVkxNmJrMFp0QU1TRXU0dEJ4MTRoTW5hSk9iZ3hvUmhReTk4T2wtVEs3OGtYbTNkNEhSdGhhb0ZQZklncFhJaGhIejdnakxYT0toYy1Rbkx1TldLNThTYmMtcEUzQ1pZNzBFcUV4S2NOUlB4TUU3ZGdYV05zdw?oc=5",
         "published": "31 Mar 2026, 11:32 PM",
         "iso_date": "2026-03-31T23:32:39+00:00",
         "summary": "",
@@ -42,10 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "Despite regional tensions, Dubai’s property transactions rebound 49%",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDlUV1V5ZzF5X3E0MEhzMXBjTVFDWUFsQjBaU2pFMEViRjI4VWdQY2ZMaXN4TFhMNlU1eXR5RlMyV3NRNnVwOUIyTEdMS0JRTmtJcWxUemRqcndiVXFBbVJkMEFURE5sV3BXWUFUVjYxcEgwVUZ0dlplY3ZGZW40cXF0R0t3T21lYXg1Vl91anpabHpvR0k2QjRkeEs?oc=5",
-        "published": "31 Mar 2026, 04:41 AM",
-        "iso_date": "2026-03-31T04:41:50+00:00",
+        "title": "Oil prices surge following Iranian attacks and leadership change",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd25SeGNlaXhoZ0dBWUF6OV9OYXNXdnAyMWRTd0JPQkR1eWF1ajc4VGdwdHZSUnhZemZPdjFyVmFvUnY2eFNsVjR2bXVxdG1oZVNReXlvZWNvdW9MbXVTdjRneVBkWllWMUk0R1hQLThwZG1ZeEFBVlpZUlM1SXJSX19aR1AyVFVVS05NU05nN0RZREFTV3pJcGdQWTJNcVJBNFN5VlVhMXpzQm5Ra0VaNzd3WnRrOVRUVWZZTUp1Tl9wcW9sNW9vbTU0MVhLM2VzVVBjT09VLW1Xc0VNbWgxcEpwbXlQbWlYaUJKOFhhQnJ1S2t4?oc=5",
+        "published": "31 Mar 2026, 06:53 AM",
+        "iso_date": "2026-03-31T06:53:20+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
+        "published": "31 Mar 2026, 03:07 PM",
+        "iso_date": "2026-03-31T15:07:40+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -53,9 +63,19 @@
       },
       {
         "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
-        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPOXR1NV9KRThWY29wbmx6cHpMNGNNd0dlYnhoSXJhSFhxSXhVbzBvazlKNmlKWkVCZDZURHdnYm5mcGRDRGNhdmJqdmZuV2N3N0tYSzlzMGhxTGFwWDNUMG1HYVRMb0pnVTY5Q1NkblhaM1ZPZmRvSjRPUXAzZU90T0pra3RzVHVrWUtRcnV4UWY5M1RjcTNaOHlCb1FXNDVseTFQU0NXVEFpUUx4RGxleG45d1A1TkJhUlNGMHh0T3Zqc1dicmNrWnR3alZsaFBUaGV3dEpLbzlqb3NiQ254TmNFb2RnSFNaeWd3Q3llN3pSelVFc2gyOENVOHBScU9GT1l6VjNXVFNUMzJ0dUdPUGJUUmRXSVNna29GQUtRYURRMlZNZ3dXY3FmeldmN2lsOE9LdFdfMTNCQTZWVFlzY2xxZw?oc=5",
-        "published": "31 Mar 2026, 08:58 AM",
-        "iso_date": "2026-03-31T08:58:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHZjY1A0UUxpU0dscjNWZkd1RTBmYlIxaS05Yk9sakdmU0M1MlQ3VGFKVmFwaEdYdlNqZTVhcXQ2QnYzWmpxU2NFVzRlalVuNTVVNDBZTmdPMmhTS0Q4bTlMQm9HM0V6aDNLMmF2dGVmTjZNMlNtTGFqWVhOSmphQ3ROdklNZnJRMGdzbC16VzlUTk51QkZiYllUS3ZXOFN1ZVFMMEQ2SnlzR2N6eWc?oc=5",
+        "published": "31 Mar 2026, 07:59 AM",
+        "iso_date": "2026-03-31T07:59:51+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Finland Condemns Iranian Aggression on Bahrain; Affirms Solidarity, Support for Maritime Security",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkQ3cXAtMGZrNHJUNXhadFdzNzFIbWxETVA3QlhhbXc1dWpFNVFYTlo1WGhTTmhwTEZpQ0dnOG96U1BvYm40bE9Kdl81cTl6cS1DZ2lNdjZ3QjF4aENEU24yTFgxaUxuSWU1QUhNWlFXYUVRZkVTaWZweW56RzZhSXFSNU0wZEtYbklQMlItLUYxN01MekhpcEtlbUxzcFNUM3pwamVJNndQdGdNdGNBaVJB?oc=5",
+        "published": "31 Mar 2026, 08:48 AM",
+        "iso_date": "2026-03-31T08:48:34+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-01 02:12:33 UTC"
+  "fetched_at": "2026-04-01 05:10:53 UTC"
 }
