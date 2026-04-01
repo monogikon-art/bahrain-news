@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "Israeli Parliament approves record 2026 defence budget as Iran war rages",
+        "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNaHRfMjRnY1BPekpnVnhhMXhZODd6OFlueVRIUXQtLUJKUmRFMGlkUmJabnBoVXdXbHBBa1FObVZIaEZYOVZMZW5PcGlGVnhOR1JDVGVkS2lpS2pVU01BNUYyazFoMU1ORFRqWnNNeFE4eExoQ2tqUzlLMEh0Q00xek1VXzFSa2l0YkRGekVmLUhZRzFxZnRtUFNNY1VYTzU4aXdCUTBUQmdjYWQ1b3k4RzhVdk9NRHR4YWZLUnkzVHFzN0tkZWZBOXRPSkVYMjZ4MmR5VlRRQXNmZUd3VE9wcGl6S1B3bnZSTktHcWk2dUZNby02bWgxM28zbXVHT3V5TGszSE9NUjNLUERDNjZMU0xFa0FJX1djQVFRZHU1aDRFclpTa2ZuVUEyanUxcS1VXzRFaDM4M2NqNlMzQzdKOUs1ZzYzVXN5TVlyZlNNTHlKOTBSMTJrUDlUYWdxenZYQzV1V2t2a1IxRW5fcUU5ckJUZHBQRGFOdzhDTUNmdVBKbmVCUFk4MVpWbFZrbmNlNTRMeDJ2TXpEU25raG9NcjFnMVA?oc=5",
+        "published": "31 Mar 2026, 11:32 PM",
+        "iso_date": "2026-03-31T23:32:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Intercepts and Destroys 182 Missiles and 400 Drones Since Onset of Iranian Attacks - Emirates 24|7",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFVdS1WZ1dFM0FpaGNPbzlRLUx5WElTTmhwSUlUWkIwdF81OTBqVmhmdWVZVE9MeW14YUFMS0VoZFZGYVNlVVo2VmRVTTk2TG1NNFNMbGN1eXA4MGNFM04yZk1palgwSTdlQ1FJc2NKajFCVXIyTVZ3Q1pfakVBX29xd01UMGFPdHY1cUVkaWkwcWMzcFJubzE2UVJfTTIzUW5PZlpUWEZjb21xUHJFSlFlOFhRRDJ2ZkhiX1FsQ2NzSWN6c2FNcFpvSGNwdFotU0dEWThySEsxNkZPNkNSaVFB0gHiAUFVX3lxTE55cVV1LVZnV0UzQWloY09vOVEtTHlYSVNOaHBJSVRaQjB0XzU5MGpWaGZ1ZVlUT0x5bXhhQUxLRWhkVkZhU2VVWjZWZFVNOTZMbU00U0xsY3V5cDgwY0UzTjJmTWlqWDBJN2VDUUlzY0pqMUJVcjJNVndDWl9qRUFfb3F3TVQwYU90djVxRWRpaTBxYzNwUm5vMTZRUl9NMjNRbk9mWlRYRmNvbXFQckVKUWU4WFFEMnZmSGJfUWxDY3NJY3pzYU1wWm9IY3B0Wi1TR0RZOHJISzE2Rk82Q1JpUUE?oc=5",
         "published": "31 Mar 2026, 11:55 AM",
@@ -32,18 +42,8 @@
         "category": "Latest"
       },
       {
-        "title": "Oil prices surge following Iranian attacks and leadership change",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd25SeGNlaXhoZ0dBWUF6OV9OYXNXdnAyMWRTd0JPQkR1eWF1ajc4VGdwdHZSUnhZemZPdjFyVmFvUnY2eFNsVjR2bXVxdG1oZVNReXlvZWNvdW9MbXVTdjRneVBkWllWMUk0R1hQLThwZG1ZeEFBVlpZUlM1SXJSX19aR1AyVFVVS05NU05nN0RZREFTV3pJcGdQWTJNcVJBNFN5VlVhMXpzQm5Ra0VaNzd3WnRrOVRUVWZZTUp1Tl9wcW9sNW9vbTU0MVhLM2VzVVBjT09VLW1Xc0VNbWgxcEpwbXlQbWlYaUJKOFhhQnJ1S2t4?oc=5",
-        "published": "31 Mar 2026, 06:53 AM",
-        "iso_date": "2026-03-31T06:53:20+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Despite regional tensions, Dubai’s property transactions rebound 49%",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNTIxb1lBUW94TUlaRjdQTXVzdWhjMFRULXZKckJWd1hOS1B5TV9TSnhBaTZxbFZHcFh3cF9LSTZHdnV4NUstSl9uOHBtTEJ0WkdzbUQ3eXlSaWpfSTBvUHdyT1FyS2VQUkdvQzlaNGYzWkJhTG1LRWptbEM0RkRIbnp3UzdaLTVibjZ4Y1ZvTkoydFRTLWxXY3JqbGJPdw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDlUV1V5ZzF5X3E0MEhzMXBjTVFDWUFsQjBaU2pFMEViRjI4VWdQY2ZMaXN4TFhMNlU1eXR5RlMyV3NRNnVwOUIyTEdMS0JRTmtJcWxUemRqcndiVXFBbVJkMEFURE5sV3BXWUFUVjYxcEgwVUZ0dlplY3ZGZW40cXF0R0t3T21lYXg1Vl91anpabHpvR0k2QjRkeEs?oc=5",
         "published": "31 Mar 2026, 04:41 AM",
         "iso_date": "2026-03-31T04:41:50+00:00",
         "summary": "",
@@ -64,52 +64,52 @@
     ],
     "gdn": [
       {
-        "title": "Bahrainâs UN Mission sends 8th letter on Iranian attacks to Sec-Gen, Security Council President",
-        "link": "https://www.gdnonline.com/Details/1380059/Bahrainâs-UN-Mission-sends-8th-letter-on-Iranian-attacks-to-Sec-Gen,-Security-Council-President",
-        "published": "31 Mar 2026",
-        "iso_date": "2026-03-31T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331195002un1(1)_T.jpg?20260401",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Medical education in spotlight",
-        "link": "https://www.gdnonline.com/Details/1380064/Medical-education-in-spotlight",
+        "title": "New assessment system for schools takes effect",
+        "link": "https://www.gdnonline.com/Details/1380069/New-assessment-system-for-schools-takes-effect",
         "published": "1 Apr 2026",
         "iso_date": "2026-04-01T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331232612rc1_T.jpg?20260401",
+        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401000600o_T.jpg?20260401",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Recommendations linked to NAO report approved",
-        "link": "https://www.gdnonline.com/Details/1380066/Recommendations-linked-to-NAO-report-approved",
+        "title": "Plans to address attacks impact reviewed",
+        "link": "https://www.gdnonline.com/Details/1380081/Plans-to-address-attacks-impact-reviewed",
         "published": "1 Apr 2026",
         "iso_date": "2026-04-01T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331235030re2111_T.jpg?20260401",
+        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401_005313_2_T.jpg?20260401",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "UAE, Kuwait, Jordan condemn terrorist plot in Bahrain, affirm full solidarity",
-        "link": "https://www.gdnonline.com/Details/1380045/UAE,-Kuwait,-Jordan-condemn-terrorist-plot-in-Bahrain,-affirm-full-solidarity",
-        "published": "31 Mar 2026",
-        "iso_date": "2026-03-31T00:00:00",
+        "title": "Nurse jailed for stealing BD26,000 from patient",
+        "link": "https://www.gdnonline.com/Details/1380071/Nurse-jailed-for-stealing-BD26,000-from-patient",
+        "published": "1 Apr 2026",
+        "iso_date": "2026-04-01T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331143957websize(26)_T.jpg?20260401",
+        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401001908jail4_T.jpg?20260401",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Zenj Exchange unveils mobile application",
-        "link": "https://www.gdnonline.com/Details/1380007/Zenj-Exchange-unveils-mobile-application",
-        "published": "31 Mar 2026",
-        "iso_date": "2026-03-31T00:00:00",
+        "title": "Urgent steps sought to support economy",
+        "link": "https://www.gdnonline.com/Details/1380093/Urgent-steps-sought-to-support-economy",
+        "published": "1 Apr 2026",
+        "iso_date": "2026-04-01T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260331/20260331013423zenjexchange_T.jpg?20260401",
+        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401012608mrqarata_T.jpg?20260401",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Nurseries and kindergartens in Bahrain to reopen doors",
+        "link": "https://www.gdnonline.com/Details/1380080/Nurseries-and-kindergartens-in-Bahrain-to-reopen-doors",
+        "published": "1 Apr 2026",
+        "iso_date": "2026-04-01T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401010208kinaa_T.jpg?20260401",
         "source": "gdn",
         "category": "Latest"
       },
@@ -164,6 +164,36 @@
         "category": "Latest"
       },
       {
+        "title": "Japan beat misfiring England in friendly",
+        "link": "https://www.gdnonline.com/Details/1380111/Japan-beat-misfiring-England-in-friendly",
+        "published": "1 Apr 2026",
+        "iso_date": "2026-04-01T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401_021656_2_T.jpg?20260401",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "De Zerbi appointed as Spurs manager",
+        "link": "https://www.gdnonline.com/Details/1380110/De-Zerbi-appointed-as-Spurs-manager",
+        "published": "1 Apr 2026",
+        "iso_date": "2026-04-01T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401022933dezerbi_T.jpg?20260401",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Italy miss out on World Cup",
+        "link": "https://www.gdnonline.com/Details/1380109/Italy-miss-out-on-World-Cup",
+        "published": "1 Apr 2026",
+        "iso_date": "2026-04-01T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401_021654_0_T.jpg?20260401",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Ahli crowned U21 league champions",
         "link": "https://www.gdnonline.com/Details/1379999/Ahli-crowned-U21-league-champions",
         "published": "31 Mar 2026",
@@ -182,29 +212,19 @@
         "image": "https://www.gdnonline.com/gdnimages/20260331/20260331_011254_0.jfif?20260401",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Egypt national team director warns Salah against MLS move",
-        "link": "https://www.gdnonline.com/Details/1379956/Egypt-national-team-director-warns-Salah-against-MLS-move",
-        "published": "30 Mar 2026",
-        "iso_date": "2026-03-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330153829salah1(6)_T.jpg?20260401",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "France showcase firepower and squad depth in 3-1 Colombia win",
-        "link": "https://www.gdnonline.com/Details/1379955/France-showcase-firepower-and-squad-depth-in-3-1-Colombia-win",
-        "published": "30 Mar 2026",
-        "iso_date": "2026-03-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260330/20260330154308french1(4)_T.jpg?20260401",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
+      {
+        "title": "Tanker Damaged by Projectile Near Qatar Coast",
+        "link": "https://www.newsofbahrain.com/world/129577.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UEci8RmGL3_2026-04-01_1775009424resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "U.S. Journalist Kidnapped in Baghdad",
         "link": "https://www.newsofbahrain.com/world/129576.html",
@@ -218,8 +238,8 @@
       {
         "title": "Bahrain to Reopen Nurseries and Special Needs Schools from April 5",
         "link": "https://www.newsofbahrain.com/bahrain/129575.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
+        "published": "31 Mar 2026, 09:00 AM",
+        "iso_date": "2026-03-31T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_rk84TchSwy_2026-03-31_1774981245resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +258,10 @@
       {
         "title": "Italy Denies U.S. Use of Sicily Base Amid Rising NATO Tensions Over Middle East Operations",
         "link": "https://www.newsofbahrain.com/world/129573.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bm8tnkhv31_2026-03-31_1774972490resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE President Receives Emir of Qatar",
-        "link": "https://www.newsofbahrain.com/world/129572.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tvw1linMts_2026-03-31_1774972366resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bm8tnkhv31_2026-03-31_1774972490resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,12 +296,12 @@
         "category": "Latest"
       },
       {
-        "title": "Trump accuses France of refusing airspace for US warplanes to Israel",
-        "link": "https://www.newsofbahrain.com/world/129571.html",
+        "title": "UAE President Receives Emir of Qatar",
+        "link": "https://www.newsofbahrain.com/world/129572.html",
         "published": "31 Mar 2026, 09:22 AM",
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ISHkU7daul_2026-03-31_1774967552thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tvw1linMts_2026-03-31_1774972366thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-03-31 23:31:09 UTC"
+  "fetched_at": "2026-04-01 02:12:33 UTC"
 }
