@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
         "published": "31 Mar 2026, 11:21 PM",
         "iso_date": "2026-03-31T23:21:35+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXRHSXdTbUtSUTBaazkwR3REWXFxNWZKTWI2Q2dpdlFDVzlock53c2toU0VxVnktWWZQamM0enM0RGV0R0FjNzhISG8zZ2d1aHJfaWtzODdNdW12akZfQlNQeUtIUFdGMU1NTG52cjZPbnV3UVFKU3pPdzdKdVRWN3RyaEJYbzU4X3FXRUh1N3hsa1JGd1Rod18yS2h0X1VFcjNTbXNnenZpNllwT0xtSXA3Z2I0RTVfcDRlbzVTc0NsLVhhdmNjby05aXMtVWxNYVVsdGJmV0hKUk80b282aGlDWFk0NHY4S2UzODFkYjBOX29UNU84LW1xZzVUVjRvLVI1ZGh4US0yU2t6QVBsNA?oc=5",
+        "published": "1 Apr 2026, 12:22 AM",
+        "iso_date": "2026-04-01T00:22:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-01 14:48:34 UTC"
+  "fetched_at": "2026-04-01 16:04:54 UTC"
 }
