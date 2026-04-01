@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -226,82 +226,92 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Nurse Jailed 10 Years for Defrauding Disabled Man of BD25,750",
-        "link": "https://www.newsofbahrain.com/bahrain/129589.html",
+        "title": "Garage Drain Plan Passed by Northern Council",
+        "link": "https://www.newsofbahrain.com/bahrain/129603.html",
         "published": "1 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lwG3eHoQY9_2026-04-01_1775026328resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZzWyOJSXRk_2026-04-01_1775031154resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "MPs Urge Six-Month LMRA Fee Relief for Firms",
-        "link": "https://www.newsofbahrain.com/bahrain/129588.html",
+        "title": "Audit Alarm Raised",
+        "link": "https://www.newsofbahrain.com/bahrain/129602.html",
         "published": "1 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pyrXOz5dvM_2026-04-01_1775026241resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1wkN8vDJXG_2026-04-01_1775030461resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "From Punishment to Reform",
+        "link": "https://www.newsofbahrain.com/bahrain/129601.html",
+        "published": "1 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-01T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1syd93vp7l_2026-04-01_1775030031resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Women hold the line as Bahrain draws strength from unity",
+        "link": "https://www.newsofbahrain.com/bahrain/129600.html",
+        "published": "1 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-01T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yDpBRhu357_2026-04-01_1775029748resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Cambodia Diesel Prices Double Amid Global Oil Surge",
+        "link": "https://www.newsofbahrain.com/world/129599.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_E0FMkb768J_2026-04-01_1775029740resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ports Unit Says Most Audit Remarks Have Been Fixed",
+        "link": "https://www.newsofbahrain.com/bahrain/129598.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5Y0ncrXpLm_2026-04-01_1775029555thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Court Blocks President Trump’s $400 Million White House Ballroom Project",
+        "link": "https://www.newsofbahrain.com/world/129596.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SRcqhlT3vi_2026-04-01_1775029070thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bangladeshi worker killed in Fujairah after drone interception debris hits farm",
+        "link": "https://www.newsofbahrain.com/world/129593.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4Xnxt9dDrs_2026-04-01_1775027632thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "UAE Airlines Bar Iranian Nationals from Entry and Transit, With Key Exemptions",
         "link": "https://www.newsofbahrain.com/world/129587.html",
-        "published": "1 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2byU0TNKui_2026-04-01_1775024290resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Minister Pledges Relief for Overstretched Air Traffic Team",
-        "link": "https://www.newsofbahrain.com/bahrain/129586.html",
-        "published": "1 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3ZaRo9dGTn_2026-04-01_1775025738resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Middle East Conflict Could Cost Up to $194 Billion, 3.6 Million Jobs at Risk: UNDP",
-        "link": "https://www.newsofbahrain.com/world/129585.html",
         "published": "1 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3dl4CmDagn_2026-04-01_1775022643resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain assumes  UN Security Council presidency for April",
-        "link": "https://www.newsofbahrain.com/bahrain/129582.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aCsegR36q7_2026-04-01_1775021653thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone Strike Hits Fuel Facility at Kuwait International Airport, No Casualties",
-        "link": "https://www.newsofbahrain.com/world/129584.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kcGuePVzdC_2026-04-01_1775022036thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE announces April 2026 fuel prices with sharp increase",
-        "link": "https://www.newsofbahrain.com/world/129583.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pAIzgqFmLw_2026-04-01_1775021741thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2byU0TNKui_2026-04-01_1775024290thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-01 06:58:14 UTC"
+  "fetched_at": "2026-04-01 08:17:33 UTC"
 }
