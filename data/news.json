@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -42,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Oil prices surge following Iranian attacks and leadership change",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd25SeGNlaXhoZ0dBWUF6OV9OYXNXdnAyMWRTd0JPQkR1eWF1ajc4VGdwdHZSUnhZemZPdjFyVmFvUnY2eFNsVjR2bXVxdG1oZVNReXlvZWNvdW9MbXVTdjRneVBkWllWMUk0R1hQLThwZG1ZeEFBVlpZUlM1SXJSX19aR1AyVFVVS05NU05nN0RZREFTV3pJcGdQWTJNcVJBNFN5VlVhMXpzQm5Ra0VaNzd3WnRrOVRUVWZZTUp1Tl9wcW9sNW9vbTU0MVhLM2VzVVBjT09VLW1Xc0VNbWgxcEpwbXlQbWlYaUJKOFhhQnJ1S2t4?oc=5",
-        "published": "31 Mar 2026, 06:53 AM",
-        "iso_date": "2026-03-31T06:53:20+00:00",
+        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZEpURzktZHlZUXlwQ1RpVjlldDdfLXFZNElpY2RwVFNabE9mUVpLT2JTTmVGeFRIdkhQcmlZYnEtYXV5Ykw0RkYyQ3AzUF9BaVJDN3dMaG9yV2pNSUNpWnNsTFlwNnkyNFRUV0JZdUpudGlzc05EcjIxalNWdVVVZUFDelczbXdYbzN6UFcwVVEtc1FNQTlGQnRNVHdDbDZTUGI3T1lzRng1RDZudjVhNkdzRXN0bWZHeDlNRmpFVGFCbWFWLXNJOV83bWJHWjIzX2RmT3k4Qjh2cVVHNXJOZlRTN000UQ?oc=5",
+        "published": "31 Mar 2026, 09:15 AM",
+        "iso_date": "2026-03-31T09:15:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
         "published": "31 Mar 2026, 03:07 PM",
         "iso_date": "2026-03-31T15:07:40+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHZjY1A0UUxpU0dscjNWZkd1RTBmYlIxaS05Yk9sakdmU0M1MlQ3VGFKVmFwaEdYdlNqZTVhcXQ2QnYzWmpxU2NFVzRlalVuNTVVNDBZTmdPMmhTS0Q4bTlMQm9HM0V6aDNLMmF2dGVmTjZNMlNtTGFqWVhOSmphQ3ROdklNZnJRMGdzbC16VzlUTk51QkZiYllUS3ZXOFN1ZVFMMEQ2SnlzR2N6eWc?oc=5",
-        "published": "31 Mar 2026, 07:59 AM",
-        "iso_date": "2026-03-31T07:59:51+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,92 +226,92 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Tanker Damaged by Projectile Near Qatar Coast",
-        "link": "https://www.newsofbahrain.com/world/129577.html",
+        "title": "Nurse Jailed 10 Years for Defrauding Disabled Man of BD25,750",
+        "link": "https://www.newsofbahrain.com/bahrain/129589.html",
         "published": "1 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UEci8RmGL3_2026-04-01_1775009424resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lwG3eHoQY9_2026-04-01_1775026328resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "U.S. Journalist Kidnapped in Baghdad",
-        "link": "https://www.newsofbahrain.com/world/129576.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
+        "title": "MPs Urge Six-Month LMRA Fee Relief for Firms",
+        "link": "https://www.newsofbahrain.com/bahrain/129588.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xKgNBR86e0_2026-03-31_1774988897resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pyrXOz5dvM_2026-04-01_1775026241resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain to Reopen Nurseries and Special Needs Schools from April 5",
-        "link": "https://www.newsofbahrain.com/bahrain/129575.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
+        "title": "UAE Airlines Bar Iranian Nationals from Entry and Transit, With Key Exemptions",
+        "link": "https://www.newsofbahrain.com/world/129587.html",
+        "published": "1 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-01T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rk84TchSwy_2026-03-31_1774981245resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2byU0TNKui_2026-04-01_1775024290resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "9-Year Prison Sentence Upheld for Defendant in Deadly Saar Traffic Crash",
-        "link": "https://www.newsofbahrain.com/bahrain/129574.html",
-        "published": "31 Mar 2026, 09:00 AM",
-        "iso_date": "2026-03-31T09:00:43+00:00",
+        "title": "Minister Pledges Relief for Overstretched Air Traffic Team",
+        "link": "https://www.newsofbahrain.com/bahrain/129586.html",
+        "published": "1 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-01T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3xfM47ApqO_2026-03-31_1774973564resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3ZaRo9dGTn_2026-04-01_1775025738resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Italy Denies U.S. Use of Sicily Base Amid Rising NATO Tensions Over Middle East Operations",
-        "link": "https://www.newsofbahrain.com/world/129573.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
+        "title": "Middle East Conflict Could Cost Up to $194 Billion, 3.6 Million Jobs at Risk: UNDP",
+        "link": "https://www.newsofbahrain.com/world/129585.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bm8tnkhv31_2026-03-31_1774972490resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3dl4CmDagn_2026-04-01_1775022643resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Intercepts 182 Missiles, 400 Drones in Ongoing Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/129542.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
+        "title": "Bahrain assumes  UN Security Council presidency for April",
+        "link": "https://www.newsofbahrain.com/bahrain/129582.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y9fSKkeh2B_2026-03-31_1774955134thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aCsegR36q7_2026-04-01_1775021653thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Held over terrorist cell",
-        "link": "https://www.newsofbahrain.com/bahrain/129541.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
+        "title": "Drone Strike Hits Fuel Facility at Kuwait International Airport, No Casualties",
+        "link": "https://www.newsofbahrain.com/world/129584.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CSWjqQ2RPT_2026-03-31_1774954895thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kcGuePVzdC_2026-04-01_1775022036thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Suspect held over online child sexual exploitation",
-        "link": "https://www.newsofbahrain.com/bahrain/129535.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
+        "title": "UAE announces April 2026 fuel prices with sharp increase",
+        "link": "https://www.newsofbahrain.com/world/129583.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DbBL2pdqXU_2026-03-31_1774953642thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pAIzgqFmLw_2026-04-01_1775021741thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE President Receives Emir of Qatar",
-        "link": "https://www.newsofbahrain.com/world/129572.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
+        "title": "The General Assembly of Bahrain Kuwait Insurance Co.  approves 25% Cash dividend",
+        "link": "https://www.newsofbahrain.com/business/129579.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tvw1linMts_2026-03-31_1774972366thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j2myXuqTPB_2026-04-01_1775020953thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,16 +342,6 @@
         "iso_date": "2026-03-31T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_O0CvZDwx7g_2026-03-31_1774960644thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Fed chief says can look past oil shock but wary of deeper risks",
-        "link": "https://www.newsofbahrain.com/business/129546.html",
-        "published": "31 Mar 2026, 09:22 AM",
-        "iso_date": "2026-03-31T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_65XZxhuFzL_2026-03-31_1774957864thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-01 05:10:53 UTC"
+  "fetched_at": "2026-04-01 06:58:14 UTC"
 }
