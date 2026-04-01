@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 19
     }
   },
   "articles": {
@@ -32,8 +32,18 @@
         "category": "Latest"
       },
       {
+        "title": "Foreign Minister meets with UN Secretary-General in New York",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tNjhqWlpEbjFvNlVVNmVyUFUzMll2X1FlR2Vzc0I0VUlfNTZIVE93V1Z3M3VuTTQxM19panhFSE9BeFNpX1FldHFPUjd2bUZXUXFF?oc=5",
+        "published": "1 Apr 2026, 08:53 AM",
+        "iso_date": "2026-04-01T08:53:11+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Intercepts and Destroys 182 Missiles and 400 Drones Since Onset of Iranian Attacks - Emirates 24|7",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXFVdS1WZ1dFM0FpaGNPbzlRLUx5WElTTmhwSUlUWkIwdF81OTBqVmhmdWVZVE9MeW14YUFMS0VoZFZGYVNlVVo2VmRVTTk2TG1NNFNMbGN1eXA4MGNFM04yZk1palgwSTdlQ1FJc2NKajFCVXIyTVZ3Q1pfakVBX29xd01UMGFPdHY1cUVkaWkwcWMzcFJubzE2UVJfTTIzUW5PZlpUWEZjb21xUHJFSlFlOFhRRDJ2ZkhiX1FsQ2NzSWN6c2FNcFpvSGNwdFotU0dEWThySEsxNkZPNkNSaVFB0gHiAUFVX3lxTE55cVV1LVZnV0UzQWloY09vOVEtTHlYSVNOaHBJSVRaQjB0XzU5MGpWaGZ1ZVlUT0x5bXhhQUxLRWhkVkZhU2VVWjZWZFVNOTZMbU00U0xsY3V5cDgwY0UzTjJmTWlqWDBJN2VDUUlzY0pqMUJVcjJNVndDWl9qRUFfb3F3TVQwYU90djVxRWRpaTBxYzNwUm5vMTZRUl9NMjNRbk9mWlRYRmNvbXFQckVKUWU4WFFEMnZmSGJfUWxDY3NJY3pzYU1wWm9IY3B0Wi1TR0RZOHJISzE2Rk82Q1JpUUE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcTg5MlhVb1MwMWxINm5vMzVicko3clZIQThiSHI5cXFHWG8xWjNmeXk2b1dVelI1OWlfR1dnUnJReUNWZGNYbVRyTWpGdEcwX0NESW5FQjJSN0EzcUVOWExuZVdIMVkzTzVYWlU4OFNYZ0xBUkNTam56N0t2Ni1jaW9WdHJVQ3VCdGpCLXhrcVdkWXBwSUIyaEdncjFWT1JwZTgtLU9oVTdldjI4SXk5dWprcWd0RmQ2RFNtcThwdFhVVGZ2Mkdz0gHiAUFVX3lxTE55cVV1LVZnV0UzQWloY09vOVEtTHlYSVNOaHBJSVRaQjB0XzU5MGpWaGZ1ZVlUT0x5bXhhQUxLRWhkVkZhU2VVWjZWZFVNOTZMbU00U0xsY3V5cDgwY0UzTjJmTWlqWDBJN2VDUUlzY0pqMUJVcjJNVndDWl9qRUFfb3F3TVQwYU90djVxRWRpaTBxYzNwUm5vMTZRUl9NMjNRbk9mWlRYRmNvbXFQckVKUWU4WFFEMnZmSGJfUWxDY3NJY3pzYU1wWm9IY3B0Wi1TR0RZOHJISzE2Rk82Q1JpUUE?oc=5",
         "published": "31 Mar 2026, 11:55 AM",
         "iso_date": "2026-03-31T11:55:00+00:00",
         "summary": "",
@@ -42,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXRHSXdTbUtSUTBaazkwR3REWXFxNWZKTWI2Q2dpdlFDVzlock53c2toU0VxVnktWWZQamM0enM0RGV0R0FjNzhISG8zZ2d1aHJfaWtzODdNdW12akZfQlNQeUtIUFdGMU1NTG52cjZPbnV3UVFKU3pPdzdKdVRWN3RyaEJYbzU4X3FXRUh1N3hsa1JGd1Rod18yS2h0X1VFcjNTbXNnenZpNllwT0xtSXA3Z2I0RTVfcDRlbzVTc0NsLVhhdmNjby05aXMtVWxNYVVsdGJmV0hKUk80b282aGlDWFk0NHY4S2UzODFkYjBOX29UNU84LW1xZzVUVjRvLVI1ZGh4US0yU2t6QVBsNA?oc=5",
-        "published": "1 Apr 2026, 12:22 AM",
-        "iso_date": "2026-04-01T00:22:08+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
+        "published": "31 Mar 2026, 11:21 PM",
+        "iso_date": "2026-03-31T23:21:35+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,42 +236,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Intercepted Drone Debris Leaves One Injured in Umm Al Quwain",
-        "link": "https://www.newsofbahrain.com/world/129628.html",
+        "title": "Tottenham appoint De Zerbi in battle for Premier League survival",
+        "link": "https://www.newsofbahrain.com/sports/129644.html",
         "published": "1 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VydZAEbRxB_2026-04-01_1775040522resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_32pj7qhu1J_2026-04-01_1775043876resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Iraq Secure Historic World Cup Return After 40 Years with Play-Off Victory Over Bolivia",
-        "link": "https://www.newsofbahrain.com/world/129627.html",
+        "title": "The making of champions",
+        "link": "https://www.newsofbahrain.com/sports/129643.html",
         "published": "1 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EUSkat3H4f_2026-04-01_1775040220resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GhSaCjEHc8_2026-04-01_1775043537resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Missile Strike Hits Qatar-Leased Oil Tanker, No Casualties Reported",
-        "link": "https://www.newsofbahrain.com/world/129626.html",
+        "title": "Chelsea’s Cucurella laments ‘instability’ caused by Maresca exit",
+        "link": "https://www.newsofbahrain.com/sports/129642.html",
         "published": "1 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-01T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SFE2zWtfqi_2026-04-01_1775039036resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_he9smnyi1g_2026-04-01_1775043153resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Trump says he is ‘strongly considering’ pulling out of Nato over lack of support in Iran",
-        "link": "https://www.newsofbahrain.com/world/129624.html",
+        "title": "Calls grow for 15-year-old Suryavanshi to make India bow",
+        "link": "https://www.newsofbahrain.com/sports/129641.html",
         "published": "1 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-01T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TxVzBPfpJ9_2026-04-01_1775038592resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xLfSe29Q0O_2026-04-01_1775043079resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s 3×3 teams eye strong Asia Cup showing in Singapore",
+        "link": "https://www.newsofbahrain.com/sports/129640.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lcCBIK0WeF_2026-04-01_1775042826resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,7 +291,7 @@
         "published": "1 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_r8bQR1s7JI_2026-04-01_1775038189resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_r8bQR1s7JI_2026-04-01_1775038189thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,6 +332,46 @@
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FvWet7qhPl_2026-04-01_1775037304thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "‘Iran will be at World Cup’ and play in US, FIFA’s Infantino says",
+        "link": "https://www.newsofbahrain.com/world/129639.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ja4I1pwZBd_2026-04-01_1775042716thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Baby Among 20 Dead After Boat Carrying Afghan Migrants Sinks Off Türkiye Coast",
+        "link": "https://www.newsofbahrain.com/world/129636.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nfHQpLZk6U_2026-04-01_1775042294thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Special Flight Brings Back Mortal Remains of 20 Indians",
+        "link": "https://www.newsofbahrain.com/world/129633.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yzK57VBDi6_2026-04-01_1775041569thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Australia head to World Cup on a high after crushing Curacao 5-1",
+        "link": "https://www.newsofbahrain.com/world/129632.html",
+        "published": "1 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GwKQj1YP7y_2026-04-01_1775041451thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-01 10:51:46 UTC"
+  "fetched_at": "2026-04-01 11:50:58 UTC"
 }
