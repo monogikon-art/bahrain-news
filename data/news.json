@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,20 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain Intercepts 4 Missiles , 19 Drones in Latest Attack",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Uc1o4cXdySnI1OVZsdV9yTnlfS2JKdXRrc2VEUkRNMWRqZi1jYnFOaHUtekRPdDFpcWhqYlg2d01NOGdWVV9pckJUYkYxNUJXczIwV1hnSQ?oc=5",
-        "published": "1 Apr 2026, 10:54 PM",
-        "iso_date": "2026-04-01T22:54:16+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran appoints Mojtaba Khamenei as new Supreme Leader amid rising tensions",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEQ5ZjZlaWk2aTV1bU1UWmszTVQ3MzM5ZVJjSGNtbGZobXUwWFkyV1pZTkx1VGFCNU1fLThrU2ttdUsxMDNhT01CZ0JuNGQ0TmE2d2lWYW8yV3ZydDZCNUJ1X0dlWFprT1ZHYzVpSlk2ZlYteFRqR3Y5cmIzdm9UMU5qREdaTFk3eEVMQTh5QThDMVVqMVBTanZfTEpPWHlqMmdzZE52cW80V3ZuQ2NCZENwZktianQzZjlFRFl5bw?oc=5",
-        "published": "1 Apr 2026, 11:17 PM",
-        "iso_date": "2026-04-01T23:17:33+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "2 Apr 2026, 06:40 PM",
+        "iso_date": "2026-04-02T18:40:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
-        "published": "2 Apr 2026, 06:40 PM",
-        "iso_date": "2026-04-02T18:40:46+00:00",
+        "title": "Iran appoints Mojtaba Khamenei as new Supreme Leader amid rising tensions",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEQ5ZjZlaWk2aTV1bU1UWmszTVQ3MzM5ZVJjSGNtbGZobXUwWFkyV1pZTkx1VGFCNU1fLThrU2ttdUsxMDNhT01CZ0JuNGQ0TmE2d2lWYW8yV3ZydDZCNUJ1X0dlWFprT1ZHYzVpSlk2ZlYteFRqR3Y5cmIzdm9UMU5qREdaTFk3eEVMQTh5QThDMVVqMVBTanZfTEpPWHlqMmdzZE52cW80V3ZuQ2NCZENwZktianQzZjlFRFl5bw?oc=5",
+        "published": "1 Apr 2026, 11:17 PM",
+        "iso_date": "2026-04-01T23:17:33+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-02 22:43:59 UTC"
+  "fetched_at": "2026-04-02 23:11:11 UTC"
 }
