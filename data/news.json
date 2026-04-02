@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 16
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain Intercepts 4 Missiles , 19 Drones in Latest Attack",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Uc1o4cXdySnI1OVZsdV9yTnlfS2JKdXRrc2VEUkRNMWRqZi1jYnFOaHUtekRPdDFpcWhqYlg2d01NOGdWVV9pckJUYkYxNUJXczIwV1hnSQ?oc=5",
+        "published": "1 Apr 2026, 10:54 PM",
+        "iso_date": "2026-04-01T22:54:16+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain intercepts, destroys 186 missiles, 419 drones since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3R5Vk50Sm5SS2ZPWkpmMmg5RFdGZEN5YU03dDNUQy1ubTFCMjM4cmFWNEVwMjM5QzlsMmU5M2FRTDd0OVlRV3dMSEhOZUhCX19tQlVYbVFsdEMxaWl3dDhYZWZ2MDUzNElmR3RaRlpZRTlwSE1JZGU4UE5UWEgwOUxRZHZRWXI3NlhjNXJ1YXpWT2NaOEx4Ykg4OEQxRnR2eC0yeVV2bnplaHdPN3JqSzlUdkRPaldHR1pvaEFIbmk2a1V00gHEAUFVX3lxTE9TdHlWTnRKblJLZk9aSmYyaDlEV0ZkQ3lhTTd0M1RDLW5tMUIyMzhyYVY0RXAyMzlDOWwyZTkzYVFMN3Q5WVFXd0xISE5lSEJfX21CVVhtUWx0QzFpaXd0OFhlZnYwNTM0SWZHdFpGWllFOXBITUlkZThQTlRYSDA5TFFkdlFZcjc2WGM1cnVhelZPY1o4THhiSDg4RDFGdHZ4LTJ5VXZuemVod083cmpLOVR2RE9qV0dHWm9oQUhuaTZrVXQ?oc=5",
@@ -53,7 +63,7 @@
       },
       {
         "title": "World News | Bahrain Intercepts, Destroys 186 Missiles, 419 Drones Since Start of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVlNZDUtSFhqUXMtOU91WGozS2paRWxkdEVySEdvb2c2V2lZYTI4S3hCUnB1R3FMYy1kX3FzbWxNSlNDcUpsVUhPNUQtSEZPMk5jT2g4cjM1X0ZMX05NS3F6Tk1hZU5QRlJXZDVZaUNUWk1iM1RLSzRNVGpOdVhrRHJMY1BzeUZ6aFJfVHd2Y0pKVGptUU1yY2x3UmVLM01oRF9YVzZOYUpLN05nUzBlcnFNYlF5T0gxWnJkMUtTUzVJaEZYeVg2VmJqanVwZlZsQ2xXRG9hUEo5OG_SAeABQVVfeXFMT0JOQVUyUlhwZjJuTU8zRU9abjEzeVdKbUhZYmhFV0JlQzA0NmoxWmtqN2pwNV82a1N4d0VQRDlNdkJSQncxSWpkODZYZHVzNmxGTkJsSHpfZFowRElUTF9BcmRXQlBKNnJRZVdhTWRTNWhodnhpZTI3M3NienRVXzJMWm5PaVVpUHAwRHVKRjFISWJNOXJ0c2UyUzM5Mkh5R1VGY0g3WUFqNW5USFFTWFhReEVVYjlXV1o4YS0zLWR3bVUwb3lHRzBFaWZLdjNCU01YeFhxOHRtaDY2MUVXUks?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQk5BVTJSWHBmMm5NTzNFT1puMTN5V0ptSFliaEVXQmVDMDQ2ajFaa2o3anA1XzZrU3h3RVBEOU12QlJCdzFJamQ4NlhkdXM2bEZOQmxIel9kWjBESVRMX0FyZFdCUEo2clFlV2FNZFM1aGh2eGllMjczc2J6dFVfMkxabk9pVWlQcDBEdUpGMUhJYk05cnRzZTJTMzkySHlHVUZjSDdZQWo1blRIUVNYWFF4RVViOVdXWjhhLTMtZHdtVTBveUdHMEVpZkt2M0JTTVh4WHE4dG1oNjYxRVdSS9IB4AFBVV95cUxPQk5BVTJSWHBmMm5NTzNFT1puMTN5V0ptSFliaEVXQmVDMDQ2ajFaa2o3anA1XzZrU3h3RVBEOU12QlJCdzFJamQ4NlhkdXM2bEZOQmxIel9kWjBESVRMX0FyZFdCUEo2clFlV2FNZFM1aGh2eGllMjczc2J6dFVfMkxabk9pVWlQcDBEdUpGMUhJYk05cnRzZTJTMzkySHlHVUZjSDdZQWo1blRIUVNYWFF4RVViOVdXWjhhLTMtZHdtVTBveUdHMEVpZkt2M0JTTVh4WHE4dG1oNjYxRVdSSw?oc=5",
         "published": "1 Apr 2026, 05:10 PM",
         "iso_date": "2026-04-01T17:10:16+00:00",
         "summary": "",
@@ -63,6 +73,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "BDF Commander-in-Chief meets GCC Unified Military Command",
+        "link": "https://www.gdnonline.com/Details/1380288/BDF-Commander-in-Chief-meets-GCC-Unified-Military-Command",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402160010websitesizeafh_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain Defence Force air defences intercept and destroy 2 missiles and 10 drones in the last 24 hours",
         "link": "https://www.gdnonline.com/Details/1380279/Bahrain-Defence-Force-air-defences-intercept-and-destroy-2-missiles-and-10-drones-in-the-last-24-hours",
@@ -100,16 +120,6 @@
         "iso_date": "2026-04-02T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260402/20260402045806strip_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Demolition and debris clean-up work resumes",
-        "link": "https://www.gdnonline.com/Details/1380191/Demolition-and-debris-clean-up-work-resumes",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402050152three_T.jpg?20260402",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,12 +226,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "EV momentum is building - and fast",
-        "link": "https://www.newsofbahrain.com/trends/129740.html",
+        "title": "CENTCOM Reports “Undeniable Progress” in Ongoing Iran Operation",
+        "link": "https://www.newsofbahrain.com/world/129746.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wCtec4VgRA_2026-04-02_1775135118resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y2AonDjzB1_2026-04-02_1775140317resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Menzies Aviation Surpasses $3bn Revenue in Record Year",
+        "link": "https://www.newsofbahrain.com/trends/129745.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MPLS41UtKA_2026-04-02_1775137966resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ryan Gosling urges Hollywood to hire Carlo Mendes",
+        "link": "https://www.newsofbahrain.com/trends/129744.html",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h2LtXzSpvq_2026-04-02_1775137822resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Britney Spears sober since DUI arrest",
+        "link": "https://www.newsofbahrain.com/trends/129743.html",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dDBoJVH2zP_2026-04-02_1775137728resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Public-Private Partnership Key to Economic Resilience: HRH Crown Prince",
+        "link": "https://www.newsofbahrain.com/bahrain/129742.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uZCFMzhPce_2026-04-02_1775136442resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -231,27 +281,27 @@
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QJ4LvHFVjx_2026-04-02_1775134694resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QJ4LvHFVjx_2026-04-02_1775134694thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Sewer Network Coverage Passes 93pc in Manama",
         "link": "https://www.newsofbahrain.com/bahrain/129736.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IDyJw89WXz_2026-04-02_1775134559resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IDyJw89WXz_2026-04-02_1775134559thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain Takes the Chair at the UN Security Council",
         "link": "https://www.newsofbahrain.com/bahrain/129735.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zROg7PdZlK_2026-04-02_1775134243resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zROg7PdZlK_2026-04-02_1775134243thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,17 +311,17 @@
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_R8guVHfoim_2026-04-02_1775134167resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_R8guVHfoim_2026-04-02_1775134167thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "“National Loyalty Is the Highest Standard,” Says Interior Minister",
-        "link": "https://www.newsofbahrain.com/bahrain/129732.html",
+        "title": "Macron lauds Europe's 'predictability' in seeming contrast to Trump",
+        "link": "https://www.newsofbahrain.com/world/129741.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yFWqi8UNYT_2026-04-02_1775133712thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Djln7fYb8A_2026-04-02_1775136014thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,26 +342,6 @@
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_wBkhJ5cODa_2026-04-02_1775131652thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "French President Macron lands in South Korea after Japan visit",
-        "link": "https://www.newsofbahrain.com/world/129718.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iP61ksQGga_2026-04-02_1775129726thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Amazon in talks to buy $9bn satellite telecoms group: report",
-        "link": "https://www.newsofbahrain.com/world/129714.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ApaNbYFMZL_2026-04-02_1775128761thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-02 13:06:04 UTC"
+  "fetched_at": "2026-04-02 14:38:15 UTC"
 }
