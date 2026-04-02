@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -46,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWJUU2M3dzRFdzV3dkExcGhucUQ0a2w5bVY0VzZRbGJxbFloSjRPNm0zM3FIMGFydXUzV25mVi1JUE1jMDZpMjVDbEVhaHVodkF1VjlKd3ZNWFpjaURaMDk3cW5ELUpWSDBWS3ZTTWJrcW1NOEg1aHN1MUljdkFGdzZRZThmOXowTnR0X05EX0Voc3doVXQxcW1qSFRURk1zTUR4UFRfR1pPcXV1dndOSXFLMFhDTXFZd0d3LUg4V2ZWNXFfSUtHN9IByAFBVV95cUxQWWJUU2M3dzRFdzV3dkExcGhucUQ0a2w5bVY0VzZRbGJxbFloSjRPNm0zM3FIMGFydXUzV25mVi1JUE1jMDZpMjVDbEVhaHVodkF1VjlKd3ZNWFpjaURaMDk3cW5ELUpWSDBWS3ZTTWJrcW1NOEg1aHN1MUljdkFGdzZRZThmOXowTnR0X05EX0Voc3doVXQxcW1qSFRURk1zTUR4UFRfR1pPcXV1dndOSXFLMFhDTXFZd0d3LUg4V2ZWNXFfSUtHNw?oc=5",
         "published": "1 Apr 2026, 05:11 PM",
         "iso_date": "2026-04-01T17:11:05+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "World News | Bahrain Intercepts, Destroys 186 Missiles, 419 Drones Since Start of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVlNZDUtSFhqUXMtOU91WGozS2paRWxkdEVySEdvb2c2V2lZYTI4S3hCUnB1R3FMYy1kX3FzbWxNSlNDcUpsVUhPNUQtSEZPMk5jT2g4cjM1X0ZMX05NS3F6Tk1hZU5QRlJXZDVZaUNUWk1iM1RLSzRNVGpOdVhrRHJMY1BzeUZ6aFJfVHd2Y0pKVGptUU1yY2x3UmVLM01oRF9YVzZOYUpLN05nUzBlcnFNYlF5T0gxWnJkMUtTUzVJaEZYeVg2VmJqanVwZlZsQ2xXRG9hUEo5OG_SAeABQVVfeXFMT0JOQVUyUlhwZjJuTU8zRU9abjEzeVdKbUhZYmhFV0JlQzA0NmoxWmtqN2pwNV82a1N4d0VQRDlNdkJSQncxSWpkODZYZHVzNmxGTkJsSHpfZFowRElUTF9BcmRXQlBKNnJRZVdhTWRTNWhodnhpZTI3M3NienRVXzJMWm5PaVVpUHAwRHVKRjFISWJNOXJ0c2UyUzM5Mkh5R1VGY0g3WUFqNW5USFFTWFhReEVVYjlXV1o4YS0zLWR3bVUwb3lHRzBFaWZLdjNCU01YeFhxOHRtaDY2MUVXUks?oc=5",
+        "published": "1 Apr 2026, 05:10 PM",
+        "iso_date": "2026-04-01T17:10:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,12 +216,72 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Interior Ministry Revises Night-Time Emergency Alerts",
-        "link": "https://www.newsofbahrain.com/bahrain/129686.html",
+        "title": "Homes Rebuilt Under Approved Housing Support Plan",
+        "link": "https://www.newsofbahrain.com/bahrain/129695.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kqhxuYt6dp_2026-04-02_1775114820resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fwli492Gza_2026-04-02_1775119757resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UN-Based Shipping Corridor Model Proposed for Gulf Region",
+        "link": "https://www.newsofbahrain.com/bahrain/129694.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sNDkJdv9mX_2026-04-02_1775119273resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "‘Peace, reconciliation and unity’",
+        "link": "https://www.newsofbahrain.com/bahrain/129693.html",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_twQeTFnBrL_2026-04-02_1775118713resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Three-Year Jail Term for Man in Domestic Worker Abuse Case",
+        "link": "https://www.newsofbahrain.com/bahrain/129692.html",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ip7c4kH1iu_2026-04-02_1775118233resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "National Guard Reviews Kingdom Readiness During Field Inspection’",
+        "link": "https://www.newsofbahrain.com/bahrain/129691.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D4FUwHNcgi_2026-04-02_1775117083resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Myanmar refugee's death in New York ruled homicide: US health officials",
+        "link": "https://www.newsofbahrain.com/world/129690.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dbmNwfZiq6_2026-04-02_1775116648thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Australia announces crackdown on betting advertisements",
+        "link": "https://www.newsofbahrain.com/world/129687.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6AYNtJaQjX_2026-04-02_1775115968thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -221,77 +291,17 @@
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bf3mVy4BIQ_2026-04-02_1775114682resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bf3mVy4BIQ_2026-04-02_1775114682thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Indonesia Condemns Israel’s Death Penalty Law for Palestinians",
         "link": "https://www.newsofbahrain.com/world/129683.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g2wdzPcBha_2026-04-02_1775114185resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NASA Launches Astronauts on Historic Artemis Moon Mission",
-        "link": "https://www.newsofbahrain.com/world/129682.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3TEkPLoQdK_2026-04-02_1775113866resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Malaysia civil servants to work from home amid fuel crisis: PM Anwar",
-        "link": "https://www.newsofbahrain.com/world/129680.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_68HjlPrcOR_2026-04-02_1775112473resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Al-Aradi and Al-Fudhala:  Participate in GCC Advisory Body Meeting",
-        "link": "https://www.newsofbahrain.com/bahrain/129678.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sSfLuUtI9T_2026-04-02_1775111268thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s Grand Mosque Awaits Visitors",
-        "link": "https://www.newsofbahrain.com/bahrain/129677.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CoSvGghmFA_2026-04-02_1775110394thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain at UN warns: Iran’s actions risk setting dangerous global precedent",
-        "link": "https://www.newsofbahrain.com/bahrain/129673.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0Lt9GCVNE3_2026-04-01_1775082144thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Electricity Minister meets EU Special Representative for the Gulf",
-        "link": "https://www.newsofbahrain.com/bahrain/129672.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fUDwk2GOZM_2026-04-01_1775076259thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g2wdzPcBha_2026-04-02_1775114185thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-02 07:46:30 UTC"
+  "fetched_at": "2026-04-02 08:52:44 UTC"
 }
