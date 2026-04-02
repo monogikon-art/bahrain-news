@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 13
     }
   },
   "articles": {
@@ -64,26 +64,6 @@
     ],
     "gdn": [
       {
-        "title": "BDF Commander-in-Chief meets GCC Unified Military Command",
-        "link": "https://www.gdnonline.com/Details/1380288/BDF-Commander-in-Chief-meets-GCC-Unified-Military-Command",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402160010websitesizeafh_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Defence Force air defences intercept and destroy 2 missiles and 10 drones in the last 24 hours",
-        "link": "https://www.gdnonline.com/Details/1380279/Bahrain-Defence-Force-air-defences-intercept-and-destroy-2-missiles-and-10-drones-in-the-last-24-hours",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402124713websitesize(2)_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "King receives chairman and managing director of LuLu Group International",
         "link": "https://www.gdnonline.com/Details/1380301/King-receives-chairman-and-managing-director-of-LuLu-Group-International",
         "published": "2 Apr 2026",
@@ -104,12 +84,32 @@
         "category": "Latest"
       },
       {
-        "title": "Cafe to stage special event for young adults with autism",
-        "link": "https://www.gdnonline.com/Details/1380187/Cafe-to-stage-special-event-for-young-adults-with-autism",
+        "title": "BDF Commander-in-Chief meets GCC Unified Military Command",
+        "link": "https://www.gdnonline.com/Details/1380288/BDF-Commander-in-Chief-meets-GCC-Unified-Military-Command",
         "published": "2 Apr 2026",
         "iso_date": "2026-04-02T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260401_214455_0_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402160010websitesizeafh_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "UK exam board cancels May/June school exams in Bahrain",
+        "link": "https://www.gdnonline.com/Details/1380304/UK-exam-board-cancels-May/June-school-exams-in-Bahrain",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402221505assasa_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Defence Force air defences intercept and destroy 2 missiles and 10 drones in the last 24 hours",
+        "link": "https://www.gdnonline.com/Details/1380279/Bahrain-Defence-Force-air-defences-intercept-and-destroy-2-missiles-and-10-drones-in-the-last-24-hours",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402124713websitesize(2)_T.jpg?20260402",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,52 +216,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Why Did Donald Trump Fire Pam Bondi as Attorney General?",
+        "link": "https://www.newsofbahrain.com/world/129751.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qr6EIY0nSs_2026-04-02_1775159183resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Vance to meet Orban in Hungary ahead of elections: White House",
+        "link": "https://www.newsofbahrain.com/world/129750.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lvHj4zJOhA_2026-04-02_1775158768resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "IOM warns of 'alarming' risk of long-term mass displacement in Lebanon",
+        "link": "https://www.newsofbahrain.com/world/129749.html",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yBYchdCMgx_2026-04-02_1775158651resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Calls for Stronger UN-GCC Coordination, Warns of Strait of Hormuz Risks",
+        "link": "https://www.newsofbahrain.com/bahrain/129748.html",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aErdbfSkDn_2026-04-02_1775157085resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "His Majesty the King receives the Chairman of Lulu Group",
         "link": "https://www.newsofbahrain.com/bahrain/129747.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_F9lCaAcvgp_2026-04-02_1775148921resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "CENTCOM Reports “Undeniable Progress” in Ongoing Iran Operation",
-        "link": "https://www.newsofbahrain.com/world/129746.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y2AonDjzB1_2026-04-02_1775140317resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Menzies Aviation Surpasses $3bn Revenue in Record Year",
-        "link": "https://www.newsofbahrain.com/trends/129745.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MPLS41UtKA_2026-04-02_1775137966resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ryan Gosling urges Hollywood to hire Carlo Mendes",
-        "link": "https://www.newsofbahrain.com/trends/129744.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h2LtXzSpvq_2026-04-02_1775137822resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Britney Spears sober since DUI arrest",
-        "link": "https://www.newsofbahrain.com/trends/129743.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dDBoJVH2zP_2026-04-02_1775137728resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,42 +296,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Takes the Chair at the UN Security Council",
-        "link": "https://www.newsofbahrain.com/bahrain/129735.html",
+        "title": "CENTCOM Reports “Undeniable Progress” in Ongoing Iran Operation",
+        "link": "https://www.newsofbahrain.com/world/129746.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zROg7PdZlK_2026-04-02_1775134243thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Macron lauds Europe's 'predictability' in seeming contrast to Trump",
-        "link": "https://www.newsofbahrain.com/world/129741.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Djln7fYb8A_2026-04-02_1775136014thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Himalayan kingdom Bhutan hikes fuel due to Mideast war",
-        "link": "https://www.newsofbahrain.com/world/129724.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jW1h09zEyP_2026-04-02_1775132248thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "South Korea president says economy on 'wartime footing' over Iran war",
-        "link": "https://www.newsofbahrain.com/world/129723.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wBkhJ5cODa_2026-04-02_1775131652thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y2AonDjzB1_2026-04-02_1775140317thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-02 18:53:07 UTC"
+  "fetched_at": "2026-04-02 19:48:10 UTC"
 }
