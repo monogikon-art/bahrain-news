@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -50,56 +50,16 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "World News | Bahrain Intercepts, Destroys 186 Missiles, 419 Drones Since Start of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVlNZDUtSFhqUXMtOU91WGozS2paRWxkdEVySEdvb2c2V2lZYTI4S3hCUnB1R3FMYy1kX3FzbWxNSlNDcUpsVUhPNUQtSEZPMk5jT2g4cjM1X0ZMX05NS3F6Tk1hZU5QRlJXZDVZaUNUWk1iM1RLSzRNVGpOdVhrRHJMY1BzeUZ6aFJfVHd2Y0pKVGptUU1yY2x3UmVLM01oRF9YVzZOYUpLN05nUzBlcnFNYlF5T0gxWnJkMUtTUzVJaEZYeVg2VmJqanVwZlZsQ2xXRG9hUEo5OG_SAeABQVVfeXFMT0JOQVUyUlhwZjJuTU8zRU9abjEzeVdKbUhZYmhFV0JlQzA0NmoxWmtqN2pwNV82a1N4d0VQRDlNdkJSQncxSWpkODZYZHVzNmxGTkJsSHpfZFowRElUTF9BcmRXQlBKNnJRZVdhTWRTNWhodnhpZTI3M3NienRVXzJMWm5PaVVpUHAwRHVKRjFISWJNOXJ0c2UyUzM5Mkh5R1VGY0g3WUFqNW5USFFTWFhReEVVYjlXV1o4YS0zLWR3bVUwb3lHRzBFaWZLdjNCU01YeFhxOHRtaDY2MUVXUks?oc=5",
-        "published": "1 Apr 2026, 05:10 PM",
-        "iso_date": "2026-04-01T17:10:16+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "Bahraini recounts flash flood ordeal on Oman trip with son",
-        "link": "https://www.gdnonline.com/Details/1380192/Bahraini-recounts-flash-flood-ordeal-on-Oman-trip-with-son",
+        "title": "Cafe to stage special event for young adults with autism",
+        "link": "https://www.gdnonline.com/Details/1380187/Cafe-to-stage-special-event-for-young-adults-with-autism",
         "published": "2 Apr 2026",
         "iso_date": "2026-04-02T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260401_214459_1.jpeg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Demolition and debris clean-up work resumes",
-        "link": "https://www.gdnonline.com/Details/1380191/Demolition-and-debris-clean-up-work-resumes",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260401_214457_1_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Deputy Prime Minister chairs ministerial committee on development and infrastructure projects",
-        "link": "https://www.gdnonline.com/Details/1380173/Deputy-Prime-Minister-chairs-ministerial-committee-on-development-and-infrastructure-projects",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401232042dpm1_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Electricity ties in focus",
-        "link": "https://www.gdnonline.com/Details/1380196/Electricity-ties-in-focus",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260401_214510_2.jpeg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260401_214455_0_T.jpg?20260402",
         "source": "gdn",
         "category": "Latest"
       },
@@ -114,6 +74,76 @@
         "category": "Latest"
       },
       {
+        "title": "Political participation of women-youth in focus",
+        "link": "https://www.gdnonline.com/Details/1380190/Political-participation-of-women-youth-in-focus",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402045806strip_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Demolition and debris clean-up work resumes",
+        "link": "https://www.gdnonline.com/Details/1380191/Demolition-and-debris-clean-up-work-resumes",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402050152three_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahraini recounts flash flood ordeal on Oman trip with son",
+        "link": "https://www.gdnonline.com/Details/1380192/Bahraini-recounts-flash-flood-ordeal-on-Oman-trip-with-son",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402051125mone_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "GFH announces rebrand",
+        "link": "https://www.gdnonline.com/Details/1380205/GFH-announces-rebrand",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402024337mralrayes_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Khaleeji Bank appoints new acting CEO",
+        "link": "https://www.gdnonline.com/Details/1380200/Khaleeji-Bank-appoints-new-acting-CEO",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020823_0_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Bourse navigates volatile month amid regional headwinds",
+        "link": "https://www.gdnonline.com/Details/1380201/Bahrain-Bourse-navigates-volatile-month-amid-regional-headwinds",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402022814bahrainbourse_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "KFH-Bahrain named âBest Private Bankâ by Euromoney",
+        "link": "https://www.gdnonline.com/Details/1380204/KFH-Bahrain-named-âBest-Private-Bankâ-by-Euromoney",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020825_1_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Beyon shareholders approve distribution of BD53.9m dividend",
         "link": "https://www.gdnonline.com/Details/1380074/Beyon-shareholders-approve-distribution-of-BD539m-dividend",
         "published": "1 Apr 2026",
@@ -124,72 +154,32 @@
         "category": "Latest"
       },
       {
-        "title": "Connectivity critical to business continuity",
-        "link": "https://www.gdnonline.com/Details/1380075/Connectivity-critical-to-business-continuity-",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
+        "title": "Shabab take on Al Najma as Aâali face Bahrain Club",
+        "link": "https://www.gdnonline.com/Details/1380236/Shabab-take-on-Al-Najma-as-Aâali-face-Bahrain-Club",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401003920mrchacko_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013445kiasf_T.jpg?20260402",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "BBK-NBB merger âon track for completion this yearâ",
-        "link": "https://www.gdnonline.com/Details/1380076/BBK-NBB-merger-âon-track-for-completion-this-yearâ",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
+        "title": "National team lose one spot in world ranking",
+        "link": "https://www.gdnonline.com/Details/1380235/National-team-lose-one-spot-in-world-ranking",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401004513mralsharifi_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013417wewe_T.jpg?20260402",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrain All Share Index closes lower",
-        "link": "https://www.gdnonline.com/Details/1380086/Bahrain-All-Share-Index-closes-lower",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
+        "title": "Iraq defeat Bolivia to qualify for World Cup",
+        "link": "https://www.gdnonline.com/Details/1380234/Iraq-defeat-Bolivia-to-qualify-for-World-Cup",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401010451stocks_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Khaleeji Bankâs CEO steps down",
-        "link": "https://www.gdnonline.com/Details/1380078/Khaleeji-Bankâs-CEO-steps-down",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401005701kone_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Gattuso apologises after Italy miss out on another World Cup",
-        "link": "https://www.gdnonline.com/Details/1380163/Gattuso-apologises-after-Italy-miss-out-on-another-World-Cup",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401160145gattuso_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Japan beat misfiring England in friendly",
-        "link": "https://www.gdnonline.com/Details/1380111/Japan-beat-misfiring-England-in-friendly",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401_021656_2_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Police investigate Islamophobic chants during Spain-Egypt match",
-        "link": "https://www.gdnonline.com/Details/1380161/Police-investigate-Islamophobic-chants-during-Spain-Egypt-match",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401154527spainegypt1_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013347juauc_T.jpg?20260402",
         "source": "gdn",
         "category": "Latest"
       },
@@ -204,104 +194,104 @@
         "category": "Latest"
       },
       {
-        "title": "De Zerbi appointed as Spurs manager",
-        "link": "https://www.gdnonline.com/Details/1380110/De-Zerbi-appointed-as-Spurs-manager",
+        "title": "Police investigate Islamophobic chants during Spain-Egypt match",
+        "link": "https://www.gdnonline.com/Details/1380161/Police-investigate-Islamophobic-chants-during-Spain-Egypt-match",
         "published": "1 Apr 2026",
         "iso_date": "2026-04-01T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401022933dezerbi_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401154527spainegypt1_T.jpg?20260402",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "UAE Dismisses ‘Inaccurate’ Claims on Iranian Residents’ Status",
-        "link": "https://www.newsofbahrain.com/world/129676.html",
+        "title": "Interior Ministry Revises Night-Time Emergency Alerts",
+        "link": "https://www.newsofbahrain.com/bahrain/129686.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eDBrtQi9G2_2026-04-02_1775108491resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kqhxuYt6dp_2026-04-02_1775114820resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Trump Signals Intensified Strikes in Coming Weeks",
-        "link": "https://www.newsofbahrain.com/world/129675.html",
+        "title": "Chinese airlines to raise fuel surcharges on domestic flights",
+        "link": "https://www.newsofbahrain.com/world/129685.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RAjKs6bc0D_2026-04-02_1775095846resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bf3mVy4BIQ_2026-04-02_1775114682resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Indonesia Condemns Israel’s Death Penalty Law for Palestinians",
+        "link": "https://www.newsofbahrain.com/world/129683.html",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g2wdzPcBha_2026-04-02_1775114185resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "NASA Launches Astronauts on Historic Artemis Moon Mission",
+        "link": "https://www.newsofbahrain.com/world/129682.html",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3TEkPLoQdK_2026-04-02_1775113866resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Malaysia civil servants to work from home amid fuel crisis: PM Anwar",
+        "link": "https://www.newsofbahrain.com/world/129680.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_68HjlPrcOR_2026-04-02_1775112473resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Al-Aradi and Al-Fudhala:  Participate in GCC Advisory Body Meeting",
+        "link": "https://www.newsofbahrain.com/bahrain/129678.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sSfLuUtI9T_2026-04-02_1775111268thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s Grand Mosque Awaits Visitors",
+        "link": "https://www.newsofbahrain.com/bahrain/129677.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CoSvGghmFA_2026-04-02_1775110394thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain at UN warns: Iran’s actions risk setting dangerous global precedent",
         "link": "https://www.newsofbahrain.com/bahrain/129673.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0Lt9GCVNE3_2026-04-01_1775082144resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0Lt9GCVNE3_2026-04-01_1775082144thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Electricity Minister meets EU Special Representative for the Gulf",
         "link": "https://www.newsofbahrain.com/bahrain/129672.html",
-        "published": "1 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fUDwk2GOZM_2026-04-01_1775076259resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Council of Europe cites serious concerns ahead of Hungary vote",
-        "link": "https://www.newsofbahrain.com/world/129671.html",
         "published": "1 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z5ri2UPkjZ_2026-04-01_1775076039resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Government Entities to Operate with 50% Office Presence from April 5",
-        "link": "https://www.newsofbahrain.com/bahrain/129663.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vsd8CuFWYl_2026-04-01_1775073773thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air Adds Istanbul, Athens, India Route from Dammam",
-        "link": "https://www.newsofbahrain.com/bahrain/129661.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GhJxIrCfgl_2026-04-01_1775071470thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Revises Fuel Prices for April 2026",
-        "link": "https://www.newsofbahrain.com/bahrain/129660.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1PtcVpa0E8_2026-04-01_1775069182thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodriguez",
-        "link": "https://www.newsofbahrain.com/world/129670.html",
-        "published": "1 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_thbMxpil5a_2026-04-01_1775075244thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fUDwk2GOZM_2026-04-01_1775076259thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-02 06:11:03 UTC"
+  "fetched_at": "2026-04-02 07:46:30 UTC"
 }
