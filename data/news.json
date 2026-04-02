@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -216,102 +216,92 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Mobs send Nigerians fleeing in Jos following Palm Sunday shooting",
-        "link": "https://www.newsofbahrain.com/business/129720.html",
+        "title": "EV momentum is building - and fast",
+        "link": "https://www.newsofbahrain.com/trends/129740.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LhGBRaub6P_2026-04-02_1775130121resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wCtec4VgRA_2026-04-02_1775135118resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "At gas stations, Americans say they’re ‘paying the price’ of Iran war",
-        "link": "https://www.newsofbahrain.com/business/129719.html",
+        "title": "Shura to Debate Graduate Training Rule for Big Firms",
+        "link": "https://www.newsofbahrain.com/bahrain/129737.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aM3b5XVHPt_2026-04-02_1775129837resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QJ4LvHFVjx_2026-04-02_1775134694resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Sewer Network Coverage Passes 93pc in Manama",
+        "link": "https://www.newsofbahrain.com/bahrain/129736.html",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IDyJw89WXz_2026-04-02_1775134559resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Takes the Chair at the UN Security Council",
+        "link": "https://www.newsofbahrain.com/bahrain/129735.html",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zROg7PdZlK_2026-04-02_1775134243resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MP Says Bahrain’s UN Role Shows Diplomatic Weight",
+        "link": "https://www.newsofbahrain.com/bahrain/129734.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_R8guVHfoim_2026-04-02_1775134167resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "“National Loyalty Is the Highest Standard,” Says Interior Minister",
+        "link": "https://www.newsofbahrain.com/bahrain/129732.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yFWqi8UNYT_2026-04-02_1775133712thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Himalayan kingdom Bhutan hikes fuel due to Mideast war",
+        "link": "https://www.newsofbahrain.com/world/129724.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jW1h09zEyP_2026-04-02_1775132248thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "South Korea president says economy on 'wartime footing' over Iran war",
+        "link": "https://www.newsofbahrain.com/world/129723.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wBkhJ5cODa_2026-04-02_1775131652thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "French President Macron lands in South Korea after Japan visit",
         "link": "https://www.newsofbahrain.com/world/129718.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iP61ksQGga_2026-04-02_1775129726resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India hikes jet fuel, commercial LPG cost",
-        "link": "https://www.newsofbahrain.com/business/129717.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J84YcfRnjl_2026-04-02_1775129393resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russia will keep helping Cuba, diplomat says after first oil tanker arrives",
-        "link": "https://www.newsofbahrain.com/business/129716.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XA3x96gyLQ_2026-04-02_1775129221resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Steps into Security Council Presidency Amid Regional Shifts",
-        "link": "https://www.newsofbahrain.com/bahrain/129706.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u3PqdVcHo1_2026-04-02_1775122808thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Inmates Offered Training, Study and Support",
-        "link": "https://www.newsofbahrain.com/bahrain/129705.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TfOPopwJ1x_2026-04-02_1775122535thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Vandalism Crisis Hits Northern Governorate Public Spaces",
-        "link": "https://www.newsofbahrain.com/bahrain/129703.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CEp10qtIV7_2026-04-02_1775122349thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "MP Defends Unemployment Fund Despite Falling Returns",
-        "link": "https://www.newsofbahrain.com/bahrain/129702.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5PCufaFn4A_2026-04-02_1775122170thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Aggression Threatens Education and Culture",
-        "link": "https://www.newsofbahrain.com/bahrain/129700.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eXshx0HQiA_2026-04-02_1775121617thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iP61ksQGga_2026-04-02_1775129726thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,22 +316,42 @@
         "category": "Latest"
       },
       {
-        "title": "France charges 4, including 3 minors, over failed attack on US bank",
-        "link": "https://www.newsofbahrain.com/world/129713.html",
+        "title": "The 'million dollar' Senna helmet bought at Japan GP",
+        "link": "https://www.newsofbahrain.com/business/129721.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4cyZQv3S1d_2026-04-02_1775127144thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vqtoW7Dbh2_2026-04-02_1775130455thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "New Zealand, Cook Islands agree defence pact, ending China tension",
-        "link": "https://www.newsofbahrain.com/world/129712.html",
+        "title": "Mobs send Nigerians fleeing in Jos following Palm Sunday shooting",
+        "link": "https://www.newsofbahrain.com/business/129720.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hmlyaVg95o_2026-04-02_1775126235thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LhGBRaub6P_2026-04-02_1775130121thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "At gas stations, Americans say they’re ‘paying the price’ of Iran war",
+        "link": "https://www.newsofbahrain.com/business/129719.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aM3b5XVHPt_2026-04-02_1775129837thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India hikes jet fuel, commercial LPG cost",
+        "link": "https://www.newsofbahrain.com/business/129717.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J84YcfRnjl_2026-04-02_1775129393thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-02 11:46:38 UTC"
+  "fetched_at": "2026-04-02 13:06:04 UTC"
 }
