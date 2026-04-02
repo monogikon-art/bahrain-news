@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain Intercepts 4 Missiles , 19 Drones in Latest Attack",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Uc1o4cXdySnI1OVZsdV9yTnlfS2JKdXRrc2VEUkRNMWRqZi1jYnFOaHUtekRPdDFpcWhqYlg2d01NOGdWVV9pckJUYkYxNUJXczIwV1hnSQ?oc=5",
-        "published": "1 Apr 2026, 10:54 PM",
-        "iso_date": "2026-04-01T22:54:16+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain intercepts, destroys 186 missiles, 419 drones since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3R5Vk50Sm5SS2ZPWkpmMmg5RFdGZEN5YU03dDNUQy1ubTFCMjM4cmFWNEVwMjM5QzlsMmU5M2FRTDd0OVlRV3dMSEhOZUhCX19tQlVYbVFsdEMxaWl3dDhYZWZ2MDUzNElmR3RaRlpZRTlwSE1JZGU4UE5UWEgwOUxRZHZRWXI3NlhjNXJ1YXpWT2NaOEx4Ykg4OEQxRnR2eC0yeVV2bnplaHdPN3JqSzlUdkRPaldHR1pvaEFIbmk2a1V00gHEAUFVX3lxTE9TdHlWTnRKblJLZk9aSmYyaDlEV0ZkQ3lhTTd0M1RDLW5tMUIyMzhyYVY0RXAyMzlDOWwyZTkzYVFMN3Q5WVFXd0xISE5lSEJfX21CVVhtUWx0QzFpaXd0OFhlZnYwNTM0SWZHdFpGWllFOXBITUlkZThQTlRYSDA5TFFkdlFZcjc2WGM1cnVhelZPY1o4THhiSDg4RDFGdHZ4LTJ5VXZuemVod083cmpLOVR2RE9qV0dHWm9oQUhuaTZrVXQ?oc=5",
@@ -63,7 +53,7 @@
       },
       {
         "title": "World News | Bahrain Intercepts, Destroys 186 Missiles, 419 Drones Since Start of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQk5BVTJSWHBmMm5NTzNFT1puMTN5V0ptSFliaEVXQmVDMDQ2ajFaa2o3anA1XzZrU3h3RVBEOU12QlJCdzFJamQ4NlhkdXM2bEZOQmxIel9kWjBESVRMX0FyZFdCUEo2clFlV2FNZFM1aGh2eGllMjczc2J6dFVfMkxabk9pVWlQcDBEdUpGMUhJYk05cnRzZTJTMzkySHlHVUZjSDdZQWo1blRIUVNYWFF4RVViOVdXWjhhLTMtZHdtVTBveUdHMEVpZkt2M0JTTVh4WHE4dG1oNjYxRVdSS9IB4AFBVV95cUxPQk5BVTJSWHBmMm5NTzNFT1puMTN5V0ptSFliaEVXQmVDMDQ2ajFaa2o3anA1XzZrU3h3RVBEOU12QlJCdzFJamQ4NlhkdXM2bEZOQmxIel9kWjBESVRMX0FyZFdCUEo2clFlV2FNZFM1aGh2eGllMjczc2J6dFVfMkxabk9pVWlQcDBEdUpGMUhJYk05cnRzZTJTMzkySHlHVUZjSDdZQWo1blRIUVNYWFF4RVViOVdXWjhhLTMtZHdtVTBveUdHMEVpZkt2M0JTTVh4WHE4dG1oNjYxRVdSSw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVlNZDUtSFhqUXMtOU91WGozS2paRWxkdEVySEdvb2c2V2lZYTI4S3hCUnB1R3FMYy1kX3FzbWxNSlNDcUpsVUhPNUQtSEZPMk5jT2g4cjM1X0ZMX05NS3F6Tk1hZU5QRlJXZDVZaUNUWk1iM1RLSzRNVGpOdVhrRHJMY1BzeUZ6aFJfVHd2Y0pKVGptUU1yY2x3UmVLM01oRF9YVzZOYUpLN05nUzBlcnFNYlF5T0gxWnJkMUtTUzVJaEZYeVg2VmJqanVwZlZsQ2xXRG9hUEo5OG_SAeABQVVfeXFMT0JOQVUyUlhwZjJuTU8zRU9abjEzeVdKbUhZYmhFV0JlQzA0NmoxWmtqN2pwNV82a1N4d0VQRDlNdkJSQncxSWpkODZYZHVzNmxGTkJsSHpfZFowRElUTF9BcmRXQlBKNnJRZVdhTWRTNWhodnhpZTI3M3NienRVXzJMWm5PaVVpUHAwRHVKRjFISWJNOXJ0c2UyUzM5Mkh5R1VGY0g3WUFqNW5USFFTWFhReEVVYjlXV1o4YS0zLWR3bVUwb3lHRzBFaWZLdjNCU01YeFhxOHRtaDY2MUVXUks?oc=5",
         "published": "1 Apr 2026, 05:10 PM",
         "iso_date": "2026-04-01T17:10:16+00:00",
         "summary": "",
@@ -94,6 +84,16 @@
         "category": "Latest"
       },
       {
+        "title": "HRH Prince Salman praises Lulu Group chairman for supporting Bahrainâs supply chains",
+        "link": "https://www.gdnonline.com/Details/1380293/HRH-Prince-Salman-praises-Lulu-Group-chairman-for-supporting-Bahrainâs-supply-chains",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402170019websitesize(5)_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Cafe to stage special event for young adults with autism",
         "link": "https://www.gdnonline.com/Details/1380187/Cafe-to-stage-special-event-for-young-adults-with-autism",
         "published": "2 Apr 2026",
@@ -110,16 +110,6 @@
         "iso_date": "2026-04-02T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260402/20260401_214455_3_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Political participation of women-youth in focus",
-        "link": "https://www.gdnonline.com/Details/1380190/Political-participation-of-women-youth-in-focus",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402045806strip_T.jpg?20260402",
         "source": "gdn",
         "category": "Latest"
       },
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-02 14:38:15 UTC"
+  "fetched_at": "2026-04-02 15:58:20 UTC"
 }
