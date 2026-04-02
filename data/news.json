@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR3ZFU0U0UVowc2daSDZmenVfdTU5Z0hfSEhfMmJhOGVndko1RzhaWGNKMGhjbG1LZmU0YjJzalZBV25ZWkdPbEJqOGI5RTdPMExrVDhFdjdxazNBNHhhNzIwSjNLZGIzdjZLYWtydkFrZWszWGpiZi1hYTlHd3VuU1pUWTdyanNHUjMyMDNCNzFNdXNBSC1lOUoyNlJUQ2N5UFdSaXJ1bGFvTkFUT05PTVJ1TTBEbnUzUnpTYjJiOF9oVnRTTmZkYzNXZW9kVEhmT0ZUYXVjb2ZNQnBxcUZRM1RIMjg5ZUZlTnhOa9IB8gFBVV95cUxPN1pGbUw2azhTcmt6V283YWRwVFBORnRpZWM1RHZRZ2ptdGJSU0dtUEpzY0wzRUM3Rk8wbzJ4NEI5U2p5ZUJVVEE1dGlaUW0xaXZkSTVlZ0xBZUdZRjBuQ3FORFd6Y2E2Y1lxZVJTMElEYllvUHFFTnhGdHdjWm5oR2p6TENsM3FVUlYzbDRCZmViRUJHVXB0c3BTVkhibDBZMDNaT0FRYXE1U1RRZ1Q2QjY2cWJfclVYR0JzX0lzLTRkOUhwQlh5LWYwNzNqdkpDUUxxY0dzS2tpMThoODF0d3Q3MVkxSi1iaTIxSWk4THhiUQ?oc=5",
         "published": "2 Apr 2026, 08:57 AM",
         "iso_date": "2026-04-02T08:57:10+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran appoints Mojtaba Khamenei as new Supreme Leader amid rising tensions",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEQ5ZjZlaWk2aTV1bU1UWmszTVQ3MzM5ZVJjSGNtbGZobXUwWFkyV1pZTkx1VGFCNU1fLThrU2ttdUsxMDNhT01CZ0JuNGQ0TmE2d2lWYW8yV3ZydDZCNUJ1X0dlWFprT1ZHYzVpSlk2ZlYteFRqR3Y5cmIzdm9UMU5qREdaTFk3eEVMQTh5QThDMVVqMVBTanZfTEpPWHlqMmdzZE52cW80V3ZuQ2NCZENwZktianQzZjlFRFl5bw?oc=5",
-        "published": "1 Apr 2026, 11:17 PM",
-        "iso_date": "2026-04-01T23:17:33+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-02 23:11:11 UTC"
+  "fetched_at": "2026-04-02 23:44:22 UTC"
 }
