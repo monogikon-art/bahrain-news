@@ -216,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "His Majesty the King receives the Chairman of Lulu Group",
+        "link": "https://www.newsofbahrain.com/bahrain/129747.html",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F9lCaAcvgp_2026-04-02_1775148921resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "CENTCOM Reports “Undeniable Progress” in Ongoing Iran Operation",
         "link": "https://www.newsofbahrain.com/world/129746.html",
         "published": "2 Apr 2026, 09:22 AM",
@@ -228,8 +238,8 @@
       {
         "title": "Menzies Aviation Surpasses $3bn Revenue in Record Year",
         "link": "https://www.newsofbahrain.com/trends/129745.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_MPLS41UtKA_2026-04-02_1775137966resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +258,8 @@
       {
         "title": "Britney Spears sober since DUI arrest",
         "link": "https://www.newsofbahrain.com/trends/129743.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
+        "published": "2 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_dDBoJVH2zP_2026-04-02_1775137728resized_pic.jpg",
         "source": "newsofbahrain",
@@ -261,7 +271,7 @@
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uZCFMzhPce_2026-04-02_1775136442resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uZCFMzhPce_2026-04-02_1775136442thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +302,6 @@
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zROg7PdZlK_2026-04-02_1775134243thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "MP Says Bahrain’s UN Role Shows Diplomatic Weight",
-        "link": "https://www.newsofbahrain.com/bahrain/129734.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_R8guVHfoim_2026-04-02_1775134167thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-02 15:58:20 UTC"
+  "fetched_at": "2026-04-02 17:00:23 UTC"
 }
