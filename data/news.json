@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Gulf states pursue IRGC, Hezbollah cells amid ongoing attacks",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnZNM2k0b25NODQ3eTRyNW5NNzM5MU00TGZzTjlVWkxkWGVUQjVhZWoybHNXN2FSUzBYclRqNEpQcU5OcVUyVHB1UFNaZ29WMWRlbWVVTWJHYWxrLTNSbjhJam5RanI5dk42Y1dfZVh0SWdnQkJjQlpFVVZfdm1veV9IWlE0T3pPWlRWbGtoVnUtY1dzcDkzN2E0c1RIb1BOOG5aR2pWNl9QaVhaaHc?oc=5",
+        "published": "3 Apr 2026, 01:42 AM",
+        "iso_date": "2026-04-03T01:42:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Saudi defenses intercept, destroy 5 drones and a ballistic missile",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOV9XTzl5QlFjc2RUVjNfeExnRFZkT1V5bllSaTZxQXVDSE9WOV9wMUNhV1hVbnNPRzlYTWRmc3RqSjlqV1pfZEo2by1Cb2xITmwtTHBEWHBHZnhHODN2STFLN0UzSTFLenp1QjZ6QUZ0NFMtdVNZQTg1Ml9iSnVxR1FNY200alFhNUpBdjRhb2o3QUthR2pjalpjREY3eHZvN0lDREkzYkxCbEtUZHdtd0ZSNkc?oc=5",
@@ -32,20 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
-        "published": "2 Apr 2026, 06:40 PM",
-        "iso_date": "2026-04-02T18:40:46+00:00",
+        "title": "Bahrain intercepts 188 missiles, 429 drones since attacks",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsOW11WUNJckIyd0IzT3dXSllCR2VrVDk5Si1vWUhDTTh1MFJ5TnlHRHpUWUFGaGRQVy1mZDVyTEV3SDdJdzBnLXdxTXQ0OC1UUHdzR1RGZHIwTFJRaGc?oc=5",
+        "published": "2 Apr 2026, 11:03 AM",
+        "iso_date": "2026-04-02T11:03:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 188 missiles, 429 drones since attacks",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsOW11WUNJckIyd0IzT3dXSllCR2VrVDk5Si1vWUhDTTh1MFJ5TnlHRHpUWUFGaGRQVy1mZDVyTEV3SDdJdzBnLXdxTXQ0OC1UUHdzR1RGZHIwTFJRaGc?oc=5",
-        "published": "2 Apr 2026, 11:03 AM",
-        "iso_date": "2026-04-02T11:03:36+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "2 Apr 2026, 06:40 PM",
+        "iso_date": "2026-04-02T18:40:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,52 +216,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "FAO Warns Food Prices Rising Amid Israel-Iran Tensions",
+        "link": "https://www.newsofbahrain.com/world/129811.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lVzci5H0ZP_2026-04-03_1775212798resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Myanmar junta chief Min Aung Hlaing  elected as president",
+        "link": "https://www.newsofbahrain.com/world/129810.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_014NbZUkMC_2026-04-03_1775212736resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Thai PM blames stockpilers for fuel shortage",
+        "link": "https://www.newsofbahrain.com/world/129808.html",
+        "published": "3 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XG6BWRw9pl_2026-04-03_1775212146resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump orders new pharma tariff, reshapes metal duties",
+        "link": "https://www.newsofbahrain.com/world/129807.html",
+        "published": "3 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CehFsirKOa_2026-04-03_1775211652resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Pakistan says onus on Afghanistan to end hostilities",
         "link": "https://www.newsofbahrain.com/world/129806.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_JvLAQGPBYX_2026-04-03_1775210921resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "General among 13 facing charges in alleged Madagascar coup plot",
-        "link": "https://www.newsofbahrain.com/world/129805.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yk4GwoajRV_2026-04-03_1775210406resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Telegram Rolls Out AI Editor and Bot-Creation Upgrade",
-        "link": "https://www.newsofbahrain.com/business/129804.html",
-        "published": "3 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rCqDI1avUo_2026-04-03_1775210108resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "France ban French Muslim gathering, citing security risk",
-        "link": "https://www.newsofbahrain.com/world/129803.html",
-        "published": "3 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D3La1HqXNg_2026-04-03_1775209751resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Dubai Suspends In-Person Worship Services Across Religious Sites",
-        "link": "https://www.newsofbahrain.com/world/129802.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lxp541Y2dk_2026-04-03_1775209301resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,6 +312,16 @@
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_vbLwQyxOR6_2026-04-03_1775200960thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Telegram Rolls Out AI Editor and Bot-Creation Upgrade",
+        "link": "https://www.newsofbahrain.com/business/129804.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rCqDI1avUo_2026-04-03_1775210108thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 10:16:12 UTC"
+  "fetched_at": "2026-04-03 10:46:31 UTC"
 }
