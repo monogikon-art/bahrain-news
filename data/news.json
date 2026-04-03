@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
-        "published": "3 Apr 2026, 09:50 AM",
-        "iso_date": "2026-04-03T09:50:03+00:00",
+        "title": "Bahrain intercepts, destroys 188 missiles, 445 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXhGQ1Boa0praTlzRU1MMFRHS2oyVHA1aEhqOUpGVnlxYTYtUXZMWTZnTGd2dkY3VHZYM0swdTFuT2dLY0VELVZPcVRRdGlPenhmX2ZsRldnVFJxQnJ0VGZyclVNcHdaeG5EdzQ0dkRFOE9uWDJVUnQ2M1VURXo5TU9RaXhoN2NFZndEVFJRMklYY1pHOE5BU3ViUzRGSS1GRnpBeFlQQWpJb1NyRC02YWEySzgzSUJDeXZheC1CRVlGR3paV2NMX0VYaw?oc=5",
+        "published": "3 Apr 2026, 12:17 PM",
+        "iso_date": "2026-04-03T12:17:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,40 +42,20 @@
         "category": "Latest"
       },
       {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "3 Apr 2026, 09:50 AM",
+        "iso_date": "2026-04-03T09:50:03+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Strike hits bridge near Tehran again",
         "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbm9lVXZFY2dfRWo2N0k3OGxWbHpKelJrUzRMV1h1clJBc1BiLU5MQUo1Rzk5Sng1Mkd5elR0cFUyUERKeG9CZUtOZS1LTGhETm55aUZTTnlMODhBQmJEN011MkdPNEZkU3VVZDFweVdweGI2VU9Tb1FjZHZKR1doVFAtcVRfSWlya0VFdXA2OG5tS3R2UHh6c2VkNWdwV0lYQTRlOEM2RUdmXzlFa25sNzlVcDYzSXNhUUpQcU9OcEZKd1Nta21mVWg4ZHcyeFI3Q1g5UlZZQkVhYWxTVmRRMVZEZmJvLVc0RXFpS24yRkhmdThPcVhzQkFpYU9fVk1sTTNma1pRVjh1NzJCVjhQMlUtR2Q2ZElzUkJNR3hhaUQ4Y1JH?oc=5",
         "published": "3 Apr 2026, 02:33 AM",
         "iso_date": "2026-04-03T02:33:04+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts, destroys 188 missiles, 445 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamQwcVdya2k2cEdtNU1zWWpfOHhXSEpyS3BpTEl4VDhmWWF3WGZwaVpxQUw4MnZPU0FEdURRU0tocWxEZVJEV0NnRGFCOG9zTHV4bjNhSjVkUzRDdXJmdktsLW5PTC1PdHVKaG8ycjJITGdVX25UaERNS19OVUFxS25PM3RBcFNCNHFtY2s3U25sYkVsOEQ5aGk0eWVqSHpPNjk2R3VNM295NjU1cVVJcXBXZElfZGVvckdhQXI3MmR0eldISVRF?oc=5",
-        "published": "3 Apr 2026, 11:02 AM",
-        "iso_date": "2026-04-03T11:02:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Eight terrorists killed in North Waziristan ISPR",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeW1abUZJUkR4aktLZ1JKUldTTWNVNkh6RG1YOWFUazNWZUhkcDdZeFQ1dVN4cWE0MDBOVkdQd1NVRmRuOWo1OTlub2ZSVnVGQjdGVmZpVVQxWlMwUVlwUmtNem5CdUQtMXdUdWM1T3d0eVhWeTUyWWRXREFETVVCcmJ3UzhGMUQ0UFF2UXZudUZKLUlKS3RoQTl5QlRiUQ?oc=5",
-        "published": "3 Apr 2026, 02:44 PM",
-        "iso_date": "2026-04-03T14:44:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Ground invasion",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nWE9QSnlLQUxYbDItUVBxT19mZlgybFBxMll0Y3htdmVtUUM0UUx0UE84b3p3Y3RfcnRPOVJtNk5jOEtwVmlsR3lHb2lscmRjS3JZbXJpVFR2dm51dnNySDZtV29IU0xrd0gxN1ktMlU1Zw?oc=5",
-        "published": "3 Apr 2026, 11:51 AM",
-        "iso_date": "2026-04-03T11:51:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 15:45:38 UTC"
+  "fetched_at": "2026-04-03 16:12:34 UTC"
 }
