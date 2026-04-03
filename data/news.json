@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
+        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWpDZHN5bFZQNU1mUlktSzRtanM4Rll2ZVVDSEJyTHhaU0xMVUROR2FfMGR2b2tDVXdLcWFCQzVzVEtSd2xNVGpCSmREUm1VejNWR2hiaUI1UUJwbjVXQldlR2t3R0VTellOMjQtR0RmTThJR2tFOFd6WEstZWVfelNwelp5N2hKejgxWkhhbkxDc3NOaWJLN2FZQkQ2dGR0Y1VMYjVDbmlJRUIzd2xEWUVKRkg3aFMxa2RoR1JmWmJodE1sQ0NXMHEzTXpITldzQ0d0TmV6U0xyZ2tHRVFaa2NqVnhYV09ld2hlNlFWcXRoTHZHbUJDcVgzSTN0Qzg5SmJlTDVQc3NUcHlTRzZrblRWcFJ4Z0NDYVRSdFVmWW5tcEVOcXp6RkJyb05KX0VxMUNYQ1A3b1QwR2tsTTMtQmZ4Yy0?oc=5",
+        "published": "2 Apr 2026, 07:04 PM",
+        "iso_date": "2026-04-02T19:04:47+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain intercepts, destroys 188 missiles, 429 drones since onset of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVpVT3dMS2NBZ191a1BhakJtYzlfMVNsb2V1Ry00V1VPUlVrbnRzUjdYdzh4TWNNZXBLRTJPVVFZcGtTZ2hDUE41ajFyMUNVLXpGVDJ1ODJ1bFo3bUNJWTE5ZlMxa3QtZ0hPNjJrNThib0Uwcjc0d1BlYUh1NWxEZGFsYWhsRlZCY1owNVJxY3d5YVEweVpqN2s5cnRZaUlISG9QcFVoUE1HT3otN2VVV3RTWHZmajhFa2NPZTBZSzBPSWU2aTRj?oc=5",
         "published": "2 Apr 2026, 09:53 AM",
@@ -52,7 +62,128 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "King receives chairman and managing director of LuLu Group International",
+        "link": "https://www.gdnonline.com/Details/1380301/King-receives-chairman-and-managing-director-of-LuLu-Group-International",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/202604022109521h_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Prince Salman praises Lulu Group chairman for supporting Bahrainâs supply chains",
+        "link": "https://www.gdnonline.com/Details/1380293/HRH-Prince-Salman-praises-Lulu-Group-chairman-for-supporting-Bahrainâs-supply-chains",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402170019websitesize(5)_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF Commander-in-Chief meets GCC Unified Military Command",
+        "link": "https://www.gdnonline.com/Details/1380288/BDF-Commander-in-Chief-meets-GCC-Unified-Military-Command",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402160010websitesizeafh_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "UK exam board cancels May/June school exams in Bahrain",
+        "link": "https://www.gdnonline.com/Details/1380304/UK-exam-board-cancels-May/June-school-exams-in-Bahrain",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402221505assasa_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Defence Force air defences intercept and destroy 2 missiles and 10 drones in the last 24 hours",
+        "link": "https://www.gdnonline.com/Details/1380279/Bahrain-Defence-Force-air-defences-intercept-and-destroy-2-missiles-and-10-drones-in-the-last-24-hours",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402124713websitesize(2)_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "GFH announces rebrand",
+        "link": "https://www.gdnonline.com/Details/1380205/GFH-announces-rebrand",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402024337mralrayes_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Khaleeji Bank appoints new acting CEO",
+        "link": "https://www.gdnonline.com/Details/1380200/Khaleeji-Bank-appoints-new-acting-CEO",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020823_0_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Bourse navigates volatile month amid regional headwinds",
+        "link": "https://www.gdnonline.com/Details/1380201/Bahrain-Bourse-navigates-volatile-month-amid-regional-headwinds",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402022814bahrainbourse_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "KFH-Bahrain named âBest Private Bankâ by Euromoney",
+        "link": "https://www.gdnonline.com/Details/1380204/KFH-Bahrain-named-âBest-Private-Bankâ-by-Euromoney",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020825_1_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Shabab take on Al Najma as Aâali face Bahrain Club",
+        "link": "https://www.gdnonline.com/Details/1380236/Shabab-take-on-Al-Najma-as-Aâali-face-Bahrain-Club",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013445kiasf_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "National team lose one spot in world ranking",
+        "link": "https://www.gdnonline.com/Details/1380235/National-team-lose-one-spot-in-world-ranking",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013417wewe_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Iraq defeat Bolivia to qualify for World Cup",
+        "link": "https://www.gdnonline.com/Details/1380234/Iraq-defeat-Bolivia-to-qualify-for-World-Cup",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013347juauc_T.jpg?20260402",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
         "title": "Bahrain, Belgium Discuss Security and Trade Cooperation",
@@ -318,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 03:32:40 UTC"
+  "fetched_at": "2026-04-03 04:47:19 UTC"
 }
