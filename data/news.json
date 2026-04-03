@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 12
+      "count": 14
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -42,16 +42,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
-        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWpDZHN5bFZQNU1mUlktSzRtanM4Rll2ZVVDSEJyTHhaU0xMVUROR2FfMGR2b2tDVXdLcWFCQzVzVEtSd2xNVGpCSmREUm1VejNWR2hiaUI1UUJwbjVXQldlR2t3R0VTellOMjQtR0RmTThJR2tFOFd6WEstZWVfelNwelp5N2hKejgxWkhhbkxDc3NOaWJLN2FZQkQ2dGR0Y1VMYjVDbmlJRUIzd2xEWUVKRkg3aFMxa2RoR1JmWmJodE1sQ0NXMHEzTXpITldzQ0d0TmV6U0xyZ2tHRVFaa2NqVnhYV09ld2hlNlFWcXRoTHZHbUJDcVgzSTN0Qzg5SmJlTDVQc3NUcHlTRzZrblRWcFJ4Z0NDYVRSdFVmWW5tcEVOcXp6RkJyb05KX0VxMUNYQ1A3b1QwR2tsTTMtQmZ4Yy0?oc=5",
-        "published": "2 Apr 2026, 07:04 PM",
-        "iso_date": "2026-04-02T19:04:47+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain intercepts, destroys 188 missiles, 429 drones since onset of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVpVT3dMS2NBZ191a1BhakJtYzlfMVNsb2V1Ry00V1VPUlVrbnRzUjdYdzh4TWNNZXBLRTJPVVFZcGtTZ2hDUE41ajFyMUNVLXpGVDJ1ODJ1bFo3bUNJWTE5ZlMxa3QtZ0hPNjJrNThib0Uwcjc0d1BlYUh1NWxEZGFsYWhsRlZCY1owNVJxY3d5YVEweVpqN2s5cnRZaUlISG9QcFVoUE1HT3otN2VVV3RTWHZmajhFa2NPZTBZSzBPSWU2aTRj?oc=5",
         "published": "2 Apr 2026, 09:53 AM",
@@ -64,72 +54,52 @@
     ],
     "gdn": [
       {
-        "title": "King receives chairman and managing director of LuLu Group International",
-        "link": "https://www.gdnonline.com/Details/1380301/King-receives-chairman-and-managing-director-of-LuLu-Group-International",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
+        "title": "Training push for Bahraini university graduates",
+        "link": "https://www.gdnonline.com/Details/1380313/Training-push-for-Bahraini-university-graduates",
+        "published": "3 Apr 2026",
+        "iso_date": "2026-04-03T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/202604022109521h_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402233015gdnwebsitesize(21)_T.jpg?20260403",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "HRH Prince Salman praises Lulu Group chairman for supporting Bahrainâs supply chains",
-        "link": "https://www.gdnonline.com/Details/1380293/HRH-Prince-Salman-praises-Lulu-Group-chairman-for-supporting-Bahrainâs-supply-chains",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
+        "title": "Debate on bank guarantee for foreign partnership set",
+        "link": "https://www.gdnonline.com/Details/1380312/Debate-on-bank-guarantee-for-foreign-partnership-set",
+        "published": "3 Apr 2026",
+        "iso_date": "2026-04-03T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402170019websitesize(5)_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260403/20260402_224215_1.jpeg?20260403",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "BDF Commander-in-Chief meets GCC Unified Military Command",
-        "link": "https://www.gdnonline.com/Details/1380288/BDF-Commander-in-Chief-meets-GCC-Unified-Military-Command",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
+        "title": "Driver sentenced to year in prison for causing death of pedestrian",
+        "link": "https://www.gdnonline.com/Details/1380314/Driver-sentenced-to-year-in-prison-for-causing-death-of-pedestrian",
+        "published": "3 Apr 2026",
+        "iso_date": "2026-04-03T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402160010websitesizeafh_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402233159arrested5_T.jpg?20260403",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "UK exam board cancels May/June school exams in Bahrain",
-        "link": "https://www.gdnonline.com/Details/1380304/UK-exam-board-cancels-May/June-school-exams-in-Bahrain",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
+        "title": "Renewed call to fix rainwater drainage",
+        "link": "https://www.gdnonline.com/Details/1380315/Renewed-call-to-fix-rainwater-drainage",
+        "published": "3 Apr 2026",
+        "iso_date": "2026-04-03T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402221505assasa_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402233545gdnwebsitesize(23)_T.jpg?20260403",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defence Force air defences intercept and destroy 2 missiles and 10 drones in the last 24 hours",
-        "link": "https://www.gdnonline.com/Details/1380279/Bahrain-Defence-Force-air-defences-intercept-and-destroy-2-missiles-and-10-drones-in-the-last-24-hours",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
+        "title": "Man jailed for trafficking",
+        "link": "https://www.gdnonline.com/Details/1380316/Man-jailed-for-trafficking",
+        "published": "3 Apr 2026",
+        "iso_date": "2026-04-03T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402124713websitesize(2)_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "GFH announces rebrand",
-        "link": "https://www.gdnonline.com/Details/1380205/GFH-announces-rebrand",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402024337mralrayes_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Khaleeji Bank appoints new acting CEO",
-        "link": "https://www.gdnonline.com/Details/1380200/Khaleeji-Bank-appoints-new-acting-CEO",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020823_0_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402233846arrested11(2)_T.jpg?20260403",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +109,17 @@
         "published": "2 Apr 2026",
         "iso_date": "2026-04-02T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402022814bahrainbourse_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402022814bahrainbourse_T.jpg?20260403",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Khaleeji Bank appoints new acting CEO",
+        "link": "https://www.gdnonline.com/Details/1380200/Khaleeji-Bank-appoints-new-acting-CEO",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020823_0_T.jpg?20260403",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +129,47 @@
         "published": "2 Apr 2026",
         "iso_date": "2026-04-02T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020825_1_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020825_1_T.jpg?20260403",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "GFH announces rebrand",
+        "link": "https://www.gdnonline.com/Details/1380205/GFH-announces-rebrand",
+        "published": "2 Apr 2026",
+        "iso_date": "2026-04-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402024337mralrayes_T.jpg?20260403",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Lewandowski hints at international retirement",
+        "link": "https://www.gdnonline.com/Details/1380352/Lewandowski-hints-at-international-retirement",
+        "published": "3 Apr 2026",
+        "iso_date": "2026-04-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260403/20260403_021723_2_T.jpg?20260403",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Spirited Aâali seal heard-earned win",
+        "link": "https://www.gdnonline.com/Details/1380339/Spirited-Aâali-seal-heard-earned-win",
+        "published": "3 Apr 2026",
+        "iso_date": "2026-04-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260403/20260403_012502_0.png?20260403",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Italy federation chief quits after World Cup failure",
+        "link": "https://www.gdnonline.com/Details/1380351/Italy-federation-chief-quits-after-World-Cup-failure",
+        "published": "3 Apr 2026",
+        "iso_date": "2026-04-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260403/20260403_021723_0_T.jpg?20260403",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +179,7 @@
         "published": "2 Apr 2026",
         "iso_date": "2026-04-02T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013445kiasf_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013445kiasf_T.jpg?20260403",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,59 +189,89 @@
         "published": "2 Apr 2026",
         "iso_date": "2026-04-02T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013417wewe_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Iraq defeat Bolivia to qualify for World Cup",
-        "link": "https://www.gdnonline.com/Details/1380234/Iraq-defeat-Bolivia-to-qualify-for-World-Cup",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013347juauc_T.jpg?20260402",
+        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013417wewe_T.jpg?20260403",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
+        "title": "Over 18,000 orphans supported as Foundation marks 25 years of impact.",
+        "link": "https://www.newsofbahrain.com/bahrain/129776.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Y5py0lgsoT_2026-04-03_1775202866resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Maldives settles worth around $500M despite impact of Mideast war",
+        "link": "https://www.newsofbahrain.com/world/129775.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EYWCcmeA4M_2026-04-03_1775202437resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Amazon in talks to buy $9bn satellite telecoms group: report",
+        "link": "https://www.newsofbahrain.com/business/129774.html",
+        "published": "3 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jHcxRqAe4V_2026-04-03_1775202191resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Cambodian lawmakers approve anti-cybercrime law",
+        "link": "https://www.newsofbahrain.com/world/129773.html",
+        "published": "3 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wDypfLQ8tY_2026-04-03_1775201641resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil climbs, stocks slip as Trump dashes hopes of quick end of war",
+        "link": "https://www.newsofbahrain.com/business/129772.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F3n0tUjEXC_2026-04-03_1775201460resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Three-year jail term upheld for tax evasion",
         "link": "https://www.newsofbahrain.com/bahrain/129771.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vbLwQyxOR6_2026-04-03_1775200960resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NASA Artemis II moon mission: Astronauts face ‘Microsoft Outlook’ problem in space",
-        "link": "https://www.newsofbahrain.com/world/129770.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xy8HCjtRKw_2026-04-03_1775200593resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vbLwQyxOR6_2026-04-03_1775200960thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "World Autism Day: Support, Accept, Empower Inclusion Is Not Optional, It Is Essential",
         "link": "https://www.newsofbahrain.com/bahrain/129769.html",
-        "published": "3 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-03T09:00:43+00:00",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YUt1dmC7qX_2026-04-03_1775200476resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YUt1dmC7qX_2026-04-03_1775200476thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain to Strengthen National Role in Tourism Guiding Sector",
         "link": "https://www.newsofbahrain.com/bahrain/129768.html",
-        "published": "3 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-03T09:00:43+00:00",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u5aF4msjvd_2026-04-03_1775199951resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u5aF4msjvd_2026-04-03_1775199951thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -231,17 +281,17 @@
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KNWaD8RdVB_2026-04-03_1775199524resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KNWaD8RdVB_2026-04-03_1775199524thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Shura to Debate Two Key Bills on Investment Guarantees and Training",
-        "link": "https://www.newsofbahrain.com/bahrain/129766.html",
+        "title": "NASA Artemis II moon mission: Astronauts face ‘Microsoft Outlook’ problem in space",
+        "link": "https://www.newsofbahrain.com/world/129770.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_M32Aq7nUok_2026-04-03_1775198652thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xy8HCjtRKw_2026-04-03_1775200593thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -252,26 +302,6 @@
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_h0dfE3wJis_2026-04-03_1775198583thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "High-Level GCC-China Talks Focus on Gulf Tensions and Economic Impact",
-        "link": "https://www.newsofbahrain.com/world/129762.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IJhEGQMCHY_2026-04-03_1775196954thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone Attack Hits Kuwait’s Mina Al-Ahmadi Refinery, Fires Reported",
-        "link": "https://www.newsofbahrain.com/world/129761.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KWmOcjn0Du_2026-04-03_1775196311thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,26 +322,6 @@
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LhGBRaub6P_2026-04-02_1775130121thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "At gas stations, Americans say they’re ‘paying the price’ of Iran war",
-        "link": "https://www.newsofbahrain.com/business/129719.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aM3b5XVHPt_2026-04-02_1775129837thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India hikes jet fuel, commercial LPG cost",
-        "link": "https://www.newsofbahrain.com/business/129717.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J84YcfRnjl_2026-04-02_1775129393thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -429,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 07:29:54 UTC"
+  "fetched_at": "2026-04-03 07:55:22 UTC"
 }
