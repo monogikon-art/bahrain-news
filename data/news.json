@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -144,16 +144,6 @@
         "category": "Latest"
       },
       {
-        "title": "Beyon shareholders approve distribution of BD53.9m dividend",
-        "link": "https://www.gdnonline.com/Details/1380074/Beyon-shareholders-approve-distribution-of-BD539m-dividend",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401003521two_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Shabab take on Al Najma as Aâali face Bahrain Club",
         "link": "https://www.gdnonline.com/Details/1380236/Shabab-take-on-Al-Najma-as-Aâali-face-Bahrain-Club",
         "published": "2 Apr 2026",
@@ -180,26 +170,6 @@
         "iso_date": "2026-04-02T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013347juauc_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "'Take me to America' - Bosnia ecstatic after booking World Cup place",
-        "link": "https://www.gdnonline.com/Details/1380160/Take-me-to-America---Bosnia-ecstatic-after-booking-World-Cup-place",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401155206bosnia_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Police investigate Islamophobic chants during Spain-Egypt match",
-        "link": "https://www.gdnonline.com/Details/1380161/Police-investigate-Islamophobic-chants-during-Spain-Egypt-match",
-        "published": "1 Apr 2026",
-        "iso_date": "2026-04-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260401/20260401154527spainegypt1_T.jpg?20260402",
         "source": "gdn",
         "category": "Latest"
       }
@@ -469,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-02 23:44:22 UTC"
+  "fetched_at": "2026-04-03 00:27:21 UTC"
 }
