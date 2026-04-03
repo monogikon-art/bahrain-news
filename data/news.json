@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR3ZFU0U0UVowc2daSDZmenVfdTU5Z0hfSEhfMmJhOGVndko1RzhaWGNKMGhjbG1LZmU0YjJzalZBV25ZWkdPbEJqOGI5RTdPMExrVDhFdjdxazNBNHhhNzIwSjNLZGIzdjZLYWtydkFrZWszWGpiZi1hYTlHd3VuU1pUWTdyanNHUjMyMDNCNzFNdXNBSC1lOUoyNlJUQ2N5UFdSaXJ1bGFvTkFUT05PTVJ1TTBEbnUzUnpTYjJiOF9oVnRTTmZkYzNXZW9kVEhmT0ZUYXVjb2ZNQnBxcUZRM1RIMjg5ZUZlTnhOa9IB8gFBVV95cUxPN1pGbUw2azhTcmt6V283YWRwVFBORnRpZWM1RHZRZ2ptdGJSU0dtUEpzY0wzRUM3Rk8wbzJ4NEI5U2p5ZUJVVEE1dGlaUW0xaXZkSTVlZ0xBZUdZRjBuQ3FORFd6Y2E2Y1lxZVJTMElEYllvUHFFTnhGdHdjWm5oR2p6TENsM3FVUlYzbDRCZmViRUJHVXB0c3BTVkhibDBZMDNaT0FRYXE1U1RRZ1Q2QjY2cWJfclVYR0JzX0lzLTRkOUhwQlh5LWYwNzNqdkpDUUxxY0dzS2tpMThoODF0d3Q3MVkxSi1iaTIxSWk4THhiUQ?oc=5",
         "published": "2 Apr 2026, 08:57 AM",
         "iso_date": "2026-04-02T08:57:10+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
-        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWpDZHN5bFZQNU1mUlktSzRtanM4Rll2ZVVDSEJyTHhaU0xMVUROR2FfMGR2b2tDVXdLcWFCQzVzVEtSd2xNVGpCSmREUm1VejNWR2hiaUI1UUJwbjVXQldlR2t3R0VTellOMjQtR0RmTThJR2tFOFd6WEstZWVfelNwelp5N2hKejgxWkhhbkxDc3NOaWJLN2FZQkQ2dGR0Y1VMYjVDbmlJRUIzd2xEWUVKRkg3aFMxa2RoR1JmWmJodE1sQ0NXMHEzTXpITldzQ0d0TmV6U0xyZ2tHRVFaa2NqVnhYV09ld2hlNlFWcXRoTHZHbUJDcVgzSTN0Qzg5SmJlTDVQc3NUcHlTRzZrblRWcFJ4Z0NDYVRSdFVmWW5tcEVOcXp6RkJyb05KX0VxMUNYQ1A3b1QwR2tsTTMtQmZ4Yy0?oc=5",
-        "published": "2 Apr 2026, 07:04 PM",
-        "iso_date": "2026-04-02T19:04:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -449,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 04:47:19 UTC"
+  "fetched_at": "2026-04-03 05:34:12 UTC"
 }
