@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,26 +16,36 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 14
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
-        "published": "2 Apr 2026, 06:40 PM",
-        "iso_date": "2026-04-02T18:40:46+00:00",
+        "title": "Strike hits bridge near Tehran again",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbm9lVXZFY2dfRWo2N0k3OGxWbHpKelJrUzRMV1h1clJBc1BiLU5MQUo1Rzk5Sng1Mkd5elR0cFUyUERKeG9CZUtOZS1LTGhETm55aUZTTnlMODhBQmJEN011MkdPNEZkU3VVZDFweVdweGI2VU9Tb1FjZHZKR1doVFAtcVRfSWlya0VFdXA2OG5tS3R2UHh6c2VkNWdwV0lYQTRlOEM2RUdmXzlFa25sNzlVcDYzSXNhUUpQcU9OcEZKd1Nta21mVWg4ZHcyeFI3Q1g5UlZZQkVhYWxTVmRRMVZEZmJvLVc0RXFpS24yRkhmdThPcVhzQkFpYU9fVk1sTTNma1pRVjh1NzJCVjhQMlUtR2Q2ZElzUkJNR3hhaUQ4Y1JH?oc=5",
+        "published": "3 Apr 2026, 02:33 AM",
+        "iso_date": "2026-04-03T02:33:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "CT Quickies: UAE Warning Against Scammers To Hail’s 33rd Rank On The Smart City Index; 10 Middle East Updates",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR3ZFU0U0UVowc2daSDZmenVfdTU5Z0hfSEhfMmJhOGVndko1RzhaWGNKMGhjbG1LZmU0YjJzalZBV25ZWkdPbEJqOGI5RTdPMExrVDhFdjdxazNBNHhhNzIwSjNLZGIzdjZLYWtydkFrZWszWGpiZi1hYTlHd3VuU1pUWTdyanNHUjMyMDNCNzFNdXNBSC1lOUoyNlJUQ2N5UFdSaXJ1bGFvTkFUT05PTVJ1TTBEbnUzUnpTYjJiOF9oVnRTTmZkYzNXZW9kVEhmT0ZUYXVjb2ZNQnBxcUZRM1RIMjg5ZUZlTnhOa9IB8gFBVV95cUxPN1pGbUw2azhTcmt6V283YWRwVFBORnRpZWM1RHZRZ2ptdGJSU0dtUEpzY0wzRUM3Rk8wbzJ4NEI5U2p5ZUJVVEE1dGlaUW0xaXZkSTVlZ0xBZUdZRjBuQ3FORFd6Y2E2Y1lxZVJTMElEYllvUHFFTnhGdHdjWm5oR2p6TENsM3FVUlYzbDRCZmViRUJHVXB0c3BTVkhibDBZMDNaT0FRYXE1U1RRZ1Q2QjY2cWJfclVYR0JzX0lzLTRkOUhwQlh5LWYwNzNqdkpDUUxxY0dzS2tpMThoODF0d3Q3MVkxSi1iaTIxSWk4THhiUQ?oc=5",
-        "published": "2 Apr 2026, 08:57 AM",
-        "iso_date": "2026-04-02T08:57:10+00:00",
+        "title": "Saudi defenses intercept, destroy 5 drones and a ballistic missile",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOV9XTzl5QlFjc2RUVjNfeExnRFZkT1V5bllSaTZxQXVDSE9WOV9wMUNhV1hVbnNPRzlYTWRmc3RqSjlqV1pfZEo2by1Cb2xITmwtTHBEWHBHZnhHODN2STFLN0UzSTFLenp1QjZ6QUZ0NFMtdVNZQTg1Ml9iSnVxR1FNY200alFhNUpBdjRhb2o3QUthR2pjalpjREY3eHZvN0lDREkzYkxCbEtUZHdtd0ZSNkc?oc=5",
+        "published": "2 Apr 2026, 11:23 PM",
+        "iso_date": "2026-04-02T23:23:36+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "2 Apr 2026, 06:40 PM",
+        "iso_date": "2026-04-02T18:40:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,42 +216,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Man arrested after setting off pyrotechnics on German train, injuring 12",
-        "link": "https://www.newsofbahrain.com/world/129785.html",
+        "title": "Sudan army names new chief of staff in biggest wartime shakeup",
+        "link": "https://www.newsofbahrain.com/world/129790.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fjxkpUwXG4_2026-04-03_1775205791resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_meIWSrXZgi_2026-04-03_1775207607resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain’s young basketball stars take on Germany",
-        "link": "https://www.newsofbahrain.com/sports/129784.html",
+        "title": "Kuwait National Guard denies radiation leak rumours",
+        "link": "https://www.newsofbahrain.com/world/129789.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3xyOYnPaJX_2026-04-03_1775205755resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2OgLuF6jDA_2026-04-03_1775207146resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Swiatek announces Roig as new coach",
-        "link": "https://www.newsofbahrain.com/sports/129783.html",
+        "title": "Macron says Trump marriage jibe does not ‘merit response’",
+        "link": "https://www.newsofbahrain.com/world/129788.html",
         "published": "3 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-03T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZgGSaP6Y2T_2026-04-03_1775205491resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GsXSwQ9JFr_2026-04-03_1775207139resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Aali Win While Al Najma Denied Late",
-        "link": "https://www.newsofbahrain.com/sports/129782.html",
+        "title": "Four dead in central Mexico plane crash",
+        "link": "https://www.newsofbahrain.com/world/129787.html",
         "published": "3 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-03T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iu4sHergpB_2026-04-03_1775205042resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Bf1btkKxQ2_2026-04-03_1775207027resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Cuba pardons 2,010 prisoners in 'humanitarian' Easter gesture",
+        "link": "https://www.newsofbahrain.com/world/129786.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t9Q7uGK4Ha_2026-04-03_1775206320resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,7 +271,7 @@
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fXvrdtNe0A_2026-04-03_1775204591resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fXvrdtNe0A_2026-04-03_1775204591thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,36 +312,6 @@
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_u5aF4msjvd_2026-04-03_1775199951thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Maldives settles worth around $500M despite impact of Mideast war",
-        "link": "https://www.newsofbahrain.com/world/129775.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EYWCcmeA4M_2026-04-03_1775202437thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Cambodian lawmakers approve anti-cybercrime law",
-        "link": "https://www.newsofbahrain.com/world/129773.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wDypfLQ8tY_2026-04-03_1775201641thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NASA Artemis II moon mission: Astronauts face ‘Microsoft Outlook’ problem in space",
-        "link": "https://www.newsofbahrain.com/world/129770.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xy8HCjtRKw_2026-04-03_1775200593thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 08:47:35 UTC"
+  "fetched_at": "2026-04-03 09:20:42 UTC"
 }
