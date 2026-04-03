@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 12
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -52,128 +52,7 @@
         "category": "Latest"
       }
     ],
-    "gdn": [
-      {
-        "title": "King receives chairman and managing director of LuLu Group International",
-        "link": "https://www.gdnonline.com/Details/1380301/King-receives-chairman-and-managing-director-of-LuLu-Group-International",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/202604022109521h_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH Prince Salman praises Lulu Group chairman for supporting Bahrainâs supply chains",
-        "link": "https://www.gdnonline.com/Details/1380293/HRH-Prince-Salman-praises-Lulu-Group-chairman-for-supporting-Bahrainâs-supply-chains",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402170019websitesize(5)_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BDF Commander-in-Chief meets GCC Unified Military Command",
-        "link": "https://www.gdnonline.com/Details/1380288/BDF-Commander-in-Chief-meets-GCC-Unified-Military-Command",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402160010websitesizeafh_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "UK exam board cancels May/June school exams in Bahrain",
-        "link": "https://www.gdnonline.com/Details/1380304/UK-exam-board-cancels-May/June-school-exams-in-Bahrain",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402221505assasa_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Defence Force air defences intercept and destroy 2 missiles and 10 drones in the last 24 hours",
-        "link": "https://www.gdnonline.com/Details/1380279/Bahrain-Defence-Force-air-defences-intercept-and-destroy-2-missiles-and-10-drones-in-the-last-24-hours",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402124713websitesize(2)_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "GFH announces rebrand",
-        "link": "https://www.gdnonline.com/Details/1380205/GFH-announces-rebrand",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402024337mralrayes_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Khaleeji Bank appoints new acting CEO",
-        "link": "https://www.gdnonline.com/Details/1380200/Khaleeji-Bank-appoints-new-acting-CEO",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020823_0_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Bourse navigates volatile month amid regional headwinds",
-        "link": "https://www.gdnonline.com/Details/1380201/Bahrain-Bourse-navigates-volatile-month-amid-regional-headwinds",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402022814bahrainbourse_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "KFH-Bahrain named âBest Private Bankâ by Euromoney",
-        "link": "https://www.gdnonline.com/Details/1380204/KFH-Bahrain-named-âBest-Private-Bankâ-by-Euromoney",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020825_1_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Shabab take on Al Najma as Aâali face Bahrain Club",
-        "link": "https://www.gdnonline.com/Details/1380236/Shabab-take-on-Al-Najma-as-Aâali-face-Bahrain-Club",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013445kiasf_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "National team lose one spot in world ranking",
-        "link": "https://www.gdnonline.com/Details/1380235/National-team-lose-one-spot-in-world-ranking",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013417wewe_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Iraq defeat Bolivia to qualify for World Cup",
-        "link": "https://www.gdnonline.com/Details/1380234/Iraq-defeat-Bolivia-to-qualify-for-World-Cup",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402013347juauc_T.jpg?20260402",
-        "source": "gdn",
-        "category": "Latest"
-      }
-    ],
+    "gdn": [],
     "newsofbahrain": [
       {
         "title": "Bahrain, Belgium Discuss Security and Trade Cooperation",
@@ -439,5 +318,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 01:01:43 UTC"
+  "fetched_at": "2026-04-03 02:17:42 UTC"
 }
