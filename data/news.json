@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
         "published": "3 Apr 2026, 09:50 AM",
         "iso_date": "2026-04-03T09:50:03+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Strike hits bridge near Tehran again",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbm9lVXZFY2dfRWo2N0k3OGxWbHpKelJrUzRMV1h1clJBc1BiLU5MQUo1Rzk5Sng1Mkd5elR0cFUyUERKeG9CZUtOZS1LTGhETm55aUZTTnlMODhBQmJEN011MkdPNEZkU3VVZDFweVdweGI2VU9Tb1FjZHZKR1doVFAtcVRfSWlya0VFdXA2OG5tS3R2UHh6c2VkNWdwV0lYQTRlOEM2RUdmXzlFa25sNzlVcDYzSXNhUUpQcU9OcEZKd1Nta21mVWg4ZHcyeFI3Q1g5UlZZQkVhYWxTVmRRMVZEZmJvLVc0RXFpS24yRkhmdThPcVhzQkFpYU9fVk1sTTNma1pRVjh1NzJCVjhQMlUtR2Q2ZElzUkJNR3hhaUQ4Y1JH?oc=5",
+        "published": "3 Apr 2026, 02:33 AM",
+        "iso_date": "2026-04-03T02:33:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Ajman Shrapnel Incident Leaves 12 Injured Following Air Defense Interception",
+        "link": "https://www.newsofbahrain.com/world/129822.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D6vX7VMEaQ_2026-04-03_1775219647resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "China says US fabricated claims of Panama-flagged ship detentions",
         "link": "https://www.newsofbahrain.com/world/129821.html",
         "published": "3 Apr 2026, 09:22 AM",
@@ -208,8 +228,8 @@
       {
         "title": "New Paris mayor pledges to prevent sexual violence in preschools",
         "link": "https://www.newsofbahrain.com/world/129820.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
+        "published": "3 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-03T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_vJXuei7tw5_2026-04-03_1775215515resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,20 +248,10 @@
       {
         "title": "Ukraine Says Russia Fired Hundreds of Drones, Missiles in ‘Massive’ Daytime Attack",
         "link": "https://www.newsofbahrain.com/world/129818.html",
-        "published": "3 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uWzNH9AZKY_2026-04-03_1775214733resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bengaluru startup launches WhatsApp-based ‘No-App’ solution to tackle delayed payments",
-        "link": "https://www.newsofbahrain.com/world/129817.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q8Teiyk1Bq_2026-04-03_1775214766resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uWzNH9AZKY_2026-04-03_1775214733resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 12:15:08 UTC"
+  "fetched_at": "2026-04-03 12:48:08 UTC"
 }
