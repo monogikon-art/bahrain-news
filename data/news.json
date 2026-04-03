@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain intercepts 188 missiles, 445 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOXFtSHl3ZVJrVWlnZzZpajdDdDkwcUdLNDREYzhlbnZic3lNN2VtQWhpaUNjVWk4QURZcUl5c09BcU9jenB4bjlMYTRzZGhNVEl3Zmd6YldHQk5JTUZBX2RiTVc2S3Y0MGNkU1BGZm5kaGNXbEtIZ0d2LVI4ZEROYWlLQmp3Q19Vc1QwOVo0c0pyZkxmVmhXOF9VR181dzltQmd2OFFSMk5sdTlVaDBjeVRzU0xreXlFNTN0VUhreE5OLUZDRHpvOWhBa2sxRVRnbHJHMUFhM1jSAdgBQVVfeXFMTjlxbUh5d2VSa1VpZ2c2aWo3Q3Q5MHFHSzQ0RGM4ZW52YnN5TTdlbUFoaWlDY1VpOEFEWXFJeXNPQXFPY3pweG45TGE0c2RoTVRJd2ZnemJXR0JOSU1GQV9kYk1XNkt2NDBjZFNQRmZuZGhjV2xLSGdHdi1SOGRETmFpS0Jqd0NfVXNUMDlaNHNKcmZMZlZoVzhfVUdfNXc5bUJndjhRUjJObHU5VWgwY3lUc1NMa3l5RTUzdFVIa3hOTi1GQ0R6bzloQWtrMUVUZ2xyRzFBYTNY?oc=5",
-        "published": "3 Apr 2026, 11:18 AM",
-        "iso_date": "2026-04-03T11:18:20+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "3 Apr 2026, 09:50 AM",
+        "iso_date": "2026-04-03T09:50:03+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
-        "published": "3 Apr 2026, 09:50 AM",
-        "iso_date": "2026-04-03T09:50:03+00:00",
+        "title": "Bahrain intercepts 188 missiles, 445 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOXFtSHl3ZVJrVWlnZzZpajdDdDkwcUdLNDREYzhlbnZic3lNN2VtQWhpaUNjVWk4QURZcUl5c09BcU9jenB4bjlMYTRzZGhNVEl3Zmd6YldHQk5JTUZBX2RiTVc2S3Y0MGNkU1BGZm5kaGNXbEtIZ0d2LVI4ZEROYWlLQmp3Q19Vc1QwOVo0c0pyZkxmVmhXOF9VR181dzltQmd2OFFSMk5sdTlVaDBjeVRzU0xreXlFNTN0VUhreE5OLUZDRHpvOWhBa2sxRVRnbHJHMUFhM1jSAdgBQVVfeXFMTjlxbUh5d2VSa1VpZ2c2aWo3Q3Q5MHFHSzQ0RGM4ZW52YnN5TTdlbUFoaWlDY1VpOEFEWXFJeXNPQXFPY3pweG45TGE0c2RoTVRJd2ZnemJXR0JOSU1GQV9kYk1XNkt2NDBjZFNQRmZuZGhjV2xLSGdHdi1SOGRETmFpS0Jqd0NfVXNUMDlaNHNKcmZMZlZoVzhfVUdfNXc5bUJndjhRUjJObHU5VWgwY3lUc1NMa3l5RTUzdFVIa3hOTi1GQ0R6bzloQWtrMUVUZ2xyRzFBYTNY?oc=5",
+        "published": "3 Apr 2026, 11:18 AM",
+        "iso_date": "2026-04-03T11:18:20+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,20 +52,30 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
-        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWpDZHN5bFZQNU1mUlktSzRtanM4Rll2ZVVDSEJyTHhaU0xMVUROR2FfMGR2b2tDVXdLcWFCQzVzVEtSd2xNVGpCSmREUm1VejNWR2hiaUI1UUJwbjVXQldlR2t3R0VTellOMjQtR0RmTThJR2tFOFd6WEstZWVfelNwelp5N2hKejgxWkhhbkxDc3NOaWJLN2FZQkQ2dGR0Y1VMYjVDbmlJRUIzd2xEWUVKRkg3aFMxa2RoR1JmWmJodE1sQ0NXMHEzTXpITldzQ0d0TmV6U0xyZ2tHRVFaa2NqVnhYV09ld2hlNlFWcXRoTHZHbUJDcVgzSTN0Qzg5SmJlTDVQc3NUcHlTRzZrblRWcFJ4Z0NDYVRSdFVmWW5tcEVOcXp6RkJyb05KX0VxMUNYQ1A3b1QwR2tsTTMtQmZ4Yy0?oc=5",
-        "published": "2 Apr 2026, 07:04 PM",
-        "iso_date": "2026-04-02T19:04:47+00:00",
+        "title": "Bahrain intercepts, destroys 188 missiles, 445 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamQwcVdya2k2cEdtNU1zWWpfOHhXSEpyS3BpTEl4VDhmWWF3WGZwaVpxQUw4MnZPU0FEdURRU0tocWxEZVJEV0NnRGFCOG9zTHV4bjNhSjVkUzRDdXJmdktsLW5PTC1PdHVKaG8ycjJITGdVX25UaERNS19OVUFxS25PM3RBcFNCNHFtY2s3U25sYkVsOEQ5aGk0eWVqSHpPNjk2R3VNM295NjU1cVVJcXBXZElfZGVvckdhQXI3MmR0eldISVRF?oc=5",
+        "published": "3 Apr 2026, 11:02 AM",
+        "iso_date": "2026-04-03T11:02:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 188 missiles, 445 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamQwcVdya2k2cEdtNU1zWWpfOHhXSEpyS3BpTEl4VDhmWWF3WGZwaVpxQUw4MnZPU0FEdURRU0tocWxEZVJEV0NnRGFCOG9zTHV4bjNhSjVkUzRDdXJmdktsLW5PTC1PdHVKaG8ycjJITGdVX25UaERNS19OVUFxS25PM3RBcFNCNHFtY2s3U25sYkVsOEQ5aGk0eWVqSHpPNjk2R3VNM295NjU1cVVJcXBXZElfZGVvckdhQXI3MmR0eldISVRF?oc=5",
-        "published": "3 Apr 2026, 11:02 AM",
-        "iso_date": "2026-04-03T11:02:00+00:00",
+        "title": "Eight terrorists killed in North Waziristan ISPR",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeW1abUZJUkR4aktLZ1JKUldTTWNVNkh6RG1YOWFUazNWZUhkcDdZeFQ1dVN4cWE0MDBOVkdQd1NVRmRuOWo1OTlub2ZSVnVGQjdGVmZpVVQxWlMwUVlwUmtNem5CdUQtMXdUdWM1T3d0eVhWeTUyWWRXREFETVVCcmJ3UzhGMUQ0UFF2UXZudUZKLUlKS3RoQTl5QlRiUQ?oc=5",
+        "published": "3 Apr 2026, 02:44 PM",
+        "iso_date": "2026-04-03T14:44:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Ground invasion",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nWE9QSnlLQUxYbDItUVBxT19mZlgybFBxMll0Y3htdmVtUUM0UUx0UE84b3p3Y3RfcnRPOVJtNk5jOEtwVmlsR3lHb2lscmRjS3JZbXJpVFR2dm51dnNySDZtV29IU0xrd0gxN1ktMlU1Zw?oc=5",
+        "published": "3 Apr 2026, 11:51 AM",
+        "iso_date": "2026-04-03T11:51:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 15:16:57 UTC"
+  "fetched_at": "2026-04-03 15:45:38 UTC"
 }
