@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR3ZFU0U0UVowc2daSDZmenVfdTU5Z0hfSEhfMmJhOGVndko1RzhaWGNKMGhjbG1LZmU0YjJzalZBV25ZWkdPbEJqOGI5RTdPMExrVDhFdjdxazNBNHhhNzIwSjNLZGIzdjZLYWtydkFrZWszWGpiZi1hYTlHd3VuU1pUWTdyanNHUjMyMDNCNzFNdXNBSC1lOUoyNlJUQ2N5UFdSaXJ1bGFvTkFUT05PTVJ1TTBEbnUzUnpTYjJiOF9oVnRTTmZkYzNXZW9kVEhmT0ZUYXVjb2ZNQnBxcUZRM1RIMjg5ZUZlTnhOa9IB8gFBVV95cUxPN1pGbUw2azhTcmt6V283YWRwVFBORnRpZWM1RHZRZ2ptdGJSU0dtUEpzY0wzRUM3Rk8wbzJ4NEI5U2p5ZUJVVEE1dGlaUW0xaXZkSTVlZ0xBZUdZRjBuQ3FORFd6Y2E2Y1lxZVJTMElEYllvUHFFTnhGdHdjWm5oR2p6TENsM3FVUlYzbDRCZmViRUJHVXB0c3BTVkhibDBZMDNaT0FRYXE1U1RRZ1Q2QjY2cWJfclVYR0JzX0lzLTRkOUhwQlh5LWYwNzNqdkpDUUxxY0dzS2tpMThoODF0d3Q3MVkxSi1iaTIxSWk4THhiUQ?oc=5",
         "published": "2 Apr 2026, 08:57 AM",
         "iso_date": "2026-04-02T08:57:10+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
+        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWpDZHN5bFZQNU1mUlktSzRtanM4Rll2ZVVDSEJyTHhaU0xMVUROR2FfMGR2b2tDVXdLcWFCQzVzVEtSd2xNVGpCSmREUm1VejNWR2hiaUI1UUJwbjVXQldlR2t3R0VTellOMjQtR0RmTThJR2tFOFd6WEstZWVfelNwelp5N2hKejgxWkhhbkxDc3NOaWJLN2FZQkQ2dGR0Y1VMYjVDbmlJRUIzd2xEWUVKRkg3aFMxa2RoR1JmWmJodE1sQ0NXMHEzTXpITldzQ0d0TmV6U0xyZ2tHRVFaa2NqVnhYV09ld2hlNlFWcXRoTHZHbUJDcVgzSTN0Qzg5SmJlTDVQc3NUcHlTRzZrblRWcFJ4Z0NDYVRSdFVmWW5tcEVOcXp6RkJyb05KX0VxMUNYQ1A3b1QwR2tsTTMtQmZ4Yy0?oc=5",
+        "published": "2 Apr 2026, 07:04 PM",
+        "iso_date": "2026-04-02T19:04:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -176,6 +186,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Shura to Debate Two Key Bills on Investment Guarantees and Training",
+        "link": "https://www.newsofbahrain.com/bahrain/129766.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_M32Aq7nUok_2026-04-03_1775198652resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Microsoft to invest $10 bn for Japan AI data centres and cyber defence expansion",
+        "link": "https://www.newsofbahrain.com/world/129765.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h0dfE3wJis_2026-04-03_1775198583resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Government urges stronger public and private partnerships in the food supply",
+        "link": "https://www.newsofbahrain.com/bahrain/129764.html",
+        "published": "3 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KvEcOIJV9G_2026-04-03_1775198277resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Metro to Link with Bus Routes",
+        "link": "https://www.newsofbahrain.com/bahrain/129763.html",
+        "published": "3 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JvaenAgrO3_2026-04-03_1775198098resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "High-Level GCC-China Talks Focus on Gulf Tensions and Economic Impact",
         "link": "https://www.newsofbahrain.com/world/129762.html",
         "published": "3 Apr 2026, 09:22 AM",
@@ -186,42 +236,12 @@
         "category": "Latest"
       },
       {
-        "title": "Drone Attack Hits Kuwait’s Mina Al-Ahmadi Refinery, Fires Reported",
-        "link": "https://www.newsofbahrain.com/world/129761.html",
+        "title": "Bahrain, Belgium Discuss Security and Trade Cooperation",
+        "link": "https://www.newsofbahrain.com/bahrain/129758.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KWmOcjn0Du_2026-04-03_1775196311resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, Belgium Discuss Security and Trade Cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/129758.html",
-        "published": "3 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UmehraD1wN_2026-04-02_1775167552resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kim Kardashian to Produce New Reality Series ‘Team Moms’ for Paramount+",
-        "link": "https://www.newsofbahrain.com/trends/129757.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q2w8e5vLxc_2026-04-02_1775161658resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pakistan Raises Fuel Prices Sharply Amid Middle East Conflict",
-        "link": "https://www.newsofbahrain.com/world/129756.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Em6fp5B3M7_2026-04-02_1775160739resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UmehraD1wN_2026-04-02_1775167552thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -236,42 +256,22 @@
         "category": "Latest"
       },
       {
-        "title": "His Majesty the King receives the Chairman of Lulu Group",
-        "link": "https://www.newsofbahrain.com/bahrain/129747.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
+        "title": "Drone Attack Hits Kuwait’s Mina Al-Ahmadi Refinery, Fires Reported",
+        "link": "https://www.newsofbahrain.com/world/129761.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F9lCaAcvgp_2026-04-02_1775148921thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KWmOcjn0Du_2026-04-03_1775196311thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Public-Private Partnership Key to Economic Resilience: HRH Crown Prince",
-        "link": "https://www.newsofbahrain.com/bahrain/129742.html",
+        "title": "Pakistan Raises Fuel Prices Sharply Amid Middle East Conflict",
+        "link": "https://www.newsofbahrain.com/world/129756.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uZCFMzhPce_2026-04-02_1775136442thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura to Debate Graduate Training Rule for Big Firms",
-        "link": "https://www.newsofbahrain.com/bahrain/129737.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QJ4LvHFVjx_2026-04-02_1775134694thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Spain minister blasts US 'interference' over woman's euthanasia",
-        "link": "https://www.newsofbahrain.com/world/129755.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_esVOGg30UD_2026-04-02_1775160306thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Em6fp5B3M7_2026-04-02_1775160739thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 06:28:11 UTC"
+  "fetched_at": "2026-04-03 06:53:23 UTC"
 }
