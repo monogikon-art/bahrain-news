@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 20
     }
   },
   "articles": {
@@ -32,30 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Saudi defenses intercept, destroy 5 drones and a ballistic missile",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOV9XTzl5QlFjc2RUVjNfeExnRFZkT1V5bllSaTZxQXVDSE9WOV9wMUNhV1hVbnNPRzlYTWRmc3RqSjlqV1pfZEo2by1Cb2xITmwtTHBEWHBHZnhHODN2STFLN0UzSTFLenp1QjZ6QUZ0NFMtdVNZQTg1Ml9iSnVxR1FNY200alFhNUpBdjRhb2o3QUthR2pjalpjREY3eHZvN0lDREkzYkxCbEtUZHdtd0ZSNkc?oc=5",
-        "published": "2 Apr 2026, 11:23 PM",
-        "iso_date": "2026-04-02T23:23:36+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
         "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
         "published": "2 Apr 2026, 06:40 PM",
         "iso_date": "2026-04-02T18:40:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
-        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONWpDZHN5bFZQNU1mUlktSzRtanM4Rll2ZVVDSEJyTHhaU0xMVUROR2FfMGR2b2tDVXdLcWFCQzVzVEtSd2xNVGpCSmREUm1VejNWR2hiaUI1UUJwbjVXQldlR2t3R0VTellOMjQtR0RmTThJR2tFOFd6WEstZWVfelNwelp5N2hKejgxWkhhbkxDc3NOaWJLN2FZQkQ2dGR0Y1VMYjVDbmlJRUIzd2xEWUVKRkg3aFMxa2RoR1JmWmJodE1sQ0NXMHEzTXpITldzQ0d0TmV6U0xyZ2tHRVFaa2NqVnhYV09ld2hlNlFWcXRoTHZHbUJDcVgzSTN0Qzg5SmJlTDVQc3NUcHlTRzZrblRWcFJ4Z0NDYVRSdFVmWW5tcEVOcXp6RkJyb05KX0VxMUNYQ1A3b1QwR2tsTTMtQmZ4Yy0?oc=5",
-        "published": "2 Apr 2026, 07:04 PM",
-        "iso_date": "2026-04-02T19:04:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,52 +196,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Sudan army names new chief of staff in biggest wartime shakeup",
-        "link": "https://www.newsofbahrain.com/world/129790.html",
+        "title": "Dubai Suspends In-Person Worship Services Across Religious Sites",
+        "link": "https://www.newsofbahrain.com/world/129802.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_meIWSrXZgi_2026-04-03_1775207607resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lxp541Y2dk_2026-04-03_1775209301resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Kuwait National Guard denies radiation leak rumours",
-        "link": "https://www.newsofbahrain.com/world/129789.html",
+        "title": "Trump Warns of Further Strikes on Iran’s Infrastructure",
+        "link": "https://www.newsofbahrain.com/world/129799.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2OgLuF6jDA_2026-04-03_1775207146resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jzJgmqI2Bo_2026-04-03_1775208985resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Macron says Trump marriage jibe does not ‘merit response’",
-        "link": "https://www.newsofbahrain.com/world/129788.html",
-        "published": "3 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-03T09:00:43+00:00",
+        "title": "MPs Back Interior Minister’s Call for Unity Amid Regional Threats",
+        "link": "https://www.newsofbahrain.com/bahrain/129798.html",
+        "published": "",
+        "iso_date": "",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GsXSwQ9JFr_2026-04-03_1775207139resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_083SKUdatn_2026-04-03_1775208910resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Four dead in central Mexico plane crash",
-        "link": "https://www.newsofbahrain.com/world/129787.html",
-        "published": "3 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-03T09:00:43+00:00",
+        "title": "Three-Year Prison Sentence and Fine for Human Trafficking Offender",
+        "link": "https://www.newsofbahrain.com/bahrain/129797.html",
+        "published": "",
+        "iso_date": "",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Bf1btkKxQ2_2026-04-03_1775207027resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LehJAsGKMZ_2026-04-03_1775208642resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Cuba pardons 2,010 prisoners in 'humanitarian' Easter gesture",
-        "link": "https://www.newsofbahrain.com/world/129786.html",
+        "title": "Abu Dhabi Responds to Incident at Habshan Gas Facility After Aerial Threat Interception",
+        "link": "https://www.newsofbahrain.com/world/129796.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t9Q7uGK4Ha_2026-04-03_1775206320resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_znVKivgQLq_2026-04-03_1775208516resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,22 +276,12 @@
         "category": "Latest"
       },
       {
-        "title": "World Autism Day: Support, Accept, Empower Inclusion Is Not Optional, It Is Essential",
-        "link": "https://www.newsofbahrain.com/bahrain/129769.html",
+        "title": "European nations say Israel, Hezbollah fighting ‘must cease’",
+        "link": "https://www.newsofbahrain.com/world/129795.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YUt1dmC7qX_2026-04-03_1775200476thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain to Strengthen National Role in Tourism Guiding Sector",
-        "link": "https://www.newsofbahrain.com/bahrain/129768.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u5aF4msjvd_2026-04-03_1775199951thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QZvh8ebaso_2026-04-03_1775208423thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,6 +322,76 @@
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_vqtoW7Dbh2_2026-04-02_1775130455thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Where is ‘United Nations’ in today’s conflicts?",
+        "link": "https://www.newsofbahrain.com/views/129559.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1tPw8n2clv_2026-03-31_1774959885thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Managing the Digital Frontline in Wartime",
+        "link": "https://www.newsofbahrain.com/views/129421.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MH28syxtNw_2026-03-29_1774788386thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The risk you didn’t pack!",
+        "link": "https://www.newsofbahrain.com/views/129237.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UnTZODjphV_2026-03-26_1774524998thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India is against obstruction of Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/views/129111.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2iJYP94xaX_2026-03-24_1774355017thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ramadan Charity Initiatives at BhavansBahrain Indian School",
+        "link": "https://www.newsofbahrain.com/views/128863.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kM5iZAU4X2_2026-03-20_1773995004thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Beware: He Is Watching You!",
+        "link": "https://www.newsofbahrain.com/views/128785.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jqyZpC0nVc_2026-03-19_1773902009thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Reporters of War: Digital Media Challenges",
+        "link": "https://www.newsofbahrain.com/views/128654.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bQCpfL7iXy_2026-03-17_1773748119thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -469,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 09:20:42 UTC"
+  "fetched_at": "2026-04-03 09:49:17 UTC"
 }
