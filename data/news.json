@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -176,10 +176,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain, Belgium Discuss Security and Trade Cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/129758.html",
+        "title": "High-Level GCC-China Talks Focus on Gulf Tensions and Economic Impact",
+        "link": "https://www.newsofbahrain.com/world/129762.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IJhEGQMCHY_2026-04-03_1775196954resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Drone Attack Hits Kuwait’s Mina Al-Ahmadi Refinery, Fires Reported",
+        "link": "https://www.newsofbahrain.com/world/129761.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KWmOcjn0Du_2026-04-03_1775196311resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, Belgium Discuss Security and Trade Cooperation",
+        "link": "https://www.newsofbahrain.com/bahrain/129758.html",
+        "published": "3 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-03T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_UmehraD1wN_2026-04-02_1775167552resized_pic.jpg",
         "source": "newsofbahrain",
@@ -188,8 +208,8 @@
       {
         "title": "Kim Kardashian to Produce New Reality Series ‘Team Moms’ for Paramount+",
         "link": "https://www.newsofbahrain.com/trends/129757.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
+        "published": "2 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-02T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_q2w8e5vLxc_2026-04-02_1775161658resized_pic.jpg",
         "source": "newsofbahrain",
@@ -198,30 +218,10 @@
       {
         "title": "Pakistan Raises Fuel Prices Sharply Amid Middle East Conflict",
         "link": "https://www.newsofbahrain.com/world/129756.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Em6fp5B3M7_2026-04-02_1775160739resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Spain minister blasts US 'interference' over woman's euthanasia",
-        "link": "https://www.newsofbahrain.com/world/129755.html",
-        "published": "2 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_esVOGg30UD_2026-04-02_1775160306resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "OpenAI Acquires Tech Talk Show TBPN to Shape AI Conversation",
-        "link": "https://www.newsofbahrain.com/trends/129754.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bGu04XPzS5_2026-04-02_1775159926resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Em6fp5B3M7_2026-04-02_1775160739resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -266,22 +266,12 @@
         "category": "Latest"
       },
       {
-        "title": "UK police set up national hub to cut illegal knife sales",
-        "link": "https://www.newsofbahrain.com/world/129753.html",
+        "title": "Spain minister blasts US 'interference' over woman's euthanasia",
+        "link": "https://www.newsofbahrain.com/world/129755.html",
         "published": "2 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yUYXQdbxT1_2026-04-02_1775159743thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Rebel attack kills 43 in northeastern DR Congo: army",
-        "link": "https://www.newsofbahrain.com/world/129752.html",
-        "published": "2 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_S1X7NhAtLW_2026-04-02_1775159487thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_esVOGg30UD_2026-04-02_1775160306thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 05:34:12 UTC"
+  "fetched_at": "2026-04-03 06:28:11 UTC"
 }
