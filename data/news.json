@@ -22,30 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Eight terrorists killed in North Waziristan ISPR",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeW1abUZJUkR4aktLZ1JKUldTTWNVNkh6RG1YOWFUazNWZUhkcDdZeFQ1dVN4cWE0MDBOVkdQd1NVRmRuOWo1OTlub2ZSVnVGQjdGVmZpVVQxWlMwUVlwUmtNem5CdUQtMXdUdWM1T3d0eVhWeTUyWWRXREFETVVCcmJ3UzhGMUQ0UFF2UXZudUZKLUlKS3RoQTl5QlRiUQ?oc=5",
-        "published": "3 Apr 2026, 02:44 PM",
-        "iso_date": "2026-04-03T14:44:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain intercepts 188 missiles, 445 drones since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOXFtSHl3ZVJrVWlnZzZpajdDdDkwcUdLNDREYzhlbnZic3lNN2VtQWhpaUNjVWk4QURZcUl5c09BcU9jenB4bjlMYTRzZGhNVEl3Zmd6YldHQk5JTUZBX2RiTVc2S3Y0MGNkU1BGZm5kaGNXbEtIZ0d2LVI4ZEROYWlLQmp3Q19Vc1QwOVo0c0pyZkxmVmhXOF9VR181dzltQmd2OFFSMk5sdTlVaDBjeVRzU0xreXlFNTN0VUhreE5OLUZDRHpvOWhBa2sxRVRnbHJHMUFhM1jSAdgBQVVfeXFMTjlxbUh5d2VSa1VpZ2c2aWo3Q3Q5MHFHSzQ0RGM4ZW52YnN5TTdlbUFoaWlDY1VpOEFEWXFJeXNPQXFPY3pweG45TGE0c2RoTVRJd2ZnemJXR0JOSU1GQV9kYk1XNkt2NDBjZFNQRmZuZGhjV2xLSGdHdi1SOGRETmFpS0Jqd0NfVXNUMDlaNHNKcmZMZlZoVzhfVUdfNXc5bUJndjhRUjJObHU5VWgwY3lUc1NMa3l5RTUzdFVIa3hOTi1GQ0R6bzloQWtrMUVUZ2xyRzFBYTNY?oc=5",
         "published": "3 Apr 2026, 11:18 AM",
         "iso_date": "2026-04-03T11:18:20+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
-        "published": "3 Apr 2026, 09:50 AM",
-        "iso_date": "2026-04-03T09:50:03+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,10 +42,30 @@
         "category": "Latest"
       },
       {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "3 Apr 2026, 09:50 AM",
+        "iso_date": "2026-04-03T09:50:03+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Saudi defenses intercept, destroy 5 drones and a ballistic missile",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOV9XTzl5QlFjc2RUVjNfeExnRFZkT1V5bllSaTZxQXVDSE9WOV9wMUNhV1hVbnNPRzlYTWRmc3RqSjlqV1pfZEo2by1Cb2xITmwtTHBEWHBHZnhHODN2STFLN0UzSTFLenp1QjZ6QUZ0NFMtdVNZQTg1Ml9iSnVxR1FNY200alFhNUpBdjRhb2o3QUthR2pjalpjREY3eHZvN0lDREkzYkxCbEtUZHdtd0ZSNkc?oc=5",
         "published": "2 Apr 2026, 11:23 PM",
         "iso_date": "2026-04-02T23:23:36+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHZjY1A0UUxpU0dscjNWZkd1RTBmYlIxaS05Yk9sakdmU0M1MlQ3VGFKVmFwaEdYdlNqZTVhcXQ2QnYzWmpxU2NFVzRlalVuNTVVNDBZTmdPMmhTS0Q4bTlMQm9HM0V6aDNLMmF2dGVmTjZNMlNtTGFqWVhOSmphQ3ROdklNZnJRMGdzbC16VzlUTk51QkZiYllUS3ZXOFN1ZVFMMEQ2SnlzR2N6eWc?oc=5",
+        "published": "3 Apr 2026, 08:44 AM",
+        "iso_date": "2026-04-03T08:44:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Abu Dhabi: One Dead, Four Injured After Debris Falls on Habshan Gas Facility",
+        "link": "https://www.newsofbahrain.com/world/129823.html",
+        "published": "3 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_laKwEsh5QY_2026-04-03_1775240597resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Ajman Shrapnel Incident Leaves 12 Injured Following Air Defense Interception",
         "link": "https://www.newsofbahrain.com/world/129822.html",
         "published": "3 Apr 2026, 09:22 AM",
@@ -238,8 +248,8 @@
       {
         "title": "China says US fabricated claims of Panama-flagged ship detentions",
         "link": "https://www.newsofbahrain.com/world/129821.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
+        "published": "3 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-03T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NPMgLTRJyY_2026-04-03_1775216957resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,20 +268,10 @@
       {
         "title": "Bahrain Defence Force Intercepts 633 Missiles and Drones",
         "link": "https://www.newsofbahrain.com/bahrain/129819.html",
-        "published": "3 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fiFCz60qRL_2026-04-03_1775215215resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ukraine Says Russia Fired Hundreds of Drones, Missiles in ‘Massive’ Daytime Attack",
-        "link": "https://www.newsofbahrain.com/world/129818.html",
         "published": "3 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uWzNH9AZKY_2026-04-03_1775214733resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fiFCz60qRL_2026-04-03_1775215215resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 18:13:31 UTC"
+  "fetched_at": "2026-04-03 18:46:39 UTC"
 }
