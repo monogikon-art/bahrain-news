@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uYklWLUV1eDRLbzBfa1NhcVZVaE1pZEhiT2dZVGFzQ1dVQm1lVy03WXNjdldOWDlCVzdxWHQtSzBFU3FLMmplZFozQnJDem42TWI3ek90SQ?oc=5",
         "published": "4 Apr 2026, 10:39 AM",
         "iso_date": "2026-04-04T10:39:50+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "US Isreal Iran War Latest Update: Iranian Drones Intercepted in Bahrain’s Sitra; Four Civilians Hurt, Homes Damaged",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbGlUSDJZR0kwWnIyMGFwSU44YWNlWjEwRU4wSzJZVWFpVTZQamV6OENBeVRYbzQyZ194c3poVDFCV21VRDdONkh2RmU4b2l5eDlZNGxnSHRTM2NhaTJGMWk4c2ZpbGY3RGdfOU5ZUzRqcWtBb2VQUi1TeDFabll4VjQ1R3lXbEN3UDlPdm84d19xeFZ2RzFKRWJTRndHYzlSV1Q0NUhyVzlhNDhqbWxnMVA5dGxaekdRUVRSN1Q5a0psUld2WlRCMS1BQVBwS3JYZGNxSHBTUDhhcy1teXVSN3Jsazh5ZWpLZHgzYg?oc=5",
-        "published": "4 Apr 2026, 04:17 AM",
-        "iso_date": "2026-04-04T04:17:42+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 22:43:24 UTC"
+  "fetched_at": "2026-04-04 23:09:08 UTC"
 }
