@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -72,16 +72,6 @@
         "category": "Latest"
       },
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
-        "published": "3 Apr 2026, 08:51 AM",
-        "iso_date": "2026-04-03T08:51:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Countries with the most submarines",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUQ2VGk1TXI1TXVBU0ptV2xqdVFOSlJWakk0MGl3M3FHdFhMVTNZWmhzNVR1N3FJYkNXZHZtOXFFaklNeVV5ZlVfc2h6MmR6Qi1kQnEyM252eTZ2UUZZc3JyNi03WDFkYWdJQ2tSbEluV2ZEZk12MkFCOFc2R0MxcDN2ZGJ2eGxyMnRoRzJROGw5YU1ueS1JSTNzZVNLLXFPV3hFaVBDZFJqcWZlRmdZMTVkQ19GMnlqRl9mT1hnSGhwZGYtTVBSQkhOdTk?oc=5",
         "published": "3 Apr 2026, 11:37 PM",
@@ -93,6 +83,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Chief of Police and Capital Governor inspect homes damaged by Iranian aggression in Sitra",
+        "link": "https://www.gdnonline.com/Details/1380424/Chief-of-Police-and-Capital-Governor-inspect-homes-damaged-by-Iranian-aggression-in-Sitra",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404033041sitra_T.jpg?20260404",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Call to give housewives pension and insurance",
         "link": "https://www.gdnonline.com/Details/1380379/Call-to-give-housewives-pension-and-insurance",
@@ -130,16 +130,6 @@
         "iso_date": "2026-04-04T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260404/20260403_223159_0_T.jpg?20260404",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Parliament panel rejects amendments to rent law",
-        "link": "https://www.gdnonline.com/Details/1380384/Parliament-panel-rejects-amendments-to-rent-law",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260403/20260403231307websize(2)_T.jpg?20260404",
         "source": "gdn",
         "category": "Latest"
       },
@@ -449,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 00:25:34 UTC"
+  "fetched_at": "2026-04-04 00:55:55 UTC"
 }
