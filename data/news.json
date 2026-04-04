@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -52,6 +52,26 @@
         "category": "Latest"
       },
       {
+        "title": "US Isreal Iran War Latest Update: Iranian Drones Intercepted in Bahrain’s Sitra; Four Civilians Hurt, Homes Damaged",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbGlUSDJZR0kwWnIyMGFwSU44YWNlWjEwRU4wSzJZVWFpVTZQamV6OENBeVRYbzQyZ194c3poVDFCV21VRDdONkh2RmU4b2l5eDlZNGxnSHRTM2NhaTJGMWk4c2ZpbGY3RGdfOU5ZUzRqcWtBb2VQUi1TeDFabll4VjQ1R3lXbEN3UDlPdm84d19xeFZ2RzFKRWJTRndHYzlSV1Q0NUhyVzlhNDhqbWxnMVA5dGxaekdRUVRSN1Q5a0psUld2WlRCMS1BQVBwS3JYZGNxSHBTUDhhcy1teXVSN3Jsazh5ZWpLZHgzYg?oc=5",
+        "published": "4 Apr 2026, 04:17 AM",
+        "iso_date": "2026-04-04T04:17:42+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Israel says it has struck over 3,500 targets in Lebanon in past month",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWUN4ZHctM3Z4VlFxdS1QVVB3OHpEbUFDdDdsbDc4THlwUENGeTJmNzFnOGVxd2Z0bWpQTlhLc2pqbkNad0lmYlhNS0ZESjNBS1o0aWFVekE5eHBsTG1OU2lFcTRncFBoMFNnLVlDQW5tY3FLVW5HV3JwWTBlS3JzazJEd2lTT0c5cjhYWDkyTWxmUTQ0NGNZZDVZSjEyMVc1R1lwOTBLNFNPekFseE1FYmExNUg1NFNPWTRjVW9mbHNXU1Y2WmpoMExTQnh1T0djMml5ZjVXOGZDVlBaQWZkeHRTLU0yQkJkdWZBUVduZEpKc1pqZjZGNW5Oa1A1VnMtY3FTbndtd3c5TmtzWXN2VkNGRVhfSkhhaThvRW96ZjJZQ2hIYVRpOHQwWEhScEdzUGVmNENvT1M0eUhIQVRpdTRiY0lBNDJRcGRSN05xZVQ?oc=5",
+        "published": "3 Apr 2026, 01:08 PM",
+        "iso_date": "2026-04-03T13:08:05+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain intercepts missiles and drones amid Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TeHVuZnJLS25SQVBWYTdtZzVkakZTanE3b1pKamhJWGlsaURFTUxYNGVVWmxFMmZJYVVzUFdsRzBiM21vdzlwMWVDV3hnSlhrcE1qZVl2NDJKbWEy?oc=5",
         "published": "3 Apr 2026, 12:19 PM",
@@ -62,10 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts 188 missiles, 445 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOXFtSHl3ZVJrVWlnZzZpajdDdDkwcUdLNDREYzhlbnZic3lNN2VtQWhpaUNjVWk4QURZcUl5c09BcU9jenB4bjlMYTRzZGhNVEl3Zmd6YldHQk5JTUZBX2RiTVc2S3Y0MGNkU1BGZm5kaGNXbEtIZ0d2LVI4ZEROYWlLQmp3Q19Vc1QwOVo0c0pyZkxmVmhXOF9VR181dzltQmd2OFFSMk5sdTlVaDBjeVRzU0xreXlFNTN0VUhreE5OLUZDRHpvOWhBa2sxRVRnbHJHMUFhM1jSAdgBQVVfeXFMTjlxbUh5d2VSa1VpZ2c2aWo3Q3Q5MHFHSzQ0RGM4ZW52YnN5TTdlbUFoaWlDY1VpOEFEWXFJeXNPQXFPY3pweG45TGE0c2RoTVRJd2ZnemJXR0JOSU1GQV9kYk1XNkt2NDBjZFNQRmZuZGhjV2xLSGdHdi1SOGRETmFpS0Jqd0NfVXNUMDlaNHNKcmZMZlZoVzhfVUdfNXc5bUJndjhRUjJObHU5VWgwY3lUc1NMa3l5RTUzdFVIa3hOTi1GQ0R6bzloQWtrMUVUZ2xyRzFBYTNY?oc=5",
-        "published": "3 Apr 2026, 11:18 AM",
-        "iso_date": "2026-04-03T11:18:20+00:00",
+        "title": "Bahrain: 188 missiles, 453 drones intercepted, destroyed since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa0ZPM1Q0TzV4eU5LaEF1bThJSnhzYjhRTlM4UFVHOWRBUG9nOXJHeTgwWEVicWlGZjM4TWZ4NFRaZkg4QVZieFJZLS1SRjlobWg5M1NXM2RtV0lMRHFBYTlRRVNKWTRVZGl0VXFJVGVhdnNsWWFLb082TUkySmNiRXR6WTRqcnNOcU5JM2I5SWQwcGxfcnZYX0xDVEpqcFBLcURoLUQ2WTdqaUpsMHVvUEowNU9VUzFNRFdBeE1ob3FjdlZfQ3RmM25B?oc=5",
+        "published": "4 Apr 2026, 11:08 AM",
+        "iso_date": "2026-04-04T11:08:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,10 +216,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Netflix may have to reimburse Italian subscription increases",
-        "link": "https://www.newsofbahrain.com/world/129868.html",
+        "title": "Pentagon says 365 Service Members Wounded Since Start of Operation Epic Fury",
+        "link": "https://www.newsofbahrain.com/world/129872.html",
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LD9FHbBMKN_2026-04-04_1775302536resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Three peacekeepers wounded in Lebanon are Indonesian: UN",
+        "link": "https://www.newsofbahrain.com/world/129871.html",
+        "published": "4 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_moVq9SvgJY_2026-04-04_1775302124resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India-bound LPG tanker Green Salvi crosses Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/world/129870.html",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qLIQ8rVDET_2026-04-04_1775301637resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Netflix may have to reimburse Italian subscription increases",
+        "link": "https://www.newsofbahrain.com/world/129868.html",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Hejc9RzxmL_2026-04-04_1775300596resized_pic.jpg",
         "source": "newsofbahrain",
@@ -212,36 +262,6 @@
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QzTwPLgXKl_2026-04-04_1775299615resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Dozens killed in Nigeria jihadist attacks: residents, militias",
-        "link": "https://www.newsofbahrain.com/world/129866.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cKJmoxtl1H_2026-04-04_1775299587resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zendaya explains why she won’t address Tom Holland marriage speculation",
-        "link": "https://www.newsofbahrain.com/trends/129865.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NsKLv3tVu2_2026-04-04_1775299312resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pakistan announces free public transport as energy crisis bites",
-        "link": "https://www.newsofbahrain.com/world/129864.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KQ9gGiLu8T_2026-04-04_1775299172resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +312,6 @@
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_vZe6CmzBUJ_2026-04-04_1775287893thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "North Korea’s Kim pets puppies, kittens at Pyongyang pet shop",
-        "link": "https://www.newsofbahrain.com/world/129862.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AKOz627lum_2026-04-04_1775298765thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 11:09:46 UTC"
+  "fetched_at": "2026-04-04 11:41:24 UTC"
 }
