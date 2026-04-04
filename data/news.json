@@ -42,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Houthis join war by launching missiles at Israel",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3RNekZwYkkzbkdYM3N5anhVTlpkbGNaOG1WNkgyMVV6U1BnNzVsOVJBcHRZdlQtamV1SWU0VDhySzFsT1RIU1JfUjJFdzRpTmU3SFJueG9VZWtFN1Q4cTZLNFh2LXhkTXhoT0g1UDU0OFB3dnctTWtPOWFDTTJIeFNsNmRIUWhtZWpVc2RGaU5nQ3FFYlRmLVltbS1TUQ?oc=5",
-        "published": "4 Apr 2026, 09:38 AM",
-        "iso_date": "2026-04-04T09:38:59+00:00",
+        "title": "Race to save American from behind enemy lines after Iran downed two jets - as wounded toll hits 365",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ3lZYVhMbXc4aWVSWkZDSXB3Y1BlQWZ4RnZtR2dEOFo5UHdzV0VhOGdid0VmZXlEVWdLOFJnU251RWM2QzliSl9RQTZlRm50Y1ZVSTZnRi0xNFY0R2ktVFRhN0JyRTl5ajRkdXhwcnBDRU9RQkk0RUl6RTJCRjRsOGxpYnJRWVd1aDhqbC15MXptb1BHUktYTF8yOC1fMEw4eTcxTkhITG1jcFpJY3phcXJBWk5FMkxYTjdVbFAyd0FqR0tIN2c?oc=5",
+        "published": "4 Apr 2026, 12:56 AM",
+        "iso_date": "2026-04-04T00:56:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -94,6 +94,16 @@
         "category": "Latest"
       },
       {
+        "title": "HH Shaikh Nasser and Shaikh Khalid visit Marassi Galleria and interact with shoppers",
+        "link": "https://www.gdnonline.com/Details/1380444/HH-Shaikh-Nasser-and-Shaikh-Khalid-visit-Marassi-Galleria-and-interact-with-shoppers",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404183059websize_T.jpg?20260404",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Defence Force air defences intercept and destroy 8 drones in the last 24 hours",
         "link": "https://www.gdnonline.com/Details/1380432/Bahrain-Defence-Force-air-defences-intercept-and-destroy-8-drones-in-the-last-24-hours",
         "published": "4 Apr 2026",
@@ -120,16 +130,6 @@
         "iso_date": "2026-04-04T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260404/20260404071714cars1_T.jpg?20260404",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Call to give housewives pension and insurance",
-        "link": "https://www.gdnonline.com/Details/1380379/Call-to-give-housewives-pension-and-insurance",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260403/20260403224951websize_T.jpg?20260404",
         "source": "gdn",
         "category": "Latest"
       },
@@ -439,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 15:09:41 UTC"
+  "fetched_at": "2026-04-04 15:43:22 UTC"
 }
