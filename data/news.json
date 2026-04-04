@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 14
     }
   },
   "articles": {
@@ -34,8 +34,18 @@
       {
         "title": "Bahrain: 4 Injured, Homes Damaged After Iranian Drone Debris Falls",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uYklWLUV1eDRLbzBfa1NhcVZVaE1pZEhiT2dZVGFzQ1dVQm1lVy03WXNjdldOWDlCVzdxWHQtSzBFU3FLMmplZFozQnJDem42TWI3ek90SQ?oc=5",
-        "published": "3 Apr 2026, 10:41 PM",
-        "iso_date": "2026-04-03T22:41:53+00:00",
+        "published": "4 Apr 2026, 10:39 AM",
+        "iso_date": "2026-04-04T10:39:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts, destroys 188 missiles, 445 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXhGQ1Boa0praTlzRU1MMFRHS2oyVHA1aEhqOUpGVnlxYTYtUXZMWTZnTGd2dkY3VHZYM0swdTFuT2dLY0VELVZPcVRRdGlPenhmX2ZsRldnVFJxQnJ0VGZyclVNcHdaeG5EdzQ0dkRFOE9uWDJVUnQ2M1VURXo5TU9RaXhoN2NFZndEVFJRMklYY1pHOE5BU3ViUzRGSS1GRnpBeFlQQWpJb1NyRC02YWEySzgzSUJDeXZheC1CRVlGR3paV2NMX0VYaw?oc=5",
+        "published": "3 Apr 2026, 12:17 PM",
+        "iso_date": "2026-04-03T12:17:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -60,19 +70,19 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Countries with the most submarines",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUQ2VGk1TXI1TXVBU0ptV2xqdVFOSlJWakk0MGl3M3FHdFhMVTNZWmhzNVR1N3FJYkNXZHZtOXFFaklNeVV5ZlVfc2h6MmR6Qi1kQnEyM252eTZ2UUZZc3JyNi03WDFkYWdJQ2tSbEluV2ZEZk12MkFCOFc2R0MxcDN2ZGJ2eGxyMnRoRzJROGw5YU1ueS1JSTNzZVNLLXFPV3hFaVBDZFJqcWZlRmdZMTVkQ19GMnlqRl9mT1hnSGhwZGYtTVBSQkhOdTk?oc=5",
-        "published": "3 Apr 2026, 11:37 PM",
-        "iso_date": "2026-04-03T23:37:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "Bahrain Defence Force air defences intercept and destroy 8 drones in the last 24 hours",
+        "link": "https://www.gdnonline.com/Details/1380432/Bahrain-Defence-Force-air-defences-intercept-and-destroy-8-drones-in-the-last-24-hours",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404132103websize_T.jpg?20260404",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Chief of Police and Capital Governor inspect homes damaged by Iranian aggression in Sitra",
         "link": "https://www.gdnonline.com/Details/1380424/Chief-of-Police-and-Capital-Governor-inspect-homes-damaged-by-Iranian-aggression-in-Sitra",
@@ -110,16 +120,6 @@
         "iso_date": "2026-04-04T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260403/20260403230333websize(1)_T.jpg?20260404",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Modern revamp of historic Manama Suq right on track",
-        "link": "https://www.gdnonline.com/Details/1380381/Modern-revamp-of-historic-Manama-Suq-right-on-track",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260404/20260403_223156_3_T.jpg?20260404",
         "source": "gdn",
         "category": "Latest"
       },
@@ -186,52 +186,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Liverpool’s Alisson to miss Man City, PSG matches, says Slot",
-        "link": "https://www.newsofbahrain.com/sports/129857.html",
+        "title": "Zendaya explains why she won’t address Tom Holland marriage speculation",
+        "link": "https://www.newsofbahrain.com/trends/129865.html",
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WL5nyHSXpZ_2026-04-04_1775297309resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NsKLv3tVu2_2026-04-04_1775299312resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Kane ruled out of Bayern match with injury, says Kompany",
-        "link": "https://www.newsofbahrain.com/sports/129856.html",
+        "title": "Pakistan announces free public transport as energy crisis bites",
+        "link": "https://www.newsofbahrain.com/world/129864.html",
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_62OSqzes0h_2026-04-04_1775297115resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KQ9gGiLu8T_2026-04-04_1775299172resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UN Security Council delays vote on Hormuz shipping protection force",
-        "link": "https://www.newsofbahrain.com/world/129855.html",
+        "title": "UN delays Hormuz security vote",
+        "link": "https://www.newsofbahrain.com/world/129863.html",
         "published": "4 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-04T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8EekTubAn0_2026-04-04_1775296657resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_75f4svJ8AZ_2026-04-04_1775299159resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Muharraq Assert Title Credentials While Budaiya Slip",
-        "link": "https://www.newsofbahrain.com/sports/129854.html",
+        "title": "North Korea’s Kim pets puppies, kittens at Pyongyang pet shop",
+        "link": "https://www.newsofbahrain.com/world/129862.html",
         "published": "4 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-04T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z6XdfYCxiG_2026-04-04_1775296633resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AKOz627lum_2026-04-04_1775298765resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "France announces crisis loans for firms hit by fuel-price surge",
-        "link": "https://www.newsofbahrain.com/world/129853.html",
+        "title": "Cuba begins prisoner release after announcing more than 2,000 pardoned",
+        "link": "https://www.newsofbahrain.com/world/129861.html",
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AgnHUdDkOt_2026-04-04_1775296520resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fAimK06SG3_2026-04-04_1775298746resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,26 +282,6 @@
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_vZe6CmzBUJ_2026-04-04_1775287893thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "IAEA Warns After Strike Near Bushehr Nuclear Plant in Iran",
-        "link": "https://www.newsofbahrain.com/world/129852.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hyCBx2aDjX_2026-04-04_1775296102thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trio facing arson charges over UK Jewish ambulance attack",
-        "link": "https://www.newsofbahrain.com/world/129851.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DlOgpNvtBd_2026-04-04_1775295971thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 10:10:40 UTC"
+  "fetched_at": "2026-04-04 10:45:04 UTC"
 }
