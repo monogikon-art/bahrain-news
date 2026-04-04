@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 0
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTk5qcTNsT1BUVmN6ZVRaRGNUOTVKWjlLOGdnOTU0S1ItTW1iakVpNDZMSS1CSFIwRXN4VDJZY1RyMDhuZ2tweko0QWZIbTdmbUhmOVRWTGZ5WE9MaW1VaUF1bHJiSGNCV29hRE1wRFU1a081N3NqUFVwOG5iV0hUdmp3M0NlOTYtb0pCb0JDZHZnazk1dVktZmhRSVQ?oc=5",
         "published": "4 Apr 2026, 02:46 AM",
         "iso_date": "2026-04-04T02:46:02+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts, destroys 188 missiles, 445 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXhGQ1Boa0praTlzRU1MMFRHS2oyVHA1aEhqOUpGVnlxYTYtUXZMWTZnTGd2dkY3VHZYM0swdTFuT2dLY0VELVZPcVRRdGlPenhmX2ZsRldnVFJxQnJ0VGZyclVNcHdaeG5EdzQ0dkRFOE9uWDJVUnQ2M1VURXo5TU9RaXhoN2NFZndEVFJRMklYY1pHOE5BU3ViUzRGSS1GRnpBeFlQQWpJb1NyRC02YWEySzgzSUJDeXZheC1CRVlGR3paV2NMX0VYaw?oc=5",
+        "published": "3 Apr 2026, 12:17 PM",
+        "iso_date": "2026-04-03T12:17:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
-        "published": "3 Apr 2026, 09:50 AM",
-        "iso_date": "2026-04-03T09:50:03+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain intercepts missiles and drones amid Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TeHVuZnJLS25SQVBWYTdtZzVkakZTanE3b1pKamhJWGlsaURFTUxYNGVVWmxFMmZJYVVzUFdsRzBiM21vdzlwMWVDV3hnSlhrcE1qZVl2NDJKbWEy?oc=5",
         "published": "3 Apr 2026, 12:19 PM",
@@ -72,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Countries with the most submarines",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUQ2VGk1TXI1TXVBU0ptV2xqdVFOSlJWakk0MGl3M3FHdFhMVTNZWmhzNVR1N3FJYkNXZHZtOXFFaklNeVV5ZlVfc2h6MmR6Qi1kQnEyM252eTZ2UUZZc3JyNi03WDFkYWdJQ2tSbEluV2ZEZk12MkFCOFc2R0MxcDN2ZGJ2eGxyMnRoRzJROGw5YU1ueS1JSTNzZVNLLXFPV3hFaVBDZFJqcWZlRmdZMTVkQ19GMnlqRl9mT1hnSGhwZGYtTVBSQkhOdTk?oc=5",
-        "published": "3 Apr 2026, 11:37 PM",
-        "iso_date": "2026-04-03T23:37:07+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "3 Apr 2026, 09:50 AM",
+        "iso_date": "2026-04-03T09:50:03+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -194,138 +194,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Indian Government Dismisses Reports of Iranian Oil Diversion and Payment Issues",
-        "link": "https://www.newsofbahrain.com/world/129847.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rdOb7s3CQu_2026-04-04_1775293562resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump signs executive order aimed at regulating college sports",
-        "link": "https://www.newsofbahrain.com/world/129846.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GXDMNZOwYx_2026-04-04_1775293228resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US registers strong job growth in boost to Trump",
-        "link": "https://www.newsofbahrain.com/business/129844.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JTBs5DYIWR_2026-04-04_1775291030resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "One dead, 47 injured after 'incident' at Peru football derby: minister",
-        "link": "https://www.newsofbahrain.com/world/129843.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i4n5PYJQyM_2026-04-04_1775290741resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zain’s 2026 brand valuation increases 16% to reach a record high of USD 4 billion",
-        "link": "https://www.newsofbahrain.com/business/129842.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o3zOPagBWG_2026-04-04_1775290289resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Europe’s First Post-Conflict Gulf Visit",
-        "link": "https://www.newsofbahrain.com/bahrain/129841.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oijOkMuvaR_2026-04-04_1775289675thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "40+ nations meet to address rising maritime tensions in Hormuz",
-        "link": "https://www.newsofbahrain.com/bahrain/129840.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_E0uq3psLRV_2026-04-04_1775289448thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "What’s Next on Parliament’s Agenda?",
-        "link": "https://www.newsofbahrain.com/bahrain/129837.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9BjAELytNK_2026-04-04_1775288291thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC, Jordan Envoys Hold Talks with Turkish Parliament Speaker",
-        "link": "https://www.newsofbahrain.com/bahrain/129836.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c3jeqLdOpw_2026-04-04_1775288009thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC Ambassadors Discuss Hormuz Risks with China",
-        "link": "https://www.newsofbahrain.com/bahrain/129835.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vZe6CmzBUJ_2026-04-04_1775287893thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Searches for Missing Airman After Jet Downed Over Iran",
-        "link": "https://www.newsofbahrain.com/world/129839.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uVtlLbnFGT_2026-04-04_1775289412thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Indian Ambassador to Bahrain Visits Unique Power Switchgears (UPS) W.L.L",
-        "link": "https://www.newsofbahrain.com/business/129828.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0HQCwIuTdG_2026-04-04_1775286896thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Telegram Rolls Out AI Editor and Bot-Creation Upgrade",
-        "link": "https://www.newsofbahrain.com/business/129804.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rCqDI1avUo_2026-04-03_1775210108thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -439,5 +308,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 09:14:38 UTC"
+  "fetched_at": "2026-04-04 09:45:50 UTC"
 }
