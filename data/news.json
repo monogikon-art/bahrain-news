@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 11
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -42,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
-        "published": "4 Apr 2026, 04:33 PM",
-        "iso_date": "2026-04-04T16:33:36+00:00",
+        "title": "US Isreal Iran War Latest Update: Iranian Drones Intercepted in Bahrain’s Sitra; Four Civilians Hurt, Homes Damaged",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbGlUSDJZR0kwWnIyMGFwSU44YWNlWjEwRU4wSzJZVWFpVTZQamV6OENBeVRYbzQyZ194c3poVDFCV21VRDdONkh2RmU4b2l5eDlZNGxnSHRTM2NhaTJGMWk4c2ZpbGY3RGdfOU5ZUzRqcWtBb2VQUi1TeDFabll4VjQ1R3lXbEN3UDlPdm84d19xeFZ2RzFKRWJTRndHYzlSV1Q0NUhyVzlhNDhqbWxnMVA5dGxaekdRUVRSN1Q5a0psUld2WlRCMS1BQVBwS3JYZGNxSHBTUDhhcy1teXVSN3Jsazh5ZWpLZHgzYg?oc=5",
+        "published": "4 Apr 2026, 04:17 AM",
+        "iso_date": "2026-04-04T04:17:42+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -70,56 +70,86 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Countries with the most submarines",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUQ2VGk1TXI1TXVBU0ptV2xqdVFOSlJWakk0MGl3M3FHdFhMVTNZWmhzNVR1N3FJYkNXZHZtOXFFaklNeVV5ZlVfc2h6MmR6Qi1kQnEyM252eTZ2UUZZc3JyNi03WDFkYWdJQ2tSbEluV2ZEZk12MkFCOFc2R0MxcDN2ZGJ2eGxyMnRoRzJROGw5YU1ueS1JSTNzZVNLLXFPV3hFaVBDZFJqcWZlRmdZMTVkQ19GMnlqRl9mT1hnSGhwZGYtTVBSQkhOdTk?oc=5",
+        "published": "3 Apr 2026, 11:37 PM",
+        "iso_date": "2026-04-03T23:37:07+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "Several homes damaged in Sitra by debris following Iranian drone attack",
-        "link": "https://www.gdnonline.com/Details/1380437/Several-homes-damaged-in-Sitra-by-debris-following-Iranian-drone-attack",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
+        "title": "Rude passengerâs sentence cut in assault case",
+        "link": "https://www.gdnonline.com/Details/1380460/Rude-passengerâs-sentence-cut-in-assault-case",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404162346ytjyju_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404225905websize(3)_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "HH Shaikh Nasser and Shaikh Khalid visit Marassi Galleria and interact with shoppers",
-        "link": "https://www.gdnonline.com/Details/1380444/HH-Shaikh-Nasser-and-Shaikh-Khalid-visit-Marassi-Galleria-and-interact-with-shoppers",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
+        "title": "Joyalukkas honours long-serving employees",
+        "link": "https://www.gdnonline.com/Details/1380463/Joyalukkas-honours-long-serving-employees",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404183059websize_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260404_223743_0_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defence Force air defences intercept and destroy 8 drones in the last 24 hours",
-        "link": "https://www.gdnonline.com/Details/1380432/Bahrain-Defence-Force-air-defences-intercept-and-destroy-8-drones-in-the-last-24-hours",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
+        "title": "SMC success in containing spread of dangerous fungus",
+        "link": "https://www.gdnonline.com/Details/1380462/SMC-success-in-containing-spread-of-dangerous-fungus",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404132103websize_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260404_223742_1_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Chief of Police and Capital Governor inspect homes damaged by Iranian aggression in Sitra",
-        "link": "https://www.gdnonline.com/Details/1380424/Chief-of-Police-and-Capital-Governor-inspect-homes-damaged-by-Iranian-aggression-in-Sitra",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
+        "title": "A five-year photo tradition",
+        "link": "https://www.gdnonline.com/Details/1380461/A-five-year-photo-tradition",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404033041sitra_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260404_223712_0.jpeg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Drivers held over violations",
-        "link": "https://www.gdnonline.com/Details/1380426/Drivers-held-over-violations",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
+        "title": "Resilience and hope bloom through affected buildings",
+        "link": "https://www.gdnonline.com/Details/1380453/Resilience-and-hope-bloom-through-affected-buildings",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404071714cars1_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260404_223643_1_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ebdaa Microfinance appoints new acting CEO",
+        "link": "https://www.gdnonline.com/Details/1380468/Ebdaa-Microfinance-appoints-new-acting-CEO",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260404_223753_1_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Hunting for gold as sales chain broken",
+        "link": "https://www.gdnonline.com/Details/1380464/Hunting-for-gold-as-sales-chain-broken",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260404_223744_0_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
@@ -130,6 +160,16 @@
         "iso_date": "2026-04-04T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260404/20260404_003808_1.jpeg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Southampton's Charles nets late winner to stun Arsenal 2-1 in FA Cup",
+        "link": "https://www.gdnonline.com/Details/1380480/Southamptons-Charles-nets-late-winner-to-stun-Arsenal-2-1-in-FA-Cup",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405011714dazuqspamnpqjnyxqjqmwj6eky_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
@@ -170,16 +210,6 @@
         "iso_date": "2026-04-03T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260403/20260403_021723_2_T.jpg?20260405",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Spirited Aâali seal heard-earned win",
-        "link": "https://www.gdnonline.com/Details/1380339/Spirited-Aâali-seal-heard-earned-win",
-        "published": "3 Apr 2026",
-        "iso_date": "2026-04-03T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260403/20260403_012502_0.png?20260405",
         "source": "gdn",
         "category": "Latest"
       }
@@ -429,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 22:07:10 UTC"
+  "fetched_at": "2026-04-04 22:43:24 UTC"
 }
