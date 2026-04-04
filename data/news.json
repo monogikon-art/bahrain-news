@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 0
     }
   },
   "articles": {
@@ -194,138 +194,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Royal Humanitarian Foundation Issues Its Annual Report for 2025",
-        "link": "https://www.newsofbahrain.com/bahrain/129881.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8gi1rtEnXK_2026-04-04_1775309656resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump asks for $152 million to rebuild Alcatraz and reopen it as a prison",
-        "link": "https://www.newsofbahrain.com/world/129880.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0eGJbmXBZw_2026-04-04_1775307474resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Amir, Italy PM Discuss Middle East Crisis",
-        "link": "https://www.newsofbahrain.com/world/129879.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_USt1K6hWQn_2026-04-04_1775305786resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US President Donald Trump says shooting down of US jets will not impact Iran talks",
-        "link": "https://www.newsofbahrain.com/world/129878.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Xh417izRTg_2026-04-04_1775305178resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Passengers stranded in moving traffic after robotaxi outage in China's Wuhan",
-        "link": "https://www.newsofbahrain.com/world/129877.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sF13AtKYiu_2026-04-04_1775304298resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Europe’s First Post-Conflict Gulf Visit",
-        "link": "https://www.newsofbahrain.com/bahrain/129841.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oijOkMuvaR_2026-04-04_1775289675thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "40+ nations meet to address rising maritime tensions in Hormuz",
-        "link": "https://www.newsofbahrain.com/bahrain/129840.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_E0uq3psLRV_2026-04-04_1775289448thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "What’s Next on Parliament’s Agenda?",
-        "link": "https://www.newsofbahrain.com/bahrain/129837.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9BjAELytNK_2026-04-04_1775288291thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC, Jordan Envoys Hold Talks with Turkish Parliament Speaker",
-        "link": "https://www.newsofbahrain.com/bahrain/129836.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c3jeqLdOpw_2026-04-04_1775288009thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US registers strong job growth in boost to Trump",
-        "link": "https://www.newsofbahrain.com/business/129844.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JTBs5DYIWR_2026-04-04_1775291030thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zain’s 2026 brand valuation increases 16% to reach a record high of USD 4 billion",
-        "link": "https://www.newsofbahrain.com/business/129842.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o3zOPagBWG_2026-04-04_1775290289thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Indian Ambassador to Bahrain Visits Unique Power Switchgears (UPS) W.L.L",
-        "link": "https://www.newsofbahrain.com/business/129828.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0HQCwIuTdG_2026-04-04_1775286896thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Telegram Rolls Out AI Editor and Bot-Creation Upgrade",
-        "link": "https://www.newsofbahrain.com/business/129804.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rCqDI1avUo_2026-04-03_1775210108thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -439,5 +308,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 17:10:10 UTC"
+  "fetched_at": "2026-04-04 17:43:24 UTC"
 }
