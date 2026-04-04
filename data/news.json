@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -52,6 +52,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain intercepts missiles and drones amid Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TeHVuZnJLS25SQVBWYTdtZzVkakZTanE3b1pKamhJWGlsaURFTUxYNGVVWmxFMmZJYVVzUFdsRzBiM21vdzlwMWVDV3hnSlhrcE1qZVl2NDJKbWEy?oc=5",
+        "published": "3 Apr 2026, 12:19 PM",
+        "iso_date": "2026-04-03T12:19:17+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain intercepts 188 missiles, 445 drones since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOXFtSHl3ZVJrVWlnZzZpajdDdDkwcUdLNDREYzhlbnZic3lNN2VtQWhpaUNjVWk4QURZcUl5c09BcU9jenB4bjlMYTRzZGhNVEl3Zmd6YldHQk5JTUZBX2RiTVc2S3Y0MGNkU1BGZm5kaGNXbEtIZ0d2LVI4ZEROYWlLQmp3Q19Vc1QwOVo0c0pyZkxmVmhXOF9VR181dzltQmd2OFFSMk5sdTlVaDBjeVRzU0xreXlFNTN0VUhreE5OLUZDRHpvOWhBa2sxRVRnbHJHMUFhM1jSAdgBQVVfeXFMTjlxbUh5d2VSa1VpZ2c2aWo3Q3Q5MHFHSzQ0RGM4ZW52YnN5TTdlbUFoaWlDY1VpOEFEWXFJeXNPQXFPY3pweG45TGE0c2RoTVRJd2ZnemJXR0JOSU1GQV9kYk1XNkt2NDBjZFNQRmZuZGhjV2xLSGdHdi1SOGRETmFpS0Jqd0NfVXNUMDlaNHNKcmZMZlZoVzhfVUdfNXc5bUJndjhRUjJObHU5VWgwY3lUc1NMa3l5RTUzdFVIa3hOTi1GQ0R6bzloQWtrMUVUZ2xyRzFBYTNY?oc=5",
         "published": "3 Apr 2026, 11:18 AM",
@@ -62,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts missiles and drones amid Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TeHVuZnJLS25SQVBWYTdtZzVkakZTanE3b1pKamhJWGlsaURFTUxYNGVVWmxFMmZJYVVzUFdsRzBiM21vdzlwMWVDV3hnSlhrcE1qZVl2NDJKbWEy?oc=5",
-        "published": "3 Apr 2026, 12:19 PM",
-        "iso_date": "2026-04-03T12:19:17+00:00",
+        "title": "Countries with the most submarines",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUQ2VGk1TXI1TXVBU0ptV2xqdVFOSlJWakk0MGl3M3FHdFhMVTNZWmhzNVR1N3FJYkNXZHZtOXFFaklNeVV5ZlVfc2h6MmR6Qi1kQnEyM252eTZ2UUZZc3JyNi03WDFkYWdJQ2tSbEluV2ZEZk12MkFCOFc2R0MxcDN2ZGJ2eGxyMnRoRzJROGw5YU1ueS1JSTNzZVNLLXFPV3hFaVBDZFJqcWZlRmdZMTVkQ19GMnlqRl9mT1hnSGhwZGYtTVBSQkhOdTk?oc=5",
+        "published": "3 Apr 2026, 11:37 PM",
+        "iso_date": "2026-04-03T23:37:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -186,10 +196,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Zendaya explains why she won’t address Tom Holland marriage speculation",
-        "link": "https://www.newsofbahrain.com/trends/129865.html",
+        "title": "Netflix may have to reimburse Italian subscription increases",
+        "link": "https://www.newsofbahrain.com/world/129868.html",
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Hejc9RzxmL_2026-04-04_1775300596resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Amanda Peet slams ‘ridiculous’ Hollywood",
+        "link": "https://www.newsofbahrain.com/trends/129867.html",
+        "published": "4 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QzTwPLgXKl_2026-04-04_1775299615resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dozens killed in Nigeria jihadist attacks: residents, militias",
+        "link": "https://www.newsofbahrain.com/world/129866.html",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cKJmoxtl1H_2026-04-04_1775299587resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Zendaya explains why she won’t address Tom Holland marriage speculation",
+        "link": "https://www.newsofbahrain.com/trends/129865.html",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NsKLv3tVu2_2026-04-04_1775299312resized_pic.jpg",
         "source": "newsofbahrain",
@@ -202,36 +242,6 @@
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_KQ9gGiLu8T_2026-04-04_1775299172resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN delays Hormuz security vote",
-        "link": "https://www.newsofbahrain.com/world/129863.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_75f4svJ8AZ_2026-04-04_1775299159resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "North Korea’s Kim pets puppies, kittens at Pyongyang pet shop",
-        "link": "https://www.newsofbahrain.com/world/129862.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AKOz627lum_2026-04-04_1775298765resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Cuba begins prisoner release after announcing more than 2,000 pardoned",
-        "link": "https://www.newsofbahrain.com/world/129861.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fAimK06SG3_2026-04-04_1775298746resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,6 +292,16 @@
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_vZe6CmzBUJ_2026-04-04_1775287893thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "North Korea’s Kim pets puppies, kittens at Pyongyang pet shop",
+        "link": "https://www.newsofbahrain.com/world/129862.html",
+        "published": "4 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AKOz627lum_2026-04-04_1775298765thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 10:45:04 UTC"
+  "fetched_at": "2026-04-04 11:09:46 UTC"
 }
