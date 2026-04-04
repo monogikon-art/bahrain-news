@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 11
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -42,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Houthis join war by launching missiles at Israel",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3RNekZwYkkzbkdYM3N5anhVTlpkbGNaOG1WNkgyMVV6U1BnNzVsOVJBcHRZdlQtamV1SWU0VDhySzFsT1RIU1JfUjJFdzRpTmU3SFJueG9VZWtFN1Q4cTZLNFh2LXhkTXhoT0g1UDU0OFB3dnctTWtPOWFDTTJIeFNsNmRIUWhtZWpVc2RGaU5nQ3FFYlRmLVltbS1TUQ?oc=5",
-        "published": "4 Apr 2026, 09:38 AM",
-        "iso_date": "2026-04-04T09:38:59+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
+        "published": "4 Apr 2026, 04:33 PM",
+        "iso_date": "2026-04-04T16:33:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -70,19 +70,120 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      }
+    ],
+    "gdn": [
+      {
+        "title": "Several homes damaged in Sitra by debris following Iranian drone attack",
+        "link": "https://www.gdnonline.com/Details/1380437/Several-homes-damaged-in-Sitra-by-debris-following-Iranian-drone-attack",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404162346ytjyju_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
       },
       {
-        "title": "Countries with the most submarines",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUQ2VGk1TXI1TXVBU0ptV2xqdVFOSlJWakk0MGl3M3FHdFhMVTNZWmhzNVR1N3FJYkNXZHZtOXFFaklNeVV5ZlVfc2h6MmR6Qi1kQnEyM252eTZ2UUZZc3JyNi03WDFkYWdJQ2tSbEluV2ZEZk12MkFCOFc2R0MxcDN2ZGJ2eGxyMnRoRzJROGw5YU1ueS1JSTNzZVNLLXFPV3hFaVBDZFJqcWZlRmdZMTVkQ19GMnlqRl9mT1hnSGhwZGYtTVBSQkhOdTk?oc=5",
-        "published": "3 Apr 2026, 11:37 PM",
-        "iso_date": "2026-04-03T23:37:07+00:00",
+        "title": "HH Shaikh Nasser and Shaikh Khalid visit Marassi Galleria and interact with shoppers",
+        "link": "https://www.gdnonline.com/Details/1380444/HH-Shaikh-Nasser-and-Shaikh-Khalid-visit-Marassi-Galleria-and-interact-with-shoppers",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
         "summary": "",
-        "image": "",
-        "source": "bna",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404183059websize_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Defence Force air defences intercept and destroy 8 drones in the last 24 hours",
+        "link": "https://www.gdnonline.com/Details/1380432/Bahrain-Defence-Force-air-defences-intercept-and-destroy-8-drones-in-the-last-24-hours",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404132103websize_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Chief of Police and Capital Governor inspect homes damaged by Iranian aggression in Sitra",
+        "link": "https://www.gdnonline.com/Details/1380424/Chief-of-Police-and-Capital-Governor-inspect-homes-damaged-by-Iranian-aggression-in-Sitra",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404033041sitra_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Drivers held over violations",
+        "link": "https://www.gdnonline.com/Details/1380426/Drivers-held-over-violations",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404071714cars1_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Banking sector urged to back food stability plans",
+        "link": "https://www.gdnonline.com/Details/1380398/Banking-sector-urged-to-back-food-stability-plans",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404_003808_1.jpeg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq outclass Sitra 3-0",
+        "link": "https://www.gdnonline.com/Details/1380404/Muharraq-outclass-Sitra-3-0",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404010056footy_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Italy coach resigns after World Cup flop",
+        "link": "https://www.gdnonline.com/Details/1380409/Italy-coach-resigns-after-World-Cup-flop",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404_011130_3_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ronaldo scores twice in Al Nassrâs dominant win",
+        "link": "https://www.gdnonline.com/Details/1380405/Ronaldo-scores-twice-in-Al-Nassrâs-dominant-win",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404_005448_0_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Lewandowski hints at international retirement",
+        "link": "https://www.gdnonline.com/Details/1380352/Lewandowski-hints-at-international-retirement",
+        "published": "3 Apr 2026",
+        "iso_date": "2026-04-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260403/20260403_021723_2_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Spirited Aâali seal heard-earned win",
+        "link": "https://www.gdnonline.com/Details/1380339/Spirited-Aâali-seal-heard-earned-win",
+        "published": "3 Apr 2026",
+        "iso_date": "2026-04-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260403/20260403_012502_0.png?20260405",
+        "source": "gdn",
         "category": "Latest"
       }
     ],
-    "gdn": [],
     "newsofbahrain": [
       {
         "title": "Explosion Hits Pro-Israel Centre in Netherlands; No Injuries Reported",
@@ -328,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 21:43:16 UTC"
+  "fetched_at": "2026-04-04 22:07:10 UTC"
 }
