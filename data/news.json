@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uYklWLUV1eDRLbzBfa1NhcVZVaE1pZEhiT2dZVGFzQ1dVQm1lVy03WXNjdldOWDlCVzdxWHQtSzBFU3FLMmplZFozQnJDem42TWI3ek90SQ?oc=5",
         "published": "4 Apr 2026, 10:39 AM",
         "iso_date": "2026-04-04T10:39:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Houthis join war by launching missiles at Israel",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3RNekZwYkkzbkdYM3N5anhVTlpkbGNaOG1WNkgyMVV6U1BnNzVsOVJBcHRZdlQtamV1SWU0VDhySzFsT1RIU1JfUjJFdzRpTmU3SFJueG9VZWtFN1Q4cTZLNFh2LXhkTXhoT0g1UDU0OFB3dnctTWtPOWFDTTJIeFNsNmRIUWhtZWpVc2RGaU5nQ3FFYlRmLVltbS1TUQ?oc=5",
+        "published": "4 Apr 2026, 09:38 AM",
+        "iso_date": "2026-04-04T09:38:59+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -63,6 +73,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Several homes damaged in Sitra by debris following Iranian drone attack",
+        "link": "https://www.gdnonline.com/Details/1380437/Several-homes-damaged-in-Sitra-by-debris-following-Iranian-drone-attack",
+        "published": "4 Apr 2026",
+        "iso_date": "2026-04-04T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404162346ytjyju_T.jpg?20260404",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain Defence Force air defences intercept and destroy 8 drones in the last 24 hours",
         "link": "https://www.gdnonline.com/Details/1380432/Bahrain-Defence-Force-air-defences-intercept-and-destroy-8-drones-in-the-last-24-hours",
@@ -100,16 +120,6 @@
         "iso_date": "2026-04-04T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260403/20260403224951websize_T.jpg?20260404",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Royal addressâ positive impact on women is commended",
-        "link": "https://www.gdnonline.com/Details/1380380/Royal-addressâ-positive-impact-on-women-is-commended",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260403/20260403230333websize(1)_T.jpg?20260404",
         "source": "gdn",
         "category": "Latest"
       },
@@ -176,6 +186,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Royal Humanitarian Foundation Issues Its Annual Report for 2025",
+        "link": "https://www.newsofbahrain.com/bahrain/129881.html",
+        "published": "4 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8gi1rtEnXK_2026-04-04_1775309656resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Trump asks for $152 million to rebuild Alcatraz and reopen it as a prison",
         "link": "https://www.newsofbahrain.com/world/129880.html",
         "published": "4 Apr 2026, 09:22 AM",
@@ -188,8 +208,8 @@
       {
         "title": "Qatar Amir, Italy PM Discuss Middle East Crisis",
         "link": "https://www.newsofbahrain.com/world/129879.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_USt1K6hWQn_2026-04-04_1775305786resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,20 +228,10 @@
       {
         "title": "Passengers stranded in moving traffic after robotaxi outage in China's Wuhan",
         "link": "https://www.newsofbahrain.com/world/129877.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sF13AtKYiu_2026-04-04_1775304298resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Beneath Trump’s White House Ballroom is a Secret Military Complex",
-        "link": "https://www.newsofbahrain.com/world/129876.html",
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J5IM2aFoeT_2026-04-04_1775303895resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sF13AtKYiu_2026-04-04_1775304298resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -262,16 +272,6 @@
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_c3jeqLdOpw_2026-04-04_1775288009thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC Ambassadors Discuss Hormuz Risks with China",
-        "link": "https://www.newsofbahrain.com/bahrain/129835.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vZe6CmzBUJ_2026-04-04_1775287893thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 13:24:41 UTC"
+  "fetched_at": "2026-04-04 13:47:48 UTC"
 }
