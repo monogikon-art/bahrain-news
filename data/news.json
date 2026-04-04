@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 11
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -52,6 +52,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain intercepts missiles and drones amid Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TeHVuZnJLS25SQVBWYTdtZzVkakZTanE3b1pKamhJWGlsaURFTUxYNGVVWmxFMmZJYVVzUFdsRzBiM21vdzlwMWVDV3hnSlhrcE1qZVl2NDJKbWEy?oc=5",
+        "published": "3 Apr 2026, 12:19 PM",
+        "iso_date": "2026-04-03T12:19:17+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian attack on Bahrain's Alba facility confirmed, 2 injured",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHZjY1A0UUxpU0dscjNWZkd1RTBmYlIxaS05Yk9sakdmU0M1MlQ3VGFKVmFwaEdYdlNqZTVhcXQ2QnYzWmpxU2NFVzRlalVuNTVVNDBZTmdPMmhTS0Q4bTlMQm9HM0V6aDNLMmF2dGVmTjZNMlNtTGFqWVhOSmphQ3ROdklNZnJRMGdzbC16VzlUTk51QkZiYllUS3ZXOFN1ZVFMMEQ2SnlzR2N6eWc?oc=5",
         "published": "3 Apr 2026, 08:44 AM",
@@ -66,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
         "published": "3 Apr 2026, 08:51 AM",
         "iso_date": "2026-04-03T08:51:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts, destroys 188 missiles, 445 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamQwcVdya2k2cEdtNU1zWWpfOHhXSEpyS3BpTEl4VDhmWWF3WGZwaVpxQUw4MnZPU0FEdURRU0tocWxEZVJEV0NnRGFCOG9zTHV4bjNhSjVkUzRDdXJmdktsLW5PTC1PdHVKaG8ycjJITGdVX25UaERNS19OVUFxS25PM3RBcFNCNHFtY2s3U25sYkVsOEQ5aGk0eWVqSHpPNjk2R3VNM295NjU1cVVJcXBXZElfZGVvckdhQXI3MmR0eldISVRF?oc=5",
-        "published": "3 Apr 2026, 11:02 AM",
-        "iso_date": "2026-04-03T11:02:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -150,46 +150,6 @@
         "iso_date": "2026-04-04T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260404/20260404_003808_1.jpeg?20260404",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Bourse navigates volatile month amid regional headwinds",
-        "link": "https://www.gdnonline.com/Details/1380201/Bahrain-Bourse-navigates-volatile-month-amid-regional-headwinds",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402022814bahrainbourse_T.jpg?20260404",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Khaleeji Bank appoints new acting CEO",
-        "link": "https://www.gdnonline.com/Details/1380200/Khaleeji-Bank-appoints-new-acting-CEO",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020823_0_T.jpg?20260404",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "KFH-Bahrain named âBest Private Bankâ by Euromoney",
-        "link": "https://www.gdnonline.com/Details/1380204/KFH-Bahrain-named-âBest-Private-Bankâ-by-Euromoney",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402_020825_1_T.jpg?20260404",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "GFH announces rebrand",
-        "link": "https://www.gdnonline.com/Details/1380205/GFH-announces-rebrand",
-        "published": "2 Apr 2026",
-        "iso_date": "2026-04-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260402/20260402024337mralrayes_T.jpg?20260404",
         "source": "gdn",
         "category": "Latest"
       },
@@ -489,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-03 23:44:08 UTC"
+  "fetched_at": "2026-04-04 00:25:34 UTC"
 }
