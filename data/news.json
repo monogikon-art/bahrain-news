@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,40 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 188 missiles, 445 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXhGQ1Boa0praTlzRU1MMFRHS2oyVHA1aEhqOUpGVnlxYTYtUXZMWTZnTGd2dkY3VHZYM0swdTFuT2dLY0VELVZPcVRRdGlPenhmX2ZsRldnVFJxQnJ0VGZyclVNcHdaeG5EdzQ0dkRFOE9uWDJVUnQ2M1VURXo5TU9RaXhoN2NFZndEVFJRMklYY1pHOE5BU3ViUzRGSS1GRnpBeFlQQWpJb1NyRC02YWEySzgzSUJDeXZheC1CRVlGR3paV2NMX0VYaw?oc=5",
-        "published": "3 Apr 2026, 12:17 PM",
-        "iso_date": "2026-04-03T12:17:38+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "US Isreal Iran War Latest Update: Iranian Drones Intercepted in Bahrain’s Sitra; Four Civilians Hurt, Homes Damaged",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbGlUSDJZR0kwWnIyMGFwSU44YWNlWjEwRU4wSzJZVWFpVTZQamV6OENBeVRYbzQyZ194c3poVDFCV21VRDdONkh2RmU4b2l5eDlZNGxnSHRTM2NhaTJGMWk4c2ZpbGY3RGdfOU5ZUzRqcWtBb2VQUi1TeDFabll4VjQ1R3lXbEN3UDlPdm84d19xeFZ2RzFKRWJTRndHYzlSV1Q0NUhyVzlhNDhqbWxnMVA5dGxaekdRUVRSN1Q5a0psUld2WlRCMS1BQVBwS3JYZGNxSHBTUDhhcy1teXVSN3Jsazh5ZWpLZHgzYg?oc=5",
         "published": "4 Apr 2026, 04:17 AM",
         "iso_date": "2026-04-04T04:17:42+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Israel says it has struck over 3,500 targets in Lebanon in past month",
-        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWUN4ZHctM3Z4VlFxdS1QVVB3OHpEbUFDdDdsbDc4THlwUENGeTJmNzFnOGVxd2Z0bWpQTlhLc2pqbkNad0lmYlhNS0ZESjNBS1o0aWFVekE5eHBsTG1OU2lFcTRncFBoMFNnLVlDQW5tY3FLVW5HV3JwWTBlS3JzazJEd2lTT0c5cjhYWDkyTWxmUTQ0NGNZZDVZSjEyMVc1R1lwOTBLNFNPekFseE1FYmExNUg1NFNPWTRjVW9mbHNXU1Y2WmpoMExTQnh1T0djMml5ZjVXOGZDVlBaQWZkeHRTLU0yQkJkdWZBUVduZEpKc1pqZjZGNW5Oa1A1VnMtY3FTbndtd3c5TmtzWXN2VkNGRVhfSkhhaThvRW96ZjJZQ2hIYVRpOHQwWEhScEdzUGVmNENvT1M0eUhIQVRpdTRiY0lBNDJRcGRSN05xZVQ?oc=5",
-        "published": "3 Apr 2026, 01:08 PM",
-        "iso_date": "2026-04-03T13:08:05+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts missiles and drones amid Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TeHVuZnJLS25SQVBWYTdtZzVkakZTanE3b1pKamhJWGlsaURFTUxYNGVVWmxFMmZJYVVzUFdsRzBiM21vdzlwMWVDV3hnSlhrcE1qZVl2NDJKbWEy?oc=5",
-        "published": "3 Apr 2026, 12:19 PM",
-        "iso_date": "2026-04-03T12:19:17+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +186,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Passengers stranded in moving traffic after robotaxi outage in China's Wuhan",
-        "link": "https://www.newsofbahrain.com/world/129877.html",
+        "title": "Qatar Amir, Italy PM Discuss Middle East Crisis",
+        "link": "https://www.newsofbahrain.com/world/129879.html",
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_USt1K6hWQn_2026-04-04_1775305786resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US President Donald Trump says shooting down of US jets will not impact Iran talks",
+        "link": "https://www.newsofbahrain.com/world/129878.html",
+        "published": "4 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Xh417izRTg_2026-04-04_1775305178resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Passengers stranded in moving traffic after robotaxi outage in China's Wuhan",
+        "link": "https://www.newsofbahrain.com/world/129877.html",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_sF13AtKYiu_2026-04-04_1775304298resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +218,8 @@
       {
         "title": "Beneath Trump’s White House Ballroom is a Secret Military Complex",
         "link": "https://www.newsofbahrain.com/world/129876.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_J5IM2aFoeT_2026-04-04_1775303895resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,30 +228,10 @@
       {
         "title": "UK set to approve new gasfield in North Sea amid fuel shortage concerns",
         "link": "https://www.newsofbahrain.com/world/129874.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WS8HwqRgzM_2026-04-04_1775303732resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "French, Japanese ships cross Hormuz for first time since war",
-        "link": "https://www.newsofbahrain.com/world/129873.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VYD8Ljw073_2026-04-04_1775303159resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pentagon says 365 Service Members Wounded Since Start of Operation Epic Fury",
-        "link": "https://www.newsofbahrain.com/world/129872.html",
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LD9FHbBMKN_2026-04-04_1775302536resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WS8HwqRgzM_2026-04-04_1775303732resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 12:11:37 UTC"
+  "fetched_at": "2026-04-04 12:47:09 UTC"
 }
