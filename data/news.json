@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,16 +42,6 @@
         "category": "Latest"
       },
       {
-        "title": "Houthis join war by launching missiles at Israel",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3RNekZwYkkzbkdYM3N5anhVTlpkbGNaOG1WNkgyMVV6U1BnNzVsOVJBcHRZdlQtamV1SWU0VDhySzFsT1RIU1JfUjJFdzRpTmU3SFJueG9VZWtFN1Q4cTZLNFh2LXhkTXhoT0g1UDU0OFB3dnctTWtPOWFDTTJIeFNsNmRIUWhtZWpVc2RGaU5nQ3FFYlRmLVltbS1TUQ?oc=5",
-        "published": "4 Apr 2026, 09:38 AM",
-        "iso_date": "2026-04-04T09:38:59+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "US Isreal Iran War Latest Update: Iranian Drones Intercepted in Bahrain’s Sitra; Four Civilians Hurt, Homes Damaged",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbGlUSDJZR0kwWnIyMGFwSU44YWNlWjEwRU4wSzJZVWFpVTZQamV6OENBeVRYbzQyZ194c3poVDFCV21VRDdONkh2RmU4b2l5eDlZNGxnSHRTM2NhaTJGMWk4c2ZpbGY3RGdfOU5ZUzRqcWtBb2VQUi1TeDFabll4VjQ1R3lXbEN3UDlPdm84d19xeFZ2RzFKRWJTRndHYzlSV1Q0NUhyVzlhNDhqbWxnMVA5dGxaekdRUVRSN1Q5a0psUld2WlRCMS1BQVBwS3JYZGNxSHBTUDhhcy1teXVSN3Jsazh5ZWpLZHgzYg?oc=5",
         "published": "4 Apr 2026, 04:17 AM",
@@ -73,9 +63,9 @@
       },
       {
         "title": "Countries with the most submarines",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUQ2VGk1TXI1TXVBU0ptV2xqdVFOSlJWakk0MGl3M3FHdFhMVTNZWmhzNVR1N3FJYkNXZHZtOXFFaklNeVV5ZlVfc2h6MmR6Qi1kQnEyM252eTZ2UUZZc3JyNi03WDFkYWdJQ2tSbEluV2ZEZk12MkFCOFc2R0MxcDN2ZGJ2eGxyMnRoRzJROGw5YU1ueS1JSTNzZVNLLXFPV3hFaVBDZFJqcWZlRmdZMTVkQ19GMnlqRl9mT1hnSGhwZGYtTVBSQkhOdTk?oc=5",
-        "published": "3 Apr 2026, 11:37 PM",
-        "iso_date": "2026-04-03T23:37:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXYzZVZqUzlwelhzS0NraWpta1VyRy1mZUgxLVJXdmI5NVJaVHV4cmpIUktaY0huUGtGZzVKaVFOZDBaU0xFdDVnaU9RUllwWjBjelBPekxDalh0YkdXMXVTd253OVNldzF0S2lKb1RZVXJpZnRWSTdWQTlYeXBCWmFiNlZja3E4VlhOcEZqYlVzV2RjLXdOT0kwTHEwSWVhUHlxUFJtMnZ2M1JaNV8xbGVRV254MlVSdWdtV3owSkZneGlPcmd3REJ4ZTc?oc=5",
+        "published": "4 Apr 2026, 05:32 PM",
+        "iso_date": "2026-04-04T17:32:14+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -439,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 18:10:07 UTC"
+  "fetched_at": "2026-04-04 18:46:17 UTC"
 }
