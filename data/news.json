@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,10 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain: 4 Injured, Homes Damaged After Iranian Drone Debris Falls",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uYklWLUV1eDRLbzBfa1NhcVZVaE1pZEhiT2dZVGFzQ1dVQm1lVy03WXNjdldOWDlCVzdxWHQtSzBFU3FLMmplZFozQnJDem42TWI3ek90SQ?oc=5",
-        "published": "3 Apr 2026, 10:41 PM",
-        "iso_date": "2026-04-03T22:41:53+00:00",
+        "title": "Bahrain intercepts, destroys 188 missiles, 445 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXhGQ1Boa0praTlzRU1MMFRHS2oyVHA1aEhqOUpGVnlxYTYtUXZMWTZnTGd2dkY3VHZYM0swdTFuT2dLY0VELVZPcVRRdGlPenhmX2ZsRldnVFJxQnJ0VGZyclVNcHdaeG5EdzQ0dkRFOE9uWDJVUnQ2M1VURXo5TU9RaXhoN2NFZndEVFJRMklYY1pHOE5BU3ViUzRGSS1GRnpBeFlQQWpJb1NyRC02YWEySzgzSUJDeXZheC1CRVlGR3paV2NMX0VYaw?oc=5",
+        "published": "3 Apr 2026, 12:17 PM",
+        "iso_date": "2026-04-03T12:17:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -76,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
         "published": "3 Apr 2026, 08:51 AM",
         "iso_date": "2026-04-03T08:51:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain intercepts, destroys 188 missiles, 445 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamQwcVdya2k2cEdtNU1zWWpfOHhXSEpyS3BpTEl4VDhmWWF3WGZwaVpxQUw4MnZPU0FEdURRU0tocWxEZVJEV0NnRGFCOG9zTHV4bjNhSjVkUzRDdXJmdktsLW5PTC1PdHVKaG8ycjJITGdVX25UaERNS19OVUFxS25PM3RBcFNCNHFtY2s3U25sYkVsOEQ5aGk0eWVqSHpPNjk2R3VNM295NjU1cVVJcXBXZElfZGVvckdhQXI3MmR0eldISVRF?oc=5",
-        "published": "3 Apr 2026, 11:02 AM",
-        "iso_date": "2026-04-03T11:02:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,6 +196,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Zain’s 2026 brand valuation increases 16% to reach a record high of USD 4 billion",
+        "link": "https://www.newsofbahrain.com/business/129842.html",
+        "published": "4 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o3zOPagBWG_2026-04-04_1775290289resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Europe’s First Post-Conflict Gulf Visit",
+        "link": "https://www.newsofbahrain.com/bahrain/129841.html",
+        "published": "4 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-04T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oijOkMuvaR_2026-04-04_1775289675resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "40+ nations meet to address rising maritime tensions in Hormuz",
+        "link": "https://www.newsofbahrain.com/bahrain/129840.html",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_E0uq3psLRV_2026-04-04_1775289448resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Searches for Missing Airman After Jet Downed Over Iran",
+        "link": "https://www.newsofbahrain.com/world/129839.html",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uVtlLbnFGT_2026-04-04_1775289412resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Four toddlers stabbed to death at Ugandan nursery school",
         "link": "https://www.newsofbahrain.com/world/129838.html",
         "published": "4 Apr 2026, 09:22 AM",
@@ -221,27 +251,27 @@
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9BjAELytNK_2026-04-04_1775288291resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9BjAELytNK_2026-04-04_1775288291thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "GCC, Jordan Envoys Hold Talks with Turkish Parliament Speaker",
         "link": "https://www.newsofbahrain.com/bahrain/129836.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
+        "published": "4 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c3jeqLdOpw_2026-04-04_1775288009resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c3jeqLdOpw_2026-04-04_1775288009thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "GCC Ambassadors Discuss Hormuz Risks with China",
         "link": "https://www.newsofbahrain.com/bahrain/129835.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
+        "published": "4 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vZe6CmzBUJ_2026-04-04_1775287893resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vZe6CmzBUJ_2026-04-04_1775287893thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,27 +281,7 @@
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZlXci42Ub1_2026-04-04_1775287817resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Vigilant and ready to counter any threat",
-        "link": "https://www.newsofbahrain.com/bahrain/129833.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7d6vsUWSTY_2026-04-04_1775287725thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "First phase of Manama Souq redevelopment underway",
-        "link": "https://www.newsofbahrain.com/bahrain/129832.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gKBn75uJbU_2026-04-04_1775287545thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZlXci42Ub1_2026-04-04_1775287817thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,16 +292,6 @@
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_6gc2YUkBJf_2026-04-04_1775287334thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Abu Dhabi: One Dead, Four Injured After Debris Falls on Habshan Gas Facility",
-        "link": "https://www.newsofbahrain.com/world/129823.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_laKwEsh5QY_2026-04-03_1775240597thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,16 +322,6 @@
         "iso_date": "2026-04-03T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_mMidVO6JTz_2026-04-03_1775202974thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Amazon in talks to buy $9bn satellite telecoms group: report",
-        "link": "https://www.newsofbahrain.com/business/129774.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jHcxRqAe4V_2026-04-03_1775202191thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -449,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-04 07:47:24 UTC"
+  "fetched_at": "2026-04-04 08:13:44 UTC"
 }
