@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -52,20 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "Houthis join war by launching missiles at Israel",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3RNekZwYkkzbkdYM3N5anhVTlpkbGNaOG1WNkgyMVV6U1BnNzVsOVJBcHRZdlQtamV1SWU0VDhySzFsT1RIU1JfUjJFdzRpTmU3SFJueG9VZWtFN1Q4cTZLNFh2LXhkTXhoT0g1UDU0OFB3dnctTWtPOWFDTTJIeFNsNmRIUWhtZWpVc2RGaU5nQ3FFYlRmLVltbS1TUQ?oc=5",
-        "published": "4 Apr 2026, 09:38 AM",
-        "iso_date": "2026-04-04T09:38:59+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
+        "published": "4 Apr 2026, 04:33 PM",
+        "iso_date": "2026-04-04T16:33:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
-        "published": "4 Apr 2026, 04:33 PM",
-        "iso_date": "2026-04-04T16:33:36+00:00",
+        "title": "Babco Energies' tank targeted by Iranian drone attack, no injuries reported",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUU0UmZsWHpEZnFSbTNQVWxoVEJmblcyNGRmMW9VQ3JOUjhqNy1oSTU5MWdQdEM1QklJQ3FXeks3VG9wb2RYRHJ0RWUxMF9jOGlob245ZUZVZl9ENkdOVWJQN2g0Z2hURjFaNVh3dEN4ZGVxSG52aWhPaHBsRzRPWnlEZXFZTEF1Y2pzc3BkejZ1UjM5ZkNucDExUVF3M19MVGhOS25FUmJEazU1NUI4UmZMS3NxeUNlMXhr?oc=5",
+        "published": "5 Apr 2026, 05:28 AM",
+        "iso_date": "2026-04-05T05:28:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -93,6 +93,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Bapco Energies releases statement on Iranian drone attack",
+        "link": "https://www.gdnonline.com/Details/1380501/Bapco-Energies-releases-statement-on-Iranian-drone-attack",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
+        "summary": "",
+        "image": "",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Weâre with you",
         "link": "https://www.gdnonline.com/Details/1380481/Weâre-with-you",
@@ -130,16 +140,6 @@
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260405/20260405050317image_T.jpg?20260405",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Sleepy driver jailed for causing death of pedestrian",
-        "link": "https://www.gdnonline.com/Details/1380490/Sleepy-driver-jailed-for-causing-death-of-pedestrian",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405023813jail3_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
@@ -226,6 +226,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Echoes of the past – The Gulf War playbook for today’s markets",
+        "link": "https://www.newsofbahrain.com/views/129900.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eJ0uBOmHip_2026-04-05_1775371164resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bill to Expand Bahrain Tax Data Exchange",
+        "link": "https://www.newsofbahrain.com/business/129899.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PAscRwmeFZ_2026-04-05_1775371023resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "5-Month Salary Bonus, Overseas Trips Mark Joyalukkas Employee Celebration",
+        "link": "https://www.newsofbahrain.com/business/129898.html",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HUM4tuGY7X_2026-04-05_1775370688resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Employee on Trial Over Forged MP Signature",
+        "link": "https://www.newsofbahrain.com/bahrain/129897.html",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iaQMfvUr2g_2026-04-05_1775370602resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "‘Beyond Insulin’",
         "link": "https://www.newsofbahrain.com/bahrain/129896.html",
         "published": "5 Apr 2026, 09:22 AM",
@@ -241,37 +281,27 @@
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oG9Yl0bNRt_2026-04-05_1775370081resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oG9Yl0bNRt_2026-04-05_1775370081thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bapco Energies confirms drone strike incident at storage facility",
         "link": "https://www.newsofbahrain.com/bahrain/129894.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6stHo2NOAf_2026-04-05_1775369811resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6stHo2NOAf_2026-04-05_1775369811thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Two Years in Prison for Reckless Driving Death Case",
         "link": "https://www.newsofbahrain.com/bahrain/129893.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ze1tV8l7r6_2026-04-05_1775368596resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Cyber Fraud Targeting U.S. Firm Ends in Jail Terms and Fines",
-        "link": "https://www.newsofbahrain.com/bahrain/129892.html",
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zxnhg3CHoO_2026-04-05_1775368415resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ze1tV8l7r6_2026-04-05_1775368596thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,26 +362,6 @@
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_o3zOPagBWG_2026-04-04_1775290289thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Indian Ambassador to Bahrain Visits Unique Power Switchgears (UPS) W.L.L",
-        "link": "https://www.newsofbahrain.com/business/129828.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0HQCwIuTdG_2026-04-04_1775286896thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Telegram Rolls Out AI Editor and Bot-Creation Upgrade",
-        "link": "https://www.newsofbahrain.com/business/129804.html",
-        "published": "3 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rCqDI1avUo_2026-04-03_1775210108thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 06:28:24 UTC"
+  "fetched_at": "2026-04-05 06:53:03 UTC"
 }
