@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 19
+      "count": 18
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -53,7 +53,7 @@
       },
       {
         "title": "The Latest: US service member missing after Iran shot down jet rescued",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOU1ZMGRpRTVzbU5iSFd0enU3b3ZVOFB1SUhYXzM0SEl4OFpLOVFYM3ROY29IY1VydlRPYlRXNmhYbjd4dDRhZER4SmtpWVlzYWU0Ri1peGVsZ1BtampXNUZSRzNkeVpobnZCWVg0bEhybnJsTW83eVdWa1lFT0Qyc0V0VHdmVEdxemdYcG14MEF3VFIwM1NFbnU4Y0VUV3pjQk5nSm9mMlUyNVpwdXNBZ2dDZ2h5NllkSldvYUFzNkJVUnhLekFpby01ckNIbU9xQ19HUVJkZ09aakVwcHRDQ1prQmVlbFViRzJwTUNCTdIB7wFBVV95cUxQOU1ZMGRpRTVzbU5iSFd0enU3b3ZVOFB1SUhYXzM0SEl4OFpLOVFYM3ROY29IY1VydlRPYlRXNmhYbjd4dDRhZER4SmtpWVlzYWU0Ri1peGVsZ1BtampXNUZSRzNkeVpobnZCWVg0bEhybnJsTW83eVdWa1lFT0Qyc0V0VHdmVEdxemdYcG14MEF3VFIwM1NFbnU4Y0VUV3pjQk5nSm9mMlUyNVpwdXNBZ2dDZ2h5NllkSldvYUFzNkJVUnhLekFpby01ckNIbU9xQ19HUVJkZ09aakVwcHRDQ1prQmVlbFViRzJwTUNCTQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZmNKME1VSGVVZmpfbUlWNU5kOVpxOFc5ZXN3NmFscHNuZzhDM3J6Y2FFcFBQbUdqWFdhdVlxNl9hbHh1bmJxd2FQTzFlQ3paQVlYSEVZYU11RlM1ZGN2emYtWGZrd3RiY25PRzRIcl9wMVl2UWJfTVR5U1ZxeEZ3SFFzallnQk91MGw4SGlnUWtMODNjbF9tQnlPUF9IMG5yZ3pVWm1scncySWpvSXQyUjU5YXQxdXYxcmFKMm5Hak82dWxNR0Q3VFJCQWhUd1otc0c1elc1WjJvQXdBRVBKLUlKbWhmZTBKdVHSAeoBQVVfeXFMT2ZjSjBNVUhlVWZqX21JVjVOZDlacThXOWVzdzZhbHBzbmc4QzNyemNhRXBQUG1HalhXYXVZcTZfYWx4dW5icXdhUE8xZUN6WkFZWEhFWWFNdUZTNWRjdnpmLVhma3d0YmNuT0c0SHJfcDFZdlFiX01UeVNWcXhGd0hRc2pZZ0JPdTBsOEhpZ1FrTDgzY2xfbUJ5T1BfSDBucmd6VVptbHJ3Mklqb0l0MlI1OWF0MXV2MXJhSjJuR2pPNnVsTUdEN1RSQkFoVHdaLXNHNXpXNVoyb0F3QUVQSi1JSm1oZmUwSnVR?oc=5",
         "published": "5 Apr 2026, 04:26 AM",
         "iso_date": "2026-04-05T04:26:51+00:00",
         "summary": "",
@@ -102,6 +102,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain’s Bapco says tank caught fire at storage facility after Iranian attack",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEdfNXJCSVFPeVpXeHJ6OG5fZWpzQTJfM3EwMmM5NzRIUEE4YWNhT1VoZ2pfWWszaXlmZUJXckpoQnRYLUhyRkxzTmllcnkxT1FSSzhtZ2ZWdElYSDFObV9YY3pGc0hGbzhaeEFyQ3JKbFVMNWJVN3Jsc0ZkbThnbzBnNWlVSlRoN0FwUVhTVENXWDJRREF4Z1NzZFBxS0stNzJKVmNuTzk0bmNNTUMtdGZ5cm9pM0FKNlBkNmpyVmk0UzN5a3RtYjdB0gHPAUFVX3lxTFBkLWVVYWYwVG5mTVRFY3h4c2lIYXZQWXlJa3JIYUZmYmxQTG9lcjRvYXpoTmZQWGpiVXhZWlJNM0h4LVVOZTZOWVNnV0IwRmwwNFdlbnVmT1VMM0xKTXNzeFdmeUJrZ0pMWU1sLUp6YW5mWDVtem9hMmY5Nkd4U0R3TVdxdjlxQjhZNGh2OHhlS1Z1Y0FFOFlwRXNYaFhKUlI2M0Yxc1hEYzB0dWR5N243SmFxcDJWUy1wNnlnQ2FQdHlYTnluUTRIalRLa3lXQQ?oc=5",
+        "published": "5 Apr 2026, 06:46 AM",
+        "iso_date": "2026-04-05T06:46:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmdDZXF0TjlvTkNpcHd1UG1DZHU0V3dZanlHNVprSmhKZ0ZaODBnV3U2SHdjSHI2ZDk3cUdnTjEyaHlDUUpKTVZBS3lDVy1tazl6ZkFlbGlicDBWcG51UDlkTmZJVUMxNnducW05Skg3OHBGWVY4QUc4a0d5M1R2dGpROHFrLXVsangtQ1lOc0dOZGdyUTBKdHotWUhVMEhQNnVzMjhZZVpLckxtUUNKRjBtY0g4cTl0MWZaNFhlVFJZN1cycnFlZVhXekpOMU3SAc8BQVVfeXFMTUpnQ2VxdE45b05DaXB3dVBtQ2R1NFd3WWp5RzVaa0poSmdGWjgwZ1d1Nkh3Y0hyNmQ5N3FHZ04xMmh5Q1FKSk1WQUt5Q1ctbWs5emZBZWxpYnAwVnBudVA5ZE5mSVVDMTZ3bnFtOUpINzhwRllWOEFHOGtHeTNUdnRqUThxay11bGp4LUNZTnNHTmRnclEwSnR6LVlIVTBIUDZ1czI4WWVaS3JMbVFDSkYwbWNIOHE5dDFmWjRYZVRSWTdXMnJxZWVYV3pKTjFN?oc=5",
         "published": "5 Apr 2026, 09:28 AM",
@@ -122,16 +132,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain’s Bapco says tank caught fire at storage facility after Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEdfNXJCSVFPeVpXeHJ6OG5fZWpzQTJfM3EwMmM5NzRIUEE4YWNhT1VoZ2pfWWszaXlmZUJXckpoQnRYLUhyRkxzTmllcnkxT1FSSzhtZ2ZWdElYSDFObV9YY3pGc0hGbzhaeEFyQ3JKbFVMNWJVN3Jsc0ZkbThnbzBnNWlVSlRoN0FwUVhTVENXWDJRREF4Z1NzZFBxS0stNzJKVmNuTzk0bmNNTUMtdGZ5cm9pM0FKNlBkNmpyVmk0UzN5a3RtYjdB0gHPAUFVX3lxTFBkLWVVYWYwVG5mTVRFY3h4c2lIYXZQWXlJa3JIYUZmYmxQTG9lcjRvYXpoTmZQWGpiVXhZWlJNM0h4LVVOZTZOWVNnV0IwRmwwNFdlbnVmT1VMM0xKTXNzeFdmeUJrZ0pMWU1sLUp6YW5mWDVtem9hMmY5Nkd4U0R3TVdxdjlxQjhZNGh2OHhlS1Z1Y0FFOFlwRXNYaFhKUlI2M0Yxc1hEYzB0dWR5N243SmFxcDJWUy1wNnlnQ2FQdHlYTnluUTRIalRLa3lXQQ?oc=5",
-        "published": "5 Apr 2026, 06:46 AM",
-        "iso_date": "2026-04-05T06:46:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzYzeEZmUE5wTWdYdWtzOVlsLXdfR1h6bTBBajM4NVlZSEVFNVJFRkVWUjBjQWRLMVplM3lySUs1Nlo4OWMzNks4TEtwZVRfWGplSW54d2NUZl9hS0kyNzJuSnVfZlVESU9BTF94clExQkxPYXduZnJubk5TNDlsQzJhSkx2NWstWTBsLUNEaE1SbHlsczBoS0xGR2xFNTBDYm84UjRvbktnYmpZZGRLZHZiX043UFgzMmlPZkMyaWZUUUXSAcgBQVVfeXFMT09lUkRfeEhiZUxWUGx5VEhHTHdoY3RpVVRMV0kwM0sySUpCVjRzYXRZR1h1TGN5ZC1ydUUzZ09MdTc3WlNfMmE1WXZBZ0ZUTWdIVXRBM0RsTGZ1WU91cXNpNEVPcXpmZm5HQ0pzT0UyRl9SMGtGRkdpLWp3TG01SUFNb0dlMFJHWUtLR0N6cjRDWl9TRzJBd25fQlk0Z01zUTUyU2ZOakdvNG5waUlIZXFxSll2R3ZZdTZubUxFMXo0VWV1VXdOVGM?oc=5",
         "published": "5 Apr 2026, 10:00 AM",
@@ -142,30 +142,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iran strikes facilities of Gulf Petrochemical Industries in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkkyUXl5VUFyOGV1U2FodlctQmtINFFzMmdOclV6dkVEUE92Z1ZqbFk3dFd4NWZIWnMwbktvandiWTQ5MDNsYndBdWtqZDAwRFNYam5FYmlrUFZTdXdjTmlwQmRha0NDMHlmYk93VHFTbGJleXF6M3BRNEVUX2RjdlhvVVBUUlVYRWNES1ZPUG9CNGlidkVZbGxyclotOXZHSXhOUlMxMVpHTDll0gGsAUFVX3lxTE1uSTJReXlVQXI4ZXVTYWh2Vy1Ca0g0UXMyZ05yVXp2RURQT3ZnVmpsWTd0V3g1ZkhaczBuS29qd2JZNDkwM2xid0F1a2pkMDBEU1hqbkViaWtQVlN1d2NOaXBCZGFrQ0MweWZiT3dUcVNsYmV5cXozcFE0RVRfZGN2WG9VUFRSVVhFY0RLVk9Qb0I0aWJ2RVlsbHJyWi05dkdJeE5SUzExWkdMOWU?oc=5",
-        "published": "5 Apr 2026, 09:38 AM",
-        "iso_date": "2026-04-05T09:38:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iran launches drone attack at Bahrain",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xTkV0bVhXS1lZd2pId2pZeGhCOGNHNE53NVNacGtNLWJVS3ZLOGY3bDByUXBFS3pFaFFKZGV4Q2NkVzVIOGFfQVN3RFBFcFV6MExCZ1I3LVEzbHR3NEh0V1p2TU0wNU5Nb0RrNkdtbGRQeGI4VjBqLW5B?oc=5",
         "published": "5 Apr 2026, 09:25 AM",
         "iso_date": "2026-04-05T09:25:20+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran attacked a fuel reservoir of the Bapco oil company in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXlxbmhycDhTU01aTnh6dmdXdG1yRFJ5dUNPTjFQa3Z1NVFxeHNIaE5JX3NPcnRST0RPR1otTXU1NVBhUTZ6VkVEM0ZSWTdSZ29YSjRfd1RrcF9jd29KNE9FcFRWWGg0b2xvM2ZNck5FVURPQld5N2x1TzNiczhGWjdpMWI3YWtWVXVKZ0lEOTVoMTYxQnc?oc=5",
-        "published": "5 Apr 2026, 07:00 AM",
-        "iso_date": "2026-04-05T07:00:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -202,6 +182,16 @@
         "category": "Latest"
       },
       {
+        "title": "Iran attacked a fuel reservoir of the Bapco oil company in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXlxbmhycDhTU01aTnh6dmdXdG1yRFJ5dUNPTjFQa3Z1NVFxeHNIaE5JX3NPcnRST0RPR1otTXU1NVBhUTZ6VkVEM0ZSWTdSZ29YSjRfd1RrcF9jd29KNE9FcFRWWGg0b2xvM2ZNck5FVURPQld5N2x1TzNiczhGWjdpMWI3YWtWVXVKZ0lEOTVoMTYxQnc?oc=5",
+        "published": "5 Apr 2026, 07:00 AM",
+        "iso_date": "2026-04-05T07:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Condemns Attacks On UAE Embassy In Damascus",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGZOMjU2V08tZUx5aWd6Y1NvU1JCOG14ZHlRZzFHMUpYZ2NCYmtwTzJ1RDFNYTJnMXRNWFNTdFpVa2dzam9OdVpoekVUbzJ3aE5ncVNTRUx6WHZTcEVXOUs3S0xabndVeWdheWN0OEcyZ0lIVXFwSjEwVE8tanlITkFjLU0ybFB2X1ZnbFZIT1RTdmNHR0JMd1RXQThpS1Ni?oc=5",
         "published": "4 Apr 2026, 09:45 PM",
@@ -214,52 +204,92 @@
     ],
     "gdn": [
       {
-        "title": "Air quality is safe, affirms SCE",
-        "link": "https://www.gdnonline.com/Details/1380527/Air-quality-is-safe,-affirms-SCE",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
+        "title": "Global conscience âis facing true test over Iranian attacksâ",
+        "link": "https://www.gdnonline.com/Details/1380535/Global-conscience-âis-facing-true-test-over-Iranian-attacksâ",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405211744bahrainskylinebna_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405230653websitesize(1)_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "King confirms that citizens affected by Iranian aggression will receive full compensation",
-        "link": "https://www.gdnonline.com/Details/1380522/King-confirms-that-citizens-affected-by-Iranian-aggression-will-receive-full-compensation",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
+        "title": "Graduate-training bill is referred back to Parliament for study",
+        "link": "https://www.gdnonline.com/Details/1380537/Graduate-training-bill-is-referred-back-to-Parliament-for-study-",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405190241kinghamad2.jpeg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_222947_0.jpeg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Seven Bahrainis arrested for allegedly stealing gold  and valuables from evacuated homes",
-        "link": "https://www.gdnonline.com/Details/1380520/Seven-Bahrainis-arrested-for-allegedly-stealing-gold--and-valuables-from-evacuated-homes",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
+        "title": "Shura Council reaffirms commitment to peace",
+        "link": "https://www.gdnonline.com/Details/1380539/Shura-Council-reaffirms-commitment-to-peace",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405174145websitesize(1)_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_222949_1_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "GPIC confirms Iranian drones hit a number of its operational units",
-        "link": "https://www.gdnonline.com/Details/1380510/GPIC-confirms-Iranian-drones-hit-a-number-of-its-operational-units",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
+        "title": "Charity touches lives with critical support in Ramadan",
+        "link": "https://www.gdnonline.com/Details/1380532/Charity-touches-lives-with-critical-support-in-Ramadan",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405104927gpicfire_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406001657edited12_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bapco Energies releases statement on Iranian drone attack",
-        "link": "https://www.gdnonline.com/Details/1380501/Bapco-Energies-releases-statement-on-Iranian-drone-attack",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
+        "title": "Seven theft suspects arrested",
+        "link": "https://www.gdnonline.com/Details/1380555/Seven-theft-suspects-arrested",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_235832_0_T.jpg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bank ABC bags âBest Trade Finance Providerâ honour",
+        "link": "https://www.gdnonline.com/Details/1380550/Bank-ABC-bags-âBest-Trade-Finance-Providerâ-honour",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406002847edited12_T.jpg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Hacker attacks jump as regional tensions explode",
+        "link": "https://www.gdnonline.com/Details/1380549/Hacker-attacks-jump-as-regional-tensions-explode",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_233213_2_T.jpg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Bourse financial results praised",
+        "link": "https://www.gdnonline.com/Details/1380548/Bahrain-Bourse-financial-results-praised",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_233213_0.jfif?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Most Gulf stocks subdued amid escalating conflict",
+        "link": "https://www.gdnonline.com/Details/1380552/Most-Gulf-stocks-subdued-amid-escalating-conflict",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_233214_4_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -269,27 +299,7 @@
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260404_223753_1_T.jpg?20260405",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Hunting for gold as sales chain broken",
-        "link": "https://www.gdnonline.com/Details/1380464/Hunting-for-gold-as-sales-chain-broken",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405122229websitesize_T.jpg?20260405",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Banking sector urged to back food stability plans",
-        "link": "https://www.gdnonline.com/Details/1380398/Banking-sector-urged-to-back-food-stability-plans",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404_003808_1.jpeg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260404_223753_1_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -299,7 +309,7 @@
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_003807_1.png?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_003807_1.png?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -309,7 +319,7 @@
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405011714dazuqspamnpqjnyxqjqmwj6eky_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405011714dazuqspamnpqjnyxqjqmwj6eky_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -319,7 +329,7 @@
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_013205_1_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_013205_1_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -329,7 +339,7 @@
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_013204_0_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_013204_0_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -339,7 +349,7 @@
         "published": "4 Apr 2026",
         "iso_date": "2026-04-04T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404010056footy_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404010056footy_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       }
@@ -619,5 +629,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 21:09:24 UTC"
+  "fetched_at": "2026-04-05 21:43:33 UTC"
 }
