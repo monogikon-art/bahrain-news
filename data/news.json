@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,10 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "More than 1,500 arrested amid wartime crackdown in Iran",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGFLLWJrVXM3Nlg2SllTVXJxejR2Y01EcVQ3S0drZS0wako0RHc3WjlRbVAweDNPZ19uV2VDYUFtV0Mwa19KMHdOTzBGeGFJQVJBM0F1eXBWRHQxOUxhMnZxMlhyM3dQZl9weE1KNDJ2US1tTmVqanhMaG1UejNtX3hjN0pxdFNOUHRqSXpzeDRfZTdLRFFHaXRpdnl3Z3kxVGlfMFB4SUlFbndRTXc?oc=5",
-        "published": "4 Apr 2026, 05:37 AM",
-        "iso_date": "2026-04-04T05:37:40+00:00",
+        "title": "Houthis join war by launching missiles at Israel",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3RNekZwYkkzbkdYM3N5anhVTlpkbGNaOG1WNkgyMVV6U1BnNzVsOVJBcHRZdlQtamV1SWU0VDhySzFsT1RIU1JfUjJFdzRpTmU3SFJueG9VZWtFN1Q4cTZLNFh2LXhkTXhoT0g1UDU0OFB3dnctTWtPOWFDTTJIeFNsNmRIUWhtZWpVc2RGaU5nQ3FFYlRmLVltbS1TUQ?oc=5",
+        "published": "4 Apr 2026, 09:38 AM",
+        "iso_date": "2026-04-04T09:38:59+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iraq and the loyalist militias",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVhRb3lRVEVKX2pqbUhsci14RzU4d055MWczM2pfQXB1b0VURDYzOXpGU2M2cExKVWFkVzRSSHo3MUpBMk5hVFY5ektrSTIteTdiTDR0elFrc09yYkpwQWZxSHZDako4MnROVTJBM3Z6aUFza3Z0T2JjNVdRZzRQZlNpbm9Udw?oc=5",
+        "published": "4 Apr 2026, 09:13 AM",
+        "iso_date": "2026-04-04T09:13:17+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +226,30 @@
     ],
     "newsofbahrain": [
       {
+        "title": "“We got him!” Trump details Iran rescue missions",
+        "link": "https://www.newsofbahrain.com/world/129888.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v2Raqhk374_2026-04-05_1775367187resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Reports Drone Attacks on Power and Desalination Facilities",
+        "link": "https://www.newsofbahrain.com/world/129887.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P6omyvgcCS_2026-04-05_1775367036resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Explosion Hits Pro-Israel Centre in Netherlands; No Injuries Reported",
         "link": "https://www.newsofbahrain.com/world/129886.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_J7d9WVM1mG_2026-04-04_1775336901resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +258,8 @@
       {
         "title": "Bahrain, Pakistan FMs discuss regional tensions, cooperation",
         "link": "https://www.newsofbahrain.com/bahrain/129885.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
+        "published": "4 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-04T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NstEfKIPgF_2026-04-04_1775335430resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,30 +268,10 @@
       {
         "title": "Saudi Crown Prince Meets FIFA President",
         "link": "https://www.newsofbahrain.com/world/129884.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vP7GWe1Bb0_2026-04-04_1775326116resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zelensky Meets Erdoğan in Istanbul for Talks on Peace and Bilateral Ties",
-        "link": "https://www.newsofbahrain.com/world/129883.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wCUeMslV2H_2026-04-04_1775323659resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US arrests relatives of Qasem Soleimani, revokes legal residency",
-        "link": "https://www.newsofbahrain.com/world/129882.html",
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FcSY8Labyr_2026-04-04_1775323524resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vP7GWe1Bb0_2026-04-04_1775326116resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 04:51:41 UTC"
+  "fetched_at": "2026-04-05 05:35:31 UTC"
 }
