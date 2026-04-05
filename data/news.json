@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 20
+      "count": 19
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -112,10 +112,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drones trigger fire at Gulf Petrochemical Industries in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaERpYTF1NkFqOFVIU1JFajJEOV9aYlRWRXhwS0NueEF5bXJXQ3Rkb0tzb1BQU3d4bkpuTzY2dm95ck42QXQ2R3RSTmRScGIzclQxeWQ3YV9FblNvSXBmQThNNl9wYnRxS3BSS2dRZWkzN2Q5eEYtVGtVTzdQYUtud2p4UG9ONU9Rd25yczByajJTTUl0UndsRVNnZ2s5SHc?oc=5",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:14+00:00",
+        "title": "Bahrain’s GPIC operating units targeted by Iranian drones",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Mml2QnJmbWZwSUtrV0JoNF90LUhaNm41TE5iLTZQcGNVaXlzU280N2tzdVhNRjFwbzNBZGNvd3dYazJMaXRLdDZiQU52TGt3UlJaMkQ5TmExU2NqS19rOWZWRDB1X1lOdHBrNWFVSQ?oc=5",
+        "published": "5 Apr 2026, 05:15 PM",
+        "iso_date": "2026-04-05T17:15:51+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -126,16 +126,6 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEdfNXJCSVFPeVpXeHJ6OG5fZWpzQTJfM3EwMmM5NzRIUEE4YWNhT1VoZ2pfWWszaXlmZUJXckpoQnRYLUhyRkxzTmllcnkxT1FSSzhtZ2ZWdElYSDFObV9YY3pGc0hGbzhaeEFyQ3JKbFVMNWJVN3Jsc0ZkbThnbzBnNWlVSlRoN0FwUVhTVENXWDJRREF4Z1NzZFBxS0stNzJKVmNuTzk0bmNNTUMtdGZ5cm9pM0FKNlBkNmpyVmk0UzN5a3RtYjdB0gHPAUFVX3lxTFBkLWVVYWYwVG5mTVRFY3h4c2lIYXZQWXlJa3JIYUZmYmxQTG9lcjRvYXpoTmZQWGpiVXhZWlJNM0h4LVVOZTZOWVNnV0IwRmwwNFdlbnVmT1VMM0xKTXNzeFdmeUJrZ0pMWU1sLUp6YW5mWDVtem9hMmY5Nkd4U0R3TVdxdjlxQjhZNGh2OHhlS1Z1Y0FFOFlwRXNYaFhKUlI2M0Yxc1hEYzB0dWR5N243SmFxcDJWUy1wNnlnQ2FQdHlYTnluUTRIalRLa3lXQQ?oc=5",
         "published": "5 Apr 2026, 06:46 AM",
         "iso_date": "2026-04-05T06:46:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s GPIC operating units targeted by Iranian drones",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Mml2QnJmbWZwSUtrV0JoNF90LUhaNm41TE5iLTZQcGNVaXlzU280N2tzdVhNRjFwbzNBZGNvd3dYazJMaXRLdDZiQU52TGt3UlJaMkQ5TmExU2NqS19rOWZWRDB1X1lOdHBrNWFVSQ?oc=5",
-        "published": "5 Apr 2026, 05:15 PM",
-        "iso_date": "2026-04-05T17:15:51+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -629,5 +619,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 20:45:11 UTC"
+  "fetched_at": "2026-04-05 21:09:24 UTC"
 }
