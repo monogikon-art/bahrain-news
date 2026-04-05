@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -62,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
-        "published": "4 Apr 2026, 04:33 PM",
-        "iso_date": "2026-04-04T16:33:36+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Babco Energies' tank targeted by Iranian drone attack, no injuries reported",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUU0UmZsWHpEZnFSbTNQVWxoVEJmblcyNGRmMW9VQ3JOUjhqNy1oSTU5MWdQdEM1QklJQ3FXeks3VG9wb2RYRHJ0RWUxMF9jOGlob245ZUZVZl9ENkdOVWJQN2g0Z2hURjFaNVh3dEN4ZGVxSG52aWhPaHBsRzRPWnlEZXFZTEF1Y2pzc3BkejZ1UjM5ZkNucDExUVF3M19MVGhOS25FUmJEazU1NUI4UmZMS3NxeUNlMXhr?oc=5",
         "published": "5 Apr 2026, 05:28 AM",
@@ -119,7 +109,7 @@
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405013051hit_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_011526_0.png?20260405",
         "source": "gdn",
         "category": "Latest"
       },
@@ -236,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Abu Dhabi: Fires Break Out at Borouge Facility After Air Defence Action",
+        "link": "https://www.newsofbahrain.com/world/129907.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GjvVaSs0K9_2026-04-05_1775375132resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Elite horses deliver dramatic finish to King’s Cup Festival",
         "link": "https://www.newsofbahrain.com/sports/129906.html",
         "published": "5 Apr 2026, 09:22 AM",
@@ -248,8 +248,8 @@
       {
         "title": "Manama Rally Past Al Najma to Reach Finals",
         "link": "https://www.newsofbahrain.com/sports/129905.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_d4gcPe6LDY_2026-04-05_1775373371resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +268,8 @@
       {
         "title": "Bahrain U18s Overwhelmed by Hosts in Schweitzer Opener",
         "link": "https://www.newsofbahrain.com/sports/129903.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_w0W2r5R7zX_2026-04-05_1775372725resized_pic.jpg",
         "source": "newsofbahrain",
@@ -281,7 +281,7 @@
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rpWcnGJa7E_2026-04-05_1775372476resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rpWcnGJa7E_2026-04-05_1775372476thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,16 +352,6 @@
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_J7d9WVM1mG_2026-04-04_1775336901thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Crown Prince Meets FIFA President",
-        "link": "https://www.newsofbahrain.com/world/129884.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vP7GWe1Bb0_2026-04-04_1775326116thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 07:26:48 UTC"
+  "fetched_at": "2026-04-05 07:50:18 UTC"
 }
