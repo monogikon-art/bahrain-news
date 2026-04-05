@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 19
+      "count": 20
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 16
     }
   },
   "articles": {
@@ -112,6 +112,26 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain’s Bapco says tank caught fire at storage facility after Iranian attack",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEdfNXJCSVFPeVpXeHJ6OG5fZWpzQTJfM3EwMmM5NzRIUEE4YWNhT1VoZ2pfWWszaXlmZUJXckpoQnRYLUhyRkxzTmllcnkxT1FSSzhtZ2ZWdElYSDFObV9YY3pGc0hGbzhaeEFyQ3JKbFVMNWJVN3Jsc0ZkbThnbzBnNWlVSlRoN0FwUVhTVENXWDJRREF4Z1NzZFBxS0stNzJKVmNuTzk0bmNNTUMtdGZ5cm9pM0FKNlBkNmpyVmk0UzN5a3RtYjdB0gHPAUFVX3lxTFBkLWVVYWYwVG5mTVRFY3h4c2lIYXZQWXlJa3JIYUZmYmxQTG9lcjRvYXpoTmZQWGpiVXhZWlJNM0h4LVVOZTZOWVNnV0IwRmwwNFdlbnVmT1VMM0xKTXNzeFdmeUJrZ0pMWU1sLUp6YW5mWDVtem9hMmY5Nkd4U0R3TVdxdjlxQjhZNGh2OHhlS1Z1Y0FFOFlwRXNYaFhKUlI2M0Yxc1hEYzB0dWR5N243SmFxcDJWUy1wNnlnQ2FQdHlYTnluUTRIalRLa3lXQQ?oc=5",
+        "published": "5 Apr 2026, 06:46 AM",
+        "iso_date": "2026-04-05T06:46:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones trigger fire at Gulf Petrochemical Industries in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaERpYTF1NkFqOFVIU1JFajJEOV9aYlRWRXhwS0NueEF5bXJXQ3Rkb0tzb1BQU3d4bkpuTzY2dm95ck42QXQ2R3RSTmRScGIzclQxeWQ3YV9FblNvSXBmQThNNl9wYnRxS3BSS2dRZWkzN2Q5eEYtVGtVTzdQYUtud2p4UG9ONU9Rd25yczByajJTTUl0UndsRVNnZ2s5SHc?oc=5",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:14+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain’s GPIC operating units targeted by Iranian drones",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Mml2QnJmbWZwSUtrV0JoNF90LUhaNm41TE5iLTZQcGNVaXlzU280N2tzdVhNRjFwbzNBZGNvd3dYazJMaXRLdDZiQU52TGt3UlJaMkQ5TmExU2NqS19rOWZWRDB1X1lOdHBrNWFVSQ?oc=5",
         "published": "5 Apr 2026, 05:15 PM",
@@ -136,16 +156,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkkyUXl5VUFyOGV1U2FodlctQmtINFFzMmdOclV6dkVEUE92Z1ZqbFk3dFd4NWZIWnMwbktvandiWTQ5MDNsYndBdWtqZDAwRFNYam5FYmlrUFZTdXdjTmlwQmRha0NDMHlmYk93VHFTbGJleXF6M3BRNEVUX2RjdlhvVVBUUlVYRWNES1ZPUG9CNGlidkVZbGxyclotOXZHSXhOUlMxMVpHTDll0gGsAUFVX3lxTE1uSTJReXlVQXI4ZXVTYWh2Vy1Ca0g0UXMyZ05yVXp2RURQT3ZnVmpsWTd0V3g1ZkhaczBuS29qd2JZNDkwM2xid0F1a2pkMDBEU1hqbkViaWtQVlN1d2NOaXBCZGFrQ0MweWZiT3dUcVNsYmV5cXozcFE0RVRfZGN2WG9VUFRSVVhFY0RLVk9Qb0I0aWJ2RVlsbHJyWi05dkdJeE5SUzExWkdMOWU?oc=5",
         "published": "5 Apr 2026, 09:38 AM",
         "iso_date": "2026-04-05T09:38:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s Bapco says tank caught fire at storage facility after Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEdfNXJCSVFPeVpXeHJ6OG5fZWpzQTJfM3EwMmM5NzRIUEE4YWNhT1VoZ2pfWWszaXlmZUJXckpoQnRYLUhyRkxzTmllcnkxT1FSSzhtZ2ZWdElYSDFObV9YY3pGc0hGbzhaeEFyQ3JKbFVMNWJVN3Jsc0ZkbThnbzBnNWlVSlRoN0FwUVhTVENXWDJRREF4Z1NzZFBxS0stNzJKVmNuTzk0bmNNTUMtdGZ5cm9pM0FKNlBkNmpyVmk0UzN5a3RtYjdB0gHPAUFVX3lxTFBkLWVVYWYwVG5mTVRFY3h4c2lIYXZQWXlJa3JIYUZmYmxQTG9lcjRvYXpoTmZQWGpiVXhZWlJNM0h4LVVOZTZOWVNnV0IwRmwwNFdlbnVmT1VMM0xKTXNzeFdmeUJrZ0pMWU1sLUp6YW5mWDVtem9hMmY5Nkd4U0R3TVdxdjlxQjhZNGh2OHhlS1Z1Y0FFOFlwRXNYaFhKUlI2M0Yxc1hEYzB0dWR5N243SmFxcDJWUy1wNnlnQ2FQdHlYTnluUTRIalRLa3lXQQ?oc=5",
-        "published": "5 Apr 2026, 06:46 AM",
-        "iso_date": "2026-04-05T06:46:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -182,20 +192,20 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian Drone Strike Hits Bahrain Petrochemical Facility, Fire Erupts at GPIC Units; No Casualties Reported",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONGtJNmdvRTczcWVQN3c1OTg4OEVjY1IzLVJ6RHNkdlhBVlMwMTNfRVU1QTVKSTVRbU9WWFAtN2NJT2tfckZkR2sxTHV2OVQxX2J6RTVXVDdNcVBfSFM2RkhJOTdfZ1pvSDdXeDJWQktHWjVnMndJN1lOelZSNVhRWUVzV1I0QkhsWk9BMXhtWm4ySVg5ZG1uMkdVa1JOajk2UFM0T2R6VXllVkVJQ3lLWFpKU3ZKT0V6WWdfZmR1Q08yTlR5TER1LU5VWDJlUzRWUHVFT0NKMkk0SkZVejE5bElVT0tqWndIa1J2ZnlEbVfSAfABQVVfeXFMTjRrSTZnb0U3M3FlUDd3NTk4ODhFY2NSMy1SekRzZHZYQVZTMDEzX0VVNUE1Skk1UW1PVlhQLTdjSU9rX3JGZEdrMUx1djlUMV9iekU1V1Q3TXFQX0hTNkZISTk3X2dab0g3V3gyVkJLR1o1ZzJ3STdZTnpWUjVYUVlFc1dSNEJIbFpPQTF4bVpuMklYOWRtbjJHVWtSTmo5NlBTNE9kelV5ZVZFSUN5S1haSlN2Sk9FellnX2ZkdUNPMk5UeUxEdS1OVVgyZVM0VlB1RU9DSjJJNEpGVXoxOWxJVU9Lalp3SGtSdmZ5RG1X?oc=5",
-        "published": "5 Apr 2026, 09:59 AM",
-        "iso_date": "2026-04-05T09:59:18+00:00",
+        "title": "Iran Launches Drone Attack on Bahrain, Sparking Fires at Energy Facilities",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWM2QjF2ZFQ4S25rekwxVl9xbEhXYXlBZ1RZVEZBaXVFa2hDZkM3TTlFb2FiZmJINW04VWpGTUM5SGFDaGlDZUx2U0pWS1RJNjFiRTJFZ0lCUTdER3dNV1NmZmxQZzlFOGNXM0hCRTZQajVJY1JHWjNsNUx4QU1jWVVuc00?oc=5",
+        "published": "5 Apr 2026, 11:57 AM",
+        "iso_date": "2026-04-05T11:57:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Iran Launches Drone Attack on Bahrain, Sparking Fires at Energy Facilities",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWM2QjF2ZFQ4S25rekwxVl9xbEhXYXlBZ1RZVEZBaXVFa2hDZkM3TTlFb2FiZmJINW04VWpGTUM5SGFDaGlDZUx2U0pWS1RJNjFiRTJFZ0lCUTdER3dNV1NmZmxQZzlFOGNXM0hCRTZQajVJY1JHWjNsNUx4QU1jWVVuc00?oc=5",
-        "published": "5 Apr 2026, 11:57 AM",
-        "iso_date": "2026-04-05T11:57:46+00:00",
+        "title": "Iranian Drone Strike Hits Bahrain Petrochemical Facility, Fire Erupts at GPIC Units; No Casualties Reported",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONGtJNmdvRTczcWVQN3c1OTg4OEVjY1IzLVJ6RHNkdlhBVlMwMTNfRVU1QTVKSTVRbU9WWFAtN2NJT2tfckZkR2sxTHV2OVQxX2J6RTVXVDdNcVBfSFM2RkhJOTdfZ1pvSDdXeDJWQktHWjVnMndJN1lOelZSNVhRWUVzV1I0QkhsWk9BMXhtWm4ySVg5ZG1uMkdVa1JOajk2UFM0T2R6VXllVkVJQ3lLWFpKU3ZKT0V6WWdfZmR1Q08yTlR5TER1LU5VWDJlUzRWUHVFT0NKMkk0SkZVejE5bElVT0tqWndIa1J2ZnlEbVfSAfABQVVfeXFMTjRrSTZnb0U3M3FlUDd3NTk4ODhFY2NSMy1SekRzZHZYQVZTMDEzX0VVNUE1Skk1UW1PVlhQLTdjSU9rX3JGZEdrMUx1djlUMV9iekU1V1Q3TXFQX0hTNkZISTk3X2dab0g3V3gyVkJLR1o1ZzJ3STdZTnpWUjVYUVlFc1dSNEJIbFpPQTF4bVpuMklYOWRtbjJHVWtSTmo5NlBTNE9kelV5ZVZFSUN5S1haSlN2Sk9FellnX2ZkdUNPMk5UeUxEdS1OVVgyZVM0VlB1RU9DSjJJNEpGVXoxOWxJVU9Lalp3SGtSdmZ5RG1X?oc=5",
+        "published": "5 Apr 2026, 09:59 AM",
+        "iso_date": "2026-04-05T09:59:18+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -346,12 +356,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Nepal Court Extends Detention of Former PM Oli in Protest Crackdown Case",
+        "link": "https://www.newsofbahrain.com/world/129921.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BLl1xe3iAT_2026-04-05_1775418030resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Meet the Four Astronauts Leading NASA’s Historic Artemis II Moon Mission",
+        "link": "https://www.newsofbahrain.com/trends/129920.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_L6KbDYSrFq_2026-04-05_1775417879resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Artemis astronauts begin fifth day on historic Moon mission",
+        "link": "https://www.newsofbahrain.com/world/129919.html",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_53t0cKlBM2_2026-04-05_1775417756resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "'Choose peace': Pope marks first Easter under cloud of Mideast war",
+        "link": "https://www.newsofbahrain.com/world/129918.html",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sKlVzEn4RO_2026-04-05_1775417586resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bangladesh Cuts Working Hours, Tightens Measures Amid Energy Strain",
+        "link": "https://www.newsofbahrain.com/world/129917.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aMrR8xonUu_2026-04-05_1775417086resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Shura Council Reviews Financial Committee Report on Proposed Amendment to Commercial Companies Law",
         "link": "https://www.newsofbahrain.com/bahrain/129915.html",
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G5d0JPySWq_2026-04-05_1775407248resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G5d0JPySWq_2026-04-05_1775407248thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -361,37 +421,7 @@
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EpGr0UVFC1_2026-04-05_1775407132resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zelensky Holds Talks with Syria’s Sharaa on Security Cooperation Amid Iran War Tensions",
-        "link": "https://www.newsofbahrain.com/world/129913.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LtUp5HJF0R_2026-04-05_1775405553resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Over 1,460 killed in Lebanon since March 2 amid ongoing Israeli attacks.",
-        "link": "https://www.newsofbahrain.com/world/129912.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uBAcJLh7rV_2026-04-05_1775403609resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oman and Iran Discuss Measures to Ensure Smooth Transit Through Strait of Hormuz",
-        "link": "https://www.newsofbahrain.com/world/129911.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9TPytORhXW_2026-04-05_1775395308resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EpGr0UVFC1_2026-04-05_1775407132thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -422,16 +452,6 @@
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_rpWcnGJa7E_2026-04-05_1775372476thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE President, Italian PM Discuss Regional Security and Iran Conflict",
-        "link": "https://www.newsofbahrain.com/world/129909.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1OekUz6840_2026-04-05_1775384600thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -609,5 +629,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 19:15:09 UTC"
+  "fetched_at": "2026-04-05 19:43:31 UTC"
 }
