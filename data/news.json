@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "Bahrain says Bapco fire extinguished after Iranian attack",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWpZSXplR1IwUldWWmN5ZzJaa2kzUHU1dUxnYkpjSkp2LTRGUmFMTzNnOWc3WXgtOEVDZGFxaEIyQkhRS2RhZ0xfV3lnT1l1eDl3NUdOMlc0bUlibkZsejN4T1dyN0hHMHljRTV2X3VtSFlFSi12WkJGSkhuOHBqWU5FOE1WM3ZldThwSDc0T3Q4aTVtYkVwVXpVSHdGZ1RadEd1M0EyXzMtMjZPRHcxMTdNNUs?oc=5",
+        "published": "5 Apr 2026, 05:56 AM",
+        "iso_date": "2026-04-05T05:56:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain says 4 injured after drone interception",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTk5qcTNsT1BUVmN6ZVRaRGNUOTVKWjlLOGdnOTU0S1ItTW1iakVpNDZMSS1CSFIwRXN4VDJZY1RyMDhuZ2tweko0QWZIbTdmbUhmOVRWTGZ5WE9MaW1VaUF1bHJiSGNCV29hRE1wRFU1a081N3NqUFVwOG5iV0hUdmp3M0NlOTYtb0pCb0JDZHZnazk1dVktZmhRSVQ?oc=5",
         "published": "4 Apr 2026, 09:17 AM",
@@ -52,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iraq and the loyalist militias",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVhRb3lRVEVKX2pqbUhsci14RzU4d055MWczM2pfQXB1b0VURDYzOXpGU2M2cExKVWFkVzRSSHo3MUpBMk5hVFY5ektrSTIteTdiTDR0elFrc09yYkpwQWZxSHZDako4MnROVTJBM3Z6aUFza3Z0T2JjNVdRZzRQZlNpbm9Udw?oc=5",
-        "published": "4 Apr 2026, 09:13 AM",
-        "iso_date": "2026-04-04T09:13:17+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
+        "published": "4 Apr 2026, 04:33 PM",
+        "iso_date": "2026-04-04T16:33:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -80,56 +90,46 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Countries with the most submarines",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXYzZVZqUzlwelhzS0NraWpta1VyRy1mZUgxLVJXdmI5NVJaVHV4cmpIUktaY0huUGtGZzVKaVFOZDBaU0xFdDVnaU9RUllwWjBjelBPekxDalh0YkdXMXVTd253OVNldzF0S2lKb1RZVXJpZnRWSTdWQTlYeXBCWmFiNlZja3E4VlhOcEZqYlVzV2RjLXdOT0kwTHEwSWVhUHlxUFJtMnZ2M1JaNV8xbGVRV254MlVSdWdtV3owSkZneGlPcmd3REJ4ZTc?oc=5",
-        "published": "4 Apr 2026, 05:32 PM",
-        "iso_date": "2026-04-04T17:32:14+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "RHF achievements highlighted",
-        "link": "https://www.gdnonline.com/Details/1380496/RHF-achievements-highlighted-",
+        "title": "Weâre with you",
+        "link": "https://www.gdnonline.com/Details/1380481/Weâre-with-you",
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405024838ctwo_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405013051hit_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "UNSC praises GCC role in supporting global peace",
-        "link": "https://www.gdnonline.com/Details/1380483/UNSC-praises-GCC-role-in-supporting-global-peace",
+        "title": "Gas cylinder trucks barred from parking inside residential areas",
+        "link": "https://www.gdnonline.com/Details/1380459/Gas-cylinder-trucks-barred-from-parking-inside-residential-areas-",
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405012825fmdralzayani_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260404_223656_0_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "New prayers for peace",
-        "link": "https://www.gdnonline.com/Details/1380491/New-prayers-for-peace",
+        "title": "SMC success in containing spread of dangerous fungus",
+        "link": "https://www.gdnonline.com/Details/1380462/SMC-success-in-containing-spread-of-dangerous-fungus",
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_020905_2_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405050448offf_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "188 missiles, 453 drones intercepted",
-        "link": "https://www.gdnonline.com/Details/1380482/188-missiles,-453-drones-intercepted",
+        "title": "Resilience and hope bloom through affected buildings",
+        "link": "https://www.gdnonline.com/Details/1380453/Resilience-and-hope-bloom-through-affected-buildings",
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405012152nationalcommunicationcentre_T.jpg?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405050317image_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
@@ -226,12 +226,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "‘Beyond Insulin’",
+        "link": "https://www.newsofbahrain.com/bahrain/129896.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fEu3GDSYRr_2026-04-05_1775370294resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shura Council Reviews Mandatory Graduate Training for Major Firms",
+        "link": "https://www.newsofbahrain.com/bahrain/129895.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oG9Yl0bNRt_2026-04-05_1775370081resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bapco Energies confirms drone strike incident at storage facility",
+        "link": "https://www.newsofbahrain.com/bahrain/129894.html",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6stHo2NOAf_2026-04-05_1775369811resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Two Years in Prison for Reckless Driving Death Case",
+        "link": "https://www.newsofbahrain.com/bahrain/129893.html",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ze1tV8l7r6_2026-04-05_1775368596resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Cyber Fraud Targeting U.S. Firm Ends in Jail Terms and Fines",
+        "link": "https://www.newsofbahrain.com/bahrain/129892.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zxnhg3CHoO_2026-04-05_1775368415resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "“We got him!” Trump details Iran rescue missions",
         "link": "https://www.newsofbahrain.com/world/129888.html",
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v2Raqhk374_2026-04-05_1775367187resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v2Raqhk374_2026-04-05_1775367187thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -241,27 +291,17 @@
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P6omyvgcCS_2026-04-05_1775367036resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P6omyvgcCS_2026-04-05_1775367036thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Explosion Hits Pro-Israel Centre in Netherlands; No Injuries Reported",
         "link": "https://www.newsofbahrain.com/world/129886.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
+        "published": "4 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J7d9WVM1mG_2026-04-04_1775336901resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, Pakistan FMs discuss regional tensions, cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/129885.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NstEfKIPgF_2026-04-04_1775335430resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J7d9WVM1mG_2026-04-04_1775336901thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,47 +311,7 @@
         "published": "4 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-04T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vP7GWe1Bb0_2026-04-04_1775326116resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Royal Humanitarian Foundation Issues Its Annual Report for 2025",
-        "link": "https://www.newsofbahrain.com/bahrain/129881.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8gi1rtEnXK_2026-04-04_1775309656thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Europe’s First Post-Conflict Gulf Visit",
-        "link": "https://www.newsofbahrain.com/bahrain/129841.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oijOkMuvaR_2026-04-04_1775289675thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "40+ nations meet to address rising maritime tensions in Hormuz",
-        "link": "https://www.newsofbahrain.com/bahrain/129840.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_E0uq3psLRV_2026-04-04_1775289448thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "What’s Next on Parliament’s Agenda?",
-        "link": "https://www.newsofbahrain.com/bahrain/129837.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9BjAELytNK_2026-04-04_1775288291thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vP7GWe1Bb0_2026-04-04_1775326116thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 05:35:31 UTC"
+  "fetched_at": "2026-04-05 06:28:24 UTC"
 }
