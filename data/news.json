@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 19
+      "count": 18
     }
   },
   "articles": {
@@ -62,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "Babco Energies' tank targeted by Iranian drone attack, no injuries reported",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUU0UmZsWHpEZnFSbTNQVWxoVEJmblcyNGRmMW9VQ3JOUjhqNy1oSTU5MWdQdEM1QklJQ3FXeks3VG9wb2RYRHJ0RWUxMF9jOGlob245ZUZVZl9ENkdOVWJQN2g0Z2hURjFaNVh3dEN4ZGVxSG52aWhPaHBsRzRPWnlEZXFZTEF1Y2pzc3BkejZ1UjM5ZkNucDExUVF3M19MVGhOS25FUmJEazU1NUI4UmZMS3NxeUNlMXhr?oc=5",
-        "published": "5 Apr 2026, 05:28 AM",
-        "iso_date": "2026-04-05T05:28:00+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
+        "published": "4 Apr 2026, 04:33 PM",
+        "iso_date": "2026-04-04T16:33:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Gulf Petrochemical Industries Company Units Hit by Drones",
+        "link": "https://www.newsofbahrain.com/bahrain/129908.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UwyvniLNuf_2026-04-05_1775375845resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Abu Dhabi: Fires Break Out at Borouge Facility After Air Defence Action",
         "link": "https://www.newsofbahrain.com/world/129907.html",
         "published": "5 Apr 2026, 09:22 AM",
@@ -238,8 +248,8 @@
       {
         "title": "Elite horses deliver dramatic finish to King’s Cup Festival",
         "link": "https://www.newsofbahrain.com/sports/129906.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FwLJiY8d62_2026-04-05_1775373527resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,20 +268,10 @@
       {
         "title": "Eight-man Riffa undone as Al Khaldiya strike late",
         "link": "https://www.newsofbahrain.com/sports/129904.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NMXTZuezPW_2026-04-05_1775373192resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain U18s Overwhelmed by Hosts in Schweitzer Opener",
-        "link": "https://www.newsofbahrain.com/sports/129903.html",
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w0W2r5R7zX_2026-04-05_1775372725resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NMXTZuezPW_2026-04-05_1775373192resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,16 +312,6 @@
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_oG9Yl0bNRt_2026-04-05_1775370081thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bapco Energies confirms drone strike incident at storage facility",
-        "link": "https://www.newsofbahrain.com/bahrain/129894.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6stHo2NOAf_2026-04-05_1775369811thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 07:50:18 UTC"
+  "fetched_at": "2026-04-05 08:13:19 UTC"
 }
