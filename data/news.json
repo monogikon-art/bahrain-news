@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain says Bapco fire extinguished after Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWpZSXplR1IwUldWWmN5ZzJaa2kzUHU1dUxnYkpjSkp2LTRGUmFMTzNnOWc3WXgtOEVDZGFxaEIyQkhRS2RhZ0xfV3lnT1l1eDl3NUdOMlc0bUlibkZsejN4T1dyN0hHMHljRTV2X3VtSFlFSi12WkJGSkhuOHBqWU5FOE1WM3ZldThwSDc0T3Q4aTVtYkVwVXpVSHdGZ1RadEd1M0EyXzMtMjZPRHcxMTdNNUs?oc=5",
-        "published": "5 Apr 2026, 05:56 AM",
-        "iso_date": "2026-04-05T05:56:00+00:00",
+        "title": "The Latest: US service member missing after Iran shot down jet rescued",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVNWU0ZDQXBpcEJIRzNRWWZoeW52SUxvSXNhLXVWam5vM0x4Zkk0ZFdBQlltT2UxYTZJcm9lcU9vMjBobE9YRklzV2FFNkxtcVREci1KX01XcWpTUnB1LUZjcUdVZFl3SWZhc19sV3h2TGp4ZllmbEt5bExGMlN1eTVQRGs1WUtHNG05VlJ3?oc=5",
+        "published": "5 Apr 2026, 08:02 AM",
+        "iso_date": "2026-04-05T08:02:59+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain: 4 Injured, Homes Damaged After Iranian Drone Debris Falls",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uYklWLUV1eDRLbzBfa1NhcVZVaE1pZEhiT2dZVGFzQ1dVQm1lVy03WXNjdldOWDlCVzdxWHQtSzBFU3FLMmplZFozQnJDem42TWI3ek90SQ?oc=5",
-        "published": "4 Apr 2026, 10:39 AM",
-        "iso_date": "2026-04-04T10:39:50+00:00",
+        "title": "Bahrain's Gulf Petrochemical Industries Company Operational Units Hit by Iranian Drones",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0tLdVNHZzUya2VpdWNGUjUwbHk2QmR0YjRTOEV4R3RhM2ZDQTlXM0ZqVFM4QTY0cDd3VkFOZzZyY011S1oyWjlpSHNYQTljdWtqR2VEQTRQX1Rfc0JiUXI2WFZTOThfMHRKa2h5Ymt2bG5KYWpPcUxCVXVVNjhHcnN0ZlZ0a0RjYlZGc0ZuYzZ0aTdxc0luQk1ORXY4Q2M2WUw0N0E3YS1xOVpCektRbk5FVkpWa3Q0d3hTQkVNeDJpWVcxYVNVZGxaOF8?oc=5",
+        "published": "5 Apr 2026, 08:41 AM",
+        "iso_date": "2026-04-05T08:41:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTk5qcTNsT1BUVmN6ZVRaRGNUOTVKWjlLOGdnOTU0S1ItTW1iakVpNDZMSS1CSFIwRXN4VDJZY1RyMDhuZ2tweko0QWZIbTdmbUhmOVRWTGZ5WE9MaW1VaUF1bHJiSGNCV29hRE1wRFU1a081N3NqUFVwOG5iV0hUdmp3M0NlOTYtb0pCb0JDZHZnazk1dVktZmhRSVQ?oc=5",
         "published": "4 Apr 2026, 09:17 AM",
         "iso_date": "2026-04-04T09:17:22+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Fire erupts at Bapco oil storage facility in Bahrain after Iranian airstrikes | Watch",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ2pweVd4Qm40Tl9DekZ1YUdUQ1lIbTZmbGc0MU5ZYm9lUHlONmxpb0hNeU54TTlvdmRKVlV1c3ZQaUtJb094UlhaaERCUFU3UXMwajl6MzQ1eWtIZTFiU3g2QWlSZ2xiTl9veGFUQUtTRzNkT2lJWU53U0F6NG1selh6NzdnYXA3ZWRlMzZielhyUlZMSDFVaWcxODhmTWVWQTZ5a3BmaGJrSnNSSXZQaGg5YmdlUlF4SXg2RHRhQU9iT0JvS1JTdmU1MzRaQzZxeU1UckE5a9IB3AFBVV95cUxQZ2V4Zks5X1FLYU1NdUJXY1hEbTN4ZnAwbDh2N3JhZGVuVlBJaWxSbU5mb0xQSVNyUmpqR200d0NYUVBCRi0tMm5fVEdrVDl0SGl4N3c5N3VJcFVLWGxtWU1kZk1mUktFN2gtcUdZNjh2QVNhVWhxaHBNeDA4QlRPS0xnNnVIVVVZcDFzQkFZN1kwM1V6ckdWNkFYYW5xLVBtd2FINGRxa0JOc3plLW5GcFlSRlA0N01xUXdqcjNTaDVhNkZULTAzOGhrYVFIMnEwQnJGNnRGZnNNZGlD?oc=5",
-        "published": "5 Apr 2026, 06:54 AM",
-        "iso_date": "2026-04-05T06:54:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -94,6 +84,16 @@
     ],
     "gdn": [
       {
+        "title": "GPIC confirms Iranian drones hit a number of its operational units",
+        "link": "https://www.gdnonline.com/Details/1380510/GPIC-confirms-Iranian-drones-hit-a-number-of-its-operational-units",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405104927gpicfire_T.jpg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bapco Energies releases statement on Iranian drone attack",
         "link": "https://www.gdnonline.com/Details/1380501/Bapco-Energies-releases-statement-on-Iranian-drone-attack",
         "published": "5 Apr 2026",
@@ -109,7 +109,7 @@
         "published": "5 Apr 2026",
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_011526_0.png?20260405",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405013051hit_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
@@ -130,16 +130,6 @@
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260405/20260405050448offf_T.jpg?20260405",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Resilience and hope bloom through affected buildings",
-        "link": "https://www.gdnonline.com/Details/1380453/Resilience-and-hope-bloom-through-affected-buildings",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405050317image_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
@@ -519,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 08:13:19 UTC"
+  "fetched_at": "2026-04-05 08:46:18 UTC"
 }
