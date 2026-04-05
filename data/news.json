@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 12
+      "count": 14
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "The Latest: US service member missing after Iran shot down jet rescued",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZmNKME1VSGVVZmpfbUlWNU5kOVpxOFc5ZXN3NmFscHNuZzhDM3J6Y2FFcFBQbUdqWFdhdVlxNl9hbHh1bmJxd2FQTzFlQ3paQVlYSEVZYU11RlM1ZGN2emYtWGZrd3RiY25PRzRIcl9wMVl2UWJfTVR5U1ZxeEZ3SFFzallnQk91MGw4SGlnUWtMODNjbF9tQnlPUF9IMG5yZ3pVWm1scncySWpvSXQyUjU5YXQxdXYxcmFKMm5Hak82dWxNR0Q3VFJCQWhUd1otc0c1elc1WjJvQXdBRVBKLUlKbWhmZTBKdVHSAeoBQVVfeXFMT2ZjSjBNVUhlVWZqX21JVjVOZDlacThXOWVzdzZhbHBzbmc4QzNyemNhRXBQUG1HalhXYXVZcTZfYWx4dW5icXdhUE8xZUN6WkFZWEhFWWFNdUZTNWRjdnpmLVhma3d0YmNuT0c0SHJfcDFZdlFiX01UeVNWcXhGd0hRc2pZZ0JPdTBsOEhpZ1FrTDgzY2xfbUJ5T1BfSDBucmd6VVptbHJ3Mklqb0l0MlI1OWF0MXV2MXJhSjJuR2pPNnVsTUdEN1RSQkFoVHdaLXNHNXpXNVoyb0F3QUVQSi1JSm1oZmUwSnVR?oc=5",
+        "published": "5 Apr 2026, 04:26 AM",
+        "iso_date": "2026-04-05T04:26:51+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain's Gulf Petrochemical Industries Company Operational Units Hit by Iranian Drones",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0tLdVNHZzUya2VpdWNGUjUwbHk2QmR0YjRTOEV4R3RhM2ZDQTlXM0ZqVFM4QTY0cDd3VkFOZzZyY011S1oyWjlpSHNYQTljdWtqR2VEQTRQX1Rfc0JiUXI2WFZTOThfMHRKa2h5Ymt2bG5KYWpPcUxCVXVVNjhHcnN0ZlZ0a0RjYlZGc0ZuYzZ0aTdxc0luQk1ORXY4Q2M2WUw0N0E3YS1xOVpCektRbk5FVkpWa3Q0d3hTQkVNeDJpWVcxYVNVZGxaOF8?oc=5",
         "published": "5 Apr 2026, 08:41 AM",
@@ -52,20 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drone attacks target GPIC and BAPCO facilities in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2N5RV9pZ0xBTEJvWm5ESm00bDJvbFBJTEdQUkUtdlItdmdCRDZyT2JBWU1hSnJDTldJcW9WRzBVbEk5WVo0Q2lGYm5oVi1FSHY2SUpTaE5XVFA0S1FhX2FOYkpvSEUxNG56YVB6d0F2Wm03WXU5WnFLU2Y1dnh4b08teDJmUnlFbmJhVTVYb051eE1xUmY5RUJJUmo4bTMzRmI3LXZTbE5kYjJ5THJkbFFHdi1qRkRt?oc=5",
-        "published": "5 Apr 2026, 09:07 AM",
-        "iso_date": "2026-04-05T09:07:18+00:00",
+        "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmdDZXF0TjlvTkNpcHd1UG1DZHU0V3dZanlHNVprSmhKZ0ZaODBnV3U2SHdjSHI2ZDk3cUdnTjEyaHlDUUpKTVZBS3lDVy1tazl6ZkFlbGlicDBWcG51UDlkTmZJVUMxNnducW05Skg3OHBGWVY4QUc4a0d5M1R2dGpROHFrLXVsangtQ1lOc0dOZGdyUTBKdHotWUhVMEhQNnVzMjhZZVpLckxtUUNKRjBtY0g4cTl0MWZaNFhlVFJZN1cycnFlZVhXekpOMU3SAc8BQVVfeXFMTUpnQ2VxdE45b05DaXB3dVBtQ2R1NFd3WWp5RzVaa0poSmdGWjgwZ1d1Nkh3Y0hyNmQ5N3FHZ04xMmh5Q1FKSk1WQUt5Q1ctbWs5emZBZWxpYnAwVnBudVA5ZE5mSVVDMTZ3bnFtOUpINzhwRllWOEFHOGtHeTNUdnRqUThxay11bGp4LUNZTnNHTmRnclEwSnR6LVlIVTBIUDZ1czI4WWVaS3JMbVFDSkYwbWNIOHE5dDFmWjRYZVRSWTdXMnJxZWVYV3pKTjFN?oc=5",
+        "published": "5 Apr 2026, 09:28 AM",
+        "iso_date": "2026-04-05T09:28:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmdDZXF0TjlvTkNpcHd1UG1DZHU0V3dZanlHNVprSmhKZ0ZaODBnV3U2SHdjSHI2ZDk3cUdnTjEyaHlDUUpKTVZBS3lDVy1tazl6ZkFlbGlicDBWcG51UDlkTmZJVUMxNnducW05Skg3OHBGWVY4QUc4a0d5M1R2dGpROHFrLXVsangtQ1lOc0dOZGdyUTBKdHotWUhVMEhQNnVzMjhZZVpLckxtUUNKRjBtY0g4cTl0MWZaNFhlVFJZN1cycnFlZVhXekpOMU3SAc8BQVVfeXFMTUpnQ2VxdE45b05DaXB3dVBtQ2R1NFd3WWp5RzVaa0poSmdGWjgwZ1d1Nkh3Y0hyNmQ5N3FHZ04xMmh5Q1FKSk1WQUt5Q1ctbWs5emZBZWxpYnAwVnBudVA5ZE5mSVVDMTZ3bnFtOUpINzhwRllWOEFHOGtHeTNUdnRqUThxay11bGp4LUNZTnNHTmRnclEwSnR6LVlIVTBIUDZ1czI4WWVaS3JMbVFDSkYwbWNIOHE5dDFmWjRYZVRSWTdXMnJxZWVYV3pKTjFN?oc=5",
-        "published": "5 Apr 2026, 09:28 AM",
-        "iso_date": "2026-04-05T09:28:00+00:00",
+        "title": "Iranian drone attacks target GPIC and BAPCO facilities in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2N5RV9pZ0xBTEJvWm5ESm00bDJvbFBJTEdQUkUtdlItdmdCRDZyT2JBWU1hSnJDTldJcW9WRzBVbEk5WVo0Q2lGYm5oVi1FSHY2SUpTaE5XVFA0S1FhX2FOYkpvSEUxNG56YVB6d0F2Wm03WXU5WnFLU2Y1dnh4b08teDJmUnlFbmJhVTVYb051eE1xUmY5RUJJUmo4bTMzRmI3LXZTbE5kYjJ5THJkbFFHdi1qRkRt?oc=5",
+        "published": "5 Apr 2026, 09:07 AM",
+        "iso_date": "2026-04-05T09:07:18+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -86,6 +96,16 @@
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xTkV0bVhXS1lZd2pId2pZeGhCOGNHNE53NVNacGtNLWJVS3ZLOGY3bDByUXBFS3pFaFFKZGV4Q2NkVzVIOGFfQVN3RFBFcFV6MExCZ1I3LVEzbHR3NEh0V1p2TU0wNU5Nb0RrNkdtbGRQeGI4VjBqLW5B?oc=5",
         "published": "5 Apr 2026, 09:25 AM",
         "iso_date": "2026-04-05T09:25:20+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s Bapco says tank caught fire at storage facility after Iranian attack",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEdfNXJCSVFPeVpXeHJ6OG5fZWpzQTJfM3EwMmM5NzRIUEE4YWNhT1VoZ2pfWWszaXlmZUJXckpoQnRYLUhyRkxzTmllcnkxT1FSSzhtZ2ZWdElYSDFObV9YY3pGc0hGbzhaeEFyQ3JKbFVMNWJVN3Jsc0ZkbThnbzBnNWlVSlRoN0FwUVhTVENXWDJRREF4Z1NzZFBxS0stNzJKVmNuTzk0bmNNTUMtdGZ5cm9pM0FKNlBkNmpyVmk0UzN5a3RtYjdB0gHPAUFVX3lxTFBkLWVVYWYwVG5mTVRFY3h4c2lIYXZQWXlJa3JIYUZmYmxQTG9lcjRvYXpoTmZQWGpiVXhZWlJNM0h4LVVOZTZOWVNnV0IwRmwwNFdlbnVmT1VMM0xKTXNzeFdmeUJrZ0pMWU1sLUp6YW5mWDVtem9hMmY5Nkd4U0R3TVdxdjlxQjhZNGh2OHhlS1Z1Y0FFOFlwRXNYaFhKUlI2M0Yxc1hEYzB0dWR5N243SmFxcDJWUy1wNnlnQ2FQdHlYTnluUTRIalRLa3lXQQ?oc=5",
+        "published": "5 Apr 2026, 06:46 AM",
+        "iso_date": "2026-04-05T06:46:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -559,5 +579,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 12:12:21 UTC"
+  "fetched_at": "2026-04-05 12:47:22 UTC"
 }
