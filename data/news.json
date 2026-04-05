@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 19
+      "count": 20
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -106,6 +106,16 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmdDZXF0TjlvTkNpcHd1UG1DZHU0V3dZanlHNVprSmhKZ0ZaODBnV3U2SHdjSHI2ZDk3cUdnTjEyaHlDUUpKTVZBS3lDVy1tazl6ZkFlbGlicDBWcG51UDlkTmZJVUMxNnducW05Skg3OHBGWVY4QUc4a0d5M1R2dGpROHFrLXVsangtQ1lOc0dOZGdyUTBKdHotWUhVMEhQNnVzMjhZZVpLckxtUUNKRjBtY0g4cTl0MWZaNFhlVFJZN1cycnFlZVhXekpOMU3SAc8BQVVfeXFMTUpnQ2VxdE45b05DaXB3dVBtQ2R1NFd3WWp5RzVaa0poSmdGWjgwZ1d1Nkh3Y0hyNmQ5N3FHZ04xMmh5Q1FKSk1WQUt5Q1ctbWs5emZBZWxpYnAwVnBudVA5ZE5mSVVDMTZ3bnFtOUpINzhwRllWOEFHOGtHeTNUdnRqUThxay11bGp4LUNZTnNHTmRnclEwSnR6LVlIVTBIUDZ1czI4WWVaS3JMbVFDSkYwbWNIOHE5dDFmWjRYZVRSWTdXMnJxZWVYV3pKTjFN?oc=5",
         "published": "5 Apr 2026, 09:28 AM",
         "iso_date": "2026-04-05T09:28:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones trigger fire at Gulf Petrochemical Industries in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaERpYTF1NkFqOFVIU1JFajJEOV9aYlRWRXhwS0NueEF5bXJXQ3Rkb0tzb1BQU3d4bkpuTzY2dm95ck42QXQ2R3RSTmRScGIzclQxeWQ3YV9FblNvSXBmQThNNl9wYnRxS3BSS2dRZWkzN2Q5eEYtVGtVTzdQYUtud2p4UG9ONU9Rd25yczByajJTTUl0UndsRVNnZ2s5SHc?oc=5",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:14+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -346,6 +356,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Morocco–Egypt Ties Enter New Phase as Joint Coordination Committee Launched in Cairo",
+        "link": "https://www.newsofbahrain.com/world/129928.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XY7fU9DJw6_2026-04-05_1775421146resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Celine Dion’s Return Sparks Record-Breaking Ticket Rush in Paris",
         "link": "https://www.newsofbahrain.com/trends/129927.html",
         "published": "4 Apr 2026, 09:22 AM",
@@ -358,8 +378,8 @@
       {
         "title": "Nigerian military rescues 31 kidnapped Easter worshippers",
         "link": "https://www.newsofbahrain.com/world/129926.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QNyzApDgcr_2026-04-05_1775418978resized_pic.jpg",
         "source": "newsofbahrain",
@@ -378,20 +398,10 @@
       {
         "title": "Bahrain urges urgent global action over escalating Strait of Hormuz tensions",
         "link": "https://www.newsofbahrain.com/bahrain/129924.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bjos0YedF5_2026-04-05_1775418535resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Floods in Angola Kill 15, Displace Thousands as Heavy Rains Batter Cities",
-        "link": "https://www.newsofbahrain.com/world/129923.html",
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0jTuEBeRsa_2026-04-05_1775418355resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bjos0YedF5_2026-04-05_1775418535resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -436,12 +446,12 @@
         "category": "Latest"
       },
       {
-        "title": "Nepal Court Extends Detention of Former PM Oli in Protest Crackdown Case",
-        "link": "https://www.newsofbahrain.com/world/129921.html",
+        "title": "Floods in Angola Kill 15, Displace Thousands as Heavy Rains Batter Cities",
+        "link": "https://www.newsofbahrain.com/world/129923.html",
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BLl1xe3iAT_2026-04-05_1775418030thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0jTuEBeRsa_2026-04-05_1775418355thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -619,5 +629,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 20:07:52 UTC"
+  "fetched_at": "2026-04-05 20:45:11 UTC"
 }
