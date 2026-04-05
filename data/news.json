@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 16
+      "count": 17
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -53,19 +53,9 @@
       },
       {
         "title": "The Latest: US service member missing after Iran shot down jet rescued",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZmNKME1VSGVVZmpfbUlWNU5kOVpxOFc5ZXN3NmFscHNuZzhDM3J6Y2FFcFBQbUdqWFdhdVlxNl9hbHh1bmJxd2FQTzFlQ3paQVlYSEVZYU11RlM1ZGN2emYtWGZrd3RiY25PRzRIcl9wMVl2UWJfTVR5U1ZxeEZ3SFFzallnQk91MGw4SGlnUWtMODNjbF9tQnlPUF9IMG5yZ3pVWm1scncySWpvSXQyUjU5YXQxdXYxcmFKMm5Hak82dWxNR0Q3VFJCQWhUd1otc0c1elc1WjJvQXdBRVBKLUlKbWhmZTBKdVHSAeoBQVVfeXFMT2ZjSjBNVUhlVWZqX21JVjVOZDlacThXOWVzdzZhbHBzbmc4QzNyemNhRXBQUG1HalhXYXVZcTZfYWx4dW5icXdhUE8xZUN6WkFZWEhFWWFNdUZTNWRjdnpmLVhma3d0YmNuT0c0SHJfcDFZdlFiX01UeVNWcXhGd0hRc2pZZ0JPdTBsOEhpZ1FrTDgzY2xfbUJ5T1BfSDBucmd6VVptbHJ3Mklqb0l0MlI1OWF0MXV2MXJhSjJuR2pPNnVsTUdEN1RSQkFoVHdaLXNHNXpXNVoyb0F3QUVQSi1JSm1oZmUwSnVR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOU1ZMGRpRTVzbU5iSFd0enU3b3ZVOFB1SUhYXzM0SEl4OFpLOVFYM3ROY29IY1VydlRPYlRXNmhYbjd4dDRhZER4SmtpWVlzYWU0Ri1peGVsZ1BtampXNUZSRzNkeVpobnZCWVg0bEhybnJsTW83eVdWa1lFT0Qyc0V0VHdmVEdxemdYcG14MEF3VFIwM1NFbnU4Y0VUV3pjQk5nSm9mMlUyNVpwdXNBZ2dDZ2h5NllkSldvYUFzNkJVUnhLekFpby01ckNIbU9xQ19HUVJkZ09aakVwcHRDQ1prQmVlbFViRzJwTUNCTdIB7wFBVV95cUxQOU1ZMGRpRTVzbU5iSFd0enU3b3ZVOFB1SUhYXzM0SEl4OFpLOVFYM3ROY29IY1VydlRPYlRXNmhYbjd4dDRhZER4SmtpWVlzYWU0Ri1peGVsZ1BtampXNUZSRzNkeVpobnZCWVg0bEhybnJsTW83eVdWa1lFT0Qyc0V0VHdmVEdxemdYcG14MEF3VFIwM1NFbnU4Y0VUV3pjQk5nSm9mMlUyNVpwdXNBZ2dDZ2h5NllkSldvYUFzNkJVUnhLekFpby01ckNIbU9xQ19HUVJkZ09aakVwcHRDQ1prQmVlbFViRzJwTUNCTQ?oc=5",
         "published": "5 Apr 2026, 04:26 AM",
         "iso_date": "2026-04-05T04:26:51+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone strikes hit 2 petrochemical plants, desalination facility in Gulf states - Region - World",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54X1UtTldDaDNVa1JweE13S01kaXNKanZKRW1TQ0FuTTNoTkhKemh4YXNrQVhRUmJFVnhEY3BLN1lDdlhJMVhHY0lsczYwVjdlYVIwdHpkanc?oc=5",
-        "published": "5 Apr 2026, 11:07 AM",
-        "iso_date": "2026-04-05T11:07:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -76,6 +66,16 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0tLdVNHZzUya2VpdWNGUjUwbHk2QmR0YjRTOEV4R3RhM2ZDQTlXM0ZqVFM4QTY0cDd3VkFOZzZyY011S1oyWjlpSHNYQTljdWtqR2VEQTRQX1Rfc0JiUXI2WFZTOThfMHRKa2h5Ymt2bG5KYWpPcUxCVXVVNjhHcnN0ZlZ0a0RjYlZGc0ZuYzZ0aTdxc0luQk1ORXY4Q2M2WUw0N0E3YS1xOVpCektRbk5FVkpWa3Q0d3hTQkVNeDJpWVcxYVNVZGxaOF8?oc=5",
         "published": "5 Apr 2026, 08:41 AM",
         "iso_date": "2026-04-05T08:41:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Drone strikes hit 2 petrochemical plants, desalination facility in Gulf states - Region - World",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54X1UtTldDaDNVa1JweE13S01kaXNKanZKRW1TQ0FuTTNoTkhKemh4YXNrQVhRUmJFVnhEY3BLN1lDdlhJMVhHY0lsczYwVjdlYVIwdHpkanc?oc=5",
+        "published": "5 Apr 2026, 11:07 AM",
+        "iso_date": "2026-04-05T11:07:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -122,6 +122,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain’s GPIC operating units targeted by Iranian drones",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Mml2QnJmbWZwSUtrV0JoNF90LUhaNm41TE5iLTZQcGNVaXlzU280N2tzdVhNRjFwbzNBZGNvd3dYazJMaXRLdDZiQU52TGt3UlJaMkQ5TmExU2NqS19rOWZWRDB1X1lOdHBrNWFVSQ?oc=5",
+        "published": "5 Apr 2026, 05:15 PM",
+        "iso_date": "2026-04-05T17:15:51+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzYzeEZmUE5wTWdYdWtzOVlsLXdfR1h6bTBBajM4NVlZSEVFNVJFRkVWUjBjQWRLMVplM3lySUs1Nlo4OWMzNks4TEtwZVRfWGplSW54d2NUZl9hS0kyNzJuSnVfZlVESU9BTF94clExQkxPYXduZnJubk5TNDlsQzJhSkx2NWstWTBsLUNEaE1SbHlsczBoS0xGR2xFNTBDYm84UjRvbktnYmpZZGRLZHZiX043UFgzMmlPZkMyaWZUUUXSAcgBQVVfeXFMT09lUkRfeEhiZUxWUGx5VEhHTHdoY3RpVVRMV0kwM0sySUpCVjRzYXRZR1h1TGN5ZC1ydUUzZ09MdTc3WlNfMmE1WXZBZ0ZUTWdIVXRBM0RsTGZ1WU91cXNpNEVPcXpmZm5HQ0pzT0UyRl9SMGtGRkdpLWp3TG01SUFNb0dlMFJHWUtLR0N6cjRDWl9TRzJBd25fQlk0Z01zUTUyU2ZOakdvNG5waUlIZXFxSll2R3ZZdTZubUxFMXo0VWV1VXdOVGM?oc=5",
         "published": "5 Apr 2026, 10:00 AM",
@@ -142,10 +152,20 @@
         "category": "Latest"
       },
       {
+        "title": "Iran attacked a fuel reservoir of the Bapco oil company in Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXlxbmhycDhTU01aTnh6dmdXdG1yRFJ5dUNPTjFQa3Z1NVFxeHNIaE5JX3NPcnRST0RPR1otTXU1NVBhUTZ6VkVEM0ZSWTdSZ29YSjRfd1RrcF9jd29KNE9FcFRWWGg0b2xvM2ZNck5FVURPQld5N2x1TzNiczhGWjdpMWI3YWtWVXVKZ0lEOTVoMTYxQnc?oc=5",
+        "published": "5 Apr 2026, 07:00 AM",
+        "iso_date": "2026-04-05T07:00:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Agency News | ⚡Iranian Drones Strike Bahrain's Petrochemical Firm, Fire Under Control",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVkwejFvWE5FSUdUelM2cm5ibVdpTmNGLUhfMElLcTNOTVpSMG92dnhhb3luUHRmRzY4WXlpdll1allHYm1NTWItTEk1QUwxQXNydVFOV0tESC1nbWxleG5jc0VFS2RoUUFfVUw2WjNCSmJwNS1sOVFnVW5ZdzZIVnMyeGRRVzM4QTNnLTRKaUZJeEoycXZaMXQyd1A4WEFuaUdOT0tEWjZQdjVWdFB5R2VTLWwzM1ZlWElteXRQSHNRTmR6bEHSAcYBQVVfeXFMUC1ZMHoxb1hORUlHVHpTNnJuYm1XaU5jRi1IXzBJS3EzTk1aUjBvdnZ4YW95blB0Zkc2OFl5aXZZdWpZR2JtTU1iLUxJNUFMMUFzcnVRTldLREgtZ21sZXhuY3NFRUtkaFFBX1VMNlozQkpicDUtbDlRZ1VuWXc2SFZzMnhkUVczOEEzZy00SmlGSXhKMnF2WjF0MndQOFhBbmlHTk9LRFo2UHY1VnRQeUdlUy1sMzNWZVhJbXl0UEhzUU5kemxB?oc=5",
-        "published": "5 Apr 2026, 11:15 AM",
-        "iso_date": "2026-04-05T11:15:24+00:00",
+        "published": "5 Apr 2026, 10:22 AM",
+        "iso_date": "2026-04-05T10:22:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -166,16 +186,6 @@
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONGtJNmdvRTczcWVQN3c1OTg4OEVjY1IzLVJ6RHNkdlhBVlMwMTNfRVU1QTVKSTVRbU9WWFAtN2NJT2tfckZkR2sxTHV2OVQxX2J6RTVXVDdNcVBfSFM2RkhJOTdfZ1pvSDdXeDJWQktHWjVnMndJN1lOelZSNVhRWUVzV1I0QkhsWk9BMXhtWm4ySVg5ZG1uMkdVa1JOajk2UFM0T2R6VXllVkVJQ3lLWFpKU3ZKT0V6WWdfZmR1Q08yTlR5TER1LU5VWDJlUzRWUHVFT0NKMkk0SkZVejE5bElVT0tqWndIa1J2ZnlEbVfSAfABQVVfeXFMTjRrSTZnb0U3M3FlUDd3NTk4ODhFY2NSMy1SekRzZHZYQVZTMDEzX0VVNUE1Skk1UW1PVlhQLTdjSU9rX3JGZEdrMUx1djlUMV9iekU1V1Q3TXFQX0hTNkZISTk3X2dab0g3V3gyVkJLR1o1ZzJ3STdZTnpWUjVYUVlFc1dSNEJIbFpPQTF4bVpuMklYOWRtbjJHVWtSTmo5NlBTNE9kelV5ZVZFSUN5S1haSlN2Sk9FellnX2ZkdUNPMk5UeUxEdS1OVVgyZVM0VlB1RU9DSjJJNEpGVXoxOWxJVU9Lalp3SGtSdmZ5RG1X?oc=5",
         "published": "5 Apr 2026, 09:59 AM",
         "iso_date": "2026-04-05T09:59:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran attacked a fuel reservoir of the Bapco oil company in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXlxbmhycDhTU01aTnh6dmdXdG1yRFJ5dUNPTjFQa3Z1NVFxeHNIaE5JX3NPcnRST0RPR1otTXU1NVBhUTZ6VkVEM0ZSWTdSZ29YSjRfd1RrcF9jd29KNE9FcFRWWGg0b2xvM2ZNck5FVURPQld5N2x1TzNiczhGWjdpMWI3YWtWVXVKZ0lEOTVoMTYxQnc?oc=5",
-        "published": "5 Apr 2026, 07:00 AM",
-        "iso_date": "2026-04-05T07:00:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -284,6 +294,26 @@
         "category": "Latest"
       },
       {
+        "title": "Schouten to skip World Cup due to injury",
+        "link": "https://www.gdnonline.com/Details/1380571/Schouten-to-skip-World-Cup-due-to-injury",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406011122fghftju_T.jpg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Leeds beat West Ham on Perriâs penalty heroics",
+        "link": "https://www.gdnonline.com/Details/1380572/Leeds-beat-West-Ham-on-Perriâs-penalty-heroics",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406_010734_0_T.jpg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Khaldiya clinch a thriller",
         "link": "https://www.gdnonline.com/Details/1380479/Khaldiya-clinch-a-thriller",
         "published": "5 Apr 2026",
@@ -310,26 +340,6 @@
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_013205_1_T.jpg?20260406",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Barcelona beat Atletico to move seven points clear",
-        "link": "https://www.gdnonline.com/Details/1380487/Barcelona-beat-Atletico-to-move-seven-points-clear",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_013204_0_T.jpg?20260406",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Muharraq outclass Sitra 3-0",
-        "link": "https://www.gdnonline.com/Details/1380404/Muharraq-outclass-Sitra-3-0",
-        "published": "4 Apr 2026",
-        "iso_date": "2026-04-04T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260404/20260404010056footy_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       }
@@ -609,5 +619,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 22:07:51 UTC"
+  "fetched_at": "2026-04-05 22:44:17 UTC"
 }
