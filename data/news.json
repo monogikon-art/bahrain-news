@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 19
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,199 +20,18 @@
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Drone attacks spark fires at petrochemical sites in Bahrain and UAE amid escalation",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xMUN3RTVIak9MR1hzRVVWWUM4bUdHMUxNYnhaZkg0a2xuRGVhX0QyYjNNVmc3RU80b3VEamNrb2lWNDdzSkZDRFAwV2FxSmlJeVAw?oc=5",
-        "published": "5 Apr 2026, 09:19 AM",
-        "iso_date": "2026-04-05T09:19:51+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain says Bapco fire extinguished after Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWpZSXplR1IwUldWWmN5ZzJaa2kzUHU1dUxnYkpjSkp2LTRGUmFMTzNnOWc3WXgtOEVDZGFxaEIyQkhRS2RhZ0xfV3lnT1l1eDl3NUdOMlc0bUlibkZsejN4T1dyN0hHMHljRTV2X3VtSFlFSi12WkJGSkhuOHBqWU5FOE1WM3ZldThwSDc0T3Q4aTVtYkVwVXpVSHdGZ1RadEd1M0EyXzMtMjZPRHcxMTdNNUs?oc=5",
-        "published": "5 Apr 2026, 05:56 AM",
-        "iso_date": "2026-04-05T05:56:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s Gulf Petrochemical Industries says fire under control at units after Iran attack",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaURYUXVYb19ZZ0NsWjl1MUN5QUZZTzJveEZjS21zVXpSX25kemgteVl1STZyaUpBRHNNTTVxV0dfcVRYUXJwYW1peDBOd1N0aFBaMElMTUxKSThXaWxmZ0RxOGpIaGdBZXRTZm5MQV9pZkotVHVNSVM0bjN0NzFnWW9KWG13cFRHaU80X3BocFhZVjdRQUlzdFQzdGJ5Q2NGM2hpUFhYc25KekxfTVdTclkyT1Q2ZXplLWlHOS1IRDdTR3NzTldRVHp5YUNqdXJRaGwyV2RzVUtpRS1DMWfSAd4BQVVfeXFMT2lEWFF1WG9fWWdDbFo5dTFDeUFGWU8yb3hGY0ttc1V6Ul9uZHpoLXlZdUk2cmlKQURzTU01cVdHX3FUWFFycGFtaXgwTndTdGhQWjBJTE1MSkk4V2lsZmdEcThqSGhnQWV0U2ZuTEFfaWZKLVR1TUlTNG4zdDcxZ1lvSlhtd3BUR2lPNF9waHBYWVY3UUFJc3RUM3RieUNjRjNoaVBYWHNuSnpMX01XU3JZMk9UNmV6ZS1pRzktSEQ3U0dzc05XUVR6eWFDanVyUWhsMldkc1VLaUUtQzFn?oc=5",
-        "published": "5 Apr 2026, 08:40 AM",
-        "iso_date": "2026-04-05T08:40:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "The Latest: US service member missing after Iran shot down jet rescued",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVnB3d2lTNHl2U08wT0hFS1Y2bmpoUGNQZU1rdC1lRkRKNncwb2JaWWV1RUpneTNFb0FtSHBpdXVLTUtpX05GT09XRnFycTVtV0Z6VTFsY29OUUwtb0dmZHRlNUlLdFhIdWZvOUxLYkhvbVdYZXJMSVRLeHF5NXQ4TWFYZnhZUlZ2SDNMSkY3Rk5QME5CYmE2U2F1a3E2bF9aSG5GZnlTUkViOW9ra3dfX21GcUFVRU1rNmpsSlp0VUV6RlBiVHB4c0U1MTl3WHptQlFkT2xUM0VpOURwQ0stZlpValZfSGNndHZZN3BnNNIB7wFBVV95cUxNVnB3d2lTNHl2U08wT0hFS1Y2bmpoUGNQZU1rdC1lRkRKNncwb2JaWWV1RUpneTNFb0FtSHBpdXVLTUtpX05GT09XRnFycTVtV0Z6VTFsY29OUUwtb0dmZHRlNUlLdFhIdWZvOUxLYkhvbVdYZXJMSVRLeHF5NXQ4TWFYZnhZUlZ2SDNMSkY3Rk5QME5CYmE2U2F1a3E2bF9aSG5GZnlTUkViOW9ra3dfX21GcUFVRU1rNmpsSlp0VUV6RlBiVHB4c0U1MTl3WHptQlFkT2xUM0VpOURwQ0stZlpValZfSGNndHZZN3BnNA?oc=5",
-        "published": "5 Apr 2026, 01:26 AM",
-        "iso_date": "2026-04-05T01:26:51+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain's Gulf Petrochemical Industries Company Operational Units Hit by Iranian Drones",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0tLdVNHZzUya2VpdWNGUjUwbHk2QmR0YjRTOEV4R3RhM2ZDQTlXM0ZqVFM4QTY0cDd3VkFOZzZyY011S1oyWjlpSHNYQTljdWtqR2VEQTRQX1Rfc0JiUXI2WFZTOThfMHRKa2h5Ymt2bG5KYWpPcUxCVXVVNjhHcnN0ZlZ0a0RjYlZGc0ZuYzZ0aTdxc0luQk1ORXY4Q2M2WUw0N0E3YS1xOVpCektRbk5FVkpWa3Q0d3hTQkVNeDJpWVcxYVNVZGxaOF8?oc=5",
-        "published": "5 Apr 2026, 08:41 AM",
-        "iso_date": "2026-04-05T08:41:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone strikes hit 2 petrochemical plants, desalination facility in Gulf states - Region - World",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54X1UtTldDaDNVa1JweE13S01kaXNKanZKRW1TQ0FuTTNoTkhKemh4YXNrQVhRUmJFVnhEY3BLN1lDdlhJMVhHY0lsczYwVjdlYVIwdHpkanc?oc=5",
-        "published": "5 Apr 2026, 11:07 AM",
-        "iso_date": "2026-04-05T11:07:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone attack sparks fire at Bahrain petrochemical facility",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTloV1RlenBlM2VMaDJRVG5zZTB3REgwdERMZzlDbDc5dFJUczFRVGRHNHg1VkNqbEI3Rkp1azJSOVVNdC1zRzhjX1N5dFNINmVibXk1b0tOU0RYT0gtT0ttRlYtME83V25ZS3Z6UjE2S1QtZTZXbjd2UERrWkF6RTNHU09tR0lscmNmb016TzF4RVFHbkVzeXlFc3pGWXJEclNXRGpn?oc=5",
-        "published": "5 Apr 2026, 10:11 AM",
-        "iso_date": "2026-04-05T10:11:17+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drone attacks target GPIC and BAPCO facilities in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2N5RV9pZ0xBTEJvWm5ESm00bDJvbFBJTEdQUkUtdlItdmdCRDZyT2JBWU1hSnJDTldJcW9WRzBVbEk5WVo0Q2lGYm5oVi1FSHY2SUpTaE5XVFA0S1FhX2FOYkpvSEUxNG56YVB6d0F2Wm03WXU5WnFLU2Y1dnh4b08teDJmUnlFbmJhVTVYb051eE1xUmY5RUJJUmo4bTMzRmI3LXZTbE5kYjJ5THJkbFFHdi1qRkRt?oc=5",
-        "published": "5 Apr 2026, 09:07 AM",
-        "iso_date": "2026-04-05T09:07:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmdDZXF0TjlvTkNpcHd1UG1DZHU0V3dZanlHNVprSmhKZ0ZaODBnV3U2SHdjSHI2ZDk3cUdnTjEyaHlDUUpKTVZBS3lDVy1tazl6ZkFlbGlicDBWcG51UDlkTmZJVUMxNnducW05Skg3OHBGWVY4QUc4a0d5M1R2dGpROHFrLXVsangtQ1lOc0dOZGdyUTBKdHotWUhVMEhQNnVzMjhZZVpLckxtUUNKRjBtY0g4cTl0MWZaNFhlVFJZN1cycnFlZVhXekpOMU3SAc8BQVVfeXFMTUpnQ2VxdE45b05DaXB3dVBtQ2R1NFd3WWp5RzVaa0poSmdGWjgwZ1d1Nkh3Y0hyNmQ5N3FHZ04xMmh5Q1FKSk1WQUt5Q1ctbWs5emZBZWxpYnAwVnBudVA5ZE5mSVVDMTZ3bnFtOUpINzhwRllWOEFHOGtHeTNUdnRqUThxay11bGp4LUNZTnNHTmRnclEwSnR6LVlIVTBIUDZ1czI4WWVaS3JMbVFDSkYwbWNIOHE5dDFmWjRYZVRSWTdXMnJxZWVYV3pKTjFN?oc=5",
-        "published": "5 Apr 2026, 09:28 AM",
-        "iso_date": "2026-04-05T09:28:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran strikes facilities of Gulf Petrochemical Industries in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkkyUXl5VUFyOGV1U2FodlctQmtINFFzMmdOclV6dkVEUE92Z1ZqbFk3dFd4NWZIWnMwbktvandiWTQ5MDNsYndBdWtqZDAwRFNYam5FYmlrUFZTdXdjTmlwQmRha0NDMHlmYk93VHFTbGJleXF6M3BRNEVUX2RjdlhvVVBUUlVYRWNES1ZPUG9CNGlidkVZbGxyclotOXZHSXhOUlMxMVpHTDll0gGsAUFVX3lxTE1uSTJReXlVQXI4ZXVTYWh2Vy1Ca0g0UXMyZ05yVXp2RURQT3ZnVmpsWTd0V3g1ZkhaczBuS29qd2JZNDkwM2xid0F1a2pkMDBEU1hqbkViaWtQVlN1d2NOaXBCZGFrQ0MweWZiT3dUcVNsYmV5cXozcFE0RVRfZGN2WG9VUFRSVVhFY0RLVk9Qb0I0aWJ2RVlsbHJyWi05dkdJeE5SUzExWkdMOWU?oc=5",
-        "published": "5 Apr 2026, 09:38 AM",
-        "iso_date": "2026-04-05T09:38:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzYzeEZmUE5wTWdYdWtzOVlsLXdfR1h6bTBBajM4NVlZSEVFNVJFRkVWUjBjQWRLMVplM3lySUs1Nlo4OWMzNks4TEtwZVRfWGplSW54d2NUZl9hS0kyNzJuSnVfZlVESU9BTF94clExQkxPYXduZnJubk5TNDlsQzJhSkx2NWstWTBsLUNEaE1SbHlsczBoS0xGR2xFNTBDYm84UjRvbktnYmpZZGRLZHZiX043UFgzMmlPZkMyaWZUUUXSAcgBQVVfeXFMT09lUkRfeEhiZUxWUGx5VEhHTHdoY3RpVVRMV0kwM0sySUpCVjRzYXRZR1h1TGN5ZC1ydUUzZ09MdTc3WlNfMmE1WXZBZ0ZUTWdIVXRBM0RsTGZ1WU91cXNpNEVPcXpmZm5HQ0pzT0UyRl9SMGtGRkdpLWp3TG01SUFNb0dlMFJHWUtLR0N6cjRDWl9TRzJBd25fQlk0Z01zUTUyU2ZOakdvNG5waUlIZXFxSll2R3ZZdTZubUxFMXo0VWV1VXdOVGM?oc=5",
-        "published": "5 Apr 2026, 10:00 AM",
-        "iso_date": "2026-04-05T10:00:52+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran launches drone attack at Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xTkV0bVhXS1lZd2pId2pZeGhCOGNHNE53NVNacGtNLWJVS3ZLOGY3bDByUXBFS3pFaFFKZGV4Q2NkVzVIOGFfQVN3RFBFcFV6MExCZ1I3LVEzbHR3NEh0V1p2TU0wNU5Nb0RrNkdtbGRQeGI4VjBqLW5B?oc=5",
-        "published": "5 Apr 2026, 09:25 AM",
-        "iso_date": "2026-04-05T09:25:20+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s Bapco says tank caught fire at storage facility after Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEdfNXJCSVFPeVpXeHJ6OG5fZWpzQTJfM3EwMmM5NzRIUEE4YWNhT1VoZ2pfWWszaXlmZUJXckpoQnRYLUhyRkxzTmllcnkxT1FSSzhtZ2ZWdElYSDFObV9YY3pGc0hGbzhaeEFyQ3JKbFVMNWJVN3Jsc0ZkbThnbzBnNWlVSlRoN0FwUVhTVENXWDJRREF4Z1NzZFBxS0stNzJKVmNuTzk0bmNNTUMtdGZ5cm9pM0FKNlBkNmpyVmk0UzN5a3RtYjdB0gHPAUFVX3lxTFBkLWVVYWYwVG5mTVRFY3h4c2lIYXZQWXlJa3JIYUZmYmxQTG9lcjRvYXpoTmZQWGpiVXhZWlJNM0h4LVVOZTZOWVNnV0IwRmwwNFdlbnVmT1VMM0xKTXNzeFdmeUJrZ0pMWU1sLUp6YW5mWDVtem9hMmY5Nkd4U0R3TVdxdjlxQjhZNGh2OHhlS1Z1Y0FFOFlwRXNYaFhKUlI2M0Yxc1hEYzB0dWR5N243SmFxcDJWUy1wNnlnQ2FQdHlYTnluUTRIalRLa3lXQQ?oc=5",
-        "published": "5 Apr 2026, 06:46 AM",
-        "iso_date": "2026-04-05T06:46:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran attacked a fuel reservoir of the Bapco oil company in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXlxbmhycDhTU01aTnh6dmdXdG1yRFJ5dUNPTjFQa3Z1NVFxeHNIaE5JX3NPcnRST0RPR1otTXU1NVBhUTZ6VkVEM0ZSWTdSZ29YSjRfd1RrcF9jd29KNE9FcFRWWGg0b2xvM2ZNck5FVURPQld5N2x1TzNiczhGWjdpMWI3YWtWVXVKZ0lEOTVoMTYxQnc?oc=5",
-        "published": "5 Apr 2026, 07:00 AM",
-        "iso_date": "2026-04-05T07:00:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFZcFR2THF1ZGpkTXRqRnhOTGx5TURjWmY1aGVPT01nT29NeTlfTzFuU0RDbDNEYlR2QXFPVTJaVkpqNlB1djJOc1huNVVoZFByaVJsUkg5eDJiZWhEcTNtVlVFZTF4YU1TU3Z2SUhDMkVNNUxWbVY5U2lGZmJFbEpPb1dzdGthUW5kRXRpX08xQU5RVXVMMEFlX3Z3VGZTajJDd210TkI3R3hndVVjdnNnb0IyWVFKS0Z2QnRtanRiUGNDZVZoc0gyaExURzFKdVBv?oc=5",
-        "published": "4 Apr 2026, 04:33 PM",
-        "iso_date": "2026-04-04T16:33:36+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Agency News | ⚡Iranian Drones Strike Bahrain's Petrochemical Firm, Fire Under Control",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVkwejFvWE5FSUdUelM2cm5ibVdpTmNGLUhfMElLcTNOTVpSMG92dnhhb3luUHRmRzY4WXlpdll1allHYm1NTWItTEk1QUwxQXNydVFOV0tESC1nbWxleG5jc0VFS2RoUUFfVUw2WjNCSmJwNS1sOVFnVW5ZdzZIVnMyeGRRVzM4QTNnLTRKaUZJeEoycXZaMXQyd1A4WEFuaUdOT0tEWjZQdjVWdFB5R2VTLWwzM1ZlWElteXRQSHNRTmR6bEHSAcYBQVVfeXFMUC1ZMHoxb1hORUlHVHpTNnJuYm1XaU5jRi1IXzBJS3EzTk1aUjBvdnZ4YW95blB0Zkc2OFl5aXZZdWpZR2JtTU1iLUxJNUFMMUFzcnVRTldLREgtZ21sZXhuY3NFRUtkaFFBX1VMNlozQkpicDUtbDlRZ1VuWXc2SFZzMnhkUVczOEEzZy00SmlGSXhKMnF2WjF0MndQOFhBbmlHTk9LRFo2UHY1VnRQeUdlUy1sMzNWZVhJbXl0UEhzUU5kemxB?oc=5",
-        "published": "5 Apr 2026, 10:34 AM",
-        "iso_date": "2026-04-05T10:34:30+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Drone Strike Hits Bahrain Petrochemical Facility, Fire Erupts at GPIC Units; No Casualties Reported",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONGtJNmdvRTczcWVQN3c1OTg4OEVjY1IzLVJ6RHNkdlhBVlMwMTNfRVU1QTVKSTVRbU9WWFAtN2NJT2tfckZkR2sxTHV2OVQxX2J6RTVXVDdNcVBfSFM2RkhJOTdfZ1pvSDdXeDJWQktHWjVnMndJN1lOelZSNVhRWUVzV1I0QkhsWk9BMXhtWm4ySVg5ZG1uMkdVa1JOajk2UFM0T2R6VXllVkVJQ3lLWFpKU3ZKT0V6WWdfZmR1Q08yTlR5TER1LU5VWDJlUzRWUHVFT0NKMkk0SkZVejE5bElVT0tqWndIa1J2ZnlEbVfSAfABQVVfeXFMTjRrSTZnb0U3M3FlUDd3NTk4ODhFY2NSMy1SekRzZHZYQVZTMDEzX0VVNUE1Skk1UW1PVlhQLTdjSU9rX3JGZEdrMUx1djlUMV9iekU1V1Q3TXFQX0hTNkZISTk3X2dab0g3V3gyVkJLR1o1ZzJ3STdZTnpWUjVYUVlFc1dSNEJIbFpPQTF4bVpuMklYOWRtbjJHVWtSTmo5NlBTNE9kelV5ZVZFSUN5S1haSlN2Sk9FellnX2ZkdUNPMk5UeUxEdS1OVVgyZVM0VlB1RU9DSjJJNEpGVXoxOWxJVU9Lalp3SGtSdmZ5RG1X?oc=5",
-        "published": "5 Apr 2026, 09:59 AM",
-        "iso_date": "2026-04-05T09:59:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Launches Drone Attack on Bahrain, Sparking Fires at Energy Facilities",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWM2QjF2ZFQ4S25rekwxVl9xbEhXYXlBZ1RZVEZBaXVFa2hDZkM3TTlFb2FiZmJINW04VWpGTUM5SGFDaGlDZUx2U0pWS1RJNjFiRTJFZ0lCUTdER3dNV1NmZmxQZzlFOGNXM0hCRTZQajVJY1JHWjNsNUx4QU1jWVVuc00?oc=5",
-        "published": "5 Apr 2026, 11:57 AM",
-        "iso_date": "2026-04-05T11:57:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Condemns Attacks On UAE Embassy In Damascus",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGZOMjU2V08tZUx5aWd6Y1NvU1JCOG14ZHlRZzFHMUpYZ2NCYmtwTzJ1RDFNYTJnMXRNWFNTdFpVa2dzam9OdVpoekVUbzJ3aE5ncVNTRUx6WHZTcEVXOUs3S0xabndVeWdheWN0OEcyZ0lIVXFwSjEwVE8tanlITkFjLU0ybFB2X1ZnbFZIT1RTdmNHR0JMd1RXQThpS1Ni?oc=5",
-        "published": "4 Apr 2026, 09:45 PM",
-        "iso_date": "2026-04-04T21:45:05+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
+      {
+        "title": "King confirms that citizens affected by Iranian aggression will receive full compensation",
+        "link": "https://www.gdnonline.com/Details/1380522/King-confirms-that-citizens-affected-by-Iranian-aggression-will-receive-full-compensation",
+        "published": "5 Apr 2026",
+        "iso_date": "2026-04-05T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405190241kinghamad2.jpeg?20260405",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Seven Bahrainis arrested for allegedly stealing gold  and valuables from evacuated homes",
         "link": "https://www.gdnonline.com/Details/1380520/Seven-Bahrainis-arrested-for-allegedly-stealing-gold--and-valuables-from-evacuated-homes",
@@ -250,16 +69,6 @@
         "iso_date": "2026-04-05T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260405/20260405013051hit_T.jpg?20260405",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Gas cylinder trucks barred from parking inside residential areas",
-        "link": "https://www.gdnonline.com/Details/1380459/Gas-cylinder-trucks-barred-from-parking-inside-residential-areas-",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260404_223656_0_T.jpg?20260405",
         "source": "gdn",
         "category": "Latest"
       },
@@ -346,10 +155,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Over 1,460 killed in Lebanon since March 2 amid ongoing Israeli attacks.",
-        "link": "https://www.newsofbahrain.com/world/129912.html",
+        "title": "Shura Council Reviews Financial Committee Report on Proposed Amendment to Commercial Companies Law",
+        "link": "https://www.newsofbahrain.com/bahrain/129915.html",
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G5d0JPySWq_2026-04-05_1775407248resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Northern Council Approves New Halls for Al Jasra and Budaiya",
+        "link": "https://www.newsofbahrain.com/bahrain/129914.html",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EpGr0UVFC1_2026-04-05_1775407132resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Zelensky Holds Talks with Syria’s Sharaa on Security Cooperation Amid Iran War Tensions",
+        "link": "https://www.newsofbahrain.com/world/129913.html",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LtUp5HJF0R_2026-04-05_1775405553resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Over 1,460 killed in Lebanon since March 2 amid ongoing Israeli attacks.",
+        "link": "https://www.newsofbahrain.com/world/129912.html",
+        "published": "5 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-05T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uBAcJLh7rV_2026-04-05_1775403609resized_pic.jpg",
         "source": "newsofbahrain",
@@ -368,20 +207,10 @@
       {
         "title": "HM King Meets Bahrain Defence Force Personnel, Praises Courage and National Unity",
         "link": "https://www.newsofbahrain.com/bahrain/129910.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
+        "published": "5 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8HdVZcwJSN_2026-04-05_1775394980resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE President, Italian PM Discuss Regional Security and Iran Conflict",
-        "link": "https://www.newsofbahrain.com/world/129909.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1OekUz6840_2026-04-05_1775384600resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8HdVZcwJSN_2026-04-05_1775394980thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -391,7 +220,7 @@
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UwyvniLNuf_2026-04-05_1775375845resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UwyvniLNuf_2026-04-05_1775375845thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -406,32 +235,12 @@
         "category": "Latest"
       },
       {
-        "title": "Employee on Trial Over Forged MP Signature",
-        "link": "https://www.newsofbahrain.com/bahrain/129897.html",
+        "title": "UAE President, Italian PM Discuss Regional Security and Iran Conflict",
+        "link": "https://www.newsofbahrain.com/world/129909.html",
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iaQMfvUr2g_2026-04-05_1775370602thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘Beyond Insulin’",
-        "link": "https://www.newsofbahrain.com/bahrain/129896.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fEu3GDSYRr_2026-04-05_1775370294thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Abu Dhabi: Fires Break Out at Borouge Facility After Air Defence Action",
-        "link": "https://www.newsofbahrain.com/world/129907.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GjvVaSs0K9_2026-04-05_1775375132thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1OekUz6840_2026-04-05_1775384600thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -609,5 +418,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-05 16:09:36 UTC"
+  "fetched_at": "2026-04-05 16:45:31 UTC"
 }
