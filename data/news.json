@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 16
     }
   },
   "articles": {
@@ -216,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Gulf Air Expands Temporary Dammam Network with Four New South Asia Destinations",
-        "link": "https://www.newsofbahrain.com/bahrain/129962.html",
+        "title": "Trump: “We Will Find the Leaker” After Alleged Rescue Operation Leak",
+        "link": "https://www.newsofbahrain.com/world/129964.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mM2Yv3wgqP_2026-04-06_1775503132resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump issues warning to Iran as deadline set for talks",
+        "link": "https://www.newsofbahrain.com/world/129963.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJXahT3BWd_2026-04-06_1775502908resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Air Expands Temporary Dammam Network with Four New South Asia Destinations",
+        "link": "https://www.newsofbahrain.com/bahrain/129962.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_2Z1RBLaple_2026-04-06_1775497880resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +248,8 @@
       {
         "title": "Couple Removed from Flight Over Crying Baby Sparks Viral Debate Online",
         "link": "https://www.newsofbahrain.com/views/129961.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHlFQ4dUhK_2026-04-06_1775496618resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,30 +258,10 @@
       {
         "title": "Meghan Markle Shares Family Easter Moments with Archie and Lilibet",
         "link": "https://www.newsofbahrain.com/views/129960.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Nepal Supreme Court Blocks Further Extension of Ex-PM Oli’s Detention",
-        "link": "https://www.newsofbahrain.com/world/129959.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_10NzLfCk5J_2026-04-06_1775495516resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Giant step for humankind: Artemis crew to set space distance record",
-        "link": "https://www.newsofbahrain.com/trends/129957.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TgjGY6dM5m_2026-04-06_1775495262resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,32 +306,22 @@
         "category": "Latest"
       },
       {
+        "title": "Nepal Supreme Court Blocks Further Extension of Ex-PM Oli’s Detention",
+        "link": "https://www.newsofbahrain.com/world/129959.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_10NzLfCk5J_2026-04-06_1775495516thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Kia Crowned ‘Best Manufacturer’ at TopGear.com EV Awards 2026",
         "link": "https://www.newsofbahrain.com/world/129949.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_6jSYpXikAZ_2026-04-06_1775492963thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Korea turns to Red Sea routes for crude as Hormuz blockade continues",
-        "link": "https://www.newsofbahrain.com/world/129947.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dCN7g1pLuk_2026-04-06_1775483067thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Manama Souq Traders Stay Resilient Despite Slowdown, Stand Strong with Bahrain",
-        "link": "https://www.newsofbahrain.com/world/129945.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hk8fdZixRL_2026-04-06_1775477888thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 18:48:09 UTC"
+  "fetched_at": "2026-04-06 19:24:38 UTC"
 }
