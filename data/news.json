@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,20 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Drone strikes hit 2 petrochemical plants, desalination facility in Gulf states - Region - World",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUUNsOFFjNElWcWZHVDBkODlBT2F0Wmc4ZkNwWE83SXd4QmozaU8tUGtxTGRKQ0hwUEdYeTNGenhFTmg2SFVFVXc4d0dkTXowM1BiblhqcGxfTTVZd24wRER1OFo4bXZ1bFdZUEdveXExSXoyc2ZtaWZuNEpSTjdmMi12YWpRLUoyS1F4ZGZiSGM4WFQyU214bTYtd2cwSWFZaDRvZTVfNW5FbzRsRVVrbnB3?oc=5",
-        "published": "5 Apr 2026, 05:42 PM",
-        "iso_date": "2026-04-05T17:42:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s GPIC operating units targeted by Iranian drones",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Mml2QnJmbWZwSUtrV0JoNF90LUhaNm41TE5iLTZQcGNVaXlzU280N2tzdVhNRjFwbzNBZGNvd3dYazJMaXRLdDZiQU52TGt3UlJaMkQ5TmExU2NqS19rOWZWRDB1X1lOdHBrNWFVSQ?oc=5",
-        "published": "5 Apr 2026, 05:15 PM",
-        "iso_date": "2026-04-05T17:15:51+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdkIyMjVDMjAyNWFHSF9odkEwRVpDZkh4UlRQT2VYNFA2Y1Y2SDRZSnFiR1FudkNCamRaYnNfWjRPNlNFVmJsS1hXTjktU09YSm5QbHpUTkF3RHRaS3Y2bEp4Y1pIMkQ0TDlNNE9ETUs0R1dZYXhaWTNGOGltdXdmVlZldURpcEU1VVRhaDFCWWFzaEprRTNmN2FjN05mNHFJcmFTckZnUlhMZkt0c3lNVGVuVi02bUYtb1FPWnlFQ282eEJxTHp3bnR6RXA3Vm8ydGNrclZYcmRBQ05zdWk5WVk1SDFMbXNTZmFCSHZ1XzIzNkpYRjRQS0U0NGJLNkJyYzF0Wk5jUk5BVVd4VHZfYm1oa3poZ3ZQMElrS0Ntelc3VTk3cEg5UDBFYzVGVjA3N21TekhFSDF6cnV5dlB5UV9LdWdrNi03WW14MlBtOW9LYzhYWDlIb25yYV9mYXRjMmNoQXdZclhjU2R0TEhlQ3Baa2NhX05BRnh3MW5XNUtCdG1QRUN2SGJTUnZjYUExc29rT3ZzQ1FrbDlteGY1MXZsd2ZpZFBnZ2p3?oc=5",
+        "published": "6 Apr 2026, 12:59 AM",
+        "iso_date": "2026-04-06T00:59:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,52 +216,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Kaspersky reports 2025 financial results, driving revenue to $836 mln",
-        "link": "https://www.newsofbahrain.com/business/129952.html",
+        "title": "Meghan Markle Shares Family Easter Moments with Archie and Lilibet",
+        "link": "https://www.newsofbahrain.com/views/129960.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DowxT9eOLV_2026-04-06_1775493890resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Saadiyat Cultural District Abu Dhabi launches ‘Museum Pass’ offering access to three world-class museums",
-        "link": "https://www.newsofbahrain.com/gcc/129951.html",
+        "title": "Nepal Supreme Court Blocks Further Extension of Ex-PM Oli’s Detention",
+        "link": "https://www.newsofbahrain.com/world/129959.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2v5V0hUwzY_2026-04-06_1775493199resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_10NzLfCk5J_2026-04-06_1775495516resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE’s Ti22 Films Puts Homegrown Storytelling on the Global Stage",
-        "link": "https://www.newsofbahrain.com/gcc/129950.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7ITbZlfdCo_2026-04-06_1775493092resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kia Crowned ‘Best Manufacturer’ at TopGear.com EV Awards 2026",
-        "link": "https://www.newsofbahrain.com/world/129949.html",
+        "title": "Giant step for humankind: Artemis crew to set space distance record",
+        "link": "https://www.newsofbahrain.com/trends/129957.html",
         "published": "6 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-06T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6jSYpXikAZ_2026-04-06_1775492963resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TgjGY6dM5m_2026-04-06_1775495262resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Governata Strengthens Team with New Strategic Hire",
-        "link": "https://www.newsofbahrain.com/gcc/129948.html",
+        "title": "Lawyer Wins BD400 Over Social Media Insults",
+        "link": "https://www.newsofbahrain.com/bahrain/129956.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OaTujzvdGk_2026-04-06_1775494888resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "New Gulf Academic–Statistical Partnership to Boost Data Capabilities",
+        "link": "https://www.newsofbahrain.com/gcc/129955.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WVXIpcT0O5_2026-04-06_1775492830resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_asQnJSNbAZ_2026-04-06_1775494585resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Royal Humanitarian Foundation and Al-Mousawi Eye Center sign cooperation agreement to support beneficiaries’ healthcare",
+        "link": "https://www.newsofbahrain.com/bahrain/129953.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vE509mqsxi_2026-04-06_1775494022thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,22 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "HM King Hamad’s Initiatives Praised for Advancing Global Tolerance",
-        "link": "https://www.newsofbahrain.com/bahrain/129937.html",
+        "title": "Kia Crowned ‘Best Manufacturer’ at TopGear.com EV Awards 2026",
+        "link": "https://www.newsofbahrain.com/world/129949.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fZL1Cl4PNn_2026-04-06_1775469630thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Investigation Continues into Detainee Death Case",
-        "link": "https://www.newsofbahrain.com/bahrain/129934.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fvxp7Lnymw_2026-04-06_1775459382thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6jSYpXikAZ_2026-04-06_1775492963thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -346,12 +336,12 @@
         "category": "Latest"
       },
       {
-        "title": "First batch of Sitra Housing Phase Two Handed Over",
-        "link": "https://www.newsofbahrain.com/world/129942.html",
+        "title": "Kaspersky reports 2025 financial results, driving revenue to $836 mln",
+        "link": "https://www.newsofbahrain.com/business/129952.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PVwftH9U4T_2026-04-06_1775474267thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DowxT9eOLV_2026-04-06_1775493890thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -519,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 16:46:53 UTC"
+  "fetched_at": "2026-04-06 17:19:02 UTC"
 }
