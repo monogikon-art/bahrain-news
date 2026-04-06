@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 18
     }
   },
   "articles": {
@@ -226,12 +226,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Korea turns to Red Sea routes for crude as Hormuz blockade continues",
-        "link": "https://www.newsofbahrain.com/world/129947.html",
+        "title": "Kaspersky reports 2025 financial results, driving revenue to $836 mln",
+        "link": "https://www.newsofbahrain.com/business/129952.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dCN7g1pLuk_2026-04-06_1775483067resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DowxT9eOLV_2026-04-06_1775493890resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saadiyat Cultural District Abu Dhabi launches ‘Museum Pass’ offering access to three world-class museums",
+        "link": "https://www.newsofbahrain.com/gcc/129951.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2v5V0hUwzY_2026-04-06_1775493199resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE’s Ti22 Films Puts Homegrown Storytelling on the Global Stage",
+        "link": "https://www.newsofbahrain.com/gcc/129950.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7ITbZlfdCo_2026-04-06_1775493092resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kia Crowned ‘Best Manufacturer’ at TopGear.com EV Awards 2026",
+        "link": "https://www.newsofbahrain.com/world/129949.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6jSYpXikAZ_2026-04-06_1775492963resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Governata Strengthens Team with New Strategic Hire",
+        "link": "https://www.newsofbahrain.com/gcc/129948.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WVXIpcT0O5_2026-04-06_1775492830resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -241,37 +281,17 @@
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UIkjwu5Kx3_2026-04-06_1775481368resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Manama Souq Traders Stay Resilient Despite Slowdown, Stand Strong with Bahrain",
-        "link": "https://www.newsofbahrain.com/world/129945.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hk8fdZixRL_2026-04-06_1775477888resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UIkjwu5Kx3_2026-04-06_1775481368thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Terror Suspects Arrested Over Alleged Links to Foreign Intelligence Networks",
         "link": "https://www.newsofbahrain.com/bahrain/129943.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nd6BC7weNE_2026-04-06_1775477190resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "First batch of Sitra Housing Phase Two Handed Over",
-        "link": "https://www.newsofbahrain.com/world/129942.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PVwftH9U4T_2026-04-06_1775474267resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nd6BC7weNE_2026-04-06_1775477190thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,12 +326,32 @@
         "category": "Latest"
       },
       {
-        "title": "Tree Collapse During Easter Egg Hunt in Germany Kills Three, Including Infant",
-        "link": "https://www.newsofbahrain.com/world/129940.html",
+        "title": "Korea turns to Red Sea routes for crude as Hormuz blockade continues",
+        "link": "https://www.newsofbahrain.com/world/129947.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mRx7DHBGge_2026-04-06_1775472878thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dCN7g1pLuk_2026-04-06_1775483067thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Manama Souq Traders Stay Resilient Despite Slowdown, Stand Strong with Bahrain",
+        "link": "https://www.newsofbahrain.com/world/129945.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hk8fdZixRL_2026-04-06_1775477888thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "First batch of Sitra Housing Phase Two Handed Over",
+        "link": "https://www.newsofbahrain.com/world/129942.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PVwftH9U4T_2026-04-06_1775474267thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 16:17:00 UTC"
+  "fetched_at": "2026-04-06 16:46:53 UTC"
 }
