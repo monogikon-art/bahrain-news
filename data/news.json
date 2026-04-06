@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,72 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 13
     }
   },
   "articles": {
-    "bna": [],
+    "bna": [
+      {
+        "title": "Drone strikes hit 2 petrochemical plants, desalination facility in Gulf states - Region - World",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54X1UtTldDaDNVa1JweE13S01kaXNKanZKRW1TQ0FuTTNoTkhKemh4YXNrQVhRUmJFVnhEY3BLN1lDdlhJMVhHY0lsczYwVjdlYVIwdHpkanc?oc=5",
+        "published": "5 Apr 2026, 11:07 AM",
+        "iso_date": "2026-04-05T11:07:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Drone attack sparks fire at Bahrain petrochemical facility",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTloV1RlenBlM2VMaDJRVG5zZTB3REgwdERMZzlDbDc5dFJUczFRVGRHNHg1VkNqbEI3Rkp1azJSOVVNdC1zRzhjX1N5dFNINmVibXk1b0tOU0RYT0gtT0ttRlYtME83V25ZS3Z6UjE2S1QtZTZXbjd2UERrWkF6RTNHU09tR0lscmNmb016TzF4RVFHbkVzeXlFc3pGWXJEclNXRGpn?oc=5",
+        "published": "5 Apr 2026, 09:53 AM",
+        "iso_date": "2026-04-05T09:53:41+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzYzeEZmUE5wTWdYdWtzOVlsLXdfR1h6bTBBajM4NVlZSEVFNVJFRkVWUjBjQWRLMVplM3lySUs1Nlo4OWMzNks4TEtwZVRfWGplSW54d2NUZl9hS0kyNzJuSnVfZlVESU9BTF94clExQkxPYXduZnJubk5TNDlsQzJhSkx2NWstWTBsLUNEaE1SbHlsczBoS0xGR2xFNTBDYm84UjRvbktnYmpZZGRLZHZiX043UFgzMmlPZkMyaWZUUUXSAcgBQVVfeXFMT09lUkRfeEhiZUxWUGx5VEhHTHdoY3RpVVRMV0kwM0sySUpCVjRzYXRZR1h1TGN5ZC1ydUUzZ09MdTc3WlNfMmE1WXZBZ0ZUTWdIVXRBM0RsTGZ1WU91cXNpNEVPcXpmZm5HQ0pzT0UyRl9SMGtGRkdpLWp3TG01SUFNb0dlMFJHWUtLR0N6cjRDWl9TRzJBd25fQlk0Z01zUTUyU2ZOakdvNG5waUlIZXFxSll2R3ZZdTZubUxFMXo0VWV1VXdOVGM?oc=5",
+        "published": "5 Apr 2026, 10:00 AM",
+        "iso_date": "2026-04-05T10:00:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Agency News | ⚡Iranian Drones Strike Bahrain's Petrochemical Firm, Fire Under Control",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVkwejFvWE5FSUdUelM2cm5ibVdpTmNGLUhfMElLcTNOTVpSMG92dnhhb3luUHRmRzY4WXlpdll1allHYm1NTWItTEk1QUwxQXNydVFOV0tESC1nbWxleG5jc0VFS2RoUUFfVUw2WjNCSmJwNS1sOVFnVW5ZdzZIVnMyeGRRVzM4QTNnLTRKaUZJeEoycXZaMXQyd1A4WEFuaUdOT0tEWjZQdjVWdFB5R2VTLWwzM1ZlWElteXRQSHNRTmR6bEHSAcYBQVVfeXFMUC1ZMHoxb1hORUlHVHpTNnJuYm1XaU5jRi1IXzBJS3EzTk1aUjBvdnZ4YW95blB0Zkc2OFl5aXZZdWpZR2JtTU1iLUxJNUFMMUFzcnVRTldLREgtZ21sZXhuY3NFRUtkaFFBX1VMNlozQkpicDUtbDlRZ1VuWXc2SFZzMnhkUVczOEEzZy00SmlGSXhKMnF2WjF0MndQOFhBbmlHTk9LRFo2UHY1VnRQeUdlUy1sMzNWZVhJbXl0UEhzUU5kemxB?oc=5",
+        "published": "5 Apr 2026, 10:22 AM",
+        "iso_date": "2026-04-05T10:22:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Launches Drone Attack on Bahrain, Sparking Fires at Energy Facilities",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWM2QjF2ZFQ4S25rekwxVl9xbEhXYXlBZ1RZVEZBaXVFa2hDZkM3TTlFb2FiZmJINW04VWpGTUM5SGFDaGlDZUx2U0pWS1RJNjFiRTJFZ0lCUTdER3dNV1NmZmxQZzlFOGNXM0hCRTZQajVJY1JHWjNsNUx4QU1jWVVuc00?oc=5",
+        "published": "5 Apr 2026, 11:57 AM",
+        "iso_date": "2026-04-05T11:57:46+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian Drone Strike Hits Bahrain Petrochemical Facility, Fire Erupts at GPIC Units; No Casualties Reported",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONGtJNmdvRTczcWVQN3c1OTg4OEVjY1IzLVJ6RHNkdlhBVlMwMTNfRVU1QTVKSTVRbU9WWFAtN2NJT2tfckZkR2sxTHV2OVQxX2J6RTVXVDdNcVBfSFM2RkhJOTdfZ1pvSDdXeDJWQktHWjVnMndJN1lOelZSNVhRWUVzV1I0QkhsWk9BMXhtWm4ySVg5ZG1uMkdVa1JOajk2UFM0T2R6VXllVkVJQ3lLWFpKU3ZKT0V6WWdfZmR1Q08yTlR5TER1LU5VWDJlUzRWUHVFT0NKMkk0SkZVejE5bElVT0tqWndIa1J2ZnlEbVfSAfABQVVfeXFMTjRrSTZnb0U3M3FlUDd3NTk4ODhFY2NSMy1SekRzZHZYQVZTMDEzX0VVNUE1Skk1UW1PVlhQLTdjSU9rX3JGZEdrMUx1djlUMV9iekU1V1Q3TXFQX0hTNkZISTk3X2dab0g3V3gyVkJLR1o1ZzJ3STdZTnpWUjVYUVlFc1dSNEJIbFpPQTF4bVpuMklYOWRtbjJHVWtSTmo5NlBTNE9kelV5ZVZFSUN5S1haSlN2Sk9FellnX2ZkdUNPMk5UeUxEdS1OVVgyZVM0VlB1RU9DSjJJNEpGVXoxOWxJVU9Lalp3SGtSdmZ5RG1X?oc=5",
+        "published": "5 Apr 2026, 09:59 AM",
+        "iso_date": "2026-04-05T09:59:18+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
     "gdn": [
       {
         "title": "Urgent global action urged over Strait of Hormuz crisis",
@@ -285,26 +346,6 @@
         "category": "Latest"
       },
       {
-        "title": "US registers strong job growth in boost to Trump",
-        "link": "https://www.newsofbahrain.com/business/129844.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JTBs5DYIWR_2026-04-04_1775291030thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zain’s 2026 brand valuation increases 16% to reach a record high of USD 4 billion",
-        "link": "https://www.newsofbahrain.com/business/129842.html",
-        "published": "4 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-04T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o3zOPagBWG_2026-04-04_1775290289thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Giving Back… From Words to Action",
         "link": "https://www.newsofbahrain.com/views/129901.html",
         "published": "5 Apr 2026, 09:00 AM",
@@ -438,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 08:34:27 UTC"
+  "fetched_at": "2026-04-06 09:30:13 UTC"
 }
