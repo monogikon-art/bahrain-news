@@ -64,6 +64,16 @@
     ],
     "gdn": [
       {
+        "title": "BDF General Command: 188 missiles, 468 drones destroyed",
+        "link": "https://www.gdnonline.com/Details/1380612/BDF-General-Command-188-missiles,-468-drones-destroyed",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406123429intercepted1.jpeg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Urgent global action urged over Strait of Hormuz crisis",
         "link": "https://www.gdnonline.com/Details/1380559/Urgent-global-action-urged-over-Strait-of-Hormuz-crisis-",
         "published": "6 Apr 2026",
@@ -100,16 +110,6 @@
         "iso_date": "2026-04-06T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_223132_0.jpeg?20260406",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Online fraudsters swindle 55 people out of BD8,000",
-        "link": "https://www.gdnonline.com/Details/1380545/Online-fraudsters-swindle-55-people-out-of-BD8,000",
-        "published": "6 Apr 2026",
-        "iso_date": "2026-04-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406003638fraud_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 10:30:32 UTC"
+  "fetched_at": "2026-04-06 10:54:24 UTC"
 }
