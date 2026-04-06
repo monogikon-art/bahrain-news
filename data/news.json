@@ -34,6 +34,16 @@
     ],
     "gdn": [
       {
+        "title": "HRH Prince Salman chairs Cabinet meeting",
+        "link": "https://www.gdnonline.com/Details/1380621/HRH-Prince-Salman-chairs-Cabinet-meeting",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406153003cp1(13)_T.jpg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "BDF General Command: 188 missiles, 468 drones destroyed",
         "link": "https://www.gdnonline.com/Details/1380612/BDF-General-Command-188-missiles,-468-drones-destroyed",
         "published": "6 Apr 2026",
@@ -70,16 +80,6 @@
         "iso_date": "2026-04-06T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_235832_0_T.jpg?20260406",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "244 Filipino workers and dependants repatriated",
-        "link": "https://www.gdnonline.com/Details/1380544/244-Filipino-workers-and-dependants-repatriated",
-        "published": "6 Apr 2026",
-        "iso_date": "2026-04-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_223132_0.jpeg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -439,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 12:18:49 UTC"
+  "fetched_at": "2026-04-06 12:48:45 UTC"
 }
