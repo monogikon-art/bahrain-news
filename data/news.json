@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Drone strikes hit 2 petrochemical plants, desalination facility in Gulf states - Region - World",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54X1UtTldDaDNVa1JweE13S01kaXNKanZKRW1TQ0FuTTNoTkhKemh4YXNrQVhRUmJFVnhEY3BLN1lDdlhJMVhHY0lsczYwVjdlYVIwdHpkanc?oc=5",
-        "published": "5 Apr 2026, 11:07 AM",
-        "iso_date": "2026-04-05T11:07:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain’s GPIC operating units targeted by Iranian drones",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Mml2QnJmbWZwSUtrV0JoNF90LUhaNm41TE5iLTZQcGNVaXlzU280N2tzdVhNRjFwbzNBZGNvd3dYazJMaXRLdDZiQU52TGt3UlJaMkQ5TmExU2NqS19rOWZWRDB1X1lOdHBrNWFVSQ?oc=5",
@@ -216,10 +206,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "ONE App Marks Its Anniversary with a Grand Prize Jetour T2 Campaign",
-        "link": "https://www.newsofbahrain.com/business/129939.html",
+        "title": "First batch of Sitra Housing Phase Two Handed Over",
+        "link": "https://www.newsofbahrain.com/world/129942.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PVwftH9U4T_2026-04-06_1775474267resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Malayalee Business Forum Announces All-Inclusive Cochin Travel Plan via Oman",
+        "link": "https://www.newsofbahrain.com/bahrain/129941.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ljKIyxS0iC_2026-04-06_1775473299resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tree Collapse During Easter Egg Hunt in Germany Kills Three, Including Infant",
+        "link": "https://www.newsofbahrain.com/world/129940.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mRx7DHBGge_2026-04-06_1775472878resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "ONE App Marks Its Anniversary with a Grand Prize Jetour T2 Campaign",
+        "link": "https://www.newsofbahrain.com/business/129939.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_tQZm6fjxVJ_2026-04-06_1775471332resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,30 +258,10 @@
       {
         "title": "HM King Hamad’s Initiatives Praised for Advancing Global Tolerance",
         "link": "https://www.newsofbahrain.com/bahrain/129937.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fZL1Cl4PNn_2026-04-06_1775469630resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Projectiles and Shrapnel Fall in Kuwait Residential Area, Six Injured",
-        "link": "https://www.newsofbahrain.com/world/129936.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_85qDvG1gCX_2026-04-06_1775468305resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Missile Strike on Haifa Residential Building Kills Two, Injures Several",
-        "link": "https://www.newsofbahrain.com/world/129935.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2IvSH6i7Lk_2026-04-06_1775460291resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fZL1Cl4PNn_2026-04-06_1775469630thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,22 +296,12 @@
         "category": "Latest"
       },
       {
-        "title": "Young Storyteller Mohammed Saleh Passes Away, Leaving Behind a Profound Human Legacy",
-        "link": "https://www.newsofbahrain.com/bahrain/129929.html",
+        "title": "Projectiles and Shrapnel Fall in Kuwait Residential Area, Six Injured",
+        "link": "https://www.newsofbahrain.com/world/129936.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YhB8IOD6mP_2026-04-06_1775455491thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Falling Debris After Interception in Abu Dhabi Leaves One Injured",
-        "link": "https://www.newsofbahrain.com/world/129933.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TNL4mit8uX_2026-04-06_1775458951thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_85qDvG1gCX_2026-04-06_1775468305thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 10:54:24 UTC"
+  "fetched_at": "2026-04-06 11:20:17 UTC"
 }
