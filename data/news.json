@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Jordan, Bahrain intercept Iranian missiles and drones",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlaWF4UlowU3E5Z0tNeGlrSDFjSVU3QWNqTlRnWF9sQXI3aEVrQlpfN0gxa1BObnY5Q1FXQ3J2WmtYdWcyVVdKbmdGMWExVnd0MWJR?oc=5",
+        "published": "6 Apr 2026, 01:03 PM",
+        "iso_date": "2026-04-06T13:03:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain Defence Force: 188 missiles, 468 drones intercepted since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTk5kTGltQlNWX3dtbFlpMU0yX3owcHZnMDl0WS1aU0xrTDc5Sk1NRFNJZWxieHZuOTlqUEVEMmJ1STk0eEVNZ0VLU0x0dElVbVQ0VXN3X1p2WWU1SFJkNUlZWjloUXZnWlVGd1BVSzdNU2Q1NEFKZWdTNnpZRWRWTldBaVFGVGZRQ2V4QTE2dThlVjlTVGFoTFRMZUdXTDhGeUxDTEtzYnVQQS1aY0Z3REdLUjZZYWk5UEtEZzhONGI4dGZVQklrNnRnTXA5RFU?oc=5",
@@ -186,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "HRH the Crown Prince and Prime Minister Directs Full Compensation for Citizens Following Iranian Aggression",
+        "link": "https://www.newsofbahrain.com/bahrain/129946.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UIkjwu5Kx3_2026-04-06_1775481368resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Manama Souq Traders Stay Resilient Despite Slowdown, Stand Strong with Bahrain",
         "link": "https://www.newsofbahrain.com/world/129945.html",
         "published": "6 Apr 2026, 09:22 AM",
@@ -198,8 +218,8 @@
       {
         "title": "Terror Suspects Arrested Over Alleged Links to Foreign Intelligence Networks",
         "link": "https://www.newsofbahrain.com/bahrain/129943.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_nd6BC7weNE_2026-04-06_1775477190resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,20 +238,10 @@
       {
         "title": "Bahrain Malayalee Business Forum Announces All-Inclusive Cochin Travel Plan via Oman",
         "link": "https://www.newsofbahrain.com/bahrain/129941.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ljKIyxS0iC_2026-04-06_1775473299resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tree Collapse During Easter Egg Hunt in Germany Kills Three, Including Infant",
-        "link": "https://www.newsofbahrain.com/world/129940.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mRx7DHBGge_2026-04-06_1775472878resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ljKIyxS0iC_2026-04-06_1775473299resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -256,12 +266,12 @@
         "category": "Latest"
       },
       {
-        "title": "Workers Cannot Be Sent on Unpaid Leave Unilaterally",
-        "link": "https://www.newsofbahrain.com/bahrain/129932.html",
+        "title": "Tree Collapse During Easter Egg Hunt in Germany Kills Three, Including Infant",
+        "link": "https://www.newsofbahrain.com/world/129940.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yUda58fmNW_2026-04-06_1775458073thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mRx7DHBGge_2026-04-06_1775472878thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 12:48:45 UTC"
+  "fetched_at": "2026-04-06 13:32:09 UTC"
 }
