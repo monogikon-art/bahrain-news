@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlaWF4UlowU3E5Z0tNeGlrSDFjSVU3QWNqTlRnWF9sQXI3aEVrQlpfN0gxa1BObnY5Q1FXQ3J2WmtYdWcyVVdKbmdGMWExVnd0MWJR?oc=5",
         "published": "6 Apr 2026, 01:03 PM",
         "iso_date": "2026-04-06T13:03:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain: Two men jailed for spying for Iranian intelligence and the Revolutionary Guard",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEwzRjJlZ3BkZHhWWE9xc3dVODU2eTVhbGcwcVNxZmRQRngzek5VSFVTcm9sa0ZyV0RPT0hOaDQ4bC1JUXJOODNhMEdUbVpVTG5SMFVwNEJDTWU5TGQyU0NxYk8xMVl5OENJWFV0N3FCUFMzUXdSdmFxeG5vbXIwa2xlOXoxeVhzNDlUck55ZHJHUGtHcWxiUzhZSGl4ZjNsdHNCYXhLN0JZdkdXM1NYaGNKVGlONDhxNnFpOFpLUUZxVWdUYmZxUGpncHN2b2wyZ05oNA?oc=5",
+        "published": "6 Apr 2026, 10:31 PM",
+        "iso_date": "2026-04-06T22:31:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -129,7 +139,7 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221631_1_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221631_3_T.jpg?20260407",
         "source": "gdn",
         "category": "Latest"
       },
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 22:11:28 UTC"
+  "fetched_at": "2026-04-06 22:45:25 UTC"
 }
