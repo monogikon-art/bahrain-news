@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 0
     }
   },
   "articles": {
@@ -26,6 +26,26 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlaWF4UlowU3E5Z0tNeGlrSDFjSVU3QWNqTlRnWF9sQXI3aEVrQlpfN0gxa1BObnY5Q1FXQ3J2WmtYdWcyVVdKbmdGMWExVnd0MWJR?oc=5",
         "published": "6 Apr 2026, 01:03 PM",
         "iso_date": "2026-04-06T13:03:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV3FMcmlIdmpqYzJLSlFnR00tSjcyWXJ2LUt2Sk9KT1I3UTNVYWpmV2V5UXRvNlZQZll5V3hVaUUwc1oyOUwwNUFFaEhFaW9Fb0s0ODJSU2ltZHJfSkdYZTlxUnBkdFFFejhMVUptSmNwdVM3S3hPSHhIQnAxRFFWOXI5RlcxRVIxNV9yTEJzUHNXNDZwb0t2RWVMYWFmRnRMNEZTV2tGbUhYM0ZDZENCajd1OEI4MDRVWlNkMHNsRk01cWpVYXBjSDhsLVk5SDRINmREUk9oUU1pNWttWmQtc3E3aXF2VW9qQ0xHSkNTUXpvZDd0dG1WaFNPVzItSkJobVBBa1ctSnN0WkUyanE4X1diUUd4clBqdWJ2MUNGRWEwQk5KUDlncEVucmJoOS0yakJIN0lYOXh2NF9TVzhuOVJEcmRQVlFuX3lGbUxRdHRTWTJWc0ptbHcwV2ZERU9oUDhNUlZ3VGkxeHAya0FEeTZZWWw3Ri0zU24xeHV5VkJvejdEVERvcXFxUEpBVzFtNnhacjctdw?oc=5",
+        "published": "6 Apr 2026, 12:31 PM",
+        "iso_date": "2026-04-06T12:31:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s prosecutor arrests suspects allegedly spying for Iran - PHOTO",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNktwQVpzUi00YnZUN2RQTUpYYWl6UkxSSkJhY1NsZWlsUjA4THpMU3IydnVOU2xpRDM5eXhlZk43MHRyN1hGRTFLdjdQWDVJeFh4aVJhTi03MW54TjZRSS13S1R5T1k5M1E2SFVPSnhLYnNYNEY0Sl9VOW1pYjBMR1NRbklueklob05UcS1YVFRtc2NY?oc=5",
+        "published": "6 Apr 2026, 01:09 PM",
+        "iso_date": "2026-04-06T13:09:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTk5kTGltQlNWX3dtbFlpMU0yX3owcHZnMDl0WS1aU0xrTDc5Sk1NRFNJZWxieHZuOTlqUEVEMmJ1STk0eEVNZ0VLU0x0dElVbVQ0VXN3X1p2WWU1SFJkNUlZWjloUXZnWlVGd1BVSzdNU2Q1NEFKZWdTNnpZRWRWTldBaVFGVGZRQ2V4QTE2dThlVjlTVGFoTFRMZUdXTDhGeUxDTEtzYnVQQS1aY0Z3REdLUjZZYWk5UEtEZzhONGI4dGZVQklrNnRnTXA5RFU?oc=5",
         "published": "6 Apr 2026, 09:08 AM",
         "iso_date": "2026-04-06T09:08:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Missile Strike on Bahrain Bapco Refinery Sparks Explosion | Middle East War Update",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSFJaX0FIdzBLQzFSVmJBcUllQ3RxYm9CMmJiZ0pveHNVOVN5YUtvRnEyemZDR0ZfYXZRS2kxZjBsdzZaWFUtTHVIMjlsMkJFMGlzV0JCVk9rRXRiR0FGZ1lJUmM5aU1rYkFnVGRHU2NvQ3RNYzZwV3J2d09IU2kwcmdqNjU0WVNrUWp2S2lTQng1V25SbTlnbmJUbi1OTjFMeTJMTkNpMUpKcjZ4ODNtRGU5X0NSTW1qbUxiYXJKTVd1T1hyVS1fazFFamduT0t4TWkxUm9PMTVtVnctVXJLRA?oc=5",
-        "published": "5 Apr 2026, 05:39 PM",
-        "iso_date": "2026-04-05T17:39:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -214,188 +224,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Meghan Markle Shares Family Easter Moments with Archie and Lilibet",
-        "link": "https://www.newsofbahrain.com/views/129960.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Nepal Supreme Court Blocks Further Extension of Ex-PM Oli’s Detention",
-        "link": "https://www.newsofbahrain.com/world/129959.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_10NzLfCk5J_2026-04-06_1775495516resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Giant step for humankind: Artemis crew to set space distance record",
-        "link": "https://www.newsofbahrain.com/trends/129957.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TgjGY6dM5m_2026-04-06_1775495262resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Lawyer Wins BD400 Over Social Media Insults",
-        "link": "https://www.newsofbahrain.com/bahrain/129956.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OaTujzvdGk_2026-04-06_1775494888resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "New Gulf Academic–Statistical Partnership to Boost Data Capabilities",
-        "link": "https://www.newsofbahrain.com/gcc/129955.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_asQnJSNbAZ_2026-04-06_1775494585resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Royal Humanitarian Foundation and Al-Mousawi Eye Center sign cooperation agreement to support beneficiaries’ healthcare",
-        "link": "https://www.newsofbahrain.com/bahrain/129953.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vE509mqsxi_2026-04-06_1775494022thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH the Crown Prince and Prime Minister Directs Full Compensation for Citizens Following Iranian Aggression",
-        "link": "https://www.newsofbahrain.com/bahrain/129946.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UIkjwu5Kx3_2026-04-06_1775481368thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Terror Suspects Arrested Over Alleged Links to Foreign Intelligence Networks",
-        "link": "https://www.newsofbahrain.com/bahrain/129943.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nd6BC7weNE_2026-04-06_1775477190thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Malayalee Business Forum Announces All-Inclusive Cochin Travel Plan via Oman",
-        "link": "https://www.newsofbahrain.com/bahrain/129941.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ljKIyxS0iC_2026-04-06_1775473299thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kia Crowned ‘Best Manufacturer’ at TopGear.com EV Awards 2026",
-        "link": "https://www.newsofbahrain.com/world/129949.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6jSYpXikAZ_2026-04-06_1775492963thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Korea turns to Red Sea routes for crude as Hormuz blockade continues",
-        "link": "https://www.newsofbahrain.com/world/129947.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dCN7g1pLuk_2026-04-06_1775483067thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Manama Souq Traders Stay Resilient Despite Slowdown, Stand Strong with Bahrain",
-        "link": "https://www.newsofbahrain.com/world/129945.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hk8fdZixRL_2026-04-06_1775477888thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kaspersky reports 2025 financial results, driving revenue to $836 mln",
-        "link": "https://www.newsofbahrain.com/business/129952.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DowxT9eOLV_2026-04-06_1775493890thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "ONE App Marks Its Anniversary with a Grand Prize Jetour T2 Campaign",
-        "link": "https://www.newsofbahrain.com/business/129939.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tQZm6fjxVJ_2026-04-06_1775471332thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bill to Expand Bahrain Tax Data Exchange",
-        "link": "https://www.newsofbahrain.com/business/129899.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PAscRwmeFZ_2026-04-05_1775371023thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "5-Month Salary Bonus, Overseas Trips Mark Joyalukkas Employee Celebration",
-        "link": "https://www.newsofbahrain.com/business/129898.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HUM4tuGY7X_2026-04-05_1775370688thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Giving Back… From Words to Action",
-        "link": "https://www.newsofbahrain.com/views/129901.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Rl43MB0NFU_2026-04-05_1775371546thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Echoes of the past – The Gulf War playbook for today’s markets",
-        "link": "https://www.newsofbahrain.com/views/129900.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eJ0uBOmHip_2026-04-05_1775371164thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -509,5 +338,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 17:19:02 UTC"
+  "fetched_at": "2026-04-06 17:46:27 UTC"
 }
