@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 12
+      "count": 11
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 15
     }
   },
   "articles": {
@@ -72,16 +72,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain’s Bapco says tank caught fire at storage facility after Iranian attack",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEdfNXJCSVFPeVpXeHJ6OG5fZWpzQTJfM3EwMmM5NzRIUEE4YWNhT1VoZ2pfWWszaXlmZUJXckpoQnRYLUhyRkxzTmllcnkxT1FSSzhtZ2ZWdElYSDFObV9YY3pGc0hGbzhaeEFyQ3JKbFVMNWJVN3Jsc0ZkbThnbzBnNWlVSlRoN0FwUVhTVENXWDJRREF4Z1NzZFBxS0stNzJKVmNuTzk0bmNNTUMtdGZ5cm9pM0FKNlBkNmpyVmk0UzN5a3RtYjdB0gHPAUFVX3lxTFBkLWVVYWYwVG5mTVRFY3h4c2lIYXZQWXlJa3JIYUZmYmxQTG9lcjRvYXpoTmZQWGpiVXhZWlJNM0h4LVVOZTZOWVNnV0IwRmwwNFdlbnVmT1VMM0xKTXNzeFdmeUJrZ0pMWU1sLUp6YW5mWDVtem9hMmY5Nkd4U0R3TVdxdjlxQjhZNGh2OHhlS1Z1Y0FFOFlwRXNYaFhKUlI2M0Yxc1hEYzB0dWR5N243SmFxcDJWUy1wNnlnQ2FQdHlYTnluUTRIalRLa3lXQQ?oc=5",
-        "published": "5 Apr 2026, 06:46 AM",
-        "iso_date": "2026-04-05T06:46:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmdDZXF0TjlvTkNpcHd1UG1DZHU0V3dZanlHNVprSmhKZ0ZaODBnV3U2SHdjSHI2ZDk3cUdnTjEyaHlDUUpKTVZBS3lDVy1tazl6ZkFlbGlicDBWcG51UDlkTmZJVUMxNnducW05Skg3OHBGWVY4QUc4a0d5M1R2dGpROHFrLXVsangtQ1lOc0dOZGdyUTBKdHotWUhVMEhQNnVzMjhZZVpLckxtUUNKRjBtY0g4cTl0MWZaNFhlVFJZN1cycnFlZVhXekpOMU3SAc8BQVVfeXFMTUpnQ2VxdE45b05DaXB3dVBtQ2R1NFd3WWp5RzVaa0poSmdGWjgwZ1d1Nkh3Y0hyNmQ5N3FHZ04xMmh5Q1FKSk1WQUt5Q1ctbWs5emZBZWxpYnAwVnBudVA5ZE5mSVVDMTZ3bnFtOUpINzhwRllWOEFHOGtHeTNUdnRqUThxay11bGp4LUNZTnNHTmRnclEwSnR6LVlIVTBIUDZ1czI4WWVaS3JMbVFDSkYwbWNIOHE5dDFmWjRYZVRSWTdXMnJxZWVYV3pKTjFN?oc=5",
         "published": "5 Apr 2026, 09:28 AM",
@@ -102,10 +92,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iran attacked a fuel reservoir of the Bapco oil company in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXlxbmhycDhTU01aTnh6dmdXdG1yRFJ5dUNPTjFQa3Z1NVFxeHNIaE5JX3NPcnRST0RPR1otTXU1NVBhUTZ6VkVEM0ZSWTdSZ29YSjRfd1RrcF9jd29KNE9FcFRWWGg0b2xvM2ZNck5FVURPQld5N2x1TzNiczhGWjdpMWI3YWtWVXVKZ0lEOTVoMTYxQnc?oc=5",
-        "published": "5 Apr 2026, 07:00 AM",
-        "iso_date": "2026-04-05T07:00:00+00:00",
+        "title": "Iran launches drone attack at Bahrain",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xTkV0bVhXS1lZd2pId2pZeGhCOGNHNE53NVNacGtNLWJVS3ZLOGY3bDByUXBFS3pFaFFKZGV4Q2NkVzVIOGFfQVN3RFBFcFV6MExCZ1I3LVEzbHR3NEh0V1p2TU0wNU5Nb0RrNkdtbGRQeGI4VjBqLW5B?oc=5",
+        "published": "5 Apr 2026, 09:25 AM",
+        "iso_date": "2026-04-05T09:25:20+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -296,6 +286,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Iranian Missile Strike on Haifa Residential Building Kills Two, Injures Several",
+        "link": "https://www.newsofbahrain.com/world/129935.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2IvSH6i7Lk_2026-04-06_1775460291resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Investigation Continues into Detainee Death Case",
+        "link": "https://www.newsofbahrain.com/bahrain/129934.html",
+        "published": "6 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-06T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Fvxp7Lnymw_2026-04-06_1775459382resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Falling Debris After Interception in Abu Dhabi Leaves One Injured",
+        "link": "https://www.newsofbahrain.com/world/129933.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TNL4mit8uX_2026-04-06_1775458951resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Workers Cannot Be Sent on Unpaid Leave Unilaterally",
+        "link": "https://www.newsofbahrain.com/bahrain/129932.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yUda58fmNW_2026-04-06_1775458073resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "One Phone Call Costs Bahraini Woman BD1,030",
         "link": "https://www.newsofbahrain.com/bahrain/129931.html",
         "published": "6 Apr 2026, 09:22 AM",
@@ -311,37 +341,7 @@
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YhB8IOD6mP_2026-04-06_1775455491resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Morocco–Egypt Ties Enter New Phase as Joint Coordination Committee Launched in Cairo",
-        "link": "https://www.newsofbahrain.com/world/129928.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XY7fU9DJw6_2026-04-05_1775421146resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Celine Dion’s Return Sparks Record-Breaking Ticket Rush in Paris",
-        "link": "https://www.newsofbahrain.com/trends/129927.html",
-        "published": "4 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-04T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8aH7yvFMsm_2026-04-05_1775419234resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Nigerian military rescues 31 kidnapped Easter worshippers",
-        "link": "https://www.newsofbahrain.com/world/129926.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QNyzApDgcr_2026-04-05_1775418978resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YhB8IOD6mP_2026-04-06_1775455491thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -356,42 +356,22 @@
         "category": "Latest"
       },
       {
-        "title": "Shura Council Reviews Financial Committee Report on Proposed Amendment to Commercial Companies Law",
-        "link": "https://www.newsofbahrain.com/bahrain/129915.html",
+        "title": "Morocco–Egypt Ties Enter New Phase as Joint Coordination Committee Launched in Cairo",
+        "link": "https://www.newsofbahrain.com/world/129928.html",
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G5d0JPySWq_2026-04-05_1775407248thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XY7fU9DJw6_2026-04-05_1775421146thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Northern Council Approves New Halls for Al Jasra and Budaiya",
-        "link": "https://www.newsofbahrain.com/bahrain/129914.html",
+        "title": "Nigerian military rescues 31 kidnapped Easter worshippers",
+        "link": "https://www.newsofbahrain.com/world/129926.html",
         "published": "5 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EpGr0UVFC1_2026-04-05_1775407132thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Two Dead, Dozens Missing After Migrant Boat Sinks in Mediterranean",
-        "link": "https://www.newsofbahrain.com/world/129925.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v15O3eV47M_2026-04-05_1775418800thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Floods in Angola Kill 15, Displace Thousands as Heavy Rains Batter Cities",
-        "link": "https://www.newsofbahrain.com/world/129923.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0jTuEBeRsa_2026-04-05_1775418355thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QNyzApDgcr_2026-04-05_1775418978thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -569,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 06:39:57 UTC"
+  "fetched_at": "2026-04-06 07:34:25 UTC"
 }
