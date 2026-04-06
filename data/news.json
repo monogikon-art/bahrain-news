@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Jordan, Bahrain intercept Iranian missiles and drones",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlaWF4UlowU3E5Z0tNeGlrSDFjSVU3QWNqTlRnWF9sQXI3aEVrQlpfN0gxa1BObnY5Q1FXQ3J2WmtYdWcyVVdKbmdGMWExVnd0MWJR?oc=5",
-        "published": "6 Apr 2026, 01:03 PM",
-        "iso_date": "2026-04-06T13:03:15+00:00",
+        "title": "Bahrain Prosecutor Orders Detention of Suspects Accused of Spying for Iran",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53ZXNnb1Z0dHlydThvbUp0bDB4azVoc3hER2hyV1Q0b2tGcHN4dDhnWndjeW5ZY0dxUWh5V3lrZ1NHRlpKTFZ4VEhPYjlYLXZaeHc?oc=5",
+        "published": "6 Apr 2026, 04:58 PM",
+        "iso_date": "2026-04-06T16:58:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV3FMcmlIdmpqYzJLSlFnR00tSjcyWXJ2LUt2Sk9KT1I3UTNVYWpmV2V5UXRvNlZQZll5V3hVaUUwc1oyOUwwNUFFaEhFaW9Fb0s0ODJSU2ltZHJfSkdYZTlxUnBkdFFFejhMVUptSmNwdVM3S3hPSHhIQnAxRFFWOXI5RlcxRVIxNV9yTEJzUHNXNDZwb0t2RWVMYWFmRnRMNEZTV2tGbUhYM0ZDZENCajd1OEI4MDRVWlNkMHNsRk01cWpVYXBjSDhsLVk5SDRINmREUk9oUU1pNWttWmQtc3E3aXF2VW9qQ0xHSkNTUXpvZDd0dG1WaFNPVzItSkJobVBBa1ctSnN0WkUyanE4X1diUUd4clBqdWJ2MUNGRWEwQk5KUDlncEVucmJoOS0yakJIN0lYOXh2NF9TVzhuOVJEcmRQVlFuX3lGbUxRdHRTWTJWc0ptbHcwV2ZERU9oUDhNUlZ3VGkxeHAya0FEeTZZWWw3Ri0zU24xeHV5VkJvejdEVERvcXFxUEpBVzFtNnhacjctdw?oc=5",
-        "published": "6 Apr 2026, 12:31 PM",
-        "iso_date": "2026-04-06T12:31:50+00:00",
+        "title": "Jordan, Bahrain intercept Iranian missiles and drones",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlaWF4UlowU3E5Z0tNeGlrSDFjSVU3QWNqTlRnWF9sQXI3aEVrQlpfN0gxa1BObnY5Q1FXQ3J2WmtYdWcyVVdKbmdGMWExVnd0MWJR?oc=5",
+        "published": "6 Apr 2026, 01:03 PM",
+        "iso_date": "2026-04-06T13:03:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -63,6 +63,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Eighth suspect held in home theft case",
+        "link": "https://www.gdnonline.com/Details/1380639/Eighth-suspect-held-in-home-theft-case",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406220737gdn-websitesize-2026-04-06t221556.457_T.jpg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "HRH Prince Salman chairs Cabinet meeting",
         "link": "https://www.gdnonline.com/Details/1380621/HRH-Prince-Salman-chairs-Cabinet-meeting",
@@ -100,16 +110,6 @@
         "iso_date": "2026-04-06T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_222808_3_T.jpg?20260406",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Seven theft suspects arrested",
-        "link": "https://www.gdnonline.com/Details/1380555/Seven-theft-suspects-arrested",
-        "published": "6 Apr 2026",
-        "iso_date": "2026-04-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_235832_0_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 19:24:38 UTC"
+  "fetched_at": "2026-04-06 19:48:00 UTC"
 }
