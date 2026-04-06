@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 11
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,156 +20,25 @@
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Drone attacks spark fires at petrochemical sites in Bahrain and UAE amid escalation",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xMUN3RTVIak9MR1hzRVVWWUM4bUdHMUxNYnhaZkg0a2xuRGVhX0QyYjNNVmc3RU80b3VEamNrb2lWNDdzSkZDRFAwV2FxSmlJeVAw?oc=5",
-        "published": "5 Apr 2026, 09:19 AM",
-        "iso_date": "2026-04-05T09:19:51+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s Gulf Petrochemical Industries says fire under control at units after Iran attack",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaURYUXVYb19ZZ0NsWjl1MUN5QUZZTzJveEZjS21zVXpSX25kemgteVl1STZyaUpBRHNNTTVxV0dfcVRYUXJwYW1peDBOd1N0aFBaMElMTUxKSThXaWxmZ0RxOGpIaGdBZXRTZm5MQV9pZkotVHVNSVM0bjN0NzFnWW9KWG13cFRHaU80X3BocFhZVjdRQUlzdFQzdGJ5Q2NGM2hpUFhYc25KekxfTVdTclkyT1Q2ZXplLWlHOS1IRDdTR3NzTldRVHp5YUNqdXJRaGwyV2RzVUtpRS1DMWfSAd4BQVVfeXFMT2lEWFF1WG9fWWdDbFo5dTFDeUFGWU8yb3hGY0ttc1V6Ul9uZHpoLXlZdUk2cmlKQURzTU01cVdHX3FUWFFycGFtaXgwTndTdGhQWjBJTE1MSkk4V2lsZmdEcThqSGhnQWV0U2ZuTEFfaWZKLVR1TUlTNG4zdDcxZ1lvSlhtd3BUR2lPNF9waHBYWVY3UUFJc3RUM3RieUNjRjNoaVBYWHNuSnpMX01XU3JZMk9UNmV6ZS1pRzktSEQ3U0dzc05XUVR6eWFDanVyUWhsMldkc1VLaUUtQzFn?oc=5",
-        "published": "5 Apr 2026, 08:40 AM",
-        "iso_date": "2026-04-05T08:40:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain's Gulf Petrochemical Industries Company Operational Units Hit by Iranian Drones",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0tLdVNHZzUya2VpdWNGUjUwbHk2QmR0YjRTOEV4R3RhM2ZDQTlXM0ZqVFM4QTY0cDd3VkFOZzZyY011S1oyWjlpSHNYQTljdWtqR2VEQTRQX1Rfc0JiUXI2WFZTOThfMHRKa2h5Ymt2bG5KYWpPcUxCVXVVNjhHcnN0ZlZ0a0RjYlZGc0ZuYzZ0aTdxc0luQk1ORXY4Q2M2WUw0N0E3YS1xOVpCektRbk5FVkpWa3Q0d3hTQkVNeDJpWVcxYVNVZGxaOF8?oc=5",
-        "published": "5 Apr 2026, 08:41 AM",
-        "iso_date": "2026-04-05T08:41:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drone attacks target GPIC and BAPCO facilities in Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2N5RV9pZ0xBTEJvWm5ESm00bDJvbFBJTEdQUkUtdlItdmdCRDZyT2JBWU1hSnJDTldJcW9WRzBVbEk5WVo0Q2lGYm5oVi1FSHY2SUpTaE5XVFA0S1FhX2FOYkpvSEUxNG56YVB6d0F2Wm03WXU5WnFLU2Y1dnh4b08teDJmUnlFbmJhVTVYb051eE1xUmY5RUJJUmo4bTMzRmI3LXZTbE5kYjJ5THJkbFFHdi1qRkRt?oc=5",
-        "published": "5 Apr 2026, 09:07 AM",
-        "iso_date": "2026-04-05T09:07:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Drone attack sparks fire at Bahrain petrochemical facility",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTloV1RlenBlM2VMaDJRVG5zZTB3REgwdERMZzlDbDc5dFJUczFRVGRHNHg1VkNqbEI3Rkp1azJSOVVNdC1zRzhjX1N5dFNINmVibXk1b0tOU0RYT0gtT0ttRlYtME83V25ZS3Z6UjE2S1QtZTZXbjd2UERrWkF6RTNHU09tR0lscmNmb016TzF4RVFHbkVzeXlFc3pGWXJEclNXRGpn?oc=5",
-        "published": "5 Apr 2026, 09:53 AM",
-        "iso_date": "2026-04-05T09:53:41+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmdDZXF0TjlvTkNpcHd1UG1DZHU0V3dZanlHNVprSmhKZ0ZaODBnV3U2SHdjSHI2ZDk3cUdnTjEyaHlDUUpKTVZBS3lDVy1tazl6ZkFlbGlicDBWcG51UDlkTmZJVUMxNnducW05Skg3OHBGWVY4QUc4a0d5M1R2dGpROHFrLXVsangtQ1lOc0dOZGdyUTBKdHotWUhVMEhQNnVzMjhZZVpLckxtUUNKRjBtY0g4cTl0MWZaNFhlVFJZN1cycnFlZVhXekpOMU3SAc8BQVVfeXFMTUpnQ2VxdE45b05DaXB3dVBtQ2R1NFd3WWp5RzVaa0poSmdGWjgwZ1d1Nkh3Y0hyNmQ5N3FHZ04xMmh5Q1FKSk1WQUt5Q1ctbWs5emZBZWxpYnAwVnBudVA5ZE5mSVVDMTZ3bnFtOUpINzhwRllWOEFHOGtHeTNUdnRqUThxay11bGp4LUNZTnNHTmRnclEwSnR6LVlIVTBIUDZ1czI4WWVaS3JMbVFDSkYwbWNIOHE5dDFmWjRYZVRSWTdXMnJxZWVYV3pKTjFN?oc=5",
-        "published": "5 Apr 2026, 09:28 AM",
-        "iso_date": "2026-04-05T09:28:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzYzeEZmUE5wTWdYdWtzOVlsLXdfR1h6bTBBajM4NVlZSEVFNVJFRkVWUjBjQWRLMVplM3lySUs1Nlo4OWMzNks4TEtwZVRfWGplSW54d2NUZl9hS0kyNzJuSnVfZlVESU9BTF94clExQkxPYXduZnJubk5TNDlsQzJhSkx2NWstWTBsLUNEaE1SbHlsczBoS0xGR2xFNTBDYm84UjRvbktnYmpZZGRLZHZiX043UFgzMmlPZkMyaWZUUUXSAcgBQVVfeXFMT09lUkRfeEhiZUxWUGx5VEhHTHdoY3RpVVRMV0kwM0sySUpCVjRzYXRZR1h1TGN5ZC1ydUUzZ09MdTc3WlNfMmE1WXZBZ0ZUTWdIVXRBM0RsTGZ1WU91cXNpNEVPcXpmZm5HQ0pzT0UyRl9SMGtGRkdpLWp3TG01SUFNb0dlMFJHWUtLR0N6cjRDWl9TRzJBd25fQlk0Z01zUTUyU2ZOakdvNG5waUlIZXFxSll2R3ZZdTZubUxFMXo0VWV1VXdOVGM?oc=5",
-        "published": "5 Apr 2026, 10:00 AM",
-        "iso_date": "2026-04-05T10:00:52+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran launches drone attack at Bahrain",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xTkV0bVhXS1lZd2pId2pZeGhCOGNHNE53NVNacGtNLWJVS3ZLOGY3bDByUXBFS3pFaFFKZGV4Q2NkVzVIOGFfQVN3RFBFcFV6MExCZ1I3LVEzbHR3NEh0V1p2TU0wNU5Nb0RrNkdtbGRQeGI4VjBqLW5B?oc=5",
-        "published": "5 Apr 2026, 09:25 AM",
-        "iso_date": "2026-04-05T09:25:20+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Agency News | ⚡Iranian Drones Strike Bahrain's Petrochemical Firm, Fire Under Control",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVkwejFvWE5FSUdUelM2cm5ibVdpTmNGLUhfMElLcTNOTVpSMG92dnhhb3luUHRmRzY4WXlpdll1allHYm1NTWItTEk1QUwxQXNydVFOV0tESC1nbWxleG5jc0VFS2RoUUFfVUw2WjNCSmJwNS1sOVFnVW5ZdzZIVnMyeGRRVzM4QTNnLTRKaUZJeEoycXZaMXQyd1A4WEFuaUdOT0tEWjZQdjVWdFB5R2VTLWwzM1ZlWElteXRQSHNRTmR6bEHSAcYBQVVfeXFMUC1ZMHoxb1hORUlHVHpTNnJuYm1XaU5jRi1IXzBJS3EzTk1aUjBvdnZ4YW95blB0Zkc2OFl5aXZZdWpZR2JtTU1iLUxJNUFMMUFzcnVRTldLREgtZ21sZXhuY3NFRUtkaFFBX1VMNlozQkpicDUtbDlRZ1VuWXc2SFZzMnhkUVczOEEzZy00SmlGSXhKMnF2WjF0MndQOFhBbmlHTk9LRFo2UHY1VnRQeUdlUy1sMzNWZVhJbXl0UEhzUU5kemxB?oc=5",
-        "published": "5 Apr 2026, 10:22 AM",
-        "iso_date": "2026-04-05T10:22:48+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Launches Drone Attack on Bahrain, Sparking Fires at Energy Facilities",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWM2QjF2ZFQ4S25rekwxVl9xbEhXYXlBZ1RZVEZBaXVFa2hDZkM3TTlFb2FiZmJINW04VWpGTUM5SGFDaGlDZUx2U0pWS1RJNjFiRTJFZ0lCUTdER3dNV1NmZmxQZzlFOGNXM0hCRTZQajVJY1JHWjNsNUx4QU1jWVVuc00?oc=5",
-        "published": "5 Apr 2026, 11:57 AM",
-        "iso_date": "2026-04-05T11:57:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Drone Strike Hits Bahrain Petrochemical Facility, Fire Erupts at GPIC Units; No Casualties Reported",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONGtJNmdvRTczcWVQN3c1OTg4OEVjY1IzLVJ6RHNkdlhBVlMwMTNfRVU1QTVKSTVRbU9WWFAtN2NJT2tfckZkR2sxTHV2OVQxX2J6RTVXVDdNcVBfSFM2RkhJOTdfZ1pvSDdXeDJWQktHWjVnMndJN1lOelZSNVhRWUVzV1I0QkhsWk9BMXhtWm4ySVg5ZG1uMkdVa1JOajk2UFM0T2R6VXllVkVJQ3lLWFpKU3ZKT0V6WWdfZmR1Q08yTlR5TER1LU5VWDJlUzRWUHVFT0NKMkk0SkZVejE5bElVT0tqWndIa1J2ZnlEbVfSAfABQVVfeXFMTjRrSTZnb0U3M3FlUDd3NTk4ODhFY2NSMy1SekRzZHZYQVZTMDEzX0VVNUE1Skk1UW1PVlhQLTdjSU9rX3JGZEdrMUx1djlUMV9iekU1V1Q3TXFQX0hTNkZISTk3X2dab0g3V3gyVkJLR1o1ZzJ3STdZTnpWUjVYUVlFc1dSNEJIbFpPQTF4bVpuMklYOWRtbjJHVWtSTmo5NlBTNE9kelV5ZVZFSUN5S1haSlN2Sk9FellnX2ZkdUNPMk5UeUxEdS1OVVgyZVM0VlB1RU9DSjJJNEpGVXoxOWxJVU9Lalp3SGtSdmZ5RG1X?oc=5",
-        "published": "5 Apr 2026, 09:59 AM",
-        "iso_date": "2026-04-05T09:59:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
-        "title": "Global conscience âis facing true test over Iranian attacksâ",
-        "link": "https://www.gdnonline.com/Details/1380535/Global-conscience-âis-facing-true-test-over-Iranian-attacksâ",
+        "title": "Urgent global action urged over Strait of Hormuz crisis",
+        "link": "https://www.gdnonline.com/Details/1380559/Urgent-global-action-urged-over-Strait-of-Hormuz-crisis-",
         "published": "6 Apr 2026",
         "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405230653websitesize(1)_T.jpg?20260406",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406084950hormuz_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Graduate-training bill is referred back to Parliament for study",
-        "link": "https://www.gdnonline.com/Details/1380537/Graduate-training-bill-is-referred-back-to-Parliament-for-study-",
+        "title": "Delighted children return to nurseries and kindergartens",
+        "link": "https://www.gdnonline.com/Details/1380529/Delighted-children-return-to-nurseries-and-kindergartens",
         "published": "6 Apr 2026",
         "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_222947_0.jpeg?20260406",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura Council reaffirms commitment to peace",
-        "link": "https://www.gdnonline.com/Details/1380539/Shura-Council-reaffirms-commitment-to-peace",
-        "published": "6 Apr 2026",
-        "iso_date": "2026-04-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_222949_1_T.jpg?20260406",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Charity touches lives with critical support in Ramadan",
-        "link": "https://www.gdnonline.com/Details/1380532/Charity-touches-lives-with-critical-support-in-Ramadan",
-        "published": "6 Apr 2026",
-        "iso_date": "2026-04-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406001657edited12_T.jpg?20260406",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_222808_3_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -180,6 +49,26 @@
         "iso_date": "2026-04-06T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_235832_0_T.jpg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "244 Filipino workers and dependants repatriated",
+        "link": "https://www.gdnonline.com/Details/1380544/244-Filipino-workers-and-dependants-repatriated",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260405_223132_0.jpeg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Online fraudsters swindle 55 people out of BD8,000",
+        "link": "https://www.gdnonline.com/Details/1380545/Online-fraudsters-swindle-55-people-out-of-BD8,000",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406003638fraud_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       },
@@ -234,6 +123,26 @@
         "category": "Latest"
       },
       {
+        "title": "Silva to exit Man City at end of season, assistant manager confirms",
+        "link": "https://www.gdnonline.com/Details/1380591/Silva-to-exit-Man-City-at-end-of-season,-assistant-manager-confirms",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406094634bsilva_T.jpg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Thuram and Martinez star as Inter dismantle Roma 5-2",
+        "link": "https://www.gdnonline.com/Details/1380588/Thuram-and-Martinez-star-as-Inter-dismantle-Roma-5-2",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406095058inter1(3)_T.jpg?20260406",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Schouten to skip World Cup due to injury",
         "link": "https://www.gdnonline.com/Details/1380571/Schouten-to-skip-World-Cup-due-to-injury",
         "published": "6 Apr 2026",
@@ -254,32 +163,12 @@
         "category": "Latest"
       },
       {
-        "title": "Khaldiya clinch a thriller",
-        "link": "https://www.gdnonline.com/Details/1380479/Khaldiya-clinch-a-thriller",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
+        "title": "Martinez and Thuram shine for Inter Milan",
+        "link": "https://www.gdnonline.com/Details/1380574/Martinez-and-Thuram-shine-for-Inter-Milan",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_003807_1.png?20260406",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Southampton's Charles nets late winner to stun Arsenal 2-1 in FA Cup",
-        "link": "https://www.gdnonline.com/Details/1380480/Southamptons-Charles-nets-late-winner-to-stun-Arsenal-2-1-in-FA-Cup",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405011714dazuqspamnpqjnyxqjqmwj6eky_T.jpg?20260406",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Southampton stun Arsenal",
-        "link": "https://www.gdnonline.com/Details/1380488/Southampton-stun-Arsenal",
-        "published": "5 Apr 2026",
-        "iso_date": "2026-04-05T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260405/20260405_013205_1_T.jpg?20260406",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406_014553_1_T.jpg?20260406",
         "source": "gdn",
         "category": "Latest"
       }
@@ -549,5 +438,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-06 07:34:25 UTC"
+  "fetched_at": "2026-04-06 08:34:27 UTC"
 }
