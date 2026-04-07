@@ -124,6 +124,16 @@
         "category": "Latest"
       },
       {
+        "title": "Annual midday outdoor work ban set to begin on June 15",
+        "link": "https://www.gdnonline.com/Details/1380642/Annual-midday-outdoor-work-ban-set-to-begin-on-June-15",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221549_0_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Chamber new chairman congratulated",
         "link": "https://www.gdnonline.com/Details/1380668/Bahrain-Chamber-new-chairman-congratulated",
         "published": "7 Apr 2026",
@@ -134,22 +144,12 @@
         "category": "Latest"
       },
       {
-        "title": "Several held over spy link with Iranians",
-        "link": "https://www.gdnonline.com/Details/1380702/Several-held-over-spy-link-with-Iranians",
+        "title": "Stunning sunsets spotlight safe and beautiful image of Bahrain",
+        "link": "https://www.gdnonline.com/Details/1380655/Stunning-sunsets-spotlight-safe-and-beautiful-image-of-Bahrain",
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407033126images_T.jpg?20260407",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Annual midday outdoor work ban set to begin on June 15",
-        "link": "https://www.gdnonline.com/Details/1380642/Annual-midday-outdoor-work-ban-set-to-begin-on-June-15",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221549_0_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407001544edited12_T.jpg?20260407",
         "source": "gdn",
         "category": "Latest"
       },
@@ -256,92 +256,92 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Muharraq heritage zoning revised under new ministerial decision",
+        "link": "https://www.newsofbahrain.com/bahrain/129981.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qRATSV2e5Z_2026-04-07_1775546959resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Unclear rules sink proposal",
+        "link": "https://www.newsofbahrain.com/bahrain/129980.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OwjfF1yopT_2026-04-07_1775546600resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Proposal to Ease Rent",
+        "link": "https://www.newsofbahrain.com/bahrain/129979.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Dzsm1jPqtN_2026-04-07_1775545966resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UN Sec. Council to vote on diluted Hormuz strait resolution today",
+        "link": "https://www.newsofbahrain.com/world/129978.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xhmSWn0C9G_2026-04-07_1775545940resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Frees Japanese National on Bail, Travel Ban Remains",
+        "link": "https://www.newsofbahrain.com/world/129977.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bdPRMLiET9_2026-04-07_1775545879resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A faster rebuilding path for homes damaged by residential fires",
+        "link": "https://www.newsofbahrain.com/bahrain/129976.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N0wi7V6G2D_2026-04-07_1775545330thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A Return to Normalcy",
+        "link": "https://www.newsofbahrain.com/bahrain/129975.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Opz9Yn0AB5_2026-04-07_1775545049thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "WHO suspends Gaza medical evacuations after contract worker killed",
+        "link": "https://www.newsofbahrain.com/world/129973.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W4KnDBYCjq_2026-04-07_1775544016thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Wall Street stocks rise on hopes for US-Iran ceasefire",
         "link": "https://www.newsofbahrain.com/world/129970.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FHA3uGKVBp_2026-04-07_1775543106resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Possession of Counterfeit Currency Leads to 3-Year Prison Sentence",
-        "link": "https://www.newsofbahrain.com/bahrain/129969.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Hq2NZmJ1St_2026-04-07_1775543017resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Major Green Push",
-        "link": "https://www.newsofbahrain.com/bahrain/129968.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m7bqOze46K_2026-04-07_1775542690resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Emergency Committee Reviews National Preparedness",
-        "link": "https://www.newsofbahrain.com/bahrain/129967.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xcgJDW3XlK_2026-04-07_1775542134resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King Praises Bahrain Chamber’s Legacy",
-        "link": "https://www.newsofbahrain.com/bahrain/129966.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cB3SYbDAdV_2026-04-07_1775541100resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Arabian Gulf University, GCC Statistical Center Sign MoU to Boost Regional Data and Research Cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/129965.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jgQfxzo7an_2026-04-07_1775539846thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump: “We Will Find the Leaker” After Alleged Rescue Operation Leak",
-        "link": "https://www.newsofbahrain.com/world/129964.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mM2Yv3wgqP_2026-04-06_1775503132thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump issues warning to Iran as deadline set for talks",
-        "link": "https://www.newsofbahrain.com/world/129963.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJXahT3BWd_2026-04-06_1775502908thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Nepal Supreme Court Blocks Further Extension of Ex-PM Oli’s Detention",
-        "link": "https://www.newsofbahrain.com/world/129959.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_10NzLfCk5J_2026-04-06_1775495516thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FHA3uGKVBp_2026-04-07_1775543106thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 06:33:18 UTC"
+  "fetched_at": "2026-04-07 07:33:19 UTC"
 }
