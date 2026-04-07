@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -76,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS25hTDBHYlJSQjY3Ti1hMGlFV2xzU1pfRlRxLUM5ZnZBRDNQSWgyWmQydnJIeDhvZTJvUW1ZMVJEOG9VZWNOc3ZOSHB3am10RGVSTzlmLW42MWxydERyTXB3VXhwTFRNX1RyLV9DamhfaHppckpQYnRZeTVjYWdnREVCenc0ZXpXaC0yVjl0b3kzUmo4enJQUUdreXdMd1EyeXZnd25OVk5ETWlaZXdHZjBUYzlhNjMxUFdMbGdRTG40cWZXQjZN?oc=5",
         "published": "7 Apr 2026, 08:45 AM",
         "iso_date": "2026-04-07T08:45:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Orders Detention Of Suspects Accused Of Spying For Iran",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVFJLV3VTeTB1ZEV6bnFBWGNjaWpBSlhNSTVzRTAzT0RHeTkxVWl0Smw0ekg3WDRHbUo5cjBINW5wUmVhbjVYWmoyTVkwYVEwTXhyM3o2OVJrUy1rd3VRdDVaV1FNUzNhYnE3ZHRvS1RIcGJBMUpnLVBQOXdIa1g2SjhFenlDb0tiZjdMOVVtM0VEbHlsMk8xSmg5OVZmNEE?oc=5",
-        "published": "6 Apr 2026, 05:45 PM",
-        "iso_date": "2026-04-06T17:45:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -519,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 17:23:33 UTC"
+  "fetched_at": "2026-04-07 17:48:43 UTC"
 }
