@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 15
     }
   },
   "articles": {
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEwzRjJlZ3BkZHhWWE9xc3dVODU2eTVhbGcwcVNxZmRQRngzek5VSFVTcm9sa0ZyV0RPT0hOaDQ4bC1JUXJOODNhMEdUbVpVTG5SMFVwNEJDTWU5TGQyU0NxYk8xMVl5OENJWFV0N3FCUFMzUXdSdmFxeG5vbXIwa2xlOXoxeVhzNDlUck55ZHJHUGtHcWxiUzhZSGl4ZjNsdHNCYXhLN0JZdkdXM1NYaGNKVGlONDhxNnFpOFpLUUZxVWdUYmZxUGpncHN2b2wyZ05oNA?oc=5",
         "published": "6 Apr 2026, 10:31 PM",
         "iso_date": "2026-04-06T22:31:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s prosecutor arrests suspects allegedly spying for Iran - PHOTO",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNktwQVpzUi00YnZUN2RQTUpYYWl6UkxSSkJhY1NsZWlsUjA4THpMU3IydnVOU2xpRDM5eXhlZk43MHRyN1hGRTFLdjdQWDVJeFh4aVJhTi03MW54TjZRSS13S1R5T1k5M1E2SFVPSnhLYnNYNEY0Sl9VOW1pYjBMR1NRbklueklob05UcS1YVFRtc2NY?oc=5",
+        "published": "6 Apr 2026, 01:09 PM",
+        "iso_date": "2026-04-06T13:09:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,52 +266,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Oil pricesslip back",
+        "link": "https://www.newsofbahrain.com/business/129997.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EJB5yqjQrg_2026-04-07_1775552851resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gangs in Rio de Janeiro hijack buses to spread chaos amid clashes with police",
+        "link": "https://www.newsofbahrain.com/world/129996.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uVMUn74Ryt_2026-04-07_1775552685resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US stocks mixed as market weighs confusing signs on war",
+        "link": "https://www.newsofbahrain.com/business/129995.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G20YpTOHjM_2026-04-07_1775552465resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BKIC introduces refined Logo",
+        "link": "https://www.newsofbahrain.com/business/129994.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OAoKHyauI7_2026-04-07_1775552383resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India Union Minister Piyush Goyal unveils Malabar Gold & Diamonds’ USD 24M CSR Initiative",
+        "link": "https://www.newsofbahrain.com/business/129993.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_feCihEtMFS_2026-04-07_1775552122resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "AirAsia X to raise fares, cut capacity over Mideast war",
         "link": "https://www.newsofbahrain.com/bahrain/129992.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n5UJgt3sIG_2026-04-07_1775551763resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BFLC shareholders approve Truffle merger",
-        "link": "https://www.newsofbahrain.com/business/129991.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EZQja5kmbV_2026-04-07_1775551612resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Takaful International unveils refreshed brand identity",
-        "link": "https://www.newsofbahrain.com/business/129990.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eNX4C8oOAJ_2026-04-07_1775551303resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ritz-Carlton introduces elevated at-home experiences and curated dining offerings",
-        "link": "https://www.newsofbahrain.com/business/129989.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jtvP6WGdZk_2026-04-07_1775551209resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Al Salam Bank launches interactive contest",
-        "link": "https://www.newsofbahrain.com/business/129988.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xf0qE6XUVb_2026-04-07_1775550756resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n5UJgt3sIG_2026-04-07_1775551763thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -376,16 +396,6 @@
         "category": "Latest"
       },
       {
-        "title": "Wall Street stocks rise on hopes for US-Iran ceasefire",
-        "link": "https://www.newsofbahrain.com/world/129970.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FHA3uGKVBp_2026-04-07_1775543106thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Couple Removed from Flight Over Crying Baby Sparks Viral Debate Online",
         "link": "https://www.newsofbahrain.com/views/129961.html",
         "published": "6 Apr 2026, 09:00 AM",
@@ -402,26 +412,6 @@
         "iso_date": "2026-04-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Giving Back… From Words to Action",
-        "link": "https://www.newsofbahrain.com/views/129901.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Rl43MB0NFU_2026-04-05_1775371546thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Echoes of the past – The Gulf War playbook for today’s markets",
-        "link": "https://www.newsofbahrain.com/views/129900.html",
-        "published": "5 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-05T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eJ0uBOmHip_2026-04-05_1775371164thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -539,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 08:52:35 UTC"
+  "fetched_at": "2026-04-07 09:27:21 UTC"
 }
