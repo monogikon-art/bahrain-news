@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,26 +16,16 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 20
+      "count": 0
     }
   },
   "articles": {
     "bna": [
       {
         "title": "Bahrain intercepts scores of Iranian warheads",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xcE91LU9vdHNULXhDMkZzQWFodVFqdmJuYi1mVHlnQURweEkyM0hPSzUxcHNwV0JNa3UyV2FmQ0wxVHZQcUFzZXpDSHFvUTZVQ2F6b25paEZOei1m?oc=5",
-        "published": "7 Apr 2026, 02:05 PM",
-        "iso_date": "2026-04-07T14:05:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
-        "published": "6 Apr 2026, 09:22 PM",
-        "iso_date": "2026-04-06T21:22:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82NG9yQ0p2dnpJM0xoNXdjSDIycEFJZ3NKY0RxX1pFNlV6TG5qbXBNMm9lU1pLWEQxV1J4ZkwtbXBzeHI0d25TS0tMNmM2ODh3RW93?oc=5",
+        "published": "7 Apr 2026, 02:13 PM",
+        "iso_date": "2026-04-07T14:13:10+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -254,208 +244,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Italy's energy giant ENI announces gas discovery off Egypt coast",
-        "link": "https://www.newsofbahrain.com/world/130045.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ftCb5dIJTL_2026-04-07_1775572656resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bangladesh police arrest Hasina-era former parliament speaker",
-        "link": "https://www.newsofbahrain.com/world/130044.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vcTjrUOmno_2026-04-07_1775572261resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "40-metre scaffold collapses in Japan, three workers critical",
-        "link": "https://www.newsofbahrain.com/world/130043.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dPkDCSlByU_2026-04-07_1775571700resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "South Korea deports alleged Thai drug kingpin",
-        "link": "https://www.newsofbahrain.com/world/130042.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fpLu6lHI0g_2026-04-07_1775571175resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Teen detained for stabbing teacher to death in Russia",
-        "link": "https://www.newsofbahrain.com/world/130041.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TEuBav9sYb_2026-04-07_1775569992resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tour of Flanders cyclists face fines for running red light at railroad",
-        "link": "https://www.newsofbahrain.com/bahrain/130018.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QAJjmbO89v_2026-04-07_1775561102thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Democratic lawmakers slam ‘economic bombing’ after Cuba visit",
-        "link": "https://www.newsofbahrain.com/bahrain/130002.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XKlt69M5NR_2026-04-07_1775556174thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "AirAsia X to raise fares, cut capacity over Mideast war",
-        "link": "https://www.newsofbahrain.com/bahrain/129992.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n5UJgt3sIG_2026-04-07_1775551763thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kanoo , Salahuddin, and Al-Zayani Lead Bahrain Chamber’s 31st Board",
-        "link": "https://www.newsofbahrain.com/bahrain/129987.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q6D084PRSX_2026-04-07_1775550288thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Eight Detained Over BD800,000 Burglary",
-        "link": "https://www.newsofbahrain.com/bahrain/129986.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AUIvk4HRzm_2026-04-07_1775549083thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil pricesslip back",
-        "link": "https://www.newsofbahrain.com/business/129997.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EJB5yqjQrg_2026-04-07_1775552851thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US stocks mixed as market weighs confusing signs on war",
-        "link": "https://www.newsofbahrain.com/business/129995.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G20YpTOHjM_2026-04-07_1775552465thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BKIC introduces refined Logo",
-        "link": "https://www.newsofbahrain.com/business/129994.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OAoKHyauI7_2026-04-07_1775552383thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India Union Minister Piyush Goyal unveils Malabar Gold & Diamonds’ USD 24M CSR Initiative",
-        "link": "https://www.newsofbahrain.com/business/129993.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_feCihEtMFS_2026-04-07_1775552122thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Couple Removed from Flight Over Crying Baby Sparks Viral Debate Online",
-        "link": "https://www.newsofbahrain.com/views/129961.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHlFQ4dUhK_2026-04-06_1775496618thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Meghan Markle Shares Family Easter Moments with Archie and Lilibet",
-        "link": "https://www.newsofbahrain.com/views/129960.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Giving Back… From Words to Action",
-        "link": "https://www.newsofbahrain.com/views/129901.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Rl43MB0NFU_2026-04-05_1775371546thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Echoes of the past – The Gulf War playbook for today’s markets",
-        "link": "https://www.newsofbahrain.com/views/129900.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eJ0uBOmHip_2026-04-05_1775371164thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Where is ‘United Nations’ in today’s conflicts?",
-        "link": "https://www.newsofbahrain.com/views/129559.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1tPw8n2clv_2026-03-31_1774959885thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Managing the Digital Frontline in Wartime",
-        "link": "https://www.newsofbahrain.com/views/129421.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MH28syxtNw_2026-03-29_1774788386thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -569,5 +358,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 15:33:00 UTC"
+  "fetched_at": "2026-04-07 16:24:25 UTC"
 }
