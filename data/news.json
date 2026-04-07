@@ -16,26 +16,26 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 16
     }
   },
   "articles": {
     "bna": [
       {
         "title": "Bahrain intercepts scores of Iranian warheads",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82NG9yQ0p2dnpJM0xoNXdjSDIycEFJZ3NKY0RxX1pFNlV6TG5qbXBNMm9lU1pLWEQxV1J4ZkwtbXBzeHI0d25TS0tMNmM2ODh3RW93?oc=5",
-        "published": "7 Apr 2026, 02:13 PM",
-        "iso_date": "2026-04-07T14:13:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2bDNsWllNMnllVkxPZGpWekdEcVhOUlhPUS1ab296OEVCVG5neFhuSjZncEx6RDJISnJHX0s0WjJ0amlwcE9nTHp4dDdmNko1anN4cmFZR29ja3ZqTnVYM0xmQ3c?oc=5",
+        "published": "7 Apr 2026, 03:50 PM",
+        "iso_date": "2026-04-07T15:50:02+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Prosecutor Orders Detention of Suspects Accused of Spying for Iran",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53ZXNnb1Z0dHlydThvbUp0bDB4azVoc3hER2hyV1Q0b2tGcHN4dDhnWndjeW5ZY0dxUWh5V3lrZ1NHRlpKTFZ4VEhPYjlYLXZaeHc?oc=5",
-        "published": "6 Apr 2026, 04:58 PM",
-        "iso_date": "2026-04-06T16:58:39+00:00",
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
+        "published": "6 Apr 2026, 09:22 PM",
+        "iso_date": "2026-04-06T21:22:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -398,30 +398,10 @@
       {
         "title": "Meghan Markle Shares Family Easter Moments with Archie and Lilibet",
         "link": "https://www.newsofbahrain.com/views/129960.html",
-        "published": "",
-        "iso_date": "",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Giving Back… From Words to Action",
-        "link": "https://www.newsofbahrain.com/views/129901.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Rl43MB0NFU_2026-04-05_1775371546thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Managing the Digital Frontline in Wartime",
-        "link": "https://www.newsofbahrain.com/views/129421.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MH28syxtNw_2026-03-29_1774788386thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -539,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 16:49:32 UTC"
+  "fetched_at": "2026-04-07 17:23:33 UTC"
 }
