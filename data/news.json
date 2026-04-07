@@ -62,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain’s prosecutor arrests suspects allegedly spying for Iran - PHOTO",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNktwQVpzUi00YnZUN2RQTUpYYWl6UkxSSkJhY1NsZWlsUjA4THpMU3IydnVOU2xpRDM5eXhlZk43MHRyN1hGRTFLdjdQWDVJeFh4aVJhTi03MW54TjZRSS13S1R5T1k5M1E2SFVPSnhLYnNYNEY0Sl9VOW1pYjBMR1NRbklueklob05UcS1YVFRtc2NY?oc=5",
-        "published": "6 Apr 2026, 01:09 PM",
-        "iso_date": "2026-04-06T13:09:47+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain orders detention of suspects accused of spying for Iran",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWdjWHhfRjlybnVEbFJuazBLRUltT003azBKYXVmUmFrZGlIUE84Z0hWZ1l4V0M4SDRxbXlkWjlrV2FXdHR4bG9uZ3JWdFVWUTFrdUNYaUNIamNRQTZVZTVrUFd4dzdfbTAtSU1XVnU3V0JsLTJIdTFrTjA1b0h0TkhvSC1BSGNtRGV1Q2lLanpXSHFmX1RVdHZ2aEZnd1E5b3RySW5yYnNtTXkzY3I5Qnp0YnFtZEtoZEVFYlpEdmRFd9IBwgFBVV95cUxONWdjWHhfRjlybnVEbFJuazBLRUltT003azBKYXVmUmFrZGlIUE84Z0hWZ1l4V0M4SDRxbXlkWjlrV2FXdHR4bG9uZ3JWdFVWUTFrdUNYaUNIamNRQTZVZTVrUFd4dzdfbTAtSU1XVnU3V0JsLTJIdTFrTjA1b0h0TkhvSC1BSGNtRGV1Q2lLanpXSHFmX1RVdHZ2aEZnd1E5b3RySW5yYnNtTXkzY3I5Qnp0YnFtZEtoZEVFYlpEdmRFdw?oc=5",
         "published": "6 Apr 2026, 09:54 PM",
@@ -86,6 +76,16 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBOFo5Wm1HelNIWGsyMzg4QW54cVJJSnIxbUdkVlFVdjBydEpJX1Yxd3RXU2c3alBIZURJMTkwX0xLSndneXhMQS1RX3RrTFNrSnVaZUw5VDNLNkRr?oc=5",
         "published": "6 Apr 2026, 11:09 AM",
         "iso_date": "2026-04-06T11:09:22+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
+        "published": "7 Apr 2026, 07:44 AM",
+        "iso_date": "2026-04-07T07:44:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,12 +256,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "AirAsia X to raise fares, cut capacity over Mideast war",
+        "link": "https://www.newsofbahrain.com/bahrain/129992.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n5UJgt3sIG_2026-04-07_1775551763resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BFLC shareholders approve Truffle merger",
+        "link": "https://www.newsofbahrain.com/business/129991.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EZQja5kmbV_2026-04-07_1775551612resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Takaful International unveils refreshed brand identity",
+        "link": "https://www.newsofbahrain.com/business/129990.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eNX4C8oOAJ_2026-04-07_1775551303resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ritz-Carlton introduces elevated at-home experiences and curated dining offerings",
+        "link": "https://www.newsofbahrain.com/business/129989.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jtvP6WGdZk_2026-04-07_1775551209resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Salam Bank launches interactive contest",
+        "link": "https://www.newsofbahrain.com/business/129988.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xf0qE6XUVb_2026-04-07_1775550756resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Kanoo , Salahuddin, and Al-Zayani Lead Bahrain Chamber’s 31st Board",
         "link": "https://www.newsofbahrain.com/bahrain/129987.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q6D084PRSX_2026-04-07_1775550288resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q6D084PRSX_2026-04-07_1775550288thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,37 +321,27 @@
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AUIvk4HRzm_2026-04-07_1775549083resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AUIvk4HRzm_2026-04-07_1775549083thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "15 Years Jail for Airport Drug Smugglers",
         "link": "https://www.newsofbahrain.com/bahrain/129985.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zAIC1hRxMn_2026-04-07_1775548703resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zAIC1hRxMn_2026-04-07_1775548703thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Cabinet Moves Highlight Adaptability and Investor Confidence",
         "link": "https://www.newsofbahrain.com/bahrain/129984.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_T8tDq7Ibi0_2026-04-07_1775548520resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura Praises Government Measures to Safeguard Economy",
-        "link": "https://www.newsofbahrain.com/bahrain/129983.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9jgk0uxODh_2026-04-07_1775547713resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_T8tDq7Ibi0_2026-04-07_1775548520thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -342,46 +382,6 @@
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FHA3uGKVBp_2026-04-07_1775543106thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air Expands Temporary Dammam Network with Four New South Asia Destinations",
-        "link": "https://www.newsofbahrain.com/bahrain/129962.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2Z1RBLaple_2026-04-06_1775497880thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kaspersky reports 2025 financial results, driving revenue to $836 mln",
-        "link": "https://www.newsofbahrain.com/business/129952.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DowxT9eOLV_2026-04-06_1775493890thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "ONE App Marks Its Anniversary with a Grand Prize Jetour T2 Campaign",
-        "link": "https://www.newsofbahrain.com/business/129939.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tQZm6fjxVJ_2026-04-06_1775471332thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bill to Expand Bahrain Tax Data Exchange",
-        "link": "https://www.newsofbahrain.com/business/129899.html",
-        "published": "5 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-05T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PAscRwmeFZ_2026-04-05_1775371023thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 08:28:16 UTC"
+  "fetched_at": "2026-04-07 08:52:35 UTC"
 }
