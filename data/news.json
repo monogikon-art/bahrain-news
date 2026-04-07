@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 16
     }
   },
   "articles": {
@@ -32,20 +32,20 @@
         "category": "Latest"
       },
       {
-        "title": "Jordan, Bahrain intercept Iranian missiles and drones",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlaWF4UlowU3E5Z0tNeGlrSDFjSVU3QWNqTlRnWF9sQXI3aEVrQlpfN0gxa1BObnY5Q1FXQ3J2WmtYdWcyVVdKbmdGMWExVnd0MWJR?oc=5",
-        "published": "6 Apr 2026, 01:03 PM",
-        "iso_date": "2026-04-06T13:03:15+00:00",
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
+        "published": "6 Apr 2026, 09:22 PM",
+        "iso_date": "2026-04-06T21:22:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV3FMcmlIdmpqYzJLSlFnR00tSjcyWXJ2LUt2Sk9KT1I3UTNVYWpmV2V5UXRvNlZQZll5V3hVaUUwc1oyOUwwNUFFaEhFaW9Fb0s0ODJSU2ltZHJfSkdYZTlxUnBkdFFFejhMVUptSmNwdVM3S3hPSHhIQnAxRFFWOXI5RlcxRVIxNV9yTEJzUHNXNDZwb0t2RWVMYWFmRnRMNEZTV2tGbUhYM0ZDZENCajd1OEI4MDRVWlNkMHNsRk01cWpVYXBjSDhsLVk5SDRINmREUk9oUU1pNWttWmQtc3E3aXF2VW9qQ0xHSkNTUXpvZDd0dG1WaFNPVzItSkJobVBBa1ctSnN0WkUyanE4X1diUUd4clBqdWJ2MUNGRWEwQk5KUDlncEVucmJoOS0yakJIN0lYOXh2NF9TVzhuOVJEcmRQVlFuX3lGbUxRdHRTWTJWc0ptbHcwV2ZERU9oUDhNUlZ3VGkxeHAya0FEeTZZWWw3Ri0zU24xeHV5VkJvejdEVERvcXFxUEpBVzFtNnhacjctdw?oc=5",
-        "published": "6 Apr 2026, 12:31 PM",
-        "iso_date": "2026-04-06T12:31:50+00:00",
+        "title": "Jordan, Bahrain intercept Iranian missiles and drones",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlaWF4UlowU3E5Z0tNeGlrSDFjSVU3QWNqTlRnWF9sQXI3aEVrQlpfN0gxa1BObnY5Q1FXQ3J2WmtYdWcyVVdKbmdGMWExVnd0MWJR?oc=5",
+        "published": "6 Apr 2026, 01:03 PM",
+        "iso_date": "2026-04-06T13:03:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -76,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
         "published": "7 Apr 2026, 07:44 AM",
         "iso_date": "2026-04-07T07:44:48+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNQWhySGFiajZMempKT1M1VjdmQUktMGZMRjRmSldrN0hGd2JnRXJxbC1DTXhJbl9RRV90dEZuTEE4UEVMVzJqR0hQcDVuejJLYVY5MVNBOE1fQWpOcGdaTzV3VWNXaVBKYmowUF85b0JUUkpGTHJGTjVPMzJkT2FqVURKVUdzZzhYOFZvLUp1cjRtbjRfNENLaEg5MHBGTzVhdFdJQml2OXp4YTBsdTdrYkt1M1RVcGd1UGlHajcwUFpCazV1NXlrUWJ0c1M4eGh6VGtlLTh0NjZqaVBSQ1IzX2NGSkpWMjlBclNDNzdfcU0tcDFFSGh6aHJpT0tHam1oR2k3QUIzcFkxMGJxU3dZWnlGX0toQ2w4dTZXR1RfQUZyNFBvdm1yVFZaLXIwbFZXUzZFZWVNVVl2T0xuZ0YyYkxFMGxWenBiaWFUUXpYdHRMMzhBNV8xSFFMbzhJOWlPTUNLdHd6RURoV1k3V0wzenhqRTZMUUlXOC1EUy1ER1ktRHJmbXlQOXhZUlZRdkJISEFvY3E2ZGJhd2c?oc=5",
-        "published": "6 Apr 2026, 12:50 PM",
-        "iso_date": "2026-04-06T12:50:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -144,22 +134,22 @@
         "category": "Latest"
       },
       {
+        "title": "BDF General Command: 188 missiles, 477 drones destroyed",
+        "link": "https://www.gdnonline.com/Details/1380720/BDF-General-Command-188-missiles,-477-drones-destroyed",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407120204intercepted.jpeg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Chamber new chairman congratulated",
         "link": "https://www.gdnonline.com/Details/1380668/Bahrain-Chamber-new-chairman-congratulated",
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260407/20260407014052saxopicture-000000000698efa0-408815870_T.jpg?20260407",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Stunning sunsets spotlight safe and beautiful image of Bahrain",
-        "link": "https://www.gdnonline.com/Details/1380655/Stunning-sunsets-spotlight-safe-and-beautiful-image-of-Bahrain",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407001544edited12_T.jpg?20260407",
         "source": "gdn",
         "category": "Latest"
       },
@@ -266,10 +256,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Japan Seeks Talks with Iran and United States as Tensions Rise in Middle East",
-        "link": "https://www.newsofbahrain.com/world/130005.html",
+        "title": "Vietnam parliament elects Communist Party leader To Lam as president",
+        "link": "https://www.newsofbahrain.com/world/130008.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7X5Fi3BW4g_2026-04-07_1775558721resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "“Iran Strategy Will Strengthen US Role in Gulf”",
+        "link": "https://www.newsofbahrain.com/world/130007.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7gisCfeZNK_2026-04-07_1775558463resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Philippines says second national confirmed killed in Mideast war",
+        "link": "https://www.newsofbahrain.com/world/130006.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2h5uDe6ykA_2026-04-07_1775557721resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Japan Seeks Talks with Iran and United States as Tensions Rise in Middle East",
+        "link": "https://www.newsofbahrain.com/world/130005.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_VbDjcMH30x_2026-04-07_1775556927resized_pic.jpg",
         "source": "newsofbahrain",
@@ -286,32 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Ex-top aide of Spanish PM set to go on trial for graft",
-        "link": "https://www.newsofbahrain.com/world/130003.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zMlFLgi3p5_2026-04-07_1775556319resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "US Democratic lawmakers slam ‘economic bombing’ after Cuba visit",
         "link": "https://www.newsofbahrain.com/bahrain/130002.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XKlt69M5NR_2026-04-07_1775556174resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "After milestone-rich lunar flyby, astronauts start trip home",
-        "link": "https://www.newsofbahrain.com/world/130001.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GwgaC3ODHR_2026-04-07_1775555846resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XKlt69M5NR_2026-04-07_1775556174thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 10:23:34 UTC"
+  "fetched_at": "2026-04-07 10:48:18 UTC"
 }
