@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -92,55 +92,206 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "SUPPORT ALL SET: Panel tasked with implementing economic measures",
+        "link": "https://www.gdnonline.com/Details/1380670/SUPPORT-ALL-SET-Panel-tasked-with-implementing-economic-measures",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407005434saxopicture-00000000097fc300-512038382_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "His Majesty congratulates Bahrain Chamber chief and board members",
+        "link": "https://www.gdnonline.com/Details/1380671/His-Majesty-congratulates-Bahrain-Chamber-chief-and-board-members",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407005341hmkinghamadpleaseusethis_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Annual midday outdoor work ban set to begin on June 15",
+        "link": "https://www.gdnonline.com/Details/1380642/Annual-midday-outdoor-work-ban-set-to-begin-on-June-15",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221549_0_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF General Command: 188 missiles, 477 drones destroyed",
+        "link": "https://www.gdnonline.com/Details/1380720/BDF-General-Command-188-missiles,-477-drones-destroyed",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407120204intercepted.jpeg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Chamber new chairman congratulated",
+        "link": "https://www.gdnonline.com/Details/1380668/Bahrain-Chamber-new-chairman-congratulated",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407014052saxopicture-000000000698efa0-408815870_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Report highlights sustained investor confidence in kingdom",
+        "link": "https://www.gdnonline.com/Details/1380661/Report-highlights-sustained-investor-confidence-in-kingdom",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406225709gdn-websitesize-2026-04-06t230527.752_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "New Chamber board commits to achieving strategic goals",
+        "link": "https://www.gdnonline.com/Details/1380657/New-Chamber-board-commits-to-achieving-strategic-goals",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221631_3_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "KFH-Bahrain announces key promotions",
+        "link": "https://www.gdnonline.com/Details/1380662/KFH-Bahrain-announces-key-promotions",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221633_3_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BFLC and Truffle Hospitality sign merger agreement",
+        "link": "https://www.gdnonline.com/Details/1380658/BFLC-and-Truffle-Hospitality-sign-merger-agreement",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406230104gdn-websitesize-2026-04-06t230921.070_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Arcapita announces promotions across global offices",
+        "link": "https://www.gdnonline.com/Details/1380656/Arcapita-announces-promotions-across-global-offices",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221630_1_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Arsenal face Sporting",
+        "link": "https://www.gdnonline.com/Details/1380691/Arsenal-face-Sporting",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407012933edited_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Silva to exit Man City at end of season, assistant manager confirms",
+        "link": "https://www.gdnonline.com/Details/1380591/Silva-to-exit-Man-City-at-end-of-season,-assistant-manager-confirms",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406094634bsilva_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "PSV take title in Netherlands as Feyenoord fail to win",
+        "link": "https://www.gdnonline.com/Details/1380610/PSV-take-title-in-Netherlands-as-Feyenoord-fail-to-win",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406154054psv(3)_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Thuram and Martinez star as Inter dismantle Roma 5-2",
+        "link": "https://www.gdnonline.com/Details/1380588/Thuram-and-Martinez-star-as-Inter-dismantle-Roma-5-2",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406095058inter1(3)_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Schouten to skip World Cup due to injury",
+        "link": "https://www.gdnonline.com/Details/1380571/Schouten-to-skip-World-Cup-due-to-injury",
+        "published": "6 Apr 2026",
+        "iso_date": "2026-04-06T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406011122fghftju_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
-        "title": "UAE sets out plans for new Dh6bn motorway to cut congestion",
-        "link": "https://www.newsofbahrain.com/world/130038.html",
+        "title": "Bangladesh police arrest Hasina-era former parliament speaker",
+        "link": "https://www.newsofbahrain.com/world/130044.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GhjpiwX95U_2026-04-07_1775568383resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vcTjrUOmno_2026-04-07_1775572261resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Gulf airlines operating at half capacity as recovery continues",
-        "link": "https://www.newsofbahrain.com/world/130037.html",
+        "title": "40-metre scaffold collapses in Japan, three workers critical",
+        "link": "https://www.newsofbahrain.com/world/130043.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ot05WcKvTX_2026-04-07_1775566897resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dPkDCSlByU_2026-04-07_1775571700resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "North Korea Distances from Iran, Signals Openness to United States Ties",
-        "link": "https://www.newsofbahrain.com/world/130036.html",
+        "title": "South Korea deports alleged Thai drug kingpin",
+        "link": "https://www.newsofbahrain.com/world/130042.html",
         "published": "7 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-07T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_l8C3c1aJu0_2026-04-07_1775566761resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fpLu6lHI0g_2026-04-07_1775571175resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE companies offer rent relief, cash allowances to support small businesses amid war",
-        "link": "https://www.newsofbahrain.com/world/130035.html",
+        "title": "Teen detained for stabbing teacher to death in Russia",
+        "link": "https://www.newsofbahrain.com/world/130041.html",
         "published": "7 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-07T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zHN5GoCKg2_2026-04-07_1775566533resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TEuBav9sYb_2026-04-07_1775569992resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE firms shift hiring strategy, protect jobs while flexible roles rise",
-        "link": "https://www.newsofbahrain.com/world/130034.html",
+        "title": "Locopilot killed, two critically injured as French high-speed train collides with truck",
+        "link": "https://www.newsofbahrain.com/world/130040.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LBcDgUFYkN_2026-04-07_1775565711resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vRp6wQAUxi_2026-04-07_1775569531resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -368,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 13:33:36 UTC"
+  "fetched_at": "2026-04-07 14:36:09 UTC"
 }
