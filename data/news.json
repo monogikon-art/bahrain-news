@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 17
     }
   },
   "articles": {
@@ -92,10 +92,10 @@
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNQWhySGFiajZMempKT1M1VjdmQUktMGZMRjRmSldrN0hGd2JnRXJxbC1DTXhJbl9RRV90dEZuTEE4UEVMVzJqR0hQcDVuejJLYVY5MVNBOE1fQWpOcGdaTzV3VWNXaVBKYmowUF85b0JUUkpGTHJGTjVPMzJkT2FqVURKVUdzZzhYOFZvLUp1cjRtbjRfNENLaEg5MHBGTzVhdFdJQml2OXp4YTBsdTdrYkt1M1RVcGd1UGlHajcwUFpCazV1NXlrUWJ0c1M4eGh6VGtlLTh0NjZqaVBSQ1IzX2NGSkpWMjlBclNDNzdfcU0tcDFFSGh6aHJpT0tHam1oR2k3QUIzcFkxMGJxU3dZWnlGX0toQ2w4dTZXR1RfQUZyNFBvdm1yVFZaLXIwbFZXUzZFZWVNVVl2T0xuZ0YyYkxFMGxWenBiaWFUUXpYdHRMMzhBNV8xSFFMbzhJOWlPTUNLdHd6RURoV1k3V0wzenhqRTZMUUlXOC1EUy1ER1ktRHJmbXlQOXhZUlZRdkJISEFvY3E2ZGJhd2c?oc=5",
-        "published": "6 Apr 2026, 12:50 PM",
-        "iso_date": "2026-04-06T12:50:46+00:00",
+        "title": "Bahrain Orders Detention Of Suspects Accused Of Spying For Iran",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVFJLV3VTeTB1ZEV6bnFBWGNjaWpBSlhNSTVzRTAzT0RHeTkxVWl0Smw0ekg3WDRHbUo5cjBINW5wUmVhbjVYWmoyTVkwYVEwTXhyM3o2OVJrUy1rd3VRdDVaV1FNUzNhYnE3ZHRvS1RIcGJBMUpnLVBQOXdIa1g2SjhFenlDb0tiZjdMOVVtM0VEbHlsMk8xSmg5OVZmNEE?oc=5",
+        "published": "6 Apr 2026, 05:45 PM",
+        "iso_date": "2026-04-06T17:45:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -104,22 +104,42 @@
     ],
     "gdn": [
       {
-        "title": "Bahraini poet recognised as top Arab cultural figure",
-        "link": "https://www.gdnonline.com/Details/1380644/Bahraini-poet-recognised-as-top-Arab-cultural-figure-",
+        "title": "SUPPORT ALL SET: Panel tasked with implementing economic measures",
+        "link": "https://www.gdnonline.com/Details/1380670/SUPPORT-ALL-SET-Panel-tasked-with-implementing-economic-measures",
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407001931edited34_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407005434saxopicture-00000000097fc300-512038382_T.jpg?20260407",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Employee safety âremains top priorityâ for Solidarity",
-        "link": "https://www.gdnonline.com/Details/1380645/Employee-safety-âremains-top-priorityâ-for-Solidarity",
+        "title": "His Majesty congratulates Bahrain Chamber chief and board members",
+        "link": "https://www.gdnonline.com/Details/1380671/His-Majesty-congratulates-Bahrain-Chamber-chief-and-board-members",
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221551_0_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407005341hmkinghamadpleaseusethis_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Chamber new chairman congratulated",
+        "link": "https://www.gdnonline.com/Details/1380668/Bahrain-Chamber-new-chairman-congratulated",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407014052saxopicture-000000000698efa0-408815870_T.jpg?20260407",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Several held over spy link with Iranians",
+        "link": "https://www.gdnonline.com/Details/1380702/Several-held-over-spy-link-with-Iranians",
+        "published": "7 Apr 2026",
+        "iso_date": "2026-04-07T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407033126images_T.jpg?20260407",
         "source": "gdn",
         "category": "Latest"
       },
@@ -130,26 +150,6 @@
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221549_0_T.jpg?20260407",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Vision correction surgeries to support RHF beneficiaries",
-        "link": "https://www.gdnonline.com/Details/1380646/Vision-correction-surgeries-to-support-RHF-beneficiaries",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221551_2.jpeg?20260407",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Existing electronic screens âenough for poll campaignsâ",
-        "link": "https://www.gdnonline.com/Details/1380651/Existing-electronic-screens-âenough-for-poll-campaignsâ",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221556_0_T.jpg?20260407",
         "source": "gdn",
         "category": "Latest"
       },
@@ -256,12 +256,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Wall Street stocks rise on hopes for US-Iran ceasefire",
+        "link": "https://www.newsofbahrain.com/world/129970.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FHA3uGKVBp_2026-04-07_1775543106resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Possession of Counterfeit Currency Leads to 3-Year Prison Sentence",
+        "link": "https://www.newsofbahrain.com/bahrain/129969.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Hq2NZmJ1St_2026-04-07_1775543017resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Major Green Push",
+        "link": "https://www.newsofbahrain.com/bahrain/129968.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m7bqOze46K_2026-04-07_1775542690resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Emergency Committee Reviews National Preparedness",
+        "link": "https://www.newsofbahrain.com/bahrain/129967.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xcgJDW3XlK_2026-04-07_1775542134resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King Praises Bahrain Chamber’s Legacy",
+        "link": "https://www.newsofbahrain.com/bahrain/129966.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cB3SYbDAdV_2026-04-07_1775541100resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Arabian Gulf University, GCC Statistical Center Sign MoU to Boost Regional Data and Research Cooperation",
         "link": "https://www.newsofbahrain.com/bahrain/129965.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jgQfxzo7an_2026-04-07_1775539846resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jgQfxzo7an_2026-04-07_1775539846thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,67 +321,17 @@
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mM2Yv3wgqP_2026-04-06_1775503132resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mM2Yv3wgqP_2026-04-06_1775503132thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Trump issues warning to Iran as deadline set for talks",
         "link": "https://www.newsofbahrain.com/world/129963.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJXahT3BWd_2026-04-06_1775502908resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air Expands Temporary Dammam Network with Four New South Asia Destinations",
-        "link": "https://www.newsofbahrain.com/bahrain/129962.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2Z1RBLaple_2026-04-06_1775497880resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Couple Removed from Flight Over Crying Baby Sparks Viral Debate Online",
-        "link": "https://www.newsofbahrain.com/views/129961.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHlFQ4dUhK_2026-04-06_1775496618resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Lawyer Wins BD400 Over Social Media Insults",
-        "link": "https://www.newsofbahrain.com/bahrain/129956.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OaTujzvdGk_2026-04-06_1775494888thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Royal Humanitarian Foundation and Al-Mousawi Eye Center sign cooperation agreement to support beneficiaries’ healthcare",
-        "link": "https://www.newsofbahrain.com/bahrain/129953.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vE509mqsxi_2026-04-06_1775494022thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH the Crown Prince and Prime Minister Directs Full Compensation for Citizens Following Iranian Aggression",
-        "link": "https://www.newsofbahrain.com/bahrain/129946.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UIkjwu5Kx3_2026-04-06_1775481368thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJXahT3BWd_2026-04-06_1775502908thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -346,12 +346,12 @@
         "category": "Latest"
       },
       {
-        "title": "Kia Crowned ‘Best Manufacturer’ at TopGear.com EV Awards 2026",
-        "link": "https://www.newsofbahrain.com/world/129949.html",
+        "title": "Gulf Air Expands Temporary Dammam Network with Four New South Asia Destinations",
+        "link": "https://www.newsofbahrain.com/bahrain/129962.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6jSYpXikAZ_2026-04-06_1775492963thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2Z1RBLaple_2026-04-06_1775497880thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -382,6 +382,16 @@
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_PAscRwmeFZ_2026-04-05_1775371023thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Couple Removed from Flight Over Crying Baby Sparks Viral Debate Online",
+        "link": "https://www.newsofbahrain.com/views/129961.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHlFQ4dUhK_2026-04-06_1775496618thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 05:35:57 UTC"
+  "fetched_at": "2026-04-07 06:33:18 UTC"
 }
