@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 0
     }
   },
   "articles": {
@@ -264,158 +264,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Oil pricesslip back",
-        "link": "https://www.newsofbahrain.com/business/129997.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EJB5yqjQrg_2026-04-07_1775552851resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gangs in Rio de Janeiro hijack buses to spread chaos amid clashes with police",
-        "link": "https://www.newsofbahrain.com/world/129996.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uVMUn74Ryt_2026-04-07_1775552685resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US stocks mixed as market weighs confusing signs on war",
-        "link": "https://www.newsofbahrain.com/business/129995.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G20YpTOHjM_2026-04-07_1775552465resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BKIC introduces refined Logo",
-        "link": "https://www.newsofbahrain.com/business/129994.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OAoKHyauI7_2026-04-07_1775552383resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India Union Minister Piyush Goyal unveils Malabar Gold & Diamonds’ USD 24M CSR Initiative",
-        "link": "https://www.newsofbahrain.com/business/129993.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_feCihEtMFS_2026-04-07_1775552122resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "AirAsia X to raise fares, cut capacity over Mideast war",
-        "link": "https://www.newsofbahrain.com/bahrain/129992.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n5UJgt3sIG_2026-04-07_1775551763thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kanoo , Salahuddin, and Al-Zayani Lead Bahrain Chamber’s 31st Board",
-        "link": "https://www.newsofbahrain.com/bahrain/129987.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q6D084PRSX_2026-04-07_1775550288thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Eight Detained Over BD800,000 Burglary",
-        "link": "https://www.newsofbahrain.com/bahrain/129986.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AUIvk4HRzm_2026-04-07_1775549083thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "15 Years Jail for Airport Drug Smugglers",
-        "link": "https://www.newsofbahrain.com/bahrain/129985.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zAIC1hRxMn_2026-04-07_1775548703thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Cabinet Moves Highlight Adaptability and Investor Confidence",
-        "link": "https://www.newsofbahrain.com/bahrain/129984.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_T8tDq7Ibi0_2026-04-07_1775548520thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN Sec. Council to vote on diluted Hormuz strait resolution today",
-        "link": "https://www.newsofbahrain.com/world/129978.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xhmSWn0C9G_2026-04-07_1775545940thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Frees Japanese National on Bail, Travel Ban Remains",
-        "link": "https://www.newsofbahrain.com/world/129977.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bdPRMLiET9_2026-04-07_1775545879thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "WHO suspends Gaza medical evacuations after contract worker killed",
-        "link": "https://www.newsofbahrain.com/world/129973.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W4KnDBYCjq_2026-04-07_1775544016thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Couple Removed from Flight Over Crying Baby Sparks Viral Debate Online",
-        "link": "https://www.newsofbahrain.com/views/129961.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHlFQ4dUhK_2026-04-06_1775496618thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Meghan Markle Shares Family Easter Moments with Archie and Lilibet",
-        "link": "https://www.newsofbahrain.com/views/129960.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -529,5 +378,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 09:27:21 UTC"
+  "fetched_at": "2026-04-07 09:53:18 UTC"
 }
