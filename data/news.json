@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,16 +16,16 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 20
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Bahrain Prosecutor Orders Detention of Suspects Accused of Spying for Iran",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53ZXNnb1Z0dHlydThvbUp0bDB4azVoc3hER2hyV1Q0b2tGcHN4dDhnWndjeW5ZY0dxUWh5V3lrZ1NHRlpKTFZ4VEhPYjlYLXZaeHc?oc=5",
-        "published": "6 Apr 2026, 04:58 PM",
-        "iso_date": "2026-04-06T16:58:39+00:00",
+        "title": "Bahrain intercepts scores of Iranian warheads",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xcE91LU9vdHNULXhDMkZzQWFodVFqdmJuYi1mVHlnQURweEkyM0hPSzUxcHNwV0JNa3UyV2FmQ0wxVHZQcUFzZXpDSHFvUTZVQ2F6b25paEZOei1m?oc=5",
+        "published": "7 Apr 2026, 02:05 PM",
+        "iso_date": "2026-04-07T14:05:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
         "published": "6 Apr 2026, 09:22 PM",
         "iso_date": "2026-04-06T21:22:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Prosecutor Orders Detention of Suspects Accused of Spying for Iran",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53ZXNnb1Z0dHlydThvbUp0bDB4azVoc3hER2hyV1Q0b2tGcHN4dDhnWndjeW5ZY0dxUWh5V3lrZ1NHRlpKTFZ4VEhPYjlYLXZaeHc?oc=5",
+        "published": "6 Apr 2026, 04:58 PM",
+        "iso_date": "2026-04-06T16:58:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,6 +256,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Italy's energy giant ENI announces gas discovery off Egypt coast",
+        "link": "https://www.newsofbahrain.com/world/130045.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ftCb5dIJTL_2026-04-07_1775572656resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bangladesh police arrest Hasina-era former parliament speaker",
         "link": "https://www.newsofbahrain.com/world/130044.html",
         "published": "7 Apr 2026, 09:22 AM",
@@ -258,8 +278,8 @@
       {
         "title": "40-metre scaffold collapses in Japan, three workers critical",
         "link": "https://www.newsofbahrain.com/world/130043.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_dPkDCSlByU_2026-04-07_1775571700resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,20 +298,10 @@
       {
         "title": "Teen detained for stabbing teacher to death in Russia",
         "link": "https://www.newsofbahrain.com/world/130041.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TEuBav9sYb_2026-04-07_1775569992resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Locopilot killed, two critically injured as French high-speed train collides with truck",
-        "link": "https://www.newsofbahrain.com/world/130040.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vRp6wQAUxi_2026-04-07_1775569531resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TEuBav9sYb_2026-04-07_1775569992resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -388,8 +398,8 @@
       {
         "title": "Couple Removed from Flight Over Crying Baby Sparks Viral Debate Online",
         "link": "https://www.newsofbahrain.com/views/129961.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHlFQ4dUhK_2026-04-06_1775496618thumbnail_pic.jpg",
         "source": "newsofbahrain",
@@ -398,10 +408,50 @@
       {
         "title": "Meghan Markle Shares Family Easter Moments with Archie and Lilibet",
         "link": "https://www.newsofbahrain.com/views/129960.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Giving Back… From Words to Action",
+        "link": "https://www.newsofbahrain.com/views/129901.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Rl43MB0NFU_2026-04-05_1775371546thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Echoes of the past – The Gulf War playbook for today’s markets",
+        "link": "https://www.newsofbahrain.com/views/129900.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eJ0uBOmHip_2026-04-05_1775371164thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Where is ‘United Nations’ in today’s conflicts?",
+        "link": "https://www.newsofbahrain.com/views/129559.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1tPw8n2clv_2026-03-31_1774959885thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Managing the Digital Frontline in Wartime",
+        "link": "https://www.newsofbahrain.com/views/129421.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MH28syxtNw_2026-03-29_1774788386thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -519,5 +569,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 14:36:09 UTC"
+  "fetched_at": "2026-04-07 15:33:00 UTC"
 }
