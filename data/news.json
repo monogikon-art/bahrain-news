@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,16 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
-        "published": "6 Apr 2026, 09:22 PM",
-        "iso_date": "2026-04-06T21:22:30+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain: Two men jailed for spying for Iranian intelligence and the Revolutionary Guard",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEwzRjJlZ3BkZHhWWE9xc3dVODU2eTVhbGcwcVNxZmRQRngzek5VSFVTcm9sa0ZyV0RPT0hOaDQ4bC1JUXJOODNhMEdUbVpVTG5SMFVwNEJDTWU5TGQyU0NxYk8xMVl5OENJWFV0N3FCUFMzUXdSdmFxeG5vbXIwa2xlOXoxeVhzNDlUck55ZHJHUGtHcWxiUzhZSGl4ZjNsdHNCYXhLN0JZdkdXM1NYaGNKVGlONDhxNnFpOFpLUUZxVWdUYmZxUGpncHN2b2wyZ05oNA?oc=5",
         "published": "6 Apr 2026, 10:31 PM",
@@ -53,7 +43,7 @@
       },
       {
         "title": "Bahrain orders detention of suspects accused of spying for Iran",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWdjWHhfRjlybnVEbFJuazBLRUltT003azBKYXVmUmFrZGlIUE84Z0hWZ1l4V0M4SDRxbXlkWjlrV2FXdHR4bG9uZ3JWdFVWUTFrdUNYaUNIamNRQTZVZTVrUFd4dzdfbTAtSU1XVnU3V0JsLTJIdTFrTjA1b0h0TkhvSC1BSGNtRGV1Q2lLanpXSHFmX1RVdHZ2aEZnd1E5b3RySW5yYnNtTXkzY3I5Qnp0YnFtZEtoZEVFYlpEdmRFd9IBwgFBVV95cUxONWdjWHhfRjlybnVEbFJuazBLRUltT003azBKYXVmUmFrZGlIUE84Z0hWZ1l4V0M4SDRxbXlkWjlrV2FXdHR4bG9uZ3JWdFVWUTFrdUNYaUNIamNRQTZVZTVrUFd4dzdfbTAtSU1XVnU3V0JsLTJIdTFrTjA1b0h0TkhvSC1BSGNtRGV1Q2lLanpXSHFmX1RVdHZ2aEZnd1E5b3RySW5yYnNtTXkzY3I5Qnp0YnFtZEtoZEVFYlpEdmRFdw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdElOdVhtcFpUdS1NWS1VZm5rMDBFTjZFcm8zNXpiazhyS0VaQmI3b1ZXUndicVRBWm9wdU5lS1U1eU9SVlA2TDVJbjFkUktCTjlJenh4YjJraEloNlhMdnpvNEcwZnUyY2FrSS1zZUhRNkloSmdlbVBBX2FiSkJfU2IxVWUzT290bmlrMXhiWDRKb0gxWGlreUpXdTFrWUc1dmJwYVptWFRpb0tp0gHCAUFVX3lxTE41Z2NYeF9GOXJudURsUm5rMEtFSW1PTTdrMEphdWZSYWtkaUhQTzhnSFZnWXhXQzhINHFteWRaOWtXYVd0dHhsb25nclZ0VVZRMWt1Q1hpQ0hqY1FBNlVlNWtQV3h3N19tMC1JTVdWdTdXQmwtMkh1MWtOMDVvSHROSG9ILUFIY21EZXVDaUtqeldIcWZfVFV0dnZoRmd3UTlvdHJJbnJic21NeTNjcjlCenRicW1kS2hkRUViWkR2ZEV3?oc=5",
         "published": "6 Apr 2026, 09:54 PM",
         "iso_date": "2026-04-06T21:54:29+00:00",
         "summary": "",
@@ -84,52 +74,52 @@
     ],
     "gdn": [
       {
-        "title": "MPs call for price cap on fuel",
-        "link": "https://www.gdnonline.com/Details/1380747/MPs-call-for-price-cap-on-fuel",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
+        "title": "Tour guide regulations âstill being draftedâ",
+        "link": "https://www.gdnonline.com/Details/1380766/Tour-guide-regulations-âstill-being-draftedâ",
+        "published": "8 Apr 2026",
+        "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407212444whatsappimage2026-04-07at20.42.54.jpeg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408001726edited12_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Tourism Minister chairs GCC Tourism Ministers extraordinary meeting",
-        "link": "https://www.gdnonline.com/Details/1380748/Tourism-Minister-chairs-GCC-Tourism-Ministers-extraordinary-meeting",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
+        "title": "Manama Suq redevelopment project âa national priorityâ",
+        "link": "https://www.gdnonline.com/Details/1380765/Manama-Suq-redevelopment-project-âa-national-priorityâ",
+        "published": "8 Apr 2026",
+        "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407213042gdn-websitesize-2026-04-07t213852.512_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260407_230220_1.jpeg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "SUPPORT ALL SET: Panel tasked with implementing economic measures",
-        "link": "https://www.gdnonline.com/Details/1380670/SUPPORT-ALL-SET-Panel-tasked-with-implementing-economic-measures",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
+        "title": "MPs approve binding cap on petrol prices",
+        "link": "https://www.gdnonline.com/Details/1380759/MPs-approve-binding-cap-on-petrol-prices",
+        "published": "8 Apr 2026",
+        "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407005434saxopicture-00000000097fc300-512038382_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408002032petrolprices_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "His Majesty congratulates Bahrain Chamber chief and board members",
-        "link": "https://www.gdnonline.com/Details/1380671/His-Majesty-congratulates-Bahrain-Chamber-chief-and-board-members",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
+        "title": "Proposal to postpone tax return deadline",
+        "link": "https://www.gdnonline.com/Details/1380760/Proposal-to-postpone-tax-return-deadline",
+        "published": "8 Apr 2026",
+        "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407005341hmkinghamadpleaseusethis_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260407_230208_0_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Annual midday outdoor work ban set to begin on June 15",
-        "link": "https://www.gdnonline.com/Details/1380642/Annual-midday-outdoor-work-ban-set-to-begin-on-June-15",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
+        "title": "Repeat offender on trial over identity theft and forgery",
+        "link": "https://www.gdnonline.com/Details/1380757/Repeat-offender-on-trial-over-identity-theft-and-forgery",
+        "published": "8 Apr 2026",
+        "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221549_0_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407233911gdn-websitesize-2026-04-07t234740.797_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +129,7 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406225709gdn-websitesize-2026-04-06t230527.752_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406225709gdn-websitesize-2026-04-06t230527.752_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +139,7 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221631_3_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221631_3_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +149,7 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221633_3_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221633_3_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +159,7 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406230104gdn-websitesize-2026-04-06t230921.070_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406230104gdn-websitesize-2026-04-06t230921.070_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +169,7 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221630_1_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221630_1_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +179,7 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407012933edited_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407012933edited_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +189,7 @@
         "published": "6 Apr 2026",
         "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406094634bsilva_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406094634bsilva_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -209,7 +199,7 @@
         "published": "6 Apr 2026",
         "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406154054psv(3)_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406154054psv(3)_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -219,7 +209,7 @@
         "published": "6 Apr 2026",
         "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406095058inter1(3)_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406095058inter1(3)_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -229,7 +219,7 @@
         "published": "6 Apr 2026",
         "iso_date": "2026-04-06T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406011122fghftju_T.jpg?20260407",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406011122fghftju_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       }
@@ -509,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 21:17:58 UTC"
+  "fetched_at": "2026-04-07 21:46:06 UTC"
 }
