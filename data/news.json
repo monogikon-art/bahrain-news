@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 16
     }
   },
   "articles": {
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzE4b1U1c0RJZ1NiQWx3bUoxUWpMMGpLSDNlNzRWcExtejBNYVB6ZjZLTXdONktyOUVSUFlqWDVMaGxMajU5dlQ3azNqTFk0eUw2OXJ6MFBJYWQ3di1vX2U4b1VENlRVUXplbGhHUmZ4akJmWWxCbm9RME9SSTIwZzVqOGRDQU1vd0tvUFhhek9YQkJIQzlVbnFuNGFscTloUzBtWm16OElpWk5ONFBfOFZpRkw0elZfcF90UWpRTldzRzlUbXIzTFF5SQ?oc=5",
         "published": "7 Apr 2026, 11:57 AM",
         "iso_date": "2026-04-07T11:57:01+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain: Two men jailed for spying for Iranian intelligence and the Revolutionary Guard",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEwzRjJlZ3BkZHhWWE9xc3dVODU2eTVhbGcwcVNxZmRQRngzek5VSFVTcm9sa0ZyV0RPT0hOaDQ4bC1JUXJOODNhMEdUbVpVTG5SMFVwNEJDTWU5TGQyU0NxYk8xMVl5OENJWFV0N3FCUFMzUXdSdmFxeG5vbXIwa2xlOXoxeVhzNDlUck55ZHJHUGtHcWxiUzhZSGl4ZjNsdHNCYXhLN0JZdkdXM1NYaGNKVGlONDhxNnFpOFpLUUZxVWdUYmZxUGpncHN2b2wyZ05oNA?oc=5",
-        "published": "6 Apr 2026, 10:31 PM",
-        "iso_date": "2026-04-06T22:31:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -224,7 +214,168 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Fu Cong: “Root Causes Are Clear” as China Criticises US and Israel Actions",
+        "link": "https://www.newsofbahrain.com/world/130058.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3cOiL0wDy1_2026-04-07_1775590777resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "U.S. Journalist Shelly Kittleson Freed After Kidnapping in Baghdad",
+        "link": "https://www.newsofbahrain.com/world/130057.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VCQogex1ui_2026-04-07_1775590297resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait interior ministry urges residents to stay in starting from midnight",
+        "link": "https://www.newsofbahrain.com/gcc/130056.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bUB0w9vLoY_2026-04-07_1775589290resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Envoy Delivers Blistering Critique of Iran at Security Council",
+        "link": "https://www.newsofbahrain.com/world/130055.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u5ItBXg63K_2026-04-07_1775588955resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Madagascar Declares Energy Emergency",
+        "link": "https://www.newsofbahrain.com/world/130054.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2bRs46ixFA_2026-04-07_1775588390resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UN Resolution Blocked: Council Fails to Pass Bahrain-Led Maritime Security Resolution",
+        "link": "https://www.newsofbahrain.com/bahrain/130053.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GEJ5K3MxYF_2026-04-07_1775588353thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Marks World Health Day 2026 with Focus on Science and Innovation",
+        "link": "https://www.newsofbahrain.com/bahrain/130052.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QHT3aWsKhb_2026-04-07_1775587916thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Minister of Tourism Chairs Extraordinary Meeting of GCC Tourism Ministers",
+        "link": "https://www.newsofbahrain.com/bahrain/130046.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b7cAfd8mEF_2026-04-07_1775585461thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tour of Flanders cyclists face fines for running red light at railroad",
+        "link": "https://www.newsofbahrain.com/bahrain/130018.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QAJjmbO89v_2026-04-07_1775561102thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Democratic lawmakers slam ‘economic bombing’ after Cuba visit",
+        "link": "https://www.newsofbahrain.com/bahrain/130002.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XKlt69M5NR_2026-04-07_1775556174thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil pricesslip back",
+        "link": "https://www.newsofbahrain.com/business/129997.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EJB5yqjQrg_2026-04-07_1775552851thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US stocks mixed as market weighs confusing signs on war",
+        "link": "https://www.newsofbahrain.com/business/129995.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G20YpTOHjM_2026-04-07_1775552465thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BKIC introduces refined Logo",
+        "link": "https://www.newsofbahrain.com/business/129994.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OAoKHyauI7_2026-04-07_1775552383thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India Union Minister Piyush Goyal unveils Malabar Gold & Diamonds’ USD 24M CSR Initiative",
+        "link": "https://www.newsofbahrain.com/business/129993.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_feCihEtMFS_2026-04-07_1775552122thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Couple Removed from Flight Over Crying Baby Sparks Viral Debate Online",
+        "link": "https://www.newsofbahrain.com/views/129961.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHlFQ4dUhK_2026-04-06_1775496618thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Meghan Markle Shares Family Easter Moments with Archie and Lilibet",
+        "link": "https://www.newsofbahrain.com/views/129960.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -338,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 22:13:56 UTC"
+  "fetched_at": "2026-04-07 22:45:35 UTC"
 }
