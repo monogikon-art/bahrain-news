@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 17
     }
   },
   "articles": {
@@ -256,52 +256,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Air India CEO Campbell Wilson resigns: reports",
-        "link": "https://www.newsofbahrain.com/world/130021.html",
+        "title": "Taiwan opposition leader lands in Shanghai on rare visit: Chinese state media",
+        "link": "https://www.newsofbahrain.com/world/130031.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UCsr6hueNB_2026-04-07_1775562217resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IREtrMDv9Z_2026-04-07_1775564337resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Australian PM to discuss fuel supplies in Singapore visit",
-        "link": "https://www.newsofbahrain.com/world/130020.html",
+        "title": "Wawrinka falls in first round of Monte Carlo Masters",
+        "link": "https://www.newsofbahrain.com/sports/130029.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pE2CgM3wZK_2026-04-07_1775561541resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XurIRaT4Yk_2026-04-07_1775563796resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Third Bahrain Jockey Academy Cohort Honoured",
-        "link": "https://www.newsofbahrain.com/sports/130019.html",
+        "title": "Bahrain Youth Yet to Break Through",
+        "link": "https://www.newsofbahrain.com/sports/130028.html",
         "published": "7 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-07T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tm30k6xAXb_2026-04-07_1775561249resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hYWpUO79AS_2026-04-07_1775563432resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Overnight attacks kill children in Ukraine, Russia",
+        "link": "https://www.newsofbahrain.com/world/130027.html",
+        "published": "7 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-07T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XxdNqCjhpv_2026-04-07_1775563397resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Croatia Declared Mine-Free After Decades, but War’s Scars Remain",
+        "link": "https://www.newsofbahrain.com/world/130026.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SmUEf4vdLD_2026-04-07_1775563303resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Tour of Flanders cyclists face fines for running red light at railroad",
         "link": "https://www.newsofbahrain.com/bahrain/130018.html",
-        "published": "7 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-07T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QAJjmbO89v_2026-04-07_1775561102resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ex- soldier Ben Roberts-Smith Arrested, Charged with War Crimes Over Killings in Afghanistan",
-        "link": "https://www.newsofbahrain.com/world/130017.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2GMtcr1m8z_2026-04-07_1775560840resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QAJjmbO89v_2026-04-07_1775561102thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -346,12 +356,12 @@
         "category": "Latest"
       },
       {
-        "title": "Iran war drives Philippine inflation above 4%",
-        "link": "https://www.newsofbahrain.com/world/130015.html",
+        "title": "Air India CEO Campbell Wilson resigns: reports",
+        "link": "https://www.newsofbahrain.com/world/130021.html",
         "published": "7 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7h39KcWDoE_2026-04-07_1775560824thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UCsr6hueNB_2026-04-07_1775562217thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 11:48:12 UTC"
+  "fetched_at": "2026-04-07 12:21:01 UTC"
 }
