@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,50 @@
   "articles": {
     "bna": [
       {
+        "title": "Bahrain Prosecutor Orders Detention of Suspects Accused of Spying for Iran",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53ZXNnb1Z0dHlydThvbUp0bDB4azVoc3hER2hyV1Q0b2tGcHN4dDhnWndjeW5ZY0dxUWh5V3lrZ1NHRlpKTFZ4VEhPYjlYLXZaeHc?oc=5",
+        "published": "6 Apr 2026, 04:58 PM",
+        "iso_date": "2026-04-06T16:58:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
+        "published": "6 Apr 2026, 09:22 PM",
+        "iso_date": "2026-04-06T21:22:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Jordan, Bahrain intercept Iranian missiles and drones",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlaWF4UlowU3E5Z0tNeGlrSDFjSVU3QWNqTlRnWF9sQXI3aEVrQlpfN0gxa1BObnY5Q1FXQ3J2WmtYdWcyVVdKbmdGMWExVnd0MWJR?oc=5",
         "published": "6 Apr 2026, 01:03 PM",
         "iso_date": "2026-04-06T13:03:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain: Two men jailed for spying for Iranian intelligence and the Revolutionary Guard",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEwzRjJlZ3BkZHhWWE9xc3dVODU2eTVhbGcwcVNxZmRQRngzek5VSFVTcm9sa0ZyV0RPT0hOaDQ4bC1JUXJOODNhMEdUbVpVTG5SMFVwNEJDTWU5TGQyU0NxYk8xMVl5OENJWFV0N3FCUFMzUXdSdmFxeG5vbXIwa2xlOXoxeVhzNDlUck55ZHJHUGtHcWxiUzhZSGl4ZjNsdHNCYXhLN0JZdkdXM1NYaGNKVGlONDhxNnFpOFpLUUZxVWdUYmZxUGpncHN2b2wyZ05oNA?oc=5",
+        "published": "6 Apr 2026, 10:31 PM",
+        "iso_date": "2026-04-06T22:31:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s prosecutor arrests suspects allegedly spying for Iran - PHOTO",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNktwQVpzUi00YnZUN2RQTUpYYWl6UkxSSkJhY1NsZWlsUjA4THpMU3IydnVOU2xpRDM5eXhlZk43MHRyN1hGRTFLdjdQWDVJeFh4aVJhTi03MW54TjZRSS13S1R5T1k5M1E2SFVPSnhLYnNYNEY0Sl9VOW1pYjBMR1NRbklueklob05UcS1YVFRtc2NY?oc=5",
+        "published": "6 Apr 2026, 01:09 PM",
+        "iso_date": "2026-04-06T13:09:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,20 +82,20 @@
         "category": "Latest"
       },
       {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNQWhySGFiajZMempKT1M1VjdmQUktMGZMRjRmSldrN0hGd2JnRXJxbC1DTXhJbl9RRV90dEZuTEE4UEVMVzJqR0hQcDVuejJLYVY5MVNBOE1fQWpOcGdaTzV3VWNXaVBKYmowUF85b0JUUkpGTHJGTjVPMzJkT2FqVURKVUdzZzhYOFZvLUp1cjRtbjRfNENLaEg5MHBGTzVhdFdJQml2OXp4YTBsdTdrYkt1M1RVcGd1UGlHajcwUFpCazV1NXlrUWJ0c1M4eGh6VGtlLTh0NjZqaVBSQ1IzX2NGSkpWMjlBclNDNzdfcU0tcDFFSGh6aHJpT0tHam1oR2k3QUIzcFkxMGJxU3dZWnlGX0toQ2w4dTZXR1RfQUZyNFBvdm1yVFZaLXIwbFZXUzZFZWVNVVl2T0xuZ0YyYkxFMGxWenBiaWFUUXpYdHRMMzhBNV8xSFFMbzhJOWlPTUNLdHd6RURoV1k3V0wzenhqRTZMUUlXOC1EUy1ER1ktRHJmbXlQOXhZUlZRdkJISEFvY3E2ZGJhd2c?oc=5",
-        "published": "6 Apr 2026, 12:50 PM",
-        "iso_date": "2026-04-06T12:50:46+00:00",
+        "title": "Bahrain intercepts 188 missiles, 468 drones in attacks",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBOFo5Wm1HelNIWGsyMzg4QW54cVJJSnIxbUdkVlFVdjBydEpJX1Yxd3RXU2c3alBIZURJMTkwX0xLSndneXhMQS1RX3RrTFNrSnVaZUw5VDNLNkRr?oc=5",
+        "published": "6 Apr 2026, 11:09 AM",
+        "iso_date": "2026-04-06T11:09:22+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defence Force: 188 missiles, 468 drones intercepted since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTk5kTGltQlNWX3dtbFlpMU0yX3owcHZnMDl0WS1aU0xrTDc5Sk1NRFNJZWxieHZuOTlqUEVEMmJ1STk0eEVNZ0VLU0x0dElVbVQ0VXN3X1p2WWU1SFJkNUlZWjloUXZnWlVGd1BVSzdNU2Q1NEFKZWdTNnpZRWRWTldBaVFGVGZRQ2V4QTE2dThlVjlTVGFoTFRMZUdXTDhGeUxDTEtzYnVQQS1aY0Z3REdLUjZZYWk5UEtEZzhONGI4dGZVQklrNnRnTXA5RFU?oc=5",
-        "published": "6 Apr 2026, 09:08 AM",
-        "iso_date": "2026-04-06T09:08:00+00:00",
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNQWhySGFiajZMempKT1M1VjdmQUktMGZMRjRmSldrN0hGd2JnRXJxbC1DTXhJbl9RRV90dEZuTEE4UEVMVzJqR0hQcDVuejJLYVY5MVNBOE1fQWpOcGdaTzV3VWNXaVBKYmowUF85b0JUUkpGTHJGTjVPMzJkT2FqVURKVUdzZzhYOFZvLUp1cjRtbjRfNENLaEg5MHBGTzVhdFdJQml2OXp4YTBsdTdrYkt1M1RVcGd1UGlHajcwUFpCazV1NXlrUWJ0c1M4eGh6VGtlLTh0NjZqaVBSQ1IzX2NGSkpWMjlBclNDNzdfcU0tcDFFSGh6aHJpT0tHam1oR2k3QUIzcFkxMGJxU3dZWnlGX0toQ2w4dTZXR1RfQUZyNFBvdm1yVFZaLXIwbFZXUzZFZWVNVVl2T0xuZ0YyYkxFMGxWenBiaWFUUXpYdHRMMzhBNV8xSFFMbzhJOWlPTUNLdHd6RURoV1k3V0wzenhqRTZMUUlXOC1EUy1ER1ktRHJmbXlQOXhZUlZRdkJISEFvY3E2ZGJhd2c?oc=5",
+        "published": "6 Apr 2026, 12:50 PM",
+        "iso_date": "2026-04-06T12:50:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,6 +256,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Arabian Gulf University, GCC Statistical Center Sign MoU to Boost Regional Data and Research Cooperation",
+        "link": "https://www.newsofbahrain.com/bahrain/129965.html",
+        "published": "7 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-07T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jgQfxzo7an_2026-04-07_1775539846resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Trump: “We Will Find the Leaker” After Alleged Rescue Operation Leak",
         "link": "https://www.newsofbahrain.com/world/129964.html",
         "published": "6 Apr 2026, 09:22 AM",
@@ -228,8 +278,8 @@
       {
         "title": "Trump issues warning to Iran as deadline set for talks",
         "link": "https://www.newsofbahrain.com/world/129963.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJXahT3BWd_2026-04-06_1775502908resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,20 +298,10 @@
       {
         "title": "Couple Removed from Flight Over Crying Baby Sparks Viral Debate Online",
         "link": "https://www.newsofbahrain.com/views/129961.html",
-        "published": "6 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-06T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHlFQ4dUhK_2026-04-06_1775496618resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Meghan Markle Shares Family Easter Moments with Archie and Lilibet",
-        "link": "https://www.newsofbahrain.com/views/129960.html",
         "published": "6 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uHlFQ4dUhK_2026-04-06_1775496618resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +332,6 @@
         "iso_date": "2026-04-06T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_UIkjwu5Kx3_2026-04-06_1775481368thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Terror Suspects Arrested Over Alleged Links to Foreign Intelligence Networks",
-        "link": "https://www.newsofbahrain.com/bahrain/129943.html",
-        "published": "6 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-06T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nd6BC7weNE_2026-04-06_1775477190thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,6 +382,16 @@
         "iso_date": "2026-04-05T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_PAscRwmeFZ_2026-04-05_1775371023thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Meghan Markle Shares Family Easter Moments with Archie and Lilibet",
+        "link": "https://www.newsofbahrain.com/views/129960.html",
+        "published": "6 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-06T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9kob8x4pO_2026-04-06_1775495895thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 04:49:25 UTC"
+  "fetched_at": "2026-04-07 05:35:57 UTC"
 }
