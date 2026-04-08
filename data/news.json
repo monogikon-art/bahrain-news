@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -50,9 +50,29 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Bahrain Intercepts, Destroys 188 Missiles, 477 Drones Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFdsZWxoMm1Fenh0ai1TUnoxUXdvS19NQkZBcmh2WURuZVc4WU5lb1FtbkFTdVZ2S0pPMU0zdG85WmstTGxpY1NZUHlxQU43Y3kxSzJGSXZLRmRBN1Z4cWNhSWExSXk3S2otOGI3ZjREY1NYZUdGRXUyOTZVXzhDUFZWbFRybUVaQzZMakNfWUtzZkU1N1hJWFZrOTNkdw?oc=5",
+        "published": "7 Apr 2026, 10:00 AM",
+        "iso_date": "2026-04-07T10:00:05+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "Falling drone debris damages multiple houses in Sitra",
+        "link": "https://www.gdnonline.com/Details/1380827/Falling-drone-debris-damages-multiple-houses-in-Sitra",
+        "published": "8 Apr 2026",
+        "iso_date": "2026-04-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408105448gdn-websitesize-2026-04-08t110316.155_T.jpg?20260408",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Public urged to help save parks and walkways from vandalism",
         "link": "https://www.gdnonline.com/Details/1380811/Public-urged-to-help-save-parks-and-walkways-from-vandalism",
@@ -90,16 +110,6 @@
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260408/20260408_013246_1.jpeg?20260408",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "MPs call for binding cap on petrol prices",
-        "link": "https://www.gdnonline.com/Details/1380759/MPs-call-for-binding-cap-on-petrol-prices",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408002032petrolprices_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -186,52 +196,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Supermarket deal tops BD1.7m as Tender Board opens bids",
+        "link": "https://www.newsofbahrain.com/business/130086.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3KQFDLOiRt_2026-04-08_1775637941resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Turn points into purpose",
+        "link": "https://www.newsofbahrain.com/bahrain/130085.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1DWVLG7YdM_2026-04-08_1775637593resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Court Orders Insurance Firm to Pay BD 5,500",
+        "link": "https://www.newsofbahrain.com/bahrain/130084.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WXgLUG2Eyb_2026-04-08_1775637401resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Family Awarded BD 5,400 in Medical Negligence Case",
+        "link": "https://www.newsofbahrain.com/bahrain/130083.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m7QqaOFzWp_2026-04-08_1775637206resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "‘Thank You, Health Workers’",
+        "link": "https://www.newsofbahrain.com/bahrain/130082.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qzGrBZd0Yw_2026-04-08_1775636853resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Parliament Backs Tax Relief, Housing Crackdown, and New Tax Deal",
         "link": "https://www.newsofbahrain.com/bahrain/130081.html",
         "published": "8 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yetKQjBIOf_2026-04-08_1775636275resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Month-Long Social Assistance Drive",
-        "link": "https://www.newsofbahrain.com/bahrain/130080.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VavjRfkCNl_2026-04-08_1775635787resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Stage set for ‘National Pathways’ training programme",
-        "link": "https://www.newsofbahrain.com/bahrain/130079.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HtOBT2v0uY_2026-04-08_1775635578resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s First Licensed Korean Teacher Shares Inspiring Journey",
-        "link": "https://www.newsofbahrain.com/bahrain/130078.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bD0RwfsZpY_2026-04-08_1775635143resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BD120,000 housing finance cap",
-        "link": "https://www.newsofbahrain.com/bahrain/130077.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6sQEzloq1O_2026-04-08_1775634434resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yetKQjBIOf_2026-04-08_1775636275thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +322,6 @@
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_OAoKHyauI7_2026-04-07_1775552383thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India Union Minister Piyush Goyal unveils Malabar Gold & Diamonds’ USD 24M CSR Initiative",
-        "link": "https://www.newsofbahrain.com/business/129993.html",
-        "published": "7 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-07T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_feCihEtMFS_2026-04-07_1775552122thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 08:27:07 UTC"
+  "fetched_at": "2026-04-08 08:51:17 UTC"
 }
