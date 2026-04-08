@@ -32,16 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 188 missiles, 477 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzE4b1U1c0RJZ1NiQWx3bUoxUWpMMGpLSDNlNzRWcExtejBNYVB6ZjZLTXdONktyOUVSUFlqWDVMaGxMajU5dlQ3azNqTFk0eUw2OXJ6MFBJYWQ3di1vX2U4b1VENlRVUXplbGhHUmZ4akJmWWxCbm9RME9SSTIwZzVqOGRDQU1vd0tvUFhhek9YQkJIQzlVbnFuNGFscTloUzBtWm16OElpWk5ONFBfOFZpRkw0elZfcF90UWpRTldzRzlUbXIzTFF5SQ?oc=5",
-        "published": "7 Apr 2026, 11:57 AM",
-        "iso_date": "2026-04-07T11:57:01+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Report: Vance led last-minute push to secure peace deal with Iran",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYWowNEtwZzlfNXljN3hMMWxFMFRqUXlGdzgtN0laaGdvS3FZdE5ma2doOHRKbDluY181eXVpbFJuMVFZczVyNHBidnJMMVNERjQ1Z3EwN1ZZdkFCbVdkc1hIcnRVcFNDTElvX1h5ZVJsdk9wZWh2S1Bhek00LUNFTUFZMllrSkdQcG9zQ3dkNXF5YlhYSGhOYmtZb0JTc0RxTF9tYXBhR0dId0owOUxnUDNpZWM5Y2J6c01ZcXJXNTN5OENaVEFxTVlLX05sVU9jc1h2QnhVM2V2UDlpaDVjVVZwSUNYSE5Kb1BRSExSZHd0NW9s?oc=5",
         "published": "7 Apr 2026, 01:38 AM",
@@ -56,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
         "published": "7 Apr 2026, 07:44 AM",
         "iso_date": "2026-04-07T07:44:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts, destroys 188 missiles, 477 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS25hTDBHYlJSQjY3Ti1hMGlFV2xzU1pfRlRxLUM5ZnZBRDNQSWgyWmQydnJIeDhvZTJvUW1ZMVJEOG9VZWNOc3ZOSHB3am10RGVSTzlmLW42MWxydERyTXB3VXhwTFRNX1RyLV9DamhfaHppckpQYnRZeTVjYWdnREVCenc0ZXpXaC0yVjl0b3kzUmo4enJQUUdreXdMd1EyeXZnd25OVk5ETWlaZXdHZjBUYzlhNjMxUFdMbGdRTG40cWZXQjZN?oc=5",
+        "published": "7 Apr 2026, 08:45 AM",
+        "iso_date": "2026-04-07T08:45:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -89,7 +89,7 @@
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408015025images(2)_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408025940bahran-ministry-of-foreign-affairs-mofa-headquarters-manama-building-1_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 00:28:53 UTC"
+  "fetched_at": "2026-04-08 01:02:58 UTC"
 }
