@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain reopens airspace after Mideast war closure",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXhSWGNhOUR3ZGt6YkNhT0o5SERnalZLSi05MUNxQVJPQzM2VkdHQXdfUU9Ka3hhc1VBc2pPc0JBa2wtT3NWUWJzRXdtV0Z0Y3lrZ2QzMmpWNkttV3l3NWlBZ0lCd0pUOEluVG44RXdJZjlPMkNNTUVqV0U0TExpQy1TVmdvdlJpRHk2dHFhYU1wcVRIcU1VUFh4dHluM1RnanNZ0gGoAUFVX3lxTE1ESUVua2tXRWMySEhYZW9xeTlDUlljbU9JZ0lpRnkxelUzSHhneEVxMjU5OHl4WmlMVXluMTY4VHZCX1BtZEdyWXBKdXp3UWFzSmRCNk0zVmJ5MHU3ZlRZbTktTzk3dEtQeUxZNUNJTjc5MDF2VExuTjd4ZjNJb0pyQ3dhODRqYVhVemdRT3pmNVU0YThTR2h5UF9MWmc0VGg3NTY0Rm45LQ?oc=5",
-        "published": "8 Apr 2026, 05:06 PM",
-        "iso_date": "2026-04-08T17:06:00+00:00",
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
+        "published": "8 Apr 2026, 07:22 PM",
+        "iso_date": "2026-04-08T19:22:14+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
-        "published": "8 Apr 2026, 07:22 PM",
-        "iso_date": "2026-04-08T19:22:14+00:00",
+        "title": "Bahrain reopens airspace after Mideast war closure",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXhSWGNhOUR3ZGt6YkNhT0o5SERnalZLSi05MUNxQVJPQzM2VkdHQXdfUU9Ka3hhc1VBc2pPc0JBa2wtT3NWUWJzRXdtV0Z0Y3lrZ2QzMmpWNkttV3l3NWlBZ0lCd0pUOEluVG44RXdJZjlPMkNNTUVqV0U0TExpQy1TVmdvdlJpRHk2dHFhYU1wcVRIcU1VUFh4dHluM1RnanNZ0gGoAUFVX3lxTE1ESUVua2tXRWMySEhYZW9xeTlDUlljbU9JZ0lpRnkxelUzSHhneEVxMjU5OHl4WmlMVXluMTY4VHZCX1BtZEdyWXBKdXp3UWFzSmRCNk0zVmJ5MHU3ZlRZbTktTzk3dEtQeUxZNUNJTjc5MDF2VExuTjd4ZjNJb0pyQ3dhODRqYVhVemdRT3pmNVU0YThTR2h5UF9MWmc0VGg3NTY0Rm45LQ?oc=5",
+        "published": "8 Apr 2026, 05:06 PM",
+        "iso_date": "2026-04-08T17:06:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -64,42 +64,42 @@
     ],
     "gdn": [
       {
-        "title": "Essential supplies provided to Sri Lankans hit by challenges",
-        "link": "https://www.gdnonline.com/Details/1380897/Essential-supplies-provided-to-Sri-Lankans-hit-by-challenges",
+        "title": "Interfaith prayer for peace",
+        "link": "https://www.gdnonline.com/Details/1380914/Interfaith-prayer-for-peace",
         "published": "9 Apr 2026",
         "iso_date": "2026-04-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_230722_0.jpeg?20260409",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409_003944_0_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Framework agreement for highway development project approved",
-        "link": "https://www.gdnonline.com/Details/1380890/Framework-agreement-for-highway-development-project-approved",
+        "title": "Ceasefire welcomed",
+        "link": "https://www.gdnonline.com/Details/1380934/Ceasefire-welcomed",
         "published": "9 Apr 2026",
         "iso_date": "2026-04-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_221544_0_T.jpg?20260409",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/2026040901394520260408025940bahran-ministry-of-foreign-affairs-mofa-headquarters-manama-building-1_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "GCC envoys meet Malaysian official",
-        "link": "https://www.gdnonline.com/Details/1380895/GCC-envoys-meet-Malaysian-official",
+        "title": "Foreign minister receives call from Portuguese counterpart",
+        "link": "https://www.gdnonline.com/Details/1380894/Foreign-minister-receives-call-from-Portuguese-counterpart",
         "published": "9 Apr 2026",
         "iso_date": "2026-04-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408230613mal1(3)_T.jpg?20260409",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408224227zayani(3)_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Gulf Air resumes flight operations from Bahrain International Airport",
-        "link": "https://www.gdnonline.com/Details/1380885/Gulf-Air-resumes-flight-operations-from-Bahrain-International-Airport",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
+        "title": "Royal directives appreciated",
+        "link": "https://www.gdnonline.com/Details/1380936/Royal-directives-appreciated",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408214845ga(1)_T.jpg?20260409",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409_013745_2.jfif?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -114,52 +114,62 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Chamber appoints Shaker Al Helli to board",
-        "link": "https://www.gdnonline.com/Details/1380870/Bahrain-Chamber-appoints-Shaker-Al-Helli-to-board",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
+        "title": "CBB and UAE central bank sign BD2bn currency swap deal",
+        "link": "https://www.gdnonline.com/Details/1380906/CBB-and-UAE-central-bank-sign-BD2bn-currency-swap-deal",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408194858shaker_T.jpg?20260409",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_230728_2_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "CBB and CBUAE sign BD2 bn currency swap agreement",
-        "link": "https://www.gdnonline.com/Details/1380859/CBB-and-CBUAE-sign-BD2-bn-currency-swap-agreement",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
+        "title": "BCCI names new board member",
+        "link": "https://www.gdnonline.com/Details/1380905/BCCI-names-new-board-member",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408172816whatsappimage2026-04-08at17.22.20(1).jpeg?20260409",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409004545jhvfas_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Report highlights sustained investor confidence in kingdom",
-        "link": "https://www.gdnonline.com/Details/1380661/Report-highlights-sustained-investor-confidence-in-kingdom",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
+        "title": "GCC bank revenues climb to record high despite profit dip",
+        "link": "https://www.gdnonline.com/Details/1380909/GCC-bank-revenues-climb-to-record-high-despite-profit-dip",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406225709gdn-websitesize-2026-04-06t230527.752_T.jpg?20260409",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409005757edited12_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "New Chamber board commits to achieving strategic goals",
-        "link": "https://www.gdnonline.com/Details/1380657/New-Chamber-board-commits-to-achieving-strategic-goals",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
+        "title": "All Share Index rises",
+        "link": "https://www.gdnonline.com/Details/1380916/All-Share-Index-rises",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221631_3_T.jpg?20260409",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409005901jd_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "KFH-Bahrain announces key promotions",
-        "link": "https://www.gdnonline.com/Details/1380662/KFH-Bahrain-announces-key-promotions",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
+        "title": "Regionâs Sharia-compliant lenders âshowing resilienceâ",
+        "link": "https://www.gdnonline.com/Details/1380910/Regionâs-Sharia-compliant-lenders-âshowing-resilienceâ",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221633_3_T.jpg?20260409",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/2026040900552820250225023944fitch-ratings1_T.jpg?20260409",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "PSG seize advantage",
+        "link": "https://www.gdnonline.com/Details/1380929/PSG-seize-advantage",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409_013312_0_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 23:15:08 UTC"
+  "fetched_at": "2026-04-08 23:45:18 UTC"
 }
