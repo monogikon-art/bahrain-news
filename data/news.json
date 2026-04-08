@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,31 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 0
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Indonesia slams 'unacceptable' peacekeeper casualties in Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS29MMDZ5UTI2TFlUZEthVFB5RW5IcW9vangxbkh1bHlqQVBxc2lwTzVxTmpkdDZWeTYtQ1ZjaElFZHFTM0U5aElpaWZhVTM2MUhTcWZkX2NVNmlLNFBpb2ZSTmRrT1Q1Slg2SzJqcmZKZ3hnWTktUlpfWldmTDNRcURqT2k4M282RWcwOTdOS1U1Si15SW5sMFFkdEZFVWxGUExZNTBaWFFQcHhXWVJtdA?oc=5",
+        "published": "8 Apr 2026, 04:37 AM",
+        "iso_date": "2026-04-08T04:37:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
+        "published": "8 Apr 2026, 04:41 PM",
+        "iso_date": "2026-04-08T16:41:56+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Trump details daring 155-aircraft rescue of downed bloodied airman while vowing to jail 'leaker'",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGRCUkpGZ2Q0OTJQWFh1WFdKZFlDYzVOeDgxT1dObDJ5WGtwdm8zNmt0Zk9zWlFqQVFaRUVxNmh6MDZ3LXg5OHdJOUVtZW1aNkdwNHZybjd3a3JuVXhxODFBRXVHYVZLaVVybXZ0SW1OZjBTNEgyU2VHVDZNWEo1S3pvQWRMMG05dEhINUQyd2h6cnJlTEV2WlpGSGc3aWNBYW52RXlmZG4yX2hZMTg2N1dFV1RHVlNXdWllS0FBeUprVDJJNlBEdEhVNTZLbUJuWUU1M2tUU2JST1k?oc=5",
@@ -43,6 +63,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Airspace reopens over Bahrain",
+        "link": "https://www.gdnonline.com/Details/1380865/Airspace-reopens-over-Bahrain",
+        "published": "8 Apr 2026",
+        "iso_date": "2026-04-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408192237airspace111.jpeg?20260408",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain Defence Force General Command: 194 missiles, 508 drones intercepted since start of Iranian attacks",
         "link": "https://www.gdnonline.com/Details/1380837/Bahrain-Defence-Force-General-Command-194-missiles,-508-drones-intercepted-since-start-of-Iranian-attacks",
@@ -80,16 +110,6 @@
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260408/20260408025940bahran-ministry-of-foreign-affairs-mofa-headquarters-manama-building-1_T.jpg?20260408",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Public urged to help save parks and walkways from vandalism",
-        "link": "https://www.gdnonline.com/Details/1380811/Public-urged-to-help-save-parks-and-walkways-from-vandalism",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408_021706_1_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -174,168 +194,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Spain says 'unacceptable' for Israel to continue Lebanon invasion",
-        "link": "https://www.newsofbahrain.com/world/130135.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0XhtvV7Dgr_2026-04-08_1775660099resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russian court jails anti-war activists for up to 12 years",
-        "link": "https://www.newsofbahrain.com/world/130134.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VupdxW2yjS_2026-04-08_1775659842resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Vance says Ukraine conflict has been 'hardest' to solve",
-        "link": "https://www.newsofbahrain.com/world/130133.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IC2mnlH0OM_2026-04-08_1775659247resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Venezuela interim leader Rodriguez vows to 'monitor' amnesty law",
-        "link": "https://www.newsofbahrain.com/world/130132.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EtfFQm6o2J_2026-04-08_1775659040resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "12 detained in Turkey over shootout near Israel mission: Report",
-        "link": "https://www.newsofbahrain.com/world/130131.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_E6rYIsp2eA_2026-04-08_1775658749resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Court Orders Insurance Firm to Pay BD 5,500",
-        "link": "https://www.newsofbahrain.com/bahrain/130084.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WXgLUG2Eyb_2026-04-08_1775637401thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Family Awarded BD 5,400 in Medical Negligence Case",
-        "link": "https://www.newsofbahrain.com/bahrain/130083.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m7QqaOFzWp_2026-04-08_1775637206thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘Thank You, Health Workers’",
-        "link": "https://www.newsofbahrain.com/bahrain/130082.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qzGrBZd0Yw_2026-04-08_1775636853thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Parliament Backs Tax Relief, Housing Crackdown, and New Tax Deal",
-        "link": "https://www.newsofbahrain.com/bahrain/130081.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yetKQjBIOf_2026-04-08_1775636275thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Month-Long Social Assistance Drive",
-        "link": "https://www.newsofbahrain.com/bahrain/130080.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VavjRfkCNl_2026-04-08_1775635787thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Air India CEO Campbell Wilson resigns",
-        "link": "https://www.newsofbahrain.com/business/130118.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jCUifewIQp_2026-04-08_1775652658thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Australia, China agree to seek regional energy security",
-        "link": "https://www.newsofbahrain.com/business/130088.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4SGTYI2cVJ_2026-04-08_1775638915thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Italy’s ENI announces gas discovery off Egypt coast",
-        "link": "https://www.newsofbahrain.com/business/130087.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QLoE3SWA5O_2026-04-08_1775638733thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Supermarket deal tops BD1.7m as Tender Board opens bids",
-        "link": "https://www.newsofbahrain.com/business/130086.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3KQFDLOiRt_2026-04-08_1775637941thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘It’s not happening’: Mel B dismisses hopes of Spice Girls 30th anniversary tour",
-        "link": "https://www.newsofbahrain.com/views/130112.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrLVfJvdnp_2026-04-08_1775647822thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Rules of War: Does Anyone Care?",
-        "link": "https://www.newsofbahrain.com/views/130105.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JXcImMyzYL_2026-04-08_1775646464thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -449,5 +308,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 16:28:05 UTC"
+  "fetched_at": "2026-04-08 16:52:19 UTC"
 }
