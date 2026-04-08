@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,16 +22,6 @@
   "articles": {
     "bna": [
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
-        "published": "8 Apr 2026, 07:22 PM",
-        "iso_date": "2026-04-08T19:22:14+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain reopens airspace after Mideast war closure",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXhSWGNhOUR3ZGt6YkNhT0o5SERnalZLSi05MUNxQVJPQzM2VkdHQXdfUU9Ka3hhc1VBc2pPc0JBa2wtT3NWUWJzRXdtV0Z0Y3lrZ2QzMmpWNkttV3l3NWlBZ0lCd0pUOEluVG44RXdJZjlPMkNNTUVqV0U0TExpQy1TVmdvdlJpRHk2dHFhYU1wcVRIcU1VUFh4dHluM1RnanNZ0gGoAUFVX3lxTE1ESUVua2tXRWMySEhYZW9xeTlDUlljbU9JZ0lpRnkxelUzSHhneEVxMjU5OHl4WmlMVXluMTY4VHZCX1BtZEdyWXBKdXp3UWFzSmRCNk0zVmJ5MHU3ZlRZbTktTzk3dEtQeUxZNUNJTjc5MDF2VExuTjd4ZjNJb0pyQ3dhODRqYVhVemdRT3pmNVU0YThTR2h5UF9MWmc0VGg3NTY0Rm45LQ?oc=5",
         "published": "8 Apr 2026, 05:06 PM",
@@ -42,20 +32,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
-        "published": "8 Apr 2026, 04:41 PM",
-        "iso_date": "2026-04-08T16:41:56+00:00",
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
+        "published": "8 Apr 2026, 07:22 PM",
+        "iso_date": "2026-04-08T19:22:14+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Day 40 | US & Iran agree to last-minute ceasefire",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSTc0WFU1NmxtNHVyb0NxTEpPbktyRFU4Xy1RSWRVMU5JQzhNd2dTSmR0a2ZINk5jVlZOZGg4eFdyQ1FfVG1fNEpCOWx4VVVFRW1IU1l5TVBIUmI1U3pTYlNNV2lianlTWFJiNDEzUnEtZlJxREc2S1MzV2JYdUZqTl85cnI1WFpsMjc0SUctMFQ?oc=5",
-        "published": "8 Apr 2026, 08:43 PM",
-        "iso_date": "2026-04-08T20:43:32+00:00",
+        "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
+        "published": "8 Apr 2026, 04:41 PM",
+        "iso_date": "2026-04-08T16:41:56+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 22:46:12 UTC"
+  "fetched_at": "2026-04-08 23:15:08 UTC"
 }
