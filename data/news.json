@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,6 +32,16 @@
         "category": "Latest"
       },
       {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
+        "published": "8 Apr 2026, 07:22 PM",
+        "iso_date": "2026-04-08T19:22:14+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
         "published": "8 Apr 2026, 04:41 PM",
@@ -42,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Indonesia slams 'unacceptable' peacekeeper casualties in Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS29MMDZ5UTI2TFlUZEthVFB5RW5IcW9vangxbkh1bHlqQVBxc2lwTzVxTmpkdDZWeTYtQ1ZjaElFZHFTM0U5aElpaWZhVTM2MUhTcWZkX2NVNmlLNFBpb2ZSTmRrT1Q1Slg2SzJqcmZKZ3hnWTktUlpfWldmTDNRcURqT2k4M282RWcwOTdOS1U1Si15SW5sMFFkdEZFVWxGUExZNTBaWFFQcHhXWVJtdA?oc=5",
-        "published": "8 Apr 2026, 04:37 AM",
-        "iso_date": "2026-04-08T04:37:12+00:00",
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHEwbkQ0cldXbWRNT051MXl5UEdBYXFIQi11Y3luY3JaRWdfNVlmV25NX2U5RXQ5Q2JPTV8wVi1oUmJacHdLQUVnYzAzd2dEWU4yNHlCMGhSeUVncE40dWUyM1NYNWdxVmliRVVBeVpUeFUzS1lIWV9Qa3QxX18td05WeUdMZ213NzZROXZZa2RuQjN0N25TLVR5NWRtYlYxVWhkaWtQMzU5Y2xodDhOVXdRUDAtaU0?oc=5",
+        "published": "8 Apr 2026, 05:52 PM",
+        "iso_date": "2026-04-08T17:52:42+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1BpR3ZPYVpES0FqZ2ZEV25yREtBVGxCY3pBelN6YThTYzJDdVV5NUY0YVc3OUxCTHQwZjMwcUNFYUNQZjE1V0lHLTBoSmt2QW5qckZ6ckFKNUxqVGZCM1lJLUU3UWJqYTRRdm5KS1hSMEdXazU1VjdPVE51UDJHQk00blRoNkFLMXFGUWJBUlJRM2cxemNhQjc3WnNpZFlEaW03VnpSSDhKaE9tbllweFpPcU16TmRhbWp3OWh6QWZnWGRCNGVQQU1jWi1JaER1cWc?oc=5",
-        "published": "8 Apr 2026, 12:42 PM",
-        "iso_date": "2026-04-08T12:42:07+00:00",
+        "title": "Indonesia slams 'unacceptable' peacekeeper casualties in Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS29MMDZ5UTI2TFlUZEthVFB5RW5IcW9vangxbkh1bHlqQVBxc2lwTzVxTmpkdDZWeTYtQ1ZjaElFZHFTM0U5aElpaWZhVTM2MUhTcWZkX2NVNmlLNFBpb2ZSTmRrT1Q1Slg2SzJqcmZKZ3hnWTktUlpfWldmTDNRcURqT2k4M282RWcwOTdOS1U1Si15SW5sMFFkdEZFVWxGUExZNTBaWFFQcHhXWVJtdA?oc=5",
+        "published": "8 Apr 2026, 04:37 AM",
+        "iso_date": "2026-04-08T04:37:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 20:14:39 UTC"
+  "fetched_at": "2026-04-08 20:46:20 UTC"
 }
