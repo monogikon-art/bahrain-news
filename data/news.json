@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -190,26 +190,6 @@
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260407/20260407012933edited_T.jpg?20260408",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Silva to exit Man City at end of season, assistant manager confirms",
-        "link": "https://www.gdnonline.com/Details/1380591/Silva-to-exit-Man-City-at-end-of-season,-assistant-manager-confirms",
-        "published": "6 Apr 2026",
-        "iso_date": "2026-04-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406094634bsilva_T.jpg?20260408",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "PSV take title in Netherlands as Feyenoord fail to win",
-        "link": "https://www.gdnonline.com/Details/1380610/PSV-take-title-in-Netherlands-as-Feyenoord-fail-to-win",
-        "published": "6 Apr 2026",
-        "iso_date": "2026-04-06T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406154054psv(3)_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       }
@@ -489,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-07 23:45:16 UTC"
+  "fetched_at": "2026-04-08 00:28:53 UTC"
 }
