@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2bDNsWllNMnllVkxPZGpWekdEcVhOUlhPUS1ab296OEVCVG5neFhuSjZncEx6RDJISnJHX0s0WjJ0amlwcE9nTHp4dDdmNko1anN4cmFZR29ja3ZqTnVYM0xmQ3c?oc=5",
         "published": "8 Apr 2026, 02:07 AM",
         "iso_date": "2026-04-08T02:07:03+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iraq and the loyalist militias",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVhRb3lRVEVKX2pqbUhsci14RzU4d055MWczM2pfQXB1b0VURDYzOXpGU2M2cExKVWFkVzRSSHo3MUpBMk5hVFY5ektrSTIteTdiTDR0elFrc09yYkpwQWZxSHZDako4MnROVTJBM3Z6aUFza3Z0T2JjNVdRZzRQZlNpbm9Udw?oc=5",
+        "published": "7 Apr 2026, 02:19 PM",
+        "iso_date": "2026-04-07T14:19:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 03:35:44 UTC"
+  "fetched_at": "2026-04-08 04:51:39 UTC"
 }
