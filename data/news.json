@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 14
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
+        "published": "8 Apr 2026, 07:22 PM",
+        "iso_date": "2026-04-08T19:22:14+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain reopens airspace after Mideast war closure",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXhSWGNhOUR3ZGt6YkNhT0o5SERnalZLSi05MUNxQVJPQzM2VkdHQXdfUU9Ka3hhc1VBc2pPc0JBa2wtT3NWUWJzRXdtV0Z0Y3lrZ2QzMmpWNkttV3l3NWlBZ0lCd0pUOEluVG44RXdJZjlPMkNNTUVqV0U0TExpQy1TVmdvdlJpRHk2dHFhYU1wcVRIcU1VUFh4dHluM1RnanNZ0gGoAUFVX3lxTE1ESUVua2tXRWMySEhYZW9xeTlDUlljbU9JZ0lpRnkxelUzSHhneEVxMjU5OHl4WmlMVXluMTY4VHZCX1BtZEdyWXBKdXp3UWFzSmRCNk0zVmJ5MHU3ZlRZbTktTzk3dEtQeUxZNUNJTjc5MDF2VExuTjd4ZjNJb0pyQ3dhODRqYVhVemdRT3pmNVU0YThTR2h5UF9MWmc0VGg3NTY0Rm45LQ?oc=5",
@@ -52,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Indonesia slams 'unacceptable' peacekeeper casualties in Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS29MMDZ5UTI2TFlUZEthVFB5RW5IcW9vangxbkh1bHlqQVBxc2lwTzVxTmpkdDZWeTYtQ1ZjaElFZHFTM0U5aElpaWZhVTM2MUhTcWZkX2NVNmlLNFBpb2ZSTmRrT1Q1Slg2SzJqcmZKZ3hnWTktUlpfWldmTDNRcURqT2k4M282RWcwOTdOS1U1Si15SW5sMFFkdEZFVWxGUExZNTBaWFFQcHhXWVJtdA?oc=5",
-        "published": "8 Apr 2026, 04:37 AM",
-        "iso_date": "2026-04-08T04:37:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Day 40 | US & Iran agree to last-minute ceasefire",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSTc0WFU1NmxtNHVyb0NxTEpPbktyRFU4Xy1RSWRVMU5JQzhNd2dTSmR0a2ZINk5jVlZOZGg4eFdyQ1FfVG1fNEpCOWx4VVVFRW1IU1l5TVBIUmI1U3pTYlNNV2lianlTWFJiNDEzUnEtZlJxREc2S1MzV2JYdUZqTl85cnI1WFpsMjc0SUctMFQ?oc=5",
         "published": "7 Apr 2026, 09:56 PM",
@@ -74,52 +74,52 @@
     ],
     "gdn": [
       {
+        "title": "Essential supplies provided to Sri Lankans hit by challenges",
+        "link": "https://www.gdnonline.com/Details/1380897/Essential-supplies-provided-to-Sri-Lankans-hit-by-challenges",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_230722_0.jpeg?20260409",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Framework agreement for highway development project approved",
+        "link": "https://www.gdnonline.com/Details/1380890/Framework-agreement-for-highway-development-project-approved",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_221544_0_T.jpg?20260409",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC envoys meet Malaysian official",
+        "link": "https://www.gdnonline.com/Details/1380895/GCC-envoys-meet-Malaysian-official",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408230613mal1(3)_T.jpg?20260409",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Gulf Air resumes flight operations from Bahrain International Airport",
         "link": "https://www.gdnonline.com/Details/1380885/Gulf-Air-resumes-flight-operations-from-Bahrain-International-Airport",
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408214845ga(1)_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408214845ga(1)_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Airport Company confirms gradual resumption of flights",
-        "link": "https://www.gdnonline.com/Details/1380871/Bahrain-Airport-Company-confirms-gradual-resumption-of-flights",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
+        "title": "Impact of Iran attacks to be highlighted at IPU meeting",
+        "link": "https://www.gdnonline.com/Details/1380888/Impact-of-Iran-attacks-to-be-highlighted-at-IPU-meeting",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408202355bia1(2)_T.jpg?20260408",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Airspace reopens over Bahrain",
-        "link": "https://www.gdnonline.com/Details/1380865/Airspace-reopens-over-Bahrain",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408193650airspace1_T.jpg?20260408",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Defence Force General Command: 194 missiles, 508 drones intercepted since start of Iranian attacks",
-        "link": "https://www.gdnonline.com/Details/1380837/Bahrain-Defence-Force-General-Command-194-missiles,-508-drones-intercepted-since-start-of-Iranian-attacks",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408124225gdn-websitesize-2026-04-08t125057.516_T.jpg?20260408",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Falling drone debris damages multiple houses in Sitra",
-        "link": "https://www.gdnonline.com/Details/1380827/Falling-drone-debris-damages-multiple-houses-in-Sitra",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408105448gdn-websitesize-2026-04-08t110316.155_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_221542_1.jpeg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +129,7 @@
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408194858shaker_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408194858shaker_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +139,7 @@
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408172816whatsappimage2026-04-08at17.22.20(1).jpeg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408172816whatsappimage2026-04-08at17.22.20(1).jpeg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +149,7 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406225709gdn-websitesize-2026-04-06t230527.752_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406225709gdn-websitesize-2026-04-06t230527.752_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +159,7 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221631_3_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221631_3_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +169,7 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221633_3_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221633_3_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +179,7 @@
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408013807gunner_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408013807gunner_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +189,7 @@
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408_005306_2_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408_005306_2_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +199,17 @@
         "published": "7 Apr 2026",
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407012933edited_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407012933edited_T.jpg?20260409",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "An Italian encounter",
+        "link": "https://www.gdnonline.com/Details/1380880/An-Italian-encounter",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408212101tuscany_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       }
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 21:17:31 UTC"
+  "fetched_at": "2026-04-08 21:46:13 UTC"
 }
