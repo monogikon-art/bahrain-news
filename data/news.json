@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,20 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Five martyred in suicide bombing targeting Bannu police station",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjBrOERhYmc1VWlyZmUzUW03eWI3THhXOVlGbkpCRTNRdktZNFVCdEFWLTFiV3hiM0dRaGRjVWFGT0J1TjVray1DaWIxSWN3RzVzLTVyYWxHaldDRlljR3dPb1BOZzlzOWhaVFE5RUFfbkY4azZlaDdVbXdnak1TaTlFMS01OXY3eTlMVmdUdVl6VWlFTV92alpzN1BoTFZBczNWenkyeUhXWjZ4U1RCag?oc=5",
-        "published": "7 Apr 2026, 07:46 PM",
-        "iso_date": "2026-04-07T19:46:16+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Ground invasion",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5TEdHNms5OTFIRS1GR2haZHh5WFk5THF3UGdKdjI5c0FNbHB5UXpGTWtnV25aRVBoOXNUWXBSd0pCaWlYYlRUaEhlSHFBTHhpLU05aHpzWDdfXzAzbDZnWmwtSHpiQWRTWm9tNWNBQTE?oc=5",
-        "published": "7 Apr 2026, 07:31 AM",
-        "iso_date": "2026-04-07T07:31:10+00:00",
+        "title": "Iraq and the loyalist militias",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVhRb3lRVEVKX2pqbUhsci14RzU4d055MWczM2pfQXB1b0VURDYzOXpGU2M2cExKVWFkVzRSSHo3MUpBMk5hVFY5ektrSTIteTdiTDR0elFrc09yYkpwQWZxSHZDako4MnROVTJBM3Z6aUFza3Z0T2JjNVdRZzRQZlNpbm9Udw?oc=5",
+        "published": "7 Apr 2026, 02:19 PM",
+        "iso_date": "2026-04-07T14:19:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,12 +196,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Reaffirms Solidarity with Kuwait Following Consulate Attack",
+        "link": "https://www.newsofbahrain.com/bahrain/130074.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KSRe5Z4bpd_2026-04-08_1775633514resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar Urges Protection of Diplomatic Missions After Basra Incident",
+        "link": "https://www.newsofbahrain.com/world/130073.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6Fv9bEXwhx_2026-04-08_1775633159resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UN Chief Antonio Guterres Welcomes US-Iran Ceasefire, Calls On Parties To Comply With International Law",
+        "link": "https://www.newsofbahrain.com/world/130072.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h2JfDd0nsB_2026-04-08_1775632775resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MPs weigh the cost of living, urban policy, and economic reforms in a key parliamentary session",
+        "link": "https://www.newsofbahrain.com/bahrain/130071.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QjRAPslbHE_2026-04-08_1775632409resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC Secretary-General Slams Basra Consulate Attack",
+        "link": "https://www.newsofbahrain.com/world/130070.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tHJM2xPdoN_2026-04-08_1775631076resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Steady Food Availability",
         "link": "https://www.newsofbahrain.com/bahrain/130069.html",
         "published": "8 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IfwUGngE5t_2026-04-08_1775628462resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IfwUGngE5t_2026-04-08_1775628462thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -221,37 +261,17 @@
         "published": "8 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sWRd4AvwzD_2026-04-08_1775628216resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sWRd4AvwzD_2026-04-08_1775628216thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "MP Urges Unified Autism Strategy",
         "link": "https://www.newsofbahrain.com/bahrain/130067.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dKfDulxR4Q_2026-04-08_1775627998resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trade Unions Call for Crisis Committee as Gulf War Hits Jobs",
-        "link": "https://www.newsofbahrain.com/bahrain/130066.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_51JFz6dWBD_2026-04-08_1775627844resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC Reviews Tourism Sector Resilience",
-        "link": "https://www.newsofbahrain.com/bahrain/130065.html",
         "published": "8 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eQclUPf6mk_2026-04-08_1775627716resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dKfDulxR4Q_2026-04-08_1775627998thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -262,36 +282,6 @@
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_eiuR6rnqoO_2026-04-08_1775627567thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "China: “Root Causes Are Clear”",
-        "link": "https://www.newsofbahrain.com/world/130063.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4JLwcxVgap_2026-04-08_1775627362thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE Denounces ‘Blatant Violation’ After Basra Consulate Attack",
-        "link": "https://www.newsofbahrain.com/world/130062.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZlBm8E9H5A_2026-04-08_1775627042thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Slams Attack on Basra Consulate, Cites Diplomatic Breach",
-        "link": "https://www.newsofbahrain.com/world/130060.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_40iBMNL5fe_2026-04-08_1775626270thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 06:34:34 UTC"
+  "fetched_at": "2026-04-08 07:33:47 UTC"
 }
