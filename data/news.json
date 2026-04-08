@@ -54,12 +54,22 @@
     ],
     "gdn": [
       {
+        "title": "Bahrain Airport Company confirms gradual resumption of flights",
+        "link": "https://www.gdnonline.com/Details/1380871/Bahrain-Airport-Company-confirms-gradual-resumption-of-flights",
+        "published": "8 Apr 2026",
+        "iso_date": "2026-04-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408202355bia1(2)_T.jpg?20260408",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Airspace reopens over Bahrain",
         "link": "https://www.gdnonline.com/Details/1380865/Airspace-reopens-over-Bahrain",
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408192237airspace111.jpeg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408193650airspace1_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -94,12 +104,12 @@
         "category": "Latest"
       },
       {
-        "title": "Attacks slammed",
-        "link": "https://www.gdnonline.com/Details/1380806/Attacks-slammed",
+        "title": "Bahrain Chamber appoints Shaker Al Helli to board",
+        "link": "https://www.gdnonline.com/Details/1380870/Bahrain-Chamber-appoints-Shaker-Al-Helli-to-board",
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408025940bahran-ministry-of-foreign-affairs-mofa-headquarters-manama-building-1_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408194858shaker_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -140,16 +150,6 @@
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221633_3_T.jpg?20260408",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BFLC and Truffle Hospitality sign merger agreement",
-        "link": "https://www.gdnonline.com/Details/1380658/BFLC-and-Truffle-Hospitality-sign-merger-agreement",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260406/20260406230104gdn-websitesize-2026-04-06t230921.070_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -449,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 17:25:55 UTC"
+  "fetched_at": "2026-04-08 17:52:37 UTC"
 }
