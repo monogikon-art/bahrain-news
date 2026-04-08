@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,6 +52,16 @@
         "category": "Latest"
       },
       {
+        "title": "Day 40 | US & Iran agree to last-minute ceasefire",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSTc0WFU1NmxtNHVyb0NxTEpPbktyRFU4Xy1RSWRVMU5JQzhNd2dTSmR0a2ZINk5jVlZOZGg4eFdyQ1FfVG1fNEpCOWx4VVVFRW1IU1l5TVBIUmI1U3pTYlNNV2lianlTWFJiNDEzUnEtZlJxREc2S1MzV2JYdUZqTl85cnI1WFpsMjc0SUctMFQ?oc=5",
+        "published": "8 Apr 2026, 08:43 PM",
+        "iso_date": "2026-04-08T20:43:32+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHEwbkQ0cldXbWRNT051MXl5UEdBYXFIQi11Y3luY3JaRWdfNVlmV25NX2U5RXQ5Q2JPTV8wVi1oUmJacHdLQUVnYzAzd2dEWU4yNHlCMGhSeUVncE40dWUyM1NYNWdxVmliRVVBeVpUeFUzS1lIWV9Qa3QxX18td05WeUdMZ213NzZROXZZa2RuQjN0N25TLVR5NWRtYlYxVWhkaWtQMzU5Y2xodDhOVXdRUDAtaU0?oc=5",
         "published": "8 Apr 2026, 05:52 PM",
@@ -62,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Day 40 | US & Iran agree to last-minute ceasefire",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSTc0WFU1NmxtNHVyb0NxTEpPbktyRFU4Xy1RSWRVMU5JQzhNd2dTSmR0a2ZINk5jVlZOZGg4eFdyQ1FfVG1fNEpCOWx4VVVFRW1IU1l5TVBIUmI1U3pTYlNNV2lianlTWFJiNDEzUnEtZlJxREc2S1MzV2JYdUZqTl85cnI1WFpsMjc0SUctMFQ?oc=5",
-        "published": "7 Apr 2026, 09:56 PM",
-        "iso_date": "2026-04-07T21:56:12+00:00",
+        "title": "Indonesia slams 'unacceptable' peacekeeper casualties in Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS29MMDZ5UTI2TFlUZEthVFB5RW5IcW9vangxbkh1bHlqQVBxc2lwTzVxTmpkdDZWeTYtQ1ZjaElFZHFTM0U5aElpaWZhVTM2MUhTcWZkX2NVNmlLNFBpb2ZSTmRrT1Q1Slg2SzJqcmZKZ3hnWTktUlpfWldmTDNRcURqT2k4M282RWcwOTdOS1U1Si15SW5sMFFkdEZFVWxGUExZNTBaWFFQcHhXWVJtdA?oc=5",
+        "published": "8 Apr 2026, 04:37 AM",
+        "iso_date": "2026-04-08T04:37:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 21:46:13 UTC"
+  "fetched_at": "2026-04-08 22:14:54 UTC"
 }
