@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,20 +32,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain intercepts, destroys 188 missiles, 477 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzE4b1U1c0RJZ1NiQWx3bUoxUWpMMGpLSDNlNzRWcExtejBNYVB6ZjZLTXdONktyOUVSUFlqWDVMaGxMajU5dlQ3azNqTFk0eUw2OXJ6MFBJYWQ3di1vX2U4b1VENlRVUXplbGhHUmZ4akJmWWxCbm9RME9SSTIwZzVqOGRDQU1vd0tvUFhhek9YQkJIQzlVbnFuNGFscTloUzBtWm16OElpWk5ONFBfOFZpRkw0elZfcF90UWpRTldzRzlUbXIzTFF5SQ?oc=5",
-        "published": "7 Apr 2026, 11:57 AM",
-        "iso_date": "2026-04-07T11:57:01+00:00",
+        "title": "Trump details daring 155-aircraft rescue of downed bloodied airman while vowing to jail 'leaker'",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGRCUkpGZ2Q0OTJQWFh1WFdKZFlDYzVOeDgxT1dObDJ5WGtwdm8zNmt0Zk9zWlFqQVFaRUVxNmh6MDZ3LXg5OHdJOUVtZW1aNkdwNHZybjd3a3JuVXhxODFBRXVHYVZLaVVybXZ0SW1OZjBTNEgyU2VHVDZNWEo1S3pvQWRMMG05dEhINUQyd2h6cnJlTEV2WlpGSGc3aWNBYW52RXlmZG4yX2hZMTg2N1dFV1RHVlNXdWllS0FBeUprVDJJNlBEdEhVNTZLbUJuWUU1M2tUU2JST1k?oc=5",
+        "published": "7 Apr 2026, 05:20 PM",
+        "iso_date": "2026-04-07T17:20:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Report: Vance led last-minute push to secure peace deal with Iran",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDhHZF9YUExwLTlQa1VmYWxmWWthMENOZkszU2h5ZnpkWjhjbWRacFlEY0RKVnB3bmo1LUllVk5IREhudy04ZGZPUjNWNW0yR1V0eGFyeXZpckhoVjdpVnpsVVZHRW5yU3JYZlJrcjFveEdiaVRvbmNzQ09qeWhHazBHaDF2aWFfaHFWYll3cUlLcC14cWhLZDEyYjFSRFNVTjdxNzhOZ0E5RlZlMUdBdEo5eVJOZEIwZFFPdFQtZFZvM1dfVFBZNjZXUXFMMUtfOU5QSkc5WDBvd0xBWVppdGdCVFFZdw?oc=5",
-        "published": "7 Apr 2026, 03:25 AM",
-        "iso_date": "2026-04-07T03:25:52+00:00",
+        "title": "Ground invasion",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5TEdHNms5OTFIRS1GR2haZHh5WFk5THF3UGdKdjI5c0FNbHB5UXpGTWtnV25aRVBoOXNUWXBSd0pCaWlYYlRUaEhlSHFBTHhpLU05aHpzWDdfXzAzbDZnWmwtSHpiQWRTWm9tNWNBQTE?oc=5",
+        "published": "7 Apr 2026, 07:31 AM",
+        "iso_date": "2026-04-07T07:31:10+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -60,56 +60,66 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Bahrain intercepts, destroys 188 missiles, 477 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS25hTDBHYlJSQjY3Ti1hMGlFV2xzU1pfRlRxLUM5ZnZBRDNQSWgyWmQydnJIeDhvZTJvUW1ZMVJEOG9VZWNOc3ZOSHB3am10RGVSTzlmLW42MWxydERyTXB3VXhwTFRNX1RyLV9DamhfaHppckpQYnRZeTVjYWdnREVCenc0ZXpXaC0yVjl0b3kzUmo4enJQUUdreXdMd1EyeXZnd25OVk5ETWlaZXdHZjBUYzlhNjMxUFdMbGdRTG40cWZXQjZN?oc=5",
+        "published": "7 Apr 2026, 08:45 AM",
+        "iso_date": "2026-04-07T08:45:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "âNational Pathsâ training programme launched",
-        "link": "https://www.gdnonline.com/Details/1380803/âNational-Pathsâ-training-programme-launched",
+        "title": "Public urged to help save parks and walkways from vandalism",
+        "link": "https://www.gdnonline.com/Details/1380811/Public-urged-to-help-save-parks-and-walkways-from-vandalism",
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408014058images(1)_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408_021706_1_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Support for scientific research highlighted",
-        "link": "https://www.gdnonline.com/Details/1380802/Support-for-scientific-research-highlighted",
+        "title": "BBK honours winners of Al Hayrat February draw",
+        "link": "https://www.gdnonline.com/Details/1380755/BBK-honours-winners-of-Al-Hayrat-February-draw",
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408_013246_3.jpeg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408_030455_0_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Attacks slammed",
-        "link": "https://www.gdnonline.com/Details/1380806/Attacks-slammed",
+        "title": "Repeat offender on trial over identity theft and forgery",
+        "link": "https://www.gdnonline.com/Details/1380757/Repeat-offender-on-trial-over-identity-theft-and-forgery",
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408025940bahran-ministry-of-foreign-affairs-mofa-headquarters-manama-building-1_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407233911gdn-websitesize-2026-04-07t234740.797_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Call to hire specialists",
-        "link": "https://www.gdnonline.com/Details/1380764/Call-to-hire-specialists",
+        "title": "Family-focused waterfront project set to open next year",
+        "link": "https://www.gdnonline.com/Details/1380801/Family-focused-waterfront-project-set-to-open-next-year-",
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408003750maryam_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408_013246_1.jpeg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Tour guide regulations âstill being draftedâ",
-        "link": "https://www.gdnonline.com/Details/1380766/Tour-guide-regulations-âstill-being-draftedâ",
+        "title": "MPs call for binding cap on petrol prices",
+        "link": "https://www.gdnonline.com/Details/1380759/MPs-call-for-binding-cap-on-petrol-prices",
         "published": "8 Apr 2026",
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408001726edited12_T.jpg?20260408",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408002032petrolprices_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 02:18:10 UTC"
+  "fetched_at": "2026-04-08 03:35:44 UTC"
 }
