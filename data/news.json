@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,16 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
-        "published": "8 Apr 2026, 07:22 PM",
-        "iso_date": "2026-04-08T19:22:14+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
         "published": "8 Apr 2026, 04:41 PM",
@@ -62,20 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "Day 40 | US & Iran agree to last-minute ceasefire",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSTc0WFU1NmxtNHVyb0NxTEpPbktyRFU4Xy1RSWRVMU5JQzhNd2dTSmR0a2ZINk5jVlZOZGg4eFdyQ1FfVG1fNEpCOWx4VVVFRW1IU1l5TVBIUmI1U3pTYlNNV2lianlTWFJiNDEzUnEtZlJxREc2S1MzV2JYdUZqTl85cnI1WFpsMjc0SUctMFQ?oc=5",
-        "published": "7 Apr 2026, 09:56 PM",
-        "iso_date": "2026-04-07T21:56:12+00:00",
+        "title": "Indonesia slams 'unacceptable' peacekeeper casualties in Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS29MMDZ5UTI2TFlUZEthVFB5RW5IcW9vangxbkh1bHlqQVBxc2lwTzVxTmpkdDZWeTYtQ1ZjaElFZHFTM0U5aElpaWZhVTM2MUhTcWZkX2NVNmlLNFBpb2ZSTmRrT1Q1Slg2SzJqcmZKZ3hnWTktUlpfWldmTDNRcURqT2k4M282RWcwOTdOS1U1Si15SW5sMFFkdEZFVWxGUExZNTBaWFFQcHhXWVJtdA?oc=5",
+        "published": "8 Apr 2026, 04:37 AM",
+        "iso_date": "2026-04-08T04:37:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Indonesia slams 'unacceptable' peacekeeper casualties in Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS29MMDZ5UTI2TFlUZEthVFB5RW5IcW9vangxbkh1bHlqQVBxc2lwTzVxTmpkdDZWeTYtQ1ZjaElFZHFTM0U5aElpaWZhVTM2MUhTcWZkX2NVNmlLNFBpb2ZSTmRrT1Q1Slg2SzJqcmZKZ3hnWTktUlpfWldmTDNRcURqT2k4M282RWcwOTdOS1U1Si15SW5sMFFkdEZFVWxGUExZNTBaWFFQcHhXWVJtdA?oc=5",
-        "published": "8 Apr 2026, 04:37 AM",
-        "iso_date": "2026-04-08T04:37:12+00:00",
+        "title": "Day 40 | US & Iran agree to last-minute ceasefire",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSTc0WFU1NmxtNHVyb0NxTEpPbktyRFU4Xy1RSWRVMU5JQzhNd2dTSmR0a2ZINk5jVlZOZGg4eFdyQ1FfVG1fNEpCOWx4VVVFRW1IU1l5TVBIUmI1U3pTYlNNV2lianlTWFJiNDEzUnEtZlJxREc2S1MzV2JYdUZqTl85cnI1WFpsMjc0SUctMFQ?oc=5",
+        "published": "7 Apr 2026, 09:56 PM",
+        "iso_date": "2026-04-07T21:56:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 20:46:20 UTC"
+  "fetched_at": "2026-04-08 21:17:31 UTC"
 }
