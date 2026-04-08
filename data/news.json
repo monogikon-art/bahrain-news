@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
         "published": "8 Apr 2026, 04:41 PM",
         "iso_date": "2026-04-08T16:41:56+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Indonesia slams 'unacceptable' peacekeeper casualties in Lebanon",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS29MMDZ5UTI2TFlUZEthVFB5RW5IcW9vangxbkh1bHlqQVBxc2lwTzVxTmpkdDZWeTYtQ1ZjaElFZHFTM0U5aElpaWZhVTM2MUhTcWZkX2NVNmlLNFBpb2ZSTmRrT1Q1Slg2SzJqcmZKZ3hnWTktUlpfWldmTDNRcURqT2k4M282RWcwOTdOS1U1Si15SW5sMFFkdEZFVWxGUExZNTBaWFFQcHhXWVJtdA?oc=5",
+        "published": "8 Apr 2026, 04:37 AM",
+        "iso_date": "2026-04-08T04:37:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -186,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Gulf Air Resumes Flight Operations from Bahrain International Airport",
+        "link": "https://www.newsofbahrain.com/bahrain/130137.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GjrntKwFPN_2026-04-08_1775674072resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain reopens airspace after temporary precautionary closure",
         "link": "https://www.newsofbahrain.com/bahrain/130136.html",
         "published": "8 Apr 2026, 09:22 AM",
@@ -198,8 +218,8 @@
       {
         "title": "Spain says 'unacceptable' for Israel to continue Lebanon invasion",
         "link": "https://www.newsofbahrain.com/world/130135.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_0XhtvV7Dgr_2026-04-08_1775660099resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,20 +238,10 @@
       {
         "title": "Vance says Ukraine conflict has been 'hardest' to solve",
         "link": "https://www.newsofbahrain.com/world/130133.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IC2mnlH0OM_2026-04-08_1775659247resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Venezuela interim leader Rodriguez vows to 'monitor' amnesty law",
-        "link": "https://www.newsofbahrain.com/world/130132.html",
         "published": "8 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EtfFQm6o2J_2026-04-08_1775659040resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IC2mnlH0OM_2026-04-08_1775659247resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -266,12 +276,12 @@
         "category": "Latest"
       },
       {
-        "title": "Parliament Backs Tax Relief, Housing Crackdown, and New Tax Deal",
-        "link": "https://www.newsofbahrain.com/bahrain/130081.html",
+        "title": "Venezuela interim leader Rodriguez vows to 'monitor' amnesty law",
+        "link": "https://www.newsofbahrain.com/world/130132.html",
         "published": "8 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yetKQjBIOf_2026-04-08_1775636275thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EtfFQm6o2J_2026-04-08_1775659040thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 18:28:28 UTC"
+  "fetched_at": "2026-04-08 18:55:26 UTC"
 }
