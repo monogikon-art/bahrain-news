@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 16
     }
   },
   "articles": {
@@ -32,10 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iraq and the loyalist militias",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVhRb3lRVEVKX2pqbUhsci14RzU4d055MWczM2pfQXB1b0VURDYzOXpGU2M2cExKVWFkVzRSSHo3MUpBMk5hVFY5ektrSTIteTdiTDR0elFrc09yYkpwQWZxSHZDako4MnROVTJBM3Z6aUFza3Z0T2JjNVdRZzRQZlNpbm9Udw?oc=5",
-        "published": "7 Apr 2026, 02:19 PM",
-        "iso_date": "2026-04-07T14:19:16+00:00",
+        "title": "Bahrain intercepts, destroys 188 missiles, 477 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzE4b1U1c0RJZ1NiQWx3bUoxUWpMMGpLSDNlNzRWcExtejBNYVB6ZjZLTXdONktyOUVSUFlqWDVMaGxMajU5dlQ3azNqTFk0eUw2OXJ6MFBJYWQ3di1vX2U4b1VENlRVUXplbGhHUmZ4akJmWWxCbm9RME9SSTIwZzVqOGRDQU1vd0tvUFhhek9YQkJIQzlVbnFuNGFscTloUzBtWm16OElpWk5ONFBfOFZpRkw0elZfcF90UWpRTldzRzlUbXIzTFF5SQ?oc=5",
+        "published": "7 Apr 2026, 11:57 AM",
+        "iso_date": "2026-04-07T11:57:01+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGRCUkpGZ2Q0OTJQWFh1WFdKZFlDYzVOeDgxT1dObDJ5WGtwdm8zNmt0Zk9zWlFqQVFaRUVxNmh6MDZ3LXg5OHdJOUVtZW1aNkdwNHZybjd3a3JuVXhxODFBRXVHYVZLaVVybXZ0SW1OZjBTNEgyU2VHVDZNWEo1S3pvQWRMMG05dEhINUQyd2h6cnJlTEV2WlpGSGc3aWNBYW52RXlmZG4yX2hZMTg2N1dFV1RHVlNXdWllS0FBeUprVDJJNlBEdEhVNTZLbUJuWUU1M2tUU2JST1k?oc=5",
         "published": "7 Apr 2026, 05:20 PM",
         "iso_date": "2026-04-07T17:20:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQUd0eFdabExxbHRhVkZURzhBel9nbWhPR0NLejZZckVNYjlfRnRjYVMtanJ3aHp6TFM5NkdVYnM4a2ZUR25CcHg2MjJ4QjNwcHRucVYxZGNoUVZCYmdfeE1jNHdMeDB2ZktzS2k3a3BuUDZuUWI4c0VyV1VfSnpYTEhCNXBfTlNsQk1SQmdSZzkwc3FtejJoSnpTYjZEOG1WWERTRGI5VmJQM0NOaGhRUWJ2dklZZENoN3JUQ01LblJaNGQ5cW9lUEh3d3dQVGNmM080QkkyNFVxU1lBRkJOUFZET1hGRXZqX281QkpfUUhKaGxNakpGRVdJX2JMTm4za3ZXSFFaVEo3anlYd2g0SE0zNlM?oc=5",
-        "published": "7 Apr 2026, 11:00 PM",
-        "iso_date": "2026-04-07T23:00:01+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,10 +186,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Talks Focus on Gaza Situation",
-        "link": "https://www.newsofbahrain.com/world/130109.html",
+        "title": "‘It’s not happening’: Mel B dismisses hopes of Spice Girls 30th anniversary tour",
+        "link": "https://www.newsofbahrain.com/views/130112.html",
         "published": "8 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrLVfJvdnp_2026-04-08_1775647822resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Carrie Underwood stays grounded with faith",
+        "link": "https://www.newsofbahrain.com/trends/130111.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_afm3dlwFRT_2026-04-08_1775647501resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oman, Kuwait Discuss De-escalation Efforts",
+        "link": "https://www.newsofbahrain.com/world/130110.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UT2uI5ahtQ_2026-04-08_1775647335resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Talks Focus on Gaza Situation",
+        "link": "https://www.newsofbahrain.com/world/130109.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_pxK7W0SmvM_2026-04-08_1775647157resized_pic.jpg",
         "source": "newsofbahrain",
@@ -212,36 +232,6 @@
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_y2LWw6lFNC_2026-04-08_1775647056resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Jordan King briefed on air operations and surveillance systems",
-        "link": "https://www.newsofbahrain.com/world/130107.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EBK3LfZCug_2026-04-08_1775646898resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "“No winners if the war continues”",
-        "link": "https://www.newsofbahrain.com/world/130106.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CfH7DVrByk_2026-04-08_1775646721resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Rules of War: Does Anyone Care?",
-        "link": "https://www.newsofbahrain.com/views/130105.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JXcImMyzYL_2026-04-08_1775646464resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,6 +286,16 @@
         "category": "Latest"
       },
       {
+        "title": "Jordan King briefed on air operations and surveillance systems",
+        "link": "https://www.newsofbahrain.com/world/130107.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EBK3LfZCug_2026-04-08_1775646898thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Australia, China agree to seek regional energy security",
         "link": "https://www.newsofbahrain.com/business/130088.html",
         "published": "8 Apr 2026, 09:22 AM",
@@ -332,6 +332,16 @@
         "iso_date": "2026-04-07T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_EJB5yqjQrg_2026-04-07_1775552851thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rules of War: Does Anyone Care?",
+        "link": "https://www.newsofbahrain.com/views/130105.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JXcImMyzYL_2026-04-08_1775646464thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 11:21:48 UTC"
+  "fetched_at": "2026-04-08 11:48:04 UTC"
 }
