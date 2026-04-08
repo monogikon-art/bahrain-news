@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain intercepts scores of Iranian warheads",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2bDNsWllNMnllVkxPZGpWekdEcVhOUlhPUS1ab296OEVCVG5neFhuSjZncEx6RDJISnJHX0s0WjJ0amlwcE9nTHp4dDdmNko1anN4cmFZR29ja3ZqTnVYM0xmQ3c?oc=5",
-        "published": "7 Apr 2026, 03:43 PM",
-        "iso_date": "2026-04-07T15:43:04+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Trump details daring 155-aircraft rescue of downed bloodied airman while vowing to jail 'leaker'",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGRCUkpGZ2Q0OTJQWFh1WFdKZFlDYzVOeDgxT1dObDJ5WGtwdm8zNmt0Zk9zWlFqQVFaRUVxNmh6MDZ3LXg5OHdJOUVtZW1aNkdwNHZybjd3a3JuVXhxODFBRXVHYVZLaVVybXZ0SW1OZjBTNEgyU2VHVDZNWEo1S3pvQWRMMG05dEhINUQyd2h6cnJlTEV2WlpGSGc3aWNBYW52RXlmZG4yX2hZMTg2N1dFV1RHVlNXdWllS0FBeUprVDJJNlBEdEhVNTZLbUJuWUU1M2tUU2JST1k?oc=5",
@@ -104,6 +94,16 @@
         "category": "Latest"
       },
       {
+        "title": "CBB and CBUAE sign BD2 bn currency swap agreement",
+        "link": "https://www.gdnonline.com/Details/1380859/CBB-and-CBUAE-sign-BD2-bn-currency-swap-agreement",
+        "published": "8 Apr 2026",
+        "iso_date": "2026-04-08T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408172816whatsappimage2026-04-08at17.22.20(1).jpeg?20260408",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Report highlights sustained investor confidence in kingdom",
         "link": "https://www.gdnonline.com/Details/1380661/Report-highlights-sustained-investor-confidence-in-kingdom",
         "published": "7 Apr 2026",
@@ -140,16 +140,6 @@
         "iso_date": "2026-04-07T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260406/20260406230104gdn-websitesize-2026-04-06t230921.070_T.jpg?20260408",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Arcapita announces promotions across global offices",
-        "link": "https://www.gdnonline.com/Details/1380656/Arcapita-announces-promotions-across-global-offices",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260406_221630_1_T.jpg?20260408",
         "source": "gdn",
         "category": "Latest"
       },
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 15:31:44 UTC"
+  "fetched_at": "2026-04-08 16:28:05 UTC"
 }
