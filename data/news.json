@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 16
     }
   },
   "articles": {
@@ -54,8 +54,8 @@
       {
         "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
-        "published": "9 Apr 2026, 01:56 AM",
-        "iso_date": "2026-04-09T01:56:33+00:00",
+        "published": "9 Apr 2026, 02:28 AM",
+        "iso_date": "2026-04-09T02:28:32+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -66,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSGlXMzZSUVBBdHV0TWNzZ0xwOEY0NHhpc21WYWVOYmhrOUFDVHlmNGNZb0prTWZHQ3h6QmdCVFpEUHFwMTVCYzFWUVV2VjV0VE5TMkJGMTAtbnFYZXBQVHB6d2c3dzR6WkQzWnpJMXl6c19EMUlrV3pwRVNhSlVxTkdRXzMwTUsxUWpGR09ndE9JeUY4MGlyWktOUnNERkQtWVlFSjFQWS12SnlvVk5pZTFCbDk0a0Q4WmExTzRibXVIZ2tMZEVTSUFES0plNVF2bW8zNTJGNWwtZHJOb1RDLTVRVnFQU3ZuZ3Jta0xsOTVtMVk5b3p4VjZn0gH6AUFVX3lxTE5IaVczNlJRUEF0dXRNY3NnTHA4RjQ0eGlzbVZhZU5iaGs5QUNUeWY0Y1lvSmtNZkdDeHpCZ0JUWkRQcXAxNUJjMVZRVXZWNXRUTlMyQkYxMC1ucVhlcFBUcHp3Zzd3NHpaRDNaekkxeXpzX0QxSWtXenBFU2FKVXFOR1FfMzBNSzFRakZHT2d0T0l5RjgwaXJaS05Sc0RGRC1ZWUVKMVBZLXZKeW9WTmllMUJsOTRrRDhaYTFPNGJtdUhna0xkRVNJQURLSmU1UXZtbzM1MkY1bC1kck5vVEMtNVFWcVBTdm5ncm1rTGw5NW0xWTlvenhWNmc?oc=5",
         "published": "8 Apr 2026, 11:59 PM",
         "iso_date": "2026-04-08T23:59:06+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
-        "published": "8 Apr 2026, 04:28 PM",
-        "iso_date": "2026-04-08T16:28:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Original ‘Charlie’s Angels’ Stars Reunite for 50th Anniversary Celebration",
+        "link": "https://www.newsofbahrain.com/views/130139.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HPqJgDS6R1_2026-04-09_1775709002resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Welcomes Ceasefire Initiative, Calls for Lasting Peace in the Middle East",
         "link": "https://www.newsofbahrain.com/bahrain/130138.html",
         "published": "8 Apr 2026, 09:22 AM",
@@ -248,8 +248,8 @@
       {
         "title": "Gulf Air Resumes Flight Operations from Bahrain International Airport",
         "link": "https://www.newsofbahrain.com/bahrain/130137.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_GjrntKwFPN_2026-04-08_1775674072resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,20 +268,10 @@
       {
         "title": "Spain says 'unacceptable' for Israel to continue Lebanon invasion",
         "link": "https://www.newsofbahrain.com/world/130135.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0XhtvV7Dgr_2026-04-08_1775660099resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russian court jails anti-war activists for up to 12 years",
-        "link": "https://www.newsofbahrain.com/world/130134.html",
         "published": "8 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VupdxW2yjS_2026-04-08_1775659842resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0XhtvV7Dgr_2026-04-08_1775660099resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,6 +292,16 @@
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_m7QqaOFzWp_2026-04-08_1775637206thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russian court jails anti-war activists for up to 12 years",
+        "link": "https://www.newsofbahrain.com/world/130134.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VupdxW2yjS_2026-04-08_1775659842thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 04:19:48 UTC"
+  "fetched_at": "2026-04-09 05:15:53 UTC"
 }
