@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,16 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain International Airport begins gradual resumption of flights",
-        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZDdvbWg1LVZGZllyN3MxejRITm9ac1NDNG1CTkVsOEI0Wk5SQVdRUnBHN3E0V3dWSVNJcndoMjd4VXpwRlpsU3NPTFdsWmtLUjl4WHNlSjBCYUw4QnZfRk9JTkUwRXM2QXE0NkNTMzk5OW94d0lFOXFOYm5ubnNwZ1FDdkdzV2RmWnlIMDJnU2JLSTc2MGRBbDhqR1RfWmNBalJvWk9mX3hRZTNOVTIxMk0wczRfRnBYX1Q4a0ZQMk1jUUxxREw2XzJ1ZXFGREg3dGFVZWdWUXludmE2M0NBTHhZRXYxVnFnNU92Tnp3ZVptb3k5OHRtQzJ4eEtKeDYyemlYRTNRYzQwb0xTcUp0azV4bU5zcVhTRW83dlRIOTlONjFQMTFmZ3VtM1BMSTd4T180UGNReEFzYlp4dG5GLTVxakYwZXNUU1ZR?oc=5",
-        "published": "9 Apr 2026, 07:13 AM",
-        "iso_date": "2026-04-09T07:13:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain reopens airspace after US-Iran ceasefire - ABS",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUM5UUFUZHNhZy1ZWkNPb0I3bkdZRHZtOVdSc3pEZm55QVpKckZUTHZMcUQ0VV9UTld4cWtFNmFfMlM0QmRkbG1VNFpOalI0azdDR3hCSWNrbnpnTmdaMldyUlZTUEhiRFFkRHl4S3ZHR2tEOXUwS0tvbTZqUjlmeEstdncyRTMwOGFmZy1EdHZLTzR2WlFiZUFSN2hQZw?oc=5",
         "published": "9 Apr 2026, 07:00 AM",
@@ -52,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain reopens airspace after Mideast war closure",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXhSWGNhOUR3ZGt6YkNhT0o5SERnalZLSi05MUNxQVJPQzM2VkdHQXdfUU9Ka3hhc1VBc2pPc0JBa2wtT3NWUWJzRXdtV0Z0Y3lrZ2QzMmpWNkttV3l3NWlBZ0lCd0pUOEluVG44RXdJZjlPMkNNTUVqV0U0TExpQy1TVmdvdlJpRHk2dHFhYU1wcVRIcU1VUFh4dHluM1RnanNZ0gGoAUFVX3lxTE1ESUVua2tXRWMySEhYZW9xeTlDUlljbU9JZ0lpRnkxelUzSHhneEVxMjU5OHl4WmlMVXluMTY4VHZCX1BtZEdyWXBKdXp3UWFzSmRCNk0zVmJ5MHU3ZlRZbTktTzk3dEtQeUxZNUNJTjc5MDF2VExuTjd4ZjNJb0pyQ3dhODRqYVhVemdRT3pmNVU0YThTR2h5UF9MWmc0VGg3NTY0Rm45LQ?oc=5",
-        "published": "8 Apr 2026, 05:06 PM",
-        "iso_date": "2026-04-08T17:06:00+00:00",
+        "title": "Bahrain International Airport begins gradual resumption of flights",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckg0U1NRU2pxdkRSZGhibXl6blgxZS0tMHVEWGk5WEQwRlFybGthME1EcHc3clFpelFxZy01RlBLdjhjYWl2YTRNU0xnSXVwcHZGbG9fUWZwVXp5cENST0NJSnpYanpvd0NQbFktR09nblRaUE9tMy1iSWxPanZSanV5YTR1UnVCTDhzejVkd0FTeUlCazVOTnM3dmMtVlFfWjFjLUFBOVlDZkNjbXZMYVFaQ2xkZw?oc=5",
+        "published": "9 Apr 2026, 12:54 AM",
+        "iso_date": "2026-04-09T00:54:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,6 +236,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Air Traffic Restarts: Inspection confirms operational readiness",
+        "link": "https://www.newsofbahrain.com/bahrain/130243.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NIdjSvmyEG_2026-04-09_1775754737resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Lebanon to File Urgent UN Complaint Over Israeli Escalation",
         "link": "https://www.newsofbahrain.com/world/130242.html",
         "published": "9 Apr 2026, 09:22 AM",
@@ -258,8 +258,8 @@
       {
         "title": "Could Parkinson’s Begin Years Before Symptoms Appear?",
         "link": "https://www.newsofbahrain.com/trends/130241.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_shufmr0Kk9_2026-04-09_1775750807resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,20 +278,10 @@
       {
         "title": "Four Die, Dozens Rescued in Attempted Channel Crossing from France to UK : French Official",
         "link": "https://www.newsofbahrain.com/world/130239.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Kg1fN5rSRB_2026-04-09_1775742927resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran's envoy deletes post on delegation arrival in Islamabad for US talks",
-        "link": "https://www.newsofbahrain.com/world/130238.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oXt01WH6dx_2026-04-09_1775742241resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Kg1fN5rSRB_2026-04-09_1775742927resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -336,12 +326,12 @@
         "category": "Latest"
       },
       {
-        "title": "New 2026–2036 strategy to transform Bahrain’s universities",
-        "link": "https://www.newsofbahrain.com/bahrain/130165.html",
+        "title": "Iran's envoy deletes post on delegation arrival in Islamabad for US talks",
+        "link": "https://www.newsofbahrain.com/world/130238.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Y5wFbpHv23_2026-04-09_1775724055thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oXt01WH6dx_2026-04-09_1775742241thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 16:31:37 UTC"
+  "fetched_at": "2026-04-09 17:26:21 UTC"
 }
