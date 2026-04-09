@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 15
     }
   },
   "articles": {
@@ -73,19 +73,19 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHEwbkQ0cldXbWRNT051MXl5UEdBYXFIQi11Y3luY3JaRWdfNVlmV25NX2U5RXQ5Q2JPTV8wVi1oUmJacHdLQUVnYzAzd2dEWU4yNHlCMGhSeUVncE40dWUyM1NYNWdxVmliRVVBeVpUeFUzS1lIWV9Qa3QxX18td05WeUdMZ213NzZROXZZa2RuQjN0N25TLVR5NWRtYlYxVWhkaWtQMzU5Y2xodDhOVXdRUDAtaU0?oc=5",
-        "published": "8 Apr 2026, 05:52 PM",
-        "iso_date": "2026-04-08T17:52:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
+        "published": "8 Apr 2026, 04:28 PM",
+        "iso_date": "2026-04-08T16:28:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain International Airport Begins Gradual Resumption Of Flights",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0oyTVFtaU4wM0tYc0tZbW1MY1M2WF9iN3Q0ZEtMY1FQX1dhRnJSajR1Vi1fTVEwYV9nZ3djUjEwVHNxSndHQmpsRkRYVTRQNkpBSkRRc0I3YnY1SFRlaHYxTU4yWFFmaS00LXRsWVNhYlQ4YkVodU5Sdl9nSDZTaWEyWEczV0R6SzZ2dkpobUx3aF91b2NITWJJSTBuLW8?oc=5",
-        "published": "8 Apr 2026, 11:45 PM",
-        "iso_date": "2026-04-08T23:45:08+00:00",
+        "title": "Agency News | ⚡Iranian Drones Strike Bahrain's Petrochemical Firm, Fire Under Control",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVkwejFvWE5FSUdUelM2cm5ibVdpTmNGLUhfMElLcTNOTVpSMG92dnhhb3luUHRmRzY4WXlpdll1allHYm1NTWItTEk1QUwxQXNydVFOV0tESC1nbWxleG5jc0VFS2RoUUFfVUw2WjNCSmJwNS1sOVFnVW5ZdzZIVnMyeGRRVzM4QTNnLTRKaUZJeEoycXZaMXQyd1A4WEFuaUdOT0tEWjZQdjVWdFB5R2VTLWwzM1ZlWElteXRQSHNRTmR6bEHSAcYBQVVfeXFMUC1ZMHoxb1hORUlHVHpTNnJuYm1XaU5jRi1IXzBJS3EzTk1aUjBvdnZ4YW95blB0Zkc2OFl5aXZZdWpZR2JtTU1iLUxJNUFMMUFzcnVRTldLREgtZ21sZXhuY3NFRUtkaFFBX1VMNlozQkpicDUtbDlRZ1VuWXc2SFZzMnhkUVczOEEzZy00SmlGSXhKMnF2WjF0MndQOFhBbmlHTk9LRFo2UHY1VnRQeUdlUy1sMzNWZVhJbXl0UEhzUU5kemxB?oc=5",
+        "published": "9 Apr 2026, 01:38 AM",
+        "iso_date": "2026-04-09T01:38:31+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -234,7 +234,158 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Bahrain Welcomes Ceasefire Initiative, Calls for Lasting Peace in the Middle East",
+        "link": "https://www.newsofbahrain.com/bahrain/130138.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5oFWkBeHyp_2026-04-08_1775678609resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Air Resumes Flight Operations from Bahrain International Airport",
+        "link": "https://www.newsofbahrain.com/bahrain/130137.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GjrntKwFPN_2026-04-08_1775674072resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain reopens airspace after temporary precautionary closure",
+        "link": "https://www.newsofbahrain.com/bahrain/130136.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZDhc2AYqmQ_2026-04-08_1775666238resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Spain says 'unacceptable' for Israel to continue Lebanon invasion",
+        "link": "https://www.newsofbahrain.com/world/130135.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0XhtvV7Dgr_2026-04-08_1775660099resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russian court jails anti-war activists for up to 12 years",
+        "link": "https://www.newsofbahrain.com/world/130134.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VupdxW2yjS_2026-04-08_1775659842resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Court Orders Insurance Firm to Pay BD 5,500",
+        "link": "https://www.newsofbahrain.com/bahrain/130084.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WXgLUG2Eyb_2026-04-08_1775637401thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Family Awarded BD 5,400 in Medical Negligence Case",
+        "link": "https://www.newsofbahrain.com/bahrain/130083.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m7QqaOFzWp_2026-04-08_1775637206thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Vance says Ukraine conflict has been 'hardest' to solve",
+        "link": "https://www.newsofbahrain.com/world/130133.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IC2mnlH0OM_2026-04-08_1775659247thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Venezuela interim leader Rodriguez vows to 'monitor' amnesty law",
+        "link": "https://www.newsofbahrain.com/world/130132.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EtfFQm6o2J_2026-04-08_1775659040thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Air India CEO Campbell Wilson resigns",
+        "link": "https://www.newsofbahrain.com/business/130118.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jCUifewIQp_2026-04-08_1775652658thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Australia, China agree to seek regional energy security",
+        "link": "https://www.newsofbahrain.com/business/130088.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4SGTYI2cVJ_2026-04-08_1775638915thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Italy’s ENI announces gas discovery off Egypt coast",
+        "link": "https://www.newsofbahrain.com/business/130087.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QLoE3SWA5O_2026-04-08_1775638733thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Supermarket deal tops BD1.7m as Tender Board opens bids",
+        "link": "https://www.newsofbahrain.com/business/130086.html",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3KQFDLOiRt_2026-04-08_1775637941thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "‘It’s not happening’: Mel B dismisses hopes of Spice Girls 30th anniversary tour",
+        "link": "https://www.newsofbahrain.com/views/130112.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrLVfJvdnp_2026-04-08_1775647822thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rules of War: Does Anyone Care?",
+        "link": "https://www.newsofbahrain.com/views/130105.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JXcImMyzYL_2026-04-08_1775646464thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -348,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 03:05:20 UTC"
+  "fetched_at": "2026-04-09 04:19:48 UTC"
 }
