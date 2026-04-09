@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 18
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain reports intercepting 194 missiles, 515 drones since attacks began",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16blZLQ2Q0RXdWOWo5b3ZOZW1TZlZ4SHdQVEtQdnFLWDl4UlJ1WVlYQ09zdXVPLVphQzRDWmxIZTF1cHFKSnE0VWYxcEI4d2R3MllJ?oc=5",
+        "published": "9 Apr 2026, 01:21 PM",
+        "iso_date": "2026-04-09T13:21:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain reopens airspace after US-Iran ceasefire - ABS",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUM5UUFUZHNhZy1ZWkNPb0I3bkdZRHZtOVdSc3pEZm55QVpKckZUTHZMcUQ0VV9UTld4cWtFNmFfMlM0QmRkbG1VNFpOalI0azdDR3hCSWNrbnpnTmdaMldyUlZTUEhiRFFkRHl4S3ZHR2tEOXUwS0tvbTZqUjlmeEstdncyRTMwOGFmZy1EdHZLTzR2WlFiZUFSN2hQZw?oc=5",
@@ -52,20 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain airport begins gradual flight resumption",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzZwamlycDVudW9tYWxIMGJseTlCeExVS1haRGM4a0NOWTFQUl96QTNOXzM1UlpSZXFZQVpjVTV2Q19jSHBPZ2NTeWwyVU1DMks3S2N1bFVTNG9NMlBSTnJDWDNqSExVbHBkY1pzdWdpRzZySmZ6ZjRLNkkzZWQ0RzR2dFdjVXZuR3JoNUNxeXRhWGhHdUhJSnNsVUpiZw?oc=5",
-        "published": "9 Apr 2026, 01:01 AM",
-        "iso_date": "2026-04-09T01:01:39+00:00",
+        "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
+        "published": "9 Apr 2026, 02:28 AM",
+        "iso_date": "2026-04-09T02:28:32+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
-        "published": "9 Apr 2026, 02:28 AM",
-        "iso_date": "2026-04-09T02:28:32+00:00",
+        "title": "Bahrain airport begins gradual flight resumption",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzZwamlycDVudW9tYWxIMGJseTlCeExVS1haRGM4a0NOWTFQUl96QTNOXzM1UlpSZXFZQVpjVTV2Q19jSHBPZ2NTeWwyVU1DMks3S2N1bFVTNG9NMlBSTnJDWDNqSExVbHBkY1pzdWdpRzZySmZ6ZjRLNkkzZWQ0RzR2dFdjVXZuR3JoNUNxeXRhWGhHdUhJSnNsVUpiZw?oc=5",
+        "published": "9 Apr 2026, 01:01 AM",
+        "iso_date": "2026-04-09T01:01:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,52 +236,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Air France extends Mideast flight suspensions to May 3",
-        "link": "https://www.newsofbahrain.com/world/130235.html",
+        "title": "Netflix Launches ‘Playground’ App, Turning Kids’ Screen Time Into Interactive Play",
+        "link": "https://www.newsofbahrain.com/trends/130240.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mKypsofjbt_2026-04-09_1775741303resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pMbgfVq7yN_2026-04-09_1775744360resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "A fragile pause: World voices hope Paris, France",
-        "link": "https://www.newsofbahrain.com/world/130234.html",
+        "title": "Four Die, Dozens Rescued in Attempted Channel Crossing from France to UK : French Official",
+        "link": "https://www.newsofbahrain.com/world/130239.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v0kpFDdgwX_2026-04-09_1775741090resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Kg1fN5rSRB_2026-04-09_1775742927resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Saudi, Iranian FMs hold first call since start of war: Saudi ministry",
-        "link": "https://www.newsofbahrain.com/world/130233.html",
+        "title": "Iran's envoy deletes post on delegation arrival in Islamabad for US talks",
+        "link": "https://www.newsofbahrain.com/world/130238.html",
         "published": "9 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-09T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5S0egh2O7N_2026-04-09_1775741062resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oXt01WH6dx_2026-04-09_1775742241resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The sticking points in the US-Iran ceasefire talks",
+        "link": "https://www.newsofbahrain.com/world/130237.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9SmwxiZfyG_2026-04-09_1775741755resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Italian PM Meloni says, Europe and U.S. Must Work in Tandem on Middle East Security",
+        "link": "https://www.newsofbahrain.com/world/130236.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jE6pmOIlNX_2026-04-09_1775741726resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "HH Shaikh Khalid bin Hamad Appointed to Supreme Defence Council",
         "link": "https://www.newsofbahrain.com/bahrain/130232.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SoWuaMFHfm_2026-04-09_1775740737resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Abu Dhabi scientists create cancer-busting substances that show up on MRI scans",
-        "link": "https://www.newsofbahrain.com/world/130231.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BWjnzUM05C_2026-04-09_1775740181resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SoWuaMFHfm_2026-04-09_1775740737thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 13:34:48 UTC"
+  "fetched_at": "2026-04-09 14:38:09 UTC"
 }
