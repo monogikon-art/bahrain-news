@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -23,9 +23,9 @@
     "bna": [
       {
         "title": "Bahrain king, crown prince meet UK PM Keir Starmer to discuss regional developments",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03b3lsYm9DbnJBRlNaZUZ2WkE1TjhXa2wwVXVEaDlRX19MY3hXTmFlTldqQ200ckl5THJmTDdJWnJRd2tWd1NNT3VxN1g5Y3ZiMXI0ZHBNWWJMdUtH?oc=5",
-        "published": "9 Apr 2026, 07:47 PM",
-        "iso_date": "2026-04-09T19:47:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtaHJDN0ZtcThyS295WGtKc2NNVmt2R3Z5NVFoaHlvWktNYlBJamZwQ1hsbC1sSEFuYVh4aTY2TlJoTmd1dGRzaUVCVWp0N0xJc2RF?oc=5",
+        "published": "9 Apr 2026, 08:25 PM",
+        "iso_date": "2026-04-09T20:25:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,20 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain International Airport begins gradual resumption of flights",
-        "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxORkswYndGRDVGLWhwLTVWTVRlRm52RXFOT19DcGZmZEVEaVJqb0tDak5tZllxa2dJN2FvdF8xbWxWOTRTZ3REY1l6OWpHSllVZG1rME9IWnRHNDVRS3RrNFhZMHMzbFVGWm5WTkxEZHVTc1o3Y0lnTUJwZDdnMFdqLVhSV1dPemVMa0c3OWVPNXFYYkNmQ2NyVGJBZC1Rd0JvSmRaWTNmNkJFOE10cEFTRkdORG9Cc0ctbnhzZDlPQXBYcTRPRXdOWEc0TEZpdG9VdHI0alBKTjYyc29RYW83UUNvV1NnemFIM3Vlbno0d0F5QnVyRlNDckNFMkttWnVPek04dHQ1Nno4ZmxfS0RTODFaQktKaWFRWU85Rk9VMmFjd1VSM0hBYWZxU1RiY3hGWmNPRmF5ejE2UG9lSXI2cF9lTUJHMDJZYVJMWA?oc=5",
-        "published": "9 Apr 2026, 07:13 AM",
-        "iso_date": "2026-04-09T07:13:28+00:00",
+        "title": "Bahrain reopens airspace after US-Iran ceasefire - ABS",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUM5UUFUZHNhZy1ZWkNPb0I3bkdZRHZtOVdSc3pEZm55QVpKckZUTHZMcUQ0VV9UTld4cWtFNmFfMlM0QmRkbG1VNFpOalI0azdDR3hCSWNrbnpnTmdaMldyUlZTUEhiRFFkRHl4S3ZHR2tEOXUwS0tvbTZqUjlmeEstdncyRTMwOGFmZy1EdHZLTzR2WlFiZUFSN2hQZw?oc=5",
+        "published": "9 Apr 2026, 07:00 AM",
+        "iso_date": "2026-04-09T07:00:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain reopens airspace after US-Iran ceasefire - ABS",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUM5UUFUZHNhZy1ZWkNPb0I3bkdZRHZtOVdSc3pEZm55QVpKckZUTHZMcUQ0VV9UTld4cWtFNmFfMlM0QmRkbG1VNFpOalI0azdDR3hCSWNrbnpnTmdaMldyUlZTUEhiRFFkRHl4S3ZHR2tEOXUwS0tvbTZqUjlmeEstdncyRTMwOGFmZy1EdHZLTzR2WlFiZUFSN2hQZw?oc=5",
-        "published": "9 Apr 2026, 07:00 AM",
-        "iso_date": "2026-04-09T07:00:07+00:00",
+        "title": "Bahrain International Airport begins gradual resumption of flights",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckg0U1NRU2pxdkRSZGhibXl6blgxZS0tMHVEWGk5WEQwRlFybGthME1EcHc3clFpelFxZy01RlBLdjhjYWl2YTRNU0xnSXVwcHZGbG9fUWZwVXp5cENST0NJSnpYanpvd0NQbFktR09nblRaUE9tMy1iSWxPanZSanV5YTR1UnVCTDhzejVkd0FTeUlCazVOTnM3dmMtVlFfWjFjLUFBOVlDZkNjbXZMYVFaQ2xkZw?oc=5",
+        "published": "9 Apr 2026, 12:54 AM",
+        "iso_date": "2026-04-09T00:54:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -86,16 +86,6 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
         "published": "9 Apr 2026, 01:29 PM",
         "iso_date": "2026-04-09T13:29:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Defence Force announces interception of 194 missiles, 515 drones since onset of Iranian aggression",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdURIbGxNRHJjLTU5bUYyajlBQVNrOG1DZ3B6VlNUdzJkbnV2b0VKdXBoQTBQemFRSDdUMlFUNkdwR1ExTmhsdVVsRUpscUdHdmhqaTZOZkc2OUJJd2owSi13c3dneVVhb1U2ZHFhQmdIRXdBQW9ma2hnMENHSHFEVkJqRmFsUFRyTzdQaUlFc0JIaU9iS0pVdHZmaTZlcGZYbEM1bGxObnh4VU13azc3b21pVFE0WnFDMFdCRkxhM3NOY0ItZ1Q4OTR6VUJQLTVjaG9vSC1vQXlSV1JKNkpQVmd2TU1tUQ?oc=5",
-        "published": "9 Apr 2026, 05:25 PM",
-        "iso_date": "2026-04-09T17:25:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -539,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 21:46:53 UTC"
+  "fetched_at": "2026-04-09 22:15:33 UTC"
 }
