@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 19
+      "count": 17
     }
   },
   "articles": {
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16blZLQ2Q0RXdWOWo5b3ZOZW1TZlZ4SHdQVEtQdnFLWDl4UlJ1WVlYQ09zdXVPLVphQzRDWmxIZTF1cHFKSnE0VWYxcEI4d2R3MllJ?oc=5",
         "published": "9 Apr 2026, 01:21 PM",
         "iso_date": "2026-04-09T13:21:48+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain International Airport begins gradual resumption of flights",
-        "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxORkswYndGRDVGLWhwLTVWTVRlRm52RXFOT19DcGZmZEVEaVJqb0tDak5tZllxa2dJN2FvdF8xbWxWOTRTZ3REY1l6OWpHSllVZG1rME9IWnRHNDVRS3RrNFhZMHMzbFVGWm5WTkxEZHVTc1o3Y0lnTUJwZDdnMFdqLVhSV1dPemVMa0c3OWVPNXFYYkNmQ2NyVGJBZC1Rd0JvSmRaWTNmNkJFOE10cEFTRkdORG9Cc0ctbnhzZDlPQXBYcTRPRXdOWEc0TEZpdG9VdHI0alBKTjYyc29RYW83UUNvV1NnemFIM3Vlbno0d0F5QnVyRlNDckNFMkttWnVPek04dHQ1Nno4ZmxfS0RTODFaQktKaWFRWU85Rk9VMmFjd1VSM0hBYWZxU1RiY3hGWmNPRmF5ejE2UG9lSXI2cF9lTUJHMDJZYVJMWA?oc=5",
-        "published": "9 Apr 2026, 07:13 AM",
-        "iso_date": "2026-04-09T07:13:28+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,10 +42,30 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain International Airport begins gradual resumption of flights",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckg0U1NRU2pxdkRSZGhibXl6blgxZS0tMHVEWGk5WEQwRlFybGthME1EcHc3clFpelFxZy01RlBLdjhjYWl2YTRNU0xnSXVwcHZGbG9fUWZwVXp5cENST0NJSnpYanpvd0NQbFktR09nblRaUE9tMy1iSWxPanZSanV5YTR1UnVCTDhzejVkd0FTeUlCazVOTnM3dmMtVlFfWjFjLUFBOVlDZkNjbXZMYVFaQ2xkZw?oc=5",
+        "published": "9 Apr 2026, 12:54 AM",
+        "iso_date": "2026-04-09T00:54:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
         "published": "9 Apr 2026, 02:28 AM",
         "iso_date": "2026-04-09T02:28:32+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, Spain foreign ministers exchange views on latest international developments, review longstanding ties",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSGlXMzZSUVBBdHV0TWNzZ0xwOEY0NHhpc21WYWVOYmhrOUFDVHlmNGNZb0prTWZHQ3h6QmdCVFpEUHFwMTVCYzFWUVV2VjV0VE5TMkJGMTAtbnFYZXBQVHB6d2c3dzR6WkQzWnpJMXl6c19EMUlrV3pwRVNhSlVxTkdRXzMwTUsxUWpGR09ndE9JeUY4MGlyWktOUnNERkQtWVlFSjFQWS12SnlvVk5pZTFCbDk0a0Q4WmExTzRibXVIZ2tMZEVTSUFES0plNVF2bW8zNTJGNWwtZHJOb1RDLTVRVnFQU3ZuZ3Jta0xsOTVtMVk5b3p4VjZn0gH6AUFVX3lxTE5IaVczNlJRUEF0dXRNY3NnTHA4RjQ0eGlzbVZhZU5iaGs5QUNUeWY0Y1lvSmtNZkdDeHpCZ0JUWkRQcXAxNUJjMVZRVXZWNXRUTlMyQkYxMC1ucVhlcFBUcHp3Zzd3NHpaRDNaekkxeXpzX0QxSWtXenBFU2FKVXFOR1FfMzBNSzFRakZHT2d0T0l5RjgwaXJaS05Sc0RGRC1ZWUVKMVBZLXZKeW9WTmllMUJsOTRrRDhaYTFPNGJtdUhna0xkRVNJQURLSmU1UXZtbzM1MkY1bC1kck5vVEMtNVFWcVBTdm5ncm1rTGw5NW0xWTlvenhWNmc?oc=5",
+        "published": "8 Apr 2026, 11:59 PM",
+        "iso_date": "2026-04-08T23:59:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,10 +246,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Air Traffic Restarts: Inspection confirms operational readiness",
-        "link": "https://www.newsofbahrain.com/bahrain/130243.html",
+        "title": "Mexico Considers Fracking Plan to Cut Reliance on US Gas",
+        "link": "https://www.newsofbahrain.com/world/130246.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5blIXaVT23_2026-04-09_1775758626resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "France's Macron in Rome for first meeting with Pope Leo",
+        "link": "https://www.newsofbahrain.com/world/130245.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nFHzeylgQh_2026-04-09_1775758157resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Europe Urged to Begin Gas Storage Refill Immediately Ahead of Winter",
+        "link": "https://www.newsofbahrain.com/world/130244.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U84o6GCLHD_2026-04-09_1775757917resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Air Traffic Restarts: Inspection confirms operational readiness",
+        "link": "https://www.newsofbahrain.com/bahrain/130243.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NIdjSvmyEG_2026-04-09_1775754737resized_pic.jpg",
         "source": "newsofbahrain",
@@ -252,36 +292,6 @@
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_BHnGozCvx7_2026-04-09_1775751969resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Could Parkinson’s Begin Years Before Symptoms Appear?",
-        "link": "https://www.newsofbahrain.com/trends/130241.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_shufmr0Kk9_2026-04-09_1775750807resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Netflix Launches ‘Playground’ App, Turning Kids’ Screen Time Into Interactive Play",
-        "link": "https://www.newsofbahrain.com/trends/130240.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pMbgfVq7yN_2026-04-09_1775744360resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Four Die, Dozens Rescued in Attempted Channel Crossing from France to UK : French Official",
-        "link": "https://www.newsofbahrain.com/world/130239.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Kg1fN5rSRB_2026-04-09_1775742927resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,26 +332,6 @@
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_irEL35lSXj_2026-04-09_1775724136thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran's envoy deletes post on delegation arrival in Islamabad for US talks",
-        "link": "https://www.newsofbahrain.com/world/130238.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oXt01WH6dx_2026-04-09_1775742241thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "The sticking points in the US-Iran ceasefire talks",
-        "link": "https://www.newsofbahrain.com/world/130237.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9SmwxiZfyG_2026-04-09_1775741755thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 17:50:31 UTC"
+  "fetched_at": "2026-04-09 18:22:53 UTC"
 }
