@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain king, crown prince meet UK PM Keir Starmer to discuss regional developments",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03b3lsYm9DbnJBRlNaZUZ2WkE1TjhXa2wwVXVEaDlRX19MY3hXTmFlTldqQ200ckl5THJmTDdJWnJRd2tWd1NNT3VxN1g5Y3ZiMXI0ZHBNWWJMdUtH?oc=5",
+        "published": "9 Apr 2026, 07:47 PM",
+        "iso_date": "2026-04-09T19:47:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain reports intercepting 194 missiles, 515 drones since attacks began",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16blZLQ2Q0RXdWOWo5b3ZOZW1TZlZ4SHdQVEtQdnFLWDl4UlJ1WVlYQ09zdXVPLVphQzRDWmxIZTF1cHFKSnE0VWYxcEI4d2R3MllJ?oc=5",
@@ -62,6 +72,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain, Spain foreign ministers exchange views on latest international developments, review longstanding ties",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSGlXMzZSUVBBdHV0TWNzZ0xwOEY0NHhpc21WYWVOYmhrOUFDVHlmNGNZb0prTWZHQ3h6QmdCVFpEUHFwMTVCYzFWUVV2VjV0VE5TMkJGMTAtbnFYZXBQVHB6d2c3dzR6WkQzWnpJMXl6c19EMUlrV3pwRVNhSlVxTkdRXzMwTUsxUWpGR09ndE9JeUY4MGlyWktOUnNERkQtWVlFSjFQWS12SnlvVk5pZTFCbDk0a0Q4WmExTzRibXVIZ2tMZEVTSUFES0plNVF2bW8zNTJGNWwtZHJOb1RDLTVRVnFQU3ZuZ3Jta0xsOTVtMVk5b3p4VjZn0gH6AUFVX3lxTE5IaVczNlJRUEF0dXRNY3NnTHA4RjQ0eGlzbVZhZU5iaGs5QUNUeWY0Y1lvSmtNZkdDeHpCZ0JUWkRQcXAxNUJjMVZRVXZWNXRUTlMyQkYxMC1ucVhlcFBUcHp3Zzd3NHpaRDNaekkxeXpzX0QxSWtXenBFU2FKVXFOR1FfMzBNSzFRakZHT2d0T0l5RjgwaXJaS05Sc0RGRC1ZWUVKMVBZLXZKeW9WTmllMUJsOTRrRDhaYTFPNGJtdUhna0xkRVNJQURLSmU1UXZtbzM1MkY1bC1kck5vVEMtNVFWcVBTdm5ncm1rTGw5NW0xWTlvenhWNmc?oc=5",
+        "published": "8 Apr 2026, 11:59 PM",
+        "iso_date": "2026-04-08T23:59:06+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain airport begins gradual flight resumption",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzZwamlycDVudW9tYWxIMGJseTlCeExVS1haRGM4a0NOWTFQUl96QTNOXzM1UlpSZXFZQVpjVTV2Q19jSHBPZ2NTeWwyVU1DMks3S2N1bFVTNG9NMlBSTnJDWDNqSExVbHBkY1pzdWdpRzZySmZ6ZjRLNkkzZWQ0RzR2dFdjVXZuR3JoNUNxeXRhWGhHdUhJSnNsVUpiZw?oc=5",
         "published": "9 Apr 2026, 01:01 AM",
@@ -76,16 +96,6 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
         "published": "9 Apr 2026, 01:29 PM",
         "iso_date": "2026-04-09T13:29:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Defence Force announces interception of 194 missiles, 515 drones since onset of Iranian aggression",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdURIbGxNRHJjLTU5bUYyajlBQVNrOG1DZ3B6VlNUdzJkbnV2b0VKdXBoQTBQemFRSDdUMlFUNkdwR1ExTmhsdVVsRUpscUdHdmhqaTZOZkc2OUJJd2owSi13c3dneVVhb1U2ZHFhQmdIRXdBQW9ma2hnMENHSHFEVkJqRmFsUFRyTzdQaUlFc0JIaU9iS0pVdHZmaTZlcGZYbEM1bGxObnh4VU13azc3b21pVFE0WnFDMFdCRkxhM3NOY0ItZ1Q4OTR6VUJQLTVjaG9vSC1vQXlSV1JKNkpQVmd2TU1tUQ?oc=5",
-        "published": "9 Apr 2026, 05:25 PM",
-        "iso_date": "2026-04-09T17:25:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -539,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 20:18:57 UTC"
+  "fetched_at": "2026-04-09 20:47:14 UTC"
 }
