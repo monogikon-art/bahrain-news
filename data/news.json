@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,6 +32,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain International Airport begins gradual resumption of flights",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckg0U1NRU2pxdkRSZGhibXl6blgxZS0tMHVEWGk5WEQwRlFybGthME1EcHc3clFpelFxZy01RlBLdjhjYWl2YTRNU0xnSXVwcHZGbG9fUWZwVXp5cENST0NJSnpYanpvd0NQbFktR09nblRaUE9tMy1iSWxPanZSanV5YTR1UnVCTDhzejVkd0FTeUlCazVOTnM3dmMtVlFfWjFjLUFBOVlDZkNjbXZMYVFaQ2xkZw?oc=5",
+        "published": "9 Apr 2026, 12:54 AM",
+        "iso_date": "2026-04-09T00:54:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain reopens airspace after Mideast war closure",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXhSWGNhOUR3ZGt6YkNhT0o5SERnalZLSi05MUNxQVJPQzM2VkdHQXdfUU9Ka3hhc1VBc2pPc0JBa2wtT3NWUWJzRXdtV0Z0Y3lrZ2QzMmpWNkttV3l3NWlBZ0lCd0pUOEluVG44RXdJZjlPMkNNTUVqV0U0TExpQy1TVmdvdlJpRHk2dHFhYU1wcVRIcU1VUFh4dHluM1RnanNZ0gGoAUFVX3lxTE1ESUVua2tXRWMySEhYZW9xeTlDUlljbU9JZ0lpRnkxelUzSHhneEVxMjU5OHl4WmlMVXluMTY4VHZCX1BtZEdyWXBKdXp3UWFzSmRCNk0zVmJ5MHU3ZlRZbTktTzk3dEtQeUxZNUNJTjc5MDF2VExuTjd4ZjNJb0pyQ3dhODRqYVhVemdRT3pmNVU0YThTR2h5UF9MWmc0VGg3NTY0Rm45LQ?oc=5",
         "published": "8 Apr 2026, 05:06 PM",
@@ -42,20 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
-        "published": "9 Apr 2026, 02:28 AM",
-        "iso_date": "2026-04-09T02:28:32+00:00",
+        "title": "Bahrain airport begins gradual flight resumption",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWktQUlBSjVMTlpOUnBOYnV1cTgzWm5WbWU5bDlCWVh0ZXdDTUZxeld1S3NiZ1VaN0pWbG9ZRDRNTDFWYmhDRzlock92ZUZOTGlNMUZGVFhTcVJ1UkpBX3NicjJUZW9mYWNaeHhyVTJuak54V1EwSUNaZVV2TnVHVENhZ01KaUNHTFJHam5OcFE5TGZhbVMyeXNYenRiWmQtNHc?oc=5",
+        "published": "9 Apr 2026, 12:57 AM",
+        "iso_date": "2026-04-09T00:57:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain airport begins gradual flight resumption",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzZwamlycDVudW9tYWxIMGJseTlCeExVS1haRGM4a0NOWTFQUl96QTNOXzM1UlpSZXFZQVpjVTV2Q19jSHBPZ2NTeWwyVU1DMks3S2N1bFVTNG9NMlBSTnJDWDNqSExVbHBkY1pzdWdpRzZySmZ6ZjRLNkkzZWQ0RzR2dFdjVXZuR3JoNUNxeXRhWGhHdUhJSnNsVUpiZw?oc=5",
-        "published": "9 Apr 2026, 01:01 AM",
-        "iso_date": "2026-04-09T01:01:39+00:00",
+        "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
+        "published": "9 Apr 2026, 02:28 AM",
+        "iso_date": "2026-04-09T02:28:32+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -84,6 +94,26 @@
         "category": "Latest"
       },
       {
+        "title": "Weather Alert: Thunder and rain witnessed in Bahrain on Thursday morning",
+        "link": "https://www.gdnonline.com/Details/1380945/Weather-Alert-Thunder-and-rain-witnessed-in-Bahrain-on-Thursday-morning-",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409102259websize_T.jpg?20260409",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "702 interceptions",
+        "link": "https://www.gdnonline.com/Details/1380837/702-interceptions",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409013303images(1)_T.jpg?20260409",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Young expat jailed for 10 years over drugs dealing",
         "link": "https://www.gdnonline.com/Details/1380898/Young-expat-jailed-for-10-years-over-drugs-dealing",
         "published": "9 Apr 2026",
@@ -100,26 +130,6 @@
         "iso_date": "2026-04-09T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_221541_2.jpeg?20260409",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Essential supplies provided to Sri Lankans hit by challenges",
-        "link": "https://www.gdnonline.com/Details/1380897/Essential-supplies-provided-to-Sri-Lankans-hit-by-challenges",
-        "published": "9 Apr 2026",
-        "iso_date": "2026-04-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_230722_0.jpeg?20260409",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Isa Town set for major infrastructure upgrade",
-        "link": "https://www.gdnonline.com/Details/1380889/Isa-Town-set-for-major-infrastructure-upgrade",
-        "published": "9 Apr 2026",
-        "iso_date": "2026-04-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408232244site13_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,10 +226,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Man rescued two weeks after Mexico mine collapse",
-        "link": "https://www.newsofbahrain.com/world/130205.html",
+        "title": "Yasmin Ullah Leads Genocide Case, Urges Muslim World to Act Against Myanmar Junta",
+        "link": "https://www.newsofbahrain.com/world/130209.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_94kPsyS8mf_2026-04-09_1775735031resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Italy says Israeli forces damage UN convoy vehicle in Lebanon",
+        "link": "https://www.newsofbahrain.com/world/130208.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_16yZzeRBCh_2026-04-09_1775734423resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US had 'top level' talks with China on Iran: White House",
+        "link": "https://www.newsofbahrain.com/world/130207.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tQU73TdBVj_2026-04-09_1775734214resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Man rescued two weeks after Mexico mine collapse",
+        "link": "https://www.newsofbahrain.com/world/130205.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_xWHOG7J5Bf_2026-04-09_1775733571resized_pic.jpg",
         "source": "newsofbahrain",
@@ -232,36 +272,6 @@
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ch7UJtYApI_2026-04-09_1775732683resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Netherlands Says No Ban Yet on Kanye West Despite UK Restrictions",
-        "link": "https://www.newsofbahrain.com/world/130202.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Y7VCrhDmBu_2026-04-09_1775732402resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Argentine MPs weigh key environmental reform",
-        "link": "https://www.newsofbahrain.com/world/130201.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZLrKIzagFW_2026-04-09_1775732075resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "France Unveils €36 Billion Rearmament Plan to Counter Russia",
-        "link": "https://www.newsofbahrain.com/world/130199.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h8WSR3gPQv_2026-04-09_1775731515resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 11:23:01 UTC"
+  "fetched_at": "2026-04-09 11:48:11 UTC"
 }
