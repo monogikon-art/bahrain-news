@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -23,9 +23,9 @@
     "bna": [
       {
         "title": "Bahrain king, crown prince meet UK PM Keir Starmer to discuss regional developments",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03b3lsYm9DbnJBRlNaZUZ2WkE1TjhXa2wwVXVEaDlRX19MY3hXTmFlTldqQ200ckl5THJmTDdJWnJRd2tWd1NNT3VxN1g5Y3ZiMXI0ZHBNWWJMdUtH?oc=5",
-        "published": "9 Apr 2026, 07:47 PM",
-        "iso_date": "2026-04-09T19:47:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtaHJDN0ZtcThyS295WGtKc2NNVmt2R3Z5NVFoaHlvWktNYlBJamZwQ1hsbC1sSEFuYVh4aTY2TlJoTmd1dGRzaUVCVWp0N0xJc2RF?oc=5",
+        "published": "9 Apr 2026, 08:25 PM",
+        "iso_date": "2026-04-09T20:25:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,16 +72,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain, Spain foreign ministers exchange views on latest international developments, review longstanding ties",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSGlXMzZSUVBBdHV0TWNzZ0xwOEY0NHhpc21WYWVOYmhrOUFDVHlmNGNZb0prTWZHQ3h6QmdCVFpEUHFwMTVCYzFWUVV2VjV0VE5TMkJGMTAtbnFYZXBQVHB6d2c3dzR6WkQzWnpJMXl6c19EMUlrV3pwRVNhSlVxTkdRXzMwTUsxUWpGR09ndE9JeUY4MGlyWktOUnNERkQtWVlFSjFQWS12SnlvVk5pZTFCbDk0a0Q4WmExTzRibXVIZ2tMZEVTSUFES0plNVF2bW8zNTJGNWwtZHJOb1RDLTVRVnFQU3ZuZ3Jta0xsOTVtMVk5b3p4VjZn0gH6AUFVX3lxTE5IaVczNlJRUEF0dXRNY3NnTHA4RjQ0eGlzbVZhZU5iaGs5QUNUeWY0Y1lvSmtNZkdDeHpCZ0JUWkRQcXAxNUJjMVZRVXZWNXRUTlMyQkYxMC1ucVhlcFBUcHp3Zzd3NHpaRDNaekkxeXpzX0QxSWtXenBFU2FKVXFOR1FfMzBNSzFRakZHT2d0T0l5RjgwaXJaS05Sc0RGRC1ZWUVKMVBZLXZKeW9WTmllMUJsOTRrRDhaYTFPNGJtdUhna0xkRVNJQURLSmU1UXZtbzM1MkY1bC1kck5vVEMtNVFWcVBTdm5ncm1rTGw5NW0xWTlvenhWNmc?oc=5",
-        "published": "8 Apr 2026, 11:59 PM",
-        "iso_date": "2026-04-08T23:59:06+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain airport begins gradual flight resumption",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzZwamlycDVudW9tYWxIMGJseTlCeExVS1haRGM4a0NOWTFQUl96QTNOXzM1UlpSZXFZQVpjVTV2Q19jSHBPZ2NTeWwyVU1DMks3S2N1bFVTNG9NMlBSTnJDWDNqSExVbHBkY1pzdWdpRzZySmZ6ZjRLNkkzZWQ0RzR2dFdjVXZuR3JoNUNxeXRhWGhHdUhJSnNsVUpiZw?oc=5",
         "published": "9 Apr 2026, 01:01 AM",
@@ -102,10 +92,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain International Airport Begins Gradual Resumption Of Flights",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0oyTVFtaU4wM0tYc0tZbW1MY1M2WF9iN3Q0ZEtMY1FQX1dhRnJSajR1Vi1fTVEwYV9nZ3djUjEwVHNxSndHQmpsRkRYVTRQNkpBSkRRc0I3YnY1SFRlaHYxTU4yWFFmaS00LXRsWVNhYlQ4YkVodU5Sdl9nSDZTaWEyWEczV0R6SzZ2dkpobUx3aF91b2NITWJJSTBuLW8?oc=5",
-        "published": "8 Apr 2026, 11:45 PM",
-        "iso_date": "2026-04-08T23:45:08+00:00",
+        "title": "Bahrain Defence Force announces interception of 194 missiles, 515 drones since onset of Iranian aggression",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdURIbGxNRHJjLTU5bUYyajlBQVNrOG1DZ3B6VlNUdzJkbnV2b0VKdXBoQTBQemFRSDdUMlFUNkdwR1ExTmhsdVVsRUpscUdHdmhqaTZOZkc2OUJJd2owSi13c3dneVVhb1U2ZHFhQmdIRXdBQW9ma2hnMENHSHFEVkJqRmFsUFRyTzdQaUlFc0JIaU9iS0pVdHZmaTZlcGZYbEM1bGxObnh4VU13azc3b21pVFE0WnFDMFdCRkxhM3NOY0ItZ1Q4OTR6VUJQLTVjaG9vSC1vQXlSV1JKNkpQVmd2TU1tUQ?oc=5",
+        "published": "9 Apr 2026, 05:25 PM",
+        "iso_date": "2026-04-09T17:25:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,7 +256,7 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Calls for Protection of Trade Routes, Reopening of Strait of Hormuz",
+        "title": "Bahrain, UK Discuss Security and Economic Risks of Hormuz Crisis",
         "link": "https://www.newsofbahrain.com/bahrain/130252.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 20:47:14 UTC"
+  "fetched_at": "2026-04-09 21:17:42 UTC"
 }
