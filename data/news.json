@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 17
     }
   },
   "articles": {
@@ -42,20 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain airport begins gradual flight resumption",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEZ6VW5DS2JLSlBPdWpOT0IwZnJsb2YwMnNtRzg4dW5yQldfd2tyVThkaTlFZFY1Rk5XV2Y2a1BIZ2VtcTE2X2doOWc1Uzk5ZTI3dEZ2REZEZlBBcDkxcUJFdWpheGZsZW5SRXdfbnRpQzRoN0dWazNPb2VWWUtYR1c3MHNuX3dIN1QtaUxWcl9fdXhwbDZSc0JHU1JDUQ?oc=5",
-        "published": "9 Apr 2026, 03:52 AM",
-        "iso_date": "2026-04-09T03:52:14+00:00",
+        "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
+        "published": "9 Apr 2026, 02:28 AM",
+        "iso_date": "2026-04-09T02:28:32+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
-        "published": "9 Apr 2026, 02:28 AM",
-        "iso_date": "2026-04-09T02:28:32+00:00",
+        "title": "Bahrain airport begins gradual flight resumption",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzZwamlycDVudW9tYWxIMGJseTlCeExVS1haRGM4a0NOWTFQUl96QTNOXzM1UlpSZXFZQVpjVTV2Q19jSHBPZ2NTeWwyVU1DMks3S2N1bFVTNG9NMlBSTnJDWDNqSExVbHBkY1pzdWdpRzZySmZ6ZjRLNkkzZWQ0RzR2dFdjVXZuR3JoNUNxeXRhWGhHdUhJSnNsVUpiZw?oc=5",
+        "published": "9 Apr 2026, 01:01 AM",
+        "iso_date": "2026-04-09T01:01:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +216,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Saudi Crown Prince Mohammed bin Salman welcomes  British PM Keir Starmer  in Jeddah on Wednesday.",
-        "link": "https://www.newsofbahrain.com/world/130140.html",
+        "title": "Dubai Gold Prices Drop as Global Rates Ease",
+        "link": "https://www.newsofbahrain.com/world/130143.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_95NTdqIgXf_2026-04-09_1775719940resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq Edge Manama in Thrilling Finals Opener",
+        "link": "https://www.newsofbahrain.com/sports/130142.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cfR8WG5rea_2026-04-09_1775719261resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump Warns US Forces Will Remain Deployed Around Iran Until Ceasefire Terms Are Met",
+        "link": "https://www.newsofbahrain.com/world/130141.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DCtyxA83V0_2026-04-09_1775718467resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Crown Prince Mohammed bin Salman welcomes  British PM Keir Starmer  in Jeddah on Wednesday.",
+        "link": "https://www.newsofbahrain.com/world/130140.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_BzfiGAVrk1_2026-04-09_1775717254resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +268,20 @@
       {
         "title": "Bahrain Welcomes Ceasefire Initiative, Calls for Lasting Peace in the Middle East",
         "link": "https://www.newsofbahrain.com/bahrain/130138.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5oFWkBeHyp_2026-04-08_1775678609resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5oFWkBeHyp_2026-04-08_1775678609thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Gulf Air Resumes Flight Operations from Bahrain International Airport",
         "link": "https://www.newsofbahrain.com/bahrain/130137.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
+        "published": "8 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GjrntKwFPN_2026-04-08_1775674072resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GjrntKwFPN_2026-04-08_1775674072thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,7 +291,7 @@
         "published": "8 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZDhc2AYqmQ_2026-04-08_1775666238resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZDhc2AYqmQ_2026-04-08_1775666238thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,26 +322,6 @@
         "iso_date": "2026-04-08T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_0XhtvV7Dgr_2026-04-08_1775660099thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russian court jails anti-war activists for up to 12 years",
-        "link": "https://www.newsofbahrain.com/world/130134.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VupdxW2yjS_2026-04-08_1775659842thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Vance says Ukraine conflict has been 'hardest' to solve",
-        "link": "https://www.newsofbahrain.com/world/130133.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IC2mnlH0OM_2026-04-08_1775659247thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 07:00:11 UTC"
+  "fetched_at": "2026-04-09 07:41:34 UTC"
 }
