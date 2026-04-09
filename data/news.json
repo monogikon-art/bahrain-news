@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 17
     }
   },
   "articles": {
@@ -72,6 +72,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain reopens airspace after US-Iran ceasefire",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYU4tWkE5QXplZ1pmMmp5NWFlM2FxVUl2d1hlTUJlNjd6R1V6U0xUTE9fc2NJMEo5QWFIcHRQSGlDWU1heHlSNWpYeFdLRmM2MldBTTQ5NTZBSmMwMGNUMzYxZU1td3lJcGZWd19fd1N2dWkwVXB5bkNSejRkV2pEY2l4eVjSAZQBQVVfeXFMTWFocjAtNXRKOV8tZXBUa1Nob2FnUk9DV0lvaHRfS1dIUzdvVnNIbm1JYm1abDE2OGotWS1yZE9ma0R0ZEFTS0xGNkpUN3VpeUhnTDJGTkd6SDFLekdNcHpldlBLT2ItSEVDa1lCTUFIZTg4TFcwVzdONC1WaV9xSENxcjl3aG0wS2pqTzcwMW45YjBXSw?oc=5",
+        "published": "9 Apr 2026, 04:57 AM",
+        "iso_date": "2026-04-09T04:57:40+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Agency News | ⚡Iranian Drones Strike Bahrain's Petrochemical Firm, Fire Under Control",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVkwejFvWE5FSUdUelM2cm5ibVdpTmNGLUhfMElLcTNOTVpSMG92dnhhb3luUHRmRzY4WXlpdll1allHYm1NTWItTEk1QUwxQXNydVFOV0tESC1nbWxleG5jc0VFS2RoUUFfVUw2WjNCSmJwNS1sOVFnVW5ZdzZIVnMyeGRRVzM4QTNnLTRKaUZJeEoycXZaMXQyd1A4WEFuaUdOT0tEWjZQdjVWdFB5R2VTLWwzM1ZlWElteXRQSHNRTmR6bEHSAcYBQVVfeXFMUC1ZMHoxb1hORUlHVHpTNnJuYm1XaU5jRi1IXzBJS3EzTk1aUjBvdnZ4YW95blB0Zkc2OFl5aXZZdWpZR2JtTU1iLUxJNUFMMUFzcnVRTldLREgtZ21sZXhuY3NFRUtkaFFBX1VMNlozQkpicDUtbDlRZ1VuWXc2SFZzMnhkUVczOEEzZy00SmlGSXhKMnF2WjF0MndQOFhBbmlHTk9LRFo2UHY1VnRQeUdlUy1sMzNWZVhJbXl0UEhzUU5kemxB?oc=5",
         "published": "9 Apr 2026, 01:38 AM",
@@ -83,6 +93,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "HM King holds phone call with Pakistani Prime Minister",
+        "link": "https://www.gdnonline.com/Details/1380958/HM-King-holds-phone-call-with-Pakistani-Prime-Minister",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409145544shehbaz_T.jpg?20260409",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "WEâRE BACK IN THE AIR: Bahrain Airport Company confirms gradual resumption of flights",
         "link": "https://www.gdnonline.com/Details/1380920/WEâRE-BACK-IN-THE-AIR-Bahrain-Airport-Company-confirms-gradual-resumption-of-flights",
@@ -120,16 +140,6 @@
         "iso_date": "2026-04-09T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260408/20260408233506gavel1_T.jpg?20260409",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Push to establish Bahrain as hub for higher education",
-        "link": "https://www.gdnonline.com/Details/1380887/Push-to-establish-Bahrain-as-hub-for-higher-education",
-        "published": "9 Apr 2026",
-        "iso_date": "2026-04-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_221541_2.jpeg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -226,52 +236,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "BTS to kick off world tour after landmark Seoul comeback",
+        "link": "https://www.newsofbahrain.com/world/130219.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GfNtE06byF_2026-04-09_1775738704resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King Hamad Praises Pakistan’s Efforts on Regional Stability",
+        "link": "https://www.newsofbahrain.com/bahrain/130218.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZOMz6LVqTD_2026-04-09_1775738925resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russian court criminalises the activities of the Nobel Prize-winning rights group Memorial",
+        "link": "https://www.newsofbahrain.com/world/130217.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q3zAVO9wsR_2026-04-09_1775737672resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dominican Republic Floods Kill Toddler, Damage Over 1,000 Homes",
+        "link": "https://www.newsofbahrain.com/world/130215.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Oik1DdC09V_2026-04-09_1775737412resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Türkiye puts 11 on trial for LGBT 'obscenity'",
         "link": "https://www.newsofbahrain.com/world/130214.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_RxJPDCQzO1_2026-04-09_1775737279resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NATO 'turned their backs' on US over Iran: White House",
-        "link": "https://www.newsofbahrain.com/world/130212.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YWs3qHPEbx_2026-04-09_1775736696resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "France to Try Former Rwandan Officer Over 1994 Genocide Charges",
-        "link": "https://www.newsofbahrain.com/world/130211.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ewvSoxiDjX_2026-04-09_1775736377resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "North Korea tests latest weapons that included missiles with cluster-bomb warheads",
-        "link": "https://www.newsofbahrain.com/world/130210.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O5RxzCA6B7_2026-04-09_1775735668resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Yasmin Ullah Leads Genocide Case, Urges Muslim World to Act Against Myanmar Junta",
-        "link": "https://www.newsofbahrain.com/world/130209.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_94kPsyS8mf_2026-04-09_1775735031resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,16 +322,6 @@
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_xChYEzKNO0_2026-04-09_1775723800thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini Professionals Step Into Leadership Roles at BCFC",
-        "link": "https://www.newsofbahrain.com/bahrain/130163.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FgtoTW29ky_2026-04-09_1775723676thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -519,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 12:23:08 UTC"
+  "fetched_at": "2026-04-09 12:50:32 UTC"
 }
