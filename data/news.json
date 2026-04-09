@@ -226,52 +226,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Türkiye puts 11 on trial for LGBT 'obscenity'",
+        "link": "https://www.newsofbahrain.com/world/130214.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RxJPDCQzO1_2026-04-09_1775737279resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "NATO 'turned their backs' on US over Iran: White House",
+        "link": "https://www.newsofbahrain.com/world/130212.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YWs3qHPEbx_2026-04-09_1775736696resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "France to Try Former Rwandan Officer Over 1994 Genocide Charges",
+        "link": "https://www.newsofbahrain.com/world/130211.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ewvSoxiDjX_2026-04-09_1775736377resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "North Korea tests latest weapons that included missiles with cluster-bomb warheads",
+        "link": "https://www.newsofbahrain.com/world/130210.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O5RxzCA6B7_2026-04-09_1775735668resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Yasmin Ullah Leads Genocide Case, Urges Muslim World to Act Against Myanmar Junta",
         "link": "https://www.newsofbahrain.com/world/130209.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_94kPsyS8mf_2026-04-09_1775735031resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Italy says Israeli forces damage UN convoy vehicle in Lebanon",
-        "link": "https://www.newsofbahrain.com/world/130208.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_16yZzeRBCh_2026-04-09_1775734423resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US had 'top level' talks with China on Iran: White House",
-        "link": "https://www.newsofbahrain.com/world/130207.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tQU73TdBVj_2026-04-09_1775734214resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man rescued two weeks after Mexico mine collapse",
-        "link": "https://www.newsofbahrain.com/world/130205.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xWHOG7J5Bf_2026-04-09_1775733571resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US-Iran ceasefire done in 'full coordination' with Israel: Netanyahu",
-        "link": "https://www.newsofbahrain.com/world/130203.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ch7UJtYApI_2026-04-09_1775732683resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -519,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 11:48:11 UTC"
+  "fetched_at": "2026-04-09 12:23:08 UTC"
 }
