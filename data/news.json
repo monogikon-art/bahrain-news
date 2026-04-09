@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -33,7 +33,7 @@
       },
       {
         "title": "Bahrain International Airport begins gradual resumption of flights",
-        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZDdvbWg1LVZGZllyN3MxejRITm9ac1NDNG1CTkVsOEI0Wk5SQVdRUnBHN3E0V3dWSVNJcndoMjd4VXpwRlpsU3NPTFdsWmtLUjl4WHNlSjBCYUw4QnZfRk9JTkUwRXM2QXE0NkNTMzk5OW94d0lFOXFOYm5ubnNwZ1FDdkdzV2RmWnlIMDJnU2JLSTc2MGRBbDhqR1RfWmNBalJvWk9mX3hRZTNOVTIxMk0wczRfRnBYX1Q4a0ZQMk1jUUxxREw2XzJ1ZXFGREg3dGFVZWdWUXludmE2M0NBTHhZRXYxVnFnNU92Tnp3ZVptb3k5OHRtQzJ4eEtKeDYyemlYRTNRYzQwb0xTcUp0azV4bU5zcVhTRW83dlRIOTlONjFQMTFmZ3VtM1BMSTd4T180UGNReEFzYlp4dG5GLTVxakYwZXNUU1ZR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxORkswYndGRDVGLWhwLTVWTVRlRm52RXFOT19DcGZmZEVEaVJqb0tDak5tZllxa2dJN2FvdF8xbWxWOTRTZ3REY1l6OWpHSllVZG1rME9IWnRHNDVRS3RrNFhZMHMzbFVGWm5WTkxEZHVTc1o3Y0lnTUJwZDdnMFdqLVhSV1dPemVMa0c3OWVPNXFYYkNmQ2NyVGJBZC1Rd0JvSmRaWTNmNkJFOE10cEFTRkdORG9Cc0ctbnhzZDlPQXBYcTRPRXdOWEc0TEZpdG9VdHI0alBKTjYyc29RYW83UUNvV1NnemFIM3Vlbno0d0F5QnVyRlNDckNFMkttWnVPek04dHQ1Nno4ZmxfS0RTODFaQktKaWFRWU85Rk9VMmFjd1VSM0hBYWZxU1RiY3hGWmNPRmF5ejE2UG9lSXI2cF9lTUJHMDJZYVJMWA?oc=5",
         "published": "9 Apr 2026, 07:13 AM",
         "iso_date": "2026-04-09T07:13:28+00:00",
         "summary": "",
@@ -80,19 +80,29 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Bahrain International Airport Begins Gradual Resumption Of Flights",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0oyTVFtaU4wM0tYc0tZbW1MY1M2WF9iN3Q0ZEtMY1FQX1dhRnJSajR1Vi1fTVEwYV9nZ3djUjEwVHNxSndHQmpsRkRYVTRQNkpBSkRRc0I3YnY1SFRlaHYxTU4yWFFmaS00LXRsWVNhYlQ4YkVodU5Sdl9nSDZTaWEyWEczV0R6SzZ2dkpobUx3aF91b2NITWJJSTBuLW8?oc=5",
-        "published": "8 Apr 2026, 11:45 PM",
-        "iso_date": "2026-04-08T23:45:08+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "HRH Prince Salman calls on Iran to stop hostilities and reopen Strait of Hormuz",
+        "link": "https://www.gdnonline.com/Details/1380977/HRH-Prince-Salman-calls-on-Iran-to-stop-hostilities-and-reopen-Strait-of-Hormuz-",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409215418cp123(11)_T.jpg?20260409",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "US Embassy in Manama lifts shelter-in-place advisory",
+        "link": "https://www.gdnonline.com/Details/1380978/US-Embassy-in-Manama-lifts-shelter-in-place-advisory",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409220409update1_T.jpg?20260409",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "British Prime Minister arrives in Bahrain as part of his Gulf visit",
         "link": "https://www.gdnonline.com/Details/1380974/British-Prime-Minister-arrives-in-Bahrain-as-part-of-his-Gulf-visit",
@@ -120,26 +130,6 @@
         "iso_date": "2026-04-09T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260409/20260409075519comspace_T.jpg?20260409",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Weather Alert: Thunder and rain witnessed in Bahrain on Thursday morning",
-        "link": "https://www.gdnonline.com/Details/1380945/Weather-Alert-Thunder-and-rain-witnessed-in-Bahrain-on-Thursday-morning-",
-        "published": "9 Apr 2026",
-        "iso_date": "2026-04-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409102259websize_T.jpg?20260409",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "702 interceptions",
-        "link": "https://www.gdnonline.com/Details/1380837/702-interceptions",
-        "published": "9 Apr 2026",
-        "iso_date": "2026-04-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409013303images(1)_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -529,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 19:28:40 UTC"
+  "fetched_at": "2026-04-09 19:54:48 UTC"
 }
