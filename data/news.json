@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 18
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16blZLQ2Q0RXdWOWo5b3ZOZW1TZlZ4SHdQVEtQdnFLWDl4UlJ1WVlYQ09zdXVPLVphQzRDWmxIZTF1cHFKSnE0VWYxcEI4d2R3MllJ?oc=5",
         "published": "9 Apr 2026, 01:21 PM",
         "iso_date": "2026-04-09T13:21:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain International Airport begins gradual resumption of flights",
+        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZDdvbWg1LVZGZllyN3MxejRITm9ac1NDNG1CTkVsOEI0Wk5SQVdRUnBHN3E0V3dWSVNJcndoMjd4VXpwRlpsU3NPTFdsWmtLUjl4WHNlSjBCYUw4QnZfRk9JTkUwRXM2QXE0NkNTMzk5OW94d0lFOXFOYm5ubnNwZ1FDdkdzV2RmWnlIMDJnU2JLSTc2MGRBbDhqR1RfWmNBalJvWk9mX3hRZTNOVTIxMk0wczRfRnBYX1Q4a0ZQMk1jUUxxREw2XzJ1ZXFGREg3dGFVZWdWUXludmE2M0NBTHhZRXYxVnFnNU92Tnp3ZVptb3k5OHRtQzJ4eEtKeDYyemlYRTNRYzQwb0xTcUp0azV4bU5zcVhTRW83dlRIOTlONjFQMTFmZ3VtM1BMSTd4T180UGNReEFzYlp4dG5GLTVxakYwZXNUU1ZR?oc=5",
+        "published": "9 Apr 2026, 07:13 AM",
+        "iso_date": "2026-04-09T07:13:28+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,30 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain International Airport begins gradual resumption of flights",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckg0U1NRU2pxdkRSZGhibXl6blgxZS0tMHVEWGk5WEQwRlFybGthME1EcHc3clFpelFxZy01RlBLdjhjYWl2YTRNU0xnSXVwcHZGbG9fUWZwVXp5cENST0NJSnpYanpvd0NQbFktR09nblRaUE9tMy1iSWxPanZSanV5YTR1UnVCTDhzejVkd0FTeUlCazVOTnM3dmMtVlFfWjFjLUFBOVlDZkNjbXZMYVFaQ2xkZw?oc=5",
-        "published": "9 Apr 2026, 12:54 AM",
-        "iso_date": "2026-04-09T00:54:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
         "published": "9 Apr 2026, 02:28 AM",
         "iso_date": "2026-04-09T02:28:32+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, Spain foreign ministers exchange views on latest international developments, review longstanding ties",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSGlXMzZSUVBBdHV0TWNzZ0xwOEY0NHhpc21WYWVOYmhrOUFDVHlmNGNZb0prTWZHQ3h6QmdCVFpEUHFwMTVCYzFWUVV2VjV0VE5TMkJGMTAtbnFYZXBQVHB6d2c3dzR6WkQzWnpJMXl6c19EMUlrV3pwRVNhSlVxTkdRXzMwTUsxUWpGR09ndE9JeUY4MGlyWktOUnNERkQtWVlFSjFQWS12SnlvVk5pZTFCbDk0a0Q4WmExTzRibXVIZ2tMZEVTSUFES0plNVF2bW8zNTJGNWwtZHJOb1RDLTVRVnFQU3ZuZ3Jta0xsOTVtMVk5b3p4VjZn0gH6AUFVX3lxTE5IaVczNlJRUEF0dXRNY3NnTHA4RjQ0eGlzbVZhZU5iaGs5QUNUeWY0Y1lvSmtNZkdDeHpCZ0JUWkRQcXAxNUJjMVZRVXZWNXRUTlMyQkYxMC1ucVhlcFBUcHp3Zzd3NHpaRDNaekkxeXpzX0QxSWtXenBFU2FKVXFOR1FfMzBNSzFRakZHT2d0T0l5RjgwaXJaS05Sc0RGRC1ZWUVKMVBZLXZKeW9WTmllMUJsOTRrRDhaYTFPNGJtdUhna0xkRVNJQURLSmU1UXZtbzM1MkY1bC1kck5vVEMtNVFWcVBTdm5ncm1rTGw5NW0xWTlvenhWNmc?oc=5",
-        "published": "8 Apr 2026, 11:59 PM",
-        "iso_date": "2026-04-08T23:59:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,10 +236,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain sends letter to UN on behalf of several states on Iran’s unlawful attacks and support for armed groups and proxies",
-        "link": "https://www.newsofbahrain.com/bahrain/130251.html",
+        "title": "Woman Sentenced to 15 Years in Matthew Perry Overdose Case",
+        "link": "https://www.newsofbahrain.com/trends/130253.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZCsgzGwtKU_2026-04-09_1775761598resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Calls for Protection of Trade Routes, Reopening of Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/bahrain/130252.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xZqWlte9u4_2026-04-09_1775761076resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain sends letter to UN on behalf of several states on Iran’s unlawful attacks and support for armed groups and proxies",
+        "link": "https://www.newsofbahrain.com/bahrain/130251.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_MQfkUx6PWY_2026-04-09_1775760055resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +268,8 @@
       {
         "title": "Bahrain highlights technological risks to humanitarian personnel at UN Security Council",
         "link": "https://www.newsofbahrain.com/bahrain/130250.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_tkqveHy1VY_2026-04-09_1775759826resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,30 +278,10 @@
       {
         "title": "Bahrain Ambassador to France Holds Talks with French Parliamentarians",
         "link": "https://www.newsofbahrain.com/bahrain/130249.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0xuldbOaJ1_2026-04-09_1775759667resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "European Development Bank Announces €5 Billion Support for War-Affected Economies",
-        "link": "https://www.newsofbahrain.com/world/130248.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cD73rfyJuq_2026-04-09_1775759151resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Venezuelan Police Use Tear Gas Against Protesters Demanding Higher Wages",
-        "link": "https://www.newsofbahrain.com/world/130247.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ZXbnyd5TA_2026-04-09_1775759025resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0xuldbOaJ1_2026-04-09_1775759667resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,12 +296,22 @@
         "category": "Latest"
       },
       {
-        "title": "HH Shaikh Khalid bin Hamad Appointed to Supreme Defence Council",
-        "link": "https://www.newsofbahrain.com/bahrain/130232.html",
+        "title": "European Development Bank Announces €5 Billion Support for War-Affected Economies",
+        "link": "https://www.newsofbahrain.com/world/130248.html",
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SoWuaMFHfm_2026-04-09_1775740737thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cD73rfyJuq_2026-04-09_1775759151thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Venezuelan Police Use Tear Gas Against Protesters Demanding Higher Wages",
+        "link": "https://www.newsofbahrain.com/world/130247.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ZXbnyd5TA_2026-04-09_1775759025thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 18:48:53 UTC"
+  "fetched_at": "2026-04-09 19:28:40 UTC"
 }
