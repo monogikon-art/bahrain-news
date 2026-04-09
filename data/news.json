@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 14
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -56,6 +56,26 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHEwbkQ0cldXbWRNT051MXl5UEdBYXFIQi11Y3luY3JaRWdfNVlmV25NX2U5RXQ5Q2JPTV8wVi1oUmJacHdLQUVnYzAzd2dEWU4yNHlCMGhSeUVncE40dWUyM1NYNWdxVmliRVVBeVpUeFUzS1lIWV9Qa3QxX18td05WeUdMZ213NzZROXZZa2RuQjN0N25TLVR5NWRtYlYxVWhkaWtQMzU5Y2xodDhOVXdRUDAtaU0?oc=5",
         "published": "8 Apr 2026, 05:52 PM",
         "iso_date": "2026-04-08T17:52:42+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, Spain Foreign Ministers Discuss Regional, International Issues",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUF5N3RONl9Vb3F2N29vczlmeFJsenRjXy1qeXdXalNDS0QyOFJ5U1ZKMXBaekktaEhsNFdJY0hGZ3Z4Qy1BRm5LY1pHWmJVbnFRS0hiSUlYMjlTam9nd09zREEyZkVhRWEtVldBOG03Y3hjMTZTbzN5X1BwUlhyWUFyUWVibUlnNWFJMFJNS0toQTl1SXpHcy1yRHotTDA?oc=5",
+        "published": "8 Apr 2026, 11:45 PM",
+        "iso_date": "2026-04-08T23:45:05+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain International Airport Begins Gradual Resumption Of Flights",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0oyTVFtaU4wM0tYc0tZbW1MY1M2WF9iN3Q0ZEtMY1FQX1dhRnJSajR1Vi1fTVEwYV9nZ3djUjEwVHNxSndHQmpsRkRYVTRQNkpBSkRRc0I3YnY1SFRlaHYxTU4yWFFmaS00LXRsWVNhYlQ4YkVodU5Sdl9nSDZTaWEyWEczV0R6SzZ2dkpobUx3aF91b2NITWJJSTBuLW8?oc=5",
+        "published": "8 Apr 2026, 11:45 PM",
+        "iso_date": "2026-04-08T23:45:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -190,16 +210,6 @@
         "iso_date": "2026-04-08T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260408/20260408_005306_2_T.jpg?20260409",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Arsenal face Sporting",
-        "link": "https://www.gdnonline.com/Details/1380691/Arsenal-face-Sporting",
-        "published": "7 Apr 2026",
-        "iso_date": "2026-04-07T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260407/20260407012933edited_T.jpg?20260409",
         "source": "gdn",
         "category": "Latest"
       },
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-08 23:45:18 UTC"
+  "fetched_at": "2026-04-09 00:23:47 UTC"
 }
