@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 18
     }
   },
   "articles": {
@@ -214,7 +214,188 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "US embassy warns citizens in Iraq after 'attacks' by Iran-backed groups",
+        "link": "https://www.newsofbahrain.com/world/130186.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oM4fCHd6Be_2026-04-09_1775728516resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "European Union warns Spain and Poland over tax cuts on fuels",
+        "link": "https://www.newsofbahrain.com/world/130185.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fsLvrlS8AF_2026-04-09_1775727908resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Egyptian president sends message to Kuwait’s Amir",
+        "link": "https://www.newsofbahrain.com/world/130184.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TDyM1XwbBI_2026-04-09_1775726591resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "German shipping giant Hapag-Lloyd won't resume transiting Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/world/130183.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iOyC9g5hrW_2026-04-09_1775726552resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Drone Strike Kills 12, Including Children, in Sudan's Darfur",
+        "link": "https://www.newsofbahrain.com/world/130182.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NMRHSwVz5X_2026-04-09_1775726503resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Condemns Iranian Attacks on Saudi Energy Facilities",
+        "link": "https://www.newsofbahrain.com/bahrain/130176.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6SeoABfCYE_2026-04-09_1775725704thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Hope to Young Boy",
+        "link": "https://www.newsofbahrain.com/bahrain/130166.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_irEL35lSXj_2026-04-09_1775724136thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "New 2026–2036 strategy to transform Bahrain’s universities",
+        "link": "https://www.newsofbahrain.com/bahrain/130165.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Y5wFbpHv23_2026-04-09_1775724055thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Wheels Without Borders",
+        "link": "https://www.newsofbahrain.com/bahrain/130164.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xChYEzKNO0_2026-04-09_1775723800thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahraini Professionals Step Into Leadership Roles at BCFC",
+        "link": "https://www.newsofbahrain.com/bahrain/130163.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FgtoTW29ky_2026-04-09_1775723676thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India pulls bid to host 2028 COP33 climate summit: Indian govt source",
+        "link": "https://www.newsofbahrain.com/business/130174.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Dwz7genYuS_2026-04-09_1775725216thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Fed policymakers flag possible rate hikes",
+        "link": "https://www.newsofbahrain.com/business/130172.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wjAgvMEJlR_2026-04-09_1775725115thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Latest Anthropic AI model finds cracks in software defenses",
+        "link": "https://www.newsofbahrain.com/business/130171.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8uyjGkg5Rs_2026-04-09_1775724962thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil prices plunge, stocks surge on US-Iran ceasefire",
+        "link": "https://www.newsofbahrain.com/business/130170.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_onqIMdu3aG_2026-04-09_1775724766thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The Power of togetherness",
+        "link": "https://www.newsofbahrain.com/views/130175.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xaPVbmHEtQ_2026-04-09_1775725584thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Original ‘Charlie’s Angels’ Stars Reunite for 50th Anniversary Celebration",
+        "link": "https://www.newsofbahrain.com/views/130139.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HPqJgDS6R1_2026-04-09_1775709002thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "‘It’s not happening’: Mel B dismisses hopes of Spice Girls 30th anniversary tour",
+        "link": "https://www.newsofbahrain.com/views/130112.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrLVfJvdnp_2026-04-08_1775647822thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rules of War: Does Anyone Care?",
+        "link": "https://www.newsofbahrain.com/views/130105.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JXcImMyzYL_2026-04-08_1775646464thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -328,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 09:29:54 UTC"
+  "fetched_at": "2026-04-09 09:57:54 UTC"
 }
