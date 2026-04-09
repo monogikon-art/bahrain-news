@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 0
     }
   },
   "articles": {
@@ -214,168 +214,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Fixed Pitches and E-Booking System for Food Trucks",
-        "link": "https://www.newsofbahrain.com/bahrain/130160.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DHy3knZtFC_2026-04-09_1775723448resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘Insurance Is Not Enough’",
-        "link": "https://www.newsofbahrain.com/bahrain/130159.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x7gC9Na63q_2026-04-09_1775723382resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "2,200 Autism Cases Recorded in Bahrain Cases Reveal Need for Unified National Response",
-        "link": "https://www.newsofbahrain.com/bahrain/130158.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6YX9kEKarp_2026-04-09_1775723197resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, UAE Sign BHD 2 Billion Swap Deal",
-        "link": "https://www.newsofbahrain.com/bahrain/130157.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vV2N5ClzXq_2026-04-09_1775723097resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Two Public Employees Jailed for Stealing Passengers’ Money",
-        "link": "https://www.newsofbahrain.com/bahrain/130156.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P9un6yUQCR_2026-04-09_1775722908resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "World Bank Warns of Long-Term ‘Scarring’ From Iran War Across Middle East",
-        "link": "https://www.newsofbahrain.com/world/130154.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_r8oNYZQu5D_2026-04-09_1775722737thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Dubai Gold Prices Drop as Global Rates Ease",
-        "link": "https://www.newsofbahrain.com/world/130143.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_95NTdqIgXf_2026-04-09_1775719940thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Warns US Forces Will Remain Deployed Around Iran Until Ceasefire Terms Are Met",
-        "link": "https://www.newsofbahrain.com/world/130141.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DCtyxA83V0_2026-04-09_1775718467thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Crown Prince Mohammed bin Salman welcomes  British PM Keir Starmer  in Jeddah on Wednesday.",
-        "link": "https://www.newsofbahrain.com/world/130140.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BzfiGAVrk1_2026-04-09_1775717254thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Air India CEO Campbell Wilson resigns",
-        "link": "https://www.newsofbahrain.com/business/130118.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jCUifewIQp_2026-04-08_1775652658thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Australia, China agree to seek regional energy security",
-        "link": "https://www.newsofbahrain.com/business/130088.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4SGTYI2cVJ_2026-04-08_1775638915thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Italy’s ENI announces gas discovery off Egypt coast",
-        "link": "https://www.newsofbahrain.com/business/130087.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QLoE3SWA5O_2026-04-08_1775638733thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Supermarket deal tops BD1.7m as Tender Board opens bids",
-        "link": "https://www.newsofbahrain.com/business/130086.html",
-        "published": "8 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-08T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3KQFDLOiRt_2026-04-08_1775637941thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Original ‘Charlie’s Angels’ Stars Reunite for 50th Anniversary Celebration",
-        "link": "https://www.newsofbahrain.com/views/130139.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HPqJgDS6R1_2026-04-09_1775709002thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘It’s not happening’: Mel B dismisses hopes of Spice Girls 30th anniversary tour",
-        "link": "https://www.newsofbahrain.com/views/130112.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrLVfJvdnp_2026-04-08_1775647822thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Rules of War: Does Anyone Care?",
-        "link": "https://www.newsofbahrain.com/views/130105.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JXcImMyzYL_2026-04-08_1775646464thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -489,5 +328,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 08:33:50 UTC"
+  "fetched_at": "2026-04-09 09:29:54 UTC"
 }
