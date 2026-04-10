@@ -256,10 +256,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Myanmar junta chief sworn in as president",
-        "link": "https://www.newsofbahrain.com/world/130307.html",
+        "title": "Russia deputy FM hails 'special' relations on Cuba visit",
+        "link": "https://www.newsofbahrain.com/world/130310.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KEBfwhyTio_2026-04-10_1775820799resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "In Pakistan's mediation to end Mideast war, China may hold the key",
+        "link": "https://www.newsofbahrain.com/world/130309.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_a87SUsm0f4_2026-04-10_1775820473resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Turkey's opposition under pressure as Istanbul mayor trial drags on",
+        "link": "https://www.newsofbahrain.com/world/130308.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uyn3QiYe4r_2026-04-10_1775820198resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Myanmar junta chief sworn in as president",
+        "link": "https://www.newsofbahrain.com/world/130307.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QxCJH9P8hW_2026-04-10_1775819841resized_pic.jpg",
         "source": "newsofbahrain",
@@ -272,36 +302,6 @@
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_h2dfys8TEI_2026-04-10_1775819478resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Six killed in Colombia armed attack",
-        "link": "https://www.newsofbahrain.com/world/130305.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kLfTSCKZB2_2026-04-10_1775818060resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Vaccine gaps fuel Bangladesh's deadly measles crisis",
-        "link": "https://www.newsofbahrain.com/world/130304.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LZf32QB8Aw_2026-04-10_1775817869resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil Prices Near $100 as Hormuz Disruptions and Toll Fears Shake Markets",
-        "link": "https://www.newsofbahrain.com/world/130303.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wadS1NAVXO_2026-04-10_1775817683resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 11:19:45 UTC"
+  "fetched_at": "2026-04-10 11:46:53 UTC"
 }
