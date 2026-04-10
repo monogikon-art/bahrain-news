@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -102,13 +102,194 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "First flight takes off",
+        "link": "https://www.gdnonline.com/Details/1381031/First-flight-takes-off",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410023242gulfairtwo_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Solidarity vow",
+        "link": "https://www.gdnonline.com/Details/1381037/Solidarity-vow",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410021316hmkinghamad_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Pakistan relations in focus",
+        "link": "https://www.gdnonline.com/Details/1381036/Pakistan-relations-in-focus-",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410021030hmkinghamad_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Plans discussed",
+        "link": "https://www.gdnonline.com/Details/1381038/Plans-discussed-",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410021513hrhsalman_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "STEADFAST STANCE: HRH Prince Salman calls for Iranâs commitment to ceasefire and reopening of Strait of Hormuz",
+        "link": "https://www.gdnonline.com/Details/1381014/STEADFAST-STANCE-HRH-Prince-Salman-calls-for-Iranâs-commitment-to-ceasefire-and-reopening-of-Strait-of-Hormuz",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410011733ponetwo_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Chamber backs GCC economic integration",
+        "link": "https://www.gdnonline.com/Details/1380995/Chamber-backs-GCC-economic-integration",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002747business_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bapco Energies board reviews performance",
+        "link": "https://www.gdnonline.com/Details/1380996/Bapco-Energies-board-reviews-performance",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002106shaikhnasser_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "CBB and UAE central bank sign BD2bn currency swap deal",
+        "link": "https://www.gdnonline.com/Details/1380906/CBB-and-UAE-central-bank-sign-BD2bn-currency-swap-deal",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_230728_2_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BCCI names new board member",
+        "link": "https://www.gdnonline.com/Details/1380905/BCCI-names-new-board-member",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409004545jhvfas_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC bank revenues climb to record high despite profit dip",
+        "link": "https://www.gdnonline.com/Details/1380909/GCC-bank-revenues-climb-to-record-high-despite-profit-dip",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409005757edited12_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "WATKINS PUTS VILLA IN CHARGE: Forest secure resilient away draw at porto",
+        "link": "https://www.gdnonline.com/Details/1381039/WATKINS-PUTS-VILLA-IN-CHARGE-Forest-secure-resilient-away-draw-at-porto-",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410_022948_0_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Robertson set to leave Liverpool",
+        "link": "https://www.gdnonline.com/Details/1381024/Robertson-set-to-leave-Liverpool",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410013814degvbs_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Teams target final berths",
+        "link": "https://www.gdnonline.com/Details/1381019/Teams-target-final-berths",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410013217hhone_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "PSG seize advantage",
+        "link": "https://www.gdnonline.com/Details/1380929/PSG-seize-advantage",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409_013312_0_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "An Italian encounter",
+        "link": "https://www.gdnonline.com/Details/1380880/An-Italian-encounter",
+        "published": "9 Apr 2026",
+        "iso_date": "2026-04-09T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408212101tuscany_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
+      {
+        "title": "Myanmar junta chief sworn in as president",
+        "link": "https://www.newsofbahrain.com/world/130307.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QxCJH9P8hW_2026-04-10_1775819841resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Chinese, Taiwanese will unite, Xi tells Taiwan opposition leader",
+        "link": "https://www.newsofbahrain.com/world/130306.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h2dfys8TEI_2026-04-10_1775819478resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Six killed in Colombia armed attack",
+        "link": "https://www.newsofbahrain.com/world/130305.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kLfTSCKZB2_2026-04-10_1775818060resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Vaccine gaps fuel Bangladesh's deadly measles crisis",
         "link": "https://www.newsofbahrain.com/world/130304.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LZf32QB8Aw_2026-04-10_1775817869resized_pic.jpg",
         "source": "newsofbahrain",
@@ -121,36 +302,6 @@
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_wadS1NAVXO_2026-04-10_1775817683resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ecuador to hit Colombia with 100% tariffs as dispute intensifies",
-        "link": "https://www.newsofbahrain.com/world/130302.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TigGMfzupI_2026-04-10_1775817325resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Warns Iran Against Charging Tanker Fees Amid Hormuz Disruption",
-        "link": "https://www.newsofbahrain.com/world/130301.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pvHxGKtij2_2026-04-10_1775816897resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Keir Starmer Tours Gulf to Strengthen Delicate US-Iran Truce",
-        "link": "https://www.newsofbahrain.com/world/130300.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MrxYdQPjun_2026-04-10_1775816283resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -378,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 10:47:41 UTC"
+  "fetched_at": "2026-04-10 11:19:45 UTC"
 }
