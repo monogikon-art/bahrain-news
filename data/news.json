@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -66,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5d9IBwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5dw?oc=5",
         "published": "9 Apr 2026, 10:46 PM",
         "iso_date": "2026-04-09T22:46:26+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain has reopened its airspace after a break of over a month",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTBnM1VfMmphSnp5QXI0eGFuQ0g3Wmx1SER3Z3lIM2syRnduMEFCMkRiWmtBTXVTV1hncWhpRlF3RmRhX0owTG1qMGZDNm9kcTZQNUgxMFlmSDJtZU13YkhGSUF5c0hrU3VZRWVuOWlWLTNhUHc3S3VqQjZ5N29fYTMxaGxLS2xvTmNUZHRPVEwtNGFLazNKdklB?oc=5",
-        "published": "9 Apr 2026, 07:11 PM",
-        "iso_date": "2026-04-09T19:11:20+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -529,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 18:47:31 UTC"
+  "fetched_at": "2026-04-10 19:20:13 UTC"
 }
