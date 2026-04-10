@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -184,6 +184,26 @@
         "category": "Latest"
       },
       {
+        "title": "Al Ahly keeper El Shenawy banned four games for striking referee",
+        "link": "https://www.gdnonline.com/Details/1381063/Al-Ahly-keeper-El-Shenawy-banned-four-games-for-striking-referee",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410174517shen_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Reports: FC Cincinnati pursuing Brazil star Neymar",
+        "link": "https://www.gdnonline.com/Details/1381064/Reports-FC-Cincinnati-pursuing-Brazil-star-Neymar",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410174943nr_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "WATKINS PUTS VILLA IN CHARGE: Forest secure resilient away draw at porto",
         "link": "https://www.gdnonline.com/Details/1381039/WATKINS-PUTS-VILLA-IN-CHARGE-Forest-secure-resilient-away-draw-at-porto-",
         "published": "10 Apr 2026",
@@ -210,16 +230,6 @@
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260410/20260410013217hhone_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "PSG seize advantage",
-        "link": "https://www.gdnonline.com/Details/1380929/PSG-seize-advantage",
-        "published": "9 Apr 2026",
-        "iso_date": "2026-04-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409_013312_0_T.jpg?20260410",
         "source": "gdn",
         "category": "Latest"
       },
@@ -509,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 15:18:50 UTC"
+  "fetched_at": "2026-04-10 15:47:53 UTC"
 }
