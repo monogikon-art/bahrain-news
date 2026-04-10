@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 18
     }
   },
   "articles": {
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain King, crown prince meet UK PM Keir Starmer to discuss regional developments",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxcWw4NURwX2hpbnZjeUpWcllzaHBOeTB5UDQ3Z2x5azMzRzFCMnFZa185VWRXOS04RGhIUjFVSDE4a3RrNnlsbDBZd0hZMEptb2xCSjZqMGJWZC1JRlE?oc=5",
-        "published": "9 Apr 2026, 07:47 PM",
-        "iso_date": "2026-04-09T19:47:49+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain International Airport begins gradual resumption of flights",
         "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZDdvbWg1LVZGZllyN3MxejRITm9ac1NDNG1CTkVsOEI0Wk5SQVdRUnBHN3E0V3dWSVNJcndoMjd4VXpwRlpsU3NPTFdsWmtLUjl4WHNlSjBCYUw4QnZfRk9JTkUwRXM2QXE0NkNTMzk5OW94d0lFOXFOYm5ubnNwZ1FDdkdzV2RmWnlIMDJnU2JLSTc2MGRBbDhqR1RfWmNBalJvWk9mX3hRZTNOVTIxMk0wczRfRnBYX1Q4a0ZQMk1jUUxxREw2XzJ1ZXFGREg3dGFVZWdWUXludmE2M0NBTHhZRXYxVnFnNU92Tnp3ZVptb3k5OHRtQzJ4eEtKeDYyemlYRTNRYzQwb0xTcUp0azV4bU5zcVhTRW83dlRIOTlONjFQMTFmZ3VtM1BMSTd4T180UGNReEFzYlp4dG5GLTVxakYwZXNUU1ZR?oc=5",
         "published": "9 Apr 2026, 07:13 AM",
@@ -86,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5d9IBwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5dw?oc=5",
         "published": "9 Apr 2026, 10:46 PM",
         "iso_date": "2026-04-09T22:46:26+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain reopens airspace after US-Iran ceasefire",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYU4tWkE5QXplZ1pmMmp5NWFlM2FxVUl2d1hlTUJlNjd6R1V6U0xUTE9fc2NJMEo5QWFIcHRQSGlDWU1heHlSNWpYeFdLRmM2MldBTTQ5NTZBSmMwMGNUMzYxZU1td3lJcGZWd19fd1N2dWkwVXB5bkNSejRkV2pEY2l4eVjSAZQBQVVfeXFMTWFocjAtNXRKOV8tZXBUa1Nob2FnUk9DV0lvaHRfS1dIUzdvVnNIbm1JYm1abDE2OGotWS1yZE9ma0R0ZEFTS0xGNkpUN3VpeUhnTDJGTkd6SDFLekdNcHpldlBLT2ItSEVDa1lCTUFIZTg4TFcwVzdONC1WaV9xSENxcjl3aG0wS2pqTzcwMW45YjBXSw?oc=5",
-        "published": "9 Apr 2026, 04:57 AM",
-        "iso_date": "2026-04-09T04:57:40+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,42 +246,102 @@
     ],
     "newsofbahrain": [
       {
-        "title": "NHRI Monitors Impact of Iranian Aggression on Rights",
-        "link": "https://www.newsofbahrain.com/bahrain/130270.html",
+        "title": "No New Air Threats Detected Over UAE",
+        "link": "https://www.newsofbahrain.com/world/130287.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tah1byjROq_2026-04-10_1775792337resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WV6BvXo2hN_2026-04-10_1775795501resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Iraq Religious Body Condemns Attacks on Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/130269.html",
+        "title": "UAE Calls for Nationwide Flag Display in Show of Unity",
+        "link": "https://www.newsofbahrain.com/world/130285.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Jk5DyL4l6u_2026-04-10_1775792162resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o8DJ2j0Ou1_2026-04-10_1775795185resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Push for Safe Navigation: Bahrain Gains Arab Backing",
-        "link": "https://www.newsofbahrain.com/bahrain/130268.html",
+        "title": "Sultan of Oman receives written message from South Korean President",
+        "link": "https://www.newsofbahrain.com/world/130284.html",
         "published": "10 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YcSUde8NwR_2026-04-10_1775791631resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6Rk4qWso8e_2026-04-10_1775795032resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Firm Shut, Asian Owner Jailed Over Expired Food Scam",
-        "link": "https://www.newsofbahrain.com/bahrain/130267.html",
+        "title": "Oman Sultan, Macron Discuss Regional Ceasefire Efforts",
+        "link": "https://www.newsofbahrain.com/world/130283.html",
         "published": "10 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uIrElDMjPO_2026-04-10_1775791533resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KaGQYZ94Jl_2026-04-10_1775794975resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC calls for lasting solution to end regional crisis",
+        "link": "https://www.newsofbahrain.com/world/130282.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_19JZS2Bz8V_2026-04-10_1775794778resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Road overhaul and parking expansion",
+        "link": "https://www.newsofbahrain.com/bahrain/130280.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i8CRKUmGhT_2026-04-10_1775794583thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shura to Vote on Prison and Inmate Work Law Changes",
+        "link": "https://www.newsofbahrain.com/bahrain/130279.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VnHOwSUifD_2026-04-10_1775794198thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Casino Garden Visitors May Pay for Selected Services",
+        "link": "https://www.newsofbahrain.com/bahrain/130278.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aHVzfO2Zgn_2026-04-10_1775793803thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Councils Address Infrastructure Needs and Resident Complaints",
+        "link": "https://www.newsofbahrain.com/bahrain/130277.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hdyVfEzBak_2026-04-10_1775793616thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Air Traffic Restarts",
+        "link": "https://www.newsofbahrain.com/bahrain/130276.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WBpvjzfxI6_2026-04-10_1775793270thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -311,57 +351,7 @@
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WwkqJh2YNr_2026-04-10_1775791252resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, UK Discuss Security and Economic Risks of Hormuz Crisis",
-        "link": "https://www.newsofbahrain.com/bahrain/130252.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xZqWlte9u4_2026-04-09_1775761076thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "European Development Bank Announces €5 Billion Support for War-Affected Economies",
-        "link": "https://www.newsofbahrain.com/world/130248.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cD73rfyJuq_2026-04-09_1775759151thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Venezuelan Police Use Tear Gas Against Protesters Demanding Higher Wages",
-        "link": "https://www.newsofbahrain.com/world/130247.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ZXbnyd5TA_2026-04-09_1775759025thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Mexico Considers Fracking Plan to Cut Reliance on US Gas",
-        "link": "https://www.newsofbahrain.com/world/130246.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5blIXaVT23_2026-04-09_1775758626thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "France's Macron in Rome for first meeting with Pope Leo",
-        "link": "https://www.newsofbahrain.com/world/130245.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nFHzeylgQh_2026-04-09_1775758157thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WwkqJh2YNr_2026-04-10_1775791252thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 03:40:15 UTC"
+  "fetched_at": "2026-04-10 04:59:51 UTC"
 }
