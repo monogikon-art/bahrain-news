@@ -104,42 +104,22 @@
     ],
     "gdn": [
       {
-        "title": "First flight takes off",
-        "link": "https://www.gdnonline.com/Details/1381031/First-flight-takes-off",
+        "title": "King highlights strong Bahrain-UK partnership",
+        "link": "https://www.gdnonline.com/Details/1381015/King-highlights-strong-Bahrain-UK-partnership",
         "published": "10 Apr 2026",
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410023242gulfairtwo_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410011444poneone_T.jpg?20260410",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Solidarity vow",
-        "link": "https://www.gdnonline.com/Details/1381037/Solidarity-vow",
+        "title": "No missiles or drones detected over Bahrainâs airspace in last 24 hours",
+        "link": "https://www.gdnonline.com/Details/1381053/No-missiles-or-drones-detected-over-Bahrainâs-airspace-in-last-24-hours",
         "published": "10 Apr 2026",
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410021316hmkinghamad_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Pakistan relations in focus",
-        "link": "https://www.gdnonline.com/Details/1381036/Pakistan-relations-in-focus-",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410021030hmkinghamad_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Plans discussed",
-        "link": "https://www.gdnonline.com/Details/1381038/Plans-discussed-",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410021513hrhsalman_T.jpg?20260410",
+        "image": "",
         "source": "gdn",
         "category": "Latest"
       },
@@ -150,6 +130,26 @@
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260410/20260410011733ponetwo_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Anti-inflation allowance benefits 138,909 citizens",
+        "link": "https://www.gdnonline.com/Details/1380983/Anti-inflation-allowance-benefits-138,909-citizens",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409230808osama1_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "First flight takes off",
+        "link": "https://www.gdnonline.com/Details/1381031/First-flight-takes-off",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410023242gulfairtwo_T.jpg?20260410",
         "source": "gdn",
         "category": "Latest"
       },
@@ -256,10 +256,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Advisor to the Supreme Leader of IranKamal Kharazi Dies After Tehran Airstrike",
-        "link": "https://www.newsofbahrain.com/world/130314.html",
+        "title": "Hon Kong sees 'sharp rise' in illegal fuel trading",
+        "link": "https://www.newsofbahrain.com/world/130316.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FAcrG2M1d3_2026-04-10_1775825159resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Food insecurity surging in Lebanon, UN warns",
+        "link": "https://www.newsofbahrain.com/world/130315.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tUQeopnP9q_2026-04-10_1775824677resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Advisor to the Supreme Leader of IranKamal Kharazi Dies After Tehran Airstrike",
+        "link": "https://www.newsofbahrain.com/world/130314.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_peBOF8VwSP_2026-04-10_1775822821resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +288,8 @@
       {
         "title": "Qatar and UK Discuss Regional Stability Following U.S.-Iran Ceasefire",
         "link": "https://www.newsofbahrain.com/world/130313.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_taSK9wZ6GM_2026-04-10_1775822765resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,30 +298,10 @@
       {
         "title": "Thousands denied entry since EU's automated border system rollout",
         "link": "https://www.newsofbahrain.com/world/130312.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KD7bSFvrZo_2026-04-10_1775822463resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pakistan Introduces Visa-on-Arrival Ahead of Key Iran-US Talks in Islamabad",
-        "link": "https://www.newsofbahrain.com/world/130311.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5BVs3Fv2Ih_2026-04-10_1775822125resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russia deputy FM hails 'special' relations on Cuba visit",
-        "link": "https://www.newsofbahrain.com/world/130310.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KEBfwhyTio_2026-04-10_1775820799resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KD7bSFvrZo_2026-04-10_1775822463resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 12:18:31 UTC"
+  "fetched_at": "2026-04-10 12:48:21 UTC"
 }
