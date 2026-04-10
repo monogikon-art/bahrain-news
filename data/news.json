@@ -4,19 +4,19 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 18
     }
   },
   "articles": {
@@ -42,20 +42,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain reopens airspace after US-Iran ceasefire - ABS",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUM5UUFUZHNhZy1ZWkNPb0I3bkdZRHZtOVdSc3pEZm55QVpKckZUTHZMcUQ0VV9UTld4cWtFNmFfMlM0QmRkbG1VNFpOalI0azdDR3hCSWNrbnpnTmdaMldyUlZTUEhiRFFkRHl4S3ZHR2tEOXUwS0tvbTZqUjlmeEstdncyRTMwOGFmZy1EdHZLTzR2WlFiZUFSN2hQZw?oc=5",
-        "published": "9 Apr 2026, 07:00 AM",
-        "iso_date": "2026-04-09T07:00:07+00:00",
+        "title": "Bahrain International Airport begins gradual resumption of flights",
+        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZDdvbWg1LVZGZllyN3MxejRITm9ac1NDNG1CTkVsOEI0Wk5SQVdRUnBHN3E0V3dWSVNJcndoMjd4VXpwRlpsU3NPTFdsWmtLUjl4WHNlSjBCYUw4QnZfRk9JTkUwRXM2QXE0NkNTMzk5OW94d0lFOXFOYm5ubnNwZ1FDdkdzV2RmWnlIMDJnU2JLSTc2MGRBbDhqR1RfWmNBalJvWk9mX3hRZTNOVTIxMk0wczRfRnBYX1Q4a0ZQMk1jUUxxREw2XzJ1ZXFGREg3dGFVZWdWUXludmE2M0NBTHhZRXYxVnFnNU92Tnp3ZVptb3k5OHRtQzJ4eEtKeDYyemlYRTNRYzQwb0xTcUp0azV4bU5zcVhTRW83dlRIOTlONjFQMTFmZ3VtM1BMSTd4T180UGNReEFzYlp4dG5GLTVxakYwZXNUU1ZR?oc=5",
+        "published": "9 Apr 2026, 07:13 AM",
+        "iso_date": "2026-04-09T07:13:28+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain International Airport begins gradual resumption of flights",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckg0U1NRU2pxdkRSZGhibXl6blgxZS0tMHVEWGk5WEQwRlFybGthME1EcHc3clFpelFxZy01RlBLdjhjYWl2YTRNU0xnSXVwcHZGbG9fUWZwVXp5cENST0NJSnpYanpvd0NQbFktR09nblRaUE9tMy1iSWxPanZSanV5YTR1UnVCTDhzejVkd0FTeUlCazVOTnM3dmMtVlFfWjFjLUFBOVlDZkNjbXZMYVFaQ2xkZw?oc=5",
-        "published": "9 Apr 2026, 12:54 AM",
-        "iso_date": "2026-04-09T00:54:49+00:00",
+        "title": "Bahrain reopens airspace after US-Iran ceasefire - ABS",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUM5UUFUZHNhZy1ZWkNPb0I3bkdZRHZtOVdSc3pEZm55QVpKckZUTHZMcUQ0VV9UTld4cWtFNmFfMlM0QmRkbG1VNFpOalI0azdDR3hCSWNrbnpnTmdaMldyUlZTUEhiRFFkRHl4S3ZHR2tEOXUwS0tvbTZqUjlmeEstdncyRTMwOGFmZy1EdHZLTzR2WlFiZUFSN2hQZw?oc=5",
+        "published": "9 Apr 2026, 07:00 AM",
+        "iso_date": "2026-04-09T07:00:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -76,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzZwamlycDVudW9tYWxIMGJseTlCeExVS1haRGM4a0NOWTFQUl96QTNOXzM1UlpSZXFZQVpjVTV2Q19jSHBPZ2NTeWwyVU1DMks3S2N1bFVTNG9NMlBSTnJDWDNqSExVbHBkY1pzdWdpRzZySmZ6ZjRLNkkzZWQ0RzR2dFdjVXZuR3JoNUNxeXRhWGhHdUhJSnNsVUpiZw?oc=5",
         "published": "9 Apr 2026, 01:01 AM",
         "iso_date": "2026-04-09T01:01:39+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
-        "published": "9 Apr 2026, 01:29 PM",
-        "iso_date": "2026-04-09T13:29:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -204,26 +194,6 @@
         "category": "Latest"
       },
       {
-        "title": "Arsenal win in late surge",
-        "link": "https://www.gdnonline.com/Details/1380799/Arsenal-win-in-late-surge",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408013807gunner_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Maguire renews contract with United",
-        "link": "https://www.gdnonline.com/Details/1380792/Maguire-renews-contract-with-United-",
-        "published": "8 Apr 2026",
-        "iso_date": "2026-04-08T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408_005306_2_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "An Italian encounter",
         "link": "https://www.gdnonline.com/Details/1380880/An-Italian-encounter",
         "published": "9 Apr 2026",
@@ -234,7 +204,188 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Woman Sentenced to 15 Years in Matthew Perry Overdose Case",
+        "link": "https://www.newsofbahrain.com/trends/130253.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZCsgzGwtKU_2026-04-09_1775761598resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, UK Discuss Security and Economic Risks of Hormuz Crisis",
+        "link": "https://www.newsofbahrain.com/bahrain/130252.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xZqWlte9u4_2026-04-09_1775761076resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain sends letter to UN on behalf of several states on Iran’s unlawful attacks and support for armed groups and proxies",
+        "link": "https://www.newsofbahrain.com/bahrain/130251.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MQfkUx6PWY_2026-04-09_1775760055resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain highlights technological risks to humanitarian personnel at UN Security Council",
+        "link": "https://www.newsofbahrain.com/bahrain/130250.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tkqveHy1VY_2026-04-09_1775759826resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Ambassador to France Holds Talks with French Parliamentarians",
+        "link": "https://www.newsofbahrain.com/bahrain/130249.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0xuldbOaJ1_2026-04-09_1775759667resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Air Traffic Restarts: Inspection confirms operational readiness",
+        "link": "https://www.newsofbahrain.com/bahrain/130243.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NIdjSvmyEG_2026-04-09_1775754737thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "European Development Bank Announces €5 Billion Support for War-Affected Economies",
+        "link": "https://www.newsofbahrain.com/world/130248.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cD73rfyJuq_2026-04-09_1775759151thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Venezuelan Police Use Tear Gas Against Protesters Demanding Higher Wages",
+        "link": "https://www.newsofbahrain.com/world/130247.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ZXbnyd5TA_2026-04-09_1775759025thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Mexico Considers Fracking Plan to Cut Reliance on US Gas",
+        "link": "https://www.newsofbahrain.com/world/130246.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5blIXaVT23_2026-04-09_1775758626thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "France's Macron in Rome for first meeting with Pope Leo",
+        "link": "https://www.newsofbahrain.com/world/130245.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nFHzeylgQh_2026-04-09_1775758157thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India pulls bid to host 2028 COP33 climate summit: Indian govt source",
+        "link": "https://www.newsofbahrain.com/business/130174.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Dwz7genYuS_2026-04-09_1775725216thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Fed policymakers flag possible rate hikes",
+        "link": "https://www.newsofbahrain.com/business/130172.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wjAgvMEJlR_2026-04-09_1775725115thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Latest Anthropic AI model finds cracks in software defenses",
+        "link": "https://www.newsofbahrain.com/business/130171.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8uyjGkg5Rs_2026-04-09_1775724962thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil prices plunge, stocks surge on US-Iran ceasefire",
+        "link": "https://www.newsofbahrain.com/business/130170.html",
+        "published": "9 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-09T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_onqIMdu3aG_2026-04-09_1775724766thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The Power of togetherness",
+        "link": "https://www.newsofbahrain.com/views/130175.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xaPVbmHEtQ_2026-04-09_1775725584thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Original ‘Charlie’s Angels’ Stars Reunite for 50th Anniversary Celebration",
+        "link": "https://www.newsofbahrain.com/views/130139.html",
+        "published": "9 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-09T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HPqJgDS6R1_2026-04-09_1775709002thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "‘It’s not happening’: Mel B dismisses hopes of Spice Girls 30th anniversary tour",
+        "link": "https://www.newsofbahrain.com/views/130112.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrLVfJvdnp_2026-04-08_1775647822thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rules of War: Does Anyone Care?",
+        "link": "https://www.newsofbahrain.com/views/130105.html",
+        "published": "8 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-08T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JXcImMyzYL_2026-04-08_1775646464thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -348,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-09 23:45:27 UTC"
+  "fetched_at": "2026-04-10 00:27:30 UTC"
 }
