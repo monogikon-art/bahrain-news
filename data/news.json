@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -62,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain reports intercepting 194 missiles, 515 drones since attacks began",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16blZLQ2Q0RXdWOWo5b3ZOZW1TZlZ4SHdQVEtQdnFLWDl4UlJ1WVlYQ09zdXVPLVphQzRDWmxIZTF1cHFKSnE0VWYxcEI4d2R3MllJ?oc=5",
-        "published": "9 Apr 2026, 01:21 PM",
-        "iso_date": "2026-04-09T13:21:48+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Defence Force announces interception of 194 missiles, 515 drones since onset of Iranian aggression",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5d9IBwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5dw?oc=5",
         "published": "9 Apr 2026, 10:46 PM",
@@ -86,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTBnM1VfMmphSnp5QXI0eGFuQ0g3Wmx1SER3Z3lIM2syRnduMEFCMkRiWmtBTXVTV1hncWhpRlF3RmRhX0owTG1qMGZDNm9kcTZQNUgxMFlmSDJtZU13YkhGSUF5c0hrU3VZRWVuOWlWLTNhUHc3S3VqQjZ5N29fYTMxaGxLS2xvTmNUZHRPVEwtNGFLazNKdklB?oc=5",
         "published": "9 Apr 2026, 07:11 PM",
         "iso_date": "2026-04-09T19:11:20+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
-        "published": "9 Apr 2026, 01:29 PM",
-        "iso_date": "2026-04-09T13:29:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,52 +236,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Hon Kong sees 'sharp rise' in illegal fuel trading",
-        "link": "https://www.newsofbahrain.com/world/130316.html",
+        "title": "Starmer says NATO in US's 'interests' as Gulf tour ends",
+        "link": "https://www.newsofbahrain.com/world/130323.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FAcrG2M1d3_2026-04-10_1775825159resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DaxWISp4Ew_2026-04-10_1775827487resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Food insecurity surging in Lebanon, UN warns",
-        "link": "https://www.newsofbahrain.com/world/130315.html",
+        "title": "Cannes Film Festival: the 21 films vying for the top prize",
+        "link": "https://www.newsofbahrain.com/trends/130322.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tUQeopnP9q_2026-04-10_1775824677resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JzCYAqRGV4_2026-04-10_1775827449resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Advisor to the Supreme Leader of IranKamal Kharazi Dies After Tehran Airstrike",
-        "link": "https://www.newsofbahrain.com/world/130314.html",
+        "title": "Vance leaves for Iran peace talks, hopes for 'positive' outcome",
+        "link": "https://www.newsofbahrain.com/world/130321.html",
         "published": "10 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_peBOF8VwSP_2026-04-10_1775822821resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eMk6JrCbL1_2026-04-10_1775827061resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Qatar and UK Discuss Regional Stability Following U.S.-Iran Ceasefire",
-        "link": "https://www.newsofbahrain.com/world/130313.html",
+        "title": "NASA's Artemis 2 astronauts prepare to return to Earth today",
+        "link": "https://www.newsofbahrain.com/world/130320.html",
         "published": "10 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_taSK9wZ6GM_2026-04-10_1775822765resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_V1BRoAu5i0_2026-04-10_1775826633resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Thousands denied entry since EU's automated border system rollout",
-        "link": "https://www.newsofbahrain.com/world/130312.html",
+        "title": "China FM calls for closer ties with North Korea in Kim meeting",
+        "link": "https://www.newsofbahrain.com/world/130319.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KD7bSFvrZo_2026-04-10_1775822463resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wm14SleoQY_2026-04-10_1775826233resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 12:48:21 UTC"
+  "fetched_at": "2026-04-10 13:32:58 UTC"
 }
