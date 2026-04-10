@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 16
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain intercepts, destroys 188 missiles, 477 drones since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzE4b1U1c0RJZ1NiQWx3bUoxUWpMMGpLSDNlNzRWcExtejBNYVB6ZjZLTXdONktyOUVSUFlqWDVMaGxMajU5dlQ3azNqTFk0eUw2OXJ6MFBJYWQ3di1vX2U4b1VENlRVUXplbGhHUmZ4akJmWWxCbm9RME9SSTIwZzVqOGRDQU1vd0tvUFhhek9YQkJIQzlVbnFuNGFscTloUzBtWm16OElpWk5ONFBfOFZpRkw0elZfcF90UWpRTldzRzlUbXIzTFF5SQ?oc=5",
+        "published": "10 Apr 2026, 07:00 AM",
+        "iso_date": "2026-04-10T07:00:47+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "UAE president, Bahraini crown prince discuss Gulf security with UK PM",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0xxUVdIa2d1Rms1UXdCRlBTcHdsZEhWZi1iY2VNSmhGVGthTVk0RWROQVFaeVRFUVREVXNLOXBQak5raHJ2cXBBbnM3aFo2WnRueTE3MUxpSzAwWkhTUTY3UU8tcFVPU1hpbFowSEZrTDkzR2d2dzdkSFJSSTFDaUVkdXpiNWZaSDE2cVp0VlROcDg2elQydEdMNUYwaGJQNTJTYVdKXzJNSWo4M0Rqd1NSUGpwZ2xSdXBEcHJSTHpGem94YkR4Y1M0ajhPVk0?oc=5",
@@ -246,6 +256,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Dubai Police Help Dismantle Notorious Scottish Crime Syndicate in Global Operation",
+        "link": "https://www.newsofbahrain.com/world/130297.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9in1LlPhHS_2026-04-10_1775810664resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Israel’s Actions in Lebanon Cast Doubt Over US-Iran Ceasefire Progress",
         "link": "https://www.newsofbahrain.com/world/130296.html",
         "published": "10 Apr 2026, 09:22 AM",
@@ -258,8 +278,8 @@
       {
         "title": "Katy Perry shares new photo with Justin Trudeau, calls it “rewarding karma”",
         "link": "https://www.newsofbahrain.com/trends/130295.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9HETIOpxdM_2026-04-10_1775805322resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,20 +298,10 @@
       {
         "title": "EU says strikes on Lebanon endangering US-Iran ceasefire",
         "link": "https://www.newsofbahrain.com/world/130293.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bO2a6UFtjh_2026-04-10_1775804837resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Israel Slams Pakistan Minister’s Remarks, Questions Role in Middle East Mediation",
-        "link": "https://www.newsofbahrain.com/world/130291.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u4Eb2zZ1ya_2026-04-10_1775803586resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bO2a6UFtjh_2026-04-10_1775804837resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -402,26 +412,6 @@
         "iso_date": "2026-04-09T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_HPqJgDS6R1_2026-04-09_1775709002thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘It’s not happening’: Mel B dismisses hopes of Spice Girls 30th anniversary tour",
-        "link": "https://www.newsofbahrain.com/views/130112.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrLVfJvdnp_2026-04-08_1775647822thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Rules of War: Does Anyone Care?",
-        "link": "https://www.newsofbahrain.com/views/130105.html",
-        "published": "8 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-08T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JXcImMyzYL_2026-04-08_1775646464thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -539,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 08:33:14 UTC"
+  "fetched_at": "2026-04-10 09:29:20 UTC"
 }
