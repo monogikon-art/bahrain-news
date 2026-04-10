@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,16 +42,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Defence Force announces interception of 194 missiles, 515 drones since onset of Iranian aggression",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5d9IBwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5dw?oc=5",
-        "published": "9 Apr 2026, 10:46 PM",
-        "iso_date": "2026-04-09T22:46:26+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain, UK discuss regional developments, impact on global economy",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUl9kWXEzR3U5dm0zRk5FdmVOVGhPZkRVcS00b2xNWlBZci1FOVB5UHRRWkh2MWU5UDYxRm1NNmFkOVFkRUg4NXpmRExvSkVLSEtHMWlfOU1ZV3Mycnl6SjdjcHdSZzFsbFlmQUlDTVRYcm9Mal8tdGdOVTI5WjR3Y3E5S1ZmdGxPb1NsT2xPWVdNLXZWbEliWUVtSHZfNGtjWUZTNHF1U1NVS3ZENi1JMA?oc=5",
         "published": "10 Apr 2026, 02:58 AM",
@@ -62,10 +52,30 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain Defence Force announces interception of 194 missiles, 515 drones since onset of Iranian aggression",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5d9IBwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5dw?oc=5",
+        "published": "9 Apr 2026, 10:46 PM",
+        "iso_date": "2026-04-09T22:46:26+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Israel will continue to strike Hezbollah Netanyahu - The Financial Express | First Financial Daily of Bangladesh",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUlpVHdkSTBpb3E4Q1I5SlJ5Y1FSZERVSFhtTS0xbm51NE44cTdPZHJqcExmVTI2M0h5ZmtWZG02NXdRbUM4REsyeWtsUTVxSS05TGF4R3Y2LW9TT1hVWG9xb2xuMTFva3ZhcUhCYnhLamxCLWd3eEl5bElYWno2cmlxQ2ZBWXhJWlktSjlxWUhKbDhYVmQ0VUJxSFBkWHVsbDljMzFsUVI3RHFy0gG4AUFVX3lxTE80M2JyOElLandGZW82VVBFcFU0bTVtM0V3blQ4UGFTcG55WmIybDJBLWlhMEd3UEpLWGRZOW0xUGl2b2k4ZHNWV2xNb2g5dGpsbHJZNnRaMEwyT1VncjBWRWlBOUxrQ3FrUkVMQWtXOU5lUHMzckd6dU9ZbXd2R2tRWnJzdnVsTFR2NnNHSWh3cnhhNm5kdkF6amFnQmxzX0tFeHRhdm5tb1BlYzZzcUpmcHFTdXBmelY?oc=5",
         "published": "10 Apr 2026, 12:51 AM",
         "iso_date": "2026-04-10T00:51:03+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "'Churchill would have sacked the lot of them': Donald Trump mocks Britain's 'toy aircraft carriers'",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkdiTzlZMkhXcTJMMjZWc0hGaEppUk54djY0LVp3UVhzSUh3V20xMzVucm9fVVA2bUh3YXo0M1lDM2wwcFZwRDl3TTZ6cXpHN2JXY194YWJaWGhWemlMWGhjcVJyLUpJQ2J5dTNwMmFWOURzaWhhN0RtYi1UdGJFZURKbVN2NkJMc0xmeEJlN2xqRkVldjBJRjRWSEdnRDNMV0dPRy0yQnVtVUZtR1hOVmdwQmFZbUF0ZnItUVVPbml5SVJ5QVVXTGxGdFYwVmtQUjF0WEFFa255QQ?oc=5",
+        "published": "10 Apr 2026, 07:42 AM",
+        "iso_date": "2026-04-10T07:42:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -519,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 21:12:30 UTC"
+  "fetched_at": "2026-04-10 21:45:37 UTC"
 }
