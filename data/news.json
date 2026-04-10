@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "UAE president, Bahraini crown prince discuss Gulf security with UK PM",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0xxUVdIa2d1Rms1UXdCRlBTcHdsZEhWZi1iY2VNSmhGVGthTVk0RWROQVFaeVRFUVREVXNLOXBQak5raHJ2cXBBbnM3aFo2WnRueTE3MUxpSzAwWkhTUTY3UU8tcFVPU1hpbFowSEZrTDkzR2d2dzdkSFJSSTFDaUVkdXpiNWZaSDE2cVp0VlROcDg2elQydEdMNUYwaGJQNTJTYVdKXzJNSWo4M0Rqd1NSUGpwZ2xSdXBEcHJSTHpGem94YkR4Y1M0ajhPVk0?oc=5",
+        "published": "10 Apr 2026, 04:49 AM",
+        "iso_date": "2026-04-10T04:49:18+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain king, crown prince meet UK PM Keir Starmer to discuss regional developments",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtaHJDN0ZtcThyS295WGtKc2NNVmt2R3Z5NVFoaHlvWktNYlBJamZwQ1hsbC1sSEFuYVh4aTY2TlJoTmd1dGRzaUVCVWp0N0xJc2RF?oc=5",
@@ -246,10 +256,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "No New Air Threats Detected Over UAE",
-        "link": "https://www.newsofbahrain.com/world/130287.html",
+        "title": "Australian couple moves house from wrong plot",
+        "link": "https://www.newsofbahrain.com/world/130289.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0RbE7xhFzv_2026-04-10_1775802886resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Melania Trump denies any links to Epstein abuse",
+        "link": "https://www.newsofbahrain.com/world/130288.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZwXbEMP2v0_2026-04-10_1775802818resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "No New Air Threats Detected Over UAE",
+        "link": "https://www.newsofbahrain.com/world/130287.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WV6BvXo2hN_2026-04-10_1775795501resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +288,8 @@
       {
         "title": "UAE Calls for Nationwide Flag Display in Show of Unity",
         "link": "https://www.newsofbahrain.com/world/130285.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_o8DJ2j0Ou1_2026-04-10_1775795185resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,30 +298,10 @@
       {
         "title": "Sultan of Oman receives written message from South Korean President",
         "link": "https://www.newsofbahrain.com/world/130284.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6Rk4qWso8e_2026-04-10_1775795032resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oman Sultan, Macron Discuss Regional Ceasefire Efforts",
-        "link": "https://www.newsofbahrain.com/world/130283.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KaGQYZ94Jl_2026-04-10_1775794975resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC calls for lasting solution to end regional crisis",
-        "link": "https://www.newsofbahrain.com/world/130282.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_19JZS2Bz8V_2026-04-10_1775794778resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6Rk4qWso8e_2026-04-10_1775795032resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 05:48:36 UTC"
+  "fetched_at": "2026-04-10 06:38:40 UTC"
 }
