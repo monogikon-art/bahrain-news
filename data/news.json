@@ -256,52 +256,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Advisor to the Supreme Leader of IranKamal Kharazi Dies After Tehran Airstrike",
+        "link": "https://www.newsofbahrain.com/world/130314.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_peBOF8VwSP_2026-04-10_1775822821resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar and UK Discuss Regional Stability Following U.S.-Iran Ceasefire",
+        "link": "https://www.newsofbahrain.com/world/130313.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_taSK9wZ6GM_2026-04-10_1775822765resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Thousands denied entry since EU's automated border system rollout",
+        "link": "https://www.newsofbahrain.com/world/130312.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KD7bSFvrZo_2026-04-10_1775822463resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pakistan Introduces Visa-on-Arrival Ahead of Key Iran-US Talks in Islamabad",
+        "link": "https://www.newsofbahrain.com/world/130311.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5BVs3Fv2Ih_2026-04-10_1775822125resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Russia deputy FM hails 'special' relations on Cuba visit",
         "link": "https://www.newsofbahrain.com/world/130310.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_KEBfwhyTio_2026-04-10_1775820799resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "In Pakistan's mediation to end Mideast war, China may hold the key",
-        "link": "https://www.newsofbahrain.com/world/130309.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_a87SUsm0f4_2026-04-10_1775820473resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Turkey's opposition under pressure as Istanbul mayor trial drags on",
-        "link": "https://www.newsofbahrain.com/world/130308.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uyn3QiYe4r_2026-04-10_1775820198resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Myanmar junta chief sworn in as president",
-        "link": "https://www.newsofbahrain.com/world/130307.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QxCJH9P8hW_2026-04-10_1775819841resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Chinese, Taiwanese will unite, Xi tells Taiwan opposition leader",
-        "link": "https://www.newsofbahrain.com/world/130306.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_h2dfys8TEI_2026-04-10_1775819478resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 11:46:53 UTC"
+  "fetched_at": "2026-04-10 12:18:31 UTC"
 }
