@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -76,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTBnM1VfMmphSnp5QXI0eGFuQ0g3Wmx1SER3Z3lIM2syRnduMEFCMkRiWmtBTXVTV1hncWhpRlF3RmRhX0owTG1qMGZDNm9kcTZQNUgxMFlmSDJtZU13YkhGSUF5c0hrU3VZRWVuOWlWLTNhUHc3S3VqQjZ5N29fYTMxaGxLS2xvTmNUZHRPVEwtNGFLazNKdklB?oc=5",
         "published": "9 Apr 2026, 07:11 PM",
         "iso_date": "2026-04-09T19:11:20+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Defence Force Announces Interception Of 194 Missiles, 515 Drones Since Onset Of Iranian Aggression",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNXZRQmhJRXJjTTZMNndZUmpqd1A4aml4MGhZSjdjck5RUjgzel9hamNhUUJaOWpfU0NLaDFoWTJMMnI2U1dWdDY5SlJ3NUVkR1lHNUYwVld6d0xCZjNhREY0U1NtMllIZVJsQm9tN0dSYm5VbkMyVXpYU0oyajZIbHh5QjVjbTNtLVdlNVd6cUFxellUUXNVZGJlR2o5Y0U?oc=5",
-        "published": "9 Apr 2026, 06:30 PM",
-        "iso_date": "2026-04-09T18:30:09+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -539,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 18:18:40 UTC"
+  "fetched_at": "2026-04-10 18:47:31 UTC"
 }
