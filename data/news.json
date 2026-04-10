@@ -94,6 +94,16 @@
         "category": "Latest"
       },
       {
+        "title": "HRH Prince Salman calls for Iranâs commitment to ceasefire, reopening of Strait",
+        "link": "https://www.gdnonline.com/Details/1381014/HRH-Prince-Salman-calls-for-Iranâs-commitment-to-ceasefire,-reopening-of-Strait-",
+        "published": "10 Apr 2026",
+        "iso_date": "2026-04-10T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410011733ponetwo_T.jpg?20260410",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "No missiles or drones detected over Bahrainâs airspace in last 24 hours",
         "link": "https://www.gdnonline.com/Details/1381053/No-missiles-or-drones-detected-over-Bahrainâs-airspace-in-last-24-hours",
         "published": "10 Apr 2026",
@@ -104,12 +114,12 @@
         "category": "Latest"
       },
       {
-        "title": "STEADFAST STANCE: HRH Prince Salman calls for Iranâs commitment to ceasefire and reopening of Strait of Hormuz",
-        "link": "https://www.gdnonline.com/Details/1381014/STEADFAST-STANCE-HRH-Prince-Salman-calls-for-Iranâs-commitment-to-ceasefire-and-reopening-of-Strait-of-Hormuz",
+        "title": "First flight takes off",
+        "link": "https://www.gdnonline.com/Details/1381031/First-flight-takes-off",
         "published": "10 Apr 2026",
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410011733ponetwo_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410023242gulfairtwo_T.jpg?20260410",
         "source": "gdn",
         "category": "Latest"
       },
@@ -120,16 +130,6 @@
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260409/20260409230808osama1_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "First flight takes off",
-        "link": "https://www.gdnonline.com/Details/1381031/First-flight-takes-off",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410023242gulfairtwo_T.jpg?20260410",
         "source": "gdn",
         "category": "Latest"
       },
@@ -509,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 14:25:13 UTC"
+  "fetched_at": "2026-04-10 14:46:57 UTC"
 }
