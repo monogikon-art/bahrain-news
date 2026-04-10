@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -62,30 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain International Airport begins gradual resumption of flights",
-        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZDdvbWg1LVZGZllyN3MxejRITm9ac1NDNG1CTkVsOEI0Wk5SQVdRUnBHN3E0V3dWSVNJcndoMjd4VXpwRlpsU3NPTFdsWmtLUjl4WHNlSjBCYUw4QnZfRk9JTkUwRXM2QXE0NkNTMzk5OW94d0lFOXFOYm5ubnNwZ1FDdkdzV2RmWnlIMDJnU2JLSTc2MGRBbDhqR1RfWmNBalJvWk9mX3hRZTNOVTIxMk0wczRfRnBYX1Q4a0ZQMk1jUUxxREw2XzJ1ZXFGREg3dGFVZWdWUXludmE2M0NBTHhZRXYxVnFnNU92Tnp3ZVptb3k5OHRtQzJ4eEtKeDYyemlYRTNRYzQwb0xTcUp0azV4bU5zcVhTRW83dlRIOTlONjFQMTFmZ3VtM1BMSTd4T180UGNReEFzYlp4dG5GLTVxakYwZXNUU1ZR?oc=5",
-        "published": "9 Apr 2026, 07:13 AM",
-        "iso_date": "2026-04-09T07:13:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain reopens airspace after US-Iran ceasefire - ABS",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUM5UUFUZHNhZy1ZWkNPb0I3bkdZRHZtOVdSc3pEZm55QVpKckZUTHZMcUQ0VV9UTld4cWtFNmFfMlM0QmRkbG1VNFpOalI0azdDR3hCSWNrbnpnTmdaMldyUlZTUEhiRFFkRHl4S3ZHR2tEOXUwS0tvbTZqUjlmeEstdncyRTMwOGFmZy1EdHZLTzR2WlFiZUFSN2hQZw?oc=5",
-        "published": "9 Apr 2026, 07:00 AM",
-        "iso_date": "2026-04-09T07:00:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Defence Force announces interception of 194 missiles, 515 drones since onset of Iranian aggression",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5d9IBwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5dw?oc=5",
         "published": "9 Apr 2026, 10:46 PM",
         "iso_date": "2026-04-09T22:46:26+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain has reopened its airspace after a break of over a month",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTBnM1VfMmphSnp5QXI0eGFuQ0g3Wmx1SER3Z3lIM2syRnduMEFCMkRiWmtBTXVTV1hncWhpRlF3RmRhX0owTG1qMGZDNm9kcTZQNUgxMFlmSDJtZU13YkhGSUF5c0hrU3VZRWVuOWlWLTNhUHc3S3VqQjZ5N29fYTMxaGxLS2xvTmNUZHRPVEwtNGFLazNKdklB?oc=5",
+        "published": "9 Apr 2026, 07:11 PM",
+        "iso_date": "2026-04-09T19:11:20+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,52 +246,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Katy Perry shares new photo with Justin Trudeau, calls it “rewarding karma”",
+        "link": "https://www.newsofbahrain.com/trends/130295.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9HETIOpxdM_2026-04-10_1775805322resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Game of Thrones actor Michael Patrick dies at 35",
+        "link": "https://www.newsofbahrain.com/world/130294.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9auekHTIhU_2026-04-10_1775805162resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EU says strikes on Lebanon endangering US-Iran ceasefire",
+        "link": "https://www.newsofbahrain.com/world/130293.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bO2a6UFtjh_2026-04-10_1775804837resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Israel Slams Pakistan Minister’s Remarks, Questions Role in Middle East Mediation",
+        "link": "https://www.newsofbahrain.com/world/130291.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u4Eb2zZ1ya_2026-04-10_1775803586resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Australian couple moves house from wrong plot",
         "link": "https://www.newsofbahrain.com/world/130289.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_0RbE7xhFzv_2026-04-10_1775802886resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Melania Trump denies any links to Epstein abuse",
-        "link": "https://www.newsofbahrain.com/world/130288.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZwXbEMP2v0_2026-04-10_1775802818resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "No New Air Threats Detected Over UAE",
-        "link": "https://www.newsofbahrain.com/world/130287.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WV6BvXo2hN_2026-04-10_1775795501resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE Calls for Nationwide Flag Display in Show of Unity",
-        "link": "https://www.newsofbahrain.com/world/130285.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o8DJ2j0Ou1_2026-04-10_1775795185resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sultan of Oman receives written message from South Korean President",
-        "link": "https://www.newsofbahrain.com/world/130284.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6Rk4qWso8e_2026-04-10_1775795032resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 06:38:40 UTC"
+  "fetched_at": "2026-04-10 07:34:11 UTC"
 }
