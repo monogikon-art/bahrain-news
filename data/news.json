@@ -256,10 +256,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Dubai Police Help Dismantle Notorious Scottish Crime Syndicate in Global Operation",
-        "link": "https://www.newsofbahrain.com/world/130297.html",
+        "title": "Keir Starmer Tours Gulf to Strengthen Delicate US-Iran Truce",
+        "link": "https://www.newsofbahrain.com/world/130300.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MrxYdQPjun_2026-04-10_1775816283resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Administrative Support Roles to Be Introduced in UAE Schools",
+        "link": "https://www.newsofbahrain.com/world/130299.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uH8J9QYoit_2026-04-10_1775815125resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dubai Police Help Dismantle Notorious Scottish Crime Syndicate in Global Operation",
+        "link": "https://www.newsofbahrain.com/world/130297.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9in1LlPhHS_2026-04-10_1775810664resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +288,8 @@
       {
         "title": "Israel’s Actions in Lebanon Cast Doubt Over US-Iran Ceasefire Progress",
         "link": "https://www.newsofbahrain.com/world/130296.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_bgkEoz1B54_2026-04-10_1775806810resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,30 +298,10 @@
       {
         "title": "Katy Perry shares new photo with Justin Trudeau, calls it “rewarding karma”",
         "link": "https://www.newsofbahrain.com/trends/130295.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9HETIOpxdM_2026-04-10_1775805322resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Game of Thrones actor Michael Patrick dies at 35",
-        "link": "https://www.newsofbahrain.com/world/130294.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9auekHTIhU_2026-04-10_1775805162resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "EU says strikes on Lebanon endangering US-Iran ceasefire",
-        "link": "https://www.newsofbahrain.com/world/130293.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bO2a6UFtjh_2026-04-10_1775804837resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9HETIOpxdM_2026-04-10_1775805322resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 09:56:06 UTC"
+  "fetched_at": "2026-04-10 10:25:40 UTC"
 }
