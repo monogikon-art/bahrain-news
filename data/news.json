@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 17
     }
   },
   "articles": {
@@ -32,10 +32,30 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain’s king and crown prince discuss regional developments with UK prime minister",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03b3lsYm9DbnJBRlNaZUZ2WkE1TjhXa2wwVXVEaDlRX19MY3hXTmFlTldqQ200ckl5THJmTDdJWnJRd2tWd1NNT3VxN1g5Y3ZiMXI0ZHBNWWJMdUtH?oc=5",
+        "published": "9 Apr 2026, 07:47 PM",
+        "iso_date": "2026-04-09T19:47:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain reports intercepting 194 missiles, 515 drones since attacks began",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16blZLQ2Q0RXdWOWo5b3ZOZW1TZlZ4SHdQVEtQdnFLWDl4UlJ1WVlYQ09zdXVPLVphQzRDWmxIZTF1cHFKSnE0VWYxcEI4d2R3MllJ?oc=5",
         "published": "9 Apr 2026, 01:21 PM",
         "iso_date": "2026-04-09T13:21:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain King, crown prince meet UK PM Keir Starmer to discuss regional developments",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxcWw4NURwX2hpbnZjeUpWcllzaHBOeTB5UDQ3Z2x5azMzRzFCMnFZa185VWRXOS04RGhIUjFVSDE4a3RrNnlsbDBZd0hZMEptb2xCSjZqMGJWZC1JRlE?oc=5",
+        "published": "9 Apr 2026, 07:47 PM",
+        "iso_date": "2026-04-09T19:47:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -76,16 +96,6 @@
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYU4tWkE5QXplZ1pmMmp5NWFlM2FxVUl2d1hlTUJlNjd6R1V6U0xUTE9fc2NJMEo5QWFIcHRQSGlDWU1heHlSNWpYeFdLRmM2MldBTTQ5NTZBSmMwMGNUMzYxZU1td3lJcGZWd19fd1N2dWkwVXB5bkNSejRkV2pEY2l4eVjSAZQBQVVfeXFMTWFocjAtNXRKOV8tZXBUa1Nob2FnUk9DV0lvaHRfS1dIUzdvVnNIbm1JYm1abDE2OGotWS1yZE9ma0R0ZEFTS0xGNkpUN3VpeUhnTDJGTkd6SDFLekdNcHpldlBLT2ItSEVDa1lCTUFIZTg4TFcwVzdONC1WaV9xSENxcjl3aG0wS2pqTzcwMW45YjBXSw?oc=5",
         "published": "9 Apr 2026, 04:57 AM",
         "iso_date": "2026-04-09T04:57:40+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain announces reopening of airspace: Civil Aviation Affairs",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3FHZUludkVqZ1JETHVNVlVMTHNJazVPOEFha09ha0l5eUJLZ3lVMWgzeHBXRG5lQ3NWSlF2Nkw1MlFnLVNPT2RzX1lwcWwyVXNqdXo3cUZ5Nkp1Q0QyRFpGOWI2WjdBVXlQR0RkSjVjWkV2M3RYTmxQR2lZZTNCNmVScUtpQnlvYnZ0VjFjcUpDUF81Z09HQkNTTXdPWlhUZHFYcnFSckR3cXk2SVY4WQ?oc=5",
-        "published": "9 Apr 2026, 02:28 AM",
-        "iso_date": "2026-04-09T02:28:32+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,12 +266,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Woman Sentenced to 15 Years in Matthew Perry Overdose Case",
-        "link": "https://www.newsofbahrain.com/trends/130253.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
+        "title": "NHRI Monitors Impact of Iranian Aggression on Rights",
+        "link": "https://www.newsofbahrain.com/bahrain/130270.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZCsgzGwtKU_2026-04-09_1775761598resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Tah1byjROq_2026-04-10_1775792337resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iraq Religious Body Condemns Attacks on Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/130269.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Jk5DyL4l6u_2026-04-10_1775792162resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Push for Safe Navigation: Bahrain Gains Arab Backing",
+        "link": "https://www.newsofbahrain.com/bahrain/130268.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YcSUde8NwR_2026-04-10_1775791631resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Firm Shut, Asian Owner Jailed Over Expired Food Scam",
+        "link": "https://www.newsofbahrain.com/bahrain/130267.html",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uIrElDMjPO_2026-04-10_1775791533resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Lawmakers seek six-month relief on utility charges for Bahraini businesses",
+        "link": "https://www.newsofbahrain.com/business/130266.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WwkqJh2YNr_2026-04-10_1775791252resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,47 +321,7 @@
         "published": "9 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-09T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xZqWlte9u4_2026-04-09_1775761076resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain sends letter to UN on behalf of several states on Iran’s unlawful attacks and support for armed groups and proxies",
-        "link": "https://www.newsofbahrain.com/bahrain/130251.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MQfkUx6PWY_2026-04-09_1775760055resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain highlights technological risks to humanitarian personnel at UN Security Council",
-        "link": "https://www.newsofbahrain.com/bahrain/130250.html",
-        "published": "9 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-09T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tkqveHy1VY_2026-04-09_1775759826resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Ambassador to France Holds Talks with French Parliamentarians",
-        "link": "https://www.newsofbahrain.com/bahrain/130249.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0xuldbOaJ1_2026-04-09_1775759667resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Air Traffic Restarts: Inspection confirms operational readiness",
-        "link": "https://www.newsofbahrain.com/bahrain/130243.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NIdjSvmyEG_2026-04-09_1775754737thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xZqWlte9u4_2026-04-09_1775761076thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -356,42 +366,32 @@
         "category": "Latest"
       },
       {
-        "title": "India pulls bid to host 2028 COP33 climate summit: Indian govt source",
-        "link": "https://www.newsofbahrain.com/business/130174.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
+        "title": "Oil prices jump back toward $100 on Mideast ceasefire doubts",
+        "link": "https://www.newsofbahrain.com/business/130265.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Dwz7genYuS_2026-04-09_1775725216thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f4t9YUgMBq_2026-04-10_1775791119thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "US Fed policymakers flag possible rate hikes",
-        "link": "https://www.newsofbahrain.com/business/130172.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
+        "title": "BCFC reinforces a culture of excellence Announces promotion of national talent",
+        "link": "https://www.newsofbahrain.com/business/130264.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wjAgvMEJlR_2026-04-09_1775725115thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q8hD7UsfKc_2026-04-10_1775790972thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Latest Anthropic AI model finds cracks in software defenses",
-        "link": "https://www.newsofbahrain.com/business/130171.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
+        "title": "Kanoo Highlights FGCCC’s Role in Representing the Private Sector",
+        "link": "https://www.newsofbahrain.com/business/130263.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8uyjGkg5Rs_2026-04-09_1775724962thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil prices plunge, stocks surge on US-Iran ceasefire",
-        "link": "https://www.newsofbahrain.com/business/130170.html",
-        "published": "9 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-09T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_onqIMdu3aG_2026-04-09_1775724766thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fKzFEpWTZm_2026-04-10_1775790842thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 02:18:32 UTC"
+  "fetched_at": "2026-04-10 03:40:15 UTC"
 }
