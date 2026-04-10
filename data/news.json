@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUM5UUFUZHNhZy1ZWkNPb0I3bkdZRHZtOVdSc3pEZm55QVpKckZUTHZMcUQ0VV9UTld4cWtFNmFfMlM0QmRkbG1VNFpOalI0azdDR3hCSWNrbnpnTmdaMldyUlZTUEhiRFFkRHl4S3ZHR2tEOXUwS0tvbTZqUjlmeEstdncyRTMwOGFmZy1EdHZLTzR2WlFiZUFSN2hQZw?oc=5",
         "published": "9 Apr 2026, 07:00 AM",
         "iso_date": "2026-04-09T07:00:07+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Defence Force announces interception of 194 missiles, 515 drones since onset of Iranian aggression",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5d9IBwgFBVV95cUxPTmFWNDlicHUxLXliT0tGNUhkSXFSTWJOSlZzR0pUeW1LOTFRR2E2VExiTTVOV1hxbURGeHJtbU5wWlpxLWc1ajlielRjanM4N0Z3Sy0yMWxfSUVXczdXWFY0alBrdjRmUDZKdGRvSS0wSGxmaWpEcGNEMzN5Ym0yY3duODBLYk9fT096UkNqdWNhN0p0X3ZhTmkzcGJ1RHVmWEdlcjk5aHgzb3BneEN6dkNnMm1taTFGekFqeDA5TWw5dw?oc=5",
+        "published": "9 Apr 2026, 10:46 PM",
+        "iso_date": "2026-04-09T22:46:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -539,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 01:02:42 UTC"
+  "fetched_at": "2026-04-10 02:18:32 UTC"
 }
