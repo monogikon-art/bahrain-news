@@ -33,9 +33,9 @@
       },
       {
         "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPTnB1WW5ZaV9KSHM3TzhDZWk5elpINUxTajhqbUtJbzFNVkVEYi1iNUNya29hVXMtWndvcTBKX1VhRWYtMmZscXItenVuOTFncjZFLUNkZjhxSFRCWUN2c1VJd2pzN0NKVnZNNEJkaXRWd0JIVWhSWW50emdHT20tUmNUOFhLYl9yYXlhd0x0UkdPa25NR3NIdXBEYU9FSXdiU1UzMGo2V2IxM09nZGhibXlYWWpsTmVYTnp5QkVjWDlMb1NoV1VFN0o4cGZ5WEZmcGlhcEVCVmZtV3Qyb2RNYXhxZ1djM21WdURrWWlCZF85THhodUxudERManJoQ0NwbjF5aDA1Q1hXd1p5dWxuYkQxZTFUbHdSYzJkbUVEclNRbGlZeWltOVROTm5kMURucHlZOXBrWktYN2lWZXhGYjBXbGRINkMxTGMxdjRDeTE4ZDBaaVVnMnVVSnpLMGZfWjcxamFwcWo?oc=5",
-        "published": "11 Apr 2026, 09:20 AM",
-        "iso_date": "2026-04-11T09:20:22+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPWjJ5M2RpR1dzMmRfSllseVdiVjJPX181d1VVamdkYTVxbjNsMmZJMHBVcVZ2bW9ZQUpBS25rOFJidThSUFhqclhYVVZ5MjB1SzNlYkVMN1lBQlhKcFRjTm1ydWlaY2xhU3Z5Y2t2T2RYc2x3ejNGZE9wWkxxcjNBUEM3T0owTC1tei1OU0R3dmdPLVdfdVBWRnJpeDdpTDM3SUkzOVN0OS0zTDNlNEZQajQzQVFqN2Jfdmw1YzNOSEViRkROTUtrLUJUSHhhWUZNR1lkNjZqUWVwWC1HX2ZjM0llRjVhcW5YS0FhQThvZ3BRbzlaUDNYQzJqMkwwT2FzVEVNdnhIY3VvR1NucW5uVUpuTU5UUTNKbWJuUTBSLXNCN3RGeTJ5c3piS1JpMVJVVUE1NHRKU3VHakViVlZmMUpoVXM3dHlVaHQ0clNRWUx1clcxcEhSNFlQdW5iWUt4SFM2SXl3UUhkYVZld2ZwYzFCU0V1c19fcHdHS1hteUdTcFJNZmVTTlBOd21TZTg1RVk3YlFRYU15UUk?oc=5",
+        "published": "11 Apr 2026, 10:33 AM",
+        "iso_date": "2026-04-11T10:33:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -43,6 +43,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Thundery rain lashes Bahrain",
+        "link": "https://www.gdnonline.com/Details/1381184/Thundery-rain-lashes-Bahrain",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_003621_1_T.jpg?20260412",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Adverts plan for stalled buildings hits road bump",
         "link": "https://www.gdnonline.com/Details/1381155/Adverts-plan-for-stalled-buildings-hits-road-bump",
@@ -80,16 +90,6 @@
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260412/20260412001508fmdralzayani_T.jpg?20260412",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Creative paints emotional ode to Bahrainâs resilience",
-        "link": "https://www.gdnonline.com/Details/1381161/Creative-paints-emotional-ode-to-Bahrainâs-resilience",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260411_221315_3.jpeg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
@@ -134,52 +134,52 @@
         "category": "Latest"
       },
       {
+        "title": "Arsenal suffer title jolt",
+        "link": "https://www.gdnonline.com/Details/1381198/Arsenal-suffer-title-jolt",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_014803_0_T.jpg?20260412",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq advance to Kingâs Cup final",
+        "link": "https://www.gdnonline.com/Details/1381192/Muharraq-advance-to-Kingâs-Cup-final",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_010321_1_T.jpg?20260412",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ngumoha makes history as Salah stars in Liverpool win",
+        "link": "https://www.gdnonline.com/Details/1381197/Ngumoha-makes-history-as-Salah-stars-in-Liverpool-win",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_014802_0_T.jpg?20260412",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Fans set to return from next round of league",
+        "link": "https://www.gdnonline.com/Details/1381193/Fans-set-to-return-from-next-round-of-league",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412012432images_T.jpg?20260412",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Riffa reach final after dramatic shootout win",
         "link": "https://www.gdnonline.com/Details/1381130/Riffa-reach-final-after-dramatic-shootout-win",
         "published": "11 Apr 2026",
         "iso_date": "2026-04-11T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260411/20260411025230fone_T.jpg?20260412",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "West ham rout wolves",
-        "link": "https://www.gdnonline.com/Details/1381132/West-ham-rout-wolves",
-        "published": "11 Apr 2026",
-        "iso_date": "2026-04-11T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411_024606_1_T.jpg?20260412",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Real Madrid held to disappointing draw",
-        "link": "https://www.gdnonline.com/Details/1381111/Real-Madrid-held-to-disappointing-draw",
-        "published": "11 Apr 2026",
-        "iso_date": "2026-04-11T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411012326iajja_T.jpg?20260412",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Italy appoint coach for friendlies",
-        "link": "https://www.gdnonline.com/Details/1381115/Italy-appoint-coach-for-friendlies",
-        "published": "11 Apr 2026",
-        "iso_date": "2026-04-11T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411012005sdfv_T.jpg?20260412",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "WATKINS PUTS VILLA IN CHARGE: Forest secure resilient away draw at porto",
-        "link": "https://www.gdnonline.com/Details/1381039/WATKINS-PUTS-VILLA-IN-CHARGE-Forest-secure-resilient-away-draw-at-porto-",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410_022948_0_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       }
@@ -449,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 23:10:04 UTC"
+  "fetched_at": "2026-04-11 23:45:15 UTC"
 }
