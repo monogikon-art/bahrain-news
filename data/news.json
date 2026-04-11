@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain intercepts, destroys 188 missiles, 477 drones since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzE4b1U1c0RJZ1NiQWx3bUoxUWpMMGpLSDNlNzRWcExtejBNYVB6ZjZLTXdONktyOUVSUFlqWDVMaGxMajU5dlQ3azNqTFk0eUw2OXJ6MFBJYWQ3di1vX2U4b1VENlRVUXplbGhHUmZ4akJmWWxCbm9RME9SSTIwZzVqOGRDQU1vd0tvUFhhek9YQkJIQzlVbnFuNGFscTloUzBtWm16OElpWk5ONFBfOFZpRkw0elZfcF90UWpRTldzRzlUbXIzTFF5SQ?oc=5",
-        "published": "10 Apr 2026, 07:00 AM",
-        "iso_date": "2026-04-10T07:00:47+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "How US AirForce Colonel trekked a 7,000ft high ridge to evade Iranian forces",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1dMbmFNNU1IWnJkNTV1SlVsSHJpZGdDQnRINmE3NzlEamRYLXJfWHBOcUNSb19hY0RkQlhESjZzZmRPZWo5enVHU1NaTE1OdTJwcEpaY2FCb21FR1V0UXhxOXdiVUpYMVlNak5WRU1sb2VLM09jSERoLXdzSnhyUUhweGtaYWZ3RVp6Q18wUkxvSDljY19SOHdONElQSjZBSnFvR1FmWVFuWm9BSFlFOWVNNExGNGRVeUVRTy1VcDE4Zmc?oc=5",
@@ -53,9 +43,9 @@
       },
       {
         "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1BpR3ZPYVpES0FqZ2ZEV25yREtBVGxCY3pBelN6YThTYzJDdVV5NUY0YVc3OUxCTHQwZjMwcUNFYUNQZjE1V0lHLTBoSmt2QW5qckZ6ckFKNUxqVGZCM1lJLUU3UWJqYTRRdm5KS1hSMEdXazU1VjdPVE51UDJHQk00blRoNkFLMXFGUWJBUlJRM2cxemNhQjc3WnNpZFlEaW03VnpSSDhKaE9tbllweFpPcU16TmRhbWp3OWh6QWZnWGRCNGVQQU1jWi1JaER1cWc?oc=5",
-        "published": "11 Apr 2026, 02:26 AM",
-        "iso_date": "2026-04-11T02:26:21+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQUd0eFdabExxbHRhVkZURzhBel9nbWhPR0NLejZZckVNYjlfRnRjYVMtanJ3aHp6TFM5NkdVYnM4a2ZUR25CcHg2MjJ4QjNwcHRucVYxZGNoUVZCYmdfeE1jNHdMeDB2ZktzS2k3a3BuUDZuUWI4c0VyV1VfSnpYTEhCNXBfTlNsQk1SQmdSZzkwc3FtejJoSnpTYjZEOG1WWERTRGI5VmJQM0NOaGhRUWJ2dklZZENoN3JUQ01LblJaNGQ5cW9lUEh3d3dQVGNmM080QkkyNFVxU1lBRkJOUFZET1hGRXZqX281QkpfUUhKaGxNakpGRVdJX2JMTm4za3ZXSFFaVEo3anlYd2g0SE0zNlM?oc=5",
+        "published": "11 Apr 2026, 01:30 AM",
+        "iso_date": "2026-04-11T01:30:50+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -186,62 +176,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "UK praises Bahraini people’s resilience as symbol of national unity",
-        "link": "https://www.newsofbahrain.com/bahrain/130339.html",
+        "title": "GCC Customs Law Changes Under Review",
+        "link": "https://www.newsofbahrain.com/bahrain/130346.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uXY0k7zwWG_2026-04-11_1775889784resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_l6fxcsX2GF_2026-04-11_1775891930resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Nasser centre launches AI-powered platform to boost crisis readiness",
-        "link": "https://www.newsofbahrain.com/bahrain/130338.html",
+        "title": "BD800m Housing Plan to Deliver 50,000 Units",
+        "link": "https://www.newsofbahrain.com/bahrain/130345.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q8nYzhKSOH_2026-04-11_1775889180resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iU9OdYZJEG_2026-04-11_1775891806resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Sand theft scheme ends in jail and deportation for two workers",
-        "link": "https://www.newsofbahrain.com/bahrain/130337.html",
+        "title": "Outstanding Housing Requests Reach 29,000",
+        "link": "https://www.newsofbahrain.com/bahrain/130344.html",
         "published": "11 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DBT184ji5X_2026-04-11_1775888489resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TdRrLvB8hX_2026-04-11_1775891637resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Low Uptake for BD40,000 Housing Option in Muharraq",
+        "link": "https://www.newsofbahrain.com/bahrain/130343.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_32Z4fbxYI5_2026-04-11_1775891178resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq Heritage Project to Deliver 300 Homes by 2026",
+        "link": "https://www.newsofbahrain.com/bahrain/130342.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U1NcVo9Sgh_2026-04-11_1775890841resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "South Korea’s President Lee Jae Myung Criticises Israel Amid Disinformation Row",
         "link": "https://www.newsofbahrain.com/world/130336.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JLzgjMRknP_2026-04-11_1775888330resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain urges end to attacks on aid workers, warns of rising risks in conflict zones",
-        "link": "https://www.newsofbahrain.com/bahrain/130335.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZMlpfYJrmC_2026-04-11_1775888299resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Actress duped in repair ruse, man gets two years",
-        "link": "https://www.newsofbahrain.com/bahrain/130334.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2nRUZbwQpq_2026-04-11_1775888162thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JLzgjMRknP_2026-04-11_1775888330thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 06:48:20 UTC"
+  "fetched_at": "2026-04-11 07:23:24 UTC"
 }
