@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0xxUVdIa2d1Rms1UXdCRlBTcHdsZEhWZi1iY2VNSmhGVGthTVk0RWROQVFaeVRFUVREVXNLOXBQak5raHJ2cXBBbnM3aFo2WnRueTE3MUxpSzAwWkhTUTY3UU8tcFVPU1hpbFowSEZrTDkzR2d2dzdkSFJSSTFDaUVkdXpiNWZaSDE2cVp0VlROcDg2elQydEdMNUYwaGJQNTJTYVdKXzJNSWo4M0Rqd1NSUGpwZ2xSdXBEcHJSTHpGem94YkR4Y1M0ajhPVk0?oc=5",
         "published": "10 Apr 2026, 04:49 AM",
         "iso_date": "2026-04-10T04:49:18+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain submits UN letter addressing egregious Iranian aggressions, regional security threats",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSW9QYUJGR090LUE3NHJGa1JiSU9hLUsybkpTTWp1REhoaEFEMHRpeVZ3c0lRQkk5MEtja210QWp2dnhZZWFIbWJ1NGt3ZTNKbmtuM0VmTlFEY1dwSUN3bEExM0tSbUVSQ0oxdnJjWWQ5RnAyWUZaNnZ3ekhXR0s2b2IzNi14UTJ4VzAtTVdQbE5UOFVsVmp1M0lHdmFKbHVTMjdrejRCLUtpQXdadTZMMkFMdVJTd295SHZWTXRLRElJMFYxQlNRb0lpNFFjS3l3TmEzRkY4Wnc?oc=5",
-        "published": "10 Apr 2026, 05:20 AM",
-        "iso_date": "2026-04-10T05:20:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 03:04:08 UTC"
+  "fetched_at": "2026-04-11 04:17:27 UTC"
 }
