@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 16
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -66,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1dMbmFNNU1IWnJkNTV1SlVsSHJpZGdDQnRINmE3NzlEamRYLXJfWHBOcUNSb19hY0RkQlhESjZzZmRPZWo5enVHU1NaTE1OdTJwcEpaY2FCb21FR1V0UXhxOXdiVUpYMVlNak5WRU1sb2VLM09jSERoLXdzSnhyUUhweGtaYWZ3RVp6Q18wUkxvSDljY19SOHdONElQSjZBSnFvR1FmWVFuWm9BSFlFOWVNNExGNGRVeUVRTy1VcDE4Zmc?oc=5",
         "published": "10 Apr 2026, 07:36 AM",
         "iso_date": "2026-04-10T07:36:52+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "'Churchill would have sacked the lot of them': Donald Trump mocks Britain's 'toy aircraft carriers'",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkdiTzlZMkhXcTJMMjZWc0hGaEppUk54djY0LVp3UVhzSUh3V20xMzVucm9fVVA2bUh3YXo0M1lDM2wwcFZwRDl3TTZ6cXpHN2JXY194YWJaWGhWemlMWGhjcVJyLUpJQ2J5dTNwMmFWOURzaWhhN0RtYi1UdGJFZURKbVN2NkJMc0xmeEJlN2xqRkVldjBJRjRWSEdnRDNMV0dPRy0yQnVtVUZtR1hOVmdwQmFZbUF0ZnItUVVPbml5SVJ5QVVXTGxGdFYwVmtQUjF0WEFFa255QQ?oc=5",
-        "published": "10 Apr 2026, 07:42 AM",
-        "iso_date": "2026-04-10T07:42:06+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -164,36 +154,6 @@
         "category": "Latest"
       },
       {
-        "title": "CBB and UAE central bank sign BD2bn currency swap deal",
-        "link": "https://www.gdnonline.com/Details/1380906/CBB-and-UAE-central-bank-sign-BD2bn-currency-swap-deal",
-        "published": "9 Apr 2026",
-        "iso_date": "2026-04-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260408_230728_2_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BCCI names new board member",
-        "link": "https://www.gdnonline.com/Details/1380905/BCCI-names-new-board-member",
-        "published": "9 Apr 2026",
-        "iso_date": "2026-04-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409004545jhvfas_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC bank revenues climb to record high despite profit dip",
-        "link": "https://www.gdnonline.com/Details/1380909/GCC-bank-revenues-climb-to-record-high-despite-profit-dip",
-        "published": "9 Apr 2026",
-        "iso_date": "2026-04-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409005757edited12_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Al Ahly keeper El Shenawy banned four games for striking referee",
         "link": "https://www.gdnonline.com/Details/1381063/Al-Ahly-keeper-El-Shenawy-banned-four-games-for-striking-referee",
         "published": "10 Apr 2026",
@@ -240,16 +200,6 @@
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260410/20260410013217hhone_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "An Italian encounter",
-        "link": "https://www.gdnonline.com/Details/1380880/An-Italian-encounter",
-        "published": "9 Apr 2026",
-        "iso_date": "2026-04-09T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260408/20260408212101tuscany_T.jpg?20260410",
         "source": "gdn",
         "category": "Latest"
       }
@@ -529,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-10 23:45:02 UTC"
+  "fetched_at": "2026-04-11 00:26:35 UTC"
 }
