@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNEVudGdHbDNScTZfLXRSQ0pJdXlZenZvdEZOVDZZazBWdm1xajBQVFY2TkhZWGJ5Z3hGMThfWDFIcS03c1IzRmdzZUE5bmhlVmhWRzlqeUlKWDZLcTJWaXF3dVQ3M29NS3IzN2IzX3JoLTIzd1RvWUlOblZkVnhfUW9pTm5ZNHVORXhQellMVWE0a1d0T1dXZWtIMmVtdWxHR2xkdFpEa3k4NEkzLXFvYVJoRFNfcnhfb2ZPT292bFlkV1pXWF9KanZtVTFnTDRpaUMxLS1sdWIwTW5RZEVSTzZET1J0aXBQZkFDZ0NJdlNLQQ?oc=5",
         "published": "10 Apr 2026, 06:25 PM",
         "iso_date": "2026-04-10T18:25:09+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
+        "published": "10 Apr 2026, 07:09 PM",
+        "iso_date": "2026-04-10T19:09:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -166,10 +176,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Man Arrested After Molotov Cocktail Attack on OpenAI CEO Sam Altman’s Home",
-        "link": "https://www.newsofbahrain.com/world/130380.html",
+        "title": "Netherlands Becomes First in Europe to Approve Tesla Self-Driving vehicles",
+        "link": "https://www.newsofbahrain.com/world/130383.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IzoDu2M4SH_2026-04-11_1775907368resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Denies Agreeing to Unfreeze Iran Assets Ahead of Islamabad Talks",
+        "link": "https://www.newsofbahrain.com/world/130382.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AhgEdLb6M2_2026-04-11_1775906923resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pressure Mounts for Elections in Venezuela as Maduro’s Absence Continues",
+        "link": "https://www.newsofbahrain.com/world/130381.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YtgFDZ9N5B_2026-04-11_1775906120resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Man Arrested After Molotov Cocktail Attack on OpenAI CEO Sam Altman’s Home",
+        "link": "https://www.newsofbahrain.com/world/130380.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_cmtUaIRzGY_2026-04-11_1775905464resized_pic.jpg",
         "source": "newsofbahrain",
@@ -182,36 +222,6 @@
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_XpZ0o6x8m1_2026-04-11_1775905421resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Delegation Meets Pakistan PM Ahead of Key US Talks in Islamabad",
-        "link": "https://www.newsofbahrain.com/world/130378.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bQEl4KT7gU_2026-04-11_1775905253resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Brazil, US Join Hands to Fight Organized Crime Ahead of Elections",
-        "link": "https://www.newsofbahrain.com/world/130377.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_evl6spOIP0_2026-04-11_1775903746resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Prince Harry Sued by Charity He Co-Founded Amid Internal Dispute",
-        "link": "https://www.newsofbahrain.com/world/130376.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qstdfaMmg4_2026-04-11_1775902501resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -419,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 11:10:36 UTC"
+  "fetched_at": "2026-04-11 11:42:33 UTC"
 }
