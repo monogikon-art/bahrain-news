@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,26 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "Putin announces ceasefire in Ukraine for Orthodox Easter weekend",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNEVudGdHbDNScTZfLXRSQ0pJdXlZenZvdEZOVDZZazBWdm1xajBQVFY2TkhZWGJ5Z3hGMThfWDFIcS03c1IzRmdzZUE5bmhlVmhWRzlqeUlKWDZLcTJWaXF3dVQ3M29NS3IzN2IzX3JoLTIzd1RvWUlOblZkVnhfUW9pTm5ZNHVORXhQellMVWE0a1d0T1dXZWtIMmVtdWxHR2xkdFpEa3k4NEkzLXFvYVJoRFNfcnhfb2ZPT292bFlkV1pXWF9KanZtVTFnTDRpaUMxLS1sdWIwTW5RZEVSTzZET1J0aXBQZkFDZ0NJdlNLQQ?oc=5",
-        "published": "10 Apr 2026, 06:25 PM",
-        "iso_date": "2026-04-10T18:25:09+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Celebrating Prince Hussain Aga Khan: 52 Years of Inspiration",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2NMeExDbzRGWUx4VmdGbG93MmZDVnNFTG44anZacG9HRTNoNFZnUFU1SGRSNFc5Q1ZxcWI1R3NzczRaUmhCeHRxLW9ZNXU0UHNycENYMV9vRHVJR3JBOEZvVXhWbktpS05FcklGWUZSNjlwaTlJQnZxUk9VMk94cmFYdGVkX2oyR0FaSVlTMnhnOGdMX2c?oc=5",
-        "published": "10 Apr 2026, 06:26 AM",
-        "iso_date": "2026-04-10T06:26:04+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "How US AirForce Colonel trekked a 7,000ft high ridge to evade Iranian forces",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1dMbmFNNU1IWnJkNTV1SlVsSHJpZGdDQnRINmE3NzlEamRYLXJfWHBOcUNSb19hY0RkQlhESjZzZmRPZWo5enVHU1NaTE1OdTJwcEpaY2FCb21FR1V0UXhxOXdiVUpYMVlNak5WRU1sb2VLM09jSERoLXdzSnhyUUhweGtaYWZ3RVp6Q18wUkxvSDljY19SOHdONElQSjZBSnFvR1FmWVFuWm9BSFlFOWVNNExGNGRVeUVRTy1VcDE4Zmc?oc=5",
         "published": "10 Apr 2026, 07:36 AM",
@@ -66,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkdiTzlZMkhXcTJMMjZWc0hGaEppUk54djY0LVp3UVhzSUh3V20xMzVucm9fVVA2bUh3YXo0M1lDM2wwcFZwRDl3TTZ6cXpHN2JXY194YWJaWGhWemlMWGhjcVJyLUpJQ2J5dTNwMmFWOURzaWhhN0RtYi1UdGJFZURKbVN2NkJMc0xmeEJlN2xqRkVldjBJRjRWSEdnRDNMV0dPRy0yQnVtVUZtR1hOVmdwQmFZbUF0ZnItUVVPbml5SVJ5QVVXTGxGdFYwVmtQUjF0WEFFa255QQ?oc=5",
         "published": "10 Apr 2026, 07:42 AM",
         "iso_date": "2026-04-10T07:42:06+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
-        "published": "10 Apr 2026, 07:09 PM",
-        "iso_date": "2026-04-10T19:09:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +186,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Sand theft scheme ends in jail and deportation for two workers",
-        "link": "https://www.newsofbahrain.com/bahrain/130337.html",
+        "title": "UK praises Bahraini people’s resilience as symbol of national unity",
+        "link": "https://www.newsofbahrain.com/bahrain/130339.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uXY0k7zwWG_2026-04-11_1775889784resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Nasser centre launches AI-powered platform to boost crisis readiness",
+        "link": "https://www.newsofbahrain.com/bahrain/130338.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q8nYzhKSOH_2026-04-11_1775889180resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Sand theft scheme ends in jail and deportation for two workers",
+        "link": "https://www.newsofbahrain.com/bahrain/130337.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_DBT184ji5X_2026-04-11_1775888489resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +218,8 @@
       {
         "title": "South Korea’s President Lee Jae Myung Criticises Israel Amid Disinformation Row",
         "link": "https://www.newsofbahrain.com/world/130336.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_JLzgjMRknP_2026-04-11_1775888330resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +228,8 @@
       {
         "title": "Bahrain urges end to attacks on aid workers, warns of rising risks in conflict zones",
         "link": "https://www.newsofbahrain.com/bahrain/130335.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZMlpfYJrmC_2026-04-11_1775888299resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,30 +238,10 @@
       {
         "title": "Actress duped in repair ruse, man gets two years",
         "link": "https://www.newsofbahrain.com/bahrain/130334.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2nRUZbwQpq_2026-04-11_1775888162resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Court upholds 15-year sentence in human trafficking case, orders deportation",
-        "link": "https://www.newsofbahrain.com/bahrain/130333.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_V4zYts1F8d_2026-04-11_1775888009resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fuel card scam unravels as 10-year term faces appeal",
-        "link": "https://www.newsofbahrain.com/bahrain/130332.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SMN6zVkiuH_2026-04-11_1775887849thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2nRUZbwQpq_2026-04-11_1775888162thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 06:24:25 UTC"
+  "fetched_at": "2026-04-11 06:48:20 UTC"
 }
