@@ -176,6 +176,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Kamala Harris says she might run for president again in 2028",
+        "link": "https://www.newsofbahrain.com/world/130396.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8OpLdTbVMo_2026-04-11_1775916727resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Apple’s Foldable iPhone on Track for September Debut Despite Production Rumors",
         "link": "https://www.newsofbahrain.com/world/130395.html",
         "published": "11 Apr 2026, 09:22 AM",
@@ -188,8 +198,8 @@
       {
         "title": "Trump announces start of Iran talks in Islamabad",
         "link": "https://www.newsofbahrain.com/world/130394.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_tnHq8sy6JL_2026-04-11_1775914157resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,20 +218,10 @@
       {
         "title": "Netanyahu May Agree: White House Summit and Tuesday Talks Anchor Peace Push",
         "link": "https://www.newsofbahrain.com/world/130391.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7FZvi1WnJL_2026-04-11_1775912140resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ukraine Says Russian Casualties Hit Record High in March as Drone Strikes Increase",
-        "link": "https://www.newsofbahrain.com/world/130390.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dB871hcSax_2026-04-11_1775911717resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7FZvi1WnJL_2026-04-11_1775912140resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 13:48:45 UTC"
+  "fetched_at": "2026-04-11 14:13:37 UTC"
 }
