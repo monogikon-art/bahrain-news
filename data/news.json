@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzE4b1U1c0RJZ1NiQWx3bUoxUWpMMGpLSDNlNzRWcExtejBNYVB6ZjZLTXdONktyOUVSUFlqWDVMaGxMajU5dlQ3azNqTFk0eUw2OXJ6MFBJYWQ3di1vX2U4b1VENlRVUXplbGhHUmZ4akJmWWxCbm9RME9SSTIwZzVqOGRDQU1vd0tvUFhhek9YQkJIQzlVbnFuNGFscTloUzBtWm16OElpWk5ONFBfOFZpRkw0elZfcF90UWpRTldzRzlUbXIzTFF5SQ?oc=5",
         "published": "10 Apr 2026, 07:00 AM",
         "iso_date": "2026-04-10T07:00:47+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain submits UN letter addressing egregious Iranian aggressions, regional security threats",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSW9QYUJGR090LUE3NHJGa1JiSU9hLUsybkpTTWp1REhoaEFEMHRpeVZ3c0lRQkk5MEtja210QWp2dnhZZWFIbWJ1NGt3ZTNKbmtuM0VmTlFEY1dwSUN3bEExM0tSbUVSQ0oxdnJjWWQ5RnAyWUZaNnZ3ekhXR0s2b2IzNi14UTJ4VzAtTVdQbE5UOFVsVmp1M0lHdmFKbHVTMjdrejRCLUtpQXdadTZMMkFMdVJTd295SHZWTXRLRElJMFYxQlNRb0lpNFFjS3l3TmEzRkY4Wnc?oc=5",
-        "published": "10 Apr 2026, 05:20 AM",
-        "iso_date": "2026-04-10T05:20:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -73,9 +63,9 @@
       },
       {
         "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOUzJkTXpZYnk5dFhRdUEyYjRHX0NYRFUxYU94RllDX0hFOF9YMGxPdmhLamVqT2lsZ1VMWmN0Q1VncXByVnQ3VkVEWkZfUFBoX25RSWsxRXZ2YzFZelprUERkN2tqQWFwazV6MHZGRklNNUtFTFRBcGk2SV9kTng5Qmg0bjJpbWhSb2lxYVYxLXk4M0tTZWhfY1dSTzNXWUtEM3NEcDlFQjhhYlZ0YjJUaGszc2xqT0FFRElZbTB6Q3BMb29GbDV6TUk2NmVQZGczUjZXYndDQy0wb0dPazlxbFRnY3prX1Y3ZXd4R29KREY4QjBuejBXdGlsMmliM20ySV9lX2k4MHFQSzU3T1l1SmZtRnFiUVVfMXZJUUxQRGZUTi1uTXBpLWtMNUpKZWNSaFd0VjA3aHcwU242M0dXNWYydXdFRnJnX1VjSkZ4Ukk2dFVqZ0kxVDJUaFJHMjhPTk1rdldPWHBQTU9lMHEtWnJLUkktaFdTT2xfeldLT0pFRzJhN0JWLXNkRkQ0cG1TMGZ1RmxXSnhVdmpwU0ZhaThmVGROX1ZPcWww?oc=5",
-        "published": "10 Apr 2026, 08:53 PM",
-        "iso_date": "2026-04-10T20:53:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQUd0eFdabExxbHRhVkZURzhBel9nbWhPR0NLejZZckVNYjlfRnRjYVMtanJ3aHp6TFM5NkdVYnM4a2ZUR25CcHg2MjJ4QjNwcHRucVYxZGNoUVZCYmdfeE1jNHdMeDB2ZktzS2k3a3BuUDZuUWI4c0VyV1VfSnpYTEhCNXBfTlNsQk1SQmdSZzkwc3FtejJoSnpTYjZEOG1WWERTRGI5VmJQM0NOaGhRUWJ2dklZZENoN3JUQ01LblJaNGQ5cW9lUEh3d3dQVGNmM080QkkyNFVxU1lBRkJOUFZET1hGRXZqX281QkpfUUhKaGxNakpGRVdJX2JMTm4za3ZXSFFaVEo3anlYd2g0SE0zNlM?oc=5",
+        "published": "11 Apr 2026, 01:30 AM",
+        "iso_date": "2026-04-11T01:30:50+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +206,30 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Artemis II Mission Ends in Historic Splashdown After Successful Lunar Flyby",
+        "link": "https://www.newsofbahrain.com/world/130326.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oUV3bseAk6_2026-04-11_1775886561resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian Delegation Arrives in Islamabad for Crucial US Talks Amid Ceasefire Push",
+        "link": "https://www.newsofbahrain.com/world/130324.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3Kw5edjaZv_2026-04-11_1775884614resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Starmer says NATO in US's 'interests' as Gulf tour ends",
         "link": "https://www.newsofbahrain.com/world/130323.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_DaxWISp4Ew_2026-04-10_1775827487resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +238,8 @@
       {
         "title": "Cannes Film Festival: the 21 films vying for the top prize",
         "link": "https://www.newsofbahrain.com/trends/130322.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
+        "published": "10 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-10T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_JzCYAqRGV4_2026-04-10_1775827449resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,30 +248,10 @@
       {
         "title": "Vance leaves for Iran peace talks, hopes for 'positive' outcome",
         "link": "https://www.newsofbahrain.com/world/130321.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eMk6JrCbL1_2026-04-10_1775827061resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NASA's Artemis 2 astronauts prepare to return to Earth today",
-        "link": "https://www.newsofbahrain.com/world/130320.html",
-        "published": "10 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-10T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_V1BRoAu5i0_2026-04-10_1775826633resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "China FM calls for closer ties with North Korea in Kim meeting",
-        "link": "https://www.newsofbahrain.com/world/130319.html",
         "published": "10 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wm14SleoQY_2026-04-10_1775826233resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eMk6JrCbL1_2026-04-10_1775827061resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 05:07:04 UTC"
+  "fetched_at": "2026-04-11 05:49:47 UTC"
 }
