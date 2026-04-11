@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,20 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain, UK discuss regional developments, impact on global economy",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUl9kWXEzR3U5dm0zRk5FdmVOVGhPZkRVcS00b2xNWlBZci1FOVB5UHRRWkh2MWU5UDYxRm1NNmFkOVFkRUg4NXpmRExvSkVLSEtHMWlfOU1ZV3Mycnl6SjdjcHdSZzFsbFlmQUlDTVRYcm9Mal8tdGdOVTI5WjR3Y3E5S1ZmdGxPb1NsT2xPWVdNLXZWbEliWUVtSHZfNGtjWUZTNHF1U1NVS3ZENi1JMA?oc=5",
-        "published": "10 Apr 2026, 02:58 AM",
-        "iso_date": "2026-04-10T02:58:38+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Celebrating Prince Hussain Aga Khan: 52 Years of Inspiration",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2NMeExDbzRGWUx4VmdGbG93MmZDVnNFTG44anZacG9HRTNoNFZnUFU1SGRSNFc5Q1ZxcWI1R3NzczRaUmhCeHRxLW9ZNXU0UHNycENYMV9vRHVJR3JBOEZvVXhWbktpS05FcklGWUZSNjlwaTlJQnZxUk9VMk94cmFYdGVkX2oyR0FaSVlTMnhnOGdMX2c?oc=5",
-        "published": "10 Apr 2026, 06:26 AM",
-        "iso_date": "2026-04-10T06:26:04+00:00",
+        "title": "Bahrain submits UN letter addressing egregious Iranian aggressions, regional security threats",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSW9QYUJGR090LUE3NHJGa1JiSU9hLUsybkpTTWp1REhoaEFEMHRpeVZ3c0lRQkk5MEtja210QWp2dnhZZWFIbWJ1NGt3ZTNKbmtuM0VmTlFEY1dwSUN3bEExM0tSbUVSQ0oxdnJjWWQ5RnAyWUZaNnZ3ekhXR0s2b2IzNi14UTJ4VzAtTVdQbE5UOFVsVmp1M0lHdmFKbHVTMjdrejRCLUtpQXdadTZMMkFMdVJTd295SHZWTXRLRElJMFYxQlNRb0lpNFFjS3l3TmEzRkY4Wnc?oc=5",
+        "published": "10 Apr 2026, 05:20 AM",
+        "iso_date": "2026-04-10T05:20:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -66,6 +56,26 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1dMbmFNNU1IWnJkNTV1SlVsSHJpZGdDQnRINmE3NzlEamRYLXJfWHBOcUNSb19hY0RkQlhESjZzZmRPZWo5enVHU1NaTE1OdTJwcEpaY2FCb21FR1V0UXhxOXdiVUpYMVlNak5WRU1sb2VLM09jSERoLXdzSnhyUUhweGtaYWZ3RVp6Q18wUkxvSDljY19SOHdONElQSjZBSnFvR1FmWVFuWm9BSFlFOWVNNExGNGRVeUVRTy1VcDE4Zmc?oc=5",
         "published": "10 Apr 2026, 07:36 AM",
         "iso_date": "2026-04-10T07:36:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "'Churchill would have sacked the lot of them': Donald Trump mocks Britain's 'toy aircraft carriers'",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkdiTzlZMkhXcTJMMjZWc0hGaEppUk54djY0LVp3UVhzSUh3V20xMzVucm9fVVA2bUh3YXo0M1lDM2wwcFZwRDl3TTZ6cXpHN2JXY194YWJaWGhWemlMWGhjcVJyLUpJQ2J5dTNwMmFWOURzaWhhN0RtYi1UdGJFZURKbVN2NkJMc0xmeEJlN2xqRkVldjBJRjRWSEdnRDNMV0dPRy0yQnVtVUZtR1hOVmdwQmFZbUF0ZnItUVVPbml5SVJ5QVVXTGxGdFYwVmtQUjF0WEFFa255QQ?oc=5",
+        "published": "10 Apr 2026, 07:42 AM",
+        "iso_date": "2026-04-10T07:42:06+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
+        "published": "10 Apr 2026, 07:09 PM",
+        "iso_date": "2026-04-10T19:09:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 01:43:06 UTC"
+  "fetched_at": "2026-04-11 03:04:08 UTC"
 }
