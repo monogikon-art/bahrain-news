@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 0
     }
   },
   "articles": {
@@ -164,148 +164,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Pakistan Cuts Fuel Prices as PM Sharif Signals Easing Regional Tensions",
-        "link": "https://www.newsofbahrain.com/world/130389.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uJqOASfYih_2026-04-11_1775910351resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Colombia slaps100% tariffs on Ecuadorean imports",
-        "link": "https://www.newsofbahrain.com/world/130388.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6mQnBj31sz_2026-04-11_1775910090resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Uganda ex-minister sentenced to four years in corruption scandal",
-        "link": "https://www.newsofbahrain.com/world/130387.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KJQPq2fFwW_2026-04-11_1775909280resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "French Police Rescue 9-Year-Old Kept Locked in Utility Van Since 2024",
-        "link": "https://www.newsofbahrain.com/world/130386.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zkGY7aUslK_2026-04-11_1775909221resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zoran Stevanović Elected Speaker of Slovenia’s Parliament",
-        "link": "https://www.newsofbahrain.com/world/130384.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VotCBkA8DG_2026-04-11_1775909044resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "IMF to cut global growth forecast due to Mideast war",
-        "link": "https://www.newsofbahrain.com/bahrain/130352.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x23ZujchYU_2026-04-11_1775893463thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Limited Access for Foreign Lawyers",
-        "link": "https://www.newsofbahrain.com/bahrain/130349.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QfTPFEip6q_2026-04-11_1775892450thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Club and Association Penalties Bill A bill",
-        "link": "https://www.newsofbahrain.com/bahrain/130347.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dh1eEDcGN8_2026-04-11_1775892205thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC Customs Law Changes Under Review",
-        "link": "https://www.newsofbahrain.com/bahrain/130346.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_l6fxcsX2GF_2026-04-11_1775891930thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BD800m Housing Plan to Deliver 50,000 Units",
-        "link": "https://www.newsofbahrain.com/bahrain/130345.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iU9OdYZJEG_2026-04-11_1775891806thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russian envoy in US for economy talks: Kremlin",
-        "link": "https://www.newsofbahrain.com/business/130354.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US consumer inflation surges 3.3% year-on-year as Iran war impact bites",
-        "link": "https://www.newsofbahrain.com/business/130353.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1VPvLJmw9T_2026-04-11_1775893663thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Stocks mixed, oil steadies on guarded optimism for Iran ceasefire",
-        "link": "https://www.newsofbahrain.com/business/130350.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TLiqsCMoxN_2026-04-11_1775892933thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Lawmakers seek six-month relief on utility charges for Bahraini businesses",
-        "link": "https://www.newsofbahrain.com/business/130266.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WwkqJh2YNr_2026-04-10_1775791252thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -419,5 +278,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 12:47:31 UTC"
+  "fetched_at": "2026-04-11 13:25:59 UTC"
 }
