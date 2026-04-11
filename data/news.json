@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 12
+      "count": 14
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -34,52 +34,62 @@
     ],
     "gdn": [
       {
-        "title": "Three men arrested after BD1.5 million drugs raid",
-        "link": "https://www.gdnonline.com/Details/1381173/Three-men-arrested-after-BD15-million-drugs-raid",
-        "published": "11 Apr 2026",
-        "iso_date": "2026-04-11T00:00:00",
+        "title": "Pet abandonment rises sharply after Iran attacks",
+        "link": "https://www.gdnonline.com/Details/1381163/Pet-abandonment-rises-sharply-after-Iran-attacks",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411231006drugs_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260411_221332_0_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "WEATHER ALERT: Thundery rain and strong gusts expected in Bahrain",
-        "link": "https://www.gdnonline.com/Details/1381133/WEATHER-ALERT-Thundery-rain-and-strong-gusts-expected-in-Bahrain",
-        "published": "11 Apr 2026",
-        "iso_date": "2026-04-11T00:00:00",
+        "title": "Experts call for regular immunisation of elderly",
+        "link": "https://www.gdnonline.com/Details/1381156/Experts-call-for-regular-immunisation-of-elderly-",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411121248gdn-websitesize-2026-04-11t122105.980_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260411_221239_0_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Protection of undersea cables âkey to securityâ",
-        "link": "https://www.gdnonline.com/Details/1381084/Protection-of-undersea-cables-âkey-to-securityâ",
-        "published": "11 Apr 2026",
-        "iso_date": "2026-04-11T00:00:00",
+        "title": "Partnership with Britain in spotlight",
+        "link": "https://www.gdnonline.com/Details/1381177/Partnership-with-Britain-in-spotlight",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260410_215021_0_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412001508fmdralzayani_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Helping parents of children with diabetes manage stress and fear",
-        "link": "https://www.gdnonline.com/Details/1381085/Helping-parents-of-children-with-diabetes-manage-stress-and-fear",
-        "published": "11 Apr 2026",
-        "iso_date": "2026-04-11T00:00:00",
+        "title": "Creative paints emotional ode to Bahrainâs resilience",
+        "link": "https://www.gdnonline.com/Details/1381161/Creative-paints-emotional-ode-to-Bahrainâs-resilience",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410234350dr1(2)_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260411_221315_3.jpeg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Plans in place to roll out housing services",
-        "link": "https://www.gdnonline.com/Details/1381081/Plans-in-place-to-roll-out-housing-services",
-        "published": "11 Apr 2026",
-        "iso_date": "2026-04-11T00:00:00",
+        "title": "Oil prices rise short-lived says Standard Chartered",
+        "link": "https://www.gdnonline.com/Details/1381172/Oil-prices-rise-short-lived-says-Standard-Chartered",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260410_215001_0_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260411_221432_2_T.jpg?20260412",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "EO Bahrain unveils judges for Farouk Almoayyed GSEA",
+        "link": "https://www.gdnonline.com/Details/1381171/EO-Bahrain-unveils-judges-for-Farouk-Almoayyed-GSEA",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260411_221432_0.jfif?20260412",
         "source": "gdn",
         "category": "Latest"
       },
@@ -89,7 +99,7 @@
         "published": "10 Apr 2026",
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002747business_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002747business_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +109,7 @@
         "published": "10 Apr 2026",
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002106shaikhnasser_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002106shaikhnasser_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +119,7 @@
         "published": "11 Apr 2026",
         "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411025230fone_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411025230fone_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,7 +129,7 @@
         "published": "11 Apr 2026",
         "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411_024606_1_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411_024606_1_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +139,7 @@
         "published": "11 Apr 2026",
         "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411012326iajja_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411012326iajja_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +149,7 @@
         "published": "11 Apr 2026",
         "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411012005sdfv_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411012005sdfv_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +159,17 @@
         "published": "10 Apr 2026",
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410_022948_0_T.jpg?20260411",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410_022948_0_T.jpg?20260412",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump says US is 'clearing' Strait of Hormuz",
+        "link": "https://www.gdnonline.com/Details/1381145/Trump-says-US-is-clearing-Strait-of-Hormuz",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "",
         "source": "gdn",
         "category": "Latest"
       }
@@ -419,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 21:09:56 UTC"
+  "fetched_at": "2026-04-11 21:44:10 UTC"
 }
