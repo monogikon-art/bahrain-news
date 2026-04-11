@@ -166,10 +166,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Uganda ex-minister sentenced to four years in corruption scandal",
-        "link": "https://www.newsofbahrain.com/world/130387.html",
+        "title": "Pakistan Cuts Fuel Prices as PM Sharif Signals Easing Regional Tensions",
+        "link": "https://www.newsofbahrain.com/world/130389.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uJqOASfYih_2026-04-11_1775910351resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Colombia slaps100% tariffs on Ecuadorean imports",
+        "link": "https://www.newsofbahrain.com/world/130388.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6mQnBj31sz_2026-04-11_1775910090resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Uganda ex-minister sentenced to four years in corruption scandal",
+        "link": "https://www.newsofbahrain.com/world/130387.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_KJQPq2fFwW_2026-04-11_1775909280resized_pic.jpg",
         "source": "newsofbahrain",
@@ -178,8 +198,8 @@
       {
         "title": "French Police Rescue 9-Year-Old Kept Locked in Utility Van Since 2024",
         "link": "https://www.newsofbahrain.com/world/130386.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zkGY7aUslK_2026-04-11_1775909221resized_pic.jpg",
         "source": "newsofbahrain",
@@ -188,30 +208,10 @@
       {
         "title": "Zoran Stevanović Elected Speaker of Slovenia’s Parliament",
         "link": "https://www.newsofbahrain.com/world/130384.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VotCBkA8DG_2026-04-11_1775909044resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Netherlands Becomes First in Europe to Approve Tesla Self-Driving vehicles",
-        "link": "https://www.newsofbahrain.com/world/130383.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IzoDu2M4SH_2026-04-11_1775907368resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Denies Agreeing to Unfreeze Iran Assets Ahead of Islamabad Talks",
-        "link": "https://www.newsofbahrain.com/world/130382.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AhgEdLb6M2_2026-04-11_1775906923resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VotCBkA8DG_2026-04-11_1775909044resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -419,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 12:12:14 UTC"
+  "fetched_at": "2026-04-11 12:47:31 UTC"
 }
