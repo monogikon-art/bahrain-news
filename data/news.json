@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 20
     }
   },
   "articles": {
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNEVudGdHbDNScTZfLXRSQ0pJdXlZenZvdEZOVDZZazBWdm1xajBQVFY2TkhZWGJ5Z3hGMThfWDFIcS03c1IzRmdzZUE5bmhlVmhWRzlqeUlKWDZLcTJWaXF3dVQ3M29NS3IzN2IzX3JoLTIzd1RvWUlOblZkVnhfUW9pTm5ZNHVORXhQellMVWE0a1d0T1dXZWtIMmVtdWxHR2xkdFpEa3k4NEkzLXFvYVJoRFNfcnhfb2ZPT292bFlkV1pXWF9KanZtVTFnTDRpaUMxLS1sdWIwTW5RZEVSTzZET1J0aXBQZkFDZ0NJdlNLQQ?oc=5",
         "published": "10 Apr 2026, 06:25 PM",
         "iso_date": "2026-04-10T18:25:09+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
-        "published": "10 Apr 2026, 07:09 PM",
-        "iso_date": "2026-04-10T19:09:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -176,52 +166,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Major Strikes on Saudi Oil Infrastructure Cause Production Losses",
-        "link": "https://www.newsofbahrain.com/world/130358.html",
+        "title": "De Zerbi urges Spurs to unleash attacking ‘DNA’ in survival fight",
+        "link": "https://www.newsofbahrain.com/sports/130367.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bmjCLYSiyN_2026-04-11_1775894893resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lkFEfaBpOA_2026-04-11_1775897003resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Gulf Cooperation Council Backs Lebanon",
-        "link": "https://www.newsofbahrain.com/world/130357.html",
+        "title": "Bahrain finish 12th after China defeat",
+        "link": "https://www.newsofbahrain.com/sports/130366.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_T1Ic9NOQPw_2026-04-11_1775894781resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Eb4jHDmlLv_2026-04-11_1775896888resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE Foreign Minister Holds Talks with Global Counterparts After Regional Escalation",
-        "link": "https://www.newsofbahrain.com/world/130356.html",
+        "title": "Riffa edge Khaldiya in King’s Cup classic",
+        "link": "https://www.newsofbahrain.com/sports/130365.html",
         "published": "11 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xTLj06lWbN_2026-04-11_1775894333resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3vKt5pk9nf_2026-04-11_1775896657resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Colombia Imposes 100% Tariffs on Ecuador Imports Amid Rising Tensions",
-        "link": "https://www.newsofbahrain.com/world/130355.html",
+        "title": "Inter skipper Martinez suffers calf injury",
+        "link": "https://www.newsofbahrain.com/sports/130364.html",
         "published": "11 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LbQlxROhD4_2026-04-11_1775893858resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8ETDearAIS_2026-04-11_1775896466resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Russian envoy in US for economy talks: Kremlin",
-        "link": "https://www.newsofbahrain.com/business/130354.html",
+        "title": "Sinner eases into Monte Carlo semifinal against Zverev",
+        "link": "https://www.newsofbahrain.com/sports/130363.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iGuyk4bHjU_2026-04-11_1775896346resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -272,6 +262,56 @@
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_iU9OdYZJEG_2026-04-11_1775891806thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UK Prime Minister Keir Starmer Visits Doha",
+        "link": "https://www.newsofbahrain.com/world/130362.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dlMVyLKUfv_2026-04-11_1775895817thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar and India Discuss Energy Security",
+        "link": "https://www.newsofbahrain.com/world/130361.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LKUENVen09_2026-04-11_1775895594thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Japan Condemns Attacks on Saudi Energy Facilities",
+        "link": "https://www.newsofbahrain.com/world/130360.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Aj6Rz4utxE_2026-04-11_1775895406thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Airfares Surge Across Dubai Routes",
+        "link": "https://www.newsofbahrain.com/world/130359.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_he5pZqVklQ_2026-04-11_1775895230thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russian envoy in US for economy talks: Kremlin",
+        "link": "https://www.newsofbahrain.com/business/130354.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 08:13:54 UTC"
+  "fetched_at": "2026-04-11 08:46:20 UTC"
 }
