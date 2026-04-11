@@ -166,10 +166,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Brazil, US Join Hands to Fight Organized Crime Ahead of Elections",
-        "link": "https://www.newsofbahrain.com/world/130377.html",
+        "title": "Man Arrested After Molotov Cocktail Attack on OpenAI CEO Sam Altman’s Home",
+        "link": "https://www.newsofbahrain.com/world/130380.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cmtUaIRzGY_2026-04-11_1775905464resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "‘Stepping Stone to Peace’: Pak PM Meets US Vice President as Islamabad Talks Begin",
+        "link": "https://www.newsofbahrain.com/world/130379.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XpZ0o6x8m1_2026-04-11_1775905421resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian Delegation Meets Pakistan PM Ahead of Key US Talks in Islamabad",
+        "link": "https://www.newsofbahrain.com/world/130378.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bQEl4KT7gU_2026-04-11_1775905253resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Brazil, US Join Hands to Fight Organized Crime Ahead of Elections",
+        "link": "https://www.newsofbahrain.com/world/130377.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_evl6spOIP0_2026-04-11_1775903746resized_pic.jpg",
         "source": "newsofbahrain",
@@ -182,36 +212,6 @@
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_qstdfaMmg4_2026-04-11_1775902501resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fiberglass Homes Offer Temporary Relief to Displaced Families in Gaza",
-        "link": "https://www.newsofbahrain.com/world/130375.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5b6nz7qXcr_2026-04-11_1775901155resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump slams right-wing commentators who oppose Iran war",
-        "link": "https://www.newsofbahrain.com/world/130374.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y0waeh7cCn_2026-04-11_1775898998resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ocean temperatures near record high in March: EU monitor",
-        "link": "https://www.newsofbahrain.com/world/130373.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TfvktI9A0G_2026-04-11_1775898804resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -419,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 10:45:19 UTC"
+  "fetched_at": "2026-04-11 11:10:36 UTC"
 }
