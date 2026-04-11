@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 14
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Putin announces ceasefire in Ukraine for Orthodox Easter weekend",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNEVudGdHbDNScTZfLXRSQ0pJdXlZenZvdEZOVDZZazBWdm1xajBQVFY2TkhZWGJ5Z3hGMThfWDFIcS03c1IzRmdzZUE5bmhlVmhWRzlqeUlKWDZLcTJWaXF3dVQ3M29NS3IzN2IzX3JoLTIzd1RvWUlOblZkVnhfUW9pTm5ZNHVORXhQellMVWE0a1d0T1dXZWtIMmVtdWxHR2xkdFpEa3k4NEkzLXFvYVJoRFNfcnhfb2ZPT292bFlkV1pXWF9KanZtVTFnTDRpaUMxLS1sdWIwTW5RZEVSTzZET1J0aXBQZkFDZ0NJdlNLQQ?oc=5",
+        "published": "10 Apr 2026, 06:25 PM",
+        "iso_date": "2026-04-10T18:25:09+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
         "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
@@ -33,9 +43,9 @@
       },
       {
         "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZUpyS1ZDdVRLUDc2UjNPTVl5aWZxWmhrazNuZ1F2UVNQeTEyeTdZUWNzcjJrV3lOTElSTlJEa0FPRTFKLWRsdnBFTkxXc19nZk1hWlJ0OWJsbnFkR1g4aFBDQURQR2ptQkpUaEtsd2ZDa3ZjM1Y1VVFQaDI4cDNiOEhvRm5tb3ZWcHI5RG1JRldoVi1FYXk2T3R6YVFsbVVmX0hfMFFjd3NJUHNJeE1GOUpscjAycE82aHlScHJqOFhRQ2c0aVFELVdtMzc2QlFzT0dpWHFWeDhsUURQVlp3Y1cwdHZ6OHJ4b0hlcnAzUVNaNVN4M0ZXMjJtSkRsVzN1OEc1LQ?oc=5",
-        "published": "11 Apr 2026, 04:13 AM",
-        "iso_date": "2026-04-11T04:13:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1BpR3ZPYVpES0FqZ2ZEV25yREtBVGxCY3pBelN6YThTYzJDdVV5NUY0YVc3OUxCTHQwZjMwcUNFYUNQZjE1V0lHLTBoSmt2QW5qckZ6ckFKNUxqVGZCM1lJLUU3UWJqYTRRdm5KS1hSMEdXazU1VjdPVE51UDJHQk00blRoNkFLMXFGUWJBUlJRM2cxemNhQjc3WnNpZFlEaW03VnpSSDhKaE9tbllweFpPcU16TmRhbWp3OWh6QWZnWGRCNGVQQU1jWi1JaER1cWc?oc=5",
+        "published": "11 Apr 2026, 02:26 AM",
+        "iso_date": "2026-04-11T02:26:21+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -164,7 +174,148 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Apple’s Foldable iPhone on Track for September Debut Despite Production Rumors",
+        "link": "https://www.newsofbahrain.com/world/130395.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XJG6Us13RZ_2026-04-11_1775914283resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump announces start of Iran talks in Islamabad",
+        "link": "https://www.newsofbahrain.com/world/130394.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tnHq8sy6JL_2026-04-11_1775914157resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Thailand launches cooking oil-for-fuel scheme to cut living costs",
+        "link": "https://www.newsofbahrain.com/world/130392.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NIMubS0FfG_2026-04-11_1775913036resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Netanyahu May Agree: White House Summit and Tuesday Talks Anchor Peace Push",
+        "link": "https://www.newsofbahrain.com/world/130391.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7FZvi1WnJL_2026-04-11_1775912140resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ukraine Says Russian Casualties Hit Record High in March as Drone Strikes Increase",
+        "link": "https://www.newsofbahrain.com/world/130390.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dB871hcSax_2026-04-11_1775911717resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "IMF to cut global growth forecast due to Mideast war",
+        "link": "https://www.newsofbahrain.com/bahrain/130352.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x23ZujchYU_2026-04-11_1775893463thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Limited Access for Foreign Lawyers",
+        "link": "https://www.newsofbahrain.com/bahrain/130349.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QfTPFEip6q_2026-04-11_1775892450thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Club and Association Penalties Bill A bill",
+        "link": "https://www.newsofbahrain.com/bahrain/130347.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dh1eEDcGN8_2026-04-11_1775892205thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC Customs Law Changes Under Review",
+        "link": "https://www.newsofbahrain.com/bahrain/130346.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_l6fxcsX2GF_2026-04-11_1775891930thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BD800m Housing Plan to Deliver 50,000 Units",
+        "link": "https://www.newsofbahrain.com/bahrain/130345.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iU9OdYZJEG_2026-04-11_1775891806thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russian envoy in US for economy talks: Kremlin",
+        "link": "https://www.newsofbahrain.com/business/130354.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US consumer inflation surges 3.3% year-on-year as Iran war impact bites",
+        "link": "https://www.newsofbahrain.com/business/130353.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1VPvLJmw9T_2026-04-11_1775893663thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Stocks mixed, oil steadies on guarded optimism for Iran ceasefire",
+        "link": "https://www.newsofbahrain.com/business/130350.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TLiqsCMoxN_2026-04-11_1775892933thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Lawmakers seek six-month relief on utility charges for Bahraini businesses",
+        "link": "https://www.newsofbahrain.com/business/130266.html",
+        "published": "10 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-10T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WwkqJh2YNr_2026-04-10_1775791252thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -278,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 13:25:59 UTC"
+  "fetched_at": "2026-04-11 13:48:45 UTC"
 }
