@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "Putin announces ceasefire in Ukraine for Orthodox Easter weekend",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNEVudGdHbDNScTZfLXRSQ0pJdXlZenZvdEZOVDZZazBWdm1xajBQVFY2TkhZWGJ5Z3hGMThfWDFIcS03c1IzRmdzZUE5bmhlVmhWRzlqeUlKWDZLcTJWaXF3dVQ3M29NS3IzN2IzX3JoLTIzd1RvWUlOblZkVnhfUW9pTm5ZNHVORXhQellMVWE0a1d0T1dXZWtIMmVtdWxHR2xkdFpEa3k4NEkzLXFvYVJoRFNfcnhfb2ZPT292bFlkV1pXWF9KanZtVTFnTDRpaUMxLS1sdWIwTW5RZEVSTzZET1J0aXBQZkFDZ0NJdlNLQQ?oc=5",
+        "published": "10 Apr 2026, 06:25 PM",
+        "iso_date": "2026-04-10T18:25:09+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
         "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
         "published": "10 Apr 2026, 07:09 PM",
@@ -33,9 +43,9 @@
       },
       {
         "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQUd0eFdabExxbHRhVkZURzhBel9nbWhPR0NLejZZckVNYjlfRnRjYVMtanJ3aHp6TFM5NkdVYnM4a2ZUR25CcHg2MjJ4QjNwcHRucVYxZGNoUVZCYmdfeE1jNHdMeDB2ZktzS2k3a3BuUDZuUWI4c0VyV1VfSnpYTEhCNXBfTlNsQk1SQmdSZzkwc3FtejJoSnpTYjZEOG1WWERTRGI5VmJQM0NOaGhRUWJ2dklZZENoN3JUQ01LblJaNGQ5cW9lUEh3d3dQVGNmM080QkkyNFVxU1lBRkJOUFZET1hGRXZqX281QkpfUUhKaGxNakpGRVdJX2JMTm4za3ZXSFFaVEo3anlYd2g0SE0zNlM?oc=5",
-        "published": "11 Apr 2026, 01:30 AM",
-        "iso_date": "2026-04-11T01:30:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1BpR3ZPYVpES0FqZ2ZEV25yREtBVGxCY3pBelN6YThTYzJDdVV5NUY0YVc3OUxCTHQwZjMwcUNFYUNQZjE1V0lHLTBoSmt2QW5qckZ6ckFKNUxqVGZCM1lJLUU3UWJqYTRRdm5KS1hSMEdXazU1VjdPVE51UDJHQk00blRoNkFLMXFGUWJBUlJRM2cxemNhQjc3WnNpZFlEaW03VnpSSDhKaE9tbllweFpPcU16TmRhbWp3OWh6QWZnWGRCNGVQQU1jWi1JaER1cWc?oc=5",
+        "published": "11 Apr 2026, 02:26 AM",
+        "iso_date": "2026-04-11T02:26:21+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -166,52 +176,72 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Major Strikes on Saudi Oil Infrastructure Cause Production Losses",
+        "link": "https://www.newsofbahrain.com/world/130358.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bmjCLYSiyN_2026-04-11_1775894893resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Cooperation Council Backs Lebanon",
+        "link": "https://www.newsofbahrain.com/world/130357.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_T1Ic9NOQPw_2026-04-11_1775894781resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE Foreign Minister Holds Talks with Global Counterparts After Regional Escalation",
+        "link": "https://www.newsofbahrain.com/world/130356.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xTLj06lWbN_2026-04-11_1775894333resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Colombia Imposes 100% Tariffs on Ecuador Imports Amid Rising Tensions",
+        "link": "https://www.newsofbahrain.com/world/130355.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LbQlxROhD4_2026-04-11_1775893858resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russian envoy in US for economy talks: Kremlin",
+        "link": "https://www.newsofbahrain.com/business/130354.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "IMF to cut global growth forecast due to Mideast war",
         "link": "https://www.newsofbahrain.com/bahrain/130352.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x23ZujchYU_2026-04-11_1775893463resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Djibouti President Guelleh Wins Sixth Term in Landslide Victory",
-        "link": "https://www.newsofbahrain.com/world/130351.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GZuEJUNtpC_2026-04-11_1775893019resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Stocks mixed, oil steadies on guarded optimism for Iran ceasefire",
-        "link": "https://www.newsofbahrain.com/business/130350.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TLiqsCMoxN_2026-04-11_1775892933resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x23ZujchYU_2026-04-11_1775893463thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Limited Access for Foreign Lawyers",
         "link": "https://www.newsofbahrain.com/bahrain/130349.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QfTPFEip6q_2026-04-11_1775892450resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India’s External Affairs Minister to Reach UAE Today Amid Push to Secure India’s Energy Interests",
-        "link": "https://www.newsofbahrain.com/world/130348.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j6wfb8JsES_2026-04-11_1775892258resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QfTPFEip6q_2026-04-11_1775892450thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -246,22 +276,22 @@
         "category": "Latest"
       },
       {
-        "title": "South Korea’s President Lee Jae Myung Criticises Israel Amid Disinformation Row",
-        "link": "https://www.newsofbahrain.com/world/130336.html",
+        "title": "US consumer inflation surges 3.3% year-on-year as Iran war impact bites",
+        "link": "https://www.newsofbahrain.com/business/130353.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JLzgjMRknP_2026-04-11_1775888330thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1VPvLJmw9T_2026-04-11_1775893663thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Trump Outlines Deal: “No Nuclear Weapon” and Strait of Hormuz to Reopen",
-        "link": "https://www.newsofbahrain.com/world/130331.html",
+        "title": "Stocks mixed, oil steadies on guarded optimism for Iran ceasefire",
+        "link": "https://www.newsofbahrain.com/business/130350.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9V0zYye8PG_2026-04-11_1775887533thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TLiqsCMoxN_2026-04-11_1775892933thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -272,26 +302,6 @@
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WwkqJh2YNr_2026-04-10_1775791252thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil prices jump back toward $100 on Mideast ceasefire doubts",
-        "link": "https://www.newsofbahrain.com/business/130265.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f4t9YUgMBq_2026-04-10_1775791119thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BCFC reinforces a culture of excellence Announces promotion of national talent",
-        "link": "https://www.newsofbahrain.com/business/130264.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q8hD7UsfKc_2026-04-10_1775790972thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 07:47:21 UTC"
+  "fetched_at": "2026-04-11 08:13:54 UTC"
 }
