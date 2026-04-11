@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,20 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "How US AirForce Colonel trekked a 7,000ft high ridge to evade Iranian forces",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1dMbmFNNU1IWnJkNTV1SlVsSHJpZGdDQnRINmE3NzlEamRYLXJfWHBOcUNSb19hY0RkQlhESjZzZmRPZWo5enVHU1NaTE1OdTJwcEpaY2FCb21FR1V0UXhxOXdiVUpYMVlNak5WRU1sb2VLM09jSERoLXdzSnhyUUhweGtaYWZ3RVp6Q18wUkxvSDljY19SOHdONElQSjZBSnFvR1FmWVFuWm9BSFlFOWVNNExGNGRVeUVRTy1VcDE4Zmc?oc=5",
-        "published": "10 Apr 2026, 07:36 AM",
-        "iso_date": "2026-04-10T07:36:52+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "'Churchill would have sacked the lot of them': Donald Trump mocks Britain's 'toy aircraft carriers'",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkdiTzlZMkhXcTJMMjZWc0hGaEppUk54djY0LVp3UVhzSUh3V20xMzVucm9fVVA2bUh3YXo0M1lDM2wwcFZwRDl3TTZ6cXpHN2JXY194YWJaWGhWemlMWGhjcVJyLUpJQ2J5dTNwMmFWOURzaWhhN0RtYi1UdGJFZURKbVN2NkJMc0xmeEJlN2xqRkVldjBJRjRWSEdnRDNMV0dPRy0yQnVtVUZtR1hOVmdwQmFZbUF0ZnItUVVPbml5SVJ5QVVXTGxGdFYwVmtQUjF0WEFFa255QQ?oc=5",
-        "published": "10 Apr 2026, 07:42 AM",
-        "iso_date": "2026-04-10T07:42:06+00:00",
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
+        "published": "10 Apr 2026, 07:09 PM",
+        "iso_date": "2026-04-10T19:09:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -54,52 +44,52 @@
     ],
     "gdn": [
       {
-        "title": "King highlights strong Bahrain-UK partnership",
-        "link": "https://www.gdnonline.com/Details/1381015/King-highlights-strong-Bahrain-UK-partnership",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
+        "title": "Protection of undersea cables âkey to securityâ",
+        "link": "https://www.gdnonline.com/Details/1381084/Protection-of-undersea-cables-âkey-to-securityâ",
+        "published": "11 Apr 2026",
+        "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410011444poneone_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260410_215021_0_T.jpg?20260411",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "HRH Prince Salman calls for Iranâs commitment to ceasefire, reopening of Strait",
-        "link": "https://www.gdnonline.com/Details/1381014/HRH-Prince-Salman-calls-for-Iranâs-commitment-to-ceasefire,-reopening-of-Strait-",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
+        "title": "Helping parents of children with diabetes manage stress and fear",
+        "link": "https://www.gdnonline.com/Details/1381085/Helping-parents-of-children-with-diabetes-manage-stress-and-fear",
+        "published": "11 Apr 2026",
+        "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410011733ponetwo_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410234350dr1(2)_T.jpg?20260411",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "No missiles or drones detected over Bahrainâs airspace in last 24 hours",
-        "link": "https://www.gdnonline.com/Details/1381053/No-missiles-or-drones-detected-over-Bahrainâs-airspace-in-last-24-hours",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
+        "title": "Plans in place to roll out housing services",
+        "link": "https://www.gdnonline.com/Details/1381081/Plans-in-place-to-roll-out-housing-services",
+        "published": "11 Apr 2026",
+        "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260410_215001_0_T.jpg?20260411",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "First flight takes off",
-        "link": "https://www.gdnonline.com/Details/1381031/First-flight-takes-off",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
+        "title": "Major changes to Bahrainâs execution law set for debate",
+        "link": "https://www.gdnonline.com/Details/1381082/Major-changes-to-Bahrainâs-execution-law-set-for-debate",
+        "published": "11 Apr 2026",
+        "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410023242gulfairtwo_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260410_215002_0_T.jpg?20260411",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Anti-inflation allowance benefits 138,909 citizens",
-        "link": "https://www.gdnonline.com/Details/1380983/Anti-inflation-allowance-benefits-138,909-citizens",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
+        "title": "MP calls on banks to offer temporary relief measures",
+        "link": "https://www.gdnonline.com/Details/1381083/MP-calls-on-banks-to-offer-temporary-relief-measures",
+        "published": "11 Apr 2026",
+        "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260409/20260409230808osama1_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260410_215002_2.jpeg?20260411",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +99,7 @@
         "published": "10 Apr 2026",
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002747business_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002747business_T.jpg?20260411",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,27 +109,47 @@
         "published": "10 Apr 2026",
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002106shaikhnasser_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002106shaikhnasser_T.jpg?20260411",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Al Ahly keeper El Shenawy banned four games for striking referee",
-        "link": "https://www.gdnonline.com/Details/1381063/Al-Ahly-keeper-El-Shenawy-banned-four-games-for-striking-referee",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
+        "title": "Riffa reach final after dramatic shootout win",
+        "link": "https://www.gdnonline.com/Details/1381130/Riffa-reach-final-after-dramatic-shootout-win",
+        "published": "11 Apr 2026",
+        "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410174517shen_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411025230fone_T.jpg?20260411",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Reports: FC Cincinnati pursuing Brazil star Neymar",
-        "link": "https://www.gdnonline.com/Details/1381064/Reports-FC-Cincinnati-pursuing-Brazil-star-Neymar",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
+        "title": "West ham rout wolves",
+        "link": "https://www.gdnonline.com/Details/1381132/West-ham-rout-wolves",
+        "published": "11 Apr 2026",
+        "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410174943nr_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411_024606_1_T.jpg?20260411",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Real Madrid held to disappointing draw",
+        "link": "https://www.gdnonline.com/Details/1381111/Real-Madrid-held-to-disappointing-draw",
+        "published": "11 Apr 2026",
+        "iso_date": "2026-04-11T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411012326iajja_T.jpg?20260411",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Italy appoint coach for friendlies",
+        "link": "https://www.gdnonline.com/Details/1381115/Italy-appoint-coach-for-friendlies",
+        "published": "11 Apr 2026",
+        "iso_date": "2026-04-11T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411012005sdfv_T.jpg?20260411",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,39 +159,79 @@
         "published": "10 Apr 2026",
         "iso_date": "2026-04-10T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410_022948_0_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Robertson set to leave Liverpool",
-        "link": "https://www.gdnonline.com/Details/1381024/Robertson-set-to-leave-Liverpool",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410013814degvbs_T.jpg?20260410",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Teams target final berths",
-        "link": "https://www.gdnonline.com/Details/1381019/Teams-target-final-berths",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410013217hhone_T.jpg?20260410",
+        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410_022948_0_T.jpg?20260411",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
+        "title": "IMF to cut global growth forecast due to Mideast war",
+        "link": "https://www.newsofbahrain.com/bahrain/130352.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x23ZujchYU_2026-04-11_1775893463resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Djibouti President Guelleh Wins Sixth Term in Landslide Victory",
+        "link": "https://www.newsofbahrain.com/world/130351.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GZuEJUNtpC_2026-04-11_1775893019resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Stocks mixed, oil steadies on guarded optimism for Iran ceasefire",
+        "link": "https://www.newsofbahrain.com/business/130350.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TLiqsCMoxN_2026-04-11_1775892933resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Limited Access for Foreign Lawyers",
+        "link": "https://www.newsofbahrain.com/bahrain/130349.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QfTPFEip6q_2026-04-11_1775892450resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India’s External Affairs Minister to Reach UAE Today Amid Push to Secure India’s Energy Interests",
+        "link": "https://www.newsofbahrain.com/world/130348.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j6wfb8JsES_2026-04-11_1775892258resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Club and Association Penalties Bill A bill",
+        "link": "https://www.newsofbahrain.com/bahrain/130347.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dh1eEDcGN8_2026-04-11_1775892205thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "GCC Customs Law Changes Under Review",
         "link": "https://www.newsofbahrain.com/bahrain/130346.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_l6fxcsX2GF_2026-04-11_1775891930resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_l6fxcsX2GF_2026-04-11_1775891930thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -191,37 +241,7 @@
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iU9OdYZJEG_2026-04-11_1775891806resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Outstanding Housing Requests Reach 29,000",
-        "link": "https://www.newsofbahrain.com/bahrain/130344.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TdRrLvB8hX_2026-04-11_1775891637resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Low Uptake for BD40,000 Housing Option in Muharraq",
-        "link": "https://www.newsofbahrain.com/bahrain/130343.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_32Z4fbxYI5_2026-04-11_1775891178resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Muharraq Heritage Project to Deliver 300 Homes by 2026",
-        "link": "https://www.newsofbahrain.com/bahrain/130342.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U1NcVo9Sgh_2026-04-11_1775890841resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iU9OdYZJEG_2026-04-11_1775891806thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -242,26 +262,6 @@
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9V0zYye8PG_2026-04-11_1775887533thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Witkoff, Kushner Arrive in Islamabad for Key US-Iran Talks",
-        "link": "https://www.newsofbahrain.com/world/130330.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NbVF1uRjdL_2026-04-11_1775887298thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Artemis II Mission Ends in Historic Splashdown After Successful Lunar Flyby",
-        "link": "https://www.newsofbahrain.com/world/130326.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oUV3bseAk6_2026-04-11_1775886561thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +292,6 @@
         "iso_date": "2026-04-10T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_q8hD7UsfKc_2026-04-10_1775790972thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kanoo Highlights FGCCC’s Role in Representing the Private Sector",
-        "link": "https://www.newsofbahrain.com/business/130263.html",
-        "published": "10 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-10T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fKzFEpWTZm_2026-04-10_1775790842thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 07:23:24 UTC"
+  "fetched_at": "2026-04-11 07:47:21 UTC"
 }
