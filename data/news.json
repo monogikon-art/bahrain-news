@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 12
+      "count": 14
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -162,96 +162,116 @@
         "image": "https://www.gdnonline.com/gdnimages/20260411/20260411025230fone_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
+      },
+      {
+        "title": "'Paddington' musical, Hollywood stars to vie for prizes at Olivier Awards",
+        "link": "https://www.gdnonline.com/Details/1381217/Paddington-musical,-Hollywood-stars-to-vie-for-prizes-at-Olivier-Awards",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412095536gdnwebsitesize(33)_T.jpg?20260412",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Pop star Pink tapped to host Broadwayâs Tony Awards",
+        "link": "https://www.gdnonline.com/Details/1381210/Pop-star-Pink-tapped-to-host-Broadwayâs-Tony-Awards",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412093955popstarpinktappedtohostbroadwayâstonyawards_T.jpg?20260412",
+        "source": "gdn",
+        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "ONE MORE DRONE DOWNED",
-        "link": "https://www.newsofbahrain.com/bahrain/130418.html",
+        "title": "Election Campaigns in Bahrain May Go Digital",
+        "link": "https://www.newsofbahrain.com/bahrain/130426.html",
         "published": "12 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ehiNEzZSYs_2026-04-12_1775979004resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JFGZQL2Tyv_2026-04-12_1775981211resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "24-Hour Food Hub Activated",
-        "link": "https://www.newsofbahrain.com/bahrain/130417.html",
+        "title": "Bahrain Crushes Iran-linked Drug Smuggling Ring",
+        "link": "https://www.newsofbahrain.com/bahrain/130425.html",
         "published": "12 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xS7FgQIMKT_2026-04-12_1775978156resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YOZrUaEi3f_2026-04-12_1775981124resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrainisation Ahead of Target",
+        "link": "https://www.newsofbahrain.com/bahrain/130424.html",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_48DjdlKXyk_2026-04-12_1775981028resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Arabia Restores Oil Flow Capacity After Recent Disruptions",
+        "link": "https://www.newsofbahrain.com/world/130423.html",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q46wKqirML_2026-04-12_1775980309resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Court Overturns Absconding Report Against Worker",
+        "link": "https://www.newsofbahrain.com/bahrain/130422.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5EcArXq9lR_2026-04-12_1775980221resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, UK Review US– Iran Talks",
+        "link": "https://www.newsofbahrain.com/bahrain/130421.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wsmInuhiFd_2026-04-12_1775979882thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Hormuz Mine Clearance Begins",
+        "link": "https://www.newsofbahrain.com/world/130419.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qnjQaMiCZw_2026-04-12_1775979383thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Mauritius Vows to Pursue Return of Chagos Islands Amid Uncertainty",
         "link": "https://www.newsofbahrain.com/world/130416.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kdqleZf6DI_2026-04-11_1775936568resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kdqleZf6DI_2026-04-11_1775936568thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "UK Seizes $500M Worth of Cocaine Hidden in Banana and Wine Shipments",
         "link": "https://www.newsofbahrain.com/world/130415.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UcQT0lJqBf_2026-04-11_1775936306resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bangladesh mob beats spiritual leader to death: authorities",
-        "link": "https://www.newsofbahrain.com/world/130414.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BnXb15ur7U_2026-04-11_1775936177resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "IMF to cut global growth forecast due to Mideast war",
-        "link": "https://www.newsofbahrain.com/bahrain/130352.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x23ZujchYU_2026-04-11_1775893463thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Limited Access for Foreign Lawyers",
-        "link": "https://www.newsofbahrain.com/bahrain/130349.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QfTPFEip6q_2026-04-11_1775892450thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Club and Association Penalties Bill A bill",
-        "link": "https://www.newsofbahrain.com/bahrain/130347.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dh1eEDcGN8_2026-04-11_1775892205thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Cyprus building collapse kills 2, injures 4",
-        "link": "https://www.newsofbahrain.com/world/130413.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mxUd1w40BE_2026-04-11_1775936061thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UcQT0lJqBf_2026-04-11_1775936306thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -419,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 07:31:21 UTC"
+  "fetched_at": "2026-04-12 08:18:39 UTC"
 }
