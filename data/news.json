@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 16
     }
   },
   "articles": {
@@ -186,6 +186,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Russia and Iran Leaders Discuss Middle East Developments and Strengthen Bilateral Ties in Phone Call",
+        "link": "https://www.newsofbahrain.com/world/130455.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1DxJOGKN2Z_2026-04-12_1776014841resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Sailing Vessel Escapes Armed Skiff Approach Southwest of Yemen’s Hodeidah",
         "link": "https://www.newsofbahrain.com/world/130454.html",
         "published": "12 Apr 2026, 09:22 AM",
@@ -198,8 +208,8 @@
       {
         "title": "Hormuz Crisis Escalates as Attacks Disrupt Global Energy Lifeline",
         "link": "https://www.newsofbahrain.com/world/130453.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_oBvNu4fFqT_2026-04-12_1776003380resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,20 +228,10 @@
       {
         "title": "Iyer leads Punjab’s chase of 220 to down Hyderabad",
         "link": "https://www.newsofbahrain.com/sports/130451.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rjuazDVpok_2026-04-12_1776000505resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Muharraq move closer to title",
-        "link": "https://www.newsofbahrain.com/sports/130450.html",
         "published": "12 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Lumi0c4qen_2026-04-12_1775997399resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rjuazDVpok_2026-04-12_1776000505resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,16 +282,6 @@
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_sbgYHAlTjk_2026-04-12_1775982264thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Asha Bhosle Passes Away at 92",
-        "link": "https://www.newsofbahrain.com/world/130445.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rVCifIGDLA_2026-04-12_1775995701thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 17:12:17 UTC"
+  "fetched_at": "2026-04-12 17:44:37 UTC"
 }
