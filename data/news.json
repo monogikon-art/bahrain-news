@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
         "published": "11 Apr 2026, 09:51 PM",
         "iso_date": "2026-04-11T21:51:47+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Artemis 2 astronauts embark on their return journey from the moon",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcV9RLTFlU1NTT2VfUnJmQnpUei1YbEZEc3BYcjZCZlhrTUFMM0p1MWY3Zl9rOWpacW5wYlNwdm1CenhkQWVIa0JQVWlqbTh0WXZ6S3hXSGR0RTlQOXdRLVBQT0o1UU56eFR1eVpGU0RYM1NMRDFWelNSeEs5TFF0WFp5V0pBWG9yQWhkNGMwYU5kQVBJMEU4eFBmSk1zbTlOMktvTVh3VUFYV3lYUURwRTZkcVpuRTBIcFpyckFybk5ORHJHRTVyYW1mM3d2Rjl1M1FBMnptWUlvTGRyTnVLSjM5R2RpQQ?oc=5",
-        "published": "11 Apr 2026, 08:41 PM",
-        "iso_date": "2026-04-11T20:41:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 17:44:37 UTC"
+  "fetched_at": "2026-04-12 18:14:11 UTC"
 }
