@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 15
     }
   },
   "articles": {
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
         "published": "11 Apr 2026, 09:51 PM",
         "iso_date": "2026-04-11T21:51:47+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Artemis 2 astronauts embark on their return journey from the moon",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcV9RLTFlU1NTT2VfUnJmQnpUei1YbEZEc3BYcjZCZlhrTUFMM0p1MWY3Zl9rOWpacW5wYlNwdm1CenhkQWVIa0JQVWlqbTh0WXZ6S3hXSGR0RTlQOXdRLVBQT0o1UU56eFR1eVpGU0RYM1NMRDFWelNSeEs5TFF0WFp5V0pBWG9yQWhkNGMwYU5kQVBJMEU4eFBmSk1zbTlOMktvTVh3VUFYV3lYUURwRTZkcVpuRTBIcFpyckFybk5ORHJHRTVyYW1mM3d2Rjl1M1FBMnptWUlvTGRyTnVLSjM5R2RpQQ?oc=5",
-        "published": "11 Apr 2026, 08:41 PM",
-        "iso_date": "2026-04-11T20:41:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -184,7 +174,158 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "New Regional Peace Talks",
+        "link": "https://www.newsofbahrain.com/world/130439.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mXvoIulpEg_2026-04-12_1775993963resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India Sends Ministers to Gulf",
+        "link": "https://www.newsofbahrain.com/world/130438.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_S0fWxYncQw_2026-04-12_1775993854resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Joint Defence Cooperation",
+        "link": "https://www.newsofbahrain.com/world/130437.html",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_L7fOck5y9V_2026-04-12_1775993544resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The Citizen: The Backbone of Soft Warfare",
+        "link": "https://www.newsofbahrain.com/views/130436.html",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sRlFbNoKOq_2026-04-12_1775993439resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Mythos AI alarm bells: Fair warning or marketing hype?",
+        "link": "https://www.newsofbahrain.com/business/130435.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vBFNnWU0Kw_2026-04-12_1775986604resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Abu Subh Coast Set for Major Redevelopment Project",
+        "link": "https://www.newsofbahrain.com/bahrain/130432.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oQPg0SNzAT_2026-04-12_1775982934thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Health Centre Expansion Due by June After 20,040 Referrals",
+        "link": "https://www.newsofbahrain.com/bahrain/130430.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lOV8YreX20_2026-04-12_1775982652thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shura Council Considers Key Legal Reforms Today",
+        "link": "https://www.newsofbahrain.com/bahrain/130429.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yspCvVMqbG_2026-04-12_1775982525thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A Library Where Memories Are Still Read",
+        "link": "https://www.newsofbahrain.com/bahrain/130428.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sbgYHAlTjk_2026-04-12_1775982264thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Drunk Driver Fined After Amwaj Restaurant Crash",
+        "link": "https://www.newsofbahrain.com/bahrain/130427.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MIBJz5D4fV_2026-04-12_1775981792thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Arabia Restores Oil Flow Capacity After Recent Disruptions",
+        "link": "https://www.newsofbahrain.com/world/130423.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q46wKqirML_2026-04-12_1775980309thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "OpenAI CEO’s California home hit by Molotov cocktail, man arrested",
+        "link": "https://www.newsofbahrain.com/business/130434.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VR4DdUWnMt_2026-04-12_1775985270thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "War’s impact on fertilisers stirs food producer fears",
+        "link": "https://www.newsofbahrain.com/business/130433.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dyvN5bSz6x_2026-04-12_1775983208thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russian envoy in US for economy talks: Kremlin",
+        "link": "https://www.newsofbahrain.com/business/130354.html",
+        "published": "11 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-11T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Uncrustables Promise Awaits Artemis II Crew After Historic Mission",
+        "link": "https://www.newsofbahrain.com/views/130407.html",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pdPtZIKbCo_2026-04-11_1775934013thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -298,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 11:13:53 UTC"
+  "fetched_at": "2026-04-12 11:43:36 UTC"
 }
