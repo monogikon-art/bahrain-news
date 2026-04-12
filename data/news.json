@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,26 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
         "published": "11 Apr 2026, 09:51 PM",
         "iso_date": "2026-04-11T21:51:47+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran don launch missile strike on Israel and US base dem for Gulf",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95QmZhRjBuZGNGUTh1cnRiT2NaVHJjR2F6OFluQmh4d3JRdTJ4TVFpNVpTYXV6d1cwZXllcXphZy1QWUJfLUdFbG5Oc3lfM0haVXc5TzVNOXlVSmpOR05hUGUtcGRUUWtrMnBUX3UzQdIBdEFVX3lxTE8yU09BSEIwZlZIM2Z5T0hiZ3JPX001OG5YWTU4MGVLbjE4VWxFNS05cmoyNEQydGxwakl0b1dDYkFFNTlwZ19VdUtuLWJpUUhUZHJnb3c0Y3BsbTZBY085YkZvTHFIbGo5UTlSd2xkaTFyMkZJ?oc=5",
-        "published": "12 Apr 2026, 04:52 AM",
-        "iso_date": "2026-04-12T04:52:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Artemis 2 astronauts embark on their return journey from the moon",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcV9RLTFlU1NTT2VfUnJmQnpUei1YbEZEc3BYcjZCZlhrTUFMM0p1MWY3Zl9rOWpacW5wYlNwdm1CenhkQWVIa0JQVWlqbTh0WXZ6S3hXSGR0RTlQOXdRLVBQT0o1UU56eFR1eVpGU0RYM1NMRDFWelNSeEs5TFF0WFp5V0pBWG9yQWhkNGMwYU5kQVBJMEU4eFBmSk1zbTlOMktvTVh3VUFYV3lYUURwRTZkcVpuRTBIcFpyckFybk5ORHJHRTVyYW1mM3d2Rjl1M1FBMnptWUlvTGRyTnVLSjM5R2RpQQ?oc=5",
-        "published": "11 Apr 2026, 08:41 PM",
-        "iso_date": "2026-04-11T20:41:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,6 +176,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Saudi Arabia summons Iraqi ambassador over drone attacks",
+        "link": "https://www.newsofbahrain.com/world/130457.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MNnZ5G8FRo_2026-04-12_1776026561resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Post-Attack Restoration Begins: GPIC Restoration Efforts Continue Under Strict Safety Guidelines",
         "link": "https://www.newsofbahrain.com/bahrain/130456.html",
         "published": "12 Apr 2026, 09:22 AM",
@@ -208,8 +198,8 @@
       {
         "title": "Russia and Iran Leaders Discuss Middle East Developments and Strengthen Bilateral Ties in Phone Call",
         "link": "https://www.newsofbahrain.com/world/130455.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1DxJOGKN2Z_2026-04-12_1776014841resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,20 +218,10 @@
       {
         "title": "Hormuz Crisis Escalates as Attacks Disrupt Global Energy Lifeline",
         "link": "https://www.newsofbahrain.com/world/130453.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oBvNu4fFqT_2026-04-12_1776003380resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump says US Navy to enforce blockade on Iran at Strait of Hormuz",
-        "link": "https://www.newsofbahrain.com/world/130452.html",
         "published": "12 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1lxWsipNOL_2026-04-12_1776000857resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oBvNu4fFqT_2026-04-12_1776003380resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 20:10:25 UTC"
+  "fetched_at": "2026-04-12 20:45:36 UTC"
 }
