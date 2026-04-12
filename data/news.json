@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -30,66 +30,56 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Iran don launch missile strike on Israel and US base dem for Gulf",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95QmZhRjBuZGNGUTh1cnRiT2NaVHJjR2F6OFluQmh4d3JRdTJ4TVFpNVpTYXV6d1cwZXllcXphZy1QWUJfLUdFbG5Oc3lfM0haVXc5TzVNOXlVSmpOR05hUGUtcGRUUWtrMnBUX3UzQdIBdEFVX3lxTE8yU09BSEIwZlZIM2Z5T0hiZ3JPX001OG5YWTU4MGVLbjE4VWxFNS05cmoyNEQydGxwakl0b1dDYkFFNTlwZ19VdUtuLWJpUUhUZHJnb3c0Y3BsbTZBY085YkZvTHFIbGo5UTlSd2xkaTFyMkZJ?oc=5",
-        "published": "12 Apr 2026, 04:52 AM",
-        "iso_date": "2026-04-12T04:52:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "SCHOOL UPDATE: Parents and students to choose between distance learning and in-person attendance",
-        "link": "https://www.gdnonline.com/Details/1381241/SCHOOL-UPDATE-Parents-and-students-to-choose-between-distance-learning-and-in-person-attendance",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
+        "title": "130 institutions are recognised as technology-driven campuses",
+        "link": "https://www.gdnonline.com/Details/1381260/130-institutions-are-recognised-as-technology-driven-campuses",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412144308websitesize_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220654_0_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "WATCH: Nine suspects arrested in one million dinar theft cases",
-        "link": "https://www.gdnonline.com/Details/1381246/WATCH-Nine-suspects-arrested-in-one-million-dinar-theft-cases",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
+        "title": "Amendments to two major laws are backed",
+        "link": "https://www.gdnonline.com/Details/1381261/Amendments-to-two-major-laws-are-backed-",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412155442websitesize(2)_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412231630websitesize_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Thundery rain lashes Bahrain",
-        "link": "https://www.gdnonline.com/Details/1381184/Thundery-rain-lashes-Bahrain",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
+        "title": "Audited financial statement gets Shura Council approval",
+        "link": "https://www.gdnonline.com/Details/1381262/Audited-financial-statement-gets-Shura-Council-approval",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_003621_1_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220656_2_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Adverts plan for stalled buildings hits road bump",
-        "link": "https://www.gdnonline.com/Details/1381155/Adverts-plan-for-stalled-buildings-hits-road-bump",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
+        "title": "Bahrain supports stability in Western Balkans region",
+        "link": "https://www.gdnonline.com/Details/1381263/Bahrain-supports-stability-in-Western-Balkans-region",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260411_221237_2.png?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220656_4_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Experts call for regular immunisation of elderly",
-        "link": "https://www.gdnonline.com/Details/1381156/Experts-call-for-regular-immunisation-of-elderly-",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
+        "title": "Delivery driver is accused of causing death of three cooks",
+        "link": "https://www.gdnonline.com/Details/1381254/Delivery-driver-is-accused-of-causing-death-of-three-cooks",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260411_221239_0_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220617_2_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +89,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005321gill_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005321gill_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +99,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005444edited12_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005444edited12_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,7 +109,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_014803_0_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_014803_0_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +119,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_010321_1_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_010321_1_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +129,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_014802_0_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_014802_0_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +139,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412012432images_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412012432images_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +149,7 @@
         "published": "11 Apr 2026",
         "iso_date": "2026-04-11T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411025230fone_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411025230fone_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +159,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412095536gdnwebsitesize(33)_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412095536gdnwebsitesize(33)_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,12 +169,22 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412093955popstarpinktappedtohostbroadwayâstonyawards_T.jpg?20260412",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412093955popstarpinktappedtohostbroadwayâstonyawards_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
+      {
+        "title": "U.S. to Enforce Maritime Blockade on Iranian Ports Starting Today",
+        "link": "https://www.newsofbahrain.com/world/130468.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pc4d6HgPm0_2026-04-12_1776030043resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Private Institutes Resume Classroom Learning Under New Guidelines",
         "link": "https://www.newsofbahrain.com/bahrain/130467.html",
@@ -218,8 +218,8 @@
       {
         "title": "Coachella Craze What Draws Millions Every Year",
         "link": "https://www.newsofbahrain.com/views/130464.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gvxfbmgt0B_2026-04-12_1776027552resized_pic.jpg",
         "source": "newsofbahrain",
@@ -231,7 +231,7 @@
         "published": "12 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rq2X8xEOjz_2026-04-12_1776027398resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rq2X8xEOjz_2026-04-12_1776027398thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,16 +282,6 @@
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1DxJOGKN2Z_2026-04-12_1776014841thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sailing Vessel Escapes Armed Skiff Approach Southwest of Yemen’s Hodeidah",
-        "link": "https://www.newsofbahrain.com/world/130454.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iZTlzwuVSn_2026-04-12_1776010833thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 21:10:50 UTC"
+  "fetched_at": "2026-04-12 21:44:55 UTC"
 }
