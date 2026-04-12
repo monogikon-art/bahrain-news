@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -110,26 +110,6 @@
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005444edited12_T.jpg?20260412",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Chamber backs GCC economic integration",
-        "link": "https://www.gdnonline.com/Details/1380995/Chamber-backs-GCC-economic-integration",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002747business_T.jpg?20260412",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bapco Energies board reviews performance",
-        "link": "https://www.gdnonline.com/Details/1380996/Bapco-Energies-board-reviews-performance",
-        "published": "10 Apr 2026",
-        "iso_date": "2026-04-10T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260410/20260410002106shaikhnasser_T.jpg?20260412",
         "source": "gdn",
         "category": "Latest"
       },
@@ -449,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-11 23:45:15 UTC"
+  "fetched_at": "2026-04-12 00:30:00 UTC"
 }
