@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 18
     }
   },
   "articles": {
@@ -176,10 +176,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Schools to Offer Online or In-Person Learning",
-        "link": "https://www.newsofbahrain.com/bahrain/130446.html",
+        "title": "Muharraq move closer to title",
+        "link": "https://www.newsofbahrain.com/sports/130450.html",
         "published": "12 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Lumi0c4qen_2026-04-12_1775997399resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "10-man Muharraq stun Al Ahli to reach final",
+        "link": "https://www.newsofbahrain.com/sports/130449.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4iJeqZlnDE_2026-04-12_1775996997resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Arsenal suffer major blow in Premier League title charge",
+        "link": "https://www.newsofbahrain.com/sports/130447.html",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n4cmej1dzW_2026-04-12_1775996518resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Schools to Offer Online or In-Person Learning",
+        "link": "https://www.newsofbahrain.com/bahrain/130446.html",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yy17ax3lA0_2026-04-12_1775995931resized_pic.jpg",
         "source": "newsofbahrain",
@@ -192,36 +222,6 @@
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_rVCifIGDLA_2026-04-12_1775995701resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zendaya hints that Euphoria will come to an end after season three",
-        "link": "https://www.newsofbahrain.com/trends/130444.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2Xuyqpb30e_2026-04-12_1775995330resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Seth Rogen declares second season of The Studio will reflect the loss of Catherine O’Hara",
-        "link": "https://www.newsofbahrain.com/trends/130443.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t0EGYgbyT5_2026-04-12_1775995054resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Maldives President Departs Jeddah After Official Visit",
-        "link": "https://www.newsofbahrain.com/world/130442.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eox5SB1ZKQ_2026-04-12_1775994697resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -262,6 +262,16 @@
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_sbgYHAlTjk_2026-04-12_1775982264thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Maldives President Departs Jeddah After Official Visit",
+        "link": "https://www.newsofbahrain.com/world/130442.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eox5SB1ZKQ_2026-04-12_1775994697thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 12:13:20 UTC"
+  "fetched_at": "2026-04-12 12:47:37 UTC"
 }
