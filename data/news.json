@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 0
     }
   },
   "articles": {
@@ -184,148 +184,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Mythos AI alarm bells: Fair warning or marketing hype?",
-        "link": "https://www.newsofbahrain.com/business/130435.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vBFNnWU0Kw_2026-04-12_1775986604resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "OpenAI CEO’s California home hit by Molotov cocktail, man arrested",
-        "link": "https://www.newsofbahrain.com/business/130434.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VR4DdUWnMt_2026-04-12_1775985270resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "War’s impact on fertilisers stirs food producer fears",
-        "link": "https://www.newsofbahrain.com/business/130433.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dyvN5bSz6x_2026-04-12_1775983208resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Abu Subh Coast Set for Major Redevelopment Project",
-        "link": "https://www.newsofbahrain.com/bahrain/130432.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oQPg0SNzAT_2026-04-12_1775982934resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Health Centre Expansion Due by June After 20,040 Referrals",
-        "link": "https://www.newsofbahrain.com/bahrain/130430.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lOV8YreX20_2026-04-12_1775982652resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura Council Considers Key Legal Reforms Today",
-        "link": "https://www.newsofbahrain.com/bahrain/130429.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yspCvVMqbG_2026-04-12_1775982525thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A Library Where Memories Are Still Read",
-        "link": "https://www.newsofbahrain.com/bahrain/130428.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sbgYHAlTjk_2026-04-12_1775982264thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Drunk Driver Fined After Amwaj Restaurant Crash",
-        "link": "https://www.newsofbahrain.com/bahrain/130427.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MIBJz5D4fV_2026-04-12_1775981792thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Arabia Restores Oil Flow Capacity After Recent Disruptions",
-        "link": "https://www.newsofbahrain.com/world/130423.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q46wKqirML_2026-04-12_1775980309thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hormuz Mine Clearance Begins",
-        "link": "https://www.newsofbahrain.com/world/130419.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qnjQaMiCZw_2026-04-12_1775979383thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Mauritius Vows to Pursue Return of Chagos Islands Amid Uncertainty",
-        "link": "https://www.newsofbahrain.com/world/130416.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kdqleZf6DI_2026-04-11_1775936568thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UK Seizes $500M Worth of Cocaine Hidden in Banana and Wine Shipments",
-        "link": "https://www.newsofbahrain.com/world/130415.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UcQT0lJqBf_2026-04-11_1775936306thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russian envoy in US for economy talks: Kremlin",
-        "link": "https://www.newsofbahrain.com/business/130354.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Uncrustables Promise Awaits Artemis II Crew After Historic Mission",
-        "link": "https://www.newsofbahrain.com/views/130407.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pdPtZIKbCo_2026-04-11_1775934013thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -439,5 +298,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 10:45:26 UTC"
+  "fetched_at": "2026-04-12 11:13:53 UTC"
 }
