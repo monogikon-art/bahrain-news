@@ -186,6 +186,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Mythos AI alarm bells: Fair warning or marketing hype?",
+        "link": "https://www.newsofbahrain.com/business/130435.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vBFNnWU0Kw_2026-04-12_1775986604resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "OpenAI CEO’s California home hit by Molotov cocktail, man arrested",
         "link": "https://www.newsofbahrain.com/business/130434.html",
         "published": "12 Apr 2026, 09:22 AM",
@@ -198,8 +208,8 @@
       {
         "title": "War’s impact on fertilisers stirs food producer fears",
         "link": "https://www.newsofbahrain.com/business/130433.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_dyvN5bSz6x_2026-04-12_1775983208resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,8 +228,8 @@
       {
         "title": "Kuwait Health Centre Expansion Due by June After 20,040 Referrals",
         "link": "https://www.newsofbahrain.com/bahrain/130430.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_lOV8YreX20_2026-04-12_1775982652resized_pic.jpg",
         "source": "newsofbahrain",
@@ -231,7 +241,7 @@
         "published": "12 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yspCvVMqbG_2026-04-12_1775982525resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yspCvVMqbG_2026-04-12_1775982525thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +312,6 @@
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US consumer inflation surges 3.3% year-on-year as Iran war impact bites",
-        "link": "https://www.newsofbahrain.com/business/130353.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1VPvLJmw9T_2026-04-11_1775893663thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 09:18:12 UTC"
+  "fetched_at": "2026-04-12 09:46:36 UTC"
 }
