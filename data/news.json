@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,46 +20,25 @@
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Iran don launch missile strike on Israel and US base dem for Gulf",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95QmZhRjBuZGNGUTh1cnRiT2NaVHJjR2F6OFluQmh4d3JRdTJ4TVFpNVpTYXV6d1cwZXllcXphZy1QWUJfLUdFbG5Oc3lfM0haVXc5TzVNOXlVSmpOR05hUGUtcGRUUWtrMnBUX3UzQdIBdEFVX3lxTE8yU09BSEIwZlZIM2Z5T0hiZ3JPX001OG5YWTU4MGVLbjE4VWxFNS05cmoyNEQydGxwakl0b1dDYkFFNTlwZ19VdUtuLWJpUUhUZHJnb3c0Y3BsbTZBY085YkZvTHFIbGo5UTlSd2xkaTFyMkZJ?oc=5",
-        "published": "12 Apr 2026, 04:52 AM",
-        "iso_date": "2026-04-12T04:52:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
-        "title": "130 institutions are recognised as technology-driven campuses",
-        "link": "https://www.gdnonline.com/Details/1381260/130-institutions-are-recognised-as-technology-driven-campuses",
+        "title": "New BBK initiative for young customers",
+        "link": "https://www.gdnonline.com/Details/1381253/New-BBK-initiative-for-young-customers",
         "published": "13 Apr 2026",
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220654_0_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220617_0_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Amendments to two major laws are backed",
-        "link": "https://www.gdnonline.com/Details/1381261/Amendments-to-two-major-laws-are-backed-",
+        "title": "Official calls for mindful social media use amid conflict anxiety",
+        "link": "https://www.gdnonline.com/Details/1381273/Official-calls-for-mindful-social-media-use-amid-conflict-anxiety",
         "published": "13 Apr 2026",
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412231630websitesize_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Audited financial statement gets Shura Council approval",
-        "link": "https://www.gdnonline.com/Details/1381262/Audited-financial-statement-gets-Shura-Council-approval",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220656_2_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413004257social_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -74,12 +53,22 @@
         "category": "Latest"
       },
       {
-        "title": "Delivery driver is accused of causing death of three cooks",
-        "link": "https://www.gdnonline.com/Details/1381254/Delivery-driver-is-accused-of-causing-death-of-three-cooks",
+        "title": "Responsible use of artificial intelligence is top priority",
+        "link": "https://www.gdnonline.com/Details/1381259/Responsible-use-of-artificial-intelligence-is-top-priority-",
         "published": "13 Apr 2026",
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220617_2_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412232116websitesize(1)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Hybrid learning announced for educational institutions",
+        "link": "https://www.gdnonline.com/Details/1381241/Hybrid-learning-announced-for-educational-institutions",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413004145car_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -459,5 +448,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 22:09:35 UTC"
+  "fetched_at": "2026-04-12 22:45:23 UTC"
 }
