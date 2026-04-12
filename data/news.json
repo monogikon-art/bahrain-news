@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -166,10 +166,30 @@
     ],
     "newsofbahrain": [
       {
+        "title": "ONE MORE DRONE DOWNED",
+        "link": "https://www.newsofbahrain.com/bahrain/130418.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ehiNEzZSYs_2026-04-12_1775979004resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "24-Hour Food Hub Activated",
+        "link": "https://www.newsofbahrain.com/bahrain/130417.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xS7FgQIMKT_2026-04-12_1775978156resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Mauritius Vows to Pursue Return of Chagos Islands Amid Uncertainty",
         "link": "https://www.newsofbahrain.com/world/130416.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_kdqleZf6DI_2026-04-11_1775936568resized_pic.jpg",
         "source": "newsofbahrain",
@@ -178,8 +198,8 @@
       {
         "title": "UK Seizes $500M Worth of Cocaine Hidden in Banana and Wine Shipments",
         "link": "https://www.newsofbahrain.com/world/130415.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
+        "published": "11 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-11T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_UcQT0lJqBf_2026-04-11_1775936306resized_pic.jpg",
         "source": "newsofbahrain",
@@ -188,30 +208,10 @@
       {
         "title": "Bangladesh mob beats spiritual leader to death: authorities",
         "link": "https://www.newsofbahrain.com/world/130414.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BnXb15ur7U_2026-04-11_1775936177resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Cyprus building collapse kills 2, injures 4",
-        "link": "https://www.newsofbahrain.com/world/130413.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mxUd1w40BE_2026-04-11_1775936061resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Irish police chief denounces oil refinery blockade",
-        "link": "https://www.newsofbahrain.com/world/130412.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XzaBVm7M1k_2026-04-11_1775935930resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BnXb15ur7U_2026-04-11_1775936177resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -246,22 +246,12 @@
         "category": "Latest"
       },
       {
-        "title": "GCC Customs Law Changes Under Review",
-        "link": "https://www.newsofbahrain.com/bahrain/130346.html",
+        "title": "Cyprus building collapse kills 2, injures 4",
+        "link": "https://www.newsofbahrain.com/world/130413.html",
         "published": "11 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_l6fxcsX2GF_2026-04-11_1775891930thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BD800m Housing Plan to Deliver 50,000 Units",
-        "link": "https://www.newsofbahrain.com/bahrain/130345.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iU9OdYZJEG_2026-04-11_1775891806thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mxUd1w40BE_2026-04-11_1775936061thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 06:34:36 UTC"
+  "fetched_at": "2026-04-12 07:31:21 UTC"
 }
