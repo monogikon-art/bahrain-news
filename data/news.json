@@ -93,6 +93,36 @@
         "category": "Latest"
       },
       {
+        "title": "City close gap on leaders Arsenal",
+        "link": "https://www.gdnonline.com/Details/1381298/City-close-gap-on-leaders-Arsenal-",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413013901manchestercity_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Leon strikes as Sundowns snatch away win",
+        "link": "https://www.gdnonline.com/Details/1381302/Leon-strikes-as-Sundowns-snatch-away-win",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413020832images(1)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Inter extend Serie A lead",
+        "link": "https://www.gdnonline.com/Details/1381301/Inter-extend-Serie-A-lead-",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413_015957_0_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Arsenal suffer title jolt",
         "link": "https://www.gdnonline.com/Details/1381198/Arsenal-suffer-title-jolt",
         "published": "12 Apr 2026",
@@ -109,36 +139,6 @@
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_010321_1_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Ngumoha makes history as Salah stars in Liverpool win",
-        "link": "https://www.gdnonline.com/Details/1381197/Ngumoha-makes-history-as-Salah-stars-in-Liverpool-win",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412_014802_0_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Fans set to return from next round of league",
-        "link": "https://www.gdnonline.com/Details/1381193/Fans-set-to-return-from-next-round-of-league",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412012432images_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Riffa reach final after dramatic shootout win",
-        "link": "https://www.gdnonline.com/Details/1381130/Riffa-reach-final-after-dramatic-shootout-win",
-        "published": "11 Apr 2026",
-        "iso_date": "2026-04-11T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260411/20260411025230fone_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -448,5 +448,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-12 23:11:39 UTC"
+  "fetched_at": "2026-04-12 23:45:10 UTC"
 }
