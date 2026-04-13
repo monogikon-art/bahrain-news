@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 16
     }
   },
   "articles": {
@@ -165,6 +165,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Hungary Votes for Change as Viktor Orbán Loses Power After 16 Years",
+        "link": "https://www.newsofbahrain.com/world/130471.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4Dbqz18vFW_2026-04-13_1776060557resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "UAE Sends 53 Tonnes of Medical Aid to Gaza to Support Hospitals",
         "link": "https://www.newsofbahrain.com/world/130470.html",
         "published": "13 Apr 2026, 09:22 AM",
@@ -177,8 +187,8 @@
       {
         "title": "Saudi Arabia Enforces Strict ‘No Hajj Without Permit’ Rules Ahead of 1447 AH Pilgrimage",
         "link": "https://www.newsofbahrain.com/world/130469.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_XIcrEAmYJ1_2026-04-13_1776057122resized_pic.jpg",
         "source": "newsofbahrain",
@@ -197,20 +207,10 @@
       {
         "title": "Private Institutes Resume Classroom Learning Under New Guidelines",
         "link": "https://www.newsofbahrain.com/bahrain/130467.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C4QPn0rYwV_2026-04-12_1776028159resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hospital and Doctor Fined Dh100,000 in Dubai Medical Negligence Case",
-        "link": "https://www.newsofbahrain.com/gcc/130466.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YAsWoRCDGn_2026-04-12_1776027864resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C4QPn0rYwV_2026-04-12_1776028159resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,16 +251,6 @@
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_bR0XV9xQ6H_2026-04-12_1776027023thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Nizar Amedi assumes duty as Iraq’s new president",
-        "link": "https://www.newsofbahrain.com/world/130458.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z4Fsf8XyTo_2026-04-12_1776026732thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -448,5 +438,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 05:53:38 UTC"
+  "fetched_at": "2026-04-13 06:47:13 UTC"
 }
