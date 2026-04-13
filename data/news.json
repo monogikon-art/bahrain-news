@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,22 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 0
     }
   },
   "articles": {
-    "bna": [],
+    "bna": [
+      {
+        "title": "Iran don launch missile strike on Israel and US base dem for Gulf",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95QmZhRjBuZGNGUTh1cnRiT2NaVHJjR2F6OFluQmh4d3JRdTJ4TVFpNVpTYXV6d1cwZXllcXphZy1QWUJfLUdFbG5Oc3lfM0haVXc5TzVNOXlVSmpOR05hUGUtcGRUUWtrMnBUX3UzQdIBdEFVX3lxTE8yU09BSEIwZlZIM2Z5T0hiZ3JPX001OG5YWTU4MGVLbjE4VWxFNS05cmoyNEQydGxwakl0b1dDYkFFNTlwZ19VdUtuLWJpUUhUZHJnb3c0Y3BsbTZBY085YkZvTHFIbGo5UTlSd2xkaTFyMkZJ?oc=5",
+        "published": "12 Apr 2026, 04:52 AM",
+        "iso_date": "2026-04-12T04:52:37+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
     "gdn": [
       {
         "title": "New BBK initiative for young customers",
@@ -163,178 +174,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "U.S. to Enforce Maritime Blockade on Iranian Ports Starting Today",
-        "link": "https://www.newsofbahrain.com/world/130468.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pc4d6HgPm0_2026-04-12_1776030043resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Private Institutes Resume Classroom Learning Under New Guidelines",
-        "link": "https://www.newsofbahrain.com/bahrain/130467.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C4QPn0rYwV_2026-04-12_1776028159resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hospital and Doctor Fined Dh100,000 in Dubai Medical Negligence Case",
-        "link": "https://www.newsofbahrain.com/gcc/130466.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YAsWoRCDGn_2026-04-12_1776027864resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Airport Sting Foils 5kg Meth Smuggling Attempt",
-        "link": "https://www.newsofbahrain.com/bahrain/130465.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H7rQqtShpG_2026-04-12_1776027714resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Coachella Craze What Draws Millions Every Year",
-        "link": "https://www.newsofbahrain.com/views/130464.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gvxfbmgt0B_2026-04-12_1776027552resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man Jailed for Arson Attempt Over Personal Dispute",
-        "link": "https://www.newsofbahrain.com/bahrain/130463.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rq2X8xEOjz_2026-04-12_1776027398thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, Italy Explore Cooperation Amid Regional Tensions",
-        "link": "https://www.newsofbahrain.com/bahrain/130461.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hm9fVlezsu_2026-04-12_1776027130thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, Italy Reaffirm Defence Cooperation in Rome Talks",
-        "link": "https://www.newsofbahrain.com/bahrain/130460.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bR0XV9xQ6H_2026-04-12_1776027023thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Nizar Amedi assumes duty as Iraq’s new president",
-        "link": "https://www.newsofbahrain.com/world/130458.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z4Fsf8XyTo_2026-04-12_1776026732thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Arabia summons Iraqi ambassador over drone attacks",
-        "link": "https://www.newsofbahrain.com/world/130457.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MNnZ5G8FRo_2026-04-12_1776026561thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russia and Iran Leaders Discuss Middle East Developments and Strengthen Bilateral Ties in Phone Call",
-        "link": "https://www.newsofbahrain.com/world/130455.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1DxJOGKN2Z_2026-04-12_1776014841thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Mythos AI alarm bells: Fair warning or marketing hype?",
-        "link": "https://www.newsofbahrain.com/business/130435.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vBFNnWU0Kw_2026-04-12_1775986604thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "OpenAI CEO’s California home hit by Molotov cocktail, man arrested",
-        "link": "https://www.newsofbahrain.com/business/130434.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VR4DdUWnMt_2026-04-12_1775985270thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "War’s impact on fertilisers stirs food producer fears",
-        "link": "https://www.newsofbahrain.com/business/130433.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dyvN5bSz6x_2026-04-12_1775983208thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russian envoy in US for economy talks: Kremlin",
-        "link": "https://www.newsofbahrain.com/business/130354.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "The Citizen: The Backbone of Soft Warfare",
-        "link": "https://www.newsofbahrain.com/views/130436.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sRlFbNoKOq_2026-04-12_1775993439thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Uncrustables Promise Awaits Artemis II Crew After Historic Mission",
-        "link": "https://www.newsofbahrain.com/views/130407.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pdPtZIKbCo_2026-04-11_1775934013thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -448,5 +288,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 01:36:14 UTC"
+  "fetched_at": "2026-04-13 03:06:44 UTC"
 }
