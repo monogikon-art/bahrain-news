@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 16
+      "count": 17
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -62,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
-        "published": "13 Apr 2026, 04:11 PM",
-        "iso_date": "2026-04-13T16:11:39+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain: 194 missiles, 523 drones intercepted since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHpBeFpzcVhlbzN4cmtjdWdDUEVRakV4NEFnVFdfV0pIRjV3eEhVX3pkcE94dzFyV0F6WDlVOS1KaU8ySy1JdnYyamh4TVROcm91NTRmQmVqeXotTWFzaDJvTWhXMUxpRnM0SzNiRVN3NERyNGFJM01jQmUzczRYUDVnbU9OMVdJc3pYU1ZTOXV2eG44LUc2cU9SNmd3TV9QYWVTeUt6UnBLZkhBaXFJZlZCdElhbG1wZTRoOQ?oc=5",
         "published": "13 Apr 2026, 01:27 PM",
@@ -94,32 +84,12 @@
     ],
     "gdn": [
       {
-        "title": "Cancer patient, stroke survivor among 153 Filipinos repatriated",
-        "link": "https://www.gdnonline.com/Details/1381380/Cancer-patient,-stroke-survivor-among-153-Filipinos-repatriated-",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413232703websitesize(5)_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Councillors reject request to relocate Falcon Monument",
         "link": "https://www.gdnonline.com/Details/1381376/Councillors-reject-request-to-relocate-Falcon-Monument-",
         "published": "14 Apr 2026",
         "iso_date": "2026-04-14T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233148websitesize(7)_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "His Majesty meets UAE President",
-        "link": "https://www.gdnonline.com/Details/1381365/His-Majesty-meets-UAE-President",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413160451uae12_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -140,6 +110,36 @@
         "iso_date": "2026-04-14T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233006websitesize(6)_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Private sectorâs role commended",
+        "link": "https://www.gdnonline.com/Details/1381379/Private-sectorâs-role-commended",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260413_231058_0_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Blazeâhit families may get green light to rebuild despite violations",
+        "link": "https://www.gdnonline.com/Details/1381387/Blazeâhit-families-may-get-green-light-to-rebuild-despite-violations",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414_002832_0_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Non-oil sector drives 3.5 per cent growth",
+        "link": "https://www.gdnonline.com/Details/1381391/Non-oil-sector-drives-35-per-cent-growth",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414004013asihbf_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -529,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 22:17:19 UTC"
+  "fetched_at": "2026-04-13 22:46:37 UTC"
 }
