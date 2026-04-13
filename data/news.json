@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,18 +20,7 @@
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Iran don launch missile strike on Israel and US base dem for Gulf",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95QmZhRjBuZGNGUTh1cnRiT2NaVHJjR2F6OFluQmh4d3JRdTJ4TVFpNVpTYXV6d1cwZXllcXphZy1QWUJfLUdFbG5Oc3lfM0haVXc5TzVNOXlVSmpOR05hUGUtcGRUUWtrMnBUX3UzQdIBdEFVX3lxTE8yU09BSEIwZlZIM2Z5T0hiZ3JPX001OG5YWTU4MGVLbjE4VWxFNS05cmoyNEQydGxwakl0b1dDYkFFNTlwZ19VdUtuLWJpUUhUZHJnb3c0Y3BsbTZBY085YkZvTHFIbGo5UTlSd2xkaTFyMkZJ?oc=5",
-        "published": "12 Apr 2026, 04:52 AM",
-        "iso_date": "2026-04-12T04:52:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
         "title": "New BBK initiative for young customers",
@@ -176,10 +165,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "U.S. to Enforce Maritime Blockade on Iranian Ports Starting Today",
-        "link": "https://www.newsofbahrain.com/world/130468.html",
+        "title": "UAE Sends 53 Tonnes of Medical Aid to Gaza to Support Hospitals",
+        "link": "https://www.newsofbahrain.com/world/130470.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XtaRnzVqbp_2026-04-13_1776058769resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Arabia Enforces Strict ‘No Hajj Without Permit’ Rules Ahead of 1447 AH Pilgrimage",
+        "link": "https://www.newsofbahrain.com/world/130469.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XIcrEAmYJ1_2026-04-13_1776057122resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "U.S. to Enforce Maritime Blockade on Iranian Ports Starting Today",
+        "link": "https://www.newsofbahrain.com/world/130468.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_pc4d6HgPm0_2026-04-12_1776030043resized_pic.jpg",
         "source": "newsofbahrain",
@@ -188,8 +197,8 @@
       {
         "title": "Private Institutes Resume Classroom Learning Under New Guidelines",
         "link": "https://www.newsofbahrain.com/bahrain/130467.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_C4QPn0rYwV_2026-04-12_1776028159resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,20 +217,10 @@
       {
         "title": "Airport Sting Foils 5kg Meth Smuggling Attempt",
         "link": "https://www.newsofbahrain.com/bahrain/130465.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H7rQqtShpG_2026-04-12_1776027714resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Coachella Craze What Draws Millions Every Year",
-        "link": "https://www.newsofbahrain.com/views/130464.html",
         "published": "12 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gvxfbmgt0B_2026-04-12_1776027552resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H7rQqtShpG_2026-04-12_1776027714thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -266,26 +265,6 @@
         "category": "Latest"
       },
       {
-        "title": "Saudi Arabia summons Iraqi ambassador over drone attacks",
-        "link": "https://www.newsofbahrain.com/world/130457.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MNnZ5G8FRo_2026-04-12_1776026561thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russia and Iran Leaders Discuss Middle East Developments and Strengthen Bilateral Ties in Phone Call",
-        "link": "https://www.newsofbahrain.com/world/130455.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1DxJOGKN2Z_2026-04-12_1776014841thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Mythos AI alarm bells: Fair warning or marketing hype?",
         "link": "https://www.newsofbahrain.com/business/130435.html",
         "published": "12 Apr 2026, 09:22 AM",
@@ -322,6 +301,16 @@
         "iso_date": "2026-04-11T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Coachella Craze What Draws Millions Every Year",
+        "link": "https://www.newsofbahrain.com/views/130464.html",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gvxfbmgt0B_2026-04-12_1776027552thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +448,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 04:33:55 UTC"
+  "fetched_at": "2026-04-13 05:53:38 UTC"
 }
