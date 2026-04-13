@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 17
     }
   },
   "articles": {
@@ -226,52 +226,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Egypt Introduces Long-Term Multi-Entry Visa",
-        "link": "https://www.newsofbahrain.com/world/130497.html",
+        "title": "Speaker Praises HRH the Crown Prince and Prime Minister’s Directives to Support Economy",
+        "link": "https://www.newsofbahrain.com/bahrain/130504.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1psCIqmGcL_2026-04-13_1776097958resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0823g9LiDT_2026-04-13_1776101057resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "AI Chatbot Case Raises Global Concerns After Man’s Death",
-        "link": "https://www.newsofbahrain.com/views/130496.html",
+        "title": "Bahrain Customs Chief Meets Italian Ambassador to Boost Cooperation",
+        "link": "https://www.newsofbahrain.com/bahrain/130503.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e4v3lo98aB_2026-04-13_1776097158resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FB6Dij8J7o_2026-04-13_1776100570resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Sister Wins Dh968,000 Compensation in Dubai Property Damage Case",
-        "link": "https://www.newsofbahrain.com/gcc/130495.html",
+        "title": "Kuwait Reports No Security Threats in Last 24 Hours",
+        "link": "https://www.newsofbahrain.com/gcc/130502.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WG59o6vTrN_2026-04-13_1776096784resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_86Hkw4bfZt_2026-04-13_1776100417resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait and India Discuss Regional Developments in Ministerial Call",
+        "link": "https://www.newsofbahrain.com/gcc/130501.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aeVOSsZUPK_2026-04-13_1776100074resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump warns Iran naval vessels will be ‘immediately eliminated’ amid blockade escalation",
+        "link": "https://www.newsofbahrain.com/world/130500.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WTzZAUV2Ey_2026-04-13_1776099780resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain Launches Loan Deferral Scheme with BHD 7 Billion Liquidity Boost",
         "link": "https://www.newsofbahrain.com/bahrain/130494.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sugUd609ar_2026-04-13_1776095909resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Spain’s Iberia to suspend flights to Cuba amid US fuel blockade",
-        "link": "https://www.newsofbahrain.com/world/130493.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrwFRyYpnI_2026-04-13_1776091597resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sugUd609ar_2026-04-13_1776095909thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,42 +306,32 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain, US discuss security cooperation and regional stability",
-        "link": "https://www.newsofbahrain.com/bahrain/130484.html",
+        "title": "EU Launches Antitrust Probe with Raids on Chocolate Company",
+        "link": "https://www.newsofbahrain.com/world/130499.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ncr6butkwp_2026-04-13_1776085970thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vGXNSZRJTt_2026-04-13_1776099462thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Private Institutes Resume Classroom Learning Under New Guidelines",
-        "link": "https://www.newsofbahrain.com/bahrain/130467.html",
+        "title": "Egypt Introduces Long-Term Multi-Entry Visa",
+        "link": "https://www.newsofbahrain.com/world/130497.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C4QPn0rYwV_2026-04-12_1776028159thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1psCIqmGcL_2026-04-13_1776097958thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Philippines cuts tax on petroleum products to ease price shock",
-        "link": "https://www.newsofbahrain.com/world/130492.html",
+        "title": "Spain’s Iberia to suspend flights to Cuba amid US fuel blockade",
+        "link": "https://www.newsofbahrain.com/world/130493.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yuLFJB51zR_2026-04-13_1776091174thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "South Africa's new DA leader Geordin Hill-Lewis vows to shed party's white image",
-        "link": "https://www.newsofbahrain.com/world/130491.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_L51qYS7Ivl_2026-04-13_1776089705thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrwFRyYpnI_2026-04-13_1776091597thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -362,6 +362,16 @@
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_dyvN5bSz6x_2026-04-12_1775983208thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "AI Chatbot Case Raises Global Concerns After Man’s Death",
+        "link": "https://www.newsofbahrain.com/views/130496.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e4v3lo98aB_2026-04-13_1776097158thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 16:53:36 UTC"
+  "fetched_at": "2026-04-13 17:25:26 UTC"
 }
