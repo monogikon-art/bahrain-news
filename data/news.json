@@ -23,6 +23,16 @@
     "bna": [],
     "gdn": [
       {
+        "title": "Seven drones intercepted in the last 24 hours",
+        "link": "https://www.gdnonline.com/Details/1381345/Seven-drones-intercepted-in-the-last-24-hours",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413141714bdf12(2)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Woman dies in traffic accident in Al Jasra",
         "link": "https://www.gdnonline.com/Details/1381331/Woman-dies-in-traffic-accident-in-Al-Jasra",
         "published": "13 Apr 2026",
@@ -59,16 +69,6 @@
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260413/20260413004145car_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "130 institutions are recognised as technology-driven campuses",
-        "link": "https://www.gdnonline.com/Details/1381260/130-institutions-are-recognised-as-technology-driven-campuses",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220654_0_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -165,10 +165,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Peru's Fujimori hails first-round vote as win over leftist 'enemy'",
-        "link": "https://www.newsofbahrain.com/world/130476.html",
+        "title": "Ghana footballer dies after robbery attack on team bus",
+        "link": "https://www.newsofbahrain.com/world/130478.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WCIimaPpGk_2026-04-13_1776080319resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bulgaria's ex-president Radev tipped to win snap vote",
+        "link": "https://www.newsofbahrain.com/world/130477.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_itzDKndY1l_2026-04-13_1776079778resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Peru's Fujimori hails first-round vote as win over leftist 'enemy'",
+        "link": "https://www.newsofbahrain.com/world/130476.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QCs7wmLlkZ_2026-04-13_1776076733resized_pic.jpg",
         "source": "newsofbahrain",
@@ -177,30 +197,10 @@
       {
         "title": "Philippines accuses China of poisoning disputed waters",
         "link": "https://www.newsofbahrain.com/world/130474.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7OqpD6iXLU_2026-04-13_1776075965resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "South Korea, Poland vow deeper defence ties on Tusk visit",
-        "link": "https://www.newsofbahrain.com/world/130472.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cCoB0YiOq7_2026-04-13_1776072090resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hungary Votes for Change as Viktor Orbán Loses Power After 16 Years",
-        "link": "https://www.newsofbahrain.com/world/130471.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4Dbqz18vFW_2026-04-13_1776060557resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7OqpD6iXLU_2026-04-13_1776075965resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -418,5 +418,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 11:29:49 UTC"
+  "fetched_at": "2026-04-13 11:57:27 UTC"
 }
