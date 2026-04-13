@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -20,8 +20,49 @@
     }
   },
   "articles": {
-    "bna": [],
+    "bna": [
+      {
+        "title": "Bahrain summons Iraqi diplomat over drone attacks from Iraq",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEpOLXVhc1drNUgyLVpQZ3g1ZUU5VEllalNMdGt2cEs1YWFkM3B6Wl9WVnlDU0c4SDEyMFczNVBudnhmT1Y5VXp0ZlhhaHR6MmxUeGQ2NjljM3FNMzZaRTJkYzVyVUtSOGFZLVR3cU1FaWx6MGdKa0t1M1V5djJmLUhoV3VmS1loZ1FkUk1kLWdfS3k4THF1aG5KTzJ1Y1E?oc=5",
+        "published": "13 Apr 2026, 02:26 PM",
+        "iso_date": "2026-04-13T14:26:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
     "gdn": [
+      {
+        "title": "His Majesty meets UAE President",
+        "link": "https://www.gdnonline.com/Details/1381365/His-Majesty-meets-UAE-President",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413160451uae12_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Prince Salman chairs weekly Cabinet meeting",
+        "link": "https://www.gdnonline.com/Details/1381366/HRH-Prince-Salman-chairs-weekly-Cabinet-meeting",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413161329cp1234(6)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "April salaries for Bahraini private sector employees to be paid from Unemployment Fund",
+        "link": "https://www.gdnonline.com/Details/1381355/April-salaries-for-Bahraini-private-sector-employees-to-be-paid-from-Unemployment-Fund",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413154140cpj_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "HRH Prince Salman meets BCCI chairman and board of directors",
         "link": "https://www.gdnonline.com/Details/1381347/HRH-Prince-Salman-meets-BCCI-chairman-and-board-of-directors",
@@ -39,36 +80,6 @@
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260413/20260413141714bdf12(2)_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Woman dies in traffic accident in Al Jasra",
-        "link": "https://www.gdnonline.com/Details/1381331/Woman-dies-in-traffic-accident-in-Al-Jasra",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413112719accs1_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Second phase of repair works to begin at GPIC",
-        "link": "https://www.gdnonline.com/Details/1381276/Second-phase-of-repair-works-to-begin-at-GPIC",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413010549four_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "UK set to reinforce air defences in Gulf",
-        "link": "https://www.gdnonline.com/Details/1381256/UK-set-to-reinforce-air-defences-in-Gulf",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220628_0.jpeg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -143,6 +154,16 @@
         "category": "Latest"
       },
       {
+        "title": "'Paddington' musical triumphs at London's theatrical Olivier Awards",
+        "link": "https://www.gdnonline.com/Details/1381350/Paddington-musical-triumphs-at-Londons-theatrical-Olivier-Awards",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413_150245_0_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "'Paddington' musical, Hollywood stars to vie for prizes at Olivier Awards",
         "link": "https://www.gdnonline.com/Details/1381217/Paddington-musical,-Hollywood-stars-to-vie-for-prizes-at-Olivier-Awards",
         "published": "12 Apr 2026",
@@ -165,12 +186,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "South Africa's new DA leader Geordin Hill-Lewis vows to shed party's white image",
+        "link": "https://www.newsofbahrain.com/world/130491.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_L51qYS7Ivl_2026-04-13_1776089705resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Hungary vote winner Magyar vows to bring in 'new era'",
+        "link": "https://www.newsofbahrain.com/world/130490.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kYhJUVtXIw_2026-04-13_1776089275resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Starmer, Macron say UK and France to discuss ‘multinational mission’ to safeguard Hormuz",
+        "link": "https://www.newsofbahrain.com/world/130489.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X1A4LzaTpq_2026-04-13_1776088789resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Italian, US bishops defend pope after Trump's outburst’",
+        "link": "https://www.newsofbahrain.com/world/130488.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AREJsuCvcS_2026-04-13_1776088283resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain–UAE relations hailed as “model of unity”",
+        "link": "https://www.newsofbahrain.com/bahrain/130487.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ra1Kp9X2ED_2026-04-13_1776087742resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Reports 3.5% GDP Growth",
         "link": "https://www.newsofbahrain.com/bahrain/130485.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rG9d0QIHPV_2026-04-13_1776086759resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rG9d0QIHPV_2026-04-13_1776086759thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -180,37 +251,7 @@
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ncr6butkwp_2026-04-13_1776085970resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Easter truce between Ukraine and Russia ends",
-        "link": "https://www.newsofbahrain.com/world/130483.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NCkXIE5u16_2026-04-13_1776083602resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Lebanon PM says working to get Israeli troop withdrawal",
-        "link": "https://www.newsofbahrain.com/world/130482.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rI8SnQxV5w_2026-04-13_1776083073resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran, US ‘sincere’ about ceasefire, Turkey’s foreign minister says",
-        "link": "https://www.newsofbahrain.com/world/130481.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TzaLh9tbHS_2026-04-13_1776082545resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ncr6butkwp_2026-04-13_1776085970thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -231,26 +272,6 @@
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_H7rQqtShpG_2026-04-12_1776027714thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man Jailed for Arson Attempt Over Personal Dispute",
-        "link": "https://www.newsofbahrain.com/bahrain/130463.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rq2X8xEOjz_2026-04-12_1776027398thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Irish government announces tax cuts after fuel cost protests",
-        "link": "https://www.newsofbahrain.com/world/130480.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FTQwEcOnJX_2026-04-13_1776081923thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -418,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 13:34:20 UTC"
+  "fetched_at": "2026-04-13 14:35:49 UTC"
 }
