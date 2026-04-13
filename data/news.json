@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -165,42 +165,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Ghana footballer dies after robbery attack on team bus",
-        "link": "https://www.newsofbahrain.com/world/130478.html",
+        "title": "Easter truce between Ukraine and Russia ends",
+        "link": "https://www.newsofbahrain.com/world/130483.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WCIimaPpGk_2026-04-13_1776080319resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NCkXIE5u16_2026-04-13_1776083602resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bulgaria's ex-president Radev tipped to win snap vote",
-        "link": "https://www.newsofbahrain.com/world/130477.html",
+        "title": "Lebanon PM says working to get Israeli troop withdrawal",
+        "link": "https://www.newsofbahrain.com/world/130482.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_itzDKndY1l_2026-04-13_1776079778resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rI8SnQxV5w_2026-04-13_1776083073resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Peru's Fujimori hails first-round vote as win over leftist 'enemy'",
-        "link": "https://www.newsofbahrain.com/world/130476.html",
+        "title": "Iran, US ‘sincere’ about ceasefire, Turkey’s foreign minister says",
+        "link": "https://www.newsofbahrain.com/world/130481.html",
         "published": "13 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QCs7wmLlkZ_2026-04-13_1776076733resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TzaLh9tbHS_2026-04-13_1776082545resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Philippines accuses China of poisoning disputed waters",
-        "link": "https://www.newsofbahrain.com/world/130474.html",
+        "title": "Irish government announces tax cuts after fuel cost protests",
+        "link": "https://www.newsofbahrain.com/world/130480.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FTQwEcOnJX_2026-04-13_1776081923resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Australia names Coyle first woman to lead army",
+        "link": "https://www.newsofbahrain.com/world/130479.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7OqpD6iXLU_2026-04-13_1776075965resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FOo3XV2A0U_2026-04-13_1776081544resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -418,5 +428,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 11:57:27 UTC"
+  "fetched_at": "2026-04-13 12:36:50 UTC"
 }
