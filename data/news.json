@@ -226,10 +226,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Speaker Praises HRH the Crown Prince and Prime Minister’s Directives to Support Economy",
-        "link": "https://www.newsofbahrain.com/bahrain/130504.html",
+        "title": "Saudi Stock Market Ends Higher with Strong Trading Activity",
+        "link": "https://www.newsofbahrain.com/gcc/130506.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aNjq1EyDAO_2026-04-13_1776101343resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil Prices Surge Over 7%",
+        "link": "https://www.newsofbahrain.com/world/130505.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_scanYuHBvF_2026-04-13_1776101168resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Speaker Praises HRH the Crown Prince and Prime Minister’s Directives to Support Economy",
+        "link": "https://www.newsofbahrain.com/bahrain/130504.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_0823g9LiDT_2026-04-13_1776101057resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +258,8 @@
       {
         "title": "Bahrain Customs Chief Meets Italian Ambassador to Boost Cooperation",
         "link": "https://www.newsofbahrain.com/bahrain/130503.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_FB6Dij8J7o_2026-04-13_1776100570resized_pic.jpg",
         "source": "newsofbahrain",
@@ -252,26 +272,6 @@
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_86Hkw4bfZt_2026-04-13_1776100417resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait and India Discuss Regional Developments in Ministerial Call",
-        "link": "https://www.newsofbahrain.com/gcc/130501.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aeVOSsZUPK_2026-04-13_1776100074resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump warns Iran naval vessels will be ‘immediately eliminated’ amid blockade escalation",
-        "link": "https://www.newsofbahrain.com/world/130500.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WTzZAUV2Ey_2026-04-13_1776099780resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,6 +306,16 @@
         "category": "Latest"
       },
       {
+        "title": "Trump warns Iran naval vessels will be ‘immediately eliminated’ amid blockade escalation",
+        "link": "https://www.newsofbahrain.com/world/130500.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WTzZAUV2Ey_2026-04-13_1776099780thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "EU Launches Antitrust Probe with Raids on Chocolate Company",
         "link": "https://www.newsofbahrain.com/world/130499.html",
         "published": "13 Apr 2026, 09:22 AM",
@@ -322,16 +332,6 @@
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1psCIqmGcL_2026-04-13_1776097958thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Spain’s Iberia to suspend flights to Cuba amid US fuel blockade",
-        "link": "https://www.newsofbahrain.com/world/130493.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrwFRyYpnI_2026-04-13_1776091597thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 17:25:26 UTC"
+  "fetched_at": "2026-04-13 17:49:17 UTC"
 }
