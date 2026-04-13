@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,30 @@
   "articles": {
     "bna": [
       {
+        "title": "Bahrain Summons Iraq's Envoy over Drone Attacks, Lodges Formal Protest",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU5zSGNsTHdRbWxqc3RPY25uNE5OZ2FWS0JVd0xuVnhTbFZ1VUNLakVXRWdOeE54eEJEVmw1blVTRXE4QlVxcWQzQjJLTWE3b25qaUdBN3dLR0tqOEpnUjdna3pDaFljRjg5OWtzU1U4WEpnMXFEeEJJZEMwQnlaU2R5SHcxMEhBUDBka0wybU9lZEZSOFhZSEMtRUh1cWJ1VmY5ZGRmeW5oV3lvS2xLdmdrVGk2dw?oc=5",
+        "published": "13 Apr 2026, 04:09 PM",
+        "iso_date": "2026-04-13T16:09:13+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain summons Iraqi diplomat over drone attacks from Iraq",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEpOLXVhc1drNUgyLVpQZ3g1ZUU5VEllalNMdGt2cEs1YWFkM3B6Wl9WVnlDU0c4SDEyMFczNVBudnhmT1Y5VXp0ZlhhaHR6MmxUeGQ2NjljM3FNMzZaRTJkYzVyVUtSOGFZLVR3cU1FaWx6MGdKa0t1M1V5djJmLUhoV3VmS1loZ1FkUk1kLWdfS3k4THF1aG5KTzJ1Y1E?oc=5",
         "published": "13 Apr 2026, 02:26 PM",
         "iso_date": "2026-04-13T14:26:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain: 194 missiles, 523 drones intercepted since Iran’s attacks",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vU3YwYkcyVHpwblVuZHdjaHhoY1VhS2N4MnR4ZTU5RVk5eTZWWnRpZkk0T2tfdVIwaGl5UFV5S25RQ3J0bWRUV0VBdEszT3BRMm1GZFhQNWJvQQ?oc=5",
+        "published": "13 Apr 2026, 03:34 PM",
+        "iso_date": "2026-04-13T15:34:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Spain’s Iberia to suspend flights to Cuba amid US fuel blockade",
-        "link": "https://www.newsofbahrain.com/world/130493.html",
+        "title": "Sister Wins Dh968,000 Compensation in Dubai Property Damage Case",
+        "link": "https://www.newsofbahrain.com/gcc/130495.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WG59o6vTrN_2026-04-13_1776096784resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Launches Loan Deferral Scheme with BHD 7 Billion Liquidity Boost",
+        "link": "https://www.newsofbahrain.com/bahrain/130494.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sugUd609ar_2026-04-13_1776095909resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Spain’s Iberia to suspend flights to Cuba amid US fuel blockade",
+        "link": "https://www.newsofbahrain.com/world/130493.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrwFRyYpnI_2026-04-13_1776091597resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,8 +248,8 @@
       {
         "title": "Philippines cuts tax on petroleum products to ease price shock",
         "link": "https://www.newsofbahrain.com/world/130492.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_yuLFJB51zR_2026-04-13_1776091174resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,30 +258,10 @@
       {
         "title": "South Africa's new DA leader Geordin Hill-Lewis vows to shed party's white image",
         "link": "https://www.newsofbahrain.com/world/130491.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_L51qYS7Ivl_2026-04-13_1776089705resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hungary vote winner Magyar vows to bring in 'new era'",
-        "link": "https://www.newsofbahrain.com/world/130490.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kYhJUVtXIw_2026-04-13_1776089275resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Starmer, Macron say UK and France to discuss ‘multinational mission’ to safeguard Hormuz",
-        "link": "https://www.newsofbahrain.com/world/130489.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X1A4LzaTpq_2026-04-13_1776088789resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_L51qYS7Ivl_2026-04-13_1776089705resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,12 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Airport Sting Foils 5kg Meth Smuggling Attempt",
-        "link": "https://www.newsofbahrain.com/bahrain/130465.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
+        "title": "Hungary vote winner Magyar vows to bring in 'new era'",
+        "link": "https://www.newsofbahrain.com/world/130490.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H7rQqtShpG_2026-04-12_1776027714thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kYhJUVtXIw_2026-04-13_1776089275thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 15:31:46 UTC"
+  "fetched_at": "2026-04-13 16:28:43 UTC"
 }
