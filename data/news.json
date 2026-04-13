@@ -10,13 +10,13 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 17
     }
   },
   "articles": {
@@ -72,8 +72,330 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
-    "newsofbahrain": []
+    "gdn": [
+      {
+        "title": "His Majesty meets UAE President",
+        "link": "https://www.gdnonline.com/Details/1381365/His-Majesty-meets-UAE-President",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413160451uae12_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Prince Salman chairs weekly Cabinet meeting",
+        "link": "https://www.gdnonline.com/Details/1381366/HRH-Prince-Salman-chairs-weekly-Cabinet-meeting",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413161329cp1234(6)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Foreign Ministry summons Iraqi Chargé d'Affaires over drone attacks launched from Iraq",
+        "link": "https://www.gdnonline.com/Details/1381368/Foreign-Ministry-summons-Iraqi-Chargé-dAffaires-over-drone-attacks-launched-from-Iraq",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413165119websize(2)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "April salaries for Bahraini private sector employees to be paid from Unemployment Fund",
+        "link": "https://www.gdnonline.com/Details/1381355/April-salaries-for-Bahraini-private-sector-employees-to-be-paid-from-Unemployment-Fund",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413154140cpj_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Prince Salman meets BCCI chairman and board of directors",
+        "link": "https://www.gdnonline.com/Details/1381347/HRH-Prince-Salman-meets-BCCI-chairman-and-board-of-directors",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413142934cp12(2)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil prices rise short-lived says Standard Chartered",
+        "link": "https://www.gdnonline.com/Details/1381172/Oil-prices-rise-short-lived-says-Standard-Chartered",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005321gill_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "EO Bahrain unveils judges for Farouk Almoayyed GSEA",
+        "link": "https://www.gdnonline.com/Details/1381171/EO-Bahrain-unveils-judges-for-Farouk-Almoayyed-GSEA",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005444edited12_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ghanaian footballer Dominic Frimpong killed in attack on Berekum Chelsea team bus",
+        "link": "https://www.gdnonline.com/Details/1381325/Ghanaian-footballer-Dominic-Frimpong-killed-in-attack-on-Berekum-Chelsea-team-bus",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413103136frimpong_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Union Berlin appoint Eta as Bundesliga's first female head coach",
+        "link": "https://www.gdnonline.com/Details/1381310/Union-Berlin-appoint-Eta-as-Bundesligas-first-female-head-coach",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413095755union(1)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Mentality must change to avoid drop, says Tottenham's De Zerbi",
+        "link": "https://www.gdnonline.com/Details/1381307/Mentality-must-change-to-avoid-drop,-says-Tottenhams-De-Zerbi",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413100224dezerby_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "City close gap on leaders Arsenal",
+        "link": "https://www.gdnonline.com/Details/1381298/City-close-gap-on-leaders-Arsenal-",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413013901manchestercity_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Leon strikes as Sundowns snatch away win",
+        "link": "https://www.gdnonline.com/Details/1381302/Leon-strikes-as-Sundowns-snatch-away-win",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413020832images(1)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "'Paddington' musical triumphs at London's theatrical Olivier Awards",
+        "link": "https://www.gdnonline.com/Details/1381350/Paddington-musical-triumphs-at-Londons-theatrical-Olivier-Awards",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413_150245_0_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "'Paddington' musical, Hollywood stars to vie for prizes at Olivier Awards",
+        "link": "https://www.gdnonline.com/Details/1381217/Paddington-musical,-Hollywood-stars-to-vie-for-prizes-at-Olivier-Awards",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412095536gdnwebsitesize(33)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Pop star Pink tapped to host Broadwayâs Tony Awards",
+        "link": "https://www.gdnonline.com/Details/1381210/Pop-star-Pink-tapped-to-host-Broadwayâs-Tony-Awards",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412093955popstarpinktappedtohostbroadwayâstonyawards_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
+    "newsofbahrain": [
+      {
+        "title": "Saudi Stock Market Ends Higher with Strong Trading Activity",
+        "link": "https://www.newsofbahrain.com/gcc/130506.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aNjq1EyDAO_2026-04-13_1776101343resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil Prices Surge Over 7%",
+        "link": "https://www.newsofbahrain.com/world/130505.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_scanYuHBvF_2026-04-13_1776101168resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Speaker Praises HRH the Crown Prince and Prime Minister’s Directives to Support Economy",
+        "link": "https://www.newsofbahrain.com/bahrain/130504.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0823g9LiDT_2026-04-13_1776101057resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Customs Chief Meets Italian Ambassador to Boost Cooperation",
+        "link": "https://www.newsofbahrain.com/bahrain/130503.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FB6Dij8J7o_2026-04-13_1776100570resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Reports No Security Threats in Last 24 Hours",
+        "link": "https://www.newsofbahrain.com/gcc/130502.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_86Hkw4bfZt_2026-04-13_1776100417resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Launches Loan Deferral Scheme with BHD 7 Billion Liquidity Boost",
+        "link": "https://www.newsofbahrain.com/bahrain/130494.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sugUd609ar_2026-04-13_1776095909thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain–UAE relations hailed as “model of unity”",
+        "link": "https://www.newsofbahrain.com/bahrain/130487.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ra1Kp9X2ED_2026-04-13_1776087742thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Reports 3.5% GDP Growth",
+        "link": "https://www.newsofbahrain.com/bahrain/130485.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rG9d0QIHPV_2026-04-13_1776086759thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump warns Iran naval vessels will be ‘immediately eliminated’ amid blockade escalation",
+        "link": "https://www.newsofbahrain.com/world/130500.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WTzZAUV2Ey_2026-04-13_1776099780thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EU Launches Antitrust Probe with Raids on Chocolate Company",
+        "link": "https://www.newsofbahrain.com/world/130499.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vGXNSZRJTt_2026-04-13_1776099462thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Egypt Introduces Long-Term Multi-Entry Visa",
+        "link": "https://www.newsofbahrain.com/world/130497.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1psCIqmGcL_2026-04-13_1776097958thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Mythos AI alarm bells: Fair warning or marketing hype?",
+        "link": "https://www.newsofbahrain.com/business/130435.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vBFNnWU0Kw_2026-04-12_1775986604thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "OpenAI CEO’s California home hit by Molotov cocktail, man arrested",
+        "link": "https://www.newsofbahrain.com/business/130434.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VR4DdUWnMt_2026-04-12_1775985270thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "War’s impact on fertilisers stirs food producer fears",
+        "link": "https://www.newsofbahrain.com/business/130433.html",
+        "published": "12 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-12T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dyvN5bSz6x_2026-04-12_1775983208thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "AI Chatbot Case Raises Global Concerns After Man’s Death",
+        "link": "https://www.newsofbahrain.com/views/130496.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e4v3lo98aB_2026-04-13_1776097158thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Coachella Craze What Draws Millions Every Year",
+        "link": "https://www.newsofbahrain.com/views/130464.html",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gvxfbmgt0B_2026-04-12_1776027552thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The Citizen: The Backbone of Soft Warfare",
+        "link": "https://www.newsofbahrain.com/views/130436.html",
+        "published": "12 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-12T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sRlFbNoKOq_2026-04-12_1775993439thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -187,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 18:27:51 UTC"
+  "fetched_at": "2026-04-13 18:54:10 UTC"
 }
