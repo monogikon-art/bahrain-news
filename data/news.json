@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdFpBOHBTSGZ5Zms5U3E3WWRwRERKNFczNVB5ZTkxZmtiV3puMzV0SS1XTjRIMmlLS2ZvRFNZOGg5TmgzeENJYkJ4R0dFT2g4cm1v?oc=5",
         "published": "13 Apr 2026, 08:14 PM",
         "iso_date": "2026-04-13T20:14:37+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "King of Bahrain receives US Central Command Commander",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJ4Z0d1cFBaSnoydE9LT1BxS1J1dFdLcmNURjc2Nkx2cmxzNWhuR2VRcDJpRWlYc1Q3ckRvVG5XQmJfalkzck9TSW9JVzRjNDIyMWtOX3RFR0dRTWg0akFlWkFxRFRnZTVCVkE1U0JLcEZlWVNSbkJfUHpVMmNka1gyMWwzSGg0dE5QRlR3aldpLWtNZ1NmNENTcXQyeTc5V0MyUWhhbWJ0T25LN2dwQk1KQlhDME1XTFRCY0NR0gG-AUFVX3lxTFBNQnhnR3VwUFpKejJ0T0tPUHFLUnV0V0tyY1RGNzY2THZybHM1aG5HZVFwMmlFaVhzVDdyRG9UbldCYl9qWTNyT1NJb0lXNGM0MjIxa05fdEVHR1FNaDRqQWVaQXFEVGdlNUJWQTVTQktwRmVZU1JuQl9QelUyY2RrWDIxbDNIaDR0TlBGVHdqV2kta01nU2Y0Q1NxdDJ5NzlXQzJRaGFtYnRPbks3Z3BCTUpCWEMwTVdMVEJjQ1E?oc=5",
+        "published": "13 Apr 2026, 09:34 PM",
+        "iso_date": "2026-04-13T21:34:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -529,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 22:46:37 UTC"
+  "fetched_at": "2026-04-13 23:17:58 UTC"
 }
