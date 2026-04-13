@@ -236,6 +236,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain takes part in ICCA arbitration meeting in Madrid",
+        "link": "https://www.newsofbahrain.com/bahrain/130508.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6IjdcZOpFN_2026-04-13_1776113301resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "UK and France to Co-Host Summit on Strait of Hormuz Maritime Security Mission",
         "link": "https://www.newsofbahrain.com/world/130507.html",
         "published": "13 Apr 2026, 09:22 AM",
@@ -268,8 +278,8 @@
       {
         "title": "Speaker Praises HRH the Crown Prince and Prime Minister’s Directives to Support Economy",
         "link": "https://www.newsofbahrain.com/bahrain/130504.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_0823g9LiDT_2026-04-13_1776101057resized_pic.jpg",
         "source": "newsofbahrain",
@@ -281,7 +291,7 @@
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FB6Dij8J7o_2026-04-13_1776100570resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FB6Dij8J7o_2026-04-13_1776100570thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +312,6 @@
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ra1Kp9X2ED_2026-04-13_1776087742thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Reports 3.5% GDP Growth",
-        "link": "https://www.newsofbahrain.com/bahrain/130485.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rG9d0QIHPV_2026-04-13_1776086759thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 20:28:21 UTC"
+  "fetched_at": "2026-04-13 20:51:44 UTC"
 }
