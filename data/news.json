@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -70,56 +70,76 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "King Of Bahrain, US Central Command Commander Discusses Regional Developments",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEV6UWFwNGVwSVhOMG16ZXdxWnduVEwyWld2QndCZDN5WS1uUE13OVNRTUJJTXFBNXJ6SEQzZ2dKdmp1S0tBQk9rRFpGa2h5MUI5eEduNkNFTHZESkRSYm5SQ2o4OVFGdE1ScHgzN1Ntb1hQMF9CUHdwbXVFeTZEUlp0SlRvLU5xZTM0RWhWS19qdkZ0SWRjU09tdUp5emM?oc=5",
+        "published": "13 Apr 2026, 03:15 PM",
+        "iso_date": "2026-04-13T15:15:09+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "Cancer patient, stroke survivor among 153 Filipinos repatriated",
+        "link": "https://www.gdnonline.com/Details/1381380/Cancer-patient,-stroke-survivor-among-153-Filipinos-repatriated-",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413232703websitesize(5)_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Councillors reject request to relocate Falcon Monument",
+        "link": "https://www.gdnonline.com/Details/1381376/Councillors-reject-request-to-relocate-Falcon-Monument-",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233148websitesize(7)_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "His Majesty meets UAE President",
         "link": "https://www.gdnonline.com/Details/1381365/His-Majesty-meets-UAE-President",
         "published": "13 Apr 2026",
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413160451uae12_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413160451uae12_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "HRH Prince Salman chairs weekly Cabinet meeting",
-        "link": "https://www.gdnonline.com/Details/1381366/HRH-Prince-Salman-chairs-weekly-Cabinet-meeting",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
+        "title": "Man sentenced to five years in jail for bid to smuggle drugs",
+        "link": "https://www.gdnonline.com/Details/1381377/Man-sentenced-to-five-years-in-jail-for-bid-to-smuggle-drugs-",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413161329cp1234(6)_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233057jail1_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Foreign Ministry summons Iraqi Chargé d'Affaires over drone attacks launched from Iraq",
-        "link": "https://www.gdnonline.com/Details/1381368/Foreign-Ministry-summons-Iraqi-Chargé-dAffaires-over-drone-attacks-launched-from-Iraq",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
+        "title": "Regional plan to support food security discussed",
+        "link": "https://www.gdnonline.com/Details/1381378/Regional-plan-to-support-food-security-discussed-",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413165119websize(2)_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233006websitesize(6)_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "April salaries for Bahraini private sector employees to be paid from Unemployment Fund",
-        "link": "https://www.gdnonline.com/Details/1381355/April-salaries-for-Bahraini-private-sector-employees-to-be-paid-from-Unemployment-Fund",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
+        "title": "All Share Index closes higher",
+        "link": "https://www.gdnonline.com/Details/1381384/All-Share-Index-closes-higher",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413154140cpj_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH Prince Salman meets BCCI chairman and board of directors",
-        "link": "https://www.gdnonline.com/Details/1381347/HRH-Prince-Salman-meets-BCCI-chairman-and-board-of-directors",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413142934cp12(2)_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413234615bourse_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +149,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005321gill_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005321gill_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +159,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005444edited12_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005444edited12_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +169,7 @@
         "published": "13 Apr 2026",
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413103136frimpong_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413103136frimpong_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +179,7 @@
         "published": "13 Apr 2026",
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413095755union(1)_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413095755union(1)_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +189,7 @@
         "published": "13 Apr 2026",
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413100224dezerby_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413100224dezerby_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +199,7 @@
         "published": "13 Apr 2026",
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413013901manchestercity_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413013901manchestercity_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +209,7 @@
         "published": "13 Apr 2026",
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413020832images(1)_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413020832images(1)_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +219,7 @@
         "published": "13 Apr 2026",
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413_150245_0_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413_150245_0_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -209,7 +229,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412095536gdnwebsitesize(33)_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412095536gdnwebsitesize(33)_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -219,7 +239,7 @@
         "published": "12 Apr 2026",
         "iso_date": "2026-04-12T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412093955popstarpinktappedtohostbroadwayâstonyawards_T.jpg?20260413",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412093955popstarpinktappedtohostbroadwayâstonyawards_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       }
@@ -499,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 21:17:50 UTC"
+  "fetched_at": "2026-04-13 21:47:10 UTC"
 }
