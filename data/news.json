@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEpOLXVhc1drNUgyLVpQZ3g1ZUU5VEllalNMdGt2cEs1YWFkM3B6Wl9WVnlDU0c4SDEyMFczNVBudnhmT1Y5VXp0ZlhhaHR6MmxUeGQ2NjljM3FNMzZaRTJkYzVyVUtSOGFZLVR3cU1FaWx6MGdKa0t1M1V5djJmLUhoV3VmS1loZ1FkUk1kLWdfS3k4THF1aG5KTzJ1Y1E?oc=5",
         "published": "13 Apr 2026, 02:26 PM",
         "iso_date": "2026-04-13T14:26:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain: 194 missiles, 523 drones intercepted since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHpBeFpzcVhlbzN4cmtjdWdDUEVRakV4NEFnVFdfV0pIRjV3eEhVX3pkcE94dzFyV0F6WDlVOS1KaU8ySy1JdnYyamh4TVROcm91NTRmQmVqeXotTWFzaDJvTWhXMUxpRnM0SzNiRVN3NERyNGFJM01jQmUzczRYUDVnbU9OMVdJc3pYU1ZTOXV2eG44LUc2cU9SNmd3TV9QYWVTeUt6UnBLZkhBaXFJZlZCdElhbG1wZTRoOQ?oc=5",
+        "published": "13 Apr 2026, 01:27 PM",
+        "iso_date": "2026-04-13T13:27:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -54,6 +64,16 @@
         "category": "Latest"
       },
       {
+        "title": "Foreign Ministry summons Iraqi Chargé d'Affaires over drone attacks launched from Iraq",
+        "link": "https://www.gdnonline.com/Details/1381368/Foreign-Ministry-summons-Iraqi-Chargé-dAffaires-over-drone-attacks-launched-from-Iraq",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413165119websize(2)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "April salaries for Bahraini private sector employees to be paid from Unemployment Fund",
         "link": "https://www.gdnonline.com/Details/1381355/April-salaries-for-Bahraini-private-sector-employees-to-be-paid-from-Unemployment-Fund",
         "published": "13 Apr 2026",
@@ -70,16 +90,6 @@
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260413/20260413142934cp12(2)_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Seven drones intercepted in the last 24 hours",
-        "link": "https://www.gdnonline.com/Details/1381345/Seven-drones-intercepted-in-the-last-24-hours",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413141714bdf12(2)_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -186,10 +196,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "South Africa's new DA leader Geordin Hill-Lewis vows to shed party's white image",
-        "link": "https://www.newsofbahrain.com/world/130491.html",
+        "title": "Spain’s Iberia to suspend flights to Cuba amid US fuel blockade",
+        "link": "https://www.newsofbahrain.com/world/130493.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NrwFRyYpnI_2026-04-13_1776091597resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Philippines cuts tax on petroleum products to ease price shock",
+        "link": "https://www.newsofbahrain.com/world/130492.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yuLFJB51zR_2026-04-13_1776091174resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "South Africa's new DA leader Geordin Hill-Lewis vows to shed party's white image",
+        "link": "https://www.newsofbahrain.com/world/130491.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_L51qYS7Ivl_2026-04-13_1776089705resized_pic.jpg",
         "source": "newsofbahrain",
@@ -198,8 +228,8 @@
       {
         "title": "Hungary vote winner Magyar vows to bring in 'new era'",
         "link": "https://www.newsofbahrain.com/world/130490.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_kYhJUVtXIw_2026-04-13_1776089275resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,20 +238,10 @@
       {
         "title": "Starmer, Macron say UK and France to discuss ‘multinational mission’ to safeguard Hormuz",
         "link": "https://www.newsofbahrain.com/world/130489.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_X1A4LzaTpq_2026-04-13_1776088789resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Italian, US bishops defend pope after Trump's outburst’",
-        "link": "https://www.newsofbahrain.com/world/130488.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AREJsuCvcS_2026-04-13_1776088283resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -231,7 +251,7 @@
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ra1Kp9X2ED_2026-04-13_1776087742resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ra1Kp9X2ED_2026-04-13_1776087742thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 14:35:49 UTC"
+  "fetched_at": "2026-04-13 15:31:46 UTC"
 }
