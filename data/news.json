@@ -16,12 +16,22 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
     "bna": [],
     "gdn": [
+      {
+        "title": "HRH Prince Salman meets BCCI chairman and board of directors",
+        "link": "https://www.gdnonline.com/Details/1381347/HRH-Prince-Salman-meets-BCCI-chairman-and-board-of-directors",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413142934cp12(2)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Seven drones intercepted in the last 24 hours",
         "link": "https://www.gdnonline.com/Details/1381345/Seven-drones-intercepted-in-the-last-24-hours",
@@ -59,16 +69,6 @@
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220628_0.jpeg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Hybrid learning announced for educational institutions",
-        "link": "https://www.gdnonline.com/Details/1381241/Hybrid-learning-announced-for-educational-institutions",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413004145car_T.jpg?20260413",
         "source": "gdn",
         "category": "Latest"
       },
@@ -165,10 +165,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Easter truce between Ukraine and Russia ends",
-        "link": "https://www.newsofbahrain.com/world/130483.html",
+        "title": "Bahrain Reports 3.5% GDP Growth",
+        "link": "https://www.newsofbahrain.com/bahrain/130485.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rG9d0QIHPV_2026-04-13_1776086759resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, US discuss security cooperation and regional stability",
+        "link": "https://www.newsofbahrain.com/bahrain/130484.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ncr6butkwp_2026-04-13_1776085970resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Easter truce between Ukraine and Russia ends",
+        "link": "https://www.newsofbahrain.com/world/130483.html",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NCkXIE5u16_2026-04-13_1776083602resized_pic.jpg",
         "source": "newsofbahrain",
@@ -177,8 +197,8 @@
       {
         "title": "Lebanon PM says working to get Israeli troop withdrawal",
         "link": "https://www.newsofbahrain.com/world/130482.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_rI8SnQxV5w_2026-04-13_1776083073resized_pic.jpg",
         "source": "newsofbahrain",
@@ -187,30 +207,10 @@
       {
         "title": "Iran, US ‘sincere’ about ceasefire, Turkey’s foreign minister says",
         "link": "https://www.newsofbahrain.com/world/130481.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TzaLh9tbHS_2026-04-13_1776082545resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Irish government announces tax cuts after fuel cost protests",
-        "link": "https://www.newsofbahrain.com/world/130480.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FTQwEcOnJX_2026-04-13_1776081923resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Australia names Coyle first woman to lead army",
-        "link": "https://www.newsofbahrain.com/world/130479.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FOo3XV2A0U_2026-04-13_1776081544resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TzaLh9tbHS_2026-04-13_1776082545resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -245,22 +245,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain, Italy Explore Cooperation Amid Regional Tensions",
-        "link": "https://www.newsofbahrain.com/bahrain/130461.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
+        "title": "Irish government announces tax cuts after fuel cost protests",
+        "link": "https://www.newsofbahrain.com/world/130480.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hm9fVlezsu_2026-04-12_1776027130thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, Italy Reaffirm Defence Cooperation in Rome Talks",
-        "link": "https://www.newsofbahrain.com/bahrain/130460.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bR0XV9xQ6H_2026-04-12_1776027023thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FTQwEcOnJX_2026-04-13_1776081923thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -428,5 +418,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 12:36:50 UTC"
+  "fetched_at": "2026-04-13 13:34:20 UTC"
 }
