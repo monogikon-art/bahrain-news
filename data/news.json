@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain’s king commends strategic ties with US during reception for American military commander",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UdjlrYXdlMGdYNTRRWkxMYXRhVVUxOG9pQnVjNnBHVUJmUkttbnVUWERKejBCRDVzNkwzTjBwcE5xUk5zeC1GS19rWDNuTlA2bllUdTlwV3U0Z3dY?oc=5",
+        "published": "13 Apr 2026, 08:07 PM",
+        "iso_date": "2026-04-13T20:07:34+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain Summons Iraq's Envoy over Drone Attacks, Lodges Formal Protest",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU5zSGNsTHdRbWxqc3RPY25uNE5OZ2FWS0JVd0xuVnhTbFZ1VUNLakVXRWdOeE54eEJEVmw1blVTRXE4QlVxcWQzQjJLTWE3b25qaUdBN3dLR0tqOEpnUjdna3pDaFljRjg5OWtzU1U4WEpnMXFEeEJJZEMwQnlaU2R5SHcxMEhBUDBka0wybU9lZEZSOFhZSEMtRUh1cWJ1VmY5ZGRmeW5oV3lvS2xLdmdrVGk2dw?oc=5",
@@ -72,7 +82,158 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "His Majesty meets UAE President",
+        "link": "https://www.gdnonline.com/Details/1381365/His-Majesty-meets-UAE-President",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413160451uae12_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Prince Salman chairs weekly Cabinet meeting",
+        "link": "https://www.gdnonline.com/Details/1381366/HRH-Prince-Salman-chairs-weekly-Cabinet-meeting",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413161329cp1234(6)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Foreign Ministry summons Iraqi Chargé d'Affaires over drone attacks launched from Iraq",
+        "link": "https://www.gdnonline.com/Details/1381368/Foreign-Ministry-summons-Iraqi-Chargé-dAffaires-over-drone-attacks-launched-from-Iraq",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413165119websize(2)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "April salaries for Bahraini private sector employees to be paid from Unemployment Fund",
+        "link": "https://www.gdnonline.com/Details/1381355/April-salaries-for-Bahraini-private-sector-employees-to-be-paid-from-Unemployment-Fund",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413154140cpj_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Prince Salman meets BCCI chairman and board of directors",
+        "link": "https://www.gdnonline.com/Details/1381347/HRH-Prince-Salman-meets-BCCI-chairman-and-board-of-directors",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413142934cp12(2)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil prices rise short-lived says Standard Chartered",
+        "link": "https://www.gdnonline.com/Details/1381172/Oil-prices-rise-short-lived-says-Standard-Chartered",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005321gill_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "EO Bahrain unveils judges for Farouk Almoayyed GSEA",
+        "link": "https://www.gdnonline.com/Details/1381171/EO-Bahrain-unveils-judges-for-Farouk-Almoayyed-GSEA",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005444edited12_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ghanaian footballer Dominic Frimpong killed in attack on Berekum Chelsea team bus",
+        "link": "https://www.gdnonline.com/Details/1381325/Ghanaian-footballer-Dominic-Frimpong-killed-in-attack-on-Berekum-Chelsea-team-bus",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413103136frimpong_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Union Berlin appoint Eta as Bundesliga's first female head coach",
+        "link": "https://www.gdnonline.com/Details/1381310/Union-Berlin-appoint-Eta-as-Bundesligas-first-female-head-coach",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413095755union(1)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Mentality must change to avoid drop, says Tottenham's De Zerbi",
+        "link": "https://www.gdnonline.com/Details/1381307/Mentality-must-change-to-avoid-drop,-says-Tottenhams-De-Zerbi",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413100224dezerby_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "City close gap on leaders Arsenal",
+        "link": "https://www.gdnonline.com/Details/1381298/City-close-gap-on-leaders-Arsenal-",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413013901manchestercity_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Leon strikes as Sundowns snatch away win",
+        "link": "https://www.gdnonline.com/Details/1381302/Leon-strikes-as-Sundowns-snatch-away-win",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413020832images(1)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "'Paddington' musical triumphs at London's theatrical Olivier Awards",
+        "link": "https://www.gdnonline.com/Details/1381350/Paddington-musical-triumphs-at-Londons-theatrical-Olivier-Awards",
+        "published": "13 Apr 2026",
+        "iso_date": "2026-04-13T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413_150245_0_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "'Paddington' musical, Hollywood stars to vie for prizes at Olivier Awards",
+        "link": "https://www.gdnonline.com/Details/1381217/Paddington-musical,-Hollywood-stars-to-vie-for-prizes-at-Olivier-Awards",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412095536gdnwebsitesize(33)_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Pop star Pink tapped to host Broadwayâs Tony Awards",
+        "link": "https://www.gdnonline.com/Details/1381210/Pop-star-Pink-tapped-to-host-Broadwayâs-Tony-Awards",
+        "published": "12 Apr 2026",
+        "iso_date": "2026-04-12T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412093955popstarpinktappedtohostbroadwayâstonyawards_T.jpg?20260413",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
         "title": "UK and France to Co-Host Summit on Strait of Hormuz Maritime Security Mission",
@@ -348,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 19:57:55 UTC"
+  "fetched_at": "2026-04-13 20:28:21 UTC"
 }
