@@ -10,160 +10,29 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 15
     }
   },
   "articles": {
     "bna": [],
-    "gdn": [
-      {
-        "title": "Woman dies in traffic accident in Al Jasra",
-        "link": "https://www.gdnonline.com/Details/1381331/Woman-dies-in-traffic-accident-in-Al-Jasra",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413112719accs1_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Second phase of repair works to begin at GPIC",
-        "link": "https://www.gdnonline.com/Details/1381276/Second-phase-of-repair-works-to-begin-at-GPIC",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413010549four_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "UK set to reinforce air defences in Gulf",
-        "link": "https://www.gdnonline.com/Details/1381256/UK-set-to-reinforce-air-defences-in-Gulf",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220628_0.jpeg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Hybrid learning announced for educational institutions",
-        "link": "https://www.gdnonline.com/Details/1381241/Hybrid-learning-announced-for-educational-institutions",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413004145car_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "130 institutions are recognised as technology-driven campuses",
-        "link": "https://www.gdnonline.com/Details/1381260/130-institutions-are-recognised-as-technology-driven-campuses",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260412_220654_0_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil prices rise short-lived says Standard Chartered",
-        "link": "https://www.gdnonline.com/Details/1381172/Oil-prices-rise-short-lived-says-Standard-Chartered",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005321gill_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "EO Bahrain unveils judges for Farouk Almoayyed GSEA",
-        "link": "https://www.gdnonline.com/Details/1381171/EO-Bahrain-unveils-judges-for-Farouk-Almoayyed-GSEA",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005444edited12_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Ghanaian footballer Dominic Frimpong killed in attack on Berekum Chelsea team bus",
-        "link": "https://www.gdnonline.com/Details/1381325/Ghanaian-footballer-Dominic-Frimpong-killed-in-attack-on-Berekum-Chelsea-team-bus",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413103136frimpong_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Union Berlin appoint Eta as Bundesliga's first female head coach",
-        "link": "https://www.gdnonline.com/Details/1381310/Union-Berlin-appoint-Eta-as-Bundesligas-first-female-head-coach",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413095755union(1)_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Mentality must change to avoid drop, says Tottenham's De Zerbi",
-        "link": "https://www.gdnonline.com/Details/1381307/Mentality-must-change-to-avoid-drop,-says-Tottenhams-De-Zerbi",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413100224dezerby_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "City close gap on leaders Arsenal",
-        "link": "https://www.gdnonline.com/Details/1381298/City-close-gap-on-leaders-Arsenal-",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413013901manchestercity_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Leon strikes as Sundowns snatch away win",
-        "link": "https://www.gdnonline.com/Details/1381302/Leon-strikes-as-Sundowns-snatch-away-win",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413020832images(1)_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "'Paddington' musical, Hollywood stars to vie for prizes at Olivier Awards",
-        "link": "https://www.gdnonline.com/Details/1381217/Paddington-musical,-Hollywood-stars-to-vie-for-prizes-at-Olivier-Awards",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412095536gdnwebsitesize(33)_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Pop star Pink tapped to host Broadwayâs Tony Awards",
-        "link": "https://www.gdnonline.com/Details/1381210/Pop-star-Pink-tapped-to-host-Broadwayâs-Tony-Awards",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412093955popstarpinktappedtohostbroadwayâstonyawards_T.jpg?20260413",
-        "source": "gdn",
-        "category": "Latest"
-      }
-    ],
+    "gdn": [],
     "newsofbahrain": [
+      {
+        "title": "South Korea, Poland vow deeper defence ties on Tusk visit",
+        "link": "https://www.newsofbahrain.com/world/130472.html",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cCoB0YiOq7_2026-04-13_1776072090resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Hungary Votes for Change as Viktor Orbán Loses Power After 16 Years",
         "link": "https://www.newsofbahrain.com/world/130471.html",
@@ -177,8 +46,8 @@
       {
         "title": "UAE Sends 53 Tonnes of Medical Aid to Gaza to Support Hospitals",
         "link": "https://www.newsofbahrain.com/world/130470.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
+        "published": "13 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_XtaRnzVqbp_2026-04-13_1776058769resized_pic.jpg",
         "source": "newsofbahrain",
@@ -197,8 +66,8 @@
       {
         "title": "U.S. to Enforce Maritime Blockade on Iranian Ports Starting Today",
         "link": "https://www.newsofbahrain.com/world/130468.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
+        "published": "13 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_pc4d6HgPm0_2026-04-12_1776030043resized_pic.jpg",
         "source": "newsofbahrain",
@@ -210,7 +79,7 @@
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C4QPn0rYwV_2026-04-12_1776028159resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_C4QPn0rYwV_2026-04-12_1776028159thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -285,16 +154,6 @@
         "category": "Latest"
       },
       {
-        "title": "Russian envoy in US for economy talks: Kremlin",
-        "link": "https://www.newsofbahrain.com/business/130354.html",
-        "published": "11 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-11T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0rz4XeSGJd_2026-04-11_1775893824thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Coachella Craze What Draws Millions Every Year",
         "link": "https://www.newsofbahrain.com/views/130464.html",
         "published": "12 Apr 2026, 09:00 AM",
@@ -311,16 +170,6 @@
         "iso_date": "2026-04-12T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_sRlFbNoKOq_2026-04-12_1775993439thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Uncrustables Promise Awaits Artemis II Crew After Historic Mission",
-        "link": "https://www.newsofbahrain.com/views/130407.html",
-        "published": "11 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-11T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pdPtZIKbCo_2026-04-11_1775934013thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -438,5 +287,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 08:44:04 UTC"
+  "fetched_at": "2026-04-13 09:37:39 UTC"
 }
