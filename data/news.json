@@ -236,10 +236,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Ukraine's Zelensky to visit Norway on Tuesday after German",
-        "link": "https://www.newsofbahrain.com/world/130569.html",
+        "title": "Fuel Crisis Accelerates Asia’s EV Shift",
+        "link": "https://www.newsofbahrain.com/world/130571.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9tio2DruA4_2026-04-14_1776169005resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pakistan Announces 2-Hour Daily Power Cuts to Control Electricity Prices",
+        "link": "https://www.newsofbahrain.com/world/130570.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DPUEsrRTBW_2026-04-14_1776168489resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ukraine's Zelensky to visit Norway on Tuesday after German",
+        "link": "https://www.newsofbahrain.com/world/130569.html",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_VeCxqIYhvf_2026-04-14_1776165872resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +268,8 @@
       {
         "title": "Spanish PM’s Wife Charged in Corruption Case Amid Political Pressure",
         "link": "https://www.newsofbahrain.com/world/130568.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QfS5umKAwt_2026-04-14_1776165305resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,30 +278,10 @@
       {
         "title": "Members of Bangladesh human rights body resign over govt inaction",
         "link": "https://www.newsofbahrain.com/world/130567.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yiA8uOgN9X_2026-04-14_1776165095resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Harvey Weinstein to Face Retrial as Legal Battles Continue",
-        "link": "https://www.newsofbahrain.com/world/130566.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vF0ZreSjRu_2026-04-14_1776164794resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US farmers strained as fertilizer costs surge on war",
-        "link": "https://www.newsofbahrain.com/world/130565.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X3gbhZnxfD_2026-04-14_1776163989resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yiA8uOgN9X_2026-04-14_1776165095resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 11:49:03 UTC"
+  "fetched_at": "2026-04-14 12:23:07 UTC"
 }
