@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain summons Iraqi diplomat over drone attacks from Iraq",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SNzRqOTB5OC13a0tyc2sxOUZ4OG1QcGdNcms5LXZwd1VwaWpWb21ITWxoY3k3ZEJrSW1CbGZyUnAwNDBvblBZZy1rMGdlZENIVnU2MQ?oc=5",
-        "published": "13 Apr 2026, 02:26 PM",
-        "iso_date": "2026-04-13T14:26:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
         "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
         "published": "13 Apr 2026, 04:11 PM",
@@ -86,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEV6UWFwNGVwSVhOMG16ZXdxWnduVEwyWld2QndCZDN5WS1uUE13OVNRTUJJTXFBNXJ6SEQzZ2dKdmp1S0tBQk9rRFpGa2h5MUI5eEduNkNFTHZESkRSYm5SQ2o4OVFGdE1ScHgzN1Ntb1hQMF9CUHdwbXVFeTZEUlp0SlRvLU5xZTM0RWhWS19qdkZ0SWRjU09tdUp5emM?oc=5",
         "published": "13 Apr 2026, 03:15 PM",
         "iso_date": "2026-04-13T15:15:09+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain: 194 Missiles, 523 Drones Intercepted Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaW9xS3BnMWVYeGpVUWJBVDhFMWQ1eGhQamVrQXlrRXN6Z0NjSWI3WnVndWROUHhGVWhJV3czWHBOMlFBZ0xKU01kTmVYbVJyeHRHaVJSQ3MwdHF0bE5IeV9rYUgxMm1DVjJFVlJaZ25SOXlmajBKaE5qdGNkZENOUjVtTTl4M2pkZUdaam14LTlLRTI0b2c5TXRWbzJBZw?oc=5",
-        "published": "13 Apr 2026, 02:30 PM",
-        "iso_date": "2026-04-13T14:30:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Florida teenager charged with sexually assaulting and killing stepsister on cruise ship",
+        "link": "https://www.newsofbahrain.com/world/130578.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UPIZ2cegBR_2026-04-14_1776174451resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Italian PM says suspending defence agreement with Israel",
         "link": "https://www.newsofbahrain.com/world/130577.html",
         "published": "14 Apr 2026, 09:22 AM",
@@ -248,8 +238,8 @@
       {
         "title": "Twin Suicide Attacks Hit Algeria During Pope’s Historic Visit",
         "link": "https://www.newsofbahrain.com/world/130576.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wx9UhTYgRL_2026-04-14_1776171354resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,20 +258,10 @@
       {
         "title": "Taiwan Charges 10 People, Including Military Staff, for Spying for China",
         "link": "https://www.newsofbahrain.com/world/130574.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjEwisRcUx_2026-04-14_1776170270resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "France and UK Convene Emergency Summit to Reopen Hormuz",
-        "link": "https://www.newsofbahrain.com/world/130573.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X8FC0tanqL_2026-04-14_1776169896resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjEwisRcUx_2026-04-14_1776170270resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 13:34:54 UTC"
+  "fetched_at": "2026-04-14 14:37:04 UTC"
 }
