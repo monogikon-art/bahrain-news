@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,10 +42,20 @@
         "category": "Latest"
       },
       {
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
+        "published": "14 Apr 2026, 06:36 AM",
+        "iso_date": "2026-04-14T06:36:19+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahraini Central Bank Offers Loan Deferrals, Boosts Liquidity To Support Economy Amid Regional Conflict",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLczdjbTJxUzhSMWp0ZjhpMG5KVjVPR29ZYUNkMUc5ZTVOaWdaVmdyaGJXMUM3QXpsN0htQjBCclRyUW4yM0t0VDRJWDRSNEJrNnFDQ19oLVpYaVNfXzR2OXdtNjJGOU9qOU5BaFJB?oc=5",
-        "published": "14 Apr 2026, 07:39 AM",
-        "iso_date": "2026-04-14T07:39:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wUGNTT0dYeU9qWUFmRDYyQmp0NHI3SFRVd0VTV0hIU2Zqam1ubHpRdDRFRjNUU1dFLXlfWXBaNm1KNld2d0xWa2lUN2V4Zl9na3BQMHlzSEUwRk90Tk5wWTVR?oc=5",
+        "published": "14 Apr 2026, 06:46 AM",
+        "iso_date": "2026-04-14T06:46:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 21:47:23 UTC"
+  "fetched_at": "2026-04-14 22:17:09 UTC"
 }
