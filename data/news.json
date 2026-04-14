@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 16
     }
   },
   "articles": {
@@ -62,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
-        "published": "14 Apr 2026, 08:43 AM",
-        "iso_date": "2026-04-14T08:43:26+00:00",
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
+        "published": "14 Apr 2026, 06:36 AM",
+        "iso_date": "2026-04-14T06:36:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,42 +226,82 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Foreign Minister Meets US Ambassador to Discuss Regional Developments",
-        "link": "https://www.newsofbahrain.com/bahrain/130582.html",
+        "title": "HM King receives cable of thanks from BCCI Chairman",
+        "link": "https://www.newsofbahrain.com/bahrain/130589.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d6E0oeJyfR_2026-04-14_1776192517resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lEZSdwXCoy_2026-04-14_1776194252resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE President, European Council Chief Discuss Regional Security and Cooperation",
-        "link": "https://www.newsofbahrain.com/gcc/130581.html",
+        "title": "HM Sultan of Oman, Japan’s Prime Minister Discuss Regional Developments",
+        "link": "https://www.newsofbahrain.com/gcc/130588.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NbOLxIqrlJ_2026-04-14_1776192289resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xbXo3ks2Ey_2026-04-14_1776194085resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain welcomes EU solidarity in confronting Iran’s aggression",
-        "link": "https://www.newsofbahrain.com/bahrain/130580.html",
+        "title": "Labour Ministry: Electronic systems resume normal operation",
+        "link": "https://www.newsofbahrain.com/bahrain/130587.html",
         "published": "14 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FihplPcWA0_2026-04-14_1776192119resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LEMVDy3Oxt_2026-04-14_1776193890resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HM Sultan of Oman, HH Amir of Qatar Discuss Regional Developments",
+        "link": "https://www.newsofbahrain.com/gcc/130586.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tNv1DCkREc_2026-04-14_1776193775resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Education Ministry Launches IB Programme Webpage for Government Schools",
+        "link": "https://www.newsofbahrain.com/bahrain/130585.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ruEyWtYehF_2026-04-14_1776193596resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HH Shaikh Nasser bin Hamad chairs SCYS meeting, approves key decisions to support and empower young people",
+        "link": "https://www.newsofbahrain.com/bahrain/130584.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7xYXUhgGwD_2026-04-14_1776193345thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Foreign Minister Meets ICRC Regional Head to Discuss Humanitarian Cooperation",
+        "link": "https://www.newsofbahrain.com/bahrain/130583.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cWVuvRjGfe_2026-04-14_1776192697thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Lebanon and Israel Hold First Direct Talks Since 1993 in Washington Amid Ongoing Conflict",
         "link": "https://www.newsofbahrain.com/world/130579.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1bSNZnqwkD_2026-04-14_1776182487resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1bSNZnqwkD_2026-04-14_1776182487thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,37 +311,7 @@
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UPIZ2cegBR_2026-04-14_1776174451resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Occupational Safety and Health Council Holds Its First Meeting Following Reconstitution",
-        "link": "https://www.newsofbahrain.com/bahrain/130542.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gZuxi2ELYc_2026-04-14_1776156516thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "The Invisible Student",
-        "link": "https://www.newsofbahrain.com/bahrain/130522.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jTiWs0tR9S_2026-04-14_1776143257thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "2,000 people a month",
-        "link": "https://www.newsofbahrain.com/bahrain/130521.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oz0ShBilxO_2026-04-14_1776142407thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UPIZ2cegBR_2026-04-14_1776174451thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 18:52:18 UTC"
+  "fetched_at": "2026-04-14 19:31:28 UTC"
 }
