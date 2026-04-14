@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 18
     }
   },
   "articles": {
@@ -62,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
-        "published": "13 Apr 2026, 04:11 PM",
-        "iso_date": "2026-04-13T16:11:39+00:00",
+        "title": "Bahrain economy achieves real growth of 3.5% in 2025",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNai1kUnFkY2VKNlhvZEFKUWcwdm96aGtVN3daYU5jdlhfXzNEWDRpMl8zLVZNbC1EbmZXVnp5aDltZEFmWjk2eFp2M1NVRU5GN3B6NTlCTjFpRWhucXEweTZFT3Y3dkhNb2t2NTh2dTR6OGpDbEpadlRPMHc2WUloR3JDNWFYV2JyNk94am5mdnpGVXNPTG05SWYxdEE?oc=5",
+        "published": "14 Apr 2026, 07:02 AM",
+        "iso_date": "2026-04-14T07:02:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,52 +236,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "US and Indonesia Announce Major Defence Partnership",
-        "link": "https://www.newsofbahrain.com/world/130539.html",
+        "title": "Asian champions Bahrain reset for GCC Games Hussain Almaskati",
+        "link": "https://www.newsofbahrain.com/sports/130547.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zXYCwvMARO_2026-04-14_1776152519resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z7eEm5CBo3_2026-04-14_1776157249resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Xi says China to play 'constructive role' in promoting Mideast peace talks",
-        "link": "https://www.newsofbahrain.com/world/130538.html",
+        "title": "Prince Harry and Meghan visit Australia in first trip since royal rift",
+        "link": "https://www.newsofbahrain.com/world/130546.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OkdFEvlPDs_2026-04-14_1776152190resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SBXYA6uzh8_2026-04-14_1776157164resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Trump Warns Iran: Approach US Blockade and “Ships Will Be Destroyed”",
-        "link": "https://www.newsofbahrain.com/world/130537.html",
+        "title": "Muharraq eye historic fifth basketball crown",
+        "link": "https://www.newsofbahrain.com/sports/130545.html",
         "published": "14 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PfVvemOy6C_2026-04-14_1776151947resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i6NKrHYOPe_2026-04-14_1776157118resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "US Naval Blockade on Iran Takes Effect After Deadline Passes",
-        "link": "https://www.newsofbahrain.com/world/130535.html",
+        "title": "Rashford with point to prove as Barca target Atletico comeback",
+        "link": "https://www.newsofbahrain.com/sports/130544.html",
         "published": "14 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZFAw0XN5aU_2026-04-14_1776150903resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QoXcKImZ6E_2026-04-14_1776156935resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Rosenior admits Chelsea in ‘difficult place’",
-        "link": "https://www.newsofbahrain.com/sports/130533.html",
+        "title": "Liverpool seek Anfield miracle",
+        "link": "https://www.newsofbahrain.com/sports/130543.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Hv1JXVg2Mo_2026-04-14_1776146841resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IebTmuCVY8_2026-04-14_1776156635resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Occupational Safety and Health Council Holds Its First Meeting Following Reconstitution",
+        "link": "https://www.newsofbahrain.com/bahrain/130542.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gZuxi2ELYc_2026-04-14_1776156516thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,12 +336,32 @@
         "category": "Latest"
       },
       {
-        "title": "Operational Readiness in Governorates",
-        "link": "https://www.newsofbahrain.com/bahrain/130518.html",
+        "title": "New trial over Maradona's death begins in Argentina",
+        "link": "https://www.newsofbahrain.com/world/130541.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2FA51TmORh_2026-04-14_1776141505thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y4UcFuDvnQ_2026-04-14_1776156438thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Hosts Israel–Lebanon Talks as War Continues, But Hopes for Breakthrough Remain Low",
+        "link": "https://www.newsofbahrain.com/world/130540.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oyljUX7zvk_2026-04-14_1776156416thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US and Indonesia Announce Major Defence Partnership",
+        "link": "https://www.newsofbahrain.com/world/130539.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zXYCwvMARO_2026-04-14_1776152519thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -382,26 +412,6 @@
         "iso_date": "2026-04-13T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_e4v3lo98aB_2026-04-13_1776097158thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Coachella Craze What Draws Millions Every Year",
-        "link": "https://www.newsofbahrain.com/views/130464.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gvxfbmgt0B_2026-04-12_1776027552thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "The Citizen: The Backbone of Soft Warfare",
-        "link": "https://www.newsofbahrain.com/views/130436.html",
-        "published": "12 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-12T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sRlFbNoKOq_2026-04-12_1775993439thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -519,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 08:06:34 UTC"
+  "fetched_at": "2026-04-14 09:01:45 UTC"
 }
