@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "King of Bahrain receives US Central Command Commander",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJ4Z0d1cFBaSnoydE9LT1BxS1J1dFdLcmNURjc2Nkx2cmxzNWhuR2VRcDJpRWlYc1Q3ckRvVG5XQmJfalkzck9TSW9JVzRjNDIyMWtOX3RFR0dRTWg0akFlWkFxRFRnZTVCVkE1U0JLcEZlWVNSbkJfUHpVMmNka1gyMWwzSGg0dE5QRlR3aldpLWtNZ1NmNENTcXQyeTc5V0MyUWhhbWJ0T25LN2dwQk1KQlhDME1XTFRCY0NR0gG-AUFVX3lxTFBNQnhnR3VwUFpKejJ0T0tPUHFLUnV0V0tyY1RGNzY2THZybHM1aG5HZVFwMmlFaVhzVDdyRG9UbldCYl9qWTNyT1NJb0lXNGM0MjIxa05fdEVHR1FNaDRqQWVaQXFEVGdlNUJWQTVTQktwRmVZU1JuQl9QelUyY2RrWDIxbDNIaDR0TlBGVHdqV2kta01nU2Y0Q1NxdDJ5NzlXQzJRaGFtYnRPbks3Z3BCTUpCWEMwTVdMVEJjQ1E?oc=5",
+        "published": "13 Apr 2026, 09:34 PM",
+        "iso_date": "2026-04-13T21:34:38+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain’s king meets U.S. Central Command Adm. Brad Cooper in Manama - Honolulu Star",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVJ1S0tweGw0eWxmRUN3VVN3QkpzV0NjbmVfcm5IMlVlMWhFV3VUZkkzN0F4WXBOaUlmR0ptYy10M3VoOHZOQVJtd01fWEtlSTV4d1hudk8zc1A1b29QY0tGaWVQMFV2SHZWRjVCVm1FVGM0ZHpRUnpXbUwxTlhZQTdScG14Vy1MclRMY2s2MTlnV0owVTBlb2ZaR25LSWpUZlhmZWNPaDdWaWhWSWpQdzQ2eTJaZEdwUHJrQ1JqRQ?oc=5",
         "published": "14 Apr 2026, 01:09 AM",
@@ -36,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcjhQb3VaT21LQUw0YXFxTi16QWV1bUJQTVpwRVo5RjdiamFDZDlKTVpvY3otWS1XNjEwOWNwNElCYllfNUFlek1UUDI3bURRbkhPMHdTS1JJcU14WUFFS0F5ZmVFQnhORUk1eG8zT2xiekRsaE1Ob0pYdmpDMGx6U292QnZqbUxkaVh5TDItVkVXRlJXY3oyZWNDbFhuekE2MGVVc1VUOXNhVjVLVjBCUFZTZUg5SWxnc1AtZE5lVzBSd3BUWm1zZUtNYjlCWGwtZTdqdTFNcjVnMGpORF8xajl3?oc=5",
         "published": "13 Apr 2026, 10:44 PM",
         "iso_date": "2026-04-13T22:44:48+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "King of Bahrain receives US Central Command Commander",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJ4Z0d1cFBaSnoydE9LT1BxS1J1dFdLcmNURjc2Nkx2cmxzNWhuR2VRcDJpRWlYc1Q3ckRvVG5XQmJfalkzck9TSW9JVzRjNDIyMWtOX3RFR0dRTWg0akFlWkFxRFRnZTVCVkE1U0JLcEZlWVNSbkJfUHpVMmNka1gyMWwzSGg0dE5QRlR3aldpLWtNZ1NmNENTcXQyeTc5V0MyUWhhbWJ0T25LN2dwQk1KQlhDME1XTFRCY0NR0gG-AUFVX3lxTFBNQnhnR3VwUFpKejJ0T0tPUHFLUnV0V0tyY1RGNzY2THZybHM1aG5HZVFwMmlFaVhzVDdyRG9UbldCYl9qWTNyT1NJb0lXNGM0MjIxa05fdEVHR1FNaDRqQWVaQXFEVGdlNUJWQTVTQktwRmVZU1JuQl9QelUyY2RrWDIxbDNIaDR0TlBGVHdqV2kta01nU2Y0Q1NxdDJ5NzlXQzJRaGFtYnRPbks3Z3BCTUpCWEMwTVdMVEJjQ1E?oc=5",
-        "published": "13 Apr 2026, 09:34 PM",
-        "iso_date": "2026-04-13T21:34:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -82,10 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain economy achieves real growth of 3.5% in 2025",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNai1kUnFkY2VKNlhvZEFKUWcwdm96aGtVN3daYU5jdlhfXzNEWDRpMl8zLVZNbC1EbmZXVnp5aDltZEFmWjk2eFp2M1NVRU5GN3B6NTlCTjFpRWhucXEweTZFT3Y3dkhNb2t2NTh2dTR6OGpDbEpadlRPMHc2WUloR3JDNWFYV2JyNk94am5mdnpGVXNPTG05SWYxdEE?oc=5",
-        "published": "14 Apr 2026, 07:02 AM",
-        "iso_date": "2026-04-14T07:02:00+00:00",
+        "title": "Bahrain Economy Achieves Real Growth Of 3.5% In 2025",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV2lKd0s3VHBCX2gzMDNMdzRadllvN0s1Y1JZdGZSSENROWFqaVh0WmI1M05sTVg3c0pBc1lVZTBVT2YyQWoxYlBTUk9EQTVDbkV0UTFxVjZoOHNnTUVERnM4b2RkaEpDMFg2RWhiOE1NMWpOUFQyRlNldm45X3VRM3J1X3V2Snc3RHdCOEc2RXRrS2E2TU84eG95RWc?oc=5",
+        "published": "14 Apr 2026, 08:15 AM",
+        "iso_date": "2026-04-14T08:15:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -114,6 +114,16 @@
         "category": "Latest"
       },
       {
+        "title": "Deal secured to save teachers jobs",
+        "link": "https://www.gdnonline.com/Details/1381490/Deal-secured-to-save-teachers-jobs",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414230907websitesize(2)_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "US relations stressed",
         "link": "https://www.gdnonline.com/Details/1381408/US-relations-stressed",
         "published": "14 Apr 2026",
@@ -130,16 +140,6 @@
         "iso_date": "2026-04-14T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260413/20260413112719accs1_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Man sentenced to five years in jail for bid to smuggle drugs",
-        "link": "https://www.gdnonline.com/Details/1381377/Man-sentenced-to-five-years-in-jail-for-bid-to-smuggle-drugs-",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233057jail1_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 20:21:30 UTC"
+  "fetched_at": "2026-04-14 20:47:34 UTC"
 }
