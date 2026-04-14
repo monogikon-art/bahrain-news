@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "King of Bahrain receives US Central Command Commander",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJ4Z0d1cFBaSnoydE9LT1BxS1J1dFdLcmNURjc2Nkx2cmxzNWhuR2VRcDJpRWlYc1Q3ckRvVG5XQmJfalkzck9TSW9JVzRjNDIyMWtOX3RFR0dRTWg0akFlWkFxRFRnZTVCVkE1U0JLcEZlWVNSbkJfUHpVMmNka1gyMWwzSGg0dE5QRlR3aldpLWtNZ1NmNENTcXQyeTc5V0MyUWhhbWJ0T25LN2dwQk1KQlhDME1XTFRCY0NR0gG-AUFVX3lxTFBNQnhnR3VwUFpKejJ0T0tPUHFLUnV0V0tyY1RGNzY2THZybHM1aG5HZVFwMmlFaVhzVDdyRG9UbldCYl9qWTNyT1NJb0lXNGM0MjIxa05fdEVHR1FNaDRqQWVaQXFEVGdlNUJWQTVTQktwRmVZU1JuQl9QelUyY2RrWDIxbDNIaDR0TlBGVHdqV2kta01nU2Y0Q1NxdDJ5NzlXQzJRaGFtYnRPbks3Z3BCTUpCWEMwTVdMVEJjQ1E?oc=5",
-        "published": "13 Apr 2026, 09:34 PM",
-        "iso_date": "2026-04-13T21:34:38+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain’s king meets U.S. Central Command Adm. Brad Cooper in Manama - Honolulu Star",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVJ1S0tweGw0eWxmRUN3VVN3QkpzV0NjbmVfcm5IMlVlMWhFV3VUZkkzN0F4WXBOaUlmR0ptYy10M3VoOHZOQVJtd01fWEtlSTV4d1hudk8zc1A1b29QY0tGaWVQMFV2SHZWRjVCVm1FVGM0ZHpRUnpXbUwxTlhZQTdScG14Vy1MclRMY2s2MTlnV0owVTBlb2ZaR25LSWpUZlhmZWNPaDdWaWhWSWpQdzQ2eTJaZEdwUHJrQ1JqRQ?oc=5",
@@ -52,20 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
-        "published": "14 Apr 2026, 06:36 AM",
-        "iso_date": "2026-04-14T06:36:19+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
-        "published": "14 Apr 2026, 08:43 AM",
-        "iso_date": "2026-04-14T08:43:26+00:00",
+        "title": "King of Bahrain receives US Central Command Commander",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJ4Z0d1cFBaSnoydE9LT1BxS1J1dFdLcmNURjc2Nkx2cmxzNWhuR2VRcDJpRWlYc1Q3ckRvVG5XQmJfalkzck9TSW9JVzRjNDIyMWtOX3RFR0dRTWg0akFlWkFxRFRnZTVCVkE1U0JLcEZlWVNSbkJfUHpVMmNka1gyMWwzSGg0dE5QRlR3aldpLWtNZ1NmNENTcXQyeTc5V0MyUWhhbWJ0T25LN2dwQk1KQlhDME1XTFRCY0NR0gG-AUFVX3lxTFBNQnhnR3VwUFpKejJ0T0tPUHFLUnV0V0tyY1RGNzY2THZybHM1aG5HZVFwMmlFaVhzVDdyRG9UbldCYl9qWTNyT1NJb0lXNGM0MjIxa05fdEVHR1FNaDRqQWVaQXFEVGdlNUJWQTVTQktwRmVZU1JuQl9QelUyY2RrWDIxbDNIaDR0TlBGVHdqV2kta01nU2Y0Q1NxdDJ5NzlXQzJRaGFtYnRPbks3Z3BCTUpCWEMwTVdMVEJjQ1E?oc=5",
+        "published": "13 Apr 2026, 09:34 PM",
+        "iso_date": "2026-04-13T21:34:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -73,9 +53,9 @@
       },
       {
         "title": "Bahraini Central Bank Offers Loan Deferrals, Boosts Liquidity To Support Economy Amid Regional Conflict",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLczdjbTJxUzhSMWp0ZjhpMG5KVjVPR29ZYUNkMUc5ZTVOaWdaVmdyaGJXMUM3QXpsN0htQjBCclRyUW4yM0t0VDRJWDRSNEJrNnFDQ19oLVpYaVNfXzR2OXdtNjJGOU9qOU5BaFJB?oc=5",
-        "published": "14 Apr 2026, 07:39 AM",
-        "iso_date": "2026-04-14T07:39:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wUGNTT0dYeU9qWUFmRDYyQmp0NHI3SFRVd0VTV0hIU2Zqam1ubHpRdDRFRjNUU1dFLXlfWXBaNm1KNld2d0xWa2lUN2V4Zl9na3BQMHlzSEUwRk90Tk5wWTVR?oc=5",
+        "published": "14 Apr 2026, 06:46 AM",
+        "iso_date": "2026-04-14T06:46:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Central Bank of Bahrain issues loan deferment directives",
+        "link": "https://www.newsofbahrain.com/bahrain/130595.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xIJ20RqQlB_2026-04-14_1776200987resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Israel, Lebanon agree to direct negotiations after 'productive' talks: US statement",
         "link": "https://www.newsofbahrain.com/world/130594.html",
         "published": "14 Apr 2026, 09:22 AM",
@@ -238,8 +228,8 @@
       {
         "title": "Yas Marina Circuit To Host 'One Flag, One Walk, One Community' Event",
         "link": "https://www.newsofbahrain.com/trends/130593.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_x3hEbYD5Oq_2026-04-14_1776197139resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +248,8 @@
       {
         "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
         "link": "https://www.newsofbahrain.com/views/130591.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484resized_pic.jpg",
         "source": "newsofbahrain",
@@ -271,7 +261,7 @@
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sOhpBrlDIZ_2026-04-14_1776196458resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sOhpBrlDIZ_2026-04-14_1776196458thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +292,6 @@
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ruEyWtYehF_2026-04-14_1776193596thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HH Shaikh Nasser bin Hamad chairs SCYS meeting, approves key decisions to support and empower young people",
-        "link": "https://www.newsofbahrain.com/bahrain/130584.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7xYXUhgGwD_2026-04-14_1776193345thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 20:47:34 UTC"
+  "fetched_at": "2026-04-14 21:18:39 UTC"
 }
