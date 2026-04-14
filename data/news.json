@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 17
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdFpBOHBTSGZ5Zms5U3E3WWRwRERKNFczNVB5ZTkxZmtiV3puMzV0SS1XTjRIMmlLS2ZvRFNZOGg5TmgzeENJYkJ4R0dFT2g4cm1v?oc=5",
         "published": "13 Apr 2026, 08:14 PM",
         "iso_date": "2026-04-13T20:14:37+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "King of Bahrain receives US Central Command Commander",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJ4Z0d1cFBaSnoydE9LT1BxS1J1dFdLcmNURjc2Nkx2cmxzNWhuR2VRcDJpRWlYc1Q3ckRvVG5XQmJfalkzck9TSW9JVzRjNDIyMWtOX3RFR0dRTWg0akFlWkFxRFRnZTVCVkE1U0JLcEZlWVNSbkJfUHpVMmNka1gyMWwzSGg0dE5QRlR3aldpLWtNZ1NmNENTcXQyeTc5V0MyUWhhbWJ0T25LN2dwQk1KQlhDME1XTFRCY0NR0gG-AUFVX3lxTFBNQnhnR3VwUFpKejJ0T0tPUHFLUnV0V0tyY1RGNzY2THZybHM1aG5HZVFwMmlFaVhzVDdyRG9UbldCYl9qWTNyT1NJb0lXNGM0MjIxa05fdEVHR1FNaDRqQWVaQXFEVGdlNUJWQTVTQktwRmVZU1JuQl9QelUyY2RrWDIxbDNIaDR0TlBGVHdqV2kta01nU2Y0Q1NxdDJ5NzlXQzJRaGFtYnRPbks3Z3BCTUpCWEMwTVdMVEJjQ1E?oc=5",
+        "published": "13 Apr 2026, 09:34 PM",
+        "iso_date": "2026-04-13T21:34:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -56,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SNzRqOTB5OC13a0tyc2sxOUZ4OG1QcGdNcms5LXZwd1VwaWpWb21ITWxoY3k3ZEJrSW1CbGZyUnAwNDBvblBZZy1rMGdlZENIVnU2MQ?oc=5",
         "published": "13 Apr 2026, 02:26 PM",
         "iso_date": "2026-04-13T14:26:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
-        "published": "13 Apr 2026, 04:11 PM",
-        "iso_date": "2026-04-13T16:11:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -164,26 +164,6 @@
         "category": "Latest"
       },
       {
-        "title": "Oil prices rise short-lived says Standard Chartered",
-        "link": "https://www.gdnonline.com/Details/1381172/Oil-prices-rise-short-lived-says-Standard-Chartered",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005321gill_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "EO Bahrain unveils judges for Farouk Almoayyed GSEA",
-        "link": "https://www.gdnonline.com/Details/1381171/EO-Bahrain-unveils-judges-for-Farouk-Almoayyed-GSEA",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412005444edited12_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Ghanaian footballer Dominic Frimpong killed in attack on Berekum Chelsea team bus",
         "link": "https://www.gdnonline.com/Details/1381325/Ghanaian-footballer-Dominic-Frimpong-killed-in-attack-on-Berekum-Chelsea-team-bus",
         "published": "13 Apr 2026",
@@ -240,26 +220,6 @@
         "iso_date": "2026-04-13T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260413/20260413_150245_0_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "'Paddington' musical, Hollywood stars to vie for prizes at Olivier Awards",
-        "link": "https://www.gdnonline.com/Details/1381217/Paddington-musical,-Hollywood-stars-to-vie-for-prizes-at-Olivier-Awards",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412095536gdnwebsitesize(33)_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Pop star Pink tapped to host Broadwayâs Tony Awards",
-        "link": "https://www.gdnonline.com/Details/1381210/Pop-star-Pink-tapped-to-host-Broadwayâs-Tony-Awards",
-        "published": "12 Apr 2026",
-        "iso_date": "2026-04-12T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260412/20260412093955popstarpinktappedtohostbroadwayâstonyawards_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       }
@@ -539,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-13 23:46:13 UTC"
+  "fetched_at": "2026-04-14 00:33:06 UTC"
 }
