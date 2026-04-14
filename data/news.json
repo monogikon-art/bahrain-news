@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -63,9 +63,9 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
-        "published": "13 Apr 2026, 04:11 PM",
-        "iso_date": "2026-04-13T16:11:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
+        "published": "14 Apr 2026, 08:43 AM",
+        "iso_date": "2026-04-14T08:43:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -90,19 +90,29 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Bahrain: 194 Missiles, 523 Drones Intercepted Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaW9xS3BnMWVYeGpVUWJBVDhFMWQ1eGhQamVrQXlrRXN6Z0NjSWI3WnVndWROUHhGVWhJV3czWHBOMlFBZ0xKU01kTmVYbVJyeHRHaVJSQ3MwdHF0bE5IeV9rYUgxMm1DVjJFVlJaZ25SOXlmajBKaE5qdGNkZENOUjVtTTl4M2pkZUdaam14LTlLRTI0b2c5TXRWbzJBZw?oc=5",
-        "published": "13 Apr 2026, 02:30 PM",
-        "iso_date": "2026-04-13T14:30:08+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "BDF: No interceptions in the last 24 hours",
+        "link": "https://www.gdnonline.com/Details/1381447/BDF-No-interceptions-in-the-last-24-hours",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414124158bdf12(2)_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "First full satellite image of Bahrain captured by Al Munther",
+        "link": "https://www.gdnonline.com/Details/1381456/First-full-satellite-image-of-Bahrain-captured-by-Al-Munther",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414141351dpm(3)_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "US relations stressed",
         "link": "https://www.gdnonline.com/Details/1381408/US-relations-stressed",
@@ -130,26 +140,6 @@
         "iso_date": "2026-04-14T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233057jail1_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Councillors reject request to relocate Falcon Monument",
-        "link": "https://www.gdnonline.com/Details/1381376/Councillors-reject-request-to-relocate-Falcon-Monument-",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233148websitesize(7)_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Private sectorâs role commended",
-        "link": "https://www.gdnonline.com/Details/1381379/Private-sectorâs-role-commended",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260414/20260413_231058_0_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -236,52 +226,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Ex-Student Opens Fire at Turkish School, Injures 16 Before Taking His Own Life",
+        "link": "https://www.newsofbahrain.com/world/130575.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IH80RMPxsX_2026-04-14_1776170845resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Taiwan Charges 10 People, Including Military Staff, for Spying for China",
+        "link": "https://www.newsofbahrain.com/world/130574.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjEwisRcUx_2026-04-14_1776170270resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "France and UK Convene Emergency Summit to Reopen Hormuz",
+        "link": "https://www.newsofbahrain.com/world/130573.html",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X8FC0tanqL_2026-04-14_1776169896resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Spain Plans to Legalise 500,000 Undocumented Migrants",
+        "link": "https://www.newsofbahrain.com/world/130572.html",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EqkDbylHMm_2026-04-14_1776169309resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Fuel Crisis Accelerates Asia’s EV Shift",
         "link": "https://www.newsofbahrain.com/world/130571.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9tio2DruA4_2026-04-14_1776169005resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pakistan Announces 2-Hour Daily Power Cuts to Control Electricity Prices",
-        "link": "https://www.newsofbahrain.com/world/130570.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DPUEsrRTBW_2026-04-14_1776168489resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ukraine's Zelensky to visit Norway on Tuesday after German",
-        "link": "https://www.newsofbahrain.com/world/130569.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VeCxqIYhvf_2026-04-14_1776165872resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Spanish PM’s Wife Charged in Corruption Case Amid Political Pressure",
-        "link": "https://www.newsofbahrain.com/world/130568.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QfS5umKAwt_2026-04-14_1776165305resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Members of Bangladesh human rights body resign over govt inaction",
-        "link": "https://www.newsofbahrain.com/world/130567.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yiA8uOgN9X_2026-04-14_1776165095resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 12:23:07 UTC"
+  "fetched_at": "2026-04-14 12:50:55 UTC"
 }
