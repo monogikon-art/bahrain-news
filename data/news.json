@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -63,9 +63,9 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
-        "published": "14 Apr 2026, 08:43 AM",
-        "iso_date": "2026-04-14T08:43:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
+        "published": "13 Apr 2026, 04:11 PM",
+        "iso_date": "2026-04-13T16:11:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -82,10 +82,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain: 194 missiles, 523 drones intercepted since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHpBeFpzcVhlbzN4cmtjdWdDUEVRakV4NEFnVFdfV0pIRjV3eEhVX3pkcE94dzFyV0F6WDlVOS1KaU8ySy1JdnYyamh4TVROcm91NTRmQmVqeXotTWFzaDJvTWhXMUxpRnM0SzNiRVN3NERyNGFJM01jQmUzczRYUDVnbU9OMVdJc3pYU1ZTOXV2eG44LUc2cU9SNmd3TV9QYWVTeUt6UnBLZkhBaXFJZlZCdElhbG1wZTRoOQ?oc=5",
-        "published": "13 Apr 2026, 01:27 PM",
-        "iso_date": "2026-04-13T13:27:00+00:00",
+        "title": "King Of Bahrain, US Central Command Commander Discusses Regional Developments",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEV6UWFwNGVwSVhOMG16ZXdxWnduVEwyWld2QndCZDN5WS1uUE13OVNRTUJJTXFBNXJ6SEQzZ2dKdmp1S0tBQk9rRFpGa2h5MUI5eEduNkNFTHZESkRSYm5SQ2o4OVFGdE1ScHgzN1Ntb1hQMF9CUHdwbXVFeTZEUlp0SlRvLU5xZTM0RWhWS19qdkZ0SWRjU09tdUp5emM?oc=5",
+        "published": "13 Apr 2026, 03:15 PM",
+        "iso_date": "2026-04-13T15:15:09+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain: 194 Missiles, 523 Drones Intercepted Since Start Of Iranian Attacks",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaW9xS3BnMWVYeGpVUWJBVDhFMWQ1eGhQamVrQXlrRXN6Z0NjSWI3WnVndWROUHhGVWhJV3czWHBOMlFBZ0xKU01kTmVYbVJyeHRHaVJSQ3MwdHF0bE5IeV9rYUgxMm1DVjJFVlJaZ25SOXlmajBKaE5qdGNkZENOUjVtTTl4M2pkZUdaam14LTlLRTI0b2c5TXRWbzJBZw?oc=5",
+        "published": "13 Apr 2026, 02:30 PM",
+        "iso_date": "2026-04-13T14:30:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,10 +236,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Ex-Student Opens Fire at Turkish School, Injures 16 Before Taking His Own Life",
-        "link": "https://www.newsofbahrain.com/world/130575.html",
+        "title": "Italian PM says suspending defence agreement with Israel",
+        "link": "https://www.newsofbahrain.com/world/130577.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n8eV5AEJPg_2026-04-14_1776173583resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Twin Suicide Attacks Hit Algeria During Pope’s Historic Visit",
+        "link": "https://www.newsofbahrain.com/world/130576.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Wx9UhTYgRL_2026-04-14_1776171354resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ex-Student Opens Fire at Turkish School, Injures 16 Before Taking His Own Life",
+        "link": "https://www.newsofbahrain.com/world/130575.html",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_IH80RMPxsX_2026-04-14_1776170845resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +268,8 @@
       {
         "title": "Taiwan Charges 10 People, Including Military Staff, for Spying for China",
         "link": "https://www.newsofbahrain.com/world/130574.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjEwisRcUx_2026-04-14_1776170270resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,30 +278,10 @@
       {
         "title": "France and UK Convene Emergency Summit to Reopen Hormuz",
         "link": "https://www.newsofbahrain.com/world/130573.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X8FC0tanqL_2026-04-14_1776169896resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Spain Plans to Legalise 500,000 Undocumented Migrants",
-        "link": "https://www.newsofbahrain.com/world/130572.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EqkDbylHMm_2026-04-14_1776169309resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fuel Crisis Accelerates Asia’s EV Shift",
-        "link": "https://www.newsofbahrain.com/world/130571.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9tio2DruA4_2026-04-14_1776169005resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X8FC0tanqL_2026-04-14_1776169896resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 12:50:55 UTC"
+  "fetched_at": "2026-04-14 13:34:54 UTC"
 }
