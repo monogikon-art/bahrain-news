@@ -10,17 +10,27 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 16
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain’s king meets U.S. Central Command Adm. Brad Cooper in Manama - Honolulu Star",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVJ1S0tweGw0eWxmRUN3VVN3QkpzV0NjbmVfcm5IMlVlMWhFV3VUZkkzN0F4WXBOaUlmR0ptYy10M3VoOHZOQVJtd01fWEtlSTV4d1hudk8zc1A1b29QY0tGaWVQMFV2SHZWRjVCVm1FVGM0ZHpRUnpXbUwxTlhZQTdScG14Vy1MclRMY2s2MTlnV0owVTBlb2ZaR25LSWpUZlhmZWNPaDdWaWhWSWpQdzQ2eTJaZEdwUHJrQ1JqRQ?oc=5",
+        "published": "14 Apr 2026, 01:09 AM",
+        "iso_date": "2026-04-14T01:09:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain’s king commends strategic ties with US during reception for American military commander",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdFpBOHBTSGZ5Zms5U3E3WWRwRERKNFczNVB5ZTkxZmtiV3puMzV0SS1XTjRIMmlLS2ZvRFNZOGg5TmgzeENJYkJ4R0dFT2g4cm1v?oc=5",
@@ -62,16 +72,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
-        "published": "13 Apr 2026, 04:11 PM",
-        "iso_date": "2026-04-13T16:11:39+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain: 194 missiles, 523 drones intercepted since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHpBeFpzcVhlbzN4cmtjdWdDUEVRakV4NEFnVFdfV0pIRjV3eEhVX3pkcE94dzFyV0F6WDlVOS1KaU8ySy1JdnYyamh4TVROcm91NTRmQmVqeXotTWFzaDJvTWhXMUxpRnM0SzNiRVN3NERyNGFJM01jQmUzczRYUDVnbU9OMVdJc3pYU1ZTOXV2eG44LUc2cU9SNmd3TV9QYWVTeUt6UnBLZkhBaXFJZlZCdElhbG1wZTRoOQ?oc=5",
         "published": "13 Apr 2026, 01:27 PM",
@@ -102,186 +102,75 @@
         "category": "Latest"
       }
     ],
-    "gdn": [
-      {
-        "title": "Councillors reject request to relocate Falcon Monument",
-        "link": "https://www.gdnonline.com/Details/1381376/Councillors-reject-request-to-relocate-Falcon-Monument-",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233148websitesize(7)_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Man sentenced to five years in jail for bid to smuggle drugs",
-        "link": "https://www.gdnonline.com/Details/1381377/Man-sentenced-to-five-years-in-jail-for-bid-to-smuggle-drugs-",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233057jail1_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Regional plan to support food security discussed",
-        "link": "https://www.gdnonline.com/Details/1381378/Regional-plan-to-support-food-security-discussed-",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233006websitesize(6)_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Private sectorâs role commended",
-        "link": "https://www.gdnonline.com/Details/1381379/Private-sectorâs-role-commended",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260414/20260413_231058_0_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Blazeâhit families may get green light to rebuild despite violations",
-        "link": "https://www.gdnonline.com/Details/1381387/Blazeâhit-families-may-get-green-light-to-rebuild-despite-violations",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414_002832_0_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Non-oil sector drives 3.5 per cent growth",
-        "link": "https://www.gdnonline.com/Details/1381391/Non-oil-sector-drives-35-per-cent-growth",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414004013asihbf_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "All Share Index closes higher",
-        "link": "https://www.gdnonline.com/Details/1381384/All-Share-Index-closes-higher",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413234615bourse_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Ghanaian footballer Dominic Frimpong killed in attack on Berekum Chelsea team bus",
-        "link": "https://www.gdnonline.com/Details/1381325/Ghanaian-footballer-Dominic-Frimpong-killed-in-attack-on-Berekum-Chelsea-team-bus",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413103136frimpong_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Union Berlin appoint Eta as Bundesliga's first female head coach",
-        "link": "https://www.gdnonline.com/Details/1381310/Union-Berlin-appoint-Eta-as-Bundesligas-first-female-head-coach",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413095755union(1)_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Mentality must change to avoid drop, says Tottenham's De Zerbi",
-        "link": "https://www.gdnonline.com/Details/1381307/Mentality-must-change-to-avoid-drop,-says-Tottenhams-De-Zerbi",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413100224dezerby_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "City close gap on leaders Arsenal",
-        "link": "https://www.gdnonline.com/Details/1381298/City-close-gap-on-leaders-Arsenal-",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413013901manchestercity_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Leon strikes as Sundowns snatch away win",
-        "link": "https://www.gdnonline.com/Details/1381302/Leon-strikes-as-Sundowns-snatch-away-win",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413020832images(1)_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "'Paddington' musical triumphs at London's theatrical Olivier Awards",
-        "link": "https://www.gdnonline.com/Details/1381350/Paddington-musical-triumphs-at-Londons-theatrical-Olivier-Awards",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413_150245_0_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      }
-    ],
+    "gdn": [],
     "newsofbahrain": [
       {
-        "title": "5kg Meth Hidden in Sports Gear",
-        "link": "https://www.newsofbahrain.com/bahrain/130515.html",
+        "title": "Oil surges, stocks drop as Trump threatens to block Hormuz",
+        "link": "https://www.newsofbahrain.com/business/130524.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DY8zSO67uJ_2026-04-14_1776140907resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wYhpQBZkgF_2026-04-14_1776143851resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "MPs Seek Three-Year Travel Ban on Debtors",
-        "link": "https://www.newsofbahrain.com/bahrain/130514.html",
+        "title": "CBB opens liquidity taps, offers loan breathing space",
+        "link": "https://www.newsofbahrain.com/business/130523.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wBQypxOXbc_2026-04-14_1776140689resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9BVZH3wvdt_2026-04-14_1776143390resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Summons Iraqi Diplomat Over Drone Incident",
-        "link": "https://www.newsofbahrain.com/bahrain/130513.html",
+        "title": "The Invisible Student",
+        "link": "https://www.newsofbahrain.com/bahrain/130522.html",
         "published": "14 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PUmlN2sjiT_2026-04-14_1776140410resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jTiWs0tR9S_2026-04-14_1776143257resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Digital Revision Programme Goes Live Today",
-        "link": "https://www.newsofbahrain.com/bahrain/130512.html",
+        "title": "2,000 people a month",
+        "link": "https://www.newsofbahrain.com/bahrain/130521.html",
         "published": "14 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_muPXlDSUdn_2026-04-14_1776140324resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oz0ShBilxO_2026-04-14_1776142407resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Stagnant Water Fuels Mosquito",
-        "link": "https://www.newsofbahrain.com/bahrain/130511.html",
+        "title": "What’s on the Council Agenda?",
+        "link": "https://www.newsofbahrain.com/bahrain/130520.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QPIG86aqrc_2026-04-14_1776140092resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yi2A8rUOIF_2026-04-14_1776142208resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "High-Profile Bribery Case Heads for Final Verdict",
+        "link": "https://www.newsofbahrain.com/bahrain/130519.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yIR1w6k5jf_2026-04-14_1776141753thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Operational Readiness in Governorates",
+        "link": "https://www.newsofbahrain.com/bahrain/130518.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2FA51TmORh_2026-04-14_1776141505thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -342,16 +231,6 @@
         "iso_date": "2026-04-12T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_VR4DdUWnMt_2026-04-12_1775985270thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "War’s impact on fertilisers stirs food producer fears",
-        "link": "https://www.newsofbahrain.com/business/130433.html",
-        "published": "12 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-12T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dyvN5bSz6x_2026-04-12_1775983208thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +378,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 04:30:11 UTC"
+  "fetched_at": "2026-04-14 05:23:59 UTC"
 }
