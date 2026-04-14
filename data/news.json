@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,16 +22,6 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain’s king commends strategic ties with US during reception for American military commander",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdFpBOHBTSGZ5Zms5U3E3WWRwRERKNFczNVB5ZTkxZmtiV3puMzV0SS1XTjRIMmlLS2ZvRFNZOGg5TmgzeENJYkJ4R0dFT2g4cm1v?oc=5",
-        "published": "13 Apr 2026, 08:14 PM",
-        "iso_date": "2026-04-13T20:14:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain’s king meets U.S. Central Command Adm. Brad Cooper in Manama - Honolulu Star",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVJ1S0tweGw0eWxmRUN3VVN3QkpzV0NjbmVfcm5IMlVlMWhFV3VUZkkzN0F4WXBOaUlmR0ptYy10M3VoOHZOQVJtd01fWEtlSTV4d1hudk8zc1A1b29QY0tGaWVQMFV2SHZWRjVCVm1FVGM0ZHpRUnpXbUwxTlhZQTdScG14Vy1MclRMY2s2MTlnV0owVTBlb2ZaR25LSWpUZlhmZWNPaDdWaWhWSWpQdzQ2eTJaZEdwUHJrQ1JqRQ?oc=5",
         "published": "14 Apr 2026, 01:09 AM",
@@ -42,20 +32,30 @@
         "category": "Latest"
       },
       {
-        "title": "King of Bahrain receives US Central Command Commander",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJ4Z0d1cFBaSnoydE9LT1BxS1J1dFdLcmNURjc2Nkx2cmxzNWhuR2VRcDJpRWlYc1Q3ckRvVG5XQmJfalkzck9TSW9JVzRjNDIyMWtOX3RFR0dRTWg0akFlWkFxRFRnZTVCVkE1U0JLcEZlWVNSbkJfUHpVMmNka1gyMWwzSGg0dE5QRlR3aldpLWtNZ1NmNENTcXQyeTc5V0MyUWhhbWJ0T25LN2dwQk1KQlhDME1XTFRCY0NR0gG-AUFVX3lxTFBNQnhnR3VwUFpKejJ0T0tPUHFLUnV0V0tyY1RGNzY2THZybHM1aG5HZVFwMmlFaVhzVDdyRG9UbldCYl9qWTNyT1NJb0lXNGM0MjIxa05fdEVHR1FNaDRqQWVaQXFEVGdlNUJWQTVTQktwRmVZU1JuQl9QelUyY2RrWDIxbDNIaDR0TlBGVHdqV2kta01nU2Y0Q1NxdDJ5NzlXQzJRaGFtYnRPbks3Z3BCTUpCWEMwTVdMVEJjQ1E?oc=5",
-        "published": "13 Apr 2026, 09:34 PM",
-        "iso_date": "2026-04-13T21:34:38+00:00",
+        "title": "Bahrain’s king commends strategic ties with US during reception for American military commander",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdFpBOHBTSGZ5Zms5U3E3WWRwRERKNFczNVB5ZTkxZmtiV3puMzV0SS1XTjRIMmlLS2ZvRFNZOGg5TmgzeENJYkJ4R0dFT2g4cm1v?oc=5",
+        "published": "13 Apr 2026, 08:14 PM",
+        "iso_date": "2026-04-13T20:14:37+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Summons Iraq's Envoy over Drone Attacks, Lodges Formal Protest",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU5zSGNsTHdRbWxqc3RPY25uNE5OZ2FWS0JVd0xuVnhTbFZ1VUNLakVXRWdOeE54eEJEVmw1blVTRXE4QlVxcWQzQjJLTWE3b25qaUdBN3dLR0tqOEpnUjdna3pDaFljRjg5OWtzU1U4WEpnMXFEeEJJZEMwQnlaU2R5SHcxMEhBUDBka0wybU9lZEZSOFhZSEMtRUh1cWJ1VmY5ZGRmeW5oV3lvS2xLdmdrVGk2dw?oc=5",
-        "published": "13 Apr 2026, 04:09 PM",
-        "iso_date": "2026-04-13T16:09:13+00:00",
+        "title": "Bahrain Summons Iraq’s Envoy over Drone Attacks, Lodges Formal Protest - Fana News -",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEtXUUtjNjNjUlFhZzJPQ3gyU29yYVo5dmRHRXpkM2x2YUx2ZkhfZDJNcXpmLXRqN2JSUnBiWEFmNGNZSUIxbkdPR1dWS0ZDdWRocGpuZklzRVk4MjNnc3Jad09pbVkwbHRmTDNZUndnM2pKMWE3Zm5HQW1VcktpWGFvcmI0cU1mYnJTTVh6cmF3eFdrUWFBSDJsRUZMOEJiLXdvU1h0V2ltZw?oc=5",
+        "published": "13 Apr 2026, 05:07 PM",
+        "iso_date": "2026-04-13T17:07:27+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "King of Bahrain receives US Central Command Commander",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJ4Z0d1cFBaSnoydE9LT1BxS1J1dFdLcmNURjc2Nkx2cmxzNWhuR2VRcDJpRWlYc1Q3ckRvVG5XQmJfalkzck9TSW9JVzRjNDIyMWtOX3RFR0dRTWg0akFlWkFxRFRnZTVCVkE1U0JLcEZlWVNSbkJfUHpVMmNka1gyMWwzSGg0dE5QRlR3aldpLWtNZ1NmNENTcXQyeTc5V0MyUWhhbWJ0T25LN2dwQk1KQlhDME1XTFRCY0NR0gG-AUFVX3lxTFBNQnhnR3VwUFpKejJ0T0tPUHFLUnV0V0tyY1RGNzY2THZybHM1aG5HZVFwMmlFaVhzVDdyRG9UbldCYl9qWTNyT1NJb0lXNGM0MjIxa05fdEVHR1FNaDRqQWVaQXFEVGdlNUJWQTVTQktwRmVZU1JuQl9QelUyY2RrWDIxbDNIaDR0TlBGVHdqV2kta01nU2Y0Q1NxdDJ5NzlXQzJRaGFtYnRPbks3Z3BCTUpCWEMwTVdMVEJjQ1E?oc=5",
+        "published": "13 Apr 2026, 09:34 PM",
+        "iso_date": "2026-04-13T21:34:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -73,9 +73,19 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
-        "published": "13 Apr 2026, 04:11 PM",
-        "iso_date": "2026-04-13T16:11:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
+        "published": "14 Apr 2026, 08:43 AM",
+        "iso_date": "2026-04-14T08:43:26+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahraini Central Bank Offers Loan Deferrals, Boosts Liquidity To Support Economy Amid Regional Conflict",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wUGNTT0dYeU9qWUFmRDYyQmp0NHI3SFRVd0VTV0hIU2Zqam1ubHpRdDRFRjNUU1dFLXlfWXBaNm1KNld2d0xWa2lUN2V4Zl9na3BQMHlzSEUwRk90Tk5wWTVR?oc=5",
+        "published": "14 Apr 2026, 06:46 AM",
+        "iso_date": "2026-04-14T06:46:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,6 +236,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Lebanon and Israel Hold First Direct Talks Since 1993 in Washington Amid Ongoing Conflict",
+        "link": "https://www.newsofbahrain.com/world/130579.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1bSNZnqwkD_2026-04-14_1776182487resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Florida teenager charged with sexually assaulting and killing stepsister on cruise ship",
         "link": "https://www.newsofbahrain.com/world/130578.html",
         "published": "14 Apr 2026, 09:22 AM",
@@ -238,8 +258,8 @@
       {
         "title": "Italian PM says suspending defence agreement with Israel",
         "link": "https://www.newsofbahrain.com/world/130577.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_n8eV5AEJPg_2026-04-14_1776173583resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,20 +278,10 @@
       {
         "title": "Ex-Student Opens Fire at Turkish School, Injures 16 Before Taking His Own Life",
         "link": "https://www.newsofbahrain.com/world/130575.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IH80RMPxsX_2026-04-14_1776170845resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Taiwan Charges 10 People, Including Military Staff, for Spying for China",
-        "link": "https://www.newsofbahrain.com/world/130574.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LjEwisRcUx_2026-04-14_1776170270resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IH80RMPxsX_2026-04-14_1776170845resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 15:57:09 UTC"
+  "fetched_at": "2026-04-14 16:33:10 UTC"
 }
