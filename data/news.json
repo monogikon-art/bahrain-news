@@ -16,21 +16,11 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 15
     }
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain’s king meets U.S. Central Command Adm. Brad Cooper in Manama - Honolulu Star",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVJ1S0tweGw0eWxmRUN3VVN3QkpzV0NjbmVfcm5IMlVlMWhFV3VUZkkzN0F4WXBOaUlmR0ptYy10M3VoOHZOQVJtd01fWEtlSTV4d1hudk8zc1A1b29QY0tGaWVQMFV2SHZWRjVCVm1FVGM0ZHpRUnpXbUwxTlhZQTdScG14Vy1MclRMY2s2MTlnV0owVTBlb2ZaR25LSWpUZlhmZWNPaDdWaWhWSWpQdzQ2eTJaZEdwUHJrQ1JqRQ?oc=5",
-        "published": "14 Apr 2026, 01:09 AM",
-        "iso_date": "2026-04-14T01:09:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain’s king commends strategic ties with US during reception for American military commander",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdFpBOHBTSGZ5Zms5U3E3WWRwRERKNFczNVB5ZTkxZmtiV3puMzV0SS1XTjRIMmlLS2ZvRFNZOGg5TmgzeENJYkJ4R0dFT2g4cm1v?oc=5",
@@ -66,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SNzRqOTB5OC13a0tyc2sxOUZ4OG1QcGdNcms5LXZwd1VwaWpWb21ITWxoY3k3ZEJrSW1CbGZyUnAwNDBvblBZZy1rMGdlZENIVnU2MQ?oc=5",
         "published": "13 Apr 2026, 02:26 PM",
         "iso_date": "2026-04-13T14:26:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
+        "published": "13 Apr 2026, 04:11 PM",
+        "iso_date": "2026-04-13T16:11:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,12 +236,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain takes part in ICCA arbitration meeting in Madrid",
-        "link": "https://www.newsofbahrain.com/bahrain/130508.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
+        "title": "5kg Meth Hidden in Sports Gear",
+        "link": "https://www.newsofbahrain.com/bahrain/130515.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6IjdcZOpFN_2026-04-13_1776113301resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DY8zSO67uJ_2026-04-14_1776140907resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MPs Seek Three-Year Travel Ban on Debtors",
+        "link": "https://www.newsofbahrain.com/bahrain/130514.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wBQypxOXbc_2026-04-14_1776140689resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Summons Iraqi Diplomat Over Drone Incident",
+        "link": "https://www.newsofbahrain.com/bahrain/130513.html",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PUmlN2sjiT_2026-04-14_1776140410resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Digital Revision Programme Goes Live Today",
+        "link": "https://www.newsofbahrain.com/bahrain/130512.html",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_muPXlDSUdn_2026-04-14_1776140324resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Stagnant Water Fuels Mosquito",
+        "link": "https://www.newsofbahrain.com/bahrain/130511.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QPIG86aqrc_2026-04-14_1776140092resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,67 +291,17 @@
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0xd2J6evhW_2026-04-13_1776109395resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Stock Market Ends Higher with Strong Trading Activity",
-        "link": "https://www.newsofbahrain.com/gcc/130506.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aNjq1EyDAO_2026-04-13_1776101343resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0xd2J6evhW_2026-04-13_1776109395thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Oil Prices Surge Over 7%",
         "link": "https://www.newsofbahrain.com/world/130505.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_scanYuHBvF_2026-04-13_1776101168resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Speaker Praises HRH the Crown Prince and Prime Minister’s Directives to Support Economy",
-        "link": "https://www.newsofbahrain.com/bahrain/130504.html",
         "published": "13 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-13T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0823g9LiDT_2026-04-13_1776101057resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Customs Chief Meets Italian Ambassador to Boost Cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/130503.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FB6Dij8J7o_2026-04-13_1776100570thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Launches Loan Deferral Scheme with BHD 7 Billion Liquidity Boost",
-        "link": "https://www.newsofbahrain.com/bahrain/130494.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sugUd609ar_2026-04-13_1776095909thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain–UAE relations hailed as “model of unity”",
-        "link": "https://www.newsofbahrain.com/bahrain/130487.html",
-        "published": "13 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-13T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ra1Kp9X2ED_2026-04-13_1776087742thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_scanYuHBvF_2026-04-13_1776101168thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 03:05:52 UTC"
+  "fetched_at": "2026-04-14 04:30:11 UTC"
 }
