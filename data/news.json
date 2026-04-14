@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,6 +32,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain’s king meets U.S. Central Command Adm. Brad Cooper in Manama - Honolulu Star",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVJ1S0tweGw0eWxmRUN3VVN3QkpzV0NjbmVfcm5IMlVlMWhFV3VUZkkzN0F4WXBOaUlmR0ptYy10M3VoOHZOQVJtd01fWEtlSTV4d1hudk8zc1A1b29QY0tGaWVQMFV2SHZWRjVCVm1FVGM0ZHpRUnpXbUwxTlhZQTdScG14Vy1MclRMY2s2MTlnV0owVTBlb2ZaR25LSWpUZlhmZWNPaDdWaWhWSWpQdzQ2eTJaZEdwUHJrQ1JqRQ?oc=5",
+        "published": "14 Apr 2026, 01:09 AM",
+        "iso_date": "2026-04-14T01:09:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "King of Bahrain receives US Central Command Commander",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJ4Z0d1cFBaSnoydE9LT1BxS1J1dFdLcmNURjc2Nkx2cmxzNWhuR2VRcDJpRWlYc1Q3ckRvVG5XQmJfalkzck9TSW9JVzRjNDIyMWtOX3RFR0dRTWg0akFlWkFxRFRnZTVCVkE1U0JLcEZlWVNSbkJfUHpVMmNka1gyMWwzSGg0dE5QRlR3aldpLWtNZ1NmNENTcXQyeTc5V0MyUWhhbWJ0T25LN2dwQk1KQlhDME1XTFRCY0NR0gG-AUFVX3lxTFBNQnhnR3VwUFpKejJ0T0tPUHFLUnV0V0tyY1RGNzY2THZybHM1aG5HZVFwMmlFaVhzVDdyRG9UbldCYl9qWTNyT1NJb0lXNGM0MjIxa05fdEVHR1FNaDRqQWVaQXFEVGdlNUJWQTVTQktwRmVZU1JuQl9QelUyY2RrWDIxbDNIaDR0TlBGVHdqV2kta01nU2Y0Q1NxdDJ5NzlXQzJRaGFtYnRPbks3Z3BCTUpCWEMwTVdMVEJjQ1E?oc=5",
         "published": "13 Apr 2026, 09:34 PM",
@@ -52,6 +62,16 @@
         "category": "Latest"
       },
       {
+        "title": "Artemis 2 astronauts embark on their return journey from the moon",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2s0ODFfUVVfSXR3MXB4UVhmMElhWXk4clBQZVBTeTZmeldPS20xdXlsUlVoT1hWa0o0TFdGakxocHBWVjA1YUNfLUFaSkRMeDhPTmhZNEhlWVZWNHdEMEZNU0Z0U1ZEejdPUmRtMWJtVENJRjg1YnA4YUd0Ym9pcWRnVkdVYUQ0cFJTbkVpUjJRMnBnWDRsRHp5NVoyOTVWMjdlY3VEWHFXZDR3RVVwbFdnUjY?oc=5",
+        "published": "13 Apr 2026, 06:34 PM",
+        "iso_date": "2026-04-13T18:34:38+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
         "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
         "published": "13 Apr 2026, 04:11 PM",
@@ -62,20 +82,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain economy achieves real growth of 3.5% in 2025",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNai1kUnFkY2VKNlhvZEFKUWcwdm96aGtVN3daYU5jdlhfXzNEWDRpMl8zLVZNbC1EbmZXVnp5aDltZEFmWjk2eFp2M1NVRU5GN3B6NTlCTjFpRWhucXEweTZFT3Y3dkhNb2t2NTh2dTR6OGpDbEpadlRPMHc2WUloR3JDNWFYV2JyNk94am5mdnpGVXNPTG05SWYxdEE?oc=5",
-        "published": "14 Apr 2026, 07:02 AM",
-        "iso_date": "2026-04-14T07:02:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "King Of Bahrain, US Central Command Commander Discusses Regional Developments",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEV6UWFwNGVwSVhOMG16ZXdxWnduVEwyWld2QndCZDN5WS1uUE13OVNRTUJJTXFBNXJ6SEQzZ2dKdmp1S0tBQk9rRFpGa2h5MUI5eEduNkNFTHZESkRSYm5SQ2o4OVFGdE1ScHgzN1Ntb1hQMF9CUHdwbXVFeTZEUlp0SlRvLU5xZTM0RWhWS19qdkZ0SWRjU09tdUp5emM?oc=5",
-        "published": "13 Apr 2026, 03:15 PM",
-        "iso_date": "2026-04-13T15:15:09+00:00",
+        "title": "Bahrain Economy Achieves Real Growth Of 3.5% In 2025",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV2lKd0s3VHBCX2gzMDNMdzRadllvN0s1Y1JZdGZSSENROWFqaVh0WmI1M05sTVg3c0pBc1lVZTBVT2YyQWoxYlBTUk9EQTVDbkV0UTFxVjZoOHNnTUVERnM4b2RkaEpDMFg2RWhiOE1NMWpOUFQyRlNldm45X3VRM3J1X3V2Snc3RHdCOEc2RXRrS2E2TU84eG95RWc?oc=5",
+        "published": "14 Apr 2026, 08:15 AM",
+        "iso_date": "2026-04-14T08:15:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 14:37:04 UTC"
+  "fetched_at": "2026-04-14 15:28:13 UTC"
 }
