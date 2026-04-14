@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 17
     }
   },
   "articles": {
@@ -104,12 +104,22 @@
     ],
     "gdn": [
       {
-        "title": "Councillors reject request to relocate Falcon Monument",
-        "link": "https://www.gdnonline.com/Details/1381376/Councillors-reject-request-to-relocate-Falcon-Monument-",
+        "title": "US relations stressed",
+        "link": "https://www.gdnonline.com/Details/1381408/US-relations-stressed",
         "published": "14 Apr 2026",
         "iso_date": "2026-04-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233148websitesize(7)_T.jpg?20260414",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414023520edited14_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Woman dies in traffic accident in Al Jasra",
+        "link": "https://www.gdnonline.com/Details/1381331/Woman-dies-in-traffic-accident-in-Al-Jasra",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413112719accs1_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -124,12 +134,12 @@
         "category": "Latest"
       },
       {
-        "title": "Regional plan to support food security discussed",
-        "link": "https://www.gdnonline.com/Details/1381378/Regional-plan-to-support-food-security-discussed-",
+        "title": "Councillors reject request to relocate Falcon Monument",
+        "link": "https://www.gdnonline.com/Details/1381376/Councillors-reject-request-to-relocate-Falcon-Monument-",
         "published": "14 Apr 2026",
         "iso_date": "2026-04-14T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233006websitesize(6)_T.jpg?20260414",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413233148websitesize(7)_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -140,16 +150,6 @@
         "iso_date": "2026-04-14T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260414/20260413_231058_0_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Blazeâhit families may get green light to rebuild despite violations",
-        "link": "https://www.gdnonline.com/Details/1381387/Blazeâhit-families-may-get-green-light-to-rebuild-despite-violations",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414_002832_0_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -170,6 +170,26 @@
         "iso_date": "2026-04-14T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260413/20260413234615bourse_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Leeds grab 2-1 victory over Manchester United",
+        "link": "https://www.gdnonline.com/Details/1381419/Leeds-grab-2-1-victory-over-Manchester-United",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414_022133_0_T.jpg?20260414",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ghanaâs player Frimpong killed",
+        "link": "https://www.gdnonline.com/Details/1381405/Ghanaâs-player-Frimpong-killed",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414015935ooaoa_T.jpg?20260414",
         "source": "gdn",
         "category": "Latest"
       },
@@ -204,26 +224,6 @@
         "category": "Latest"
       },
       {
-        "title": "City close gap on leaders Arsenal",
-        "link": "https://www.gdnonline.com/Details/1381298/City-close-gap-on-leaders-Arsenal-",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413013901manchestercity_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Leon strikes as Sundowns snatch away win",
-        "link": "https://www.gdnonline.com/Details/1381302/Leon-strikes-as-Sundowns-snatch-away-win",
-        "published": "13 Apr 2026",
-        "iso_date": "2026-04-13T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413020832images(1)_T.jpg?20260414",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "'Paddington' musical triumphs at London's theatrical Olivier Awards",
         "link": "https://www.gdnonline.com/Details/1381350/Paddington-musical-triumphs-at-Londons-theatrical-Olivier-Awards",
         "published": "13 Apr 2026",
@@ -236,52 +236,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "US and Indonesia Announce Major Defence Partnership",
+        "link": "https://www.newsofbahrain.com/world/130539.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zXYCwvMARO_2026-04-14_1776152519resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Xi says China to play 'constructive role' in promoting Mideast peace talks",
+        "link": "https://www.newsofbahrain.com/world/130538.html",
+        "published": "14 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-14T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OkdFEvlPDs_2026-04-14_1776152190resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump Warns Iran: Approach US Blockade and “Ships Will Be Destroyed”",
+        "link": "https://www.newsofbahrain.com/world/130537.html",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PfVvemOy6C_2026-04-14_1776151947resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Naval Blockade on Iran Takes Effect After Deadline Passes",
+        "link": "https://www.newsofbahrain.com/world/130535.html",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZFAw0XN5aU_2026-04-14_1776150903resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Rosenior admits Chelsea in ‘difficult place’",
         "link": "https://www.newsofbahrain.com/sports/130533.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Hv1JXVg2Mo_2026-04-14_1776146841resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man City must respect Arsenal in title showdown: Guardiola",
-        "link": "https://www.newsofbahrain.com/sports/130532.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0XCYGodOeu_2026-04-14_1776146627resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN: No military solution to the Middle East conflict",
-        "link": "https://www.newsofbahrain.com/world/130531.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O5n1LSFdk4_2026-04-14_1776146227resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Regional Food Planning Focus on strengthening",
-        "link": "https://www.newsofbahrain.com/world/130530.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nTkNVZEb3B_2026-04-14_1776146071resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hajj Rules Tightened",
-        "link": "https://www.newsofbahrain.com/world/130529.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iRFxL1Dt8N_2026-04-14_1776145916resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,16 +332,6 @@
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_2FA51TmORh_2026-04-14_1776141505thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE, China target expanded trade and investment partnership",
-        "link": "https://www.newsofbahrain.com/world/130528.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QoYkqZgGWt_2026-04-14_1776145763thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 07:04:23 UTC"
+  "fetched_at": "2026-04-14 08:06:34 UTC"
 }
