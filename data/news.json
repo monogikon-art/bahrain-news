@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 15
     }
   },
   "articles": {
@@ -62,6 +62,16 @@
         "category": "Latest"
       },
       {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
+        "published": "13 Apr 2026, 04:11 PM",
+        "iso_date": "2026-04-13T16:11:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain economy achieves real growth of 3.5% in 2025",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNai1kUnFkY2VKNlhvZEFKUWcwdm96aGtVN3daYU5jdlhfXzNEWDRpMl8zLVZNbC1EbmZXVnp5aDltZEFmWjk2eFp2M1NVRU5GN3B6NTlCTjFpRWhucXEweTZFT3Y3dkhNb2t2NTh2dTR6OGpDbEpadlRPMHc2WUloR3JDNWFYV2JyNk94am5mdnpGVXNPTG05SWYxdEE?oc=5",
         "published": "14 Apr 2026, 07:02 AM",
@@ -76,26 +86,6 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHpBeFpzcVhlbzN4cmtjdWdDUEVRakV4NEFnVFdfV0pIRjV3eEhVX3pkcE94dzFyV0F6WDlVOS1KaU8ySy1JdnYyamh4TVROcm91NTRmQmVqeXotTWFzaDJvTWhXMUxpRnM0SzNiRVN3NERyNGFJM01jQmUzczRYUDVnbU9OMVdJc3pYU1ZTOXV2eG44LUc2cU9SNmd3TV9QYWVTeUt6UnBLZkhBaXFJZlZCdElhbG1wZTRoOQ?oc=5",
         "published": "13 Apr 2026, 01:27 PM",
         "iso_date": "2026-04-13T13:27:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "King Of Bahrain, US Central Command Commander Discusses Regional Developments",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEV6UWFwNGVwSVhOMG16ZXdxWnduVEwyWld2QndCZDN5WS1uUE13OVNRTUJJTXFBNXJ6SEQzZ2dKdmp1S0tBQk9rRFpGa2h5MUI5eEduNkNFTHZESkRSYm5SQ2o4OVFGdE1ScHgzN1Ntb1hQMF9CUHdwbXVFeTZEUlp0SlRvLU5xZTM0RWhWS19qdkZ0SWRjU09tdUp5emM?oc=5",
-        "published": "13 Apr 2026, 03:15 PM",
-        "iso_date": "2026-04-13T15:15:09+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain: 194 Missiles, 523 Drones Intercepted Since Start Of Iranian Attacks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaW9xS3BnMWVYeGpVUWJBVDhFMWQ1eGhQamVrQXlrRXN6Z0NjSWI3WnVndWROUHhGVWhJV3czWHBOMlFBZ0xKU01kTmVYbVJyeHRHaVJSQ3MwdHF0bE5IeV9rYUgxMm1DVjJFVlJaZ25SOXlmajBKaE5qdGNkZENOUjVtTTl4M2pkZUdaam14LTlLRTI0b2c5TXRWbzJBZw?oc=5",
-        "published": "13 Apr 2026, 02:30 PM",
-        "iso_date": "2026-04-13T14:30:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,52 +226,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Asian champions Bahrain reset for GCC Games Hussain Almaskati",
-        "link": "https://www.newsofbahrain.com/sports/130547.html",
+        "title": "Russia offers to take in Iran's enriched uranium",
+        "link": "https://www.newsofbahrain.com/world/130560.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z7eEm5CBo3_2026-04-14_1776157249resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_92N0vXbj6J_2026-04-14_1776160343resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Prince Harry and Meghan visit Australia in first trip since royal rift",
-        "link": "https://www.newsofbahrain.com/world/130546.html",
+        "title": "Pope says doesn't fear Trump",
+        "link": "https://www.newsofbahrain.com/sports/130559.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SBXYA6uzh8_2026-04-14_1776157164resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_afGnvZgrNw_2026-04-14_1776160074resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Muharraq eye historic fifth basketball crown",
-        "link": "https://www.newsofbahrain.com/sports/130545.html",
+        "title": "Greenpeace warns of potential 'catastrophic' Chernobyl collapse",
+        "link": "https://www.newsofbahrain.com/world/130558.html",
         "published": "14 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i6NKrHYOPe_2026-04-14_1776157118resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_em0ITUps2w_2026-04-14_1776160046resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Rashford with point to prove as Barca target Atletico comeback",
-        "link": "https://www.newsofbahrain.com/sports/130544.html",
+        "title": "Japan's net greenhouse gas emissions fall to record low",
+        "link": "https://www.newsofbahrain.com/world/130557.html",
         "published": "14 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QoXcKImZ6E_2026-04-14_1776156935resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7a3iOBhR1Y_2026-04-14_1776159646resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Liverpool seek Anfield miracle",
-        "link": "https://www.newsofbahrain.com/sports/130543.html",
+        "title": "India patent filings FY26: Record 30% jump to over 1.43 Lakh",
+        "link": "https://www.newsofbahrain.com/world/130556.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IebTmuCVY8_2026-04-14_1776156635resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YCzcF8nVP7_2026-04-14_1776159465resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,36 +322,6 @@
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_yIR1w6k5jf_2026-04-14_1776141753thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "New trial over Maradona's death begins in Argentina",
-        "link": "https://www.newsofbahrain.com/world/130541.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y4UcFuDvnQ_2026-04-14_1776156438thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Hosts Israel–Lebanon Talks as War Continues, But Hopes for Breakthrough Remain Low",
-        "link": "https://www.newsofbahrain.com/world/130540.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oyljUX7zvk_2026-04-14_1776156416thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US and Indonesia Announce Major Defence Partnership",
-        "link": "https://www.newsofbahrain.com/world/130539.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zXYCwvMARO_2026-04-14_1776152519thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-14 09:01:45 UTC"
+  "fetched_at": "2026-04-14 09:58:38 UTC"
 }
