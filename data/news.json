@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 16
     }
   },
   "articles": {
@@ -216,12 +216,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Manama Force Game 4 in League Finals",
+        "link": "https://www.newsofbahrain.com/sports/130649.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gdkHRPsTMC_2026-04-15_1776259944resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rice misses training ahead quarter-final",
+        "link": "https://www.newsofbahrain.com/sports/130648.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OyLAtYRoHb_2026-04-15_1776259706resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain eases upfront VAT for importers at entry poi",
+        "link": "https://www.newsofbahrain.com/business/130647.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lF3bYMtZGL_2026-04-15_1776259230resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BENEFIT celebrates graduation of second cohort of \"Fintech Drivers\" programme",
+        "link": "https://www.newsofbahrain.com/business/130645.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UZ8jWvEYKw_2026-04-15_1776258848resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ebrahim K. Kanoo launches all new Toyota RAV4 in Bahrain",
+        "link": "https://www.newsofbahrain.com/business/130644.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sB5JZYN4mA_2026-04-15_1776258640resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Six-Month Fee Suspension Backed for Bahraini Businesses",
         "link": "https://www.newsofbahrain.com/bahrain/130640.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YXtez9NTV6_2026-04-15_1776257260resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YXtez9NTV6_2026-04-15_1776257260thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -231,27 +281,27 @@
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_petX96sJ1B_2026-04-15_1776257171resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_petX96sJ1B_2026-04-15_1776257171thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Housing Loan Relief For Frontline Personnel",
         "link": "https://www.newsofbahrain.com/bahrain/130638.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D65yYvRgJI_2026-04-15_1776256630resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D65yYvRgJI_2026-04-15_1776256630thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Housing Distribution Gathers Pace",
         "link": "https://www.newsofbahrain.com/bahrain/130637.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VdMEnHo5XO_2026-04-15_1776255285resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VdMEnHo5XO_2026-04-15_1776255285thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,7 +311,7 @@
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yLVIuJ1Crw_2026-04-15_1776254855resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yLVIuJ1Crw_2026-04-15_1776254855thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,42 +356,12 @@
         "category": "Latest"
       },
       {
-        "title": "Al Baraka Islamic Bank announces new board of directors chaired by Akram Yassin",
-        "link": "https://www.newsofbahrain.com/business/130527.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
+        "title": "Ebdaa honours winners of “Celebrating Your Creativity” competition",
+        "link": "https://www.newsofbahrain.com/business/130643.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_trnRejvpyS_2026-04-14_1776145438thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Al-Amin welcomes new financial relief measures",
-        "link": "https://www.newsofbahrain.com/business/130526.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qg9ZX5BeQF_2026-04-14_1776144775thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH Prince Salman puts private sector at centre of growth drive",
-        "link": "https://www.newsofbahrain.com/business/130525.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_I2ir0Duw5b_2026-04-14_1776144280thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil surges, stocks drop as Trump threatens to block Hormuz",
-        "link": "https://www.newsofbahrain.com/business/130524.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wYhpQBZkgF_2026-04-14_1776143851thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zeh1zxYi8A_2026-04-15_1776258452thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 12:50:43 UTC"
+  "fetched_at": "2026-04-15 13:34:43 UTC"
 }
