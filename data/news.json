@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBNlhFc1ltX0ZrNTRCUVF0NnByVFRBdmZhbzdKVUFrbmFteDNxZFZWcEZnaUpCUDFiMFZXanlRY0JlYnY4N3dLTGhmb1UzVlBJNnlER2dKcUxlVWdwNElnekpSRXNzUk8zWUJUdEl3Snl1ZURHbmNWdXhzQTRqUQ?oc=5",
         "published": "15 Apr 2026, 05:21 AM",
         "iso_date": "2026-04-15T05:21:29+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVmRtUUdkYkVTZXE0VTB5MDd4VU9saktkU2ZDSG85R1VwZWhfWUpoQlZDVGE5ZlVjMHR3OTNoQ1h6djItU3JpTXBEQ2JOWjB4SE9OY0ZlTDN6TVlkWFVxOU5zWldFUUtYRk5QMTB4ZlZGVWVVYmM1NG9GLV8zSkxweU9DZzItRTBxRUNRSzVxZGtocmNUdUcxb3djZ1ZmR3d2RXJuZ0Ixd09RM19hU2Y1dnNzTDdGRDR3WWJYSlZXQmJ0MWkwX0dmMGNraC1tbW5JX0NwOHJCMnQ0MnV3VFJWbU9MV1F1b2h0VWt6TkNmSzI5WmxfU3VTQUprWEhDN3M2bkZzN3NXY2lTSG1JX3cybVZnS2x4SU5KNXVWdlY3NzZkMEltdWo1TWRMNlJvMDV6dVUyZmk2dWp3SkRBcWNkdHNDUktIRzZkMEZxcnNETWh6NUpHX3ZaWnI5UlVnN2FNOEhLa1JLVHNWVXBjeFp3UWd1VXNpRUpjWjN0Tw?oc=5",
-        "published": "15 Apr 2026, 06:56 AM",
-        "iso_date": "2026-04-15T06:56:14+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,10 +196,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "HH Southern Governor Meets MPs, Citizens and Civil Society Representatives",
-        "link": "https://www.newsofbahrain.com/bahrain/130664.html",
+        "title": "Speaker Chairs APA Coordination Meeting on Sidelines of IPU Assembly",
+        "link": "https://www.newsofbahrain.com/bahrain/130666.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wGvLnd79EM_2026-04-15_1776279097resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Speaker Meets German Delegation on Sidelines of IPU Assembly",
+        "link": "https://www.newsofbahrain.com/bahrain/130665.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WJKufh0pgX_2026-04-15_1776277058resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HH Southern Governor Meets MPs, Citizens and Civil Society Representatives",
+        "link": "https://www.newsofbahrain.com/bahrain/130664.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_kO9pXye3mB_2026-04-15_1776276915resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,8 +228,8 @@
       {
         "title": "US and Iran Weigh 2-Week Extension of Ceasefire Amid Ongoing Talks",
         "link": "https://www.newsofbahrain.com/world/130663.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ILYoifudnF_2026-04-15_1776274585resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,30 +238,10 @@
       {
         "title": "Gulf Air to Restore Network to 50+ Destinations by June 2026",
         "link": "https://www.newsofbahrain.com/bahrain/130662.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oOIVNBMnfl_2026-04-15_1776273480resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Media Advisor at Crown Prince’s Court Meets BJA Chairman",
-        "link": "https://www.newsofbahrain.com/world/130661.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eCQPqpTW3o_2026-04-15_1776273340resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Over 250 Missing After Boat Capsizes in Andaman Sea",
-        "link": "https://www.newsofbahrain.com/world/130660.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Eap7VmGl9n_2026-04-15_1776272790resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oOIVNBMnfl_2026-04-15_1776273480resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -266,22 +256,22 @@
         "category": "Latest"
       },
       {
-        "title": "CENTCOM Chief Visits Bahrain, Signals Continued US Commitment",
-        "link": "https://www.newsofbahrain.com/bahrain/130653.html",
+        "title": "Media Advisor at Crown Prince’s Court Meets BJA Chairman",
+        "link": "https://www.newsofbahrain.com/world/130661.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NeLYbtkER0_2026-04-15_1776260662thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eCQPqpTW3o_2026-04-15_1776273340thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Six-Month Fee Suspension Backed for Bahraini Businesses",
-        "link": "https://www.newsofbahrain.com/bahrain/130640.html",
+        "title": "Over 250 Missing After Boat Capsizes in Andaman Sea",
+        "link": "https://www.newsofbahrain.com/world/130660.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YXtez9NTV6_2026-04-15_1776257260thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Eap7VmGl9n_2026-04-15_1776272790thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 18:26:39 UTC"
+  "fetched_at": "2026-04-15 18:54:15 UTC"
 }
