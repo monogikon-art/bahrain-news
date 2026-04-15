@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0lTRllEa3dWTXJ3cFp0OVJnUjJHV295QmJ2MkduTmphQ0VOYVdDSGpza2EtdjFZT2tUTmd2bm5URldHaXVEeWdKU0taUjJZMElhMEdoWUNMQTliMVpTSjBlcFlJRml0NXBDM0JQcjFLQ05rMnM2TnMxekNsZmI4WkxzVUZzMlpyMktHbVExcWFFSUlNbjE4V2lVTk5FeHIwMHh4enM4ZzdCRVliSkVvRjRTUFk3VlFKQm9VZW5vMW1hcVJQUGwxaURR?oc=5",
-        "published": "14 Apr 2026, 11:59 AM",
-        "iso_date": "2026-04-14T11:59:46+00:00",
+        "title": "Bahrain Suspends Air Traffic After Iran's Attack On US Base In Qatar",
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNYTR6TTFiZnpIOTduYVpJLS1yX3hwVGVsczZUNmxLWGxJN3A0UGQ3RFZnT1BSOU1WdGk3Sm9ObVVIbFlKRHhLV2NZU2xtTHRvZHpGUFdLWkpXM1ZtZVRjRTBHTWJjY0drQVNSY3IzVmFIWmh0NFA4Wm8tX0JKazBleTU5RHg5MkJfYTBWYXRTRFJpanNXcmRjY251UzFBenFHVnpKbXBqS1JXTGdXRmZlTVc1LXZmZ2puUUs1MEJUdEZ6bnVXQTlHSHZsakVwNFFBM0pEMGFIYmJPU1lKS2FIdEdkWmRHY19RbXVkOWwtcjFlUE9IZm5Ba0NJUFNENmk0dURUVS11WHJqQVIzdlNTVmI0TDAxSUJManc5b21KamV6M0tfRHhsNExudzZBNWxyUDRJMXEyX3ZRazFCaHF4M1N5UjNrWGotSU9ELXln?oc=5",
+        "published": "15 Apr 2026, 07:58 AM",
+        "iso_date": "2026-04-15T07:58:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -33,29 +33,19 @@
       },
       {
         "title": "Bahraini Central Bank Offers Loan Deferrals, Boosts Liquidity To Support Economy Amid Regional Conflict",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fcFROWVJmRUFVNnE5T2JKbHY5RUhiU01GRjhiZ1VnNmh4c2ppdzZsNkhRR2VfaXpzOHc4MVVWNWx6ck9FbFFMZWc0LXB4Q3N5bDBaQ1dfSVI5TGQyeHZvaWtsUzR1bkJXUjNlTFVXVDdWcHRoNHBnTURXZw?oc=5",
-        "published": "14 Apr 2026, 09:25 PM",
-        "iso_date": "2026-04-14T21:25:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBNlhFc1ltX0ZrNTRCUVF0NnByVFRBdmZhbzdKVUFrbmFteDNxZFZWcEZnaUpCUDFiMFZXanlRY0JlYnY4N3dLTGhmb1UzVlBJNnlER2dKcUxlVWdwNElnekpSRXNzUk8zWUJUdEl3Snl1ZURHbmNWdXhzQTRqUQ?oc=5",
+        "published": "15 Apr 2026, 05:21 AM",
+        "iso_date": "2026-04-15T05:21:29+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Court rejects NAB plea seeking closure of Durrani's illegal assets case",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY21CZFMtZ081aXY5R1lNRjZSblkwZzJCOHVuZXloVm52Q0hHYXlrWkhBMVY4TmZvLTZwQWxkU1VqQ0Q2YXlLLVF5Z1ZIUVZIVmZPbktnNWp1dWFDcGVpd3JFV0c2a0stYUtGSjZxTDI2LWF0TWl4QV9FbUxvV2lIMGJPNm9sSElPTVpMeXVoMGZIT0d0aE1OTkU5Mmk5U3kxODh5LUJFSHUyQ0kwYkxmUWF5TW0zTzdyd2ZVeQ?oc=5",
-        "published": "14 Apr 2026, 09:35 AM",
-        "iso_date": "2026-04-14T09:35:52+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Zelensky says Britain must rejoin the EU if Trump pulls US out of NATO",
-        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQ3F4UVJPMlJxU1ZzbmFBTEVNZGlNUW9oNm5lYWdWSVBLaTY1YWxQeGNYMFY5cUVhNUhqQW5PRUhMTlNnUVZsRUktYUxwREtDSHFwWVJ4eUd2alZQMVJ1QU5iSzFRelBOSUttNHZhb21vRkpBdGl2WVpEeEhEdDAtVnJyTHpBLUVhb1VkamF0eEJ0Vmg5NzhJMzgtMWZXc19iT2d4YllJb1dIeldFQkhGNDlYeloyUUNNbEhXbURPcTdsUFAzVkdDd2RpZURlUHBEb2pnMi1FYkJRdjByQlQ3OHNzYmJKc0JlNDY1UU9IeV94VXUwNzVUNFlmNnJFRFZqMTFsNlhyZnkxYWs3WkwxdUhfZVBsWk1obGJsbW43aV9mbE9ZOFptbms5ajlidXVfbHVfS2habXZnQjcwdXJWamo3QkpxQ2J2cDZwRE9qLS1wdw?oc=5",
-        "published": "14 Apr 2026, 09:17 AM",
-        "iso_date": "2026-04-14T09:17:00+00:00",
+        "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0lTRllEa3dWTXJ3cFp0OVJnUjJHV295QmJ2MkduTmphQ0VOYVdDSGpza2EtdjFZT2tUTmd2bm5URldHaXVEeWdKU0taUjJZMElhMEdoWUNMQTliMVpTSjBlcFlJRml0NXBDM0JQcjFLQ05rMnM2TnMxekNsZmI4WkxzVUZzMlpyMktHbVExcWFFSUlNbjE4V2lVTk5FeHIwMHh4enM4ZzdCRVliSkVvRjRTUFk3VlFKQm9VZW5vMW1hcVJQUGwxaURR?oc=5",
+        "published": "14 Apr 2026, 11:59 AM",
+        "iso_date": "2026-04-14T11:59:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,6 +216,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Understanding Ammonia Gas Exposure and Its Health Impact",
+        "link": "https://www.newsofbahrain.com/bahrain/130623.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fWcuJNtxbd_2026-04-15_1776246057resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Russia Faces “Colossal Pressure” Campaign to Recruit University Students",
+        "link": "https://www.newsofbahrain.com/world/130621.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ArHpEwRKGo_2026-04-15_1776244418resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Private school job cuts prompt Ministry intervention",
+        "link": "https://www.newsofbahrain.com/bahrain/130620.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lDcOL4ByNT_2026-04-15_1776244223resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Sanctioned Chinese Tanker Challenges Trump’s Strait of Hormuz Blockade",
+        "link": "https://www.newsofbahrain.com/world/130618.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eOTtgqiFSb_2026-04-15_1776243717resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Flex Learning Rolls",
         "link": "https://www.newsofbahrain.com/bahrain/130617.html",
         "published": "15 Apr 2026, 09:22 AM",
@@ -241,37 +271,17 @@
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_87NKd1q4Yb_2026-04-15_1776243254resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_87NKd1q4Yb_2026-04-15_1776243254thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Satellite Image Unveiled",
         "link": "https://www.newsofbahrain.com/bahrain/130614.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gM3sj7BTI8_2026-04-15_1776243001resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain and Saudi Arabian Grands Prix cancelled due to ongoing regional conflict",
-        "link": "https://www.newsofbahrain.com/bahrain/130613.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_k17FceqmXi_2026-04-15_1776242642resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Vishu Remains a Cultural Anchor",
-        "link": "https://www.newsofbahrain.com/bahrain/130612.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vhpx2smgrb_2026-04-15_1776242163resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gM3sj7BTI8_2026-04-15_1776243001thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,26 +302,6 @@
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_6zcWohi9rp_2026-04-14_1776196783thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Lebanon and Israel Hold First Direct Talks Since 1993 in Washington Amid Ongoing Conflict",
-        "link": "https://www.newsofbahrain.com/world/130579.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1bSNZnqwkD_2026-04-14_1776182487thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Florida teenager charged with sexually assaulting and killing stepsister on cruise ship",
-        "link": "https://www.newsofbahrain.com/world/130578.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UPIZ2cegBR_2026-04-14_1776174451thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 09:02:17 UTC"
+  "fetched_at": "2026-04-15 09:59:29 UTC"
 }
