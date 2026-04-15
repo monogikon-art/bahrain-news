@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 14
     }
   },
   "articles": {
@@ -206,52 +206,72 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bauhaus leads Bahrain charge on Limburg",
-        "link": "https://www.newsofbahrain.com/sports/130655.html",
+        "title": "Gulf Air to Restore Network to 50+ Destinations by June 2026",
+        "link": "https://www.newsofbahrain.com/bahrain/130662.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pTmVrnSN0J_2026-04-15_1776261079resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oOIVNBMnfl_2026-04-15_1776273480resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "BFA confirms King’s Cup final",
-        "link": "https://www.newsofbahrain.com/sports/130654.html",
+        "title": "Media Advisor at Crown Prince’s Court Meets BJA Chairman",
+        "link": "https://www.newsofbahrain.com/world/130661.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oPwSdGAWrj_2026-04-15_1776260809resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eCQPqpTW3o_2026-04-15_1776273340resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Over 250 Missing After Boat Capsizes in Andaman Sea",
+        "link": "https://www.newsofbahrain.com/world/130660.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Eap7VmGl9n_2026-04-15_1776272790resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HH Amir of Qatar Meets European Council President to Discuss Regional Developments",
+        "link": "https://www.newsofbahrain.com/world/130659.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_basXh9lwfV_2026-04-15_1776272677resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC Secretary-General Briefs European Parliament, Praises EU Support on Iran",
+        "link": "https://www.newsofbahrain.com/world/130658.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NGawr6oIPC_2026-04-15_1776272498resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King Receives Kuwaiti Foreign Minister",
+        "link": "https://www.newsofbahrain.com/bahrain/130656.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZBHrQzv1Ta_2026-04-15_1776272091thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "CENTCOM Chief Visits Bahrain, Signals Continued US Commitment",
         "link": "https://www.newsofbahrain.com/bahrain/130653.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NeLYbtkER0_2026-04-15_1776260662resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HH Shaikh Nasser tees off at Royal Golf Club opener",
-        "link": "https://www.newsofbahrain.com/sports/130652.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eHkpgwQvIK_2026-04-15_1776260520resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "FIBA 3x3 World Tour set for return to Bahrain",
-        "link": "https://www.newsofbahrain.com/sports/130650.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UxHp8RWsmi_2026-04-15_1776260163resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NeLYbtkER0_2026-04-15_1776260662thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -272,66 +292,6 @@
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_petX96sJ1B_2026-04-15_1776257171thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Housing Loan Relief For Frontline Personnel",
-        "link": "https://www.newsofbahrain.com/bahrain/130638.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D65yYvRgJI_2026-04-15_1776256630thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Housing Distribution Gathers Pace",
-        "link": "https://www.newsofbahrain.com/bahrain/130637.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VdMEnHo5XO_2026-04-15_1776255285thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Dubai Court Upholds Acquittal in Forgery Case, Citing Lack of Evidence",
-        "link": "https://www.newsofbahrain.com/world/130627.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_68vW9VCbIL_2026-04-15_1776249073thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Philippines Plans Free Legal Aid for Filipinos Facing Trouble Abroad",
-        "link": "https://www.newsofbahrain.com/world/130624.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wdEsBgAlR1_2026-04-15_1776249208thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russia Faces “Colossal Pressure” Campaign to Recruit University Students",
-        "link": "https://www.newsofbahrain.com/world/130621.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ArHpEwRKGo_2026-04-15_1776244418thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sanctioned Chinese Tanker Challenges Trump’s Strait of Hormuz Blockade",
-        "link": "https://www.newsofbahrain.com/world/130618.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eOTtgqiFSb_2026-04-15_1776243717thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 16:49:33 UTC"
+  "fetched_at": "2026-04-15 17:25:37 UTC"
 }
