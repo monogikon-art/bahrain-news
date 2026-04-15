@@ -64,6 +64,16 @@
         "category": "Latest"
       },
       {
+        "title": "Young minds work on dispute resolution with Bahrainâs expert professor",
+        "link": "https://www.gdnonline.com/Details/1381597/Young-minds-work-on-dispute-resolution-with-Bahrainâs-expert-professor",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415184949singlepic(7)_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "King thanked by Chamber chief",
         "link": "https://www.gdnonline.com/Details/1381539/King-thanked-by-Chamber-chief",
         "published": "15 Apr 2026",
@@ -90,16 +100,6 @@
         "iso_date": "2026-04-15T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260415/20260415_022249_2_T.jpg?20260415",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "76 deaths as kingdom last year records 968 accidents",
-        "link": "https://www.gdnonline.com/Details/1381491/76-deaths-as-kingdom-last-year-records-968-accidents",
-        "published": "15 Apr 2026",
-        "iso_date": "2026-04-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260415/20260414_231745_0_T.jpg?20260415",
         "source": "gdn",
         "category": "Latest"
       },
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 16:25:05 UTC"
+  "fetched_at": "2026-04-15 16:49:33 UTC"
 }
