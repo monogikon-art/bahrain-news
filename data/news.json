@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,30 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVmRtUUdkYkVTZXE0VTB5MDd4VU9saktkU2ZDSG85R1VwZWhfWUpoQlZDVGE5ZlVjMHR3OTNoQ1h6djItU3JpTXBEQ2JOWjB4SE9OY0ZlTDN6TVlkWFVxOU5zWldFUUtYRk5QMTB4ZlZGVWVVYmM1NG9GLV8zSkxweU9DZzItRTBxRUNRSzVxZGtocmNUdUcxb3djZ1ZmR3d2RXJuZ0Ixd09RM19hU2Y1dnNzTDdGRDR3WWJYSlZXQmJ0MWkwX0dmMGNraC1tbW5JX0NwOHJCMnQ0MnV3VFJWbU9MV1F1b2h0VWt6TkNmSzI5WmxfU3VTQUprWEhDN3M2bkZzN3NXY2lTSG1JX3cybVZnS2x4SU5KNXVWdlY3NzZkMEltdWo1TWRMNlJvMDV6dVUyZmk2dWp3SkRBcWNkdHNDUktIRzZkMEZxcnNETWh6NUpHX3ZaWnI5UlVnN2FNOEhLa1JLVHNWVXBjeFp3UWd1VXNpRUpjWjN0Tw?oc=5",
-        "published": "15 Apr 2026, 06:56 AM",
-        "iso_date": "2026-04-15T06:56:14+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "New Zealand issues evacuation orders ahead of Cyclone Vaianu",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGM2MHFyaUFmcENiTlMzcWdtNS1ydjlsWmlCXzZmWDFpLVJjZnZMa1AzMUpOczVYTW9DekJnclZicFh6bjRCMm96eTdmampybEZDbjI5S3ZkZW9mVEhzamVFVG5sMDRGcEM4MFVZTTYzN3hlSGFXWXF3c2V0MkJoSG1xaG93a0hQdWc2QzJMVTBNekNsdUJPZUlQQmlmY3NZZDdXYmk0Y0NxVTEtYmc?oc=5",
         "published": "14 Apr 2026, 05:46 PM",
         "iso_date": "2026-04-14T17:46:25+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOUzJkTXpZYnk5dFhRdUEyYjRHX0NYRFUxYU94RllDX0hFOF9YMGxPdmhLamVqT2lsZ1VMWmN0Q1VncXByVnQ3VkVEWkZfUFBoX25RSWsxRXZ2YzFZelprUERkN2tqQWFwazV6MHZGRklNNUtFTFRBcGk2SV9kTng5Qmg0bjJpbWhSb2lxYVYxLXk4M0tTZWhfY1dSTzNXWUtEM3NEcDlFQjhhYlZ0YjJUaGszc2xqT0FFRElZbTB6Q3BMb29GbDV6TUk2NmVQZGczUjZXYndDQy0wb0dPazlxbFRnY3prX1Y3ZXd4R29KREY4QjBuejBXdGlsMmliM20ySV9lX2k4MHFQSzU3T1l1SmZtRnFiUVVfMXZJUUxQRGZUTi1uTXBpLWtMNUpKZWNSaFd0VjA3aHcwU242M0dXNWYydXdFRnJnX1VjSkZ4Ukk2dFVqZ0kxVDJUaFJHMjhPTk1rdldPWHBQTU9lMHEtWnJLUkktaFdTT2xfeldLT0pFRzJhN0JWLXNkRkQ0cG1TMGZ1RmxXSnhVdmpwU0ZhaThmVGROX1ZPcWww?oc=5",
-        "published": "14 Apr 2026, 03:19 PM",
-        "iso_date": "2026-04-14T15:19:50+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -519,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 14:35:01 UTC"
+  "fetched_at": "2026-04-15 15:29:30 UTC"
 }
