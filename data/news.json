@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -46,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0lTRllEa3dWTXJ3cFp0OVJnUjJHV295QmJ2MkduTmphQ0VOYVdDSGpza2EtdjFZT2tUTmd2bm5URldHaXVEeWdKU0taUjJZMElhMEdoWUNMQTliMVpTSjBlcFlJRml0NXBDM0JQcjFLQ05rMnM2TnMxekNsZmI4WkxzVUZzMlpyMktHbVExcWFFSUlNbjE4V2lVTk5FeHIwMHh4enM4ZzdCRVliSkVvRjRTUFk3VlFKQm9VZW5vMW1hcVJQUGwxaURR?oc=5",
         "published": "14 Apr 2026, 11:59 AM",
         "iso_date": "2026-04-14T11:59:46+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "New Zealand issues evacuation orders ahead of Cyclone Vaianu",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGM2MHFyaUFmcENiTlMzcWdtNS1ydjlsWmlCXzZmWDFpLVJjZnZMa1AzMUpOczVYTW9DekJnclZicFh6bjRCMm96eTdmampybEZDbjI5S3ZkZW9mVEhzamVFVG5sMDRGcEM4MFVZTTYzN3hlSGFXWXF3c2V0MkJoSG1xaG93a0hQdWc2QzJMVTBNekNsdUJPZUlQQmlmY3NZZDdXYmk0Y0NxVTEtYmc?oc=5",
+        "published": "14 Apr 2026, 05:46 PM",
+        "iso_date": "2026-04-14T17:46:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +226,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Dubai Court Upholds Acquittal in Forgery Case, Citing Lack of Evidence",
-        "link": "https://www.newsofbahrain.com/world/130627.html",
+        "title": "Parliament approves legal profession law after 45 years",
+        "link": "https://www.newsofbahrain.com/bahrain/130631.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EnClPaJvjy_2026-04-15_1776253435resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Parliament flags alleged pressure on fraud complainants",
+        "link": "https://www.newsofbahrain.com/bahrain/130629.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JH24OmSvoj_2026-04-15_1776253107resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shura Panel Backs Economy",
+        "link": "https://www.newsofbahrain.com/bahrain/130628.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zg6XjlM4P3_2026-04-15_1776252782resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dubai Court Upholds Acquittal in Forgery Case, Citing Lack of Evidence",
+        "link": "https://www.newsofbahrain.com/world/130627.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_68vW9VCbIL_2026-04-15_1776249073resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +278,10 @@
       {
         "title": "Understanding Ammonia Gas Exposure and Its Health Impact",
         "link": "https://www.newsofbahrain.com/bahrain/130623.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H42iRI3tsa_2026-04-15_1776251445resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Russia Faces “Colossal Pressure” Campaign to Recruit University Students",
-        "link": "https://www.newsofbahrain.com/world/130621.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ArHpEwRKGo_2026-04-15_1776244418resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H42iRI3tsa_2026-04-15_1776251445thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,37 +291,17 @@
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lDcOL4ByNT_2026-04-15_1776244223resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lDcOL4ByNT_2026-04-15_1776244223thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Flex Learning Rolls",
-        "link": "https://www.newsofbahrain.com/bahrain/130617.html",
+        "title": "Russia Faces “Colossal Pressure” Campaign to Recruit University Students",
+        "link": "https://www.newsofbahrain.com/world/130621.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BInODCa8dV_2026-04-15_1776243713thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Tightens Rules: Travel Ban on Debtors Up to 3 Years",
-        "link": "https://www.newsofbahrain.com/bahrain/130615.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_87NKd1q4Yb_2026-04-15_1776243254thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Satellite Image Unveiled",
-        "link": "https://www.newsofbahrain.com/bahrain/130614.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gM3sj7BTI8_2026-04-15_1776243001thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ArHpEwRKGo_2026-04-15_1776244418thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 11:23:30 UTC"
+  "fetched_at": "2026-04-15 11:49:09 UTC"
 }
