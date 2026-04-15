@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZ3owSGpvNl9nbDNocmpVLWlkS3EwZHpjSW9fRkQxNUVzNkpaeWxKc2RkYWVSS2hhd3hVYk0xdW5pbE1XVE05azAtbnRSZjY1UzVEWnRrUm1LSUxXUE9sbVVPT0RCaDh3S2VKWXFtLUJQQ2ZrTUJvM3pFekEyZFlqQUhVNjNKWTVLbHc0Y05jRnRWNkNXcGhIYnhvUEFHRGVfYjFmUkM5b09uNVZnU2VxV3dJU1Awa1VIZTFvNXl2Rm5CeGZBYnVtNXRzMlVkb2dIQmtSMVk5UHVUNHFQV2ZfU3dYSU9RQ0FyZ0NoR2dydWJQdkxmamh5VkJIQmR5Si1RaGVvNEFMVlZWY2N2UnZodE1BUEg3VHF0QkpGT0FjTEZzTE04aU5Fb3hwS1A0azBqall6QmppX3VtVnliTUctcWYxMVNXTE01OTdzZjVnQkZwanEzR3Z4WEF3OGxRaFJHMURvUkNxTW90eVlwWi1jVWt3WlI3VDM5eEhneHlDZW9vck9EVlpoYnVQU1VmZWpmMzI2Y2ktOTJoazRzRFdjX1VlUHJGSEpVQ3lTYmc2M2MtazdQSVRNSUpoemF6NmVjZk1FOHRZQ0dvTk83?oc=5",
-        "published": "14 Apr 2026, 06:36 AM",
-        "iso_date": "2026-04-14T06:36:19+00:00",
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
+        "published": "14 Apr 2026, 08:43 AM",
+        "iso_date": "2026-04-14T08:43:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,20 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3JONXE1NGlEdjFxLVB1QVU3N2FnUUxJZkZkaG5wcEhIUDRYeFRnNXpONU5KellDeHBGZmROTXlxT0FUckJ5RW5MY29uQ0dLdnBuRkJPUWtLOHVqSzFEUWFrUmppcXlIT3cyeWlUeTNsZjhKb1RxQjRFWGMtSVBXNVdFSXFudUh3bTQySlJMcW9qcU1pQTZLWnhnNi1odHJMQ0NNWi1iclBrSTFpMlBoWTAwZlVtdGcxMTA1OVkwTEtHZU9MRkp0T3JGelM3U1RMeGVvZXFzeXNKWlFZWm1LRWEtVjJMZDk2T1VVZmpkTVZIM1JQNmZr?oc=5",
-        "published": "14 Apr 2026, 08:43 AM",
-        "iso_date": "2026-04-14T08:43:26+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Economy Achieves Real Growth Of 3.5% In 2025",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV2lKd0s3VHBCX2gzMDNMdzRadllvN0s1Y1JZdGZSSENROWFqaVh0WmI1M05sTVg3c0pBc1lVZTBVT2YyQWoxYlBTUk9EQTVDbkV0UTFxVjZoOHNnTUVERnM4b2RkaEpDMFg2RWhiOE1NMWpOUFQyRlNldm45X3VRM3J1X3V2Snc3RHdCOEc2RXRrS2E2TU84eG95RWc?oc=5",
-        "published": "14 Apr 2026, 08:15 AM",
-        "iso_date": "2026-04-14T08:15:08+00:00",
+        "title": "Bahrain economy achieves real growth of 3.5% in 2025",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNai1kUnFkY2VKNlhvZEFKUWcwdm96aGtVN3daYU5jdlhfXzNEWDRpMl8zLVZNbC1EbmZXVnp5aDltZEFmWjk2eFp2M1NVRU5GN3B6NTlCTjFpRWhucXEweTZFT3Y3dkhNb2t2NTh2dTR6OGpDbEpadlRPMHc2WUloR3JDNWFYV2JyNk94am5mdnpGVXNPTG05SWYxdEE?oc=5",
+        "published": "14 Apr 2026, 07:02 AM",
+        "iso_date": "2026-04-14T07:02:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Cancer Patient, Stroke Survivor Among 153 Filipinos Repatriated",
+        "link": "https://www.newsofbahrain.com/bahrain/130596.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qmOR5GkDEu_2026-04-15_1776232090resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Central Bank of Bahrain issues loan deferment directives",
         "link": "https://www.newsofbahrain.com/bahrain/130595.html",
         "published": "15 Apr 2026, 09:22 AM",
@@ -228,8 +228,8 @@
       {
         "title": "Israel, Lebanon agree to direct negotiations after 'productive' talks: US statement",
         "link": "https://www.newsofbahrain.com/world/130594.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ezEJXpgATK_2026-04-14_1776197266resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,20 +248,10 @@
       {
         "title": "EDB Injects AED 20M Daily to Sustain UAE Business Operations and Market Stability",
         "link": "https://www.newsofbahrain.com/world/130592.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6zcWohi9rp_2026-04-14_1776196783resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
-        "link": "https://www.newsofbahrain.com/views/130591.html",
         "published": "14 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6zcWohi9rp_2026-04-14_1776196783resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +282,6 @@
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LEMVDy3Oxt_2026-04-14_1776193890thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Education Ministry Launches IB Programme Webpage for Government Schools",
-        "link": "https://www.newsofbahrain.com/bahrain/130585.html",
-        "published": "14 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-14T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ruEyWtYehF_2026-04-14_1776193596thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -362,6 +342,16 @@
         "iso_date": "2026-04-14T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_wYhpQBZkgF_2026-04-14_1776143851thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
+        "link": "https://www.newsofbahrain.com/views/130591.html",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 05:23:57 UTC"
+  "fetched_at": "2026-04-15 06:10:00 UTC"
 }
