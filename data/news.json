@@ -64,6 +64,16 @@
     ],
     "gdn": [
       {
+        "title": "Kuwait Foreign Minister arrives in Bahrain",
+        "link": "https://www.gdnonline.com/Details/1381570/Kuwait-Foreign-Minister-arrives-in-Bahrain",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415142159kwt1(4)_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "King thanked by Chamber chief",
         "link": "https://www.gdnonline.com/Details/1381539/King-thanked-by-Chamber-chief",
         "published": "15 Apr 2026",
@@ -100,16 +110,6 @@
         "iso_date": "2026-04-15T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260415/20260414_231745_0_T.jpg?20260415",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Urgent proposals to ease pressures backed",
-        "link": "https://www.gdnonline.com/Details/1381510/Urgent-proposals-to-ease-pressures-backed",
-        "published": "15 Apr 2026",
-        "iso_date": "2026-04-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415010536edited13_T.jpg?20260415",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,10 +216,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Housing Distribution Gathers Pace",
-        "link": "https://www.newsofbahrain.com/bahrain/130637.html",
+        "title": "Six-Month Fee Suspension Backed for Bahraini Businesses",
+        "link": "https://www.newsofbahrain.com/bahrain/130640.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YXtez9NTV6_2026-04-15_1776257260resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Souq Waqif set for road upgrades",
+        "link": "https://www.newsofbahrain.com/bahrain/130639.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_petX96sJ1B_2026-04-15_1776257171resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Housing Loan Relief For Frontline Personnel",
+        "link": "https://www.newsofbahrain.com/bahrain/130638.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D65yYvRgJI_2026-04-15_1776256630resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Housing Distribution Gathers Pace",
+        "link": "https://www.newsofbahrain.com/bahrain/130637.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_VdMEnHo5XO_2026-04-15_1776255285resized_pic.jpg",
         "source": "newsofbahrain",
@@ -232,36 +262,6 @@
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_yLVIuJ1Crw_2026-04-15_1776254855resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fishermen, drivers to receive financial aid",
-        "link": "https://www.newsofbahrain.com/bahrain/130635.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SZ3DGaUYi7_2026-04-15_1776254662resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "MPs approve new support measures for unemployment",
-        "link": "https://www.newsofbahrain.com/bahrain/130633.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WGSwXOfI83_2026-04-15_1776254129resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "MP proposes Sharia graduates for court representation",
-        "link": "https://www.newsofbahrain.com/bahrain/130632.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bOh8BQYfZU_2026-04-15_1776254045resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 12:22:54 UTC"
+  "fetched_at": "2026-04-15 12:50:43 UTC"
 }
