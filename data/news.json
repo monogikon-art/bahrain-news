@@ -4,28 +4,28 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Islamabad talks may lay basis for a breakthrough",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTRDUmNuTDI4SHlEb05LanB0TW93eHpNc1JTZWV2X3VHY2FuS3RscC1oM0RwOFNuQXVIRndKbUx6M1pkM0dLcFB5bWF1VzJxN3Ffb1Z5RV9iVGZnVnduTGZxUzNVMU5EamNIUUhGMmJOcUYzRjF6Q0pucEdVdjhRUklkcHZfY3BMVjFRZmRMYWhOYWN5eXB1WWxPN2Qxdw?oc=5",
-        "published": "14 Apr 2026, 08:45 AM",
-        "iso_date": "2026-04-14T08:45:25+00:00",
+        "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0lTRllEa3dWTXJ3cFp0OVJnUjJHV295QmJ2MkduTmphQ0VOYVdDSGpza2EtdjFZT2tUTmd2bm5URldHaXVEeWdKU0taUjJZMElhMEdoWUNMQTliMVpTSjBlcFlJRml0NXBDM0JQcjFLQ05rMnM2TnMxekNsZmI4WkxzVUZzMlpyMktHbVExcWFFSUlNbjE4V2lVTk5FeHIwMHh4enM4ZzdCRVliSkVvRjRTUFk3VlFKQm9VZW5vMW1hcVJQUGwxaURR?oc=5",
+        "published": "14 Apr 2026, 11:59 AM",
+        "iso_date": "2026-04-14T11:59:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,26 +42,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0lTRllEa3dWTXJ3cFp0OVJnUjJHV295QmJ2MkduTmphQ0VOYVdDSGpza2EtdjFZT2tUTmd2bm5URldHaXVEeWdKU0taUjJZMElhMEdoWUNMQTliMVpTSjBlcFlJRml0NXBDM0JQcjFLQ05rMnM2TnMxekNsZmI4WkxzVUZzMlpyMktHbVExcWFFSUlNbjE4V2lVTk5FeHIwMHh4enM4ZzdCRVliSkVvRjRTUFk3VlFKQm9VZW5vMW1hcVJQUGwxaURR?oc=5",
-        "published": "14 Apr 2026, 11:59 AM",
-        "iso_date": "2026-04-14T11:59:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Canadian PM hails Pakistan's peace efforts in call with PM Shehbaz",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGdEaWp1RmVPOHpWU2Y3c1dDMDhIMnROaTRnY1dDdjViTDFrOTlIeDdkWlVpMmZSV0YwUlVSUFB5ZlVqaFk1TmEwRGphYl8yTWFzX25QNWNIOVA2VTczelZsWmg0cG54QklIRGM0SDlDUjM3WDdQY1JsTHh6d0NrWjZFbjFTc1JnQUM2MVpVQlp1aWtMRVZobFE2QVI4Wm1SZGlKNTM4VFlHVVlWbzYwNUVJM24ydw?oc=5",
-        "published": "14 Apr 2026, 08:43 AM",
-        "iso_date": "2026-04-14T08:43:05+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Court rejects NAB plea seeking closure of Durrani's illegal assets case",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY21CZFMtZ081aXY5R1lNRjZSblkwZzJCOHVuZXloVm52Q0hHYXlrWkhBMVY4TmZvLTZwQWxkU1VqQ0Q2YXlLLVF5Z1ZIUVZIVmZPbktnNWp1dWFDcGVpd3JFV0c2a0stYUtGSjZxTDI2LWF0TWl4QV9FbUxvV2lIMGJPNm9sSElPTVpMeXVoMGZIT0d0aE1OTkU5Mmk5U3kxODh5LUJFSHUyQ0kwYkxmUWF5TW0zTzdyd2ZVeQ?oc=5",
         "published": "14 Apr 2026, 09:35 AM",
@@ -72,75 +52,226 @@
         "category": "Latest"
       },
       {
-        "title": "New Zealand issues evacuation orders ahead of Cyclone Vaianu",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGM2MHFyaUFmcENiTlMzcWdtNS1ydjlsWmlCXzZmWDFpLVJjZnZMa1AzMUpOczVYTW9DekJnclZicFh6bjRCMm96eTdmampybEZDbjI5S3ZkZW9mVEhzamVFVG5sMDRGcEM4MFVZTTYzN3hlSGFXWXF3c2V0MkJoSG1xaG93a0hQdWc2QzJMVTBNekNsdUJPZUlQQmlmY3NZZDdXYmk0Y0NxVTEtYmc?oc=5",
-        "published": "14 Apr 2026, 05:46 PM",
-        "iso_date": "2026-04-14T17:46:25+00:00",
+        "title": "Zelensky says Britain must rejoin the EU if Trump pulls US out of NATO",
+        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQ3F4UVJPMlJxU1ZzbmFBTEVNZGlNUW9oNm5lYWdWSVBLaTY1YWxQeGNYMFY5cUVhNUhqQW5PRUhMTlNnUVZsRUktYUxwREtDSHFwWVJ4eUd2alZQMVJ1QU5iSzFRelBOSUttNHZhb21vRkpBdGl2WVpEeEhEdDAtVnJyTHpBLUVhb1VkamF0eEJ0Vmg5NzhJMzgtMWZXc19iT2d4YllJb1dIeldFQkhGNDlYeloyUUNNbEhXbURPcTdsUFAzVkdDd2RpZURlUHBEb2pnMi1FYkJRdjByQlQ3OHNzYmJKc0JlNDY1UU9IeV94VXUwNzVUNFlmNnJFRFZqMTFsNlhyZnkxYWs3WkwxdUhfZVBsWk1obGJsbW43aV9mbE9ZOFptbms5ajlidXVfbHVfS2habXZnQjcwdXJWamo3QkpxQ2J2cDZwRE9qLS1wdw?oc=5",
+        "published": "14 Apr 2026, 09:17 AM",
+        "iso_date": "2026-04-14T09:17:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Economy Achieves Real Growth Of 3.5% In 2025",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV2lKd0s3VHBCX2gzMDNMdzRadllvN0s1Y1JZdGZSSENROWFqaVh0WmI1M05sTVg3c0pBc1lVZTBVT2YyQWoxYlBTUk9EQTVDbkV0UTFxVjZoOHNnTUVERnM4b2RkaEpDMFg2RWhiOE1NMWpOUFQyRlNldm45X3VRM3J1X3V2Snc3RHdCOEc2RXRrS2E2TU84eG95RWc?oc=5",
-        "published": "14 Apr 2026, 08:15 AM",
-        "iso_date": "2026-04-14T08:15:08+00:00",
+        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOUzJkTXpZYnk5dFhRdUEyYjRHX0NYRFUxYU94RllDX0hFOF9YMGxPdmhLamVqT2lsZ1VMWmN0Q1VncXByVnQ3VkVEWkZfUFBoX25RSWsxRXZ2YzFZelprUERkN2tqQWFwazV6MHZGRklNNUtFTFRBcGk2SV9kTng5Qmg0bjJpbWhSb2lxYVYxLXk4M0tTZWhfY1dSTzNXWUtEM3NEcDlFQjhhYlZ0YjJUaGszc2xqT0FFRElZbTB6Q3BMb29GbDV6TUk2NmVQZGczUjZXYndDQy0wb0dPazlxbFRnY3prX1Y3ZXd4R29KREY4QjBuejBXdGlsMmliM20ySV9lX2k4MHFQSzU3T1l1SmZtRnFiUVVfMXZJUUxQRGZUTi1uTXBpLWtMNUpKZWNSaFd0VjA3aHcwU242M0dXNWYydXdFRnJnX1VjSkZ4Ukk2dFVqZ0kxVDJUaFJHMjhPTk1rdldPWHBQTU9lMHEtWnJLUkktaFdTT2xfeldLT0pFRzJhN0JWLXNkRkQ0cG1TMGZ1RmxXSnhVdmpwU0ZhaThmVGROX1ZPcWww?oc=5",
+        "published": "14 Apr 2026, 03:19 PM",
+        "iso_date": "2026-04-14T15:19:50+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "King thanked by Chamber chief",
+        "link": "https://www.gdnonline.com/Details/1381539/King-thanked-by-Chamber-chief",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415024722edited12_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "THE BIG INTERVIEW: Bahrainâs peace role âtakes centre stageâ",
+        "link": "https://www.gdnonline.com/Details/1381497/THE-BIG-INTERVIEW-Bahrainâs-peace-role-âtakes-centre-stageâ",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260414_234125_3.jpeg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain welcomes European solidarity",
+        "link": "https://www.gdnonline.com/Details/1381540/Bahrain-welcomes-European-solidarity",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415_022249_2_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "76 deaths as kingdom last year records 968 accidents",
+        "link": "https://www.gdnonline.com/Details/1381491/76-deaths-as-kingdom-last-year-records-968-accidents",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260414_231745_0_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Urgent proposals to ease pressures backed",
+        "link": "https://www.gdnonline.com/Details/1381510/Urgent-proposals-to-ease-pressures-backed",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415010536edited13_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Bourse listed firmsâ net profit surges to $2.3bn in 2025",
+        "link": "https://www.gdnonline.com/Details/1381502/Bahrain-Bourse-listed-firmsâ-net-profit-surges-to-$23bn-in-2025",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415050456images_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC fundamentals âremain strong amid temporary regional headwindsâ",
+        "link": "https://www.gdnonline.com/Details/1381504/GCC-fundamentals-âremain-strong-amid-temporary-regional-headwindsâ",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414235856websitesize(2)_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrainâs All Share Index closes lower",
+        "link": "https://www.gdnonline.com/Details/1381506/Bahrainâs-All-Share-Index-closes-lower",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414235820shar_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Non-oil sector drives 3.5 per cent growth",
+        "link": "https://www.gdnonline.com/Details/1381391/Non-oil-sector-drives-35-per-cent-growth",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414004013asihbf_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "All Share Index closes higher",
+        "link": "https://www.gdnonline.com/Details/1381384/All-Share-Index-closes-higher",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260413/20260413234615bourse_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ittihad beat Wahda in extra-time surge",
+        "link": "https://www.gdnonline.com/Details/1381538/Ittihad-beat-Wahda-in-extra-time-surge",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415_015131_2_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Thirty-two team field  proposed for ACL Elite",
+        "link": "https://www.gdnonline.com/Details/1381536/Thirty-two-team-field--proposed-for-ACL-Elite",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415_015130_3_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Kingâs Cup final on April 24",
+        "link": "https://www.gdnonline.com/Details/1381535/Kingâs-Cup-final-on-April-24",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415015818edited12_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Atletico and PSG qualify for semi-finals",
+        "link": "https://www.gdnonline.com/Details/1381528/Atletico-and-PSG-qualify-for-semi-finals",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415_011315_0_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Leeds grab 2-1 victory over Manchester United",
+        "link": "https://www.gdnonline.com/Details/1381419/Leeds-grab-2-1-victory-over-Manchester-United",
+        "published": "14 Apr 2026",
+        "iso_date": "2026-04-14T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414_022133_0_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
-        "title": "Labour Systems Back Online",
-        "link": "https://www.newsofbahrain.com/bahrain/130606.html",
+        "title": "Flex Learning Rolls",
+        "link": "https://www.newsofbahrain.com/bahrain/130617.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wT78d30Fjs_2026-04-15_1776240392resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BInODCa8dV_2026-04-15_1776243713resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UN–EU Cooperation Meeting Highlights Bahrain’s Diplomatic Priorities",
-        "link": "https://www.newsofbahrain.com/bahrain/130605.html",
+        "title": "Bahrain Tightens Rules: Travel Ban on Debtors Up to 3 Years",
+        "link": "https://www.newsofbahrain.com/bahrain/130615.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eMKyZGj61O_2026-04-15_1776239897resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_87NKd1q4Yb_2026-04-15_1776243254resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Hidden Birth, Silent Death",
-        "link": "https://www.newsofbahrain.com/bahrain/130604.html",
+        "title": "Satellite Image Unveiled",
+        "link": "https://www.newsofbahrain.com/bahrain/130614.html",
         "published": "15 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-15T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5rimuRLGSs_2026-04-15_1776239187resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gM3sj7BTI8_2026-04-15_1776243001resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Youth Empowerment Plans Strengthened",
-        "link": "https://www.newsofbahrain.com/bahrain/130603.html",
+        "title": "Bahrain and Saudi Arabian Grands Prix cancelled due to ongoing regional conflict",
+        "link": "https://www.newsofbahrain.com/bahrain/130613.html",
         "published": "15 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-15T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HsbjDaR2xT_2026-04-15_1776239014resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_k17FceqmXi_2026-04-15_1776242642resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "FIBA 3x3 World Tour set for return to Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/130602.html",
+        "title": "Vishu Remains a Cultural Anchor",
+        "link": "https://www.newsofbahrain.com/bahrain/130612.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0BOR3nHmXP_2026-04-15_1776238363resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vhpx2smgrb_2026-04-15_1776242163resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -231,16 +362,6 @@
         "iso_date": "2026-04-14T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "AI Chatbot Case Raises Global Concerns After Man’s Death",
-        "link": "https://www.newsofbahrain.com/views/130496.html",
-        "published": "13 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-13T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e4v3lo98aB_2026-04-13_1776097158thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -358,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 08:07:41 UTC"
+  "fetched_at": "2026-04-15 09:02:17 UTC"
 }
