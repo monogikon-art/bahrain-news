@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -33,19 +33,9 @@
       },
       {
         "title": "Bahraini Central Bank Offers Loan Deferrals, Boosts Liquidity To Support Economy Amid Regional Conflict",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fcFROWVJmRUFVNnE5T2JKbHY5RUhiU01GRjhiZ1VnNmh4c2ppdzZsNkhRR2VfaXpzOHc4MVVWNWx6ck9FbFFMZWc0LXB4Q3N5bDBaQ1dfSVI5TGQyeHZvaWtsUzR1bkJXUjNlTFVXVDdWcHRoNHBnTURXZw?oc=5",
-        "published": "14 Apr 2026, 09:25 PM",
-        "iso_date": "2026-04-14T21:25:34+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "New Zealand issues evacuation orders ahead of Cyclone Vaianu",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGM2MHFyaUFmcENiTlMzcWdtNS1ydjlsWmlCXzZmWDFpLVJjZnZMa1AzMUpOczVYTW9DekJnclZicFh6bjRCMm96eTdmampybEZDbjI5S3ZkZW9mVEhzamVFVG5sMDRGcEM4MFVZTTYzN3hlSGFXWXF3c2V0MkJoSG1xaG93a0hQdWc2QzJMVTBNekNsdUJPZUlQQmlmY3NZZDdXYmk0Y0NxVTEtYmc?oc=5",
-        "published": "14 Apr 2026, 05:46 PM",
-        "iso_date": "2026-04-14T17:46:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBNlhFc1ltX0ZrNTRCUVF0NnByVFRBdmZhbzdKVUFrbmFteDNxZFZWcEZnaUpCUDFiMFZXanlRY0JlYnY4N3dLTGhmb1UzVlBJNnlER2dKcUxlVWdwNElnekpSRXNzUk8zWUJUdEl3Snl1ZURHbmNWdXhzQTRqUQ?oc=5",
+        "published": "15 Apr 2026, 05:21 AM",
+        "iso_date": "2026-04-15T05:21:29+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -54,22 +44,22 @@
     ],
     "gdn": [
       {
-        "title": "Kuwait Foreign Minister arrives in Bahrain",
-        "link": "https://www.gdnonline.com/Details/1381570/Kuwait-Foreign-Minister-arrives-in-Bahrain",
-        "published": "15 Apr 2026",
-        "iso_date": "2026-04-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415142159kwt1(4)_T.jpg?20260415",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Young minds work on dispute resolution with Bahrainâs expert professor",
         "link": "https://www.gdnonline.com/Details/1381597/Young-minds-work-on-dispute-resolution-with-Bahrainâs-expert-professor",
         "published": "15 Apr 2026",
         "iso_date": "2026-04-15T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260415/20260415184949singlepic(7)_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Foreign Minister arrives in Bahrain",
+        "link": "https://www.gdnonline.com/Details/1381570/Kuwait-Foreign-Minister-arrives-in-Bahrain",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415142159kwt1(4)_T.jpg?20260415",
         "source": "gdn",
         "category": "Latest"
       },
@@ -206,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "US and Iran Weigh 2-Week Extension of Ceasefire Amid Ongoing Talks",
+        "link": "https://www.newsofbahrain.com/world/130663.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ILYoifudnF_2026-04-15_1776274585resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Gulf Air to Restore Network to 50+ Destinations by June 2026",
         "link": "https://www.newsofbahrain.com/bahrain/130662.html",
         "published": "15 Apr 2026, 09:22 AM",
@@ -218,8 +218,8 @@
       {
         "title": "Media Advisor at Crown Prince’s Court Meets BJA Chairman",
         "link": "https://www.newsofbahrain.com/world/130661.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_eCQPqpTW3o_2026-04-15_1776273340resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +238,10 @@
       {
         "title": "HH Amir of Qatar Meets European Council President to Discuss Regional Developments",
         "link": "https://www.newsofbahrain.com/world/130659.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_basXh9lwfV_2026-04-15_1776272677resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC Secretary-General Briefs European Parliament, Praises EU Support on Iran",
-        "link": "https://www.newsofbahrain.com/world/130658.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NGawr6oIPC_2026-04-15_1776272498resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_basXh9lwfV_2026-04-15_1776272677resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 17:25:37 UTC"
+  "fetched_at": "2026-04-15 17:52:28 UTC"
 }
