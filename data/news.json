@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain’s king meets U.S. Central Command Adm. Brad Cooper in Manama - Honolulu Star",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVJ1S0tweGw0eWxmRUN3VVN3QkpzV0NjbmVfcm5IMlVlMWhFV3VUZkkzN0F4WXBOaUlmR0ptYy10M3VoOHZOQVJtd01fWEtlSTV4d1hudk8zc1A1b29QY0tGaWVQMFV2SHZWRjVCVm1FVGM0ZHpRUnpXbUwxTlhZQTdScG14Vy1MclRMY2s2MTlnV0owVTBlb2ZaR25LSWpUZlhmZWNPaDdWaWhWSWpQdzQ2eTJaZEdwUHJrQ1JqRQ?oc=5",
-        "published": "14 Apr 2026, 01:09 AM",
-        "iso_date": "2026-04-14T01:09:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahraini Central Bank Offers Loan Deferrals, Boosts Liquidity To Support Economy Amid Regional Conflict",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fcFROWVJmRUFVNnE5T2JKbHY5RUhiU01GRjhiZ1VnNmh4c2ppdzZsNkhRR2VfaXpzOHc4MVVWNWx6ck9FbFFMZWc0LXB4Q3N5bDBaQ1dfSVI5TGQyeHZvaWtsUzR1bkJXUjNlTFVXVDdWcHRoNHBnTURXZw?oc=5",
@@ -74,6 +64,16 @@
         "category": "Latest"
       },
       {
+        "title": "Urgent proposals to ease pressures backed",
+        "link": "https://www.gdnonline.com/Details/1381510/Urgent-proposals-to-ease-pressures-backed",
+        "published": "15 Apr 2026",
+        "iso_date": "2026-04-15T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415010536edited13_T.jpg?20260415",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Unified national system plan gets green signal",
         "link": "https://www.gdnonline.com/Details/1381512/Unified-national-system-plan-gets-green-signal",
         "published": "15 Apr 2026",
@@ -90,16 +90,6 @@
         "iso_date": "2026-04-15T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260415/20260415_004750_0_T.jpg?20260415",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "MPs step up bid for relief measures",
-        "link": "https://www.gdnonline.com/Details/1381511/MPs-step-up-bid-for-relief-measures",
-        "published": "15 Apr 2026",
-        "iso_date": "2026-04-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415010638img45_T.jpg?20260415",
         "source": "gdn",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 00:33:35 UTC"
+  "fetched_at": "2026-04-15 01:35:35 UTC"
 }
