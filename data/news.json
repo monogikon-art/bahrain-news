@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fcFROWVJmRUFVNnE5T2JKbHY5RUhiU01GRjhiZ1VnNmh4c2ppdzZsNkhRR2VfaXpzOHc4MVVWNWx6ck9FbFFMZWc0LXB4Q3N5bDBaQ1dfSVI5TGQyeHZvaWtsUzR1bkJXUjNlTFVXVDdWcHRoNHBnTURXZw?oc=5",
         "published": "14 Apr 2026, 09:25 PM",
         "iso_date": "2026-04-14T21:25:34+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical firm, fire under control",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0lTRllEa3dWTXJ3cFp0OVJnUjJHV295QmJ2MkduTmphQ0VOYVdDSGpza2EtdjFZT2tUTmd2bm5URldHaXVEeWdKU0taUjJZMElhMEdoWUNMQTliMVpTSjBlcFlJRml0NXBDM0JQcjFLQ05rMnM2TnMxekNsZmI4WkxzVUZzMlpyMktHbVExcWFFSUlNbjE4V2lVTk5FeHIwMHh4enM4ZzdCRVliSkVvRjRTUFk3VlFKQm9VZW5vMW1hcVJQUGwxaURR?oc=5",
-        "published": "14 Apr 2026, 11:59 AM",
-        "iso_date": "2026-04-14T11:59:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,42 +216,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Parliament approves legal profession law after 45 years",
-        "link": "https://www.newsofbahrain.com/bahrain/130631.html",
+        "title": "Housing Distribution Gathers Pace",
+        "link": "https://www.newsofbahrain.com/bahrain/130637.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EnClPaJvjy_2026-04-15_1776253435resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VdMEnHo5XO_2026-04-15_1776255285resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Parliament flags alleged pressure on fraud complainants",
-        "link": "https://www.newsofbahrain.com/bahrain/130629.html",
+        "title": "Bill to Fine Passport Seizures Put on Hold",
+        "link": "https://www.newsofbahrain.com/bahrain/130636.html",
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JH24OmSvoj_2026-04-15_1776253107resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yLVIuJ1Crw_2026-04-15_1776254855resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Shura Panel Backs Economy",
-        "link": "https://www.newsofbahrain.com/bahrain/130628.html",
+        "title": "Fishermen, drivers to receive financial aid",
+        "link": "https://www.newsofbahrain.com/bahrain/130635.html",
         "published": "15 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-15T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zg6XjlM4P3_2026-04-15_1776252782resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SZ3DGaUYi7_2026-04-15_1776254662resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MPs approve new support measures for unemployment",
+        "link": "https://www.newsofbahrain.com/bahrain/130633.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WGSwXOfI83_2026-04-15_1776254129resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MP proposes Sharia graduates for court representation",
+        "link": "https://www.newsofbahrain.com/bahrain/130632.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bOh8BQYfZU_2026-04-15_1776254045resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Dubai Court Upholds Acquittal in Forgery Case, Citing Lack of Evidence",
         "link": "https://www.newsofbahrain.com/world/130627.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_68vW9VCbIL_2026-04-15_1776249073resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_68vW9VCbIL_2026-04-15_1776249073thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,27 +281,7 @@
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wdEsBgAlR1_2026-04-15_1776249208resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Understanding Ammonia Gas Exposure and Its Health Impact",
-        "link": "https://www.newsofbahrain.com/bahrain/130623.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_H42iRI3tsa_2026-04-15_1776251445thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Private school job cuts prompt Ministry intervention",
-        "link": "https://www.newsofbahrain.com/bahrain/130620.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lDcOL4ByNT_2026-04-15_1776244223thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wdEsBgAlR1_2026-04-15_1776249208thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 11:49:09 UTC"
+  "fetched_at": "2026-04-15 12:22:54 UTC"
 }
