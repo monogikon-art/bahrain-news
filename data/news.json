@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 14
     }
   },
   "articles": {
@@ -40,6 +40,16 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
+        "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVmRtUUdkYkVTZXE0VTB5MDd4VU9saktkU2ZDSG85R1VwZWhfWUpoQlZDVGE5ZlVjMHR3OTNoQ1h6djItU3JpTXBEQ2JOWjB4SE9OY0ZlTDN6TVlkWFVxOU5zWldFUUtYRk5QMTB4ZlZGVWVVYmM1NG9GLV8zSkxweU9DZzItRTBxRUNRSzVxZGtocmNUdUcxb3djZ1ZmR3d2RXJuZ0Ixd09RM19hU2Y1dnNzTDdGRDR3WWJYSlZXQmJ0MWkwX0dmMGNraC1tbW5JX0NwOHJCMnQ0MnV3VFJWbU9MV1F1b2h0VWt6TkNmSzI5WmxfU3VTQUprWEhDN3M2bkZzN3NXY2lTSG1JX3cybVZnS2x4SU5KNXVWdlY3NzZkMEltdWo1TWRMNlJvMDV6dVUyZmk2dWp3SkRBcWNkdHNDUktIRzZkMEZxcnNETWh6NUpHX3ZaWnI5UlVnN2FNOEhLa1JLVHNWVXBjeFp3UWd1VXNpRUpjWjN0Tw?oc=5",
+        "published": "15 Apr 2026, 06:56 AM",
+        "iso_date": "2026-04-15T06:56:14+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
@@ -49,7 +59,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416015305edited12_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/2026041601591320200723020459erhte5thy4eth_T.jpg?20260416",
         "source": "gdn",
         "category": "Latest"
       },
@@ -184,7 +194,148 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Nine Killed in School Shooting in Southern Turkey, Second Attack in Two Days",
+        "link": "https://www.newsofbahrain.com/world/130672.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v7eiF0guhN_2026-04-15_1776281041resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Under Bahrain’s Presidency, UN Security Council Extends Libya Sanctions Committee Mandate",
+        "link": "https://www.newsofbahrain.com/bahrain/130671.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NgATaM2HXi_2026-04-15_1776279905resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Justice Minister receives Philippine Ambassador",
+        "link": "https://www.newsofbahrain.com/bahrain/130670.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z3BRSDueL0_2026-04-15_1776279750resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Interior Minister Visits King Fahd Causeway Coast Guard Base",
+        "link": "https://www.newsofbahrain.com/bahrain/130669.html",
+        "published": "15 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-15T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mfeuvNsgaL_2026-04-15_1776279530resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Speaker Meets Ukrainian Parliament Official on Sidelines of IPU Assembly",
+        "link": "https://www.newsofbahrain.com/bahrain/130668.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MyCiIvAB3V_2026-04-15_1776279378resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Speaker Chairs APA Coordination Meeting on Sidelines of IPU Assembly",
+        "link": "https://www.newsofbahrain.com/bahrain/130666.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wGvLnd79EM_2026-04-15_1776279097thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US and Iran Weigh 2-Week Extension of Ceasefire Amid Ongoing Talks",
+        "link": "https://www.newsofbahrain.com/world/130663.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ILYoifudnF_2026-04-15_1776274585thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Media Advisor at Crown Prince’s Court Meets BJA Chairman",
+        "link": "https://www.newsofbahrain.com/world/130661.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eCQPqpTW3o_2026-04-15_1776273340thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Over 250 Missing After Boat Capsizes in Andaman Sea",
+        "link": "https://www.newsofbahrain.com/world/130660.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Eap7VmGl9n_2026-04-15_1776272790thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain eases upfront VAT for importers at entry poi",
+        "link": "https://www.newsofbahrain.com/business/130647.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lF3bYMtZGL_2026-04-15_1776259230thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BENEFIT celebrates graduation of second cohort of \"Fintech Drivers\" programme",
+        "link": "https://www.newsofbahrain.com/business/130645.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UZ8jWvEYKw_2026-04-15_1776258848thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ebrahim K. Kanoo launches all new Toyota RAV4 in Bahrain",
+        "link": "https://www.newsofbahrain.com/business/130644.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sB5JZYN4mA_2026-04-15_1776258640thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ebdaa honours winners of “Celebrating Your Creativity” competition",
+        "link": "https://www.newsofbahrain.com/business/130643.html",
+        "published": "15 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-15T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zeh1zxYi8A_2026-04-15_1776258452thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
+        "link": "https://www.newsofbahrain.com/views/130591.html",
+        "published": "14 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-14T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -298,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 01:36:04 UTC"
+  "fetched_at": "2026-04-16 03:06:28 UTC"
 }
