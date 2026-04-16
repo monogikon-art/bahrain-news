@@ -10,13 +10,13 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 14
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 0
     }
   },
   "articles": {
@@ -134,6 +134,36 @@
         "category": "Latest"
       },
       {
+        "title": "League resumes with fans back in stands",
+        "link": "https://www.gdnonline.com/Details/1381659/League-resumes-with-fans-back-in-stands",
+        "published": "16 Apr 2026",
+        "iso_date": "2026-04-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416013320footy_T.jpg?20260416",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Asian Cup draw date announced",
+        "link": "https://www.gdnonline.com/Details/1381658/Asian-Cup-draw-date-announced",
+        "published": "16 Apr 2026",
+        "iso_date": "2026-04-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416013143afc_T.jpg?20260416",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Late goals send Bayern to semis",
+        "link": "https://www.gdnonline.com/Details/1381660/Late-goals-send-Bayern-to-semis",
+        "published": "16 Apr 2026",
+        "iso_date": "2026-04-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416_011733_0_T.jpg?20260416",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Ittihad beat Wahda in extra-time surge",
         "link": "https://www.gdnonline.com/Details/1381538/Ittihad-beat-Wahda-in-extra-time-surge",
         "published": "15 Apr 2026",
@@ -152,170 +182,9 @@
         "image": "https://www.gdnonline.com/gdnimages/20260415/20260415_015130_3_T.jpg?20260416",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Kingâs Cup final on April 24",
-        "link": "https://www.gdnonline.com/Details/1381535/Kingâs-Cup-final-on-April-24",
-        "published": "15 Apr 2026",
-        "iso_date": "2026-04-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415015818edited12_T.jpg?20260416",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Atletico and PSG qualify for semi-finals",
-        "link": "https://www.gdnonline.com/Details/1381528/Atletico-and-PSG-qualify-for-semi-finals",
-        "published": "15 Apr 2026",
-        "iso_date": "2026-04-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415_011315_0_T.jpg?20260416",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Nine Killed in School Shooting in Southern Turkey, Second Attack in Two Days",
-        "link": "https://www.newsofbahrain.com/world/130672.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v7eiF0guhN_2026-04-15_1776281041resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Under Bahrain’s Presidency, UN Security Council Extends Libya Sanctions Committee Mandate",
-        "link": "https://www.newsofbahrain.com/bahrain/130671.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NgATaM2HXi_2026-04-15_1776279905resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Justice Minister receives Philippine Ambassador",
-        "link": "https://www.newsofbahrain.com/bahrain/130670.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z3BRSDueL0_2026-04-15_1776279750resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Interior Minister Visits King Fahd Causeway Coast Guard Base",
-        "link": "https://www.newsofbahrain.com/bahrain/130669.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mfeuvNsgaL_2026-04-15_1776279530resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Speaker Meets Ukrainian Parliament Official on Sidelines of IPU Assembly",
-        "link": "https://www.newsofbahrain.com/bahrain/130668.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MyCiIvAB3V_2026-04-15_1776279378resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Speaker Chairs APA Coordination Meeting on Sidelines of IPU Assembly",
-        "link": "https://www.newsofbahrain.com/bahrain/130666.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wGvLnd79EM_2026-04-15_1776279097thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US and Iran Weigh 2-Week Extension of Ceasefire Amid Ongoing Talks",
-        "link": "https://www.newsofbahrain.com/world/130663.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ILYoifudnF_2026-04-15_1776274585thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Media Advisor at Crown Prince’s Court Meets BJA Chairman",
-        "link": "https://www.newsofbahrain.com/world/130661.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eCQPqpTW3o_2026-04-15_1776273340thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Over 250 Missing After Boat Capsizes in Andaman Sea",
-        "link": "https://www.newsofbahrain.com/world/130660.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Eap7VmGl9n_2026-04-15_1776272790thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain eases upfront VAT for importers at entry poi",
-        "link": "https://www.newsofbahrain.com/business/130647.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lF3bYMtZGL_2026-04-15_1776259230thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BENEFIT celebrates graduation of second cohort of \"Fintech Drivers\" programme",
-        "link": "https://www.newsofbahrain.com/business/130645.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UZ8jWvEYKw_2026-04-15_1776258848thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ebrahim K. Kanoo launches all new Toyota RAV4 in Bahrain",
-        "link": "https://www.newsofbahrain.com/business/130644.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sB5JZYN4mA_2026-04-15_1776258640thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ebdaa honours winners of “Celebrating Your Creativity” competition",
-        "link": "https://www.newsofbahrain.com/business/130643.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zeh1zxYi8A_2026-04-15_1776258452thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
-        "link": "https://www.newsofbahrain.com/views/130591.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -429,5 +298,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 00:33:44 UTC"
+  "fetched_at": "2026-04-16 01:36:04 UTC"
 }
