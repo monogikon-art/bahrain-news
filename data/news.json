@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,7 +20,18 @@
     }
   },
   "articles": {
-    "bna": [],
+    "bna": [
+      {
+        "title": "Bahrain puts officer on trial after 'assaulted' detainee dies in custody",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjF6QUJsbTY3Z0tkMnBfa0t4bWo4Q1N3WC1qN2FRY2pod0Q0NnVNdTlDZUNiVmJPUmpvT0RSMXhhNzZNN200Q0JIR1FsZm1mZjFQNV9jZFNLMm1hbmtpbkQ5WjJyWlgtUkE2XzdMam5vYWNGUkZ4RVdId1VKbXhJclVqQldrZVUwV1VHaVVPR0luT0dVU29qTGRtLUtQVjVsb2JZa1gwV05fZ1NMYVB1RTBYanRHcG40Y1ozbTBEbTVMQQ?oc=5",
+        "published": "16 Apr 2026, 02:48 PM",
+        "iso_date": "2026-04-16T14:48:41+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
     "gdn": [
       {
         "title": "Drug suspect arrested with narcotics worth more than BD36,000 seized",
@@ -448,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 14:37:29 UTC"
+  "fetched_at": "2026-04-16 15:34:34 UTC"
 }
