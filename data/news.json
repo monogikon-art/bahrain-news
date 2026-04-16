@@ -206,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Housing Ministry Extends Expired Finance Certificates by 3 Months",
+        "link": "https://www.newsofbahrain.com/bahrain/130771.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rf6DkYxbzW_2026-04-16_1776365376resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "“Sheem Al Khair” Team Brings National Values to Kindergarten Classrooms",
         "link": "https://www.newsofbahrain.com/bahrain/130770.html",
         "published": "16 Apr 2026, 09:22 AM",
@@ -218,8 +228,8 @@
       {
         "title": "HH Shaikh Nasser bin Hamad wins Victorious Ultimate Endurance Challenge",
         "link": "https://www.newsofbahrain.com/bahrain/130769.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_4DBKJhkIlY_2026-04-16_1776361910resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +248,10 @@
       {
         "title": "Trump Signals Diplomatic Push After Israel-Lebanon Ceasefire Deal",
         "link": "https://www.newsofbahrain.com/world/130767.html",
-        "published": "16 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_apwfxiQ5b6_2026-04-16_1776361369resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Israeli strike in south Lebanon kills 7, wounds 33: health ministry",
-        "link": "https://www.newsofbahrain.com/world/130766.html",
         "published": "16 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0NUXOD2FZW_2026-04-16_1776361211resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_apwfxiQ5b6_2026-04-16_1776361369resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -276,12 +276,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Proposes Amendments to Draft Resolution at IPU Assembly",
-        "link": "https://www.newsofbahrain.com/bahrain/130759.html",
+        "title": "Israeli strike in south Lebanon kills 7, wounds 33: health ministry",
+        "link": "https://www.newsofbahrain.com/world/130766.html",
         "published": "16 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xngTSyeu5r_2026-04-16_1776359387thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0NUXOD2FZW_2026-04-16_1776361211thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 18:26:40 UTC"
+  "fetched_at": "2026-04-16 18:52:24 UTC"
 }
