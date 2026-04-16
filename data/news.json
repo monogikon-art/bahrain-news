@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 0
     }
   },
   "articles": {
@@ -183,158 +183,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "World Bank Warns Middle East Conflict Could Deepen Global Hunger Crisis",
-        "link": "https://www.newsofbahrain.com/world/130741.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MV9oC48NGx_2026-04-16_1776343630resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sri Lanka Arrests Nine Chinese Nationals Over Alleged Cyberscam Equipment Smuggling",
-        "link": "https://www.newsofbahrain.com/world/130740.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EaVYyIkrwA_2026-04-16_1776343084resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Netanyahu Says Israel and US Share Same Goals in Iran Conflict",
-        "link": "https://www.newsofbahrain.com/world/130739.html",
-        "published": "16 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oWaJ7YzheI_2026-04-16_1776343035resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "14 Killed in Bus Mishap in Ecuador",
-        "link": "https://www.newsofbahrain.com/world/130738.html",
-        "published": "16 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nmjidCMrAT_2026-04-16_1776342840resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Starmer says 'won't yield' to Trump's Mideast war threats",
-        "link": "https://www.newsofbahrain.com/world/130737.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xMR3hi9ctA_2026-04-16_1776342636resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Batelco Fitness on Track tomorrow at Bahrain International Circuit",
-        "link": "https://www.newsofbahrain.com/bahrain/130711.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ULztiDs47X_2026-04-16_1776339174thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Special Investigation Unit Completes Probe into Detainee Death, Refers Suspect to Criminal Court",
-        "link": "https://www.newsofbahrain.com/bahrain/130699.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_orKzgp0BsG_2026-04-16_1776336127thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Expatriate Insurance Coverage Hits 473,323",
-        "link": "https://www.newsofbahrain.com/bahrain/130684.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g7nlsIYtz9_2026-04-16_1776326132thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Arbitration Future Talks",
-        "link": "https://www.newsofbahrain.com/bahrain/130683.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oRKvj5HGkn_2026-04-16_1776325756thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Grandmothers Learn Life-Saving Skills",
-        "link": "https://www.newsofbahrain.com/bahrain/130682.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fxYhb8Kz1D_2026-04-16_1776325637thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Malabar Gold & Diamonds Unveils Hyderabad Artistry Store, Strengthens Play in Curated Luxury Jewellery",
-        "link": "https://www.newsofbahrain.com/business/130688.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yToVxKNR2U_2026-04-16_1776327086thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Limited-time staycation await at The Ritz-Carlton, Bahrain",
-        "link": "https://www.newsofbahrain.com/business/130687.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X7WzmwCDf0_2026-04-16_1776326723thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zain Bahrain’s OneCX launches new generation of AI-powered voice agent in Bahraini dialect",
-        "link": "https://www.newsofbahrain.com/business/130686.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j6fYmWpwuh_2026-04-16_1776326569thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB announces three-month financing and credit cards deferral option",
-        "link": "https://www.newsofbahrain.com/business/130685.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PpIKr1AC8Y_2026-04-16_1776326310thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Words Really Matter!",
-        "link": "https://www.newsofbahrain.com/views/130689.html",
-        "published": "16 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -448,5 +297,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 12:52:53 UTC"
+  "fetched_at": "2026-04-16 13:35:16 UTC"
 }
