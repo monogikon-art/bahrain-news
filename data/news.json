@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -38,7 +38,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/2026041601591320200723020459erhte5thy4eth_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416110934bahrainidinars9_T.jpg?20260416",
         "source": "gdn",
         "category": "Latest"
       },
@@ -171,14 +171,44 @@
         "image": "https://www.gdnonline.com/gdnimages/20260416/20260416084332websitesize_T.jpg?20260416",
         "source": "gdn",
         "category": "Latest"
+      },
+      {
+        "title": "Spielberg teases new alien film 'Disclosure Day' as 'more truth than fiction'",
+        "link": "https://www.gdnonline.com/Details/1381690/Spielberg-teases-new-alien-film-Disclosure-Day-as-more-truth-than-fiction",
+        "published": "16 Apr 2026",
+        "iso_date": "2026-04-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416105048websitesize(10)_T.jpg?20260416",
+        "source": "gdn",
+        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "Pakistan PM Begins High-Stakes Three-Nation Visit",
-        "link": "https://www.newsofbahrain.com/world/130692.html",
+        "title": "Iran Ceasefire, Gaza Plan Top Rubio Talks",
+        "link": "https://www.newsofbahrain.com/world/130694.html",
         "published": "16 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fitvjM2lwo_2026-04-16_1776328952resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oman, France sign spouse work permit deal",
+        "link": "https://www.newsofbahrain.com/world/130693.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P1LwCxB8Kj_2026-04-16_1776328499resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pakistan PM Begins High-Stakes Three-Nation Visit",
+        "link": "https://www.newsofbahrain.com/world/130692.html",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QuhVBx0L2q_2026-04-16_1776328369resized_pic.jpg",
         "source": "newsofbahrain",
@@ -187,8 +217,8 @@
       {
         "title": "Jeddah Talks Focus on Security, Economy",
         "link": "https://www.newsofbahrain.com/world/130691.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_7HYmP85VCK_2026-04-16_1776327874resized_pic.jpg",
         "source": "newsofbahrain",
@@ -197,30 +227,10 @@
       {
         "title": "Hormuz Disruptions Raise Hunger Risks",
         "link": "https://www.newsofbahrain.com/world/130690.html",
-        "published": "16 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cpAxSKQGFb_2026-04-16_1776327733resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Words Really Matter!",
-        "link": "https://www.newsofbahrain.com/views/130689.html",
-        "published": "16 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Malabar Gold & Diamonds Unveils Hyderabad Artistry Store, Strengthens Play in Curated Luxury Jewellery",
-        "link": "https://www.newsofbahrain.com/business/130688.html",
         "published": "16 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yToVxKNR2U_2026-04-16_1776327086resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cpAxSKQGFb_2026-04-16_1776327733resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -275,12 +285,12 @@
         "category": "Latest"
       },
       {
-        "title": "Nine Killed in School Shooting in Southern Turkey, Second Attack in Two Days",
-        "link": "https://www.newsofbahrain.com/world/130672.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
+        "title": "Malabar Gold & Diamonds Unveils Hyderabad Artistry Store, Strengthens Play in Curated Luxury Jewellery",
+        "link": "https://www.newsofbahrain.com/business/130688.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v7eiF0guhN_2026-04-15_1776281041thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yToVxKNR2U_2026-04-16_1776327086thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -315,12 +325,12 @@
         "category": "Latest"
       },
       {
-        "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
-        "link": "https://www.newsofbahrain.com/views/130591.html",
-        "published": "14 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-14T09:00:43+00:00",
+        "title": "Words Really Matter!",
+        "link": "https://www.newsofbahrain.com/views/130689.html",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -438,5 +448,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 08:35:44 UTC"
+  "fetched_at": "2026-04-16 09:33:45 UTC"
 }
