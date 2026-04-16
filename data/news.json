@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 15
     }
   },
   "articles": {
@@ -113,6 +113,16 @@
         "category": "Latest"
       },
       {
+        "title": "Fatigued Ronaldo threw up after Al Nassr match, coach says",
+        "link": "https://www.gdnonline.com/Details/1381718/Fatigued-Ronaldo-threw-up-after-Al-Nassr-match,-coach-says",
+        "published": "16 Apr 2026",
+        "iso_date": "2026-04-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416155153cr7(4)_T.jpg?20260416",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Beckham: Inter Miami not rushing to replace head coach",
         "link": "https://www.gdnonline.com/Details/1381700/Beckham-Inter-Miami-not-rushing-to-replace-head-coach",
         "published": "16 Apr 2026",
@@ -153,16 +163,6 @@
         "category": "Latest"
       },
       {
-        "title": "League resumes with fans back in stands",
-        "link": "https://www.gdnonline.com/Details/1381659/League-resumes-with-fans-back-in-stands",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416013320footy_T.jpg?20260416",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Tom Cruise touts 'wild' dark comedy 'Digger' to theatre owners",
         "link": "https://www.gdnonline.com/Details/1381673/Tom-Cruise-touts-wild-dark-comedy-Digger-to-theatre-owners",
         "published": "16 Apr 2026",
@@ -183,7 +183,158 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "US Fed says Mideast war has firms in ‘wait-and-see’ mode",
+        "link": "https://www.newsofbahrain.com/world/130755.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jWaxvukdCs_2026-04-16_1776346900resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ukraine Launches 100 Attacks with Robots on Front: Military Unit",
+        "link": "https://www.newsofbahrain.com/world/130754.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FdLUsK9JBe_2026-04-16_1776346662resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ethiopian news outlet demands probe into abducted editor",
+        "link": "https://www.newsofbahrain.com/world/130753.html",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_249bSr3gcE_2026-04-16_1776346431resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran supreme leader’s adviser threatens to sink US ships in Hormuz if America decides to ‘police’ strait",
+        "link": "https://www.newsofbahrain.com/world/130752.html",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o5gv9adPhx_2026-04-16_1776346285resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Two US Teens Plead Not Guilty to Terror Charges Over Alleged NYC Plot",
+        "link": "https://www.newsofbahrain.com/world/130751.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UBtq27dwOp_2026-04-16_1776345947resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Batelco Fitness on Track tomorrow at Bahrain International Circuit",
+        "link": "https://www.newsofbahrain.com/bahrain/130711.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ULztiDs47X_2026-04-16_1776339174thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Special Investigation Unit Completes Probe into Detainee Death, Refers Suspect to Criminal Court",
+        "link": "https://www.newsofbahrain.com/bahrain/130699.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_orKzgp0BsG_2026-04-16_1776336127thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Expatriate Insurance Coverage Hits 473,323",
+        "link": "https://www.newsofbahrain.com/bahrain/130684.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g7nlsIYtz9_2026-04-16_1776326132thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Arbitration Future Talks",
+        "link": "https://www.newsofbahrain.com/bahrain/130683.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oRKvj5HGkn_2026-04-16_1776325756thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Grandmothers Learn Life-Saving Skills",
+        "link": "https://www.newsofbahrain.com/bahrain/130682.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fxYhb8Kz1D_2026-04-16_1776325637thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Malabar Gold & Diamonds Unveils Hyderabad Artistry Store, Strengthens Play in Curated Luxury Jewellery",
+        "link": "https://www.newsofbahrain.com/business/130688.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yToVxKNR2U_2026-04-16_1776327086thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Limited-time staycation await at The Ritz-Carlton, Bahrain",
+        "link": "https://www.newsofbahrain.com/business/130687.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X7WzmwCDf0_2026-04-16_1776326723thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Zain Bahrain’s OneCX launches new generation of AI-powered voice agent in Bahraini dialect",
+        "link": "https://www.newsofbahrain.com/business/130686.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j6fYmWpwuh_2026-04-16_1776326569thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "NBB announces three-month financing and credit cards deferral option",
+        "link": "https://www.newsofbahrain.com/business/130685.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PpIKr1AC8Y_2026-04-16_1776326310thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Words Really Matter!",
+        "link": "https://www.newsofbahrain.com/views/130689.html",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -297,5 +448,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 13:35:16 UTC"
+  "fetched_at": "2026-04-16 14:37:29 UTC"
 }
