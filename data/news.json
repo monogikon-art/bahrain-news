@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,22 +16,11 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Bahrain Suspends Air Traffic After Iran's Attack On US Base In Qatar",
-        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNYTR6TTFiZnpIOTduYVpJLS1yX3hwVGVsczZUNmxLWGxJN3A0UGQ3RFZnT1BSOU1WdGk3Sm9ObVVIbFlKRHhLV2NZU2xtTHRvZHpGUFdLWkpXM1ZtZVRjRTBHTWJjY0drQVNSY3IzVmFIWmh0NFA4Wm8tX0JKazBleTU5RHg5MkJfYTBWYXRTRFJpanNXcmRjY251UzFBenFHVnpKbXBqS1JXTGdXRmZlTVc1LXZmZ2puUUs1MEJUdEZ6bnVXQTlHSHZsakVwNFFBM0pEMGFIYmJPU1lKS2FIdEdkWmRHY19RbXVkOWwtcjFlUE9IZm5Ba0NJUFNENmk0dURUVS11WHJqQVIzdlNTVmI0TDAxSUJManc5b21KamV6M0tfRHhsNExudzZBNWxyUDRJMXEyX3ZRazFCaHF4M1N5UjNrWGotSU9ELXln?oc=5",
-        "published": "15 Apr 2026, 06:23 PM",
-        "iso_date": "2026-04-15T18:23:45+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
         "title": "Deep-rooted relations with Kuwait in focus",
@@ -124,6 +113,16 @@
         "category": "Latest"
       },
       {
+        "title": "FIFA president Gianni Infantino: Iran 'for sure' playing in World Cup",
+        "link": "https://www.gdnonline.com/Details/1381683/FIFA-president-Gianni-Infantino-Iran-for-sure-playing-in-World-Cup",
+        "published": "16 Apr 2026",
+        "iso_date": "2026-04-16T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416095812fif1_T.jpg?20260416",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "League resumes with fans back in stands",
         "link": "https://www.gdnonline.com/Details/1381659/League-resumes-with-fans-back-in-stands",
         "published": "16 Apr 2026",
@@ -164,16 +163,6 @@
         "category": "Latest"
       },
       {
-        "title": "Thirty-two team field  proposed for ACL Elite",
-        "link": "https://www.gdnonline.com/Details/1381536/Thirty-two-team-field--proposed-for-ACL-Elite",
-        "published": "15 Apr 2026",
-        "iso_date": "2026-04-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415_015130_3_T.jpg?20260416",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Tom Cruise touts 'wild' dark comedy 'Digger' to theatre owners",
         "link": "https://www.gdnonline.com/Details/1381673/Tom-Cruise-touts-wild-dark-comedy-Digger-to-theatre-owners",
         "published": "16 Apr 2026",
@@ -186,52 +175,102 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Path to Recovery",
-        "link": "https://www.newsofbahrain.com/bahrain/130679.html",
+        "title": "Pakistan PM Begins High-Stakes Three-Nation Visit",
+        "link": "https://www.newsofbahrain.com/world/130692.html",
         "published": "16 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vTia9KuDX5_2026-04-16_1776323855resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QuhVBx0L2q_2026-04-16_1776328369resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Secrets of Stones",
-        "link": "https://www.newsofbahrain.com/bahrain/130678.html",
+        "title": "Jeddah Talks Focus on Security, Economy",
+        "link": "https://www.newsofbahrain.com/world/130691.html",
         "published": "16 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0Ra6AGUEFX_2026-04-16_1776323616resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7HYmP85VCK_2026-04-16_1776327874resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Over 900 complaints exposed",
-        "link": "https://www.newsofbahrain.com/bahrain/130677.html",
+        "title": "Hormuz Disruptions Raise Hunger Risks",
+        "link": "https://www.newsofbahrain.com/world/130690.html",
         "published": "16 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-16T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pVFqCRenWf_2026-04-16_1776321596resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cpAxSKQGFb_2026-04-16_1776327733resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Fake Link Scam",
-        "link": "https://www.newsofbahrain.com/bahrain/130676.html",
+        "title": "Words Really Matter!",
+        "link": "https://www.newsofbahrain.com/views/130689.html",
         "published": "16 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-16T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nTv0WEwAht_2026-04-16_1776320926resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Three Arrested Over BD4,700 Theft in Gudaibiya",
-        "link": "https://www.newsofbahrain.com/bahrain/130675.html",
+        "title": "Malabar Gold & Diamonds Unveils Hyderabad Artistry Store, Strengthens Play in Curated Luxury Jewellery",
+        "link": "https://www.newsofbahrain.com/business/130688.html",
         "published": "16 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bdYes0I3Jc_2026-04-16_1776320411resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yToVxKNR2U_2026-04-16_1776327086resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Expatriate Insurance Coverage Hits 473,323",
+        "link": "https://www.newsofbahrain.com/bahrain/130684.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g7nlsIYtz9_2026-04-16_1776326132thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Arbitration Future Talks",
+        "link": "https://www.newsofbahrain.com/bahrain/130683.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oRKvj5HGkn_2026-04-16_1776325756thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Grandmothers Learn Life-Saving Skills",
+        "link": "https://www.newsofbahrain.com/bahrain/130682.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fxYhb8Kz1D_2026-04-16_1776325637thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BD500 Monthly Fines Proposed for Unfinished Buildings",
+        "link": "https://www.newsofbahrain.com/bahrain/130681.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6ulQRPxZ8s_2026-04-16_1776325325thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rejections, Disputes and Delays Surface",
+        "link": "https://www.newsofbahrain.com/bahrain/130680.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m4V5pMryon_2026-04-16_1776325119thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -246,72 +285,32 @@
         "category": "Latest"
       },
       {
-        "title": "US and Iran Weigh 2-Week Extension of Ceasefire Amid Ongoing Talks",
-        "link": "https://www.newsofbahrain.com/world/130663.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
+        "title": "Limited-time staycation await at The Ritz-Carlton, Bahrain",
+        "link": "https://www.newsofbahrain.com/business/130687.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ILYoifudnF_2026-04-15_1776274585thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X7WzmwCDf0_2026-04-16_1776326723thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Media Advisor at Crown Prince’s Court Meets BJA Chairman",
-        "link": "https://www.newsofbahrain.com/world/130661.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
+        "title": "Zain Bahrain’s OneCX launches new generation of AI-powered voice agent in Bahraini dialect",
+        "link": "https://www.newsofbahrain.com/business/130686.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eCQPqpTW3o_2026-04-15_1776273340thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j6fYmWpwuh_2026-04-16_1776326569thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Over 250 Missing After Boat Capsizes in Andaman Sea",
-        "link": "https://www.newsofbahrain.com/world/130660.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
+        "title": "NBB announces three-month financing and credit cards deferral option",
+        "link": "https://www.newsofbahrain.com/business/130685.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Eap7VmGl9n_2026-04-15_1776272790thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain eases upfront VAT for importers at entry poi",
-        "link": "https://www.newsofbahrain.com/business/130647.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lF3bYMtZGL_2026-04-15_1776259230thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BENEFIT celebrates graduation of second cohort of \"Fintech Drivers\" programme",
-        "link": "https://www.newsofbahrain.com/business/130645.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UZ8jWvEYKw_2026-04-15_1776258848thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ebrahim K. Kanoo launches all new Toyota RAV4 in Bahrain",
-        "link": "https://www.newsofbahrain.com/business/130644.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sB5JZYN4mA_2026-04-15_1776258640thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ebdaa honours winners of “Celebrating Your Creativity” competition",
-        "link": "https://www.newsofbahrain.com/business/130643.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Zeh1zxYi8A_2026-04-15_1776258452thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PpIKr1AC8Y_2026-04-16_1776326310thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -439,5 +438,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 07:34:49 UTC"
+  "fetched_at": "2026-04-16 08:35:44 UTC"
 }
