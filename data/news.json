@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 16
+      "count": 17
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -44,52 +44,72 @@
     ],
     "gdn": [
       {
-        "title": "Drug suspect arrested with narcotics worth more than BD36,000 seized",
-        "link": "https://www.gdnonline.com/Details/1381698/Drug-suspect-arrested-with-narcotics-worth-more-than-BD36,000-seized",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
+        "title": "Peace, security and social justice âare core priorities of Bahrainâ",
+        "link": "https://www.gdnonline.com/Details/1381741/Peace,-security-and-social-justice-âare-core-priorities-of-Bahrainâ",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416123126poli_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416233428websitesize(6)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "BDF: No interceptions in the last 72 hours",
-        "link": "https://www.gdnonline.com/Details/1381697/BDF-No-interceptions-in-the-last-72-hours",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
+        "title": "Children grappling with effects of screen exposure",
+        "link": "https://www.gdnonline.com/Details/1381736/Children-grappling-with-effects-of-screen-exposure",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416122908bdf12(2)_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260416_220626_0_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Deep-rooted relations with Kuwait in focus",
-        "link": "https://www.gdnonline.com/Details/1381641/Deep-rooted-relations-with-Kuwait-in-focus",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
+        "title": "Mule who tried to swallow cocaine before arrest jailed",
+        "link": "https://www.gdnonline.com/Details/1381729/Mule-who-tried-to-swallow-cocaine-before-arrest-jailed",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416_005350_1.jpeg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416225906websitesize(1)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "SIO outlines pension benefits and contributions to funds",
-        "link": "https://www.gdnonline.com/Details/1381601/SIO-outlines-pension-benefits-and-contributions-to-funds-",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
+        "title": "Amendments to draft resolution on post-conflict phase submitted",
+        "link": "https://www.gdnonline.com/Details/1381742/Amendments-to-draft-resolution-on-post-conflict-phase-submitted",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416110934bahrainidinars9_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260416_220631_2.jpeg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Top landmarks set for modern revamp with touch of heritage",
-        "link": "https://www.gdnonline.com/Details/1381599/Top-landmarks-set-for-modern-revamp-with-touch-of-heritage",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
+        "title": "Phishing scams alert",
+        "link": "https://www.gdnonline.com/Details/1381731/Phishing-scams-alert",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260415_224501_0.jfif?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416230553websitesize(2)_T.jpg?20260417",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Application set to open for Al Salam Bankâs new initiative",
+        "link": "https://www.gdnonline.com/Details/1381743/Application-set-to-open-for-Al-Salam-Bankâs-new-initiative",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Financial sector dominates as All Share Index closes higher",
+        "link": "https://www.gdnonline.com/Details/1381750/Financial-sector-dominates-as-All-Share-Index-closes-higher",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416235057bzuxavk6jjlhzfbjpo7cax3dcy_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +119,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416004502nbb_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416004502nbb_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +129,7 @@
         "published": "15 Apr 2026",
         "iso_date": "2026-04-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415050456images_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415050456images_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,17 +139,7 @@
         "published": "15 Apr 2026",
         "iso_date": "2026-04-15T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414235856websitesize(2)_T.jpg?20260416",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrainâs All Share Index closes lower",
-        "link": "https://www.gdnonline.com/Details/1381506/Bahrainâs-All-Share-Index-closes-lower",
-        "published": "15 Apr 2026",
-        "iso_date": "2026-04-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414235820shar_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414235856websitesize(2)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +149,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416155153cr7(4)_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416155153cr7(4)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +159,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416144839db_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416144839db_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +169,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416151035ekiteke_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416151035ekiteke_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +179,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416095812fif1_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416095812fif1_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +189,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416132959ars1_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416132959ars1_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +199,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416084332websitesize_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416084332websitesize_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +209,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416105048websitesize(10)_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416105048websitesize(10)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       }
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 21:17:09 UTC"
+  "fetched_at": "2026-04-16 21:46:26 UTC"
 }
