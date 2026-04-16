@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBNlhFc1ltX0ZrNTRCUVF0NnByVFRBdmZhbzdKVUFrbmFteDNxZFZWcEZnaUpCUDFiMFZXanlRY0JlYnY4N3dLTGhmb1UzVlBJNnlER2dKcUxlVWdwNElnekpSRXNzUk8zWUJUdEl3Snl1ZURHbmNWdXhzQTRqUQ?oc=5",
         "published": "15 Apr 2026, 05:21 AM",
         "iso_date": "2026-04-15T05:21:29+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVmRtUUdkYkVTZXE0VTB5MDd4VU9saktkU2ZDSG85R1VwZWhfWUpoQlZDVGE5ZlVjMHR3OTNoQ1h6djItU3JpTXBEQ2JOWjB4SE9OY0ZlTDN6TVlkWFVxOU5zWldFUUtYRk5QMTB4ZlZGVWVVYmM1NG9GLV8zSkxweU9DZzItRTBxRUNRSzVxZGtocmNUdUcxb3djZ1ZmR3d2RXJuZ0Ixd09RM19hU2Y1dnNzTDdGRDR3WWJYSlZXQmJ0MWkwX0dmMGNraC1tbW5JX0NwOHJCMnQ0MnV3VFJWbU9MV1F1b2h0VWt6TkNmSzI5WmxfU3VTQUprWEhDN3M2bkZzN3NXY2lTSG1JX3cybVZnS2x4SU5KNXVWdlY3NzZkMEltdWo1TWRMNlJvMDV6dVUyZmk2dWp3SkRBcWNkdHNDUktIRzZkMEZxcnNETWh6NUpHX3ZaWnI5UlVnN2FNOEhLa1JLVHNWVXBjeFp3UWd1VXNpRUpjWjN0Tw?oc=5",
-        "published": "15 Apr 2026, 06:56 AM",
-        "iso_date": "2026-04-15T06:56:14+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -144,16 +134,6 @@
         "category": "Latest"
       },
       {
-        "title": "Non-oil sector drives 3.5 per cent growth",
-        "link": "https://www.gdnonline.com/Details/1381391/Non-oil-sector-drives-35-per-cent-growth",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414004013asihbf_T.jpg?20260416",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Ittihad beat Wahda in extra-time surge",
         "link": "https://www.gdnonline.com/Details/1381538/Ittihad-beat-Wahda-in-extra-time-surge",
         "published": "15 Apr 2026",
@@ -190,16 +170,6 @@
         "iso_date": "2026-04-15T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260415/20260415_011315_0_T.jpg?20260416",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Leeds grab 2-1 victory over Manchester United",
-        "link": "https://www.gdnonline.com/Details/1381419/Leeds-grab-2-1-victory-over-Manchester-United",
-        "published": "14 Apr 2026",
-        "iso_date": "2026-04-14T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414_022133_0_T.jpg?20260416",
         "source": "gdn",
         "category": "Latest"
       }
@@ -459,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-15 23:45:59 UTC"
+  "fetched_at": "2026-04-16 00:33:44 UTC"
 }
