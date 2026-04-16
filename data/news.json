@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 17
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -30,190 +30,9 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
-        "published": "16 Apr 2026, 06:10 AM",
-        "iso_date": "2026-04-16T06:10:29+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
-    "gdn": [
-      {
-        "title": "Peace, security and social justice âare core priorities of Bahrainâ",
-        "link": "https://www.gdnonline.com/Details/1381741/Peace,-security-and-social-justice-âare-core-priorities-of-Bahrainâ",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416233428websitesize(6)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Children grappling with effects of screen exposure",
-        "link": "https://www.gdnonline.com/Details/1381736/Children-grappling-with-effects-of-screen-exposure",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260416_220626_0_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Mule who tried to swallow cocaine before arrest jailed",
-        "link": "https://www.gdnonline.com/Details/1381729/Mule-who-tried-to-swallow-cocaine-before-arrest-jailed",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416225906websitesize(1)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Amendments to draft resolution on post-conflict phase submitted",
-        "link": "https://www.gdnonline.com/Details/1381742/Amendments-to-draft-resolution-on-post-conflict-phase-submitted",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260416_220631_2.jpeg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Phishing scams alert",
-        "link": "https://www.gdnonline.com/Details/1381731/Phishing-scams-alert",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416230553websitesize(2)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Application set to open for Al Salam Bankâs new initiative",
-        "link": "https://www.gdnonline.com/Details/1381743/Application-set-to-open-for-Al-Salam-Bankâs-new-initiative",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Financial sector dominates as All Share Index closes higher",
-        "link": "https://www.gdnonline.com/Details/1381750/Financial-sector-dominates-as-All-Share-Index-closes-higher",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416235057bzuxavk6jjlhzfbjpo7cax3dcy_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB offers loan and credit cards deferral option via digital platform",
-        "link": "https://www.gdnonline.com/Details/1381609/NBB-offers-loan-and-credit-cards-deferral-option-via-digital-platform",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416004502nbb_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Bourse listed firmsâ net profit surges to $2.3bn in 2025",
-        "link": "https://www.gdnonline.com/Details/1381502/Bahrain-Bourse-listed-firmsâ-net-profit-surges-to-$23bn-in-2025",
-        "published": "15 Apr 2026",
-        "iso_date": "2026-04-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260415/20260415050456images_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC fundamentals âremain strong amid temporary regional headwindsâ",
-        "link": "https://www.gdnonline.com/Details/1381504/GCC-fundamentals-âremain-strong-amid-temporary-regional-headwindsâ",
-        "published": "15 Apr 2026",
-        "iso_date": "2026-04-15T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260414/20260414235856websitesize(2)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Fatigued Ronaldo threw up after Al Nassr match, coach says",
-        "link": "https://www.gdnonline.com/Details/1381718/Fatigued-Ronaldo-threw-up-after-Al-Nassr-match,-coach-says",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416155153cr7(4)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Beckham: Inter Miami not rushing to replace head coach",
-        "link": "https://www.gdnonline.com/Details/1381700/Beckham-Inter-Miami-not-rushing-to-replace-head-coach",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416144839db_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Liverpool confirm forward Ekitike ruptured Achilles tendon against PSG",
-        "link": "https://www.gdnonline.com/Details/1381712/Liverpool-confirm-forward-Ekitike-ruptured-Achilles-tendon-against-PSG",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416151035ekiteke_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "FIFA president Gianni Infantino: Iran 'for sure' playing in World Cup",
-        "link": "https://www.gdnonline.com/Details/1381683/FIFA-president-Gianni-Infantino-Iran-for-sure-playing-in-World-Cup",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416095812fif1_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Title up for grabs as Man City and Arsenal prepare for crunch clash",
-        "link": "https://www.gdnonline.com/Details/1381705/Title-up-for-grabs-as-Man-City-and-Arsenal-prepare-for-crunch-clash",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416132959ars1_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Tom Cruise touts 'wild' dark comedy 'Digger' to theatre owners",
-        "link": "https://www.gdnonline.com/Details/1381673/Tom-Cruise-touts-wild-dark-comedy-Digger-to-theatre-owners",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416084332websitesize_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Spielberg teases new alien film 'Disclosure Day' as 'more truth than fiction'",
-        "link": "https://www.gdnonline.com/Details/1381690/Spielberg-teases-new-alien-film-Disclosure-Day-as-more-truth-than-fiction",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416105048websitesize(10)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      }
-    ],
+    "gdn": [],
     "newsofbahrain": [
       {
         "title": "Housing Ministry Extends Expired Finance Certificates by 3 Months",
@@ -469,5 +288,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 21:46:26 UTC"
+  "fetched_at": "2026-04-16 22:18:00 UTC"
 }
