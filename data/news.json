@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNYTR6TTFiZnpIOTduYVpJLS1yX3hwVGVsczZUNmxLWGxJN3A0UGQ3RFZnT1BSOU1WdGk3Sm9ObVVIbFlKRHhLV2NZU2xtTHRvZHpGUFdLWkpXM1ZtZVRjRTBHTWJjY0drQVNSY3IzVmFIWmh0NFA4Wm8tX0JKazBleTU5RHg5MkJfYTBWYXRTRFJpanNXcmRjY251UzFBenFHVnpKbXBqS1JXTGdXRmZlTVc1LXZmZ2puUUs1MEJUdEZ6bnVXQTlHSHZsakVwNFFBM0pEMGFIYmJPU1lKS2FIdEdkWmRHY19RbXVkOWwtcjFlUE9IZm5Ba0NJUFNENmk0dURUVS11WHJqQVIzdlNTVmI0TDAxSUJManc5b21KamV6M0tfRHhsNExudzZBNWxyUDRJMXEyX3ZRazFCaHF4M1N5UjNrWGotSU9ELXln?oc=5",
         "published": "15 Apr 2026, 06:23 PM",
         "iso_date": "2026-04-15T18:23:45+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
+        "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVmRtUUdkYkVTZXE0VTB5MDd4VU9saktkU2ZDSG85R1VwZWhfWUpoQlZDVGE5ZlVjMHR3OTNoQ1h6djItU3JpTXBEQ2JOWjB4SE9OY0ZlTDN6TVlkWFVxOU5zWldFUUtYRk5QMTB4ZlZGVWVVYmM1NG9GLV8zSkxweU9DZzItRTBxRUNRSzVxZGtocmNUdUcxb3djZ1ZmR3d2RXJuZ0Ixd09RM19hU2Y1dnNzTDdGRDR3WWJYSlZXQmJ0MWkwX0dmMGNraC1tbW5JX0NwOHJCMnQ0MnV3VFJWbU9MV1F1b2h0VWt6TkNmSzI5WmxfU3VTQUprWEhDN3M2bkZzN3NXY2lTSG1JX3cybVZnS2x4SU5KNXVWdlY3NzZkMEltdWo1TWRMNlJvMDV6dVUyZmk2dWp3SkRBcWNkdHNDUktIRzZkMEZxcnNETWh6NUpHX3ZaWnI5UlVnN2FNOEhLa1JLVHNWVXBjeFp3UWd1VXNpRUpjWjN0Tw?oc=5",
+        "published": "15 Apr 2026, 06:56 AM",
+        "iso_date": "2026-04-15T06:56:14+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -176,6 +186,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Fake Link Scam",
+        "link": "https://www.newsofbahrain.com/bahrain/130676.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nTv0WEwAht_2026-04-16_1776320926resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Three Arrested Over BD4,700 Theft in Gudaibiya",
+        "link": "https://www.newsofbahrain.com/bahrain/130675.html",
+        "published": "16 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-16T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bdYes0I3Jc_2026-04-16_1776320411resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Strong Signals of Security Unity",
+        "link": "https://www.newsofbahrain.com/bahrain/130674.html",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ruV3eBfMnj_2026-04-16_1776319554resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Hidden Drugs in Parcel",
+        "link": "https://www.newsofbahrain.com/bahrain/130673.html",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7TxnhsVvcf_2026-04-16_1776318967resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Nine Killed in School Shooting in Southern Turkey, Second Attack in Two Days",
         "link": "https://www.newsofbahrain.com/world/130672.html",
         "published": "15 Apr 2026, 09:22 AM",
@@ -191,47 +241,7 @@
         "published": "15 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-15T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NgATaM2HXi_2026-04-15_1776279905resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Justice Minister receives Philippine Ambassador",
-        "link": "https://www.newsofbahrain.com/bahrain/130670.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z3BRSDueL0_2026-04-15_1776279750resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Interior Minister Visits King Fahd Causeway Coast Guard Base",
-        "link": "https://www.newsofbahrain.com/bahrain/130669.html",
-        "published": "15 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-15T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mfeuvNsgaL_2026-04-15_1776279530resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Speaker Meets Ukrainian Parliament Official on Sidelines of IPU Assembly",
-        "link": "https://www.newsofbahrain.com/bahrain/130668.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MyCiIvAB3V_2026-04-15_1776279378resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Speaker Chairs APA Coordination Meeting on Sidelines of IPU Assembly",
-        "link": "https://www.newsofbahrain.com/bahrain/130666.html",
-        "published": "15 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-15T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wGvLnd79EM_2026-04-15_1776279097thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NgATaM2HXi_2026-04-15_1776279905thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-16 05:45:33 UTC"
+  "fetched_at": "2026-04-16 06:39:36 UTC"
 }
