@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -74,22 +74,22 @@
         "category": "Latest"
       },
       {
-        "title": "Finance minister addresses IMF and World Bank over egregious attacks by Iran",
-        "link": "https://www.gdnonline.com/Details/1381805/Finance-minister-addresses-IMF-and-World-Bank-over-egregious-attacks-by-Iran",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417105853gdnwebsitesize(7)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Debate set on tough penalties for illegal financial activities",
         "link": "https://www.gdnonline.com/Details/1381733/Debate-set-on-tough-penalties-for-illegal-financial-activities",
         "published": "17 Apr 2026",
         "iso_date": "2026-04-17T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260416/20260416231057websitesize(4)_T.jpg?20260417",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Phishing scams alert",
+        "link": "https://www.gdnonline.com/Details/1381731/Phishing-scams-alert",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416230553websitesize(2)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -196,52 +196,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Oman Air resumes Bahrain flights starting April 18",
-        "link": "https://www.newsofbahrain.com/world/130800.html",
+        "title": "US Judge Blocks Above-Ground Work on Trump White House Ballroom Amid Legal Battle",
+        "link": "https://www.newsofbahrain.com/world/130810.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HbqkBPLm7g_2026-04-17_1776418230resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aGWbcrEqRo_2026-04-17_1776421469resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Guard of Honor Presented to PM in Qatar",
-        "link": "https://www.newsofbahrain.com/world/130799.html",
+        "title": "Helicopter Crash in Indonesia’s Borneo Kills Eight",
+        "link": "https://www.newsofbahrain.com/world/130809.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Lb2QIKq50j_2026-04-17_1776418155resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LMFqOfrK2Y_2026-04-17_1776421042resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "War Crimes Accused Veteran Ben Roberts-Smith Granted Bail in Australia",
-        "link": "https://www.newsofbahrain.com/world/130798.html",
+        "title": "Prince Harry and Meghan Meet Bondi Shooting Survivors in Australia Visit",
+        "link": "https://www.newsofbahrain.com/world/130808.html",
         "published": "17 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-17T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_35MHtqwBLN_2026-04-17_1776417844resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uSKY2ENlow_2026-04-17_1776420841resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Saudi Arabia Deposits $2B to Boost Pakistan’s Reserves",
-        "link": "https://www.newsofbahrain.com/world/130797.html",
+        "title": "UN Chief Welcomes Israel–Lebanon Ceasefire, Urges Full Respect for Truce",
+        "link": "https://www.newsofbahrain.com/world/130807.html",
         "published": "17 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-17T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fPgVdKCo4q_2026-04-17_1776417782resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x6eZT53Sc7_2026-04-17_1776420309resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Chamber Supports Strategic Push for Sustainable Growth",
-        "link": "https://www.newsofbahrain.com/business/130795.html",
+        "title": "Artemis II Crew Finds Gravity Strange After Moon Voyage",
+        "link": "https://www.newsofbahrain.com/world/130806.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ro0EvlVr8W_2026-04-17_1776417319resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SRn1eYEVqH_2026-04-17_1776420142resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,6 +292,16 @@
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_RD52YPeHcB_2026-04-17_1776409721thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Chamber Supports Strategic Push for Sustainable Growth",
+        "link": "https://www.newsofbahrain.com/business/130795.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ro0EvlVr8W_2026-04-17_1776417319thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 09:33:22 UTC"
+  "fetched_at": "2026-04-17 10:27:35 UTC"
 }
