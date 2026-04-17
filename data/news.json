@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -30,56 +30,86 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOUzJkTXpZYnk5dFhRdUEyYjRHX0NYRFUxYU94RllDX0hFOF9YMGxPdmhLamVqT2lsZ1VMWmN0Q1VncXByVnQ3VkVEWkZfUFBoX25RSWsxRXZ2YzFZelprUERkN2tqQWFwazV6MHZGRklNNUtFTFRBcGk2SV9kTng5Qmg0bjJpbWhSb2lxYVYxLXk4M0tTZWhfY1dSTzNXWUtEM3NEcDlFQjhhYlZ0YjJUaGszc2xqT0FFRElZbTB6Q3BMb29GbDV6TUk2NmVQZGczUjZXYndDQy0wb0dPazlxbFRnY3prX1Y3ZXd4R29KREY4QjBuejBXdGlsMmliM20ySV9lX2k4MHFQSzU3T1l1SmZtRnFiUVVfMXZJUUxQRGZUTi1uTXBpLWtMNUpKZWNSaFd0VjA3aHcwU242M0dXNWYydXdFRnJnX1VjSkZ4Ukk2dFVqZ0kxVDJUaFJHMjhPTk1rdldPWHBQTU9lMHEtWnJLUkktaFdTT2xfeldLT0pFRzJhN0JWLXNkRkQ0cG1TMGZ1RmxXSnhVdmpwU0ZhaThmVGROX1ZPcWww?oc=5",
+        "published": "16 Apr 2026, 04:03 PM",
+        "iso_date": "2026-04-16T16:03:22+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "Drug suspect arrested with narcotics worth more than BD36,000 seized",
-        "link": "https://www.gdnonline.com/Details/1381698/Drug-suspect-arrested-with-narcotics-worth-more-than-BD36,000-seized",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
+        "title": "Peace, security and social justice âare core priorities of Bahrainâ",
+        "link": "https://www.gdnonline.com/Details/1381741/Peace,-security-and-social-justice-âare-core-priorities-of-Bahrainâ",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416123126poli_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416233428websitesize(6)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "BDF: No interceptions in the last 72 hours",
-        "link": "https://www.gdnonline.com/Details/1381697/BDF-No-interceptions-in-the-last-72-hours",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
+        "title": "Children grappling with effects of screen exposure",
+        "link": "https://www.gdnonline.com/Details/1381736/Children-grappling-with-effects-of-screen-exposure",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416122908bdf12(2)_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260416_220626_0_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Deep-rooted relations with Kuwait in focus",
-        "link": "https://www.gdnonline.com/Details/1381641/Deep-rooted-relations-with-Kuwait-in-focus",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
+        "title": "Mule who tried to swallow cocaine before arrest jailed",
+        "link": "https://www.gdnonline.com/Details/1381729/Mule-who-tried-to-swallow-cocaine-before-arrest-jailed",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416_005350_1.jpeg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416225906websitesize(1)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "SIO outlines pension benefits and contributions to funds",
-        "link": "https://www.gdnonline.com/Details/1381601/SIO-outlines-pension-benefits-and-contributions-to-funds-",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
+        "title": "Amendments to draft resolution on post-conflict phase submitted",
+        "link": "https://www.gdnonline.com/Details/1381742/Amendments-to-draft-resolution-on-post-conflict-phase-submitted",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416110934bahrainidinars9_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260416_220631_2.jpeg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Top landmarks set for modern revamp with touch of heritage",
-        "link": "https://www.gdnonline.com/Details/1381599/Top-landmarks-set-for-modern-revamp-with-touch-of-heritage",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
+        "title": "Phishing scams alert",
+        "link": "https://www.gdnonline.com/Details/1381731/Phishing-scams-alert",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260415_224501_0.jfif?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416230553websitesize(2)_T.jpg?20260417",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Financial sector dominates as All Share Index closes higher",
+        "link": "https://www.gdnonline.com/Details/1381750/Financial-sector-dominates-as-All-Share-Index-closes-higher",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416235057bzuxavk6jjlhzfbjpo7cax3dcy_T.jpg?20260417",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Application set to open for Al Salam Bankâs new initiative",
+        "link": "https://www.gdnonline.com/Details/1381743/Application-set-to-open-for-Al-Salam-Bankâs-new-initiative",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "",
         "source": "gdn",
         "category": "Latest"
       },
@@ -89,7 +119,27 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416004502nbb_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416004502nbb_T.jpg?20260417",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Frioui goal propels Muharraq past Hidd",
+        "link": "https://www.gdnonline.com/Details/1381765/Frioui-goal-propels-Muharraq-past-Hidd",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417_014509_2_T.jpg?20260417",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Forest edge 10-man Porto to secure Villa showdown",
+        "link": "https://www.gdnonline.com/Details/1381766/Forest-edge-10-man-Porto-to-secure-Villa-showdown",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417014929aewfcasc_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +149,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416155153cr7(4)_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416155153cr7(4)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +159,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416144839db_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416144839db_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,27 +169,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416151035ekiteke_T.jpg?20260416",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "FIFA president Gianni Infantino: Iran 'for sure' playing in World Cup",
-        "link": "https://www.gdnonline.com/Details/1381683/FIFA-president-Gianni-Infantino-Iran-for-sure-playing-in-World-Cup",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416095812fif1_T.jpg?20260416",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Title up for grabs as Man City and Arsenal prepare for crunch clash",
-        "link": "https://www.gdnonline.com/Details/1381705/Title-up-for-grabs-as-Man-City-and-Arsenal-prepare-for-crunch-clash",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416132959ars1_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416151035ekiteke_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +179,7 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416084332websitesize_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416084332websitesize_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,19 +189,89 @@
         "published": "16 Apr 2026",
         "iso_date": "2026-04-16T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416105048websitesize(10)_T.jpg?20260416",
+        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416105048websitesize(10)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
+        "title": "Traditional Gulf Dance Finds a New Voice",
+        "link": "https://www.newsofbahrain.com/bahrain/130788.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_I6PEOtiJLf_2026-04-17_1776414161resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Player, legend, owner: Lionel Messi Buys Catalan Club Cornella",
+        "link": "https://www.newsofbahrain.com/world/130786.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SRmHNWuKp9_2026-04-17_1776413613resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Broadening representation in global arbitration sector",
+        "link": "https://www.newsofbahrain.com/bahrain/130785.html",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_s9k7Kcy0Z2_2026-04-17_1776413511resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UoB Board Reviews Major Academic and Investment Projects",
+        "link": "https://www.newsofbahrain.com/bahrain/130784.html",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Df6KlEFeWS_2026-04-17_1776413085resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Key Bills Face Shura Council Decision",
+        "link": "https://www.newsofbahrain.com/bahrain/130783.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZkIqshVl3_2026-04-17_1776412568resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Private Firms To Join Mosquito Control Drive",
+        "link": "https://www.newsofbahrain.com/bahrain/130778.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RD52YPeHcB_2026-04-17_1776409721thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pope Leo Slams War Spending, Warns World ‘Ruled by Tyrants",
+        "link": "https://www.newsofbahrain.com/world/130782.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e3M1Csl8bB_2026-04-17_1776411455thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "FIFA Faces Backlash Over Sky-High Transit Fares for World Cup Matches",
         "link": "https://www.newsofbahrain.com/world/130781.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dZW8xhyuPJ_2026-04-17_1776411126resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dZW8xhyuPJ_2026-04-17_1776411126thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -181,77 +281,7 @@
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7gGDhAexYy_2026-04-17_1776410264resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Islamabad on High Alert Ahead of Possible US–Iran Talks",
-        "link": "https://www.newsofbahrain.com/world/130779.html",
-        "published": "17 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i6SkCje90F_2026-04-17_1776410177resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Private Firms To Join Mosquito Control Drive",
-        "link": "https://www.newsofbahrain.com/bahrain/130778.html",
-        "published": "17 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RD52YPeHcB_2026-04-17_1776409721resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Philippines Remittances Hit 9-Month Low; Middle East Tensions May Impact 2026 Flows",
-        "link": "https://www.newsofbahrain.com/world/130777.html",
-        "published": "17 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MNtZmSP9Rl_2026-04-17_1776408952resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tenants Face Double Rent Burden",
-        "link": "https://www.newsofbahrain.com/bahrain/130774.html",
-        "published": "17 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_evAc63f5mQ_2026-04-17_1776408653thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Drug bust nets over 5kg",
-        "link": "https://www.newsofbahrain.com/bahrain/130773.html",
-        "published": "17 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BV5tugG784_2026-04-17_1776407783thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Emergency Motion Filed",
-        "link": "https://www.newsofbahrain.com/bahrain/130772.html",
-        "published": "17 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nb42mU6csq_2026-04-17_1776407130thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Housing Ministry Extends Expired Finance Certificates by 3 Months",
-        "link": "https://www.newsofbahrain.com/bahrain/130771.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rf6DkYxbzW_2026-04-16_1776365376thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7gGDhAexYy_2026-04-17_1776410264thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -419,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 07:35:08 UTC"
+  "fetched_at": "2026-04-17 08:35:45 UTC"
 }
