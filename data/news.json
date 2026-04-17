@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjF6QUJsbTY3Z0tkMnBfa0t4bWo4Q1N3WC1qN2FRY2pod0Q0NnVNdTlDZUNiVmJPUmpvT0RSMXhhNzZNN200Q0JIR1FsZm1mZjFQNV9jZFNLMm1hbmtpbkQ5WjJyWlgtUkE2XzdMam5vYWNGUkZ4RVdId1VKbXhJclVqQldrZVUwV1VHaVVPR0luT0dVU29qTGRtLUtQVjVsb2JZa1gwV05fZ1NMYVB1RTBYanRHcG40Y1ozbTBEbTVMQQ?oc=5",
         "published": "16 Apr 2026, 02:48 PM",
         "iso_date": "2026-04-16T14:48:41+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOUzJkTXpZYnk5dFhRdUEyYjRHX0NYRFUxYU94RllDX0hFOF9YMGxPdmhLamVqT2lsZ1VMWmN0Q1VncXByVnQ3VkVEWkZfUFBoX25RSWsxRXZ2YzFZelprUERkN2tqQWFwazV6MHZGRklNNUtFTFRBcGk2SV9kTng5Qmg0bjJpbWhSb2lxYVYxLXk4M0tTZWhfY1dSTzNXWUtEM3NEcDlFQjhhYlZ0YjJUaGszc2xqT0FFRElZbTB6Q3BMb29GbDV6TUk2NmVQZGczUjZXYndDQy0wb0dPazlxbFRnY3prX1Y3ZXd4R29KREY4QjBuejBXdGlsMmliM20ySV9lX2k4MHFQSzU3T1l1SmZtRnFiUVVfMXZJUUxQRGZUTi1uTXBpLWtMNUpKZWNSaFd0VjA3aHcwU242M0dXNWYydXdFRnJnX1VjSkZ4Ukk2dFVqZ0kxVDJUaFJHMjhPTk1rdldPWHBQTU9lMHEtWnJLUkktaFdTT2xfeldLT0pFRzJhN0JWLXNkRkQ0cG1TMGZ1RmxXSnhVdmpwU0ZhaThmVGROX1ZPcWww?oc=5",
-        "published": "16 Apr 2026, 04:03 PM",
-        "iso_date": "2026-04-16T16:03:22+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,52 +196,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Dubai to Launch World’s First Flying Taxi Station",
-        "link": "https://www.newsofbahrain.com/world/130812.html",
+        "title": "Longtime Messi friend Hoyos unveiled as Inter Miami coach",
+        "link": "https://www.newsofbahrain.com/sports/130821.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z62K3t9IQH_2026-04-17_1776423678resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5XLqM8cufP_2026-04-17_1776426049resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE Allocates Dh100 Million to Strengthen Non-Profit Sector",
-        "link": "https://www.newsofbahrain.com/world/130811.html",
+        "title": "Suu Kyi Jail Term Reduced as Myanmar Grants Mass Amnesty",
+        "link": "https://www.newsofbahrain.com/world/130820.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GBQR4T62Cv_2026-04-17_1776422778resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7qkpaIR14T_2026-04-17_1776425758resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "US Judge Blocks Above-Ground Work on Trump White House Ballroom Amid Legal Battle",
-        "link": "https://www.newsofbahrain.com/world/130810.html",
+        "title": "Kane lauds Diaz ‘moment of magic’ after Bayern knock out Real",
+        "link": "https://www.newsofbahrain.com/bahrain/130819.html",
         "published": "17 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-17T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aGWbcrEqRo_2026-04-17_1776421469resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZksSXGxduO_2026-04-17_1776425610resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Helicopter Crash in Indonesia’s Borneo Kills Eight",
-        "link": "https://www.newsofbahrain.com/world/130809.html",
+        "title": "South Korea Unveils Bid to Bring Back Formula One",
+        "link": "https://www.newsofbahrain.com/world/130818.html",
         "published": "17 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-17T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LMFqOfrK2Y_2026-04-17_1776421042resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_APaGq8DX17_2026-04-17_1776425465resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Prince Harry and Meghan Meet Bondi Shooting Survivors in Australia Visit",
-        "link": "https://www.newsofbahrain.com/world/130808.html",
+        "title": "Google Says AI Helped Block 8.2 Billion Harmful Ads in 2025",
+        "link": "https://www.newsofbahrain.com/world/130817.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uSKY2ENlow_2026-04-17_1776420841resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_k2LwED8ho9_2026-04-17_1776425443resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,12 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "Private Firms To Join Mosquito Control Drive",
-        "link": "https://www.newsofbahrain.com/bahrain/130778.html",
+        "title": "Finland to Introduce Citizenship Test Under New Immigration Rules",
+        "link": "https://www.newsofbahrain.com/world/130815.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RD52YPeHcB_2026-04-17_1776409721thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0cNvgTqGjw_2026-04-17_1776425016thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 11:20:59 UTC"
+  "fetched_at": "2026-04-17 11:47:32 UTC"
 }
