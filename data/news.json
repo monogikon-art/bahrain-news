@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,26 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjF6QUJsbTY3Z0tkMnBfa0t4bWo4Q1N3WC1qN2FRY2pod0Q0NnVNdTlDZUNiVmJPUmpvT0RSMXhhNzZNN200Q0JIR1FsZm1mZjFQNV9jZFNLMm1hbmtpbkQ5WjJyWlgtUkE2XzdMam5vYWNGUkZ4RVdId1VKbXhJclVqQldrZVUwV1VHaVVPR0luT0dVU29qTGRtLUtQVjVsb2JZa1gwV05fZ1NMYVB1RTBYanRHcG40Y1ozbTBEbTVMQQ?oc=5",
         "published": "16 Apr 2026, 02:48 PM",
         "iso_date": "2026-04-16T14:48:41+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUUlqOC1BMUZocWdUMTN6UllGQUJ0WERfNFlfTFhZUjZtNElEb3FETHZXd1hTczl5Z0h4QXRTcUtlNXRCTmNCYXI4NXdJaTFqT2ppd0JNUzF3bGtpbDZBelhMRlFNdDNxWWR2X0dqMXp6eTMxNlhHM01oRUZTTHhtbDUyaWtYbTExVHZ4NHRsQXFOdkJKMzk0WVExS1NhNnI3bGIwVkxCZURDQUhSeUVvcE5lSzY2ZXV6V1IyQ0h2MXFpM3QyS2wwLXFNN09oTzVjSDZJY2lzZlZSc2FyU2F3U3dMRGNNNllSZzI2MFNFNkFaRmxrMEJha2cyRnV2UmxHODBtZTB4N3A4QVlBMjQwYkNsWWFzQ3J5Z1RUX01Da2ptNGZlcDNQWlpBMlliU2xHcW8zYVhZR0g0WWUyREN4MDFLdnJFdW4wUUEyU0JqTmNzbzV6T2d1M1VpZHhIVFJQVFEzSlk3UnN4T2xPaEU2cUZ2ZzB5blJSVjlxZDBlTnpxaFg4dVVUU3h6Tm9GQQ?oc=5",
+        "published": "16 Apr 2026, 06:10 AM",
+        "iso_date": "2026-04-16T06:10:29+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOUzJkTXpZYnk5dFhRdUEyYjRHX0NYRFUxYU94RllDX0hFOF9YMGxPdmhLamVqT2lsZ1VMWmN0Q1VncXByVnQ3VkVEWkZfUFBoX25RSWsxRXZ2YzFZelprUERkN2tqQWFwazV6MHZGRklNNUtFTFRBcGk2SV9kTng5Qmg0bjJpbWhSb2lxYVYxLXk4M0tTZWhfY1dSTzNXWUtEM3NEcDlFQjhhYlZ0YjJUaGszc2xqT0FFRElZbTB6Q3BMb29GbDV6TUk2NmVQZGczUjZXYndDQy0wb0dPazlxbFRnY3prX1Y3ZXd4R29KREY4QjBuejBXdGlsMmliM20ySV9lX2k4MHFQSzU3T1l1SmZtRnFiUVVfMXZJUUxQRGZUTi1uTXBpLWtMNUpKZWNSaFd0VjA3aHcwU242M0dXNWYydXdFRnJnX1VjSkZ4Ukk2dFVqZ0kxVDJUaFJHMjhPTk1rdldPWHBQTU9lMHEtWnJLUkktaFdTT2xfeldLT0pFRzJhN0JWLXNkRkQ0cG1TMGZ1RmxXSnhVdmpwU0ZhaThmVGROX1ZPcWww?oc=5",
+        "published": "16 Apr 2026, 04:03 PM",
+        "iso_date": "2026-04-16T16:03:22+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -419,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 01:35:47 UTC"
+  "fetched_at": "2026-04-17 03:06:04 UTC"
 }
