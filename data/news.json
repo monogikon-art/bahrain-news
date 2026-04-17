@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -54,6 +54,16 @@
         "category": "Latest"
       },
       {
+        "title": "WATCH: Finance minister addresses IMF and World Bank over egregious attacks by Iran",
+        "link": "https://www.gdnonline.com/Details/1381805/WATCH-Finance-minister-addresses-IMF-and-World-Bank-over-egregious-attacks-by-Iran",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417105853gdnwebsitesize(7)_T.jpg?20260417",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Online classes push childrenâs screen use to new highs",
         "link": "https://www.gdnonline.com/Details/1381760/Online-classes-push-childrenâs-screen-use-to-new-highs",
         "published": "17 Apr 2026",
@@ -80,16 +90,6 @@
         "iso_date": "2026-04-17T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260416/20260416231057websitesize(4)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Phishing scams alert",
-        "link": "https://www.gdnonline.com/Details/1381731/Phishing-scams-alert",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416230553websitesize(2)_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -174,6 +174,16 @@
         "category": "Latest"
       },
       {
+        "title": "Robert Downey Jr. and Chris Evans unite for Marvel's 'Doomsday'",
+        "link": "https://www.gdnonline.com/Details/1381808/Robert-Downey-Jr-and-Chris-Evans-unite-for-Marvels-Doomsday",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417_114152_0_T.jpg?20260417",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Tom Cruise touts 'wild' dark comedy 'Digger' to theatre owners",
         "link": "https://www.gdnonline.com/Details/1381673/Tom-Cruise-touts-wild-dark-comedy-Digger-to-theatre-owners",
         "published": "16 Apr 2026",
@@ -196,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "UAE Allocates Dh100 Million to Strengthen Non-Profit Sector",
+        "link": "https://www.newsofbahrain.com/world/130811.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GBQR4T62Cv_2026-04-17_1776422778resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "US Judge Blocks Above-Ground Work on Trump White House Ballroom Amid Legal Battle",
         "link": "https://www.newsofbahrain.com/world/130810.html",
         "published": "17 Apr 2026, 09:22 AM",
@@ -208,8 +228,8 @@
       {
         "title": "Helicopter Crash in Indonesia’s Borneo Kills Eight",
         "link": "https://www.newsofbahrain.com/world/130809.html",
-        "published": "17 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-17T09:22:55+00:00",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_LMFqOfrK2Y_2026-04-17_1776421042resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,20 +248,10 @@
       {
         "title": "UN Chief Welcomes Israel–Lebanon Ceasefire, Urges Full Respect for Truce",
         "link": "https://www.newsofbahrain.com/world/130807.html",
-        "published": "17 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x6eZT53Sc7_2026-04-17_1776420309resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Artemis II Crew Finds Gravity Strange After Moon Voyage",
-        "link": "https://www.newsofbahrain.com/world/130806.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SRn1eYEVqH_2026-04-17_1776420142resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x6eZT53Sc7_2026-04-17_1776420309resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 10:27:35 UTC"
+  "fetched_at": "2026-04-17 10:50:28 UTC"
 }
