@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 16
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -21,168 +21,7 @@
   },
   "articles": {
     "bna": [],
-    "gdn": [
-      {
-        "title": "Peace, security and social justice âare core priorities of Bahrainâ",
-        "link": "https://www.gdnonline.com/Details/1381741/Peace,-security-and-social-justice-âare-core-priorities-of-Bahrainâ",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416233428websitesize(6)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "WATCH: Finance minister addresses IMF and World Bank over egregious attacks by Iran",
-        "link": "https://www.gdnonline.com/Details/1381805/WATCH-Finance-minister-addresses-IMF-and-World-Bank-over-egregious-attacks-by-Iran",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417105853gdnwebsitesize(7)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Online classes push childrenâs screen use to new highs",
-        "link": "https://www.gdnonline.com/Details/1381760/Online-classes-push-childrenâs-screen-use-to-new-highs",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417_010946_0_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Mule who tried to swallow cocaine before arrest jailed",
-        "link": "https://www.gdnonline.com/Details/1381729/Mule-who-tried-to-swallow-cocaine-before-arrest-jailed",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416225906websitesize(1)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Debate set on tough penalties for illegal financial activities",
-        "link": "https://www.gdnonline.com/Details/1381733/Debate-set-on-tough-penalties-for-illegal-financial-activities",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416231057websitesize(4)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Financial sector dominates as All Share Index closes higher",
-        "link": "https://www.gdnonline.com/Details/1381750/Financial-sector-dominates-as-All-Share-Index-closes-higher",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416235057bzuxavk6jjlhzfbjpo7cax3dcy_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Application set to open for Al Salam Bankâs new initiative",
-        "link": "https://www.gdnonline.com/Details/1381743/Application-set-to-open-for-Al-Salam-Bankâs-new-initiative",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB offers loan and credit cards deferral option via digital platform",
-        "link": "https://www.gdnonline.com/Details/1381609/NBB-offers-loan-and-credit-cards-deferral-option-via-digital-platform",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416004502nbb_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Frioui goal propels Muharraq past Hidd",
-        "link": "https://www.gdnonline.com/Details/1381765/Frioui-goal-propels-Muharraq-past-Hidd",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417_014509_2_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Man City need win over Arsenal or title hopes are over says Guardiola",
-        "link": "https://www.gdnonline.com/Details/1381824/Man-City-need-win-over-Arsenal-or-title-hopes-are-over-says-Guardiola",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417170216mc1_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Forest edge 10-man Porto to secure Villa showdown",
-        "link": "https://www.gdnonline.com/Details/1381766/Forest-edge-10-man-Porto-to-secure-Villa-showdown",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417014929aewfcasc_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Fatigued Ronaldo threw up after Al Nassr match, coach says",
-        "link": "https://www.gdnonline.com/Details/1381718/Fatigued-Ronaldo-threw-up-after-Al-Nassr-match,-coach-says",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416155153cr7(4)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Beckham: Inter Miami not rushing to replace head coach",
-        "link": "https://www.gdnonline.com/Details/1381700/Beckham-Inter-Miami-not-rushing-to-replace-head-coach",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416144839db_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Robert Downey Jr. and Chris Evans unite for Marvel's 'Doomsday'",
-        "link": "https://www.gdnonline.com/Details/1381808/Robert-Downey-Jr-and-Chris-Evans-unite-for-Marvels-Doomsday",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417_114152_0_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Tom Cruise touts 'wild' dark comedy 'Digger' to theatre owners",
-        "link": "https://www.gdnonline.com/Details/1381673/Tom-Cruise-touts-wild-dark-comedy-Digger-to-theatre-owners",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416084332websitesize_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Spielberg teases new alien film 'Disclosure Day' as 'more truth than fiction'",
-        "link": "https://www.gdnonline.com/Details/1381690/Spielberg-teases-new-alien-film-Disclosure-Day-as-more-truth-than-fiction",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416105048websitesize(10)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      }
-    ],
+    "gdn": [],
     "newsofbahrain": [
       {
         "title": "Strait of Hormuz Reopens, But With Conditions",
@@ -448,5 +287,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 16:21:25 UTC"
+  "fetched_at": "2026-04-17 16:47:42 UTC"
 }
