@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOUzJkTXpZYnk5dFhRdUEyYjRHX0NYRFUxYU94RllDX0hFOF9YMGxPdmhLamVqT2lsZ1VMWmN0Q1VncXByVnQ3VkVEWkZfUFBoX25RSWsxRXZ2YzFZelprUERkN2tqQWFwazV6MHZGRklNNUtFTFRBcGk2SV9kTng5Qmg0bjJpbWhSb2lxYVYxLXk4M0tTZWhfY1dSTzNXWUtEM3NEcDlFQjhhYlZ0YjJUaGszc2xqT0FFRElZbTB6Q3BMb29GbDV6TUk2NmVQZGczUjZXYndDQy0wb0dPazlxbFRnY3prX1Y3ZXd4R29KREY4QjBuejBXdGlsMmliM20ySV9lX2k4MHFQSzU3T1l1SmZtRnFiUVVfMXZJUUxQRGZUTi1uTXBpLWtMNUpKZWNSaFd0VjA3aHcwU242M0dXNWYydXdFRnJnX1VjSkZ4Ukk2dFVqZ0kxVDJUaFJHMjhPTk1rdldPWHBQTU9lMHEtWnJLUkktaFdTT2xfeldLT0pFRzJhN0JWLXNkRkQ0cG1TMGZ1RmxXSnhVdmpwU0ZhaThmVGROX1ZPcWww?oc=5",
+        "published": "16 Apr 2026, 04:03 PM",
+        "iso_date": "2026-04-16T16:03:22+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain puts officer on trial after 'assaulted' detainee dies in custody",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjF6QUJsbTY3Z0tkMnBfa0t4bWo4Q1N3WC1qN2FRY2pod0Q0NnVNdTlDZUNiVmJPUmpvT0RSMXhhNzZNN200Q0JIR1FsZm1mZjFQNV9jZFNLMm1hbmtpbkQ5WjJyWlgtUkE2XzdMam5vYWNGUkZ4RVdId1VKbXhJclVqQldrZVUwV1VHaVVPR0luT0dVU29qTGRtLUtQVjVsb2JZa1gwV05fZ1NMYVB1RTBYanRHcG40Y1ozbTBEbTVMQQ?oc=5",
@@ -196,52 +206,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "UAE Deepens Global Financial Ties at IMF-World Bank Meetings",
+        "link": "https://www.newsofbahrain.com/world/130844.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Cul7joOiGn_2026-04-17_1776429843resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tunnel Escape in Naples: Armed Robbers Hold 25 Hostage in Bank Heist",
+        "link": "https://www.newsofbahrain.com/world/130843.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HVkCb4K8N5_2026-04-17_1776429558resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Venezuela frees dozens of political prisoners",
+        "link": "https://www.newsofbahrain.com/world/130842.html",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ndjRFIfLEY_2026-04-17_1776428469resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Meta Ends Contract with Sama, Over 1,100 Jobs Lost Amid Worker Complaints",
+        "link": "https://www.newsofbahrain.com/world/130838.html",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zUHNJxK0Ck_2026-04-17_1776428303resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Philippines forces kill 10 Islamist militants in arrest gunfight",
         "link": "https://www.newsofbahrain.com/world/130837.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_EclOyrknU1_2026-04-17_1776428097resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Myanmar’s ex-president Win Myint freed after pardon of post-coup convictions",
-        "link": "https://www.newsofbahrain.com/world/130836.html",
-        "published": "17 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Nw6fE85tyx_2026-04-17_1776427965resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Crypto Kidnappings Rise in France, Targeting Wealthy Investors",
-        "link": "https://www.newsofbahrain.com/world/130835.html",
-        "published": "17 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZMHxtnBlz9_2026-04-17_1776427809resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Starmer Faces Backlash Over Mandelson Diplomatic Nomination",
-        "link": "https://www.newsofbahrain.com/world/130834.html",
-        "published": "17 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HZIcr9O2lR_2026-04-17_1776427772resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Taiwan reaches WHO Gold Tier in Hepatitis C fight",
-        "link": "https://www.newsofbahrain.com/world/130833.html",
-        "published": "17 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oBax9kKWhw_2026-04-17_1776427627resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 12:21:44 UTC"
+  "fetched_at": "2026-04-17 12:49:03 UTC"
 }
