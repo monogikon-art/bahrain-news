@@ -206,6 +206,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Dubai to Launch World’s First Flying Taxi Station",
+        "link": "https://www.newsofbahrain.com/world/130812.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z62K3t9IQH_2026-04-17_1776423678resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "UAE Allocates Dh100 Million to Strengthen Non-Profit Sector",
         "link": "https://www.newsofbahrain.com/world/130811.html",
         "published": "17 Apr 2026, 09:22 AM",
@@ -218,8 +228,8 @@
       {
         "title": "US Judge Blocks Above-Ground Work on Trump White House Ballroom Amid Legal Battle",
         "link": "https://www.newsofbahrain.com/world/130810.html",
-        "published": "17 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-17T09:22:55+00:00",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_aGWbcrEqRo_2026-04-17_1776421469resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +248,10 @@
       {
         "title": "Prince Harry and Meghan Meet Bondi Shooting Survivors in Australia Visit",
         "link": "https://www.newsofbahrain.com/world/130808.html",
-        "published": "17 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-17T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uSKY2ENlow_2026-04-17_1776420841resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN Chief Welcomes Israel–Lebanon Ceasefire, Urges Full Respect for Truce",
-        "link": "https://www.newsofbahrain.com/world/130807.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x6eZT53Sc7_2026-04-17_1776420309resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uSKY2ENlow_2026-04-17_1776420841resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 10:50:28 UTC"
+  "fetched_at": "2026-04-17 11:20:59 UTC"
 }
