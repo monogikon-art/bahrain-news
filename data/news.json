@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,7 +20,18 @@
     }
   },
   "articles": {
-    "bna": [],
+    "bna": [
+      {
+        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZUpyS1ZDdVRLUDc2UjNPTVl5aWZxWmhrazNuZ1F2UVNQeTEyeTdZUWNzcjJrV3lOTElSTlJEa0FPRTFKLWRsdnBFTkxXc19nZk1hWlJ0OWJsbnFkR1g4aFBDQURQR2ptQkpUaEtsd2ZDa3ZjM1Y1VVFQaDI4cDNiOEhvRm5tb3ZWcHI5RG1JRldoVi1FYXk2T3R6YVFsbVVmX0hfMFFjd3NJUHNJeE1GOUpscjAycE82aHlScHJqOFhRQ2c0aVFELVdtMzc2QlFzT0dpWHFWeDhsUURQVlp3Y1cwdHZ6OHJ4b0hlcnAzUVNaNVN4M0ZXMjJtSkRsVzN1OEc1LQ?oc=5",
+        "published": "17 Apr 2026, 09:51 AM",
+        "iso_date": "2026-04-17T09:51:16+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
     "gdn": [
       {
         "title": "Peace, security and social justice âare core priorities of Bahrainâ",
@@ -448,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 20:15:48 UTC"
+  "fetched_at": "2026-04-17 20:46:40 UTC"
 }
