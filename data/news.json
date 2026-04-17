@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjF6QUJsbTY3Z0tkMnBfa0t4bWo4Q1N3WC1qN2FRY2pod0Q0NnVNdTlDZUNiVmJPUmpvT0RSMXhhNzZNN200Q0JIR1FsZm1mZjFQNV9jZFNLMm1hbmtpbkQ5WjJyWlgtUkE2XzdMam5vYWNGUkZ4RVdId1VKbXhJclVqQldrZVUwV1VHaVVPR0luT0dVU29qTGRtLUtQVjVsb2JZa1gwV05fZ1NMYVB1RTBYanRHcG40Y1ozbTBEbTVMQQ?oc=5",
         "published": "16 Apr 2026, 02:48 PM",
         "iso_date": "2026-04-16T14:48:41+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOUzJkTXpZYnk5dFhRdUEyYjRHX0NYRFUxYU94RllDX0hFOF9YMGxPdmhLamVqT2lsZ1VMWmN0Q1VncXByVnQ3VkVEWkZfUFBoX25RSWsxRXZ2YzFZelprUERkN2tqQWFwazV6MHZGRklNNUtFTFRBcGk2SV9kTng5Qmg0bjJpbWhSb2lxYVYxLXk4M0tTZWhfY1dSTzNXWUtEM3NEcDlFQjhhYlZ0YjJUaGszc2xqT0FFRElZbTB6Q3BMb29GbDV6TUk2NmVQZGczUjZXYndDQy0wb0dPazlxbFRnY3prX1Y3ZXd4R29KREY4QjBuejBXdGlsMmliM20ySV9lX2k4MHFQSzU3T1l1SmZtRnFiUVVfMXZJUUxQRGZUTi1uTXBpLWtMNUpKZWNSaFd0VjA3aHcwU242M0dXNWYydXdFRnJnX1VjSkZ4Ukk2dFVqZ0kxVDJUaFJHMjhPTk1rdldPWHBQTU9lMHEtWnJLUkktaFdTT2xfeldLT0pFRzJhN0JWLXNkRkQ0cG1TMGZ1RmxXSnhVdmpwU0ZhaThmVGROX1ZPcWww?oc=5",
-        "published": "16 Apr 2026, 04:03 PM",
-        "iso_date": "2026-04-16T16:03:22+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -176,12 +166,82 @@
     ],
     "newsofbahrain": [
       {
+        "title": "FIFA Faces Backlash Over Sky-High Transit Fares for World Cup Matches",
+        "link": "https://www.newsofbahrain.com/world/130781.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dZW8xhyuPJ_2026-04-17_1776411126resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Cuba ‘ready’ for possible US attack: president",
+        "link": "https://www.newsofbahrain.com/world/130780.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7gGDhAexYy_2026-04-17_1776410264resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Islamabad on High Alert Ahead of Possible US–Iran Talks",
+        "link": "https://www.newsofbahrain.com/world/130779.html",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i6SkCje90F_2026-04-17_1776410177resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Private Firms To Join Mosquito Control Drive",
+        "link": "https://www.newsofbahrain.com/bahrain/130778.html",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RD52YPeHcB_2026-04-17_1776409721resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Philippines Remittances Hit 9-Month Low; Middle East Tensions May Impact 2026 Flows",
+        "link": "https://www.newsofbahrain.com/world/130777.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MNtZmSP9Rl_2026-04-17_1776408952resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tenants Face Double Rent Burden",
+        "link": "https://www.newsofbahrain.com/bahrain/130774.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_evAc63f5mQ_2026-04-17_1776408653thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Drug bust nets over 5kg",
+        "link": "https://www.newsofbahrain.com/bahrain/130773.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BV5tugG784_2026-04-17_1776407783thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Emergency Motion Filed",
         "link": "https://www.newsofbahrain.com/bahrain/130772.html",
         "published": "17 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nb42mU6csq_2026-04-17_1776407130resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nb42mU6csq_2026-04-17_1776407130thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -191,77 +251,7 @@
         "published": "16 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-16T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rf6DkYxbzW_2026-04-16_1776365376resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "“Sheem Al Khair” Team Brings National Values to Kindergarten Classrooms",
-        "link": "https://www.newsofbahrain.com/bahrain/130770.html",
-        "published": "16 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t57LymoTrC_2026-04-16_1776362086resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HH Shaikh Nasser bin Hamad wins Victorious Ultimate Endurance Challenge",
-        "link": "https://www.newsofbahrain.com/bahrain/130769.html",
-        "published": "16 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-16T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4DBKJhkIlY_2026-04-16_1776361910resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Police Investigate Arson Attacks in London",
-        "link": "https://www.newsofbahrain.com/world/130768.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BsguARUnhT_2026-04-16_1776361691resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Interior Minister receives Italian Ambassador",
-        "link": "https://www.newsofbahrain.com/bahrain/130761.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RJCjMo9HTx_2026-04-16_1776359735thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Signals Diplomatic Push After Israel-Lebanon Ceasefire Deal",
-        "link": "https://www.newsofbahrain.com/world/130767.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_apwfxiQ5b6_2026-04-16_1776361369thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Israeli strike in south Lebanon kills 7, wounds 33: health ministry",
-        "link": "https://www.newsofbahrain.com/world/130766.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0NUXOD2FZW_2026-04-16_1776361211thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man Dies After Being Pulled Into MRI Machine, Clinic Faces Legal Action",
-        "link": "https://www.newsofbahrain.com/world/130765.html",
-        "published": "16 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-16T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_T7kyMJZ2be_2026-04-16_1776360757thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rf6DkYxbzW_2026-04-16_1776365376thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 06:39:48 UTC"
+  "fetched_at": "2026-04-17 07:35:08 UTC"
 }
