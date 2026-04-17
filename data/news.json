@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVmRtUUdkYkVTZXE0VTB5MDd4VU9saktkU2ZDSG85R1VwZWhfWUpoQlZDVGE5ZlVjMHR3OTNoQ1h6djItU3JpTXBEQ2JOWjB4SE9OY0ZlTDN6TVlkWFVxOU5zWldFUUtYRk5QMTB4ZlZGVWVVYmM1NG9GLV8zSkxweU9DZzItRTBxRUNRSzVxZGtocmNUdUcxb3djZ1ZmR3d2RXJuZ0Ixd09RM19hU2Y1dnNzTDdGRDR3WWJYSlZXQmJ0MWkwX0dmMGNraC1tbW5JX0NwOHJCMnQ0MnV3VFJWbU9MV1F1b2h0VWt6TkNmSzI5WmxfU3VTQUprWEhDN3M2bkZzN3NXY2lTSG1JX3cybVZnS2x4SU5KNXVWdlY3NzZkMEltdWo1TWRMNlJvMDV6dVUyZmk2dWp3SkRBcWNkdHNDUktIRzZkMEZxcnNETWh6NUpHX3ZaWnI5UlVnN2FNOEhLa1JLVHNWVXBjeFp3UWd1VXNpRUpjWjN0Tw?oc=5",
         "published": "17 Apr 2026, 07:07 AM",
         "iso_date": "2026-04-17T07:07:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZUpyS1ZDdVRLUDc2UjNPTVl5aWZxWmhrazNuZ1F2UVNQeTEyeTdZUWNzcjJrV3lOTElSTlJEa0FPRTFKLWRsdnBFTkxXc19nZk1hWlJ0OWJsbnFkR1g4aFBDQURQR2ptQkpUaEtsd2ZDa3ZjM1Y1VVFQaDI4cDNiOEhvRm5tb3ZWcHI5RG1JRldoVi1FYXk2T3R6YVFsbVVmX0hfMFFjd3NJUHNJeE1GOUpscjAycE82aHlScHJqOFhRQ2c0aVFELVdtMzc2QlFzT0dpWHFWeDhsUURQVlp3Y1cwdHZ6OHJ4b0hlcnAzUVNaNVN4M0ZXMjJtSkRsVzN1OEc1LQ?oc=5",
+        "published": "17 Apr 2026, 09:51 AM",
+        "iso_date": "2026-04-17T09:51:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -114,12 +124,22 @@
         "category": "Latest"
       },
       {
-        "title": "Frioui goal propels Muharraq past Hidd",
-        "link": "https://www.gdnonline.com/Details/1381765/Frioui-goal-propels-Muharraq-past-Hidd",
+        "title": "Arteta hopeful Madueke will be fit for Man City clash, rules out Saka",
+        "link": "https://www.gdnonline.com/Details/1381834/Arteta-hopeful-Madueke-will-be-fit-for-Man-City-clash,-rules-out-Saka",
         "published": "17 Apr 2026",
         "iso_date": "2026-04-17T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417_014509_2_T.jpg?20260417",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417194906ars_T.jpg?20260417",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Former Austria goalkeeper Manninger dies at 48 after car hit by train",
+        "link": "https://www.gdnonline.com/Details/1381828/Former-Austria-goalkeeper-Manninger-dies-at-48-after-car-hit-by-train-",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417195503aus_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -134,32 +154,22 @@
         "category": "Latest"
       },
       {
+        "title": "Frioui goal propels Muharraq past Hidd",
+        "link": "https://www.gdnonline.com/Details/1381765/Frioui-goal-propels-Muharraq-past-Hidd",
+        "published": "17 Apr 2026",
+        "iso_date": "2026-04-17T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417_014509_2_T.jpg?20260417",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Forest edge 10-man Porto to secure Villa showdown",
         "link": "https://www.gdnonline.com/Details/1381766/Forest-edge-10-man-Porto-to-secure-Villa-showdown",
         "published": "17 Apr 2026",
         "iso_date": "2026-04-17T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260417/20260417014929aewfcasc_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Fatigued Ronaldo threw up after Al Nassr match, coach says",
-        "link": "https://www.gdnonline.com/Details/1381718/Fatigued-Ronaldo-threw-up-after-Al-Nassr-match,-coach-says",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416155153cr7(4)_T.jpg?20260417",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Beckham: Inter Miami not rushing to replace head coach",
-        "link": "https://www.gdnonline.com/Details/1381700/Beckham-Inter-Miami-not-rushing-to-replace-head-coach",
-        "published": "16 Apr 2026",
-        "iso_date": "2026-04-16T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416144839db_T.jpg?20260417",
         "source": "gdn",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-17 17:19:01 UTC"
+  "fetched_at": "2026-04-17 17:47:08 UTC"
 }
