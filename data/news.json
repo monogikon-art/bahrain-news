@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 16
     }
   },
   "articles": {
@@ -175,6 +175,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Al Ahli Hold Firm as Riffa Strike Late",
+        "link": "https://www.newsofbahrain.com/sports/130943.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CTfxh0cnk2_2026-04-18_1776520141resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Machado Has 'No Regrets' About Giving Nobel Peace Prize to Trump",
         "link": "https://www.newsofbahrain.com/world/130942.html",
         "published": "18 Apr 2026, 09:22 AM",
@@ -187,8 +197,8 @@
       {
         "title": "Slot backs Ekitike to recover from ‘devastating’ Achilles injury",
         "link": "https://www.newsofbahrain.com/sports/130941.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_tXFk2ScUoN_2026-04-18_1776518206resized_pic.jpg",
         "source": "newsofbahrain",
@@ -207,20 +217,10 @@
       {
         "title": "Lebanon’s Aoun vows to prosecute those who killed UNIFIL soldier",
         "link": "https://www.newsofbahrain.com/world/130939.html",
-        "published": "18 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_51KFwOZRxe_2026-04-18_1776517998resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Says US Will Bring Iran Uranium ‘Back Home’, Tehran Rejects Claim",
-        "link": "https://www.newsofbahrain.com/world/130938.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6l4xAIMn2H_2026-04-18_1776517862resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_51KFwOZRxe_2026-04-18_1776517998resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,6 +271,16 @@
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_gHiN3ZtJkD_2026-04-18_1776502920thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump Says US Will Bring Iran Uranium ‘Back Home’, Tehran Rejects Claim",
+        "link": "https://www.newsofbahrain.com/world/130938.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6l4xAIMn2H_2026-04-18_1776517862thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -438,5 +448,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 13:28:20 UTC"
+  "fetched_at": "2026-04-18 13:53:04 UTC"
 }
