@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 14
     }
   },
   "articles": {
@@ -187,8 +187,8 @@
       {
         "title": "At least 18 people dead after minibus taxi ‘explodes into fire’ in Zimbabwe",
         "link": "https://www.newsofbahrain.com/world/130873.html",
-        "published": "",
-        "iso_date": "",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zHmJRnwQav_2026-04-17_1776435816resized_pic.jpg",
         "source": "newsofbahrain",
@@ -197,8 +197,8 @@
       {
         "title": "Maradona's doctor claims innocence at trial over footballer's death",
         "link": "https://www.newsofbahrain.com/world/130872.html",
-        "published": "",
-        "iso_date": "",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_vPRrbdwDoS_2026-04-17_1776435636resized_pic.jpg",
         "source": "newsofbahrain",
@@ -297,30 +297,10 @@
       {
         "title": "Words Really Matter!",
         "link": "https://www.newsofbahrain.com/views/130689.html",
-        "published": "",
-        "iso_date": "",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
-        "link": "https://www.newsofbahrain.com/views/130591.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Uncrustables Promise Awaits Artemis II Crew After Historic Mission",
-        "link": "https://www.newsofbahrain.com/views/130407.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pdPtZIKbCo_2026-04-11_1775934013thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -438,5 +418,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 07:54:17 UTC"
+  "fetched_at": "2026-04-18 08:15:57 UTC"
 }
