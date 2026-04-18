@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,7 +20,18 @@
     }
   },
   "articles": {
-    "bna": [],
+    "bna": [
+      {
+        "title": "BDF General Command: 194 missiles and 523 drones intercepted since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObm1CX0xDVkk5UExkYU9nVHI4VnBBeENGZzhqbDFaOEYyM19KVnNMd1ZaMHphal9DaExCNGI4Vl9QNHRsTFZJb3A1cXA4bnlYVGtRLWJ1RlFLU19saHd2S01mWmotT2RackFPcmRrXzVXZnBrY0tvZDlXRWM4U3QxQUp5U3hYblYzbGc1b2Z2NG9XTzdvRWpiWTkwUTN6eE5Sb2Y5ZXc1Zm96QVdDRS1keS1fanFwbk1sVmJMaWgxcXpfU2NfcDlRQ1RUV2FJbGpCM2t6Uzl3?oc=5",
+        "published": "18 Apr 2026, 07:58 PM",
+        "iso_date": "2026-04-18T19:58:20+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
     "gdn": [
       {
         "title": "Game on for Education Minister as his video playing goes viral",
@@ -175,6 +186,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Demands Full Compensation from Iran Over “Unlawful Aggression”",
+        "link": "https://www.newsofbahrain.com/bahrain/130963.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ry0lYVXcaG_2026-04-18_1776549302resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain, US Explore New Avenues for Financial Cooperation",
         "link": "https://www.newsofbahrain.com/bahrain/130962.html",
         "published": "19 Apr 2026, 09:22 AM",
@@ -187,8 +208,8 @@
       {
         "title": "Thousands protest in Germany urging faster green shift",
         "link": "https://www.newsofbahrain.com/world/130961.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_JgflSuxGNK_2026-04-18_1776538405resized_pic.jpg",
         "source": "newsofbahrain",
@@ -207,20 +228,10 @@
       {
         "title": "At least 5 killed after gunman opens fire in Ukrainian capital",
         "link": "https://www.newsofbahrain.com/world/130959.html",
-        "published": "18 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4rVPe1SMUX_2026-04-18_1776537958resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ice Spice to Take Legal Action After Viral McDonald’s Assault in Los Angeles",
-        "link": "https://www.newsofbahrain.com/views/130958.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_te1nxpXl7s_2026-04-18_1776537541resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4rVPe1SMUX_2026-04-18_1776537958resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,16 +262,6 @@
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ct6PXkhEmo_2026-04-18_1776517176thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "WHAT’S NEXT ON PARLIAMENT’S AGENDA?",
-        "link": "https://www.newsofbahrain.com/bahrain/130886.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_32Log0DZr9_2026-04-18_1776505222thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -321,6 +322,16 @@
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_aYTlfHptZn_2026-04-18_1776506168thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ice Spice to Take Legal Action After Viral McDonald’s Assault in Los Angeles",
+        "link": "https://www.newsofbahrain.com/views/130958.html",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_te1nxpXl7s_2026-04-18_1776537541thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -438,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 21:44:59 UTC"
+  "fetched_at": "2026-04-18 22:10:01 UTC"
 }
