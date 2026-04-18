@@ -175,10 +175,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Trump rejects NATO offer to help with Hormuz, says ‘stay away’",
-        "link": "https://www.newsofbahrain.com/world/130906.html",
+        "title": "Iran Warns of Closure as US Maintains Blockade",
+        "link": "https://www.newsofbahrain.com/world/130909.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wczqHuRmFh_2026-04-18_1776514173resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EU Accused of Hiding Datacentre Pollution After Tech Lobbying Push",
+        "link": "https://www.newsofbahrain.com/world/130908.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6KeOl3xqLu_2026-04-18_1776512841resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Germany Charges Five Over Alleged Chinese Prostitution Smuggling Ring",
+        "link": "https://www.newsofbahrain.com/world/130907.html",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_awh2ofB4IP_2026-04-18_1776512647resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump rejects NATO offer to help with Hormuz, says ‘stay away’",
+        "link": "https://www.newsofbahrain.com/world/130906.html",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_MgPuWbiSGw_2026-04-18_1776512311resized_pic.jpg",
         "source": "newsofbahrain",
@@ -191,36 +221,6 @@
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_VKu2bJfcPA_2026-04-18_1776512077resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Two Men Disqualified After Running in Women’s Category at South Africa Marathon",
-        "link": "https://www.newsofbahrain.com/world/130904.html",
-        "published": "18 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YMPDRVy6WX_2026-04-18_1776512035resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "New Database Lets Germans Trace Whether Relatives Joined Nazi Party",
-        "link": "https://www.newsofbahrain.com/world/130902.html",
-        "published": "18 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_p3JNM6z489_2026-04-18_1776511804resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "5.5 magnitude earthquake shakes Pakistan, Afghanistan",
-        "link": "https://www.newsofbahrain.com/world/130901.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_E9KmcQwOC3_2026-04-18_1776511511resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -428,5 +428,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 11:44:05 UTC"
+  "fetched_at": "2026-04-18 12:13:18 UTC"
 }
