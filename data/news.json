@@ -10,13 +10,13 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 14
     }
   },
   "articles": {
@@ -32,149 +32,149 @@
         "category": "Latest"
       }
     ],
-    "gdn": [
+    "gdn": [],
+    "newsofbahrain": [
       {
-        "title": "MPs want to modernise handling of industrial land",
-        "link": "https://www.gdnonline.com/Details/1381837/MPs-want-to-modernise-handling-of-industrial-land",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
+        "title": "Worst since 2nd World War",
+        "link": "https://www.newsofbahrain.com/bahrain/130875.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417224318par1_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2YL0QOGvJr_2026-04-18_1776493728resized_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bills seek restrictions on new expat driving licences",
-        "link": "https://www.gdnonline.com/Details/1381838/Bills-seek-restrictions-on-new-expat-driving-licences",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
+        "title": "Strait of Hormuz Reopens, But With Conditions",
+        "link": "https://www.newsofbahrain.com/world/130874.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260417_220918_0_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G7p1DuI5XO_2026-04-17_1776435996resized_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "MPs briefed on effective campaign to create jobs",
-        "link": "https://www.gdnonline.com/Details/1381839/MPs-briefed-on-effective-campaign-to-create-jobs",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
+        "title": "At least 18 people dead after minibus taxi ‘explodes into fire’ in Zimbabwe",
+        "link": "https://www.newsofbahrain.com/world/130873.html",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260417_220921_0_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zHmJRnwQav_2026-04-17_1776435816resized_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Monthly support sought for housewives over 40",
-        "link": "https://www.gdnonline.com/Details/1381840/Monthly-support-sought-for-housewives-over-40",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
+        "title": "Maradona's doctor claims innocence at trial over footballer's death",
+        "link": "https://www.newsofbahrain.com/world/130872.html",
+        "published": "17 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-17T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417224850house_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vPRrbdwDoS_2026-04-17_1776435636resized_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Separate utility meters plan for families sharing homes",
-        "link": "https://www.gdnonline.com/Details/1381846/Separate-utility-meters-plan-for-families-sharing-homes",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
+        "title": "UK police charge 3 after attempted arson at Persian-language media centre",
+        "link": "https://www.newsofbahrain.com/world/130871.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260417_220937_1_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Oa7v8CmWxS_2026-04-17_1776435365resized_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain signs deal with Switzerland",
-        "link": "https://www.gdnonline.com/Details/1381889/Bahrain-signs-deal-with-Switzerland",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
+        "title": "Traditional Gulf Dance Finds a New Voice",
+        "link": "https://www.newsofbahrain.com/bahrain/130788.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418042650images_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_I6PEOtiJLf_2026-04-17_1776414161thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Financial sector dominates as All Share Index closes higher",
-        "link": "https://www.gdnonline.com/Details/1381750/Financial-sector-dominates-as-All-Share-Index-closes-higher",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
+        "title": "Broadening representation in global arbitration sector",
+        "link": "https://www.newsofbahrain.com/bahrain/130785.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416235057bzuxavk6jjlhzfbjpo7cax3dcy_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_s9k7Kcy0Z2_2026-04-17_1776413511thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Application set to open for Al Salam Bankâs new initiative",
-        "link": "https://www.gdnonline.com/Details/1381743/Application-set-to-open-for-Al-Salam-Bankâs-new-initiative",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
+        "title": "UoB Board Reviews Major Academic and Investment Projects",
+        "link": "https://www.newsofbahrain.com/bahrain/130784.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Df6KlEFeWS_2026-04-17_1776413085thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Madan on target in Riffa's late victory",
-        "link": "https://www.gdnonline.com/Details/1381871/Madan-on-target-in-Riffas-late-victory",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
+        "title": "Key Bills Face Shura Council Decision",
+        "link": "https://www.newsofbahrain.com/bahrain/130783.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418012501ff_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZkIqshVl3_2026-04-17_1776412568thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "National team to play Georgia friendly",
-        "link": "https://www.gdnonline.com/Details/1381868/National-team-to-play-Georgia-friendly",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
+        "title": "Bahrain Chamber Supports Strategic Push for Sustainable Growth",
+        "link": "https://www.newsofbahrain.com/business/130795.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418011942talajic_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ro0EvlVr8W_2026-04-17_1776417319thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Former Austria goalkeeper Manninger dies at 48 after car hit by train",
-        "link": "https://www.gdnonline.com/Details/1381828/Former-Austria-goalkeeper-Manninger-dies-at-48-after-car-hit-by-train-",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
+        "title": "Strategic Economic Partnership",
+        "link": "https://www.newsofbahrain.com/business/130794.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417195503aus_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ULqiGBdNoc_2026-04-17_1776416979thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Arteta hopeful Madueke will be fit for Man City clash, rules out Saka",
-        "link": "https://www.gdnonline.com/Details/1381834/Arteta-hopeful-Madueke-will-be-fit-for-Man-City-clash,-rules-out-Saka",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
+        "title": "Stocks rise as optimism over Mideast war takes hold",
+        "link": "https://www.newsofbahrain.com/business/130792.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417194906ars_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lsQFnjYL4K_2026-04-17_1776416706thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Man City need win over Arsenal or title hopes are over says Guardiola",
-        "link": "https://www.gdnonline.com/Details/1381824/Man-City-need-win-over-Arsenal-or-title-hopes-are-over-says-Guardiola",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
+        "title": "Al Salam Bank Opens Applications for the Installment Deferment Service Starting 19 April",
+        "link": "https://www.newsofbahrain.com/business/130791.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417170216mc1_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t0ja8KpzTs_2026-04-17_1776416344thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Robert Downey Jr. and Chris Evans unite for Marvel's 'Doomsday'",
-        "link": "https://www.gdnonline.com/Details/1381808/Robert-Downey-Jr-and-Chris-Evans-unite-for-Marvels-Doomsday",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
+        "title": "Words Really Matter!",
+        "link": "https://www.newsofbahrain.com/views/130689.html",
+        "published": "16 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-16T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417_114152_0_T.jpg?20260418",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       }
-    ],
-    "newsofbahrain": []
+    ]
   },
   "instagram": [
     {
@@ -288,5 +288,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 06:27:56 UTC"
+  "fetched_at": "2026-04-18 06:52:40 UTC"
 }
