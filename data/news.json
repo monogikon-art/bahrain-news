@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -21,206 +21,55 @@
   },
   "articles": {
     "bna": [],
-    "gdn": [
-      {
-        "title": "Game on for Education Minister as his video playing goes viral",
-        "link": "https://www.gdnonline.com/Details/1381892/Game-on-for-Education-Minister-as-his-video-playing-goes-viral",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418110128websitesize(8)_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "MPs want to modernise handling of industrial land",
-        "link": "https://www.gdnonline.com/Details/1381837/MPs-want-to-modernise-handling-of-industrial-land",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417224318par1_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bills seek restrictions on new expat driving licences",
-        "link": "https://www.gdnonline.com/Details/1381838/Bills-seek-restrictions-on-new-expat-driving-licences",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260417_220918_0_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "MPs briefed on effective campaign to create jobs",
-        "link": "https://www.gdnonline.com/Details/1381839/MPs-briefed-on-effective-campaign-to-create-jobs",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260417_220921_0_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Monthly support sought for housewives over 40",
-        "link": "https://www.gdnonline.com/Details/1381840/Monthly-support-sought-for-housewives-over-40",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417224850house_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain signs deal with Switzerland",
-        "link": "https://www.gdnonline.com/Details/1381889/Bahrain-signs-deal-with-Switzerland",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418042650images_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Financial sector dominates as All Share Index closes higher",
-        "link": "https://www.gdnonline.com/Details/1381750/Financial-sector-dominates-as-All-Share-Index-closes-higher",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416235057bzuxavk6jjlhzfbjpo7cax3dcy_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Application set to open for Al Salam Bankâs new initiative",
-        "link": "https://www.gdnonline.com/Details/1381743/Application-set-to-open-for-Al-Salam-Bankâs-new-initiative",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Madan on target in Riffa's late victory",
-        "link": "https://www.gdnonline.com/Details/1381871/Madan-on-target-in-Riffas-late-victory",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418012501ff_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "National team to play Georgia friendly",
-        "link": "https://www.gdnonline.com/Details/1381868/National-team-to-play-Georgia-friendly",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418011942talajic_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Former Austria goalkeeper Manninger dies at 48 after car hit by train",
-        "link": "https://www.gdnonline.com/Details/1381828/Former-Austria-goalkeeper-Manninger-dies-at-48-after-car-hit-by-train-",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417195503aus_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Arteta hopeful Madueke will be fit for Man City clash, rules out Saka",
-        "link": "https://www.gdnonline.com/Details/1381834/Arteta-hopeful-Madueke-will-be-fit-for-Man-City-clash,-rules-out-Saka",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417194906ars_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Man City need win over Arsenal or title hopes are over says Guardiola",
-        "link": "https://www.gdnonline.com/Details/1381824/Man-City-need-win-over-Arsenal-or-title-hopes-are-over-says-Guardiola",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417170216mc1_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Cinemas see summer sizzle in 'Spider-Man' and 'Star Wars'",
-        "link": "https://www.gdnonline.com/Details/1381900/Cinemas-see-summer-sizzle-in-Spider-Man-and-Star-Wars",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418_121045_0_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Robert Downey Jr. and Chris Evans unite for Marvel's 'Doomsday'",
-        "link": "https://www.gdnonline.com/Details/1381808/Robert-Downey-Jr-and-Chris-Evans-unite-for-Marvels-Doomsday",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417_114152_0_T.jpg?20260418",
-        "source": "gdn",
-        "category": "Latest"
-      }
-    ],
+    "gdn": [],
     "newsofbahrain": [
       {
-        "title": "Iran Warns of Closure as US Maintains Blockade",
-        "link": "https://www.newsofbahrain.com/world/130909.html",
+        "title": "Austria Recalls Baby Food Jars Over Suspected Tampering Risk",
+        "link": "https://www.newsofbahrain.com/world/130924.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wczqHuRmFh_2026-04-18_1776514173resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pfmkcZAUtR_2026-04-18_1776516278resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "EU Accused of Hiding Datacentre Pollution After Tech Lobbying Push",
-        "link": "https://www.newsofbahrain.com/world/130908.html",
+        "title": "Oman-Qatar talks focus on maritime security",
+        "link": "https://www.newsofbahrain.com/world/130923.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6KeOl3xqLu_2026-04-18_1776512841resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ubNqAaPGBS_2026-04-18_1776516252resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Germany Charges Five Over Alleged Chinese Prostitution Smuggling Ring",
-        "link": "https://www.newsofbahrain.com/world/130907.html",
+        "title": "French film star Nathalie Baye dead at 77",
+        "link": "https://www.newsofbahrain.com/world/130922.html",
         "published": "18 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-18T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_awh2ofB4IP_2026-04-18_1776512647resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6RTH7MmxCz_2026-04-18_1776515960resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Trump rejects NATO offer to help with Hormuz, says ‘stay away’",
-        "link": "https://www.newsofbahrain.com/world/130906.html",
+        "title": "Riyadh Praises Lebanon Leaders",
+        "link": "https://www.newsofbahrain.com/world/130921.html",
         "published": "18 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-18T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MgPuWbiSGw_2026-04-18_1776512311resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ti4gVU75HB_2026-04-18_1776515946resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Sri Lanka Energy Minister Resigns Over Coal Import Corruption Probe",
-        "link": "https://www.newsofbahrain.com/world/130905.html",
+        "title": "Gulf Countries, Jordan Demand Global Response to Iran Telecom Disruptions",
+        "link": "https://www.newsofbahrain.com/world/130920.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VKu2bJfcPA_2026-04-18_1776512077resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XcnF1RkLSY_2026-04-18_1776515784resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -428,5 +277,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 12:13:18 UTC"
+  "fetched_at": "2026-04-18 12:47:37 UTC"
 }
