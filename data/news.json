@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 20
     }
   },
   "articles": {
@@ -165,6 +165,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Not just a cold",
+        "link": "https://www.newsofbahrain.com/bahrain/130881.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gHiN3ZtJkD_2026-04-18_1776502920resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Five convicted in expired food scam, warehouses shut",
         "link": "https://www.newsofbahrain.com/bahrain/130880.html",
         "published": "18 Apr 2026, 09:22 AM",
@@ -177,8 +187,8 @@
       {
         "title": "US says Israel ‘prohibited’ by US from bombing Lebanon",
         "link": "https://www.newsofbahrain.com/world/130879.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_d5YACHka2y_2026-04-18_1776500498resized_pic.jpg",
         "source": "newsofbahrain",
@@ -197,8 +207,8 @@
       {
         "title": "Sea Routes Protected",
         "link": "https://www.newsofbahrain.com/bahrain/130877.html",
-        "published": "18 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-18T09:00:43+00:00",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_PlW7NbtBY1_2026-04-18_1776500086resized_pic.jpg",
         "source": "newsofbahrain",
@@ -210,17 +220,7 @@
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2YL0QOGvJr_2026-04-18_1776493728resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Traditional Gulf Dance Finds a New Voice",
-        "link": "https://www.newsofbahrain.com/bahrain/130788.html",
-        "published": "17 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-17T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_I6PEOtiJLf_2026-04-17_1776414161thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2YL0QOGvJr_2026-04-18_1776493728thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -301,6 +301,66 @@
         "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
+        "link": "https://www.newsofbahrain.com/views/130591.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "AI Chatbot Case Raises Global Concerns After Man’s Death",
+        "link": "https://www.newsofbahrain.com/views/130496.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e4v3lo98aB_2026-04-13_1776097158thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Coachella Craze What Draws Millions Every Year",
+        "link": "https://www.newsofbahrain.com/views/130464.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Gvxfbmgt0B_2026-04-12_1776027552thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The Citizen: The Backbone of Soft Warfare",
+        "link": "https://www.newsofbahrain.com/views/130436.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sRlFbNoKOq_2026-04-12_1775993439thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Uncrustables Promise Awaits Artemis II Crew After Historic Mission",
+        "link": "https://www.newsofbahrain.com/views/130407.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pdPtZIKbCo_2026-04-11_1775934013thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "The Power of togetherness",
+        "link": "https://www.newsofbahrain.com/views/130175.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xaPVbmHEtQ_2026-04-09_1775725584thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -418,5 +478,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 08:48:44 UTC"
+  "fetched_at": "2026-04-18 09:20:04 UTC"
 }
