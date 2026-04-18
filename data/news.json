@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 17
     }
   },
   "articles": {
@@ -173,7 +173,178 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Myanmar ex-president freed from postcoup detention, Suu Kyi’s sentence cut",
+        "link": "https://www.newsofbahrain.com/world/130947.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jxduzXaFEr_2026-04-18_1776521533resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Arsenal face defining Man City clash",
+        "link": "https://www.newsofbahrain.com/sports/130946.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YkJo8jlsVm_2026-04-18_1776520839resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Renard sacked as Saudi Arabia coach ahead of World Cup",
+        "link": "https://www.newsofbahrain.com/sports/130945.html",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Bpy3qL7R5X_2026-04-18_1776520541resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq Finish Treble Run Over Manama",
+        "link": "https://www.newsofbahrain.com/sports/130944.html",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZuAwU3biV2_2026-04-18_1776520421resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Ahli Hold Firm as Riffa Strike Late",
+        "link": "https://www.newsofbahrain.com/sports/130943.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CTfxh0cnk2_2026-04-18_1776520141resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Nine-Race Card Showcases Talent",
+        "link": "https://www.newsofbahrain.com/bahrain/130932.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ct6PXkhEmo_2026-04-18_1776517176thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "WHAT’S NEXT ON PARLIAMENT’S AGENDA?",
+        "link": "https://www.newsofbahrain.com/bahrain/130886.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_32Log0DZr9_2026-04-18_1776505222thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Housing demand surges in Bahrain as applications near 47,000",
+        "link": "https://www.newsofbahrain.com/bahrain/130884.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pryeU4EMI7_2026-04-18_1776504862thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tying expat licences to residency sparks debate",
+        "link": "https://www.newsofbahrain.com/bahrain/130882.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5Wf9ybO1EC_2026-04-18_1776504565thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Not just a cold",
+        "link": "https://www.newsofbahrain.com/bahrain/130881.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gHiN3ZtJkD_2026-04-18_1776502920thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Machado Has 'No Regrets' About Giving Nobel Peace Prize to Trump",
+        "link": "https://www.newsofbahrain.com/world/130942.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mcaVNsokT1_2026-04-18_1776518217thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Lebanon’s Aoun vows to prosecute those who killed UNIFIL soldier",
+        "link": "https://www.newsofbahrain.com/world/130939.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_51KFwOZRxe_2026-04-18_1776517998thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump Says US Will Bring Iran Uranium ‘Back Home’, Tehran Rejects Claim",
+        "link": "https://www.newsofbahrain.com/world/130938.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6l4xAIMn2H_2026-04-18_1776517862thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil plunges, stocks jumps",
+        "link": "https://www.newsofbahrain.com/business/130893.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pOrZHMuyzc_2026-04-18_1776507278thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Key Atlantic current could weaken more than expected: study",
+        "link": "https://www.newsofbahrain.com/business/130892.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z9P1c5JNsY_2026-04-18_1776507025thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "China hits food delivery platforms with 3.6 bn yuan fine for 'ghost' deliveries",
+        "link": "https://www.newsofbahrain.com/business/130890.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QyPcohjBR5_2026-04-18_1776506589thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BisB announces deferral programme",
+        "link": "https://www.newsofbahrain.com/business/130888.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aYTlfHptZn_2026-04-18_1776506168thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -287,5 +458,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 14:16:23 UTC"
+  "fetched_at": "2026-04-18 14:45:44 UTC"
 }
