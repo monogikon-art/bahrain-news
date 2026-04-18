@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 15
     }
   },
   "articles": {
@@ -175,10 +175,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Ministers Condemn Israel’s Diplomatic Move in Somaliland",
-        "link": "https://www.newsofbahrain.com/world/130948.html",
+        "title": "BRAVE CF Announces Light Heavyweight Title Rematch in Slovenia",
+        "link": "https://www.newsofbahrain.com/sports/130951.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wX4gzhaEY0_2026-04-18_1776535852resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "GCC Nations Surpass Global Benchmarks in Sustainable Development Progress",
+        "link": "https://www.newsofbahrain.com/world/130950.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xK1eqBpDfA_2026-04-18_1776535748resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Global Village Reopens Doors for Season 30 in Dubai",
+        "link": "https://www.newsofbahrain.com/trends/130949.html",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XwaBhDck5E_2026-04-18_1776535374resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ministers Condemn Israel’s Diplomatic Move in Somaliland",
+        "link": "https://www.newsofbahrain.com/world/130948.html",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_43kXIgNyEs_2026-04-18_1776533669resized_pic.jpg",
         "source": "newsofbahrain",
@@ -191,36 +221,6 @@
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_jxduzXaFEr_2026-04-18_1776521533resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Arsenal face defining Man City clash",
-        "link": "https://www.newsofbahrain.com/sports/130946.html",
-        "published": "18 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YkJo8jlsVm_2026-04-18_1776520839resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Renard sacked as Saudi Arabia coach ahead of World Cup",
-        "link": "https://www.newsofbahrain.com/sports/130945.html",
-        "published": "18 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Bpy3qL7R5X_2026-04-18_1776520541resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Muharraq Finish Treble Run Over Manama",
-        "link": "https://www.newsofbahrain.com/sports/130944.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZuAwU3biV2_2026-04-18_1776520421resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -281,16 +281,6 @@
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_mcaVNsokT1_2026-04-18_1776518217thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Lebanon’s Aoun vows to prosecute those who killed UNIFIL soldier",
-        "link": "https://www.newsofbahrain.com/world/130939.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_51KFwOZRxe_2026-04-18_1776517998thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -448,5 +438,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 17:45:41 UTC"
+  "fetched_at": "2026-04-18 18:14:08 UTC"
 }
