@@ -175,10 +175,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Ice Spice to Take Legal Action After Viral McDonald’s Assault in Los Angeles",
-        "link": "https://www.newsofbahrain.com/views/130958.html",
+        "title": "Thousands protest in Germany urging faster green shift",
+        "link": "https://www.newsofbahrain.com/world/130961.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JgflSuxGNK_2026-04-18_1776538405resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Madonna and Sabrina Carpenter Deliver Historic Coachella Duet Performance",
+        "link": "https://www.newsofbahrain.com/trends/130960.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GJPSQ90oWf_2026-04-18_1776538228resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "At least 5 killed after gunman opens fire in Ukrainian capital",
+        "link": "https://www.newsofbahrain.com/world/130959.html",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4rVPe1SMUX_2026-04-18_1776537958resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ice Spice to Take Legal Action After Viral McDonald’s Assault in Los Angeles",
+        "link": "https://www.newsofbahrain.com/views/130958.html",
+        "published": "18 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-18T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_te1nxpXl7s_2026-04-18_1776537541resized_pic.jpg",
         "source": "newsofbahrain",
@@ -195,32 +225,12 @@
         "category": "Latest"
       },
       {
-        "title": "Saudi Arabia Reinforces ‘No Hajj Without Permit’ Policy Ahead of Pilgrimage",
-        "link": "https://www.newsofbahrain.com/world/130956.html",
-        "published": "18 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QS8EMW7ZtU_2026-04-18_1776536995resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Ambassador to Germany Attends 2026 International Sudan Conference in Berlin",
         "link": "https://www.newsofbahrain.com/bahrain/130955.html",
-        "published": "18 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-18T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hIiUA9a64B_2026-04-18_1776536678resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘Trom’ Secures First Place at Amir of Qatar Camel Racing Festival",
-        "link": "https://www.newsofbahrain.com/sports/130954.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N4YaWwb1R6_2026-04-18_1776536599resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hIiUA9a64B_2026-04-18_1776536678thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -265,22 +275,12 @@
         "category": "Latest"
       },
       {
-        "title": "GCC Nations Surpass Global Benchmarks in Sustainable Development Progress",
-        "link": "https://www.newsofbahrain.com/world/130950.html",
+        "title": "Saudi Arabia Reinforces ‘No Hajj Without Permit’ Policy Ahead of Pilgrimage",
+        "link": "https://www.newsofbahrain.com/world/130956.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xK1eqBpDfA_2026-04-18_1776535748thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ministers Condemn Israel’s Diplomatic Move in Somaliland",
-        "link": "https://www.newsofbahrain.com/world/130948.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_43kXIgNyEs_2026-04-18_1776533669thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QS8EMW7ZtU_2026-04-18_1776536995thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -438,5 +438,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 18:46:52 UTC"
+  "fetched_at": "2026-04-18 19:17:15 UTC"
 }
