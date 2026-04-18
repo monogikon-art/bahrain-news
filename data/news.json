@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -175,52 +175,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "US Congress Temporarily Extends Controversial FISA Surveillance Law",
-        "link": "https://www.newsofbahrain.com/world/130897.html",
+        "title": "Trump rejects NATO offer to help with Hormuz, says ‘stay away’",
+        "link": "https://www.newsofbahrain.com/world/130906.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ugdu5yN0AE_2026-04-18_1776508020resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MgPuWbiSGw_2026-04-18_1776512311resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Abu Dhabi Airport Launches Shopping Pass for Non-Travelers",
-        "link": "https://www.newsofbahrain.com/world/130896.html",
+        "title": "Sri Lanka Energy Minister Resigns Over Coal Import Corruption Probe",
+        "link": "https://www.newsofbahrain.com/world/130905.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lMdcgw91Di_2026-04-18_1776507536resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VKu2bJfcPA_2026-04-18_1776512077resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Coldplay to Curate First-Ever FIFA World Cup Final Halftime Show in 2026",
-        "link": "https://www.newsofbahrain.com/world/130895.html",
+        "title": "Two Men Disqualified After Running in Women’s Category at South Africa Marathon",
+        "link": "https://www.newsofbahrain.com/world/130904.html",
         "published": "18 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-18T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Y7tZbHjulc_2026-04-18_1776507317resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YMPDRVy6WX_2026-04-18_1776512035resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Oil plunges, stocks jumps",
-        "link": "https://www.newsofbahrain.com/business/130893.html",
+        "title": "New Database Lets Germans Trace Whether Relatives Joined Nazi Party",
+        "link": "https://www.newsofbahrain.com/world/130902.html",
         "published": "18 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-18T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pOrZHMuyzc_2026-04-18_1776507278resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_p3JNM6z489_2026-04-18_1776511804resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Key Atlantic current could weaken more than expected: study",
-        "link": "https://www.newsofbahrain.com/business/130892.html",
+        "title": "5.5 magnitude earthquake shakes Pakistan, Afghanistan",
+        "link": "https://www.newsofbahrain.com/world/130901.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z9P1c5JNsY_2026-04-18_1776507025resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_E9KmcQwOC3_2026-04-18_1776511511resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -275,12 +275,22 @@
         "category": "Latest"
       },
       {
-        "title": "Dubai Court Ruling Underscores Scrutiny of WhatsApp Messages as Legal Evidence",
-        "link": "https://www.newsofbahrain.com/world/130891.html",
+        "title": "Oil plunges, stocks jumps",
+        "link": "https://www.newsofbahrain.com/business/130893.html",
         "published": "18 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4nAfzXlZaD_2026-04-18_1776506904thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pOrZHMuyzc_2026-04-18_1776507278thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Key Atlantic current could weaken more than expected: study",
+        "link": "https://www.newsofbahrain.com/business/130892.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Z9P1c5JNsY_2026-04-18_1776507025thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -418,5 +428,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 11:14:15 UTC"
+  "fetched_at": "2026-04-18 11:44:05 UTC"
 }
