@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 16
     }
   },
   "articles": {
@@ -163,7 +163,168 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Worst since 2nd World War",
+        "link": "https://www.newsofbahrain.com/bahrain/130875.html",
+        "published": "18 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-18T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2YL0QOGvJr_2026-04-18_1776493728resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Strait of Hormuz Reopens, But With Conditions",
+        "link": "https://www.newsofbahrain.com/world/130874.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G7p1DuI5XO_2026-04-17_1776435996resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "At least 18 people dead after minibus taxi ‘explodes into fire’ in Zimbabwe",
+        "link": "https://www.newsofbahrain.com/world/130873.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zHmJRnwQav_2026-04-17_1776435816resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Maradona's doctor claims innocence at trial over footballer's death",
+        "link": "https://www.newsofbahrain.com/world/130872.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vPRrbdwDoS_2026-04-17_1776435636resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UK police charge 3 after attempted arson at Persian-language media centre",
+        "link": "https://www.newsofbahrain.com/world/130871.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Oa7v8CmWxS_2026-04-17_1776435365resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Traditional Gulf Dance Finds a New Voice",
+        "link": "https://www.newsofbahrain.com/bahrain/130788.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_I6PEOtiJLf_2026-04-17_1776414161thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Broadening representation in global arbitration sector",
+        "link": "https://www.newsofbahrain.com/bahrain/130785.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_s9k7Kcy0Z2_2026-04-17_1776413511thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UoB Board Reviews Major Academic and Investment Projects",
+        "link": "https://www.newsofbahrain.com/bahrain/130784.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Df6KlEFeWS_2026-04-17_1776413085thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Key Bills Face Shura Council Decision",
+        "link": "https://www.newsofbahrain.com/bahrain/130783.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AZkIqshVl3_2026-04-17_1776412568thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Chamber Supports Strategic Push for Sustainable Growth",
+        "link": "https://www.newsofbahrain.com/business/130795.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ro0EvlVr8W_2026-04-17_1776417319thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Strategic Economic Partnership",
+        "link": "https://www.newsofbahrain.com/business/130794.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ULqiGBdNoc_2026-04-17_1776416979thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Stocks rise as optimism over Mideast war takes hold",
+        "link": "https://www.newsofbahrain.com/business/130792.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lsQFnjYL4K_2026-04-17_1776416706thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Salam Bank Opens Applications for the Installment Deferment Service Starting 19 April",
+        "link": "https://www.newsofbahrain.com/business/130791.html",
+        "published": "17 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-17T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t0ja8KpzTs_2026-04-17_1776416344thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Words Really Matter!",
+        "link": "https://www.newsofbahrain.com/views/130689.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
+        "link": "https://www.newsofbahrain.com/views/130591.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Uncrustables Promise Awaits Artemis II Crew After Historic Mission",
+        "link": "https://www.newsofbahrain.com/views/130407.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pdPtZIKbCo_2026-04-11_1775934013thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -277,5 +438,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 07:28:17 UTC"
+  "fetched_at": "2026-04-18 07:54:17 UTC"
 }
