@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "King Hamad says Bahrain to review citizenship amid crackdown on Iran-linked cells",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VU1U1UzNET1l0d2JJUFA0QUdVY3JwY3l1bkRfQkVQNlRidzExYkZjVHNRVWdLd0p3NlNBclRBdnQ3WEUyUmZaT2RPZDRqa2EwUjFR?oc=5",
+        "published": "19 Apr 2026, 04:35 PM",
+        "iso_date": "2026-04-19T16:35:27+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain could strip citizenship for 'compromising security' during war",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXdkWmdqdnptVTFhblJvaTJ0WEF2R0xmRlVEOFZHOWtuclJ0VWpSSGRmcjVadm5TMzhSTS1uV0NjTTJRSGl5dVluTi1BbGh2dmtpUDVSMm0wOERxeDhaUlg2S1hscmY3ZG5faUtYLW1HWXlNTDY1WWFpaFdLQU5NWjM1N2xnSU5WLWRQMkxyMUJwamNIZGxtWG42NXlqZDc4V0lHTWJRbGhyeWFJZzBwdnJmWlVNWDlqTkIyUUpYTQ?oc=5",
         "published": "19 Apr 2026, 02:16 PM",
@@ -56,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUY5bUV4enViLWdfNU9WSzBtaHVfVG1MVGRXOFdkNi1VUU5laDJIdDFhLVAzaWliT1ctbmJ4emR1blJVaE45NDZIdTlyMW82bENpRlpUc05ieEVvaHZLU1VCQ3h0QUdMaWdkZkZZemVzTWU4MXBBQUphcjVuc2w3aXUxV0YzM3dWcVY0aWg3Tk5wM3lZcEJJME5feWxNQ1JubWRETWZxczJlSENaTzBLYTI2bmQyRFQtbkk4VXJLTWZVd9IBwgFBVV95cUxNSUY5bUV4enViLWdfNU9WSzBtaHVfVG1MVGRXOFdkNi1VUU5laDJIdDFhLVAzaWliT1ctbmJ4emR1blJVaE45NDZIdTlyMW82bENpRlpUc05ieEVvaHZLU1VCQ3h0QUdMaWdkZkZZemVzTWU4MXBBQUphcjVuc2w3aXUxV0YzM3dWcVY0aWg3Tk5wM3lZcEJJME5feWxNQ1JubWRETWZxczJlSENaTzBLYTI2bmQyRFQtbkk4VXJLTWZVdw?oc=5",
         "published": "19 Apr 2026, 11:04 AM",
         "iso_date": "2026-04-19T11:04:27+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVmRtUUdkYkVTZXE0VTB5MDd4VU9saktkU2ZDSG85R1VwZWhfWUpoQlZDVGE5ZlVjMHR3OTNoQ1h6djItU3JpTXBEQ2JOWjB4SE9OY0ZlTDN6TVlkWFVxOU5zWldFUUtYRk5QMTB4ZlZGVWVVYmM1NG9GLV8zSkxweU9DZzItRTBxRUNRSzVxZGtocmNUdUcxb3djZ1ZmR3d2RXJuZ0Ixd09RM19hU2Y1dnNzTDdGRDR3WWJYSlZXQmJ0MWkwX0dmMGNraC1tbW5JX0NwOHJCMnQ0MnV3VFJWbU9MV1F1b2h0VWt6TkNmSzI5WmxfU3VTQUprWEhDN3M2bkZzN3NXY2lTSG1JX3cybVZnS2x4SU5KNXVWdlY3NzZkMEltdWo1TWRMNlJvMDV6dVUyZmk2dWp3SkRBcWNkdHNDUktIRzZkMEZxcnNETWh6NUpHX3ZaWnI5UlVnN2FNOEhLa1JLVHNWVXBjeFp3UWd1VXNpRUpjWjN0Tw?oc=5",
-        "published": "18 Apr 2026, 11:12 PM",
-        "iso_date": "2026-04-18T23:12:35+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 17:13:19 UTC"
+  "fetched_at": "2026-04-19 17:45:17 UTC"
 }
