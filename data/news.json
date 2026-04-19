@@ -22,6 +22,16 @@
   "articles": {
     "bna": [
       {
+        "title": "Bahrain could strip citizenship for 'compromising security' during war",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXdkWmdqdnptVTFhblJvaTJ0WEF2R0xmRlVEOFZHOWtuclJ0VWpSSGRmcjVadm5TMzhSTS1uV0NjTTJRSGl5dVluTi1BbGh2dmtpUDVSMm0wOERxeDhaUlg2S1hscmY3ZG5faUtYLW1HWXlNTDY1WWFpaFdLQU5NWjM1N2xnSU5WLWRQMkxyMUJwamNIZGxtWG42NXlqZDc4V0lHTWJRbGhyeWFJZzBwdnJmWlVNWDlqTkIyUUpYTQ?oc=5",
+        "published": "19 Apr 2026, 02:16 PM",
+        "iso_date": "2026-04-19T14:16:09+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "BDF General Command: 194 missiles and 523 drones intercepted since start of Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObm1CX0xDVkk5UExkYU9nVHI4VnBBeENGZzhqbDFaOEYyM19KVnNMd1ZaMHphal9DaExCNGI4Vl9QNHRsTFZJb3A1cXA4bnlYVGtRLWJ1RlFLU19saHd2S01mWmotT2RackFPcmRrXzVXZnBrY0tvZDlXRWM4U3QxQUp5U3hYblYzbGc1b2Z2NG9XTzdvRWpiWTkwUTN6eE5Sb2Y5ZXc1Zm96QVdDRS1keS1fanFwbk1sVmJMaWgxcXpfU2NfcDlRQ1RUV2FJbGpCM2t6Uzl3?oc=5",
         "published": "18 Apr 2026, 07:58 PM",
@@ -46,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
         "published": "19 Apr 2026, 01:24 PM",
         "iso_date": "2026-04-19T13:24:32+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain welcomes IMO condemnation of Iran closing Strait of Hormuz - India's News.Net",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaE9fRnh3S1FZMmxIZzNCLXgtb3FCYnc3LTlJR3RZZWdGMlMyS0R0WWllMkNkSno5Rkx4QlQtQld5eUc0cHlaRnByRWpydHQtQkhMQ1lpYTNrTEsyU0VIYW1EU1hVbmZseFFxZFJ3ZWJLMnBjVEJrMEFyUVZsSzhRNlN6bGRiSF9HNHgzZklrWElUa1FGeUxzTDd6aHBjOU9pT04xNzBobk1fTGVr?oc=5",
-        "published": "19 Apr 2026, 03:53 AM",
-        "iso_date": "2026-04-19T03:53:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 14:16:04 UTC"
+  "fetched_at": "2026-04-19 14:45:44 UTC"
 }
