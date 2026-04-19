@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 13
+      "count": 14
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,6 +52,26 @@
         "category": "Latest"
       },
       {
+        "title": "The Latest: Trump says US Navy seizes Iranian-flagged cargo ship",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlVPc1ZkOGRiSUdRU1h2eFVCd05kTGtDY3R4Z0Ztb0dCaWJXU2xoSkJoamRQMm1yWjJCQU1KTnloa1I3UGhJeHFFa2dnUzlydm1CbTljZU1idHRUajJFelpzN1lLMjVWeEQ3OFJBaUNsbFRHUzUxYTV6bDAzN1BfWk1BYmg5UVpQT3dz0gGfAUFVX3lxTE94eklvOEtDdlNHR0RFOUhxLWo1b1JzeWpqa3ZieTlmLXJrZGpYRXo3WnZnX2VRb1VZNHZyQ2xiYWxoZjM4UFhVUXBVZzJ3YTdPT2poc19mVUJFNlRkQ1dGNTZLWnVIT1JLWXF6UmdNUmpMa3RhOWJSTWtaSlhWUUpyRUx6NlZlMzFyb21WRWhyMXR6OE1FbHR6OUIxTGNvMA?oc=5",
+        "published": "19 Apr 2026, 08:34 PM",
+        "iso_date": "2026-04-19T20:34:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Live updates: Standoff escalates after Iran closes Strait of Hormuz over U.S. blockade",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnpXR2x5ZUx0NUJHOEFaSmFOSGhINWZYeXdGMzVia0xzSU9MUkI0UkhBZVQxTENOVXFVeFFWQ1haZ1dHUlhtWWduUTN6UlV6b2NTY25OOVQweVJuOUxhaUs5X3NYczFRQXQ3ZmNxNEdyYUt5MGN1Z2czWnltUWpYN0o4OHdDclBBckczdXJUdjRHMzFjSnVTZHBxZGFKNzREblZ5UENOWGpYQ0NK0gG0AUFVX3lxTE9jaWt2UVJJSnpHNWtyQk1pazdRUmZsQXVZMFhnTTF0Z1U3VzNhMmdraG52a09KWUthR0dsdFU4TUh5aFRiSW9xN09vWHo1RTk4dFVRdUpSM3ZDV3RzWVF3c1JFdnZyQ0NwenFTMWkzdHBBX3cyVmpnNGZYdVROUmtNeE1OT0tORVoxMk5iaW43QTB1NFNPNnNvNjdKVnVndzI0dkdvbm9LcEIzSzd2YlJUMWVFdw?oc=5",
+        "published": "19 Apr 2026, 08:15 AM",
+        "iso_date": "2026-04-19T08:15:27+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain King addresses repercussions of war",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGJkZzRRa3hRVlRyTVNGb3c0ZThmOWF1eDBqc2FiYXlKeWlpMTl2OTNic2oyWWNNNmFXbnB5Mzd0dUJRVU1hRzlpSDJhVVlLU3E2YUMwOThLSmhVc3JGZU1XV0tqMHBhWVQydGw2d1lQVUlMc19vVTlNaGtOdVVpN3h0aS05UFNEanJzcDFFMFZ1ampwYjViR3NxZjlZUEV4S1ljUzRZaENRQXRXZXfSAa4BQVVfeXFMTWRiZGc0UWt4UVZUck1TRm93NGU4ZjlhdXgwanNhYmF5SnlpaTE5djkzYnNqMlljTTZhV25weTM3dHVCUVVNYUc5aUgyYVVZS1NxNmFDMDk4S0poVXNyRmVNV1dLajBwYVlUMnRsNndZUFVJTHNfb1U5TWhrTnVVaTd4dGktOVBTRGpyc3AxRTBWdWpqcGI1YkdzcWY5WVBFeEtZY1M0WWhDUUF0V2V3?oc=5",
         "published": "19 Apr 2026, 04:15 PM",
@@ -72,10 +92,10 @@
         "category": "Latest"
       },
       {
-        "title": "The Latest: Trump says talks to resume as standoff escalates over Strait of Hormuz",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdzFBSkt2S1p1NzdrcGNQd3k3MTBYZFFmOF80djBHZVcxMDhpdlRfZlJodm1wN0twNDBuUjhKeDhzc0xPWWxxdFFzd3ljTGg3YVRJUnlmV0FxaTFIaFBocEp5RVNQTTVUNjFlUUoyNnhCbmRla1JKZjVoNjFrbFExVk5WaWdKYUc0QVM5UEtTVVVXLUdNaFBxdVMyOVlNeHM5RVRqNm4zblVUYW1zdjQzRld6bkVKMERudmFRaENHOW9YMmotbWVqd1hiaWpxYVhDV1FHY25lZV9KYnfSAdsBQVVfeXFMUHcxQUpLdktadTc3a3BjUHd5NzEwWGRRZjhfNHYwR2VXMTA4aXZUX2ZSaHZtcDdLcDQwblI4Sng4c3NMT1lscXRRc3d5Y0xoN2FUSVJ5ZldBcWkxSGhQaHBKeUVTUE01VDYxZVFKMjZ4Qm5kZWtSSmY1aDYxa2xRMVZOVmlnSmFHNEFTOVBLU1VVVy1HTWhQcXVTMjlZTXhzOUVUajZuM25VVGFtc3Y0M0ZXem5FSjBEbnZhUWhDRzlvWDJqLW1landYYmlqcWFYQ1dRR2NuZWVfSmJ3?oc=5",
-        "published": "19 Apr 2026, 07:59 AM",
-        "iso_date": "2026-04-19T07:59:57+00:00",
+        "title": "Bahrain welcomes IMO condemnation of Iran closing Strait of Hormuz",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0M0Y0kwR01mdW44NDdFblZ1eHJZeVhiczhhZkxwVVdtcTdqZmhOTURNYlpfbTVaZW1LUHdqWk92N09QbW1NMWVicFZZNGxhUmp6bUVzdjVzRDU1QWU1dG1UNTRVbEJzRS0tUHlIeUFzMkx5bWs3RmtxenNCMy15bTJ1YndXZXFITExVT0ZtbG9BR1AtRXBkM21pcmZieXFvYm9XU3ZVdGQ3Wlk?oc=5",
+        "published": "19 Apr 2026, 07:53 AM",
+        "iso_date": "2026-04-19T07:53:39+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -140,49 +160,9 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Bahrain Welcomes IMO Condemnation Of Iran Closing Strait Of Hormuz",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUV9WSlN2dEZtaVRVcXlnN1lIRXZxbFRXQW1vTThWRGxaM3VkUnpQTGtRSFdZS21SM3hzVWlOdDU0MVk1VUc0cEZoUjdOZ0NsWEVlMGRGNExEX0lsb3R0TFRFbTRVVnBaSzhWMFl1c2lvVmR2WlpoOXE5d1VUemhtbVpGbFZ1VEJPaFc2QmprSnRMMEtoUmNqbENmcWpJd3py?oc=5",
-        "published": "18 Apr 2026, 10:30 PM",
-        "iso_date": "2026-04-18T22:30:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
-      {
-        "title": "Bahrain raps Iran in 11th letter to Security Council",
-        "link": "https://www.gdnonline.com/Details/1392004/Bahrain-raps-Iran-in-11th-letter-to-Security-Council",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419223317singlepic(14)_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Minister visits schools as in-person classes resume",
-        "link": "https://www.gdnonline.com/Details/1392003/Minister-visits-schools-as-in-person-classes-resume",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221714_0_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Private-sector wage support up for talks",
-        "link": "https://www.gdnonline.com/Details/1392002/Private-sector-wage-support-up-for-talks",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221713_0_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
       {
         "title": "Man on trial over death of Filipino cyclists in crash",
         "link": "https://www.gdnonline.com/Details/1392026/Man-on-trial-over-death-of-Filipino-cyclists-in-crash",
@@ -194,12 +174,42 @@
         "category": "Latest"
       },
       {
-        "title": "Ancient tokens reveal cultural and trade ties",
-        "link": "https://www.gdnonline.com/Details/1392007/Ancient-tokens-reveal-cultural-and-trade-ties",
+        "title": "Bahrainâs economy shows resilience says top official",
+        "link": "https://www.gdnonline.com/Details/1392034/Bahrainâs-economy-shows-resilience-says-top-official",
         "published": "20 Apr 2026",
         "iso_date": "2026-04-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221715_2_T.jpg?20260420",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420004325shaikhsalmanmeeting_T.jpg?20260420",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "UN role in South Sudan peace efforts praised",
+        "link": "https://www.gdnonline.com/Details/1392033/UN-role-in-South-Sudan-peace-efforts-praised-",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420004102unsc_T.jpg?20260420",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Unit probes 113 child cybersecurity cases",
+        "link": "https://www.gdnonline.com/Details/1392032/Unit-probes-113-child-cybersecurity-cases",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420003721one_T.jpg?20260420",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Speaker discusses Iranian attacks with counterparts",
+        "link": "https://www.gdnonline.com/Details/1392028/Speaker-discusses-Iranian-attacks-with-counterparts",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420_000400_0.jpeg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -239,7 +249,7 @@
         "published": "20 Apr 2026",
         "iso_date": "2026-04-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221730_0.jpeg?20260420",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420004027techsalary_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -589,5 +599,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 22:10:00 UTC"
+  "fetched_at": "2026-04-19 22:45:26 UTC"
 }
