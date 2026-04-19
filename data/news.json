@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
         "published": "19 Apr 2026, 01:24 PM",
         "iso_date": "2026-04-19T13:24:32+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQVmRtUUdkYkVTZXE0VTB5MDd4VU9saktkU2ZDSG85R1VwZWhfWUpoQlZDVGE5ZlVjMHR3OTNoQ1h6djItU3JpTXBEQ2JOWjB4SE9OY0ZlTDN6TVlkWFVxOU5zWldFUUtYRk5QMTB4ZlZGVWVVYmM1NG9GLV8zSkxweU9DZzItRTBxRUNRSzVxZGtocmNUdUcxb3djZ1ZmR3d2RXJuZ0Ixd09RM19hU2Y1dnNzTDdGRDR3WWJYSlZXQmJ0MWkwX0dmMGNraC1tbW5JX0NwOHJCMnQ0MnV3VFJWbU9MV1F1b2h0VWt6TkNmSzI5WmxfU3VTQUprWEhDN3M2bkZzN3NXY2lTSG1JX3cybVZnS2x4SU5KNXVWdlY3NzZkMEltdWo1TWRMNlJvMDV6dVUyZmk2dWp3SkRBcWNkdHNDUktIRzZkMEZxcnNETWh6NUpHX3ZaWnI5UlVnN2FNOEhLa1JLVHNWVXBjeFp3UWd1VXNpRUpjWjN0Tw?oc=5",
-        "published": "18 Apr 2026, 11:12 PM",
-        "iso_date": "2026-04-18T23:12:35+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,12 +216,72 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Elon Musk Fulfils Teen’s Final Wish in Heartfelt Online Tribute",
+        "link": "https://www.newsofbahrain.com/trends/130995.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_evfxPOFWNL_2026-04-19_1776617009resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Three US university students hurt in shooting",
+        "link": "https://www.newsofbahrain.com/world/130994.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qin2M9uOyV_2026-04-19_1776616347resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Nigeria bus kidnap victims all rescued: governor",
+        "link": "https://www.newsofbahrain.com/world/130993.html",
+        "published": "19 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-19T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Er90sQTDnP_2026-04-19_1776616145resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India Accelerates Push for Regional Energy Hub in Sri Lanka",
+        "link": "https://www.newsofbahrain.com/world/130992.html",
+        "published": "19 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-19T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HRLQfaVlAu_2026-04-19_1776615923resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Egyptian President Meets Kuwaiti Foreign Minister to Strengthen Bilateral Ties",
+        "link": "https://www.newsofbahrain.com/world/130991.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_429YMUpVtD_2026-04-19_1776615778resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Education Minister Conducts School Visits as In-Person Classes Resume",
+        "link": "https://www.newsofbahrain.com/bahrain/130990.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UK3j9XEN2q_2026-04-19_1776615214thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "NIHR Chairperson Meets German Ambassador to Strengthen Human Rights Cooperation",
         "link": "https://www.newsofbahrain.com/bahrain/130989.html",
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iIKJUdaX7V_2026-04-19_1776615040resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iIKJUdaX7V_2026-04-19_1776615040thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -241,77 +291,27 @@
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GSfCUvRkH3_2026-04-19_1776614674resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GSfCUvRkH3_2026-04-19_1776614674thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Royal Directive Calls for Immediate Measures Against National Security Breaches",
         "link": "https://www.newsofbahrain.com/bahrain/130987.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2zUJqHDsX0_2026-04-19_1776602462resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2zUJqHDsX0_2026-04-19_1776602462thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Weather Tantrums This week - Sunny Start, Humid Finish",
         "link": "https://www.newsofbahrain.com/bahrain/130986.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hvlcSRPHV8_2026-04-19_1776593868resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Employment Drive - Key Labour, Welfare and Industrial Policy Decisions to Review",
-        "link": "https://www.newsofbahrain.com/bahrain/130985.html",
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_moyRcsU8tE_2026-04-19_1776589429resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "First Makkah Route Flights Touch Down in Madinah",
-        "link": "https://www.newsofbahrain.com/world/130984.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F0ayXKY23c_2026-04-19_1776588733thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tankers Under Attack",
-        "link": "https://www.newsofbahrain.com/world/130973.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VK4mS2TDO5_2026-04-19_1776583657thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Thousands protest in Germany urging faster green shift",
-        "link": "https://www.newsofbahrain.com/world/130961.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JgflSuxGNK_2026-04-18_1776538405thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "At least 5 killed after gunman opens fire in Ukrainian capital",
-        "link": "https://www.newsofbahrain.com/world/130959.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4rVPe1SMUX_2026-04-18_1776537958thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hvlcSRPHV8_2026-04-19_1776593868thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 16:12:15 UTC"
+  "fetched_at": "2026-04-19 16:46:00 UTC"
 }
