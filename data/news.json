@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
         "published": "18 Apr 2026, 11:36 PM",
         "iso_date": "2026-04-18T23:36:41+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF General Command: 194 missiles and 523 drones intercepted since start of Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObm1CX0xDVkk5UExkYU9nVHI4VnBBeENGZzhqbDFaOEYyM19KVnNMd1ZaMHphal9DaExCNGI4Vl9QNHRsTFZJb3A1cXA4bnlYVGtRLWJ1RlFLU19saHd2S01mWmotT2RackFPcmRrXzVXZnBrY0tvZDlXRWM4U3QxQUp5U3hYblYzbGc1b2Z2NG9XTzdvRWpiWTkwUTN6eE5Sb2Y5ZXc1Zm96QVdDRS1keS1fanFwbk1sVmJMaWgxcXpfU2NfcDlRQ1RUV2FJbGpCM2t6Uzl3?oc=5",
+        "published": "18 Apr 2026, 07:58 PM",
+        "iso_date": "2026-04-18T19:58:20+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +226,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Mulberry Season Ends",
-        "link": "https://www.newsofbahrain.com/bahrain/130982.html",
+        "title": "Employment Drive - Key Labour, Welfare and Industrial Policy Decisions to Review",
+        "link": "https://www.newsofbahrain.com/bahrain/130985.html",
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_moyRcsU8tE_2026-04-19_1776589429resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "First Makkah Route Flights Touch Down in Madinah",
+        "link": "https://www.newsofbahrain.com/world/130984.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F0ayXKY23c_2026-04-19_1776588733resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Malkiya Leave It Late as Al Khaldiya Go Top",
+        "link": "https://www.newsofbahrain.com/sports/130983.html",
+        "published": "19 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-19T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CGMK7ZJLIl_2026-04-19_1776588408resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Mulberry Season Ends",
+        "link": "https://www.newsofbahrain.com/bahrain/130982.html",
+        "published": "19 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1tYRqTyn43_2026-04-19_1776588137resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,30 +278,20 @@
       {
         "title": "Captain's corner -  Iran Crisis Spurs Bahrain’s Strategic EV Motorcade",
         "link": "https://www.newsofbahrain.com/bahrain/130980.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m9dBzw6vlj_2026-04-19_1776587819resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m9dBzw6vlj_2026-04-19_1776587819thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "GAME NIGHTS AT LA PLAGE BRING THE ENERGY OF LIVE FOOTBALL TO THE RITZ-CARLTON, BAHRAIN",
         "link": "https://www.newsofbahrain.com/bahrain/130979.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_87rojc2Uly_2026-04-19_1776587150resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Employee Wins BD 31,000 Compensation",
-        "link": "https://www.newsofbahrain.com/bahrain/130978.html",
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NFjnyi3amZ_2026-04-19_1776585942resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_87rojc2Uly_2026-04-19_1776587150thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +322,6 @@
         "iso_date": "2026-04-18T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_4rVPe1SMUX_2026-04-18_1776537958thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "One Dead, Another Critically Injured After Car Strikes Pedestrians in Melbourne",
-        "link": "https://www.newsofbahrain.com/world/130957.html",
-        "published": "18 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-18T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5Jxr1mLBeV_2026-04-18_1776537173thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 08:47:30 UTC"
+  "fetched_at": "2026-04-19 09:18:21 UTC"
 }
