@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
         "published": "18 Apr 2026, 11:36 PM",
         "iso_date": "2026-04-18T23:36:41+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "BDF General Command: 194 missiles and 523 drones intercepted since start of Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObm1CX0xDVkk5UExkYU9nVHI4VnBBeENGZzhqbDFaOEYyM19KVnNMd1ZaMHphal9DaExCNGI4Vl9QNHRsTFZJb3A1cXA4bnlYVGtRLWJ1RlFLU19saHd2S01mWmotT2RackFPcmRrXzVXZnBrY0tvZDlXRWM4U3QxQUp5U3hYblYzbGc1b2Z2NG9XTzdvRWpiWTkwUTN6eE5Sb2Y5ZXc1Zm96QVdDRS1keS1fanFwbk1sVmJMaWgxcXpfU2NfcDlRQ1RUV2FJbGpCM2t6Uzl3?oc=5",
-        "published": "18 Apr 2026, 07:58 PM",
-        "iso_date": "2026-04-18T19:58:20+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 09:18:21 UTC"
+  "fetched_at": "2026-04-19 09:47:01 UTC"
 }
