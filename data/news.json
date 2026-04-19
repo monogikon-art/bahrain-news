@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 14
+      "count": 12
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 17
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -24,8 +24,8 @@
       {
         "title": "Bahrain To Review Citizenship, Strip Status From Those Linked to Iran’s IRGC",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObm9DWXJFQTZhU0E4VGdQVlZPSmd5NjRkMlNsNWgyZXppRjk5V2F5RTVDa2poOXJNSFNLTWFCN3UwZFVTeHJlNl8zMTAzbVZvTVZhbjljcWN3S1lKQ3NVWThDVFJnT3dPblBHR0ZhcXFMcTdIX3Nzd1NWazZJSmVtNHNUbjJEX2EzU2FBQ1RlTy15U0k3eFZQUmFmWDBuR1hyTl9nd1l2TkxhNEFwSDJv?oc=5",
-        "published": "19 Apr 2026, 09:03 PM",
-        "iso_date": "2026-04-19T21:03:27+00:00",
+        "published": "19 Apr 2026, 09:02 PM",
+        "iso_date": "2026-04-19T21:02:57+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -112,16 +112,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain King orders addressing repercussions of war",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1JoOGNrYmp6dFV0QXIxRFFLanhHRVhQc1NUVU8yaEJiMkJCa0JNMUc0TmhEOUtmMFNLR1BjWDRFTzRTTExZX2U5RlZqU2YwcEl0QXJJV2djMDFhUWR5b0FsUi1OQUlZODNBbGxmZmJqWHRsX2xyTmJ2ZGl0eVZKUEJORUl0YWxmUFRMU0YwcF96UE13dUNvbDFNZkFPUQ?oc=5",
-        "published": "19 Apr 2026, 02:56 PM",
-        "iso_date": "2026-04-19T14:56:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain welcomes IMO condemnation of Iran closing Strait of Hormuz - India's News.Net",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaE9fRnh3S1FZMmxIZzNCLXgtb3FCYnc3LTlJR3RZZWdGMlMyS0R0WWllMkNkSno5Rkx4QlQtQld5eUc0cHlaRnByRWpydHQtQkhMQ1lpYTNrTEsyU0VIYW1EU1hVbmZseFFxZFJ3ZWJLMnBjVEJrMEFyUVZsSzhRNlN6bGRiSF9HNHgzZklrWElUa1FGeUxzTDd6aHBjOU9pT04xNzBobk1fTGVr?oc=5",
         "published": "19 Apr 2026, 03:53 AM",
@@ -150,66 +140,96 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Bahraini Finance Minister, US Treasury Secretary Review Bilateral Financial, Economic Cooperation",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnZuRGIyYW5UNXhiZGxhSHFRNDJSZXZiWEVFWk9OdkhLemc5QTkzYmlRdVpTQTJIM3c4eUN5Wl9wbTcyWDRPbVR3WGdnWWFlaTlQTnVGVkJMNy1LMmlESV9vcGJpSGhjSmluRS11ajBGYjhhc3V1UG04SzFmS2x4Uk84dGgwTXY2RmEySTFMLUNWSGYwcFFFS056eURNNjg?oc=5",
-        "published": "18 Apr 2026, 09:30 PM",
-        "iso_date": "2026-04-18T21:30:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "King addresses repercussions of war and unjustified Iranian attacks on Bahrain",
-        "link": "https://www.gdnonline.com/Details/1391998/King-addresses-repercussions-of-war-and-unjustified-Iranian-attacks-on-Bahrain",
-        "published": "19 Apr 2026",
-        "iso_date": "2026-04-19T00:00:00",
+        "title": "Bahrain raps Iran in 11th letter to Security Council",
+        "link": "https://www.gdnonline.com/Details/1392004/Bahrain-raps-Iran-in-11th-letter-to-Security-Council",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419164233blurmiddle(1)_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419223317singlepic(14)_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrain calls on Iran to provide full compensation for damages resulting from its aggression in letter to UN",
-        "link": "https://www.gdnonline.com/Details/1391984/Bahrain-calls-on-Iran-to-provide-full-compensation-for-damages-resulting-from-its-aggression-in-letter-to-UN",
-        "published": "19 Apr 2026",
-        "iso_date": "2026-04-19T00:00:00",
+        "title": "Minister visits schools as in-person classes resume",
+        "link": "https://www.gdnonline.com/Details/1392003/Minister-visits-schools-as-in-person-classes-resume",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419131652websitesize(13)_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221714_0_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "EXCLUSIVE: Letâs aim for the sky",
-        "link": "https://www.gdnonline.com/Details/1391926/EXCLUSIVE-Letâs-aim-for-the-sky",
-        "published": "19 Apr 2026",
-        "iso_date": "2026-04-19T00:00:00",
+        "title": "Private-sector wage support up for talks",
+        "link": "https://www.gdnonline.com/Details/1392002/Private-sector-wage-support-up-for-talks",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_014129_0_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221713_0_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Retirees reloading and redefining life after 60",
-        "link": "https://www.gdnonline.com/Details/1391924/Retirees-reloading-and-redefining-life-after-60",
-        "published": "19 Apr 2026",
-        "iso_date": "2026-04-19T00:00:00",
+        "title": "Man on trial over death of Filipino cyclists in crash",
+        "link": "https://www.gdnonline.com/Details/1392026/Man-on-trial-over-death-of-Filipino-cyclists-in-crash",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_014105_2.jpeg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420001253filipinocyclist_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Mighty mission to preserve Bahrainâs wrestling history",
-        "link": "https://www.gdnonline.com/Details/1391925/Mighty-mission-to-preserve-Bahrainâs-wrestling-history",
-        "published": "19 Apr 2026",
-        "iso_date": "2026-04-19T00:00:00",
+        "title": "Ancient tokens reveal cultural and trade ties",
+        "link": "https://www.gdnonline.com/Details/1392007/Ancient-tokens-reveal-cultural-and-trade-ties",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_014118_0_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221715_2_T.jpg?20260420",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain and Bermuda sign protocol amending double taxation agreement",
+        "link": "https://www.gdnonline.com/Details/1392019/Bahrain-and-Bermuda-sign-protocol-amending-double-taxation-agreement",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221740_0_T.jpg?20260420",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "NBB partners with BLME to offer UK property finance",
+        "link": "https://www.gdnonline.com/Details/1392017/NBB-partners-with-BLME-to-offer-UK-property-finance",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221739_0_T.jpg?20260420",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BAS joins IATAâs GHP programme",
+        "link": "https://www.gdnonline.com/Details/1392018/BAS-joins-IATAâs-GHP-programme",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419225215singlepic(16)_T.jpg?20260420",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Tech sector âmoves towards data-driven talent sourcingâ",
+        "link": "https://www.gdnonline.com/Details/1392016/Tech-sector-âmoves-towards-data-driven-talent-sourcingâ",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221730_0.jpeg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -219,7 +239,7 @@
         "published": "18 Apr 2026",
         "iso_date": "2026-04-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418042650images_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418042650images_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -229,7 +249,7 @@
         "published": "19 Apr 2026",
         "iso_date": "2026-04-19T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419031636matchaction_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419031636matchaction_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -239,7 +259,7 @@
         "published": "19 Apr 2026",
         "iso_date": "2026-04-19T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419030144footballalr_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419030144footballalr_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -249,7 +269,7 @@
         "published": "19 Apr 2026",
         "iso_date": "2026-04-19T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_024120_0_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_024120_0_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -259,7 +279,7 @@
         "published": "19 Apr 2026",
         "iso_date": "2026-04-19T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_024119_0_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_024119_0_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -269,7 +289,7 @@
         "published": "18 Apr 2026",
         "iso_date": "2026-04-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418012501ff_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418012501ff_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -279,7 +299,7 @@
         "published": "19 Apr 2026",
         "iso_date": "2026-04-19T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419103033websitesize(33)_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419103033websitesize(33)_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -289,7 +309,7 @@
         "published": "18 Apr 2026",
         "iso_date": "2026-04-18T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418_121045_0_T.jpg?20260419",
+        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418_121045_0_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       }
@@ -559,5 +579,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 21:12:19 UTC"
+  "fetched_at": "2026-04-19 21:44:59 UTC"
 }
