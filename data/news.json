@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 9
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "US-Iran Talks Stalled, Gulf Tensions Rise Amid Fragile Middle East Ceasefire",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUFjcV9nNmc0QVZIaE1KOHdrRmRyVGlBTTBCc0ZQbjVKVkRWbTJ0SkpLVnA1dVJ2ZWEzM1RxSVQtWVZucW9yS2RHWlZKZ2E5Smg4ZjlYZDFwRGoyZVpFcHFabURjeGZ4UWNaOFotdDVLaUhKcDd2QU9wbVV5Xzl4eFJyZmZ2NTRhT0lGaUotU3ZQbzhsVkw1MEg4OUpHaVVsRDFBNG90dGVNNUZkcXNlbnFXaWtSWTBqc3RmVGQ2VQ?oc=5",
+        "published": "19 Apr 2026, 12:25 AM",
+        "iso_date": "2026-04-19T00:25:19+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain Welcomes IMO Condemnation Of Iran Closing Strait Of Hormuz",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUV9WSlN2dEZtaVRVcXlnN1lIRXZxbFRXQW1vTThWRGxaM3VkUnpQTGtRSFdZS21SM3hzVWlOdDU0MVk1VUc0cEZoUjdOZ0NsWEVlMGRGNExEX0lsb3R0TFRFbTRVVnBaSzhWMFl1c2lvVmR2WlpoOXE5d1VUemhtbVpGbFZ1VEJPaFc2QmprSnRMMEtoUmNqbENmcWpJd3py?oc=5",
@@ -104,22 +114,52 @@
         "category": "Latest"
       },
       {
+        "title": "Victor winner sends Shabab Al Ahli into ACL Elite semis",
+        "link": "https://www.gdnonline.com/Details/1391948/Victor-winner-sends-Shabab-Al-Ahli-into-ACL-Elite-semis",
+        "published": "19 Apr 2026",
+        "iso_date": "2026-04-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419031636matchaction_T.jpg?20260419",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Khaldiya back atop table with fine win",
+        "link": "https://www.gdnonline.com/Details/1391943/Khaldiya-back-atop-table-with-fine-win",
+        "published": "19 Apr 2026",
+        "iso_date": "2026-04-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419030144footballalr_T.jpg?20260419",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "United seal win over Chelsea",
+        "link": "https://www.gdnonline.com/Details/1391950/United-seal-win-over-Chelsea",
+        "published": "19 Apr 2026",
+        "iso_date": "2026-04-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_024120_0_T.jpg?20260419",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Spursâ survival hopes fade in Brightonâs late surge",
+        "link": "https://www.gdnonline.com/Details/1391949/Spursâ-survival-hopes-fade-in-Brightonâs-late-surge",
+        "published": "19 Apr 2026",
+        "iso_date": "2026-04-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_024119_0_T.jpg?20260419",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Madan on target in Riffa's late victory",
         "link": "https://www.gdnonline.com/Details/1381871/Madan-on-target-in-Riffas-late-victory",
         "published": "18 Apr 2026",
         "iso_date": "2026-04-18T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260418/20260418012501ff_T.jpg?20260419",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "National team to play Georgia friendly",
-        "link": "https://www.gdnonline.com/Details/1381868/National-team-to-play-Georgia-friendly",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418011942talajic_T.jpg?20260419",
         "source": "gdn",
         "category": "Latest"
       },
@@ -399,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 00:31:23 UTC"
+  "fetched_at": "2026-04-19 01:35:34 UTC"
 }
