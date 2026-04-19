@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -72,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "US-Iran Talks Stalled, Gulf Tensions Rise Amid Fragile Middle East Ceasefire",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUFjcV9nNmc0QVZIaE1KOHdrRmRyVGlBTTBCc0ZQbjVKVkRWbTJ0SkpLVnA1dVJ2ZWEzM1RxSVQtWVZucW9yS2RHWlZKZ2E5Smg4ZjlYZDFwRGoyZVpFcHFabURjeGZ4UWNaOFotdDVLaUhKcDd2QU9wbVV5Xzl4eFJyZmZ2NTRhT0lGaUotU3ZQbzhsVkw1MEg4OUpHaVVsRDFBNG90dGVNNUZkcXNlbnFXaWtSWTBqc3RmVGQ2VQ?oc=5",
-        "published": "19 Apr 2026, 12:25 AM",
-        "iso_date": "2026-04-19T00:25:19+00:00",
+        "title": "Bahrain King orders addressing repercussions of war",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1JoOGNrYmp6dFV0QXIxRFFLanhHRVhQc1NUVU8yaEJiMkJCa0JNMUc0TmhEOUtmMFNLR1BjWDRFTzRTTExZX2U5RlZqU2YwcEl0QXJJV2djMDFhUWR5b0FsUi1OQUlZODNBbGxmZmJqWHRsX2xyTmJ2ZGl0eVZKUEJORUl0YWxmUFRMU0YwcF96UE13dUNvbDFNZkFPUQ?oc=5",
+        "published": "19 Apr 2026, 02:56 PM",
+        "iso_date": "2026-04-19T14:56:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,10 +226,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Royal Directive Calls for Immediate Measures Against National Security Breaches",
-        "link": "https://www.newsofbahrain.com/bahrain/130987.html",
+        "title": "NIHR Chairperson Meets German Ambassador to Strengthen Human Rights Cooperation",
+        "link": "https://www.newsofbahrain.com/bahrain/130989.html",
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iIKJUdaX7V_2026-04-19_1776615040resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Industry Minister Meets French Ambassador to Strengthen Bilateral Cooperation",
+        "link": "https://www.newsofbahrain.com/bahrain/130988.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GSfCUvRkH3_2026-04-19_1776614674resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Royal Directive Calls for Immediate Measures Against National Security Breaches",
+        "link": "https://www.newsofbahrain.com/bahrain/130987.html",
+        "published": "19 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_2zUJqHDsX0_2026-04-19_1776602462resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +258,8 @@
       {
         "title": "Weather Tantrums This week - Sunny Start, Humid Finish",
         "link": "https://www.newsofbahrain.com/bahrain/130986.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
+        "published": "19 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hvlcSRPHV8_2026-04-19_1776593868resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,8 +268,8 @@
       {
         "title": "Employment Drive - Key Labour, Welfare and Industrial Policy Decisions to Review",
         "link": "https://www.newsofbahrain.com/bahrain/130985.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_moyRcsU8tE_2026-04-19_1776589429resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,40 +278,10 @@
       {
         "title": "First Makkah Route Flights Touch Down in Madinah",
         "link": "https://www.newsofbahrain.com/world/130984.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F0ayXKY23c_2026-04-19_1776588733resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Al Malkiya Leave It Late as Al Khaldiya Go Top",
-        "link": "https://www.newsofbahrain.com/sports/130983.html",
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CGMK7ZJLIl_2026-04-19_1776588408resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Mulberry Season Ends",
-        "link": "https://www.newsofbahrain.com/bahrain/130982.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1tYRqTyn43_2026-04-19_1776588137thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Homeless Filipino Family Brought Home Through Repatriation from Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/130981.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_r1eSpI8uCO_2026-04-19_1776587850thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F0ayXKY23c_2026-04-19_1776588733thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 15:45:14 UTC"
+  "fetched_at": "2026-04-19 16:12:15 UTC"
 }
