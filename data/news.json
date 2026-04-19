@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -80,19 +80,19 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Bahraini Finance Minister, US Treasury Secretary Review Bilateral Financial, Economic Cooperation",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnZuRGIyYW5UNXhiZGxhSHFRNDJSZXZiWEVFWk9OdkhLemc5QTkzYmlRdVpTQTJIM3c4eUN5Wl9wbTcyWDRPbVR3WGdnWWFlaTlQTnVGVkJMNy1LMmlESV9vcGJpSGhjSmluRS11ajBGYjhhc3V1UG04SzFmS2x4Uk84dGgwTXY2RmEySTFMLUNWSGYwcFFFS056eURNNjg?oc=5",
-        "published": "18 Apr 2026, 09:30 PM",
-        "iso_date": "2026-04-18T21:30:07+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "Bahrain calls on Iran to provide full compensation for damages resulting from its aggression in letter to UN",
+        "link": "https://www.gdnonline.com/Details/1391984/Bahrain-calls-on-Iran-to-provide-full-compensation-for-damages-resulting-from-its-aggression-in-letter-to-UN",
+        "published": "19 Apr 2026",
+        "iso_date": "2026-04-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419131652websitesize(13)_T.jpg?20260419",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "EXCLUSIVE: Letâs aim for the sky",
         "link": "https://www.gdnonline.com/Details/1391926/EXCLUSIVE-Letâs-aim-for-the-sky",
@@ -130,16 +130,6 @@
         "iso_date": "2026-04-19T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260419/20260419014640slap_T.jpg?20260419",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Man engaged in arson bid soon after release from jail",
-        "link": "https://www.gdnonline.com/Details/1391929/Man-engaged-in-arson-bid-soon-after-release-from-jail",
-        "published": "19 Apr 2026",
-        "iso_date": "2026-04-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419022355images_T.jpg?20260419",
         "source": "gdn",
         "category": "Latest"
       },
@@ -226,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Royal Directive Calls for Immediate Measures Against National Security Breaches",
+        "link": "https://www.newsofbahrain.com/bahrain/130987.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2zUJqHDsX0_2026-04-19_1776602462resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Weather Tantrums This week - Sunny Start, Humid Finish",
         "link": "https://www.newsofbahrain.com/bahrain/130986.html",
         "published": "19 Apr 2026, 09:22 AM",
@@ -238,8 +238,8 @@
       {
         "title": "Employment Drive - Key Labour, Welfare and Industrial Policy Decisions to Review",
         "link": "https://www.newsofbahrain.com/bahrain/130985.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
+        "published": "19 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-19T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_moyRcsU8tE_2026-04-19_1776589429resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +258,8 @@
       {
         "title": "Al Malkiya Leave It Late as Al Khaldiya Go Top",
         "link": "https://www.newsofbahrain.com/sports/130983.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_CGMK7ZJLIl_2026-04-19_1776588408resized_pic.jpg",
         "source": "newsofbahrain",
@@ -271,7 +271,7 @@
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1tYRqTyn43_2026-04-19_1776588137resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1tYRqTyn43_2026-04-19_1776588137thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,16 +282,6 @@
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_r1eSpI8uCO_2026-04-19_1776587850thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Captain's corner -  Iran Crisis Spurs Bahrain’s Strategic EV Motorcade",
-        "link": "https://www.newsofbahrain.com/bahrain/130980.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_m9dBzw6vlj_2026-04-19_1776587819thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 12:12:59 UTC"
+  "fetched_at": "2026-04-19 12:47:36 UTC"
 }
