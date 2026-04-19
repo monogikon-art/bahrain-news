@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 9
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUV9WSlN2dEZtaVRVcXlnN1lIRXZxbFRXQW1vTThWRGxaM3VkUnpQTGtRSFdZS21SM3hzVWlOdDU0MVk1VUc0cEZoUjdOZ0NsWEVlMGRGNExEX0lsb3R0TFRFbTRVVnBaSzhWMFl1c2lvVmR2WlpoOXE5d1VUemhtbVpGbFZ1VEJPaFc2QmprSnRMMEtoUmNqbENmcWpJd3py?oc=5",
         "published": "18 Apr 2026, 10:30 PM",
         "iso_date": "2026-04-18T22:30:07+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahraini Finance Minister, US Treasury Secretary Review Bilateral Financial, Economic Cooperation",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnZuRGIyYW5UNXhiZGxhSHFRNDJSZXZiWEVFWk9OdkhLemc5QTkzYmlRdVpTQTJIM3c4eUN5Wl9wbTcyWDRPbVR3WGdnWWFlaTlQTnVGVkJMNy1LMmlESV9vcGJpSGhjSmluRS11ajBGYjhhc3V1UG04SzFmS2x4Uk84dGgwTXY2RmEySTFMLUNWSGYwcFFFS056eURNNjg?oc=5",
+        "published": "18 Apr 2026, 09:30 PM",
+        "iso_date": "2026-04-18T21:30:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -94,26 +104,6 @@
         "category": "Latest"
       },
       {
-        "title": "Financial sector dominates as All Share Index closes higher",
-        "link": "https://www.gdnonline.com/Details/1381750/Financial-sector-dominates-as-All-Share-Index-closes-higher",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260416/20260416235057bzuxavk6jjlhzfbjpo7cax3dcy_T.jpg?20260419",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Application set to open for Al Salam Bankâs new initiative",
-        "link": "https://www.gdnonline.com/Details/1381743/Application-set-to-open-for-Al-Salam-Bankâs-new-initiative",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Madan on target in Riffa's late victory",
         "link": "https://www.gdnonline.com/Details/1381871/Madan-on-target-in-Riffas-late-victory",
         "published": "18 Apr 2026",
@@ -134,52 +124,12 @@
         "category": "Latest"
       },
       {
-        "title": "Former Austria goalkeeper Manninger dies at 48 after car hit by train",
-        "link": "https://www.gdnonline.com/Details/1381828/Former-Austria-goalkeeper-Manninger-dies-at-48-after-car-hit-by-train-",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417195503aus_T.jpg?20260419",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Arteta hopeful Madueke will be fit for Man City clash, rules out Saka",
-        "link": "https://www.gdnonline.com/Details/1381834/Arteta-hopeful-Madueke-will-be-fit-for-Man-City-clash,-rules-out-Saka",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417194906ars_T.jpg?20260419",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Man City need win over Arsenal or title hopes are over says Guardiola",
-        "link": "https://www.gdnonline.com/Details/1381824/Man-City-need-win-over-Arsenal-or-title-hopes-are-over-says-Guardiola",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417170216mc1_T.jpg?20260419",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Cinemas see summer sizzle in 'Spider-Man' and 'Star Wars'",
         "link": "https://www.gdnonline.com/Details/1381900/Cinemas-see-summer-sizzle-in-Spider-Man-and-Star-Wars",
         "published": "18 Apr 2026",
         "iso_date": "2026-04-18T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260418/20260418_121045_0_T.jpg?20260419",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Robert Downey Jr. and Chris Evans unite for Marvel's 'Doomsday'",
-        "link": "https://www.gdnonline.com/Details/1381808/Robert-Downey-Jr-and-Chris-Evans-unite-for-Marvels-Doomsday",
-        "published": "17 Apr 2026",
-        "iso_date": "2026-04-17T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260417/20260417_114152_0_T.jpg?20260419",
         "source": "gdn",
         "category": "Latest"
       }
@@ -449,5 +399,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-18 23:45:29 UTC"
+  "fetched_at": "2026-04-19 00:31:23 UTC"
 }
