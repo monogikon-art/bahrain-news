@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 12
+      "count": 13
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -72,6 +72,16 @@
         "category": "Latest"
       },
       {
+        "title": "The Latest: Trump says talks to resume as standoff escalates over Strait of Hormuz",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdzFBSkt2S1p1NzdrcGNQd3k3MTBYZFFmOF80djBHZVcxMDhpdlRfZlJodm1wN0twNDBuUjhKeDhzc0xPWWxxdFFzd3ljTGg3YVRJUnlmV0FxaTFIaFBocEp5RVNQTTVUNjFlUUoyNnhCbmRla1JKZjVoNjFrbFExVk5WaWdKYUc0QVM5UEtTVVVXLUdNaFBxdVMyOVlNeHM5RVRqNm4zblVUYW1zdjQzRld6bkVKMERudmFRaENHOW9YMmotbWVqd1hiaWpxYVhDV1FHY25lZV9KYnfSAdsBQVVfeXFMUHcxQUpLdktadTc3a3BjUHd5NzEwWGRRZjhfNHYwR2VXMTA4aXZUX2ZSaHZtcDdLcDQwblI4Sng4c3NMT1lscXRRc3d5Y0xoN2FUSVJ5ZldBcWkxSGhQaHBKeUVTUE01VDYxZVFKMjZ4Qm5kZWtSSmY1aDYxa2xRMVZOVmlnSmFHNEFTOVBLU1VVVy1HTWhQcXVTMjlZTXhzOUVUajZuM25VVGFtc3Y0M0ZXem5FSjBEbnZhUWhDRzlvWDJqLW1landYYmlqcWFYQ1dRR2NuZWVfSmJ3?oc=5",
+        "published": "19 Apr 2026, 07:59 AM",
+        "iso_date": "2026-04-19T07:59:57+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain demands 'full compensation' for damages after Iranian attacks during war",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUY5bUV4enViLWdfNU9WSzBtaHVfVG1MVGRXOFdkNi1VUU5laDJIdDFhLVAzaWliT1ctbmJ4emR1blJVaE45NDZIdTlyMW82bENpRlpUc05ieEVvaHZLU1VCQ3h0QUdMaWdkZkZZemVzTWU4MXBBQUphcjVuc2w3aXUxV0YzM3dWcVY0aWg3Tk5wM3lZcEJJME5feWxNQ1JubWRETWZxczJlSENaTzBLYTI2bmQyRFQtbkk4VXJLTWZVd9IBwgFBVV95cUxNSUY5bUV4enViLWdfNU9WSzBtaHVfVG1MVGRXOFdkNi1VUU5laDJIdDFhLVAzaWliT1ctbmJ4emR1blJVaE45NDZIdTlyMW82bENpRlpUc05ieEVvaHZLU1VCQ3h0QUdMaWdkZkZZemVzTWU4MXBBQUphcjVuc2w3aXUxV0YzM3dWcVY0aWg3Tk5wM3lZcEJJME5feWxNQ1JubWRETWZxczJlSENaTzBLYTI2bmQyRFQtbkk4VXJLTWZVdw?oc=5",
         "published": "19 Apr 2026, 11:04 AM",
@@ -85,7 +95,7 @@
         "title": "Bahrain Orders Review of Citizenship for Individuals Deemed Security Threats",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
         "published": "19 Apr 2026, 01:24 PM",
-        "iso_date": "2026-04-19T13:24:32+00:00",
+        "iso_date": "2026-04-19T13:24:50+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -579,5 +589,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 21:44:59 UTC"
+  "fetched_at": "2026-04-19 22:10:00 UTC"
 }
