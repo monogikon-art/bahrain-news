@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 13
+      "count": 12
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -76,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGJkZzRRa3hRVlRyTVNGb3c0ZThmOWF1eDBqc2FiYXlKeWlpMTl2OTNic2oyWWNNNmFXbnB5Mzd0dUJRVU1hRzlpSDJhVVlLU3E2YUMwOThLSmhVc3JGZU1XV0tqMHBhWVQydGw2d1lQVUlMc19vVTlNaGtOdVVpN3h0aS05UFNEanJzcDFFMFZ1ampwYjViR3NxZjlZUEV4S1ljUzRZaENRQXRXZXfSAa4BQVVfeXFMTWRiZGc0UWt4UVZUck1TRm93NGU4ZjlhdXgwanNhYmF5SnlpaTE5djkzYnNqMlljTTZhV25weTM3dHVCUVVNYUc5aUgyYVVZS1NxNmFDMDk4S0poVXNyRmVNV1dLajBwYVlUMnRsNndZUFVJTHNfb1U5TWhrTnVVaTd4dGktOVBTRGpyc3AxRTBWdWpqcGI1YkdzcWY5WVBFeEtZY1M0WWhDUUF0V2V3?oc=5",
         "published": "19 Apr 2026, 04:15 PM",
         "iso_date": "2026-04-19T16:15:24+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
-        "published": "18 Apr 2026, 11:36 PM",
-        "iso_date": "2026-04-18T23:36:41+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -164,8 +154,8 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrainâs economy shows resilience says top official",
-        "link": "https://www.gdnonline.com/Details/1392034/Bahrainâs-economy-shows-resilience-says-top-official",
+        "title": "Bahrainâs economy âcontinues to show resilienceâ",
+        "link": "https://www.gdnonline.com/Details/1392034/Bahrainâs-economy-âcontinues-to-show-resilienceâ",
         "published": "20 Apr 2026",
         "iso_date": "2026-04-20T00:00:00",
         "summary": "",
@@ -254,6 +244,16 @@
         "category": "Latest"
       },
       {
+        "title": "City shrink gap at top",
+        "link": "https://www.gdnonline.com/Details/1392042/City-shrink-gap-at-top",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420_011622_0_T.jpg?20260420",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Victor winner sends Shabab Al Ahli into ACL Elite semis",
         "link": "https://www.gdnonline.com/Details/1391948/Victor-winner-sends-Shabab-Al-Ahli-into-ACL-Elite-semis",
         "published": "19 Apr 2026",
@@ -290,16 +290,6 @@
         "iso_date": "2026-04-19T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_024119_0_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Madan on target in Riffa's late victory",
-        "link": "https://www.gdnonline.com/Details/1381871/Madan-on-target-in-Riffas-late-victory",
-        "published": "18 Apr 2026",
-        "iso_date": "2026-04-18T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260418/20260418012501ff_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -589,5 +579,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 23:12:55 UTC"
+  "fetched_at": "2026-04-19 23:45:22 UTC"
 }
