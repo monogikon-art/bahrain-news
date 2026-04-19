@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 12
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -204,6 +204,16 @@
         "category": "Latest"
       },
       {
+        "title": "Comedy trailblazer Eddie Murphy receives AFI Life Achievement Award",
+        "link": "https://www.gdnonline.com/Details/1391971/Comedy-trailblazer-Eddie-Murphy-receives-AFI-Life-Achievement-Award",
+        "published": "19 Apr 2026",
+        "iso_date": "2026-04-19T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419103033websitesize(33)_T.jpg?20260419",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Cinemas see summer sizzle in 'Spider-Man' and 'Star Wars'",
         "link": "https://www.gdnonline.com/Details/1381900/Cinemas-see-summer-sizzle-in-Spider-Man-and-Star-Wars",
         "published": "18 Apr 2026",
@@ -216,62 +226,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Employee Wins BD 31,000 Compensation",
+        "link": "https://www.newsofbahrain.com/bahrain/130978.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NFjnyi3amZ_2026-04-19_1776585942resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shop Eviction Ordered in BD5,400 Rent Case",
+        "link": "https://www.newsofbahrain.com/bahrain/130977.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Mft3BzJwK2_2026-04-19_1776585772resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Seafood Supply Surge",
+        "link": "https://www.newsofbahrain.com/bahrain/130976.html",
+        "published": "19 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-19T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_duZgA142KG_2026-04-19_1776585651resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Our Eyes Under Pressure… The Cost of a Digital Life",
+        "link": "https://www.newsofbahrain.com/bahrain/130975.html",
+        "published": "19 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-19T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_B9j48ebsw1_2026-04-19_1776584897resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rain, Recovery and Risk",
+        "link": "https://www.newsofbahrain.com/bahrain/130974.html",
+        "published": "19 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-19T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q8FjJUbPD3_2026-04-19_1776584064resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Tankers Under Attack",
         "link": "https://www.newsofbahrain.com/world/130973.html",
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VK4mS2TDO5_2026-04-19_1776583657resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Calls for Stronger Global Cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/130970.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wO7xRGjpoA_2026-04-19_1776582629resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "10-Year Sentence in Airport Drug Bust",
-        "link": "https://www.newsofbahrain.com/bahrain/130968.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LZQ1KB4tOp_2026-04-19_1776582231resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Rule of Law",
-        "link": "https://www.newsofbahrain.com/bahrain/130967.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G3DBVNeRXJ_2026-04-19_1776581932resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fake signatures Used in Workers Resignation",
-        "link": "https://www.newsofbahrain.com/bahrain/130966.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hWHixz2lbv_2026-04-19_1776581217resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Demands Full Compensation from Iran Over “Unlawful Aggression”",
-        "link": "https://www.newsofbahrain.com/bahrain/130963.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ry0lYVXcaG_2026-04-18_1776549302thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VK4mS2TDO5_2026-04-19_1776583657thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-19 07:32:05 UTC"
+  "fetched_at": "2026-04-19 08:21:47 UTC"
 }
