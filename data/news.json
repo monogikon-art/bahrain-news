@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -32,10 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain king orders addressing repercussions of war",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc05XTFBjcjlINUlsa0pFUDU1MXlDN1hYdlBUVTAwRnhMMWNVMnJ0akpBcDFTZTViTnhXOVI5bWpld05zSFVJUVhvU19jZ1ZHSm15cFpRUDVOMUVtT3BQWjZOV3VPT0pqczhrOWZPZ1RyNEFiV1NzaWpBN1BLTVNfaEtLS1I5aFI5dFJYSGJTMzlNTkk1Uk1uZUp5YmhUTHBQNEE?oc=5",
-        "published": "19 Apr 2026, 08:11 PM",
-        "iso_date": "2026-04-19T20:11:02+00:00",
+        "title": "Bahrain could strip citizenship for 'compromising security' during war",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXdkWmdqdnptVTFhblJvaTJ0WEF2R0xmRlVEOFZHOWtuclJ0VWpSSGRmcjVadm5TMzhSTS1uV0NjTTJRSGl5dVluTi1BbGh2dmtpUDVSMm0wOERxeDhaUlg2S1hscmY3ZG5faUtYLW1HWXlNTDY1WWFpaFdLQU5NWjM1N2xnSU5WLWRQMkxyMUJwamNIZGxtWG42NXlqZDc4V0lHTWJRbGhyeWFJZzBwdnJmWlVNWDlqTkIyUUpYTQ?oc=5",
+        "published": "19 Apr 2026, 02:16 PM",
+        "iso_date": "2026-04-19T14:16:09+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -43,19 +43,9 @@
       },
       {
         "title": "King Hamad says Bahrain to review citizenship amid crackdown on Iran-linked cells",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yMDVGSWFHTnp3akFkVm1fTERWYjhoUmN1R3ptYkVGQWxoSFY5X1FQZUpfU0JfVHBwQ3lldGdJdFR6ejBVa0FSeDVzYnQyMnd6SW9uaXgwNFBhTldYc3h0VlNRQlY?oc=5",
-        "published": "19 Apr 2026, 05:06 PM",
-        "iso_date": "2026-04-19T17:06:38+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain could strip citizenship for 'compromising security' during war",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXdkWmdqdnptVTFhblJvaTJ0WEF2R0xmRlVEOFZHOWtuclJ0VWpSSGRmcjVadm5TMzhSTS1uV0NjTTJRSGl5dVluTi1BbGh2dmtpUDVSMm0wOERxeDhaUlg2S1hscmY3ZG5faUtYLW1HWXlNTDY1WWFpaFdLQU5NWjM1N2xnSU5WLWRQMkxyMUJwamNIZGxtWG42NXlqZDc4V0lHTWJRbGhyeWFJZzBwdnJmWlVNWDlqTkIyUUpYTQ?oc=5",
-        "published": "19 Apr 2026, 02:16 PM",
-        "iso_date": "2026-04-19T14:16:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VU1U1UzNET1l0d2JJUFA0QUdVY3JwY3l1bkRfQkVQNlRidzExYkZjVHNRVWdLd0p3NlNBclRBdnQ3WEUyUmZaT2RPZDRqa2EwUjFR?oc=5",
+        "published": "19 Apr 2026, 04:35 PM",
+        "iso_date": "2026-04-19T16:35:27+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -126,6 +116,16 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM3FPY0NWOFhMY2dndTJhQ0x6Nnl2cVNRMGpaQzdBYURka0JRWUZPdTZPenhRdzVaRFAzYVpPaUhRNkNENjN5aDVKQThKUGZmeEdDekNsZ3ZWOEU?oc=5",
         "published": "19 Apr 2026, 06:09 PM",
         "iso_date": "2026-04-19T18:09:57+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain demands Iran pay reparations as aerial assault toll mounts",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSE1vUWhoLXlwSFJzcEhtNXR2WDk2NlVvenBXUlczYXNPOHhSNUFncVh6QTVfRGRHSFNYNWx3UEVuWXM1R01DbnJBV0taUDF2YW5mbndkQmwwQlRvVF91TGR1RzdkYkJoMElYTnZ1bjh5TU5OcldKS0VUMXhJRFNhUmx4MkNZV3BsZ3Q5dGE1Ql9UQ1ZMdXJhcDRxQzRRS2t3SGNoX1BCc2g?oc=5",
+        "published": "20 Apr 2026, 06:36 AM",
+        "iso_date": "2026-04-20T06:36:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -224,6 +224,16 @@
         "category": "Latest"
       },
       {
+        "title": "Burnley game is like a final, says Man City's Haaland",
+        "link": "https://www.gdnonline.com/Details/1392072/Burnley-game-is-like-a-final,-says-Man-Citys-Haaland",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420093319haaland_T.jpg?20260420",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "City shrink gap at top",
         "link": "https://www.gdnonline.com/Details/1392042/City-shrink-gap-at-top",
         "published": "20 Apr 2026",
@@ -264,16 +274,6 @@
         "category": "Latest"
       },
       {
-        "title": "Spursâ survival hopes fade in Brightonâs late surge",
-        "link": "https://www.gdnonline.com/Details/1391949/Spursâ-survival-hopes-fade-in-Brightonâs-late-surge",
-        "published": "19 Apr 2026",
-        "iso_date": "2026-04-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419_024119_0_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Comedy trailblazer Eddie Murphy receives AFI Life Achievement Award",
         "link": "https://www.gdnonline.com/Details/1391971/Comedy-trailblazer-Eddie-Murphy-receives-AFI-Life-Achievement-Award",
         "published": "19 Apr 2026",
@@ -286,12 +286,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Expat Hiring Gets Costlier",
+        "link": "https://www.newsofbahrain.com/bahrain/131007.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e4FuVtjqXY_2026-04-20_1776666939resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Manama reiterates UN demand for redress over damages",
+        "link": "https://www.newsofbahrain.com/bahrain/131006.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hiKf2VTo3k_2026-04-20_1776666841resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Airport Services Growth Success",
+        "link": "https://www.newsofbahrain.com/bahrain/131005.html",
+        "published": "20 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-20T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J0oWEmxLrR_2026-04-20_1776666057resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Scam Alert",
+        "link": "https://www.newsofbahrain.com/bahrain/131004.html",
+        "published": "20 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-20T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HbSfqoewXA_2026-04-20_1776665704resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Skies Witness Rare Celestial Show",
+        "link": "https://www.newsofbahrain.com/bahrain/131003.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wRblmhrNPf_2026-04-20_1776665387resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Qatari Prime Minister Holds Call with Dutch Foreign Minister on Regional Developments",
         "link": "https://www.newsofbahrain.com/world/131000.html",
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hbMQpsYHwl_2026-04-19_1776631672resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hbMQpsYHwl_2026-04-19_1776631672thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -301,77 +351,17 @@
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X13DPFv8Or_2026-04-19_1776631055resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Max Verstappen Pays Tribute After Fatal Nürburgring Crash",
-        "link": "https://www.newsofbahrain.com/sports/130998.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5ogtOAS0KR_2026-04-19_1776630844resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X13DPFv8Or_2026-04-19_1776631055thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Trump Says US Seized Iranian Ship in Gulf of Oman",
         "link": "https://www.newsofbahrain.com/world/130997.html",
-        "published": "19 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-19T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_s4nqEPfZHy_2026-04-19_1776630712resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Strong Economic Shift:   Bahrain's Non-Oil Growth Driving  Economic Stability",
-        "link": "https://www.newsofbahrain.com/bahrain/130996.html",
         "published": "19 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-19T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_r28VnEQBNL_2026-04-19_1776626470resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Education Minister Conducts School Visits as In-Person Classes Resume",
-        "link": "https://www.newsofbahrain.com/bahrain/130990.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UK3j9XEN2q_2026-04-19_1776615214thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NIHR Chairperson Meets German Ambassador to Strengthen Human Rights Cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/130989.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iIKJUdaX7V_2026-04-19_1776615040thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Industry Minister Meets French Ambassador to Strengthen Bilateral Cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/130988.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GSfCUvRkH3_2026-04-19_1776614674thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Royal Directive Calls for Immediate Measures Against National Security Breaches",
-        "link": "https://www.newsofbahrain.com/bahrain/130987.html",
-        "published": "19 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-19T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2zUJqHDsX0_2026-04-19_1776602462thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_s4nqEPfZHy_2026-04-19_1776630712thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 05:53:54 UTC"
+  "fetched_at": "2026-04-20 06:47:17 UTC"
 }
