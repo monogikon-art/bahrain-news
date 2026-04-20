@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 10
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -72,16 +72,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain could strip citizenship for 'compromising security' during war",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXdkWmdqdnptVTFhblJvaTJ0WEF2R0xmRlVEOFZHOWtuclJ0VWpSSGRmcjVadm5TMzhSTS1uV0NjTTJRSGl5dVluTi1BbGh2dmtpUDVSMm0wOERxeDhaUlg2S1hscmY3ZG5faUtYLW1HWXlNTDY1WWFpaFdLQU5NWjM1N2xnSU5WLWRQMkxyMUJwamNIZGxtWG42NXlqZDc4V0lHTWJRbGhyeWFJZzBwdnJmWlVNWDlqTkIyUUpYTQ?oc=5",
-        "published": "19 Apr 2026, 02:16 PM",
-        "iso_date": "2026-04-19T14:16:09+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain demands ‘full compensati­on’ for damages after Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaDZZem0xMkpWX2JITXl0ZmVFeDFoLTJhRlpLdnUyU1k2TTF0cVIzYXlEZG1zSUVvN3B4X284bk1BVXdSVHQzYVFXUnN6Y2ZrbENQd0xVOGJCY25RYTN4dzFub2wxcEh5RDhUQVFkb3h6SDM3VmpIMUNR?oc=5",
         "published": "20 Apr 2026, 12:03 AM",
@@ -124,6 +114,16 @@
     ],
     "gdn": [
       {
+        "title": "HRH Prince Salman receives the Crown Prince of Jordan",
+        "link": "https://www.gdnonline.com/Details/1392128/HRH-Prince-Salman-receives-the-Crown-Prince-of-Jordan",
+        "published": "20 Apr 2026",
+        "iso_date": "2026-04-20T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420160532cp12(3)_T.jpg?20260420",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "No room for betrayal",
         "link": "https://www.gdnonline.com/Details/1392056/No-room-for-betrayal",
         "published": "20 Apr 2026",
@@ -150,16 +150,6 @@
         "iso_date": "2026-04-20T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260420/20260420_000400_0.jpeg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Man on trial over death of Filipino cyclists in crash",
-        "link": "https://www.gdnonline.com/Details/1392026/Man-on-trial-over-death-of-Filipino-cyclists-in-crash",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420001253filipinocyclist_T.jpg?20260420",
         "source": "gdn",
         "category": "Latest"
       },
@@ -256,10 +246,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "HRH Crown Prince and Prime Minister receives the Crown Prince of the Hashemite Kingdom of Jordan",
-        "link": "https://www.newsofbahrain.com/bahrain/131078.html",
+        "title": "Louisiana Gunman Kills Eight Children, Including Seven of His Own, in Shreveport Mass Shooting",
+        "link": "https://www.newsofbahrain.com/world/131081.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5QtG30YLgC_2026-04-20_1776692400resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Deputy Prime Minister chairs the weekly Cabinet meeting",
+        "link": "https://www.newsofbahrain.com/bahrain/131080.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NjSk9ZnzhM_2026-04-20_1776692342resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pakistan's military chief takes lead on US-Iran talks in diplomatic blitz",
+        "link": "https://www.newsofbahrain.com/world/131079.html",
+        "published": "20 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-20T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q8YI7W2n1L_2026-04-20_1776692258resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Crown Prince of Jordan Visits Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/131078.html",
+        "published": "20 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9a2AowmR5D_2026-04-20_1776691977resized_pic.jpg",
         "source": "newsofbahrain",
@@ -272,36 +292,6 @@
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_DSdAw7m2PZ_2026-04-20_1776691888resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran not currently planning to attend new US talks: state media",
-        "link": "https://www.newsofbahrain.com/world/131076.html",
-        "published": "20 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aOh7TPcAi6_2026-04-20_1776691621resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian Woman Arrested in US Over Alleged Arms Trafficking to Sudan",
-        "link": "https://www.newsofbahrain.com/world/131075.html",
-        "published": "20 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6qOC5LHFxZ_2026-04-20_1776691495resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Nations gather for first-ever conference on fossil fuel exit",
-        "link": "https://www.newsofbahrain.com/world/131074.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v0wIaqtojR_2026-04-20_1776691282resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -336,12 +326,12 @@
         "category": "Latest"
       },
       {
-        "title": "IPU Elects First Female Secretary-General",
-        "link": "https://www.newsofbahrain.com/bahrain/131012.html",
+        "title": "Iran not currently planning to attend new US talks: state media",
+        "link": "https://www.newsofbahrain.com/world/131076.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nWSjJCyhKH_2026-04-20_1776670515thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aOh7TPcAi6_2026-04-20_1776691621thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 13:35:41 UTC"
+  "fetched_at": "2026-04-20 14:36:06 UTC"
 }
