@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 11
+      "count": 10
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -62,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Live updates: Standoff escalates after Iran closes Strait of Hormuz over U.S. blockade",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnpXR2x5ZUx0NUJHOEFaSmFOSGhINWZYeXdGMzVia0xzSU9MUkI0UkhBZVQxTENOVXFVeFFWQ1haZ1dHUlhtWWduUTN6UlV6b2NTY25OOVQweVJuOUxhaUs5X3NYczFRQXQ3ZmNxNEdyYUt5MGN1Z2czWnltUWpYN0o4OHdDclBBckczdXJUdjRHMzFjSnVTZHBxZGFKNzREblZ5UENOWGpYQ0NK0gG0AUFVX3lxTE9jaWt2UVJJSnpHNWtyQk1pazdRUmZsQXVZMFhnTTF0Z1U3VzNhMmdraG52a09KWUthR0dsdFU4TUh5aFRiSW9xN09vWHo1RTk4dFVRdUpSM3ZDV3RzWVF3c1JFdnZyQ0NwenFTMWkzdHBBX3cyVmpnNGZYdVROUmtNeE1OT0tORVoxMk5iaW43QTB1NFNPNnNvNjdKVnVndzI0dkdvbm9LcEIzSzd2YlJUMWVFdw?oc=5",
-        "published": "19 Apr 2026, 08:15 AM",
-        "iso_date": "2026-04-19T08:15:27+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain King addresses repercussions of war",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGJkZzRRa3hRVlRyTVNGb3c0ZThmOWF1eDBqc2FiYXlKeWlpMTl2OTNic2oyWWNNNmFXbnB5Mzd0dUJRVU1hRzlpSDJhVVlLU3E2YUMwOThLSmhVc3JGZU1XV0tqMHBhWVQydGw2d1lQVUlMc19vVTlNaGtOdVVpN3h0aS05UFNEanJzcDFFMFZ1ampwYjViR3NxZjlZUEV4S1ljUzRZaENRQXRXZXfSAa4BQVVfeXFMTWRiZGc0UWt4UVZUck1TRm93NGU4ZjlhdXgwanNhYmF5SnlpaTE5djkzYnNqMlljTTZhV25weTM3dHVCUVVNYUc5aUgyYVVZS1NxNmFDMDk4S0poVXNyRmVNV1dLajBwYVlUMnRsNndZUFVJTHNfb1U5TWhrTnVVaTd4dGktOVBTRGpyc3AxRTBWdWpqcGI1YkdzcWY5WVBFeEtZY1M0WWhDUUF0V2V3?oc=5",
         "published": "19 Apr 2026, 04:15 PM",
@@ -105,7 +95,7 @@
         "title": "Bahrain Orders Review of Citizenship for Individuals Deemed Security Threats",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
         "published": "19 Apr 2026, 01:24 PM",
-        "iso_date": "2026-04-19T13:24:50+00:00",
+        "iso_date": "2026-04-19T13:24:32+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 00:31:29 UTC"
+  "fetched_at": "2026-04-20 01:35:44 UTC"
 }
