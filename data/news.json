@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -246,6 +246,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Kaja Kallas Urges Urgent Action as Middle East Faces “Risk and Opportunity”",
+        "link": "https://www.newsofbahrain.com/world/131094.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uzY9VWiScx_2026-04-20_1776712107resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain condemns terrorist plot to destabilise UAE",
         "link": "https://www.newsofbahrain.com/world/131093.html",
         "published": "20 Apr 2026, 09:22 AM",
@@ -258,8 +268,8 @@
       {
         "title": "Saudi Crown Prince, Chinese President discuss regional developments",
         "link": "https://www.newsofbahrain.com/world/131092.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
+        "published": "20 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_bjqQhvEUy9_2026-04-20_1776710256resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,8 +288,8 @@
       {
         "title": "Saudi Arabia Records 15% Growth in Non-Oil Exports",
         "link": "https://www.newsofbahrain.com/world/131089.html",
-        "published": "20 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-20T09:00:43+00:00",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_nUlTh5DoVq_2026-04-20_1776709508resized_pic.jpg",
         "source": "newsofbahrain",
@@ -291,7 +301,7 @@
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y1xTVg3XhI_2026-04-20_1776709425resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y1xTVg3XhI_2026-04-20_1776709425thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 18:48:48 UTC"
+  "fetched_at": "2026-04-20 19:26:33 UTC"
 }
