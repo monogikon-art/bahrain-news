@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2hIRnFBYzRRSGtRTlVBWU5tYm5iby1tSGpvNVR3MU9KdUJ5d01kMm9COXcyaWZzNnhXOXFKYURkSkVVdzltcF9Pbk1zbW5sYmdNaDZ5M25HNUhnZEZsV1k4aGN1Q19weV9wOS15QUtvSUlLamRRbWhHc0xSRkpVbnBuRGN1Qmc4S1BBZ1BaZ0RYaU9wQlNVcnRXVQ?oc=5",
         "published": "20 Apr 2026, 12:22 PM",
         "iso_date": "2026-04-20T12:22:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain tightens security, reviews citizenship amid fallout from Iran war",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOERFYmhhSWIwaFlpNm1jSjZOYkFVOXRBN09jeWJLY2Y1NTVUck9SbFBjOEc2SVhTdTVUaURfVXhwRXJvZ19RbURLa2s3amJiWUtQeExIMGZLUFNEQXRTVW9qYml5eFJiMTVUTmpNR3k4MEFfWndoa21XaFkxMzJZZXQ4WEYtY29DWTBQbGZvc2FxcjNvVkdN?oc=5",
+        "published": "20 Apr 2026, 03:13 PM",
+        "iso_date": "2026-04-20T15:13:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 17:24:32 UTC"
+  "fetched_at": "2026-04-20 17:48:37 UTC"
 }
