@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 14
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -104,12 +104,32 @@
     ],
     "gdn": [
       {
+        "title": "Ties with UAE reviewed",
+        "link": "https://www.gdnonline.com/Details/1392177/Ties-with-UAE-reviewed",
+        "published": "21 Apr 2026",
+        "iso_date": "2026-04-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/2026042100531720260421_004951_0.jpeg?20260421",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Alumni gather for annual reunion",
         "link": "https://www.gdnonline.com/Details/1392147/Alumni-gather-for-annual-reunion",
         "published": "21 Apr 2026",
         "iso_date": "2026-04-21T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260421/20260420_222808_0_T.jpg?20260421",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "New hotline launched to report animal abuse cases",
+        "link": "https://www.gdnonline.com/Details/1392149/New-hotline-launched-to-report-animal-abuse-cases",
+        "published": "21 Apr 2026",
+        "iso_date": "2026-04-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/20260420_222810_0_T.jpg?20260421",
         "source": "gdn",
         "category": "Latest"
       },
@@ -124,22 +144,12 @@
         "category": "Latest"
       },
       {
-        "title": "HRH Prince Salman receives the Crown Prince of Jordan",
-        "link": "https://www.gdnonline.com/Details/1392128/HRH-Prince-Salman-receives-the-Crown-Prince-of-Jordan",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420160532cp12(3)_T.jpg?20260421",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "New hotline launched to report animal abuse cases",
-        "link": "https://www.gdnonline.com/Details/1392149/New-hotline-launched-to-report-animal-abuse-cases",
+        "title": "BDFâs role praised",
+        "link": "https://www.gdnonline.com/Details/1392178/BDFâs-role-praised",
         "published": "21 Apr 2026",
         "iso_date": "2026-04-21T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260421/20260420_222810_0_T.jpg?20260421",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_005111_0_T.jpg?20260421",
         "source": "gdn",
         "category": "Latest"
       },
@@ -184,6 +194,16 @@
         "category": "Latest"
       },
       {
+        "title": "West Ham miss chance to ease relegation fears",
+        "link": "https://www.gdnonline.com/Details/1392200/West-Ham-miss-chance-to-ease-relegation-fears",
+        "published": "21 Apr 2026",
+        "iso_date": "2026-04-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_015959_0_T.jpg?20260421",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Lionel Messi's brace helps Inter Miami slay Rapids in front of huge crowd",
         "link": "https://www.gdnonline.com/Details/1392070/Lionel-Messis-brace-helps-Inter-Miami-slay-Rapids-in-front-of-huge-crowd",
         "published": "20 Apr 2026",
@@ -220,16 +240,6 @@
         "iso_date": "2026-04-20T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260420/20260420094025salah1(7)_T.jpg?20260421",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Milan boost Champions League charge with win at Verona",
-        "link": "https://www.gdnonline.com/Details/1392067/Milan-boost-Champions-League-charge-with-win-at-Verona",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420094725milan_T.jpg?20260421",
         "source": "gdn",
         "category": "Latest"
       }
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 23:16:54 UTC"
+  "fetched_at": "2026-04-20 23:46:11 UTC"
 }
