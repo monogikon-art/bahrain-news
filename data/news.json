@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yMDVGSWFHTnp3akFkVm1fTERWYjhoUmN1R3ptYkVGQWxoSFY5X1FQZUpfU0JfVHBwQ3lldGdJdFR6ejBVa0FSeDVzYnQyMnd6SW9uaXgwNFBhTldYc3h0VlNRQlY?oc=5",
         "published": "20 Apr 2026, 02:04 AM",
         "iso_date": "2026-04-20T02:04:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain To Review Citizenship, Strip Status From Those Linked to Iran’s IRGC",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObm9DWXJFQTZhU0E4VGdQVlZPSmd5NjRkMlNsNWgyZXppRjk5V2F5RTVDa2poOXJNSFNLTWFCN3UwZFVTeHJlNl8zMTAzbVZvTVZhbjljcWN3S1lKQ3NVWThDVFJnT3dPblBHR0ZhcXFMcTdIX3Nzd1NWazZJSmVtNHNUbjJEX2EzU2FBQ1RlTy15U0k3eFZQUmFmWDBuR1hyTl9nd1l2TkxhNEFwSDJv?oc=5",
-        "published": "19 Apr 2026, 09:02 PM",
-        "iso_date": "2026-04-19T21:02:57+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 20:46:46 UTC"
+  "fetched_at": "2026-04-20 21:18:08 UTC"
 }
