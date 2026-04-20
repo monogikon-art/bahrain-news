@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 10
+      "count": 11
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObm9DWXJFQTZhU0E4VGdQVlZPSmd5NjRkMlNsNWgyZXppRjk5V2F5RTVDa2poOXJNSFNLTWFCN3UwZFVTeHJlNl8zMTAzbVZvTVZhbjljcWN3S1lKQ3NVWThDVFJnT3dPblBHR0ZhcXFMcTdIX3Nzd1NWazZJSmVtNHNUbjJEX2EzU2FBQ1RlTy15U0k3eFZQUmFmWDBuR1hyTl9nd1l2TkxhNEFwSDJv?oc=5",
         "published": "19 Apr 2026, 09:02 PM",
         "iso_date": "2026-04-19T21:02:57+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain king orders addressing repercussions of war",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc05XTFBjcjlINUlsa0pFUDU1MXlDN1hYdlBUVTAwRnhMMWNVMnJ0akpBcDFTZTViTnhXOVI5bWpld05zSFVJUVhvU19jZ1ZHSm15cFpRUDVOMUVtT3BQWjZOV3VPT0pqczhrOWZPZ1RyNEFiV1NzaWpBN1BLTVNfaEtLS1I5aFI5dFJYSGJTMzlNTkk1Uk1uZUp5YmhUTHBQNEE?oc=5",
+        "published": "19 Apr 2026, 08:11 PM",
+        "iso_date": "2026-04-19T20:11:02+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -56,6 +66,16 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVJhZ29KT1R1V0dpdVF6UDhoZUVmV3k2WTI4amhMNkZjR2pRaWhnYk9CeExrRnJpSG1BX2xWUW1xZzBLQk45SC1vd053LUpjZXJLSjhUcE1fTUdzOFhWYnhHT3ZVZ25EdzFndlRpNUJUZEVEQWptYjNma215RDFEOHp3RXhYbkhiNFAzZW82TG9sdE56a3NfXzZrRTdzVXFNcVVUVVRIU2VnSDUtQ3NPR1dpX3NwdkMzLU5Ebkdn0gHDAUFVX3lxTE9iYmZydnZtYWduak5MdU1XZDh4ZmN6ZmtZZXhUbnR2el9JOHdYVVpncmk1NXJSb1VIVk85Q3RVUE90dS1fc20wYy10X2RScXhRd183WllseUpaQVlCUExOdnNONzdBc3NhZWROdlBQR0NnbXEtQTFVX2hJc3hKWlc2WmF1WEp2NG1oVHNCUnhlclF0eThCdzdsX0Jra0Zkc2J3S252clhuS2RFQWsxaXhkVlEwMzdRU3hIZTBGVmF3ZkMwRQ?oc=5",
         "published": "19 Apr 2026, 08:34 PM",
         "iso_date": "2026-04-19T20:34:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Live updates: Standoff escalates after Iran closes Strait of Hormuz over U.S. blockade",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnpXR2x5ZUx0NUJHOEFaSmFOSGhINWZYeXdGMzVia0xzSU9MUkI0UkhBZVQxTENOVXFVeFFWQ1haZ1dHUlhtWWduUTN6UlV6b2NTY25OOVQweVJuOUxhaUs5X3NYczFRQXQ3ZmNxNEdyYUt5MGN1Z2czWnltUWpYN0o4OHdDclBBckczdXJUdjRHMzFjSnVTZHBxZGFKNzREblZ5UENOWGpYQ0NK0gG0AUFVX3lxTE9jaWt2UVJJSnpHNWtyQk1pazdRUmZsQXVZMFhnTTF0Z1U3VzNhMmdraG52a09KWUthR0dsdFU4TUh5aFRiSW9xN09vWHo1RTk4dFVRdUpSM3ZDV3RzWVF3c1JFdnZyQ0NwenFTMWkzdHBBX3cyVmpnNGZYdVROUmtNeE1OT0tORVoxMk5iaW43QTB1NFNPNnNvNjdKVnVndzI0dkdvbm9LcEIzSzd2YlJUMWVFdw?oc=5",
+        "published": "19 Apr 2026, 08:15 AM",
+        "iso_date": "2026-04-19T08:15:27+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -106,16 +126,6 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM3FPY0NWOFhMY2dndTJhQ0x6Nnl2cVNRMGpaQzdBYURka0JRWUZPdTZPenhRdzVaRFAzYVpPaUhRNkNENjN5aDVKQThKUGZmeEdDekNsZ3ZWOEU?oc=5",
         "published": "19 Apr 2026, 06:09 PM",
         "iso_date": "2026-04-19T18:09:57+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain welcomes IMO condemnation of Iran closing Strait of Hormuz - India's News.Net",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaE9fRnh3S1FZMmxIZzNCLXgtb3FCYnc3LTlJR3RZZWdGMlMyS0R0WWllMkNkSno5Rkx4QlQtQld5eUc0cHlaRnByRWpydHQtQkhMQ1lpYTNrTEsyU0VIYW1EU1hVbmZseFFxZFJ3ZWJLMnBjVEJrMEFyUVZsSzhRNlN6bGRiSF9HNHgzZklrWElUa1FGeUxzTDd6aHBjOU9pT04xNzBobk1fTGVr?oc=5",
-        "published": "19 Apr 2026, 03:53 AM",
-        "iso_date": "2026-04-19T03:53:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -539,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 03:06:41 UTC"
+  "fetched_at": "2026-04-20 04:33:48 UTC"
 }
