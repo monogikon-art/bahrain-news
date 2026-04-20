@@ -10,42 +10,32 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 14
     }
   },
   "articles": {
     "bna": [
       {
+        "title": "Bahrain welcomes IMO condemnation of Iran closing Strait of Hormuz",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3RUeWYteEc2YTY0SG5aenNsN2FVdUNMM28yUUdtdGtjZWtJUEE3VkVvMERTS0xmSlo1eWsxckE3N2ExQS1aR0FlVlhOREc0VzZ4Y0FzVW5tNWtLSXFSLTV2UFFCUjY1cmM5UEszUlNoTThrV1pHRGlGdlptS2pya0lLOWVpUGswa0VHVHRrU2FDRmlzSzlkZk85QUpBOF94c2RTb0JLdHRqZms5UGYteHZFTDdfZw?oc=5",
+        "published": "20 Apr 2026, 08:08 AM",
+        "iso_date": "2026-04-20T08:08:04+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain To Review Citizenship, Strip Status From Those Linked to Iran’s IRGC",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObm9DWXJFQTZhU0E4VGdQVlZPSmd5NjRkMlNsNWgyZXppRjk5V2F5RTVDa2poOXJNSFNLTWFCN3UwZFVTeHJlNl8zMTAzbVZvTVZhbjljcWN3S1lKQ3NVWThDVFJnT3dPblBHR0ZhcXFMcTdIX3Nzd1NWazZJSmVtNHNUbjJEX2EzU2FBQ1RlTy15U0k3eFZQUmFmWDBuR1hyTl9nd1l2TkxhNEFwSDJv?oc=5",
         "published": "19 Apr 2026, 09:02 PM",
         "iso_date": "2026-04-19T21:02:57+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain king orders addressing repercussions of war",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc05XTFBjcjlINUlsa0pFUDU1MXlDN1hYdlBUVTAwRnhMMWNVMnJ0akpBcDFTZTViTnhXOVI5bWpld05zSFVJUVhvU19jZ1ZHSm15cFpRUDVOMUVtT3BQWjZOV3VPT0pqczhrOWZPZ1RyNEFiV1NzaWpBN1BLTVNfaEtLS1I5aFI5dFJYSGJTMzlNTkk1Uk1uZUp5YmhUTHBQNEE?oc=5",
-        "published": "19 Apr 2026, 08:11 PM",
-        "iso_date": "2026-04-19T20:11:02+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "The Latest: Iran Threatens to Respond After US Navy Seizes an Iranian-Flagged Cargo Ship - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMjhVYlMyS2dLQXVVMnNteTYtckhFY0FlUXdXYXlsd09EZ1BlVVZDWDRndUNPYUpKS1NJYWtybFBWTk1fdkRJQnFFODktNDNvZFNjMllaOHJRT280TUFKbHhKNXNrRjlFYl9kYlV4TndDUEVwWjM1eEliQW9vcmp4TU1wSkl5X3FyMDNxMklHdkdpV3V6NE1sUnZ5OEFtRWI0cGRNUldJYWdCVW1KQzduX0ZKTkE3UDhfN1E2aVI0elpZdnNvMXpHQnV6WGtCMG5m?oc=5",
-        "published": "20 Apr 2026, 04:31 AM",
-        "iso_date": "2026-04-20T04:31:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,6 +62,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain king orders addressing repercussions of war",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc05XTFBjcjlINUlsa0pFUDU1MXlDN1hYdlBUVTAwRnhMMWNVMnJ0akpBcDFTZTViTnhXOVI5bWpld05zSFVJUVhvU19jZ1ZHSm15cFpRUDVOMUVtT3BQWjZOV3VPT0pqczhrOWZPZ1RyNEFiV1NzaWpBN1BLTVNfaEtLS1I5aFI5dFJYSGJTMzlNTkk1Uk1uZUp5YmhUTHBQNEE?oc=5",
+        "published": "19 Apr 2026, 08:11 PM",
+        "iso_date": "2026-04-19T20:11:02+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain King addresses repercussions of war",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGJkZzRRa3hRVlRyTVNGb3c0ZThmOWF1eDBqc2FiYXlKeWlpMTl2OTNic2oyWWNNNmFXbnB5Mzd0dUJRVU1hRzlpSDJhVVlLU3E2YUMwOThLSmhVc3JGZU1XV0tqMHBhWVQydGw2d1lQVUlMc19vVTlNaGtOdVVpN3h0aS05UFNEanJzcDFFMFZ1ampwYjViR3NxZjlZUEV4S1ljUzRZaENRQXRXZXfSAa4BQVVfeXFMTWRiZGc0UWt4UVZUck1TRm93NGU4ZjlhdXgwanNhYmF5SnlpaTE5djkzYnNqMlljTTZhV25weTM3dHVCUVVNYUc5aUgyYVVZS1NxNmFDMDk4S0poVXNyRmVNV1dLajBwYVlUMnRsNndZUFVJTHNfb1U5TWhrTnVVaTd4dGktOVBTRGpyc3AxRTBWdWpqcGI1YkdzcWY5WVBFeEtZY1M0WWhDUUF0V2V3?oc=5",
         "published": "19 Apr 2026, 04:15 PM",
@@ -92,20 +92,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain demands 'full compensation' for damages after Iranian attacks during war",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUY5bUV4enViLWdfNU9WSzBtaHVfVG1MVGRXOFdkNi1VUU5laDJIdDFhLVAzaWliT1ctbmJ4emR1blJVaE45NDZIdTlyMW82bENpRlpUc05ieEVvaHZLU1VCQ3h0QUdMaWdkZkZZemVzTWU4MXBBQUphcjVuc2w3aXUxV0YzM3dWcVY0aWg3Tk5wM3lZcEJJME5feWxNQ1JubWRETWZxczJlSENaTzBLYTI2bmQyRFQtbkk4VXJLTWZVd9IBwgFBVV95cUxNSUY5bUV4enViLWdfNU9WSzBtaHVfVG1MVGRXOFdkNi1VUU5laDJIdDFhLVAzaWliT1ctbmJ4emR1blJVaE45NDZIdTlyMW82bENpRlpUc05ieEVvaHZLU1VCQ3h0QUdMaWdkZkZZemVzTWU4MXBBQUphcjVuc2w3aXUxV0YzM3dWcVY0aWg3Tk5wM3lZcEJJME5feWxNQ1JubWRETWZxczJlSENaTzBLYTI2bmQyRFQtbkk4VXJLTWZVdw?oc=5",
-        "published": "19 Apr 2026, 11:04 AM",
-        "iso_date": "2026-04-19T11:04:27+00:00",
+        "title": "Bahrain King orders action to address war repercussions",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM3FPY0NWOFhMY2dndTJhQ0x6Nnl2cVNRMGpaQzdBYURka0JRWUZPdTZPenhRdzVaRFAzYVpPaUhRNkNENjN5aDVKQThKUGZmeEdDekNsZ3ZWOEU?oc=5",
+        "published": "19 Apr 2026, 06:09 PM",
+        "iso_date": "2026-04-19T18:09:57+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain King orders action to address war repercussions",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM3FPY0NWOFhMY2dndTJhQ0x6Nnl2cVNRMGpaQzdBYURka0JRWUZPdTZPenhRdzVaRFAzYVpPaUhRNkNENjN5aDVKQThKUGZmeEdDekNsZ3ZWOEU?oc=5",
-        "published": "19 Apr 2026, 06:09 PM",
-        "iso_date": "2026-04-19T18:09:57+00:00",
+        "title": "Bahrain demands 'full compensation' for damages after Iranian attacks during war",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUY5bUV4enViLWdfNU9WSzBtaHVfVG1MVGRXOFdkNi1VUU5laDJIdDFhLVAzaWliT1ctbmJ4emR1blJVaE45NDZIdTlyMW82bENpRlpUc05ieEVvaHZLU1VCQ3h0QUdMaWdkZkZZemVzTWU4MXBBQUphcjVuc2w3aXUxV0YzM3dWcVY0aWg3Tk5wM3lZcEJJME5feWxNQ1JubWRETWZxczJlSENaTzBLYTI2bmQyRFQtbkk4VXJLTWZVd9IBwgFBVV95cUxNSUY5bUV4enViLWdfNU9WSzBtaHVfVG1MVGRXOFdkNi1VUU5laDJIdDFhLVAzaWliT1ctbmJ4emR1blJVaE45NDZIdTlyMW82bENpRlpUc05ieEVvaHZLU1VCQ3h0QUdMaWdkZkZZemVzTWU4MXBBQUphcjVuc2w3aXUxV0YzM3dWcVY0aWg3Tk5wM3lZcEJJME5feWxNQ1JubWRETWZxczJlSENaTzBLYTI2bmQyRFQtbkk4VXJLTWZVdw?oc=5",
+        "published": "19 Apr 2026, 11:04 AM",
+        "iso_date": "2026-04-19T11:04:27+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -122,196 +122,55 @@
         "category": "Latest"
       }
     ],
-    "gdn": [
-      {
-        "title": "Man on trial over death of Filipino cyclists in crash",
-        "link": "https://www.gdnonline.com/Details/1392026/Man-on-trial-over-death-of-Filipino-cyclists-in-crash",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420001253filipinocyclist_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrainâs economy âcontinues to show resilienceâ",
-        "link": "https://www.gdnonline.com/Details/1392034/Bahrainâs-economy-âcontinues-to-show-resilienceâ",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420004325shaikhsalmanmeeting_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "UN role in South Sudan peace efforts praised",
-        "link": "https://www.gdnonline.com/Details/1392033/UN-role-in-South-Sudan-peace-efforts-praised-",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420004102unsc_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Unit probes 113 child cybersecurity cases",
-        "link": "https://www.gdnonline.com/Details/1392032/Unit-probes-113-child-cybersecurity-cases",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420003721one_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Speaker discusses Iranian attacks with counterparts",
-        "link": "https://www.gdnonline.com/Details/1392028/Speaker-discusses-Iranian-attacks-with-counterparts",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420_000400_0.jpeg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain and Bermuda sign protocol amending double taxation agreement",
-        "link": "https://www.gdnonline.com/Details/1392019/Bahrain-and-Bermuda-sign-protocol-amending-double-taxation-agreement",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221740_0_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB partners with BLME to offer UK property finance",
-        "link": "https://www.gdnonline.com/Details/1392017/NBB-partners-with-BLME-to-offer-UK-property-finance",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221739_0_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BAS joins IATAâs GHP programme",
-        "link": "https://www.gdnonline.com/Details/1392018/BAS-joins-IATAâs-GHP-programme",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419225215singlepic(16)_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Tech sector âmoves towards data-driven talent sourcingâ",
-        "link": "https://www.gdnonline.com/Details/1392016/Tech-sector-âmoves-towards-data-driven-talent-sourcingâ",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420004027techsalary_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "City shrink gap at top",
-        "link": "https://www.gdnonline.com/Details/1392042/City-shrink-gap-at-top",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420_011622_0_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "USMA reach Confederation Cup final after violence-marred clash with Safi",
-        "link": "https://www.gdnonline.com/Details/1392066/USMA-reach-Confederation-Cup-final-after-violence-marred-clash-with-Safi",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420112850usma_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Burnley game is like a final, says Man City's Haaland",
-        "link": "https://www.gdnonline.com/Details/1392072/Burnley-game-is-like-a-final,-says-Man-Citys-Haaland",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420093319haaland_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Liverpool's Salah bids farewell to Everton with another derby goal",
-        "link": "https://www.gdnonline.com/Details/1392081/Liverpools-Salah-bids-farewell-to-Everton-with-another-derby-goal",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420094025salah1(7)_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Victor winner sends Shabab Al Ahli into ACL Elite semis",
-        "link": "https://www.gdnonline.com/Details/1391948/Victor-winner-sends-Shabab-Al-Ahli-into-ACL-Elite-semis",
-        "published": "19 Apr 2026",
-        "iso_date": "2026-04-19T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260419/20260419031636matchaction_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      }
-    ],
+    "gdn": [],
     "newsofbahrain": [
       {
-        "title": "Rabiot fires AC Milan to verge of Champions League return",
-        "link": "https://www.newsofbahrain.com/sports/131038.html",
+        "title": "Blue Origin launches rocket with used booster for first time",
+        "link": "https://www.newsofbahrain.com/world/131043.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gdJzuwM8Xq_2026-04-20_1776677116resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f6aTnVRcrZ_2026-04-20_1776681200resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Rybakina outclasses Muchova to win Stuttgart WTA title",
-        "link": "https://www.newsofbahrain.com/sports/131037.html",
+        "title": "Rat poison found in baby food jar in Austria",
+        "link": "https://www.newsofbahrain.com/world/131042.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_liWf1hJ7Q9_2026-04-20_1776677025resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WYOAZTnSmC_2026-04-20_1776680573resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Haaland Strikes as City Hunt Down Arsenal",
-        "link": "https://www.newsofbahrain.com/sports/131036.html",
+        "title": "Trump orders negotiators to Pakistan, but Iran on the fence over talks",
+        "link": "https://www.newsofbahrain.com/world/131041.html",
         "published": "20 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pzPr0Ll4oS_2026-04-20_1776676821resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cXMsCqEmfT_2026-04-20_1776680208resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Rinku blitz leads Kolkata to first win of IPL season",
-        "link": "https://www.newsofbahrain.com/sports/131035.html",
+        "title": "World War Two bomb safely defused after evacuation in Paris suburb",
+        "link": "https://www.newsofbahrain.com/world/131040.html",
         "published": "20 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_I10jk6fnRY_2026-04-20_1776676622resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TLxwopOceS_2026-04-20_1776679458resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Evenepoel outsprints Skjelmose to win Amstel Gold Race",
-        "link": "https://www.newsofbahrain.com/sports/131034.html",
+        "title": "Chinese artist Gao Zhen tried over “defamation of national heroes” charge",
+        "link": "https://www.newsofbahrain.com/world/131039.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yU2JYZ96sF_2026-04-20_1776676540resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wWT4zJhtGZ_2026-04-20_1776678562resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -362,46 +221,6 @@
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_nWSjJCyhKH_2026-04-20_1776670515thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Mass shooting in US leaves multiple children dead in domestic incident",
-        "link": "https://www.newsofbahrain.com/world/131029.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ky7dZiS4bz_2026-04-20_1776675432thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Advancing Peace in South Sudan",
-        "link": "https://www.newsofbahrain.com/world/131028.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zB1lAcgDon_2026-04-20_1776675301thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Egypt Rejects Sovereignty Threats",
-        "link": "https://www.newsofbahrain.com/world/131027.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3OzhUl62HR_2026-04-20_1776674961thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Nations Welcome Libya Budget Deal",
-        "link": "https://www.newsofbahrain.com/world/131026.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fKHsFM8bTQ_2026-04-20_1776674837thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -559,5 +378,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 09:37:14 UTC"
+  "fetched_at": "2026-04-20 10:35:24 UTC"
 }
