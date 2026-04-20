@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 10
+      "count": 11
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain takes aim at disloyal citizens amid Iran war",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2hIRnFBYzRRSGtRTlVBWU5tYm5iby1tSGpvNVR3MU9KdUJ5d01kMm9COXcyaWZzNnhXOXFKYURkSkVVdzltcF9Pbk1zbW5sYmdNaDZ5M25HNUhnZEZsV1k4aGN1Q19weV9wOS15QUtvSUlLamRRbWhHc0xSRkpVbnBuRGN1Qmc4S1BBZ1BaZ0RYaU9wQlNVcnRXVQ?oc=5",
+        "published": "20 Apr 2026, 12:22 PM",
+        "iso_date": "2026-04-20T12:22:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain welcomes IMO condemnation of Iran closing Strait of Hormuz",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3RUeWYteEc2YTY0SG5aenNsN2FVdUNMM28yUUdtdGtjZWtJUEE3VkVvMERTS0xmSlo1eWsxckE3N2ExQS1aR0FlVlhOREc0VzZ4Y0FzVW5tNWtLSXFSLTV2UFFCUjY1cmM5UEszUlNoTThrV1pHRGlGdlptS2pya0lLOWVpUGswa0VHVHRrU2FDRmlzSzlkZk85QUpBOF94c2RTb0JLdHRqZms5UGYteHZFTDdfZw?oc=5",
@@ -164,16 +174,6 @@
         "category": "Latest"
       },
       {
-        "title": "UN role in South Sudan peace efforts praised",
-        "link": "https://www.gdnonline.com/Details/1392033/UN-role-in-South-Sudan-peace-efforts-praised-",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420004102unsc_T.jpg?20260420",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain and Bermuda sign protocol amending double taxation agreement",
         "link": "https://www.gdnonline.com/Details/1392019/Bahrain-and-Bermuda-sign-protocol-amending-double-taxation-agreement",
         "published": "20 Apr 2026",
@@ -266,52 +266,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Russian Drone Strike Kills Teenager in Chernihiv, Ukraine Reports",
-        "link": "https://www.newsofbahrain.com/world/131050.html",
+        "title": "JD Vance to Lead US–Iran Talks in Pakistan as Ceasefire Opens ‘Peace Window’",
+        "link": "https://www.newsofbahrain.com/world/131059.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oBv7EVdAJs_2026-04-20_1776684606resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_P4NOtcrC0f_2026-04-20_1776687792resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Peru Election Delayed as Tight Race Heads for Runoff Review",
-        "link": "https://www.newsofbahrain.com/world/131049.html",
+        "title": "Israel talks aim to end hostilities, occupation: Lebanon president",
+        "link": "https://www.newsofbahrain.com/world/131058.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rN61AbokeJ_2026-04-20_1776682565resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QBHv1MORLD_2026-04-20_1776687763resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "China’s Virtual Avatars of the Dead Raise Questions",
-        "link": "https://www.newsofbahrain.com/world/131048.html",
+        "title": "Tamil Nadu Firecracker Factory Blaze Kills 20 in Southern India",
+        "link": "https://www.newsofbahrain.com/world/131057.html",
         "published": "20 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XmwIr9DYsS_2026-04-20_1776682113resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WoXjNP0rmR_2026-04-20_1776687045resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Israel says to use ‘full force’ if soldiers face threat",
-        "link": "https://www.newsofbahrain.com/world/131047.html",
+        "title": "Qatar announces ‘gradual resumption’ of flights by foreign airlines",
+        "link": "https://www.newsofbahrain.com/world/131056.html",
         "published": "20 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8w7ejuLMZP_2026-04-20_1776681943resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v19tAwsT6r_2026-04-20_1776686718resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "South Korea’s chainsaw artist carves a name for herself at 91",
-        "link": "https://www.newsofbahrain.com/world/131046.html",
+        "title": "Retired Journalist Shot Dead in Uganda’s Wakanda Area, Police Launch Murder Probe",
+        "link": "https://www.newsofbahrain.com/world/131055.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vtOzI4sDV6_2026-04-20_1776681737resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5RpKhvbLGF_2026-04-20_1776686631resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -519,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 11:31:34 UTC"
+  "fetched_at": "2026-04-20 12:27:15 UTC"
 }
