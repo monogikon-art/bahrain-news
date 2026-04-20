@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 10
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain tightens security, reviews citizenship amid fallout from Iran war",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3N3ek1OZERjWWFSZHI5WGJhZXdNTEMtOUdqaEJ2SFNBZFdCY3NEcFUxaFo5cEl5Z2FOT3JPOHJJVG51Z3FRbkxYenQ3S3A1dm9HVm43VXR4a0hQYWplSzVMRnZVUGdyZzZDSkVIU2pSWl9oZmdPUmdzZW9DOXhxVm1aSXZjMDFiTnNpZzdNYk4zeTJ0ZU1zcA?oc=5",
+        "published": "20 Apr 2026, 06:53 PM",
+        "iso_date": "2026-04-20T18:53:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain takes aim at disloyal citizens amid Iran war",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2hIRnFBYzRRSGtRTlVBWU5tYm5iby1tSGpvNVR3MU9KdUJ5d01kMm9COXcyaWZzNnhXOXFKYURkSkVVdzltcF9Pbk1zbW5sYmdNaDZ5M25HNUhnZEZsV1k4aGN1Q19weV9wOS15QUtvSUlLamRRbWhHc0xSRkpVbnBuRGN1Qmc4S1BBZ1BaZ0RYaU9wQlNVcnRXVQ?oc=5",
@@ -246,10 +256,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Kaja Kallas Urges Urgent Action as Middle East Faces “Risk and Opportunity”",
-        "link": "https://www.newsofbahrain.com/world/131094.html",
+        "title": "Kuwait Praises UAE Security for Foiling Terrorist Plot",
+        "link": "https://www.newsofbahrain.com/world/131096.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q9wW1Ly8sd_2026-04-20_1776714500resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Condemns Terrorist Plot Targeting UAE",
+        "link": "https://www.newsofbahrain.com/bahrain/131095.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DClES1aQNj_2026-04-20_1776713548resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kaja Kallas Urges Urgent Action as Middle East Faces “Risk and Opportunity”",
+        "link": "https://www.newsofbahrain.com/world/131094.html",
+        "published": "20 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uzY9VWiScx_2026-04-20_1776712107resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,8 +288,8 @@
       {
         "title": "Bahrain condemns terrorist plot to destabilise UAE",
         "link": "https://www.newsofbahrain.com/world/131093.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
+        "published": "20 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_CvTMqg6Zku_2026-04-20_1776710454resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,30 +298,10 @@
       {
         "title": "Saudi Crown Prince, Chinese President discuss regional developments",
         "link": "https://www.newsofbahrain.com/world/131092.html",
-        "published": "20 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bjqQhvEUy9_2026-04-20_1776710256resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Terror Network Dismantled",
-        "link": "https://www.newsofbahrain.com/world/131091.html",
-        "published": "20 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1mwcShUi3D_2026-04-20_1776709740resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Arabia Records 15% Growth in Non-Oil Exports",
-        "link": "https://www.newsofbahrain.com/world/131089.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nUlTh5DoVq_2026-04-20_1776709508resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bjqQhvEUy9_2026-04-20_1776710256resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,16 +342,6 @@
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_AEHncm9yXG_2026-04-20_1776707538thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Deputy Prime Minister chairs the weekly Cabinet meeting",
-        "link": "https://www.newsofbahrain.com/bahrain/131080.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NjSk9ZnzhM_2026-04-20_1776692342thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 19:26:33 UTC"
+  "fetched_at": "2026-04-20 19:50:33 UTC"
 }
