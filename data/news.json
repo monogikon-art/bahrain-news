@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 11
+      "count": 12
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObm9DWXJFQTZhU0E4VGdQVlZPSmd5NjRkMlNsNWgyZXppRjk5V2F5RTVDa2poOXJNSFNLTWFCN3UwZFVTeHJlNl8zMTAzbVZvTVZhbjljcWN3S1lKQ3NVWThDVFJnT3dPblBHR0ZhcXFMcTdIX3Nzd1NWazZJSmVtNHNUbjJEX2EzU2FBQ1RlTy15U0k3eFZQUmFmWDBuR1hyTl9nd1l2TkxhNEFwSDJv?oc=5",
         "published": "19 Apr 2026, 09:02 PM",
         "iso_date": "2026-04-19T21:02:57+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain king orders addressing repercussions of war",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc05XTFBjcjlINUlsa0pFUDU1MXlDN1hYdlBUVTAwRnhMMWNVMnJ0akpBcDFTZTViTnhXOVI5bWpld05zSFVJUVhvU19jZ1ZHSm15cFpRUDVOMUVtT3BQWjZOV3VPT0pqczhrOWZPZ1RyNEFiV1NzaWpBN1BLTVNfaEtLS1I5aFI5dFJYSGJTMzlNTkk1Uk1uZUp5YmhUTHBQNEE?oc=5",
+        "published": "19 Apr 2026, 08:11 PM",
+        "iso_date": "2026-04-19T20:11:02+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -286,52 +296,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Expat Hiring Gets Costlier",
-        "link": "https://www.newsofbahrain.com/bahrain/131007.html",
+        "title": "IPU Elects First Female Secretary-General",
+        "link": "https://www.newsofbahrain.com/bahrain/131012.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e4FuVtjqXY_2026-04-20_1776666939resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nWSjJCyhKH_2026-04-20_1776670515resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Manama reiterates UN demand for redress over damages",
-        "link": "https://www.newsofbahrain.com/bahrain/131006.html",
+        "title": "No Staff, No Breaks",
+        "link": "https://www.newsofbahrain.com/bahrain/131011.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hiKf2VTo3k_2026-04-20_1776666841resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1o3OEABtN4_2026-04-20_1776669977resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Airport Services Growth Success",
-        "link": "https://www.newsofbahrain.com/bahrain/131005.html",
+        "title": "Crackdown Clears 28 Illegal Structures",
+        "link": "https://www.newsofbahrain.com/bahrain/131010.html",
         "published": "20 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J0oWEmxLrR_2026-04-20_1776666057resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jOAYbmr1gZ_2026-04-20_1776669526resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Scam Alert",
-        "link": "https://www.newsofbahrain.com/bahrain/131004.html",
+        "title": "Is Bahrain’s Date Palm Farming Using Excess Water?",
+        "link": "https://www.newsofbahrain.com/bahrain/131009.html",
         "published": "20 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HbSfqoewXA_2026-04-20_1776665704resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Nj6AflwOXy_2026-04-20_1776669047resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Skies Witness Rare Celestial Show",
-        "link": "https://www.newsofbahrain.com/bahrain/131003.html",
+        "title": "External Influence Stalls Indian School Growth",
+        "link": "https://www.newsofbahrain.com/bahrain/131008.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wRblmhrNPf_2026-04-20_1776665387resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e43y7bC0Fd_2026-04-20_1776667954resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 06:47:17 UTC"
+  "fetched_at": "2026-04-20 07:37:18 UTC"
 }
