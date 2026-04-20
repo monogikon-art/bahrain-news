@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 10
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 18
     }
   },
   "articles": {
@@ -32,10 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain could strip citizenship for 'compromising security' during war",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXdkWmdqdnptVTFhblJvaTJ0WEF2R0xmRlVEOFZHOWtuclJ0VWpSSGRmcjVadm5TMzhSTS1uV0NjTTJRSGl5dVluTi1BbGh2dmtpUDVSMm0wOERxeDhaUlg2S1hscmY3ZG5faUtYLW1HWXlNTDY1WWFpaFdLQU5NWjM1N2xnSU5WLWRQMkxyMUJwamNIZGxtWG42NXlqZDc4V0lHTWJRbGhyeWFJZzBwdnJmWlVNWDlqTkIyUUpYTQ?oc=5",
-        "published": "19 Apr 2026, 02:16 PM",
-        "iso_date": "2026-04-19T14:16:09+00:00",
+        "title": "Bahrain king orders addressing repercussions of war",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc05XTFBjcjlINUlsa0pFUDU1MXlDN1hYdlBUVTAwRnhMMWNVMnJ0akpBcDFTZTViTnhXOVI5bWpld05zSFVJUVhvU19jZ1ZHSm15cFpRUDVOMUVtT3BQWjZOV3VPT0pqczhrOWZPZ1RyNEFiV1NzaWpBN1BLTVNfaEtLS1I5aFI5dFJYSGJTMzlNTkk1Uk1uZUp5YmhUTHBQNEE?oc=5",
+        "published": "19 Apr 2026, 08:11 PM",
+        "iso_date": "2026-04-19T20:11:02+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMjhVYlMyS2dLQXVVMnNteTYtckhFY0FlUXdXYXlsd09EZ1BlVVZDWDRndUNPYUpKS1NJYWtybFBWTk1fdkRJQnFFODktNDNvZFNjMllaOHJRT280TUFKbHhKNXNrRjlFYl9kYlV4TndDUEVwWjM1eEliQW9vcmp4TU1wSkl5X3FyMDNxMklHdkdpV3V6NE1sUnZ5OEFtRWI0cGRNUldJYWdCVW1KQzduX0ZKTkE3UDhfN1E2aVI0elpZdnNvMXpHQnV6WGtCMG5m?oc=5",
         "published": "20 Apr 2026, 04:31 AM",
         "iso_date": "2026-04-20T04:31:48+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain could strip citizenship for 'compromising security' during war",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXdkWmdqdnptVTFhblJvaTJ0WEF2R0xmRlVEOFZHOWtuclJ0VWpSSGRmcjVadm5TMzhSTS1uV0NjTTJRSGl5dVluTi1BbGh2dmtpUDVSMm0wOERxeDhaUlg2S1hscmY3ZG5faUtYLW1HWXlNTDY1WWFpaFdLQU5NWjM1N2xnSU5WLWRQMkxyMUJwamNIZGxtWG42NXlqZDc4V0lHTWJRbGhyeWFJZzBwdnJmWlVNWDlqTkIyUUpYTQ?oc=5",
+        "published": "19 Apr 2026, 02:16 PM",
+        "iso_date": "2026-04-19T14:16:09+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,52 +266,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Peace Dialogue Takes Priority",
-        "link": "https://www.newsofbahrain.com/world/131025.html",
+        "title": "Rabiot fires AC Milan to verge of Champions League return",
+        "link": "https://www.newsofbahrain.com/sports/131038.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Aq8bwI9pvo_2026-04-20_1776674117resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gdJzuwM8Xq_2026-04-20_1776677116resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "GCC Rejects Conflict Politics",
-        "link": "https://www.newsofbahrain.com/world/131024.html",
+        "title": "Rybakina outclasses Muchova to win Stuttgart WTA title",
+        "link": "https://www.newsofbahrain.com/sports/131037.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5YnTVaLhvM_2026-04-20_1776673886resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_liWf1hJ7Q9_2026-04-20_1776677025resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "India pushes for regional energy hub in Sri Lanka",
-        "link": "https://www.newsofbahrain.com/business/131023.html",
+        "title": "Haaland Strikes as City Hunt Down Arsenal",
+        "link": "https://www.newsofbahrain.com/sports/131036.html",
         "published": "20 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pEyHu9ZGz3_2026-04-20_1776673496resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pzPr0Ll4oS_2026-04-20_1776676821resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Zain Bahrain recognised as Kingdom’s most awarded network by Opensignal",
-        "link": "https://www.newsofbahrain.com/business/131022.html",
+        "title": "Rinku blitz leads Kolkata to first win of IPL season",
+        "link": "https://www.newsofbahrain.com/sports/131035.html",
         "published": "20 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-20T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kFlpd5qBzG_2026-04-20_1776673366resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_I10jk6fnRY_2026-04-20_1776676622resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "NBB enters strategic partnership with Bank of London and Middle East To offer UK Property Finance Solutions",
-        "link": "https://www.newsofbahrain.com/business/131021.html",
+        "title": "Evenepoel outsprints Skjelmose to win Amstel Gold Race",
+        "link": "https://www.newsofbahrain.com/sports/131034.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CJNWto5PMB_2026-04-20_1776673246resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yU2JYZ96sF_2026-04-20_1776676540resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -356,22 +366,62 @@
         "category": "Latest"
       },
       {
-        "title": "Soft Asian currencies boost remittances for UAE expats",
-        "link": "https://www.newsofbahrain.com/world/131019.html",
+        "title": "Mass shooting in US leaves multiple children dead in domestic incident",
+        "link": "https://www.newsofbahrain.com/world/131029.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4y83ebXhgU_2026-04-20_1776673142thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ky7dZiS4bz_2026-04-20_1776675432thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE schools reopen fully as students return to campuses under safety measures",
-        "link": "https://www.newsofbahrain.com/world/131017.html",
+        "title": "Advancing Peace in South Sudan",
+        "link": "https://www.newsofbahrain.com/world/131028.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lQoMj5GyVc_2026-04-20_1776672828thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zB1lAcgDon_2026-04-20_1776675301thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Egypt Rejects Sovereignty Threats",
+        "link": "https://www.newsofbahrain.com/world/131027.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3OzhUl62HR_2026-04-20_1776674961thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Nations Welcome Libya Budget Deal",
+        "link": "https://www.newsofbahrain.com/world/131026.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fKHsFM8bTQ_2026-04-20_1776674837thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Zain Bahrain recognised as Kingdom’s most awarded network by Opensignal",
+        "link": "https://www.newsofbahrain.com/business/131022.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kFlpd5qBzG_2026-04-20_1776673366thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "NBB enters strategic partnership with Bank of London and Middle East To offer UK Property Finance Solutions",
+        "link": "https://www.newsofbahrain.com/business/131021.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CJNWto5PMB_2026-04-20_1776673246thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -386,12 +436,12 @@
         "category": "Latest"
       },
       {
-        "title": "Ice Spice to Take Legal Action After Viral McDonald’s Assault in Los Angeles",
-        "link": "https://www.newsofbahrain.com/views/130958.html",
-        "published": "18 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-18T09:00:43+00:00",
+        "title": "Services and tourism drive Bahrain GDP in 2025",
+        "link": "https://www.newsofbahrain.com/business/131016.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_te1nxpXl7s_2026-04-18_1776537541thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EtmR243lQ5_2026-04-20_1776672761thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -509,5 +559,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 08:47:13 UTC"
+  "fetched_at": "2026-04-20 09:37:14 UTC"
 }
