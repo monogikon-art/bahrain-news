@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -86,6 +86,16 @@
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaDZZem0xMkpWX2JITXl0ZmVFeDFoLTJhRlpLdnUyU1k2TTF0cVIzYXlEZG1zSUVvN3B4X284bk1BVXdSVHQzYVFXUnN6Y2ZrbENQd0xVOGJCY25RYTN4dzFub2wxcEh5RDhUQVFkb3h6SDM3VmpIMUNR?oc=5",
         "published": "20 Apr 2026, 12:03 AM",
         "iso_date": "2026-04-20T00:03:21+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain condemns terrorist plot to destabilise UAE",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkJEckNEcTFOa2xMdXJiQS1iY19uVU0xeFllTktqckdYSldTVFJ3SXBZSnllZnRqWmFiRklUUmRpdlFjTUlrMlI4ZXBsSGVxcVdYVzllbWFrNEwtLVVxaGNDelJvOTRKTG1zcGplMDJFMzdFbVZtVkppN2VJMlZDQ2tUaVhjTzhWcjl3TVBSdG1BdTQtQnYwM0wyUVc?oc=5",
+        "published": "20 Apr 2026, 05:10 PM",
+        "iso_date": "2026-04-20T17:10:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,12 +246,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "GCC Secretary-General Participates in Strategic Partnership Workshop in Riyadh",
-        "link": "https://www.newsofbahrain.com/world/131087.html",
+        "title": "Bahrain condemns terrorist plot to destabilise UAE",
+        "link": "https://www.newsofbahrain.com/world/131093.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rSHhzKF6Tl_2026-04-20_1776708614resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CvTMqg6Zku_2026-04-20_1776710454resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Crown Prince, Chinese President discuss regional developments",
+        "link": "https://www.newsofbahrain.com/world/131092.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bjqQhvEUy9_2026-04-20_1776710256resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Terror Network Dismantled",
+        "link": "https://www.newsofbahrain.com/world/131091.html",
+        "published": "20 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-20T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1mwcShUi3D_2026-04-20_1776709740resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Arabia Records 15% Growth in Non-Oil Exports",
+        "link": "https://www.newsofbahrain.com/world/131089.html",
+        "published": "20 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-20T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nUlTh5DoVq_2026-04-20_1776709508resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King Hosts Jordan’s Crown Prince",
+        "link": "https://www.newsofbahrain.com/bahrain/131088.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y1xTVg3XhI_2026-04-20_1776709425resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -251,27 +301,17 @@
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YApIvrubd7_2026-04-20_1776708482resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YApIvrubd7_2026-04-20_1776708482thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Foreign Minister Meets UAE Ambassador to Strengthen Bilateral Cooperation",
         "link": "https://www.newsofbahrain.com/bahrain/131085.html",
-        "published": "20 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-20T09:00:43+00:00",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vmIMOUApdn_2026-04-20_1776708320resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE Business Leaders Confident in Growth Despite Challenges, New Report Finds",
-        "link": "https://www.newsofbahrain.com/world/131084.html",
-        "published": "20 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3YM9qSnIVy_2026-04-20_1776708098resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vmIMOUApdn_2026-04-20_1776708320thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -281,7 +321,7 @@
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AEHncm9yXG_2026-04-20_1776707538resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AEHncm9yXG_2026-04-20_1776707538thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,36 +332,6 @@
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NjSk9ZnzhM_2026-04-20_1776692342thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Crown Prince of Jordan Visits Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/131078.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9a2AowmR5D_2026-04-20_1776691977thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Emirates completes more than 40 Travel Rehearsals for youth with autism globally, easing travel anxiety for more than 250 families",
-        "link": "https://www.newsofbahrain.com/world/131082.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Pl5WKroJTA_2026-04-20_1776707435thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Louisiana Gunman Kills Eight Children, Including Seven of His Own, in Shreveport Mass Shooting",
-        "link": "https://www.newsofbahrain.com/world/131081.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5QtG30YLgC_2026-04-20_1776692400thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 18:22:05 UTC"
+  "fetched_at": "2026-04-20 18:48:48 UTC"
 }
