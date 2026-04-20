@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VU1U1UzNET1l0d2JJUFA0QUdVY3JwY3l1bkRfQkVQNlRidzExYkZjVHNRVWdLd0p3NlNBclRBdnQ3WEUyUmZaT2RPZDRqa2EwUjFR?oc=5",
         "published": "19 Apr 2026, 04:35 PM",
         "iso_date": "2026-04-19T16:35:27+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain king orders addressing repercussions of war",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc05XTFBjcjlINUlsa0pFUDU1MXlDN1hYdlBUVTAwRnhMMWNVMnJ0akpBcDFTZTViTnhXOVI5bWpld05zSFVJUVhvU19jZ1ZHSm15cFpRUDVOMUVtT3BQWjZOV3VPT0pqczhrOWZPZ1RyNEFiV1NzaWpBN1BLTVNfaEtLS1I5aFI5dFJYSGJTMzlNTkk1Uk1uZUp5YmhUTHBQNEE?oc=5",
-        "published": "19 Apr 2026, 08:11 PM",
-        "iso_date": "2026-04-19T20:11:02+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 14:36:06 UTC"
+  "fetched_at": "2026-04-20 15:31:23 UTC"
 }
