@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,26 +16,26 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 12
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Bahrain takes aim at disloyal citizens amid Iran war",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2hIRnFBYzRRSGtRTlVBWU5tYm5iby1tSGpvNVR3MU9KdUJ5d01kMm9COXcyaWZzNnhXOXFKYURkSkVVdzltcF9Pbk1zbW5sYmdNaDZ5M25HNUhnZEZsV1k4aGN1Q19weV9wOS15QUtvSUlLamRRbWhHc0xSRkpVbnBuRGN1Qmc4S1BBZ1BaZ0RYaU9wQlNVcnRXVQ?oc=5",
-        "published": "20 Apr 2026, 12:22 PM",
-        "iso_date": "2026-04-20T12:22:00+00:00",
+        "title": "Bahrain tightens security, reviews citizenship amid fallout from Iran war",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3N3ek1OZERjWWFSZHI5WGJhZXdNTEMtOUdqaEJ2SFNBZFdCY3NEcFUxaFo5cEl5Z2FOT3JPOHJJVG51Z3FRbkxYenQ3S3A1dm9HVm43VXR4a0hQYWplSzVMRnZVUGdyZzZDSkVIU2pSWl9oZmdPUmdzZW9DOXhxVm1aSXZjMDFiTnNpZzdNYk4zeTJ0ZU1zcA?oc=5",
+        "published": "20 Apr 2026, 06:53 PM",
+        "iso_date": "2026-04-20T18:53:50+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain tightens security, reviews citizenship amid fallout from Iran war",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3N3ek1OZERjWWFSZHI5WGJhZXdNTEMtOUdqaEJ2SFNBZFdCY3NEcFUxaFo5cEl5Z2FOT3JPOHJJVG51Z3FRbkxYenQ3S3A1dm9HVm43VXR4a0hQYWplSzVMRnZVUGdyZzZDSkVIU2pSWl9oZmdPUmdzZW9DOXhxVm1aSXZjMDFiTnNpZzdNYk4zeTJ0ZU1zcA?oc=5",
-        "published": "20 Apr 2026, 06:53 PM",
-        "iso_date": "2026-04-20T18:53:50+00:00",
+        "title": "Bahrain takes aim at disloyal citizens amid Iran war",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2hIRnFBYzRRSGtRTlVBWU5tYm5iby1tSGpvNVR3MU9KdUJ5d01kMm9COXcyaWZzNnhXOXFKYURkSkVVdzltcF9Pbk1zbW5sYmdNaDZ5M25HNUhnZEZsV1k4aGN1Q19weV9wOS15QUtvSUlLamRRbWhHc0xSRkpVbnBuRGN1Qmc4S1BBZ1BaZ0RYaU9wQlNVcnRXVQ?oc=5",
+        "published": "20 Apr 2026, 12:22 PM",
+        "iso_date": "2026-04-20T12:22:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Orders Review of Citizenship for Individuals Deemed Security Threats",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
-        "published": "21 Apr 2026, 01:44 AM",
-        "iso_date": "2026-04-21T01:44:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain condemns terrorist plot to destabilise UAE",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkJEckNEcTFOa2xMdXJiQS1iY19uVU0xeFllTktqckdYSldTVFJ3SXBZSnllZnRqWmFiRklUUmRpdlFjTUlrMlI4ZXBsSGVxcVdYVzllbWFrNEwtLVVxaGNDelJvOTRKTG1zcGplMDJFMzdFbVZtVkppN2VJMlZDQ2tUaVhjTzhWcjl3TVBSdG1BdTQtQnYwM0wyUVc?oc=5",
         "published": "20 Apr 2026, 05:10 PM",
@@ -72,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain demands Iran pay reparations as aerial assault toll mounts",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSE1vUWhoLXlwSFJzcEhtNXR2WDk2NlVvenBXUlczYXNPOHhSNUFncVh6QTVfRGRHSFNYNWx3UEVuWXM1R01DbnJBV0taUDF2YW5mbndkQmwwQlRvVF91TGR1RzdkYkJoMElYTnZ1bjh5TU5OcldKS0VUMXhJRFNhUmx4MkNZV3BsZ3Q5dGE1Ql9UQ1ZMdXJhcDRxQzRRS2t3SGNoX1BCc2g?oc=5",
-        "published": "20 Apr 2026, 10:26 AM",
-        "iso_date": "2026-04-20T10:26:25+00:00",
+        "title": "Bahrain Orders Review of Citizenship for Individuals Deemed Security Threats",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
+        "published": "21 Apr 2026, 01:44 AM",
+        "iso_date": "2026-04-21T01:44:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -84,12 +74,32 @@
     ],
     "gdn": [
       {
+        "title": "His Majesty praises Bahrain-Jordan relations",
+        "link": "https://www.gdnonline.com/Details/1392197/His-Majesty-praises-Bahrain-Jordan-relations",
+        "published": "21 Apr 2026",
+        "iso_date": "2026-04-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_015014_0_T.jpg?20260421",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Urgent call to tackle mosquito menace after unstable weather",
         "link": "https://www.gdnonline.com/Details/1392175/Urgent-call-to-tackle-mosquito-menace-after-unstable-weather",
         "published": "21 Apr 2026",
         "iso_date": "2026-04-21T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_003811_2_T.jpg?20260421",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Woman arrested for allegedly trafficking 17-year-old girl and forcing her into prostitution",
+        "link": "https://www.gdnonline.com/Details/1392213/Woman-arrested-for-allegedly-trafficking-17-year-old-girl-and-forcing-her-into-prostitution",
+        "published": "21 Apr 2026",
+        "iso_date": "2026-04-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421123437moi12(1)_T.jpg?20260421",
         "source": "gdn",
         "category": "Latest"
       },
@@ -110,26 +120,6 @@
         "iso_date": "2026-04-21T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260421/20260420_222808_0_T.jpg?20260421",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "New hotline launched to report animal abuse cases",
-        "link": "https://www.gdnonline.com/Details/1392149/New-hotline-launched-to-report-animal-abuse-cases",
-        "published": "21 Apr 2026",
-        "iso_date": "2026-04-21T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260421/20260420_222810_0_T.jpg?20260421",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Ex-Bahrain resident mourned",
-        "link": "https://www.gdnonline.com/Details/1392148/Ex-Bahrain-resident-mourned--",
-        "published": "21 Apr 2026",
-        "iso_date": "2026-04-21T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420224613website_T.jpg?20260421",
         "source": "gdn",
         "category": "Latest"
       },
@@ -234,7 +224,128 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Tim Cook to Step Up as Apple's Executive Chairman",
+        "link": "https://www.newsofbahrain.com/world/131122.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ymx7wsgHvZ_2026-04-21_1776766229resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Japan warns of possible stronger earthquake after 7.7-magnitude offshore quake triggers evacuations",
+        "link": "https://www.newsofbahrain.com/world/131120.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j0EbeTQKCX_2026-04-21_1776765556resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Reports Rise in Private Sector Wages, Introduces New Minimum Salary Levels",
+        "link": "https://www.newsofbahrain.com/bahrain/131119.html",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qQEdSeJvfi_2026-04-21_1776765460resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Hungary's Magyar says would carry out ICC warrant against Netanyahu",
+        "link": "https://www.newsofbahrain.com/world/131118.html",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QJMKcbuxk9_2026-04-21_1776764247resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Records Over 15,000 Job Seekers in 2025 Amid Strong Private Sector Opportunities",
+        "link": "https://www.newsofbahrain.com/bahrain/131117.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SObW5sGBht_2026-04-21_1776763302resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Bourse launches Listing Gateway platform",
+        "link": "https://www.newsofbahrain.com/bahrain/131114.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QY6suIpSq5_2026-04-21_1776762594thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Drunk Driver Faces Trial",
+        "link": "https://www.newsofbahrain.com/bahrain/131113.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_S9u3DeoVyf_2026-04-21_1776762152thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "woman arrested for forcing a 17-year-old into immoral activities",
+        "link": "https://www.newsofbahrain.com/bahrain/131112.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QFgAvmNBEP_2026-04-21_1776761931thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Over $71 bn needed over next decade to rebuild Gaza: UN-EU assessment",
+        "link": "https://www.newsofbahrain.com/world/131116.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0kDCdsWNKt_2026-04-21_1776763065thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Zain Bahrain recognised as Kingdom’s most awarded network by Opensignal",
+        "link": "https://www.newsofbahrain.com/business/131022.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kFlpd5qBzG_2026-04-20_1776673366thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "NBB enters strategic partnership with Bank of London and Middle East To offer UK Property Finance Solutions",
+        "link": "https://www.newsofbahrain.com/business/131021.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CJNWto5PMB_2026-04-20_1776673246thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "RCSI Medical University of Bahrain introduces Casper Test for North American medical",
+        "link": "https://www.newsofbahrain.com/business/131020.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JH0X7coa1j_2026-04-20_1776673177thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -348,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 09:34:24 UTC"
+  "fetched_at": "2026-04-21 10:31:25 UTC"
 }
