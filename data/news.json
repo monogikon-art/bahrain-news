@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 14
     }
   },
   "articles": {
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
         "published": "21 Apr 2026, 01:44 AM",
         "iso_date": "2026-04-21T01:44:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi, French defense ministers discuss strengthening defense cooperation",
-        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYmVrYVBiUEYwRlZUbFBoM3FhTENXckgyUEM3YTFEMWlvLWlBRmZCNkNGd2VBYnljNVJ0MjFQWmpBM3hMNEszOU1neHdkR3duMHRORFZQYWF6X3V2WXFzZEIzVHBBNS1LemsxR0hwSVFNWlI1VmZlQ2dyMmVRbDNDaEFYYjQtLTBMRDFQWG9YTEVVei15UFB2SFhKMlhZbHl5TkFhYU9xNWxtaVN4dDlJcGJ5T1VUanYyeUlsRlJhZDZpVWJXRXp4d3BmQkxnQjRKX1RDZHk1TlgzTDVhMU1nYWVSVkdzSkhpX1dlNmF1c2tyTlJkM01ST3J5VE5hcmNEdExXa3FpZllad3BsWTVreExXUFZ5d1diNkJSV3FsQW55NGhPT2F3Mk1VVDlRbzJ2ZnN5cHJ0LThlX0FFTjNMYU9sLTUtNkt2MHBHWW9uSkFYSmJhdGlpYQ?oc=5",
-        "published": "21 Apr 2026, 03:09 AM",
-        "iso_date": "2026-04-21T03:09:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -236,52 +226,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Police raid Russia's top publisher in 'LGBT propaganda' case",
-        "link": "https://www.newsofbahrain.com/world/131146.html",
+        "title": "‘No reason’ for US intervention in Cuba: Germany’s Merz",
+        "link": "https://www.newsofbahrain.com/world/131168.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WAP5FlmpBI_2026-04-21_1776775682resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AofUqv95Bc_2026-04-21_1776778067resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Arsenal still believe in title hopes despite City loss, says Odegaard",
-        "link": "https://www.newsofbahrain.com/sports/131145.html",
+        "title": "UN urges Sri Lanka to deliver results in Easter bombing probe",
+        "link": "https://www.newsofbahrain.com/world/131167.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z6UxP3WQcY_2026-04-21_1776775647resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N7oha96mCx_2026-04-21_1776777912resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Three soldiers killed in tank explosion during Japan military exercise",
-        "link": "https://www.newsofbahrain.com/world/131144.html",
+        "title": "UK unemployment unexpectedly fell ahead of Mideast war",
+        "link": "https://www.newsofbahrain.com/world/131166.html",
         "published": "21 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aI2rb86BqF_2026-04-21_1776775603resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EH0SsJohG4_2026-04-21_1776777803resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Liverpool boost top-five bid, Spurs in peril",
-        "link": "https://www.newsofbahrain.com/sports/131143.html",
+        "title": "Indonesia Passes Landmark Law Protecting Domestic Workers",
+        "link": "https://www.newsofbahrain.com/world/131165.html",
         "published": "21 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v4K9N1Rtrd_2026-04-21_1776775316resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eVxQgbGjqi_2026-04-21_1776777678resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "History haunts Arsenal as Man City take control of title race",
-        "link": "https://www.newsofbahrain.com/sports/131142.html",
+        "title": "Taiwan Puts Conditions on Hiring Indian Migrant Workers",
+        "link": "https://www.newsofbahrain.com/world/131164.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XLvsJTtUQC_2026-04-21_1776775098resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X0Y9gLu1qC_2026-04-21_1776777435resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,26 +322,6 @@
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QFgAvmNBEP_2026-04-21_1776761931thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "High-Level Visit to Jordan’s Special Operations Training Center",
-        "link": "https://www.newsofbahrain.com/world/131141.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3zIgkpomCt_2026-04-21_1776774434thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Jordan Reaffirms Solidarity with Qatar",
-        "link": "https://www.newsofbahrain.com/world/131140.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6yzYVJkjCE_2026-04-21_1776774308thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 12:50:53 UTC"
+  "fetched_at": "2026-04-21 13:35:26 UTC"
 }
