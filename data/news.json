@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -63,7 +63,7 @@
       },
       {
         "title": "Bahrain condemns Iran-linked terrorist group nabbed in UAE, offers full support",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdG5HanpuWTQ1aXZrOXpINkxfdF8tZVlEaHhlY0owTkNoQ2JUaEI1Q1ZETEs5NW1GSlJTTndFbkNuRUxfQURnWml3V1U3WkJzVG5CU1hQaU5GWkFfYmd2UmpTTGRsYWNINVpyRnducVdIMTczZEJrb1lybmRtcUYtOEhxY2JZVXZqTGMxUzQ3ME5FVlJrQXBKcjBNdENnNGvSAacBQVVfeXFMTTFMX3FGUVEyMmNwTDJxMm03ZEZrUFZyS1dfOWE2ZkVFb3BaUkoya0Q2c1BTNUVOZVRRbUsydnViLXB5eDd6T0hVMXRFc2ZDbXJmNF9uRVRZOVB5MlBNeDBPQndBT3FQZERxSTU2UjRTam91VHJDRWZrRF9fZ3dmRVVOajVDQlQ4WXNXX3R3eG0tOVBfU1RwVWZLNTdCMk1MUUlLakdST0E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUxfcUZRUTIyY3BMMnEybTdkRmtQVnJLV185YTZmRUVvcFpSSjJrRDZzUFM1RU5lVFFtSzJ2dWItcHl4N3pPSFUxdEVzZkNtcmY0X25FVFk5UHkyUE14ME9Cd0FPcVBkRHFJNTZSNFNqb3VUckNFZmtEX19nd2ZFVU5qNUNCVDhZc1dfdHd4bS05UF9TVHBVZks1N0IyTUxRSUtqR1JPQdIBpwFBVV95cUxNMUxfcUZRUTIyY3BMMnEybTdkRmtQVnJLV185YTZmRUVvcFpSSjJrRDZzUFM1RU5lVFFtSzJ2dWItcHl4N3pPSFUxdEVzZkNtcmY0X25FVFk5UHkyUE14ME9Cd0FPcVBkRHFJNTZSNFNqb3VUckNFZmtEX19nd2ZFVU5qNUNCVDhZc1dfdHd4bS05UF9TVHBVZks1N0IyTUxRSUtqR1JPQQ?oc=5",
         "published": "20 Apr 2026, 05:57 PM",
         "iso_date": "2026-04-20T17:57:05+00:00",
         "summary": "",
@@ -246,52 +246,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Replace Foreign Workers with Bahrainis",
+        "link": "https://www.newsofbahrain.com/bahrain/131104.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CBLEMd9HYR_2026-04-21_1776754314resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Mangrove Museum Proposal Gains Momentum",
+        "link": "https://www.newsofbahrain.com/bahrain/131103.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WgvNsQ8lFT_2026-04-21_1776754095resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Help is a Call Away",
+        "link": "https://www.newsofbahrain.com/bahrain/131102.html",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_p0gKdFhWBC_2026-04-21_1776756248resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Art Legacy Struck",
+        "link": "https://www.newsofbahrain.com/bahrain/131101.html",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RhsmwgXUOq_2026-04-21_1776753771resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Kuwait Declares Force Majeure on Oil Shipments Amid Renewed Hormuz Tensions",
         "link": "https://www.newsofbahrain.com/world/131100.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_dsKEM0hCPI_2026-04-21_1776751094resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hollywood Actor Patrick Muldoon Dies at 57",
-        "link": "https://www.newsofbahrain.com/trends/131099.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AhGVNej7xp_2026-04-20_1776715369resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Japan Warns of Possible Major Earthquake After Strong Tremor",
-        "link": "https://www.newsofbahrain.com/world/131098.html",
-        "published": "20 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rldq2aBIE5_2026-04-20_1776714871resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iraq Reopens Key Border Crossing with Syria After 13 Years",
-        "link": "https://www.newsofbahrain.com/world/131097.html",
-        "published": "20 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-20T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VAYGfsNF3c_2026-04-20_1776714671resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Praises UAE Security for Foiling Terrorist Plot",
-        "link": "https://www.newsofbahrain.com/world/131096.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q9wW1Ly8sd_2026-04-20_1776714500resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,42 +306,32 @@
         "category": "Latest"
       },
       {
-        "title": "HM King Hosts Jordan’s Crown Prince",
-        "link": "https://www.newsofbahrain.com/bahrain/131088.html",
+        "title": "Japan Warns of Possible Major Earthquake After Strong Tremor",
+        "link": "https://www.newsofbahrain.com/world/131098.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_y1xTVg3XhI_2026-04-20_1776709425thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rldq2aBIE5_2026-04-20_1776714871thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Foreign Minister Holds Call with Greek Counterpart on Bilateral Ties and Regional Developments",
-        "link": "https://www.newsofbahrain.com/bahrain/131086.html",
+        "title": "Iraq Reopens Key Border Crossing with Syria After 13 Years",
+        "link": "https://www.newsofbahrain.com/world/131097.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YApIvrubd7_2026-04-20_1776708482thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VAYGfsNF3c_2026-04-20_1776714671thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Foreign Minister Meets UAE Ambassador to Strengthen Bilateral Cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/131085.html",
+        "title": "Kuwait Praises UAE Security for Foiling Terrorist Plot",
+        "link": "https://www.newsofbahrain.com/world/131096.html",
         "published": "20 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-20T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vmIMOUApdn_2026-04-20_1776708320thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King Hamad Visits Bahrain Defence Force Unit",
-        "link": "https://www.newsofbahrain.com/bahrain/131083.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AEHncm9yXG_2026-04-20_1776707538thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_q9wW1Ly8sd_2026-04-20_1776714500thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 06:40:11 UTC"
+  "fetched_at": "2026-04-21 07:35:20 UTC"
 }
