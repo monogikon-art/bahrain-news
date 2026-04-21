@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,30 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain tightens security, reviews citizenship amid fallout from Iran war",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3N3ek1OZERjWWFSZHI5WGJhZXdNTEMtOUdqaEJ2SFNBZFdCY3NEcFUxaFo5cEl5Z2FOT3JPOHJJVG51Z3FRbkxYenQ3S3A1dm9HVm43VXR4a0hQYWplSzVMRnZVUGdyZzZDSkVIU2pSWl9oZmdPUmdzZW9DOXhxVm1aSXZjMDFiTnNpZzdNYk4zeTJ0ZU1zcA?oc=5",
-        "published": "20 Apr 2026, 06:53 PM",
-        "iso_date": "2026-04-20T18:53:50+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Directives Heighten Repression, Risk Denationalization",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ21LVkYyUmU1VkNlV014RU9tbVRMbllTaFhpV2MzcWozc1BkMWI5THh4Vzc3WlFRbW8yeUlDTUZpRl9FVGMzNlpPSURJX0lrUFJiS3ZMTXo3Sk5VR2p5dzhpWXBrakdVazRJR3VXT1pDTnlwVHpfTlVGNmxRX2xBalRKTzk3Zw?oc=5",
         "published": "21 Apr 2026, 12:48 PM",
         "iso_date": "2026-04-21T12:48:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran fires new wave of missiles at Israel after denying Trump talks",
-        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQYURnenZvb2hTRnM4RmU0YlBrODdYOGZ3UFhEWXhsWjl2ZG9kZTM3Y0pQNDdlVlhvbzk4TXo0bkZXdTJNTXRaZnVnaldnTkpBTWxMc0xOZ2ZLeEFxSWYwTWdocDBycTlzR0F0bzRib2ZJWjQ5MnM5OWVZd1NtY1hQcEVjYTk0MW5zRGotYzJRT3pXajdaOHp0bDZRS0FXdFBxR2NsRHhJQWxLUlRFS3N0eHBpV211SGFKQjZEOGpFX0VtejQ2Ni1RX3VBLUV6THljZnlBWFZCQUt3Tk0zcVdOZDlYZjFZU0gwTV9IbXljU3VJQ29fTi1icWRkRUxhWGhTQ3BKenhIXzBUMHRONl82bm1TTmstOTVLV3VITVVpTGZ5Z0hGSUV5QzNMeldHcHpPcDRsVG9hUUowSGE2WXJBamxWUVh2VkRxMVVhQ1pB?oc=5",
-        "published": "20 Apr 2026, 09:45 PM",
-        "iso_date": "2026-04-20T21:45:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,10 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Saudi, French defense ministers discuss strengthening defense cooperation",
-        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYmVrYVBiUEYwRlZUbFBoM3FhTENXckgyUEM3YTFEMWlvLWlBRmZCNkNGd2VBYnljNVJ0MjFQWmpBM3hMNEszOU1neHdkR3duMHRORFZQYWF6X3V2WXFzZEIzVHBBNS1LemsxR0hwSVFNWlI1VmZlQ2dyMmVRbDNDaEFYYjQtLTBMRDFQWG9YTEVVei15UFB2SFhKMlhZbHl5TkFhYU9xNWxtaVN4dDlJcGJ5T1VUanYyeUlsRlJhZDZpVWJXRXp4d3BmQkxnQjRKX1RDZHk1TlgzTDVhMU1nYWVSVkdzSkhpX1dlNmF1c2tyTlJkM01ST3J5VE5hcmNEdExXa3FpZllad3BsWTVreExXUFZ5d1diNkJSV3FsQW55NGhPT2F3Mk1VVDlRbzJ2ZnN5cHJ0LThlX0FFTjNMYU9sLTUtNkt2MHBHWW9uSkFYSmJhdGlpYQ?oc=5",
-        "published": "21 Apr 2026, 03:09 AM",
-        "iso_date": "2026-04-21T03:09:52+00:00",
+        "title": "Saudi Arabia, Syria discuss exchange of expertise in disaster management",
+        "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNT3l5WTgxcFFhNEplZ0dNbGVoSnM5ZnNFS01PMFZIN215alRfUUNGdmtIa2VrNXVIbW5lZ0V3Wl9DTnJ6Y0FpREllTjBxTU5BUUJXMnU4Xy1ieGVsQUtHMGNGc3FuOEZRUWMtcDZoT183VGJHTkI5RWF3dF9QWHNpQnZZMmxWN01hQmJZNFhxaVVSXzJsNG56eGZVYVlFZU5wM0RiU19aLXYwbE5QVnRUVktsT29VWXNDWmlIT0NGWU5LaTI1UnhWM1VTX0dIZjRXRHYwM0tVV09wYXZXcVg4U1FxVjFiMGEyNjloX3MtU0kxdXdGRlRSdXU2aUJHZktZTFIxa2h2N0w5QTJQVWlSR3M1UXdLVWVIZXF0VUYxTWEwblVhcUdKWGhCY1FxRUJhNGszWlJQZ3VxLUtSMXlhcUZOZEdKdzY1N2NKT1V4WlhQRGpJb2lv?oc=5",
+        "published": "21 Apr 2026, 05:02 AM",
+        "iso_date": "2026-04-21T05:02:18+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 18:50:22 UTC"
+  "fetched_at": "2026-04-21 19:29:13 UTC"
 }
