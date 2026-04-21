@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,16 +42,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain welcomes IMO condemnation of Iran closing Strait of Hormuz",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3RUeWYteEc2YTY0SG5aenNsN2FVdUNMM28yUUdtdGtjZWtJUEE3VkVvMERTS0xmSlo1eWsxckE3N2ExQS1aR0FlVlhOREc0VzZ4Y0FzVW5tNWtLSXFSLTV2UFFCUjY1cmM5UEszUlNoTThrV1pHRGlGdlptS2pya0lLOWVpUGswa0VHVHRrU2FDRmlzSzlkZk85QUpBOF94c2RTb0JLdHRqZms5UGYteHZFTDdfZw?oc=5",
-        "published": "20 Apr 2026, 08:08 AM",
-        "iso_date": "2026-04-20T08:08:04+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Orders Review of Citizenship for Individuals Deemed Security Threats",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
         "published": "21 Apr 2026, 01:44 AM",
@@ -63,7 +53,7 @@
       },
       {
         "title": "Bahrain condemns Iran-linked terrorist group nabbed in UAE, offers full support",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUxfcUZRUTIyY3BMMnEybTdkRmtQVnJLV185YTZmRUVvcFpSSjJrRDZzUFM1RU5lVFFtSzJ2dWItcHl4N3pPSFUxdEVzZkNtcmY0X25FVFk5UHkyUE14ME9Cd0FPcVBkRHFJNTZSNFNqb3VUckNFZmtEX19nd2ZFVU5qNUNCVDhZc1dfdHd4bS05UF9TVHBVZks1N0IyTUxRSUtqR1JPQdIBpwFBVV95cUxNMUxfcUZRUTIyY3BMMnEybTdkRmtQVnJLV185YTZmRUVvcFpSSjJrRDZzUFM1RU5lVFFtSzJ2dWItcHl4N3pPSFUxdEVzZkNtcmY0X25FVFk5UHkyUE14ME9Cd0FPcVBkRHFJNTZSNFNqb3VUckNFZmtEX19nd2ZFVU5qNUNCVDhZc1dfdHd4bS05UF9TVHBVZks1N0IyTUxRSUtqR1JPQQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdG5HanpuWTQ1aXZrOXpINkxfdF8tZVlEaHhlY0owTkNoQ2JUaEI1Q1ZETEs5NW1GSlJTTndFbkNuRUxfQURnWml3V1U3WkJzVG5CU1hQaU5GWkFfYmd2UmpTTGRsYWNINVpyRnducVdIMTczZEJrb1lybmRtcUYtOEhxY2JZVXZqTGMxUzQ3ME5FVlJrQXBKcjBNdENnNGvSAacBQVVfeXFMTTFMX3FGUVEyMmNwTDJxMm03ZEZrUFZyS1dfOWE2ZkVFb3BaUkoya0Q2c1BTNUVOZVRRbUsydnViLXB5eDd6T0hVMXRFc2ZDbXJmNF9uRVRZOVB5MlBNeDBPQndBT3FQZERxSTU2UjRTam91VHJDRWZrRF9fZ3dmRVVOajVDQlQ4WXNXX3R3eG0tOVBfU1RwVWZLNTdCMk1MUUlLakdST0E?oc=5",
         "published": "20 Apr 2026, 05:57 PM",
         "iso_date": "2026-04-20T17:57:05+00:00",
         "summary": "",
@@ -246,10 +236,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Replace Foreign Workers with Bahrainis",
-        "link": "https://www.newsofbahrain.com/bahrain/131104.html",
+        "title": "Gold Demand Turns Investment",
+        "link": "https://www.newsofbahrain.com/bahrain/131107.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oQAJExG96U_2026-04-21_1776759837resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Transforming the Tech Landscape in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/131106.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Hcu5lVBhEL_2026-04-21_1776758641resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Stability Rooted in the Rule of Law",
+        "link": "https://www.newsofbahrain.com/bahrain/131105.html",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lTFpru7536_2026-04-21_1776757797resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Replace Foreign Workers with Bahrainis",
+        "link": "https://www.newsofbahrain.com/bahrain/131104.html",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_CBLEMd9HYR_2026-04-21_1776754314resized_pic.jpg",
         "source": "newsofbahrain",
@@ -266,42 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "Help is a Call Away",
-        "link": "https://www.newsofbahrain.com/bahrain/131102.html",
-        "published": "21 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_p0gKdFhWBC_2026-04-21_1776756248resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Art Legacy Struck",
-        "link": "https://www.newsofbahrain.com/bahrain/131101.html",
-        "published": "21 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RhsmwgXUOq_2026-04-21_1776753771resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Kuwait Declares Force Majeure on Oil Shipments Amid Renewed Hormuz Tensions",
         "link": "https://www.newsofbahrain.com/world/131100.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dsKEM0hCPI_2026-04-21_1776751094resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Condemns Terrorist Plot Targeting UAE",
-        "link": "https://www.newsofbahrain.com/bahrain/131095.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DClES1aQNj_2026-04-20_1776713548thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dsKEM0hCPI_2026-04-21_1776751094thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 07:35:20 UTC"
+  "fetched_at": "2026-04-21 08:38:38 UTC"
 }
