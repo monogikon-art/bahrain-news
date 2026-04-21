@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -66,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdG5HanpuWTQ1aXZrOXpINkxfdF8tZVlEaHhlY0owTkNoQ2JUaEI1Q1ZETEs5NW1GSlJTTndFbkNuRUxfQURnWml3V1U3WkJzVG5CU1hQaU5GWkFfYmd2UmpTTGRsYWNINVpyRnducVdIMTczZEJrb1lybmRtcUYtOEhxY2JZVXZqTGMxUzQ3ME5FVlJrQXBKcjBNdENnNGvSAacBQVVfeXFMTTFMX3FGUVEyMmNwTDJxMm03ZEZrUFZyS1dfOWE2ZkVFb3BaUkoya0Q2c1BTNUVOZVRRbUsydnViLXB5eDd6T0hVMXRFc2ZDbXJmNF9uRVRZOVB5MlBNeDBPQndBT3FQZERxSTU2UjRTam91VHJDRWZrRF9fZ3dmRVVOajVDQlQ4WXNXX3R3eG0tOVBfU1RwVWZLNTdCMk1MUUlLakdST0E?oc=5",
         "published": "20 Apr 2026, 05:57 PM",
         "iso_date": "2026-04-20T17:57:05+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain demands ‘full compensati­on’ for damages after Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaDZZem0xMkpWX2JITXl0ZmVFeDFoLTJhRlpLdnUyU1k2TTF0cVIzYXlEZG1zSUVvN3B4X284bk1BVXdSVHQzYVFXUnN6Y2ZrbENQd0xVOGJCY25RYTN4dzFub2wxcEh5RDhUQVFkb3h6SDM3VmpIMUNR?oc=5",
-        "published": "20 Apr 2026, 12:03 AM",
-        "iso_date": "2026-04-20T00:03:21+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-20 23:46:11 UTC"
+  "fetched_at": "2026-04-21 00:32:23 UTC"
 }
