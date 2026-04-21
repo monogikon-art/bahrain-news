@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
         "published": "21 Apr 2026, 01:44 AM",
         "iso_date": "2026-04-21T01:44:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi, French defense ministers discuss strengthening defense cooperation",
+        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYmVrYVBiUEYwRlZUbFBoM3FhTENXckgyUEM3YTFEMWlvLWlBRmZCNkNGd2VBYnljNVJ0MjFQWmpBM3hMNEszOU1neHdkR3duMHRORFZQYWF6X3V2WXFzZEIzVHBBNS1LemsxR0hwSVFNWlI1VmZlQ2dyMmVRbDNDaEFYYjQtLTBMRDFQWG9YTEVVei15UFB2SFhKMlhZbHl5TkFhYU9xNWxtaVN4dDlJcGJ5T1VUanYyeUlsRlJhZDZpVWJXRXp4d3BmQkxnQjRKX1RDZHk1TlgzTDVhMU1nYWVSVkdzSkhpX1dlNmF1c2tyTlJkM01ST3J5VE5hcmNEdExXa3FpZllad3BsWTVreExXUFZ5d1diNkJSV3FsQW55NGhPT2F3Mk1VVDlRbzJ2ZnN5cHJ0LThlX0FFTjNMYU9sLTUtNkt2MHBHWW9uSkFYSmJhdGlpYQ?oc=5",
+        "published": "21 Apr 2026, 03:09 AM",
+        "iso_date": "2026-04-21T03:09:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,52 +236,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "‘No reason’ for US intervention in Cuba: Germany’s Merz",
-        "link": "https://www.newsofbahrain.com/world/131168.html",
+        "title": "USS Gerald R. Ford enters Middle East after record 296-day deployment",
+        "link": "https://www.newsofbahrain.com/world/131174.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AofUqv95Bc_2026-04-21_1776778067resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WRV4Jw1Btu_2026-04-21_1776781691resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UN urges Sri Lanka to deliver results in Easter bombing probe",
-        "link": "https://www.newsofbahrain.com/world/131167.html",
+        "title": "Iraq reopens border crossing with Syria shut for nearly 13 years",
+        "link": "https://www.newsofbahrain.com/world/131173.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N7oha96mCx_2026-04-21_1776777912resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vVOm5x8I9r_2026-04-21_1776781506resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UK unemployment unexpectedly fell ahead of Mideast war",
-        "link": "https://www.newsofbahrain.com/world/131166.html",
+        "title": "US opens tariff refunds portal after court struck down Trump duties",
+        "link": "https://www.newsofbahrain.com/world/131172.html",
         "published": "21 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EH0SsJohG4_2026-04-21_1776777803resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LDkq9H8fCs_2026-04-21_1776781365resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Indonesia Passes Landmark Law Protecting Domestic Workers",
-        "link": "https://www.newsofbahrain.com/world/131165.html",
+        "title": "US begins ‘biggest ever’ Philippines war games",
+        "link": "https://www.newsofbahrain.com/world/131171.html",
         "published": "21 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eVxQgbGjqi_2026-04-21_1776777678resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_M0bU4PgdIB_2026-04-21_1776781544resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Taiwan Puts Conditions on Hiring Indian Migrant Workers",
-        "link": "https://www.newsofbahrain.com/world/131164.html",
+        "title": "UAE says dismantled Iran-linked group plotting 'terror' operations",
+        "link": "https://www.newsofbahrain.com/world/131170.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_X0Y9gLu1qC_2026-04-21_1776777435resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6MOgBcoAiY_2026-04-21_1776780781resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 13:35:26 UTC"
+  "fetched_at": "2026-04-21 14:36:44 UTC"
 }
