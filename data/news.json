@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ21LVkYyUmU1VkNlV014RU9tbVRMbllTaFhpV2MzcWozc1BkMWI5THh4Vzc3WlFRbW8yeUlDTUZpRl9FVGMzNlpPSURJX0lrUFJiS3ZMTXo3Sk5VR2p5dzhpWXBrakdVazRJR3VXT1pDTnlwVHpfTlVGNmxRX2xBalRKTzk3Zw?oc=5",
         "published": "21 Apr 2026, 12:48 PM",
         "iso_date": "2026-04-21T12:48:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran fires new wave of missiles at Israel after denying Trump talks",
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQYURnenZvb2hTRnM4RmU0YlBrODdYOGZ3UFhEWXhsWjl2ZG9kZTM3Y0pQNDdlVlhvbzk4TXo0bkZXdTJNTXRaZnVnaldnTkpBTWxMc0xOZ2ZLeEFxSWYwTWdocDBycTlzR0F0bzRib2ZJWjQ5MnM5OWVZd1NtY1hQcEVjYTk0MW5zRGotYzJRT3pXajdaOHp0bDZRS0FXdFBxR2NsRHhJQWxLUlRFS3N0eHBpV211SGFKQjZEOGpFX0VtejQ2Ni1RX3VBLUV6THljZnlBWFZCQUt3Tk0zcVdOZDlYZjFZU0gwTV9IbXljU3VJQ29fTi1icWRkRUxhWGhTQ3BKenhIXzBUMHRONl82bm1TTmstOTVLV3VITVVpTGZ5Z0hGSUV5QzNMeldHcHpPcDRsVG9hUUowSGE2WXJBamxWUVh2VkRxMVVhQ1pB?oc=5",
+        "published": "20 Apr 2026, 09:45 PM",
+        "iso_date": "2026-04-20T21:45:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,10 +52,10 @@
         "category": "Latest"
       },
       {
-        "title": "Saudi Arabia, Syria discuss exchange of expertise in disaster management",
-        "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNT3l5WTgxcFFhNEplZ0dNbGVoSnM5ZnNFS01PMFZIN215alRfUUNGdmtIa2VrNXVIbW5lZ0V3Wl9DTnJ6Y0FpREllTjBxTU5BUUJXMnU4Xy1ieGVsQUtHMGNGc3FuOEZRUWMtcDZoT183VGJHTkI5RWF3dF9QWHNpQnZZMmxWN01hQmJZNFhxaVVSXzJsNG56eGZVYVlFZU5wM0RiU19aLXYwbE5QVnRUVktsT29VWXNDWmlIT0NGWU5LaTI1UnhWM1VTX0dIZjRXRHYwM0tVV09wYXZXcVg4U1FxVjFiMGEyNjloX3MtU0kxdXdGRlRSdXU2aUJHZktZTFIxa2h2N0w5QTJQVWlSR3M1UXdLVWVIZXF0VUYxTWEwblVhcUdKWGhCY1FxRUJhNGszWlJQZ3VxLUtSMXlhcUZOZEdKdzY1N2NKT1V4WlhQRGpJb2lv?oc=5",
-        "published": "21 Apr 2026, 05:02 AM",
-        "iso_date": "2026-04-21T05:02:18+00:00",
+        "title": "Saudi, French defense ministers discuss strengthening defense cooperation",
+        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYmVrYVBiUEYwRlZUbFBoM3FhTENXckgyUEM3YTFEMWlvLWlBRmZCNkNGd2VBYnljNVJ0MjFQWmpBM3hMNEszOU1neHdkR3duMHRORFZQYWF6X3V2WXFzZEIzVHBBNS1LemsxR0hwSVFNWlI1VmZlQ2dyMmVRbDNDaEFYYjQtLTBMRDFQWG9YTEVVei15UFB2SFhKMlhZbHl5TkFhYU9xNWxtaVN4dDlJcGJ5T1VUanYyeUlsRlJhZDZpVWJXRXp4d3BmQkxnQjRKX1RDZHk1TlgzTDVhMU1nYWVSVkdzSkhpX1dlNmF1c2tyTlJkM01ST3J5VE5hcmNEdExXa3FpZllad3BsWTVreExXUFZ5d1diNkJSV3FsQW55NGhPT2F3Mk1VVDlRbzJ2ZnN5cHJ0LThlX0FFTjNMYU9sLTUtNkt2MHBHWW9uSkFYSmJhdGlpYQ?oc=5",
+        "published": "21 Apr 2026, 03:09 AM",
+        "iso_date": "2026-04-21T03:09:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -104,6 +114,16 @@
         "category": "Latest"
       },
       {
+        "title": "French connections highlighted with Chamber",
+        "link": "https://www.gdnonline.com/Details/1392242/French-connections-highlighted-with-Chamber",
+        "published": "21 Apr 2026",
+        "iso_date": "2026-04-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421213945whatsappimage2026-04-21at21.28.33_T.jpg?20260421",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Bourse launches listing gateway platform",
         "link": "https://www.gdnonline.com/Details/1392152/Bahrain-Bourse-launches-listing-gateway-platform",
         "published": "21 Apr 2026",
@@ -140,16 +160,6 @@
         "iso_date": "2026-04-20T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260419/20260419225215singlepic(16)_T.jpg?20260421",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Tech sector âmoves towards data-driven talent sourcingâ",
-        "link": "https://www.gdnonline.com/Details/1392016/Tech-sector-âmoves-towards-data-driven-talent-sourcingâ",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420004027techsalary_T.jpg?20260421",
         "source": "gdn",
         "category": "Latest"
       },
@@ -206,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain Reaffirms Economic Strength and Diversification at Atlantic Council Dialogue",
+        "link": "https://www.newsofbahrain.com/bahrain/131186.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rKpBoJ7H5l_2026-04-21_1776800863resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "New Zealand Declares Emergency in Capital Wellington as Heavy Rains Trigger Flooding",
         "link": "https://www.newsofbahrain.com/world/131185.html",
         "published": "21 Apr 2026, 09:22 AM",
@@ -218,8 +238,8 @@
       {
         "title": "UAE–Oman Hafeet Rail Project Reaches 40% Completion",
         "link": "https://www.newsofbahrain.com/world/131184.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WPAz8OLpwF_2026-04-21_1776796249resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +258,10 @@
       {
         "title": "Kuwait says exploiting sea routes for pressure amounts to “legal piracy”",
         "link": "https://www.newsofbahrain.com/world/131182.html",
-        "published": "21 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7erxwZscPW_2026-04-21_1776795921resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Beach Handball Team Defeats China in Asian Beach Games Opener",
-        "link": "https://www.newsofbahrain.com/sports/131181.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SrfnudXQNg_2026-04-21_1776795710resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7erxwZscPW_2026-04-21_1776795921resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,16 +292,6 @@
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_8XpSPVsxzn_2026-04-21_1776795031thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Defence Affairs Minister Meets Ukrainian Security Official in Manama",
-        "link": "https://www.newsofbahrain.com/bahrain/131176.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_km57vQHl6y_2026-04-21_1776794946thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 19:29:13 UTC"
+  "fetched_at": "2026-04-21 19:55:31 UTC"
 }
