@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 12
+      "count": 14
     }
   },
   "articles": {
@@ -52,16 +52,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain condemns terrorist plot to destabilise UAE",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkJEckNEcTFOa2xMdXJiQS1iY19uVU0xeFllTktqckdYSldTVFJ3SXBZSnllZnRqWmFiRklUUmRpdlFjTUlrMlI4ZXBsSGVxcVdYVzllbWFrNEwtLVVxaGNDelJvOTRKTG1zcGplMDJFMzdFbVZtVkppN2VJMlZDQ2tUaVhjTzhWcjl3TVBSdG1BdTQtQnYwM0wyUVc?oc=5",
-        "published": "20 Apr 2026, 05:10 PM",
-        "iso_date": "2026-04-20T17:10:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain Orders Review of Citizenship for Individuals Deemed Security Threats",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
         "published": "21 Apr 2026, 01:44 AM",
@@ -70,26 +60,36 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Saudi, French defense ministers discuss strengthening defense cooperation",
+        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYmVrYVBiUEYwRlZUbFBoM3FhTENXckgyUEM3YTFEMWlvLWlBRmZCNkNGd2VBYnljNVJ0MjFQWmpBM3hMNEszOU1neHdkR3duMHRORFZQYWF6X3V2WXFzZEIzVHBBNS1LemsxR0hwSVFNWlI1VmZlQ2dyMmVRbDNDaEFYYjQtLTBMRDFQWG9YTEVVei15UFB2SFhKMlhZbHl5TkFhYU9xNWxtaVN4dDlJcGJ5T1VUanYyeUlsRlJhZDZpVWJXRXp4d3BmQkxnQjRKX1RDZHk1TlgzTDVhMU1nYWVSVkdzSkhpX1dlNmF1c2tyTlJkM01ST3J5VE5hcmNEdExXa3FpZllad3BsWTVreExXUFZ5d1diNkJSV3FsQW55NGhPT2F3Mk1VVDlRbzJ2ZnN5cHJ0LThlX0FFTjNMYU9sLTUtNkt2MHBHWW9uSkFYSmJhdGlpYQ?oc=5",
+        "published": "21 Apr 2026, 03:09 AM",
+        "iso_date": "2026-04-21T03:09:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain condemns terrorist plot to destabilise UAE",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkJEckNEcTFOa2xMdXJiQS1iY19uVU0xeFllTktqckdYSldTVFJ3SXBZSnllZnRqWmFiRklUUmRpdlFjTUlrMlI4ZXBsSGVxcVdYVzllbWFrNEwtLVVxaGNDelJvOTRKTG1zcGplMDJFMzdFbVZtVkppN2VJMlZDQ2tUaVhjTzhWcjl3TVBSdG1BdTQtQnYwM0wyUVc?oc=5",
+        "published": "20 Apr 2026, 05:10 PM",
+        "iso_date": "2026-04-20T17:10:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "His Majesty praises Bahrain-Jordan relations",
-        "link": "https://www.gdnonline.com/Details/1392197/His-Majesty-praises-Bahrain-Jordan-relations",
+        "title": "WEATHER ALERT: Strong winds warning as scattered rain expected across Bahrain",
+        "link": "https://www.gdnonline.com/Details/1392214/WEATHER-ALERT-Strong-winds-warning-as-scattered-rain-expected-across-Bahrain",
         "published": "21 Apr 2026",
         "iso_date": "2026-04-21T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_015014_0_T.jpg?20260421",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Urgent call to tackle mosquito menace after unstable weather",
-        "link": "https://www.gdnonline.com/Details/1392175/Urgent-call-to-tackle-mosquito-menace-after-unstable-weather",
-        "published": "21 Apr 2026",
-        "iso_date": "2026-04-21T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_003811_2_T.jpg?20260421",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421125212bh1(1)_T.jpg?20260421",
         "source": "gdn",
         "category": "Latest"
       },
@@ -104,22 +104,32 @@
         "category": "Latest"
       },
       {
+        "title": "Urgent call to tackle mosquito menace after unstable weather",
+        "link": "https://www.gdnonline.com/Details/1392175/Urgent-call-to-tackle-mosquito-menace-after-unstable-weather",
+        "published": "21 Apr 2026",
+        "iso_date": "2026-04-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_003811_2_T.jpg?20260421",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "His Majesty praises Bahrain-Jordan relations",
+        "link": "https://www.gdnonline.com/Details/1392197/His-Majesty-praises-Bahrain-Jordan-relations",
+        "published": "21 Apr 2026",
+        "iso_date": "2026-04-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_015014_0_T.jpg?20260421",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Ties with UAE reviewed",
         "link": "https://www.gdnonline.com/Details/1392177/Ties-with-UAE-reviewed",
         "published": "21 Apr 2026",
         "iso_date": "2026-04-21T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260421/2026042100531720260421_004951_0.jpeg?20260421",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Alumni gather for annual reunion",
-        "link": "https://www.gdnonline.com/Details/1392147/Alumni-gather-for-annual-reunion",
-        "published": "21 Apr 2026",
-        "iso_date": "2026-04-21T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260421/20260420_222808_0_T.jpg?20260421",
         "source": "gdn",
         "category": "Latest"
       },
@@ -226,42 +236,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Tim Cook to Step Up as Apple's Executive Chairman",
-        "link": "https://www.newsofbahrain.com/world/131122.html",
+        "title": "Singer D4vd charged with murder of missing teen found in Tesla in Los Angeles case",
+        "link": "https://www.newsofbahrain.com/world/131127.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ymx7wsgHvZ_2026-04-21_1776766229resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tMeLmrTzck_2026-04-21_1776770354resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Japan warns of possible stronger earthquake after 7.7-magnitude offshore quake triggers evacuations",
-        "link": "https://www.newsofbahrain.com/world/131120.html",
+        "title": "Canadian tourist killed in shooting at Mexico’s Teotihuacán pyramid site; 13 others injured",
+        "link": "https://www.newsofbahrain.com/world/131126.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_j0EbeTQKCX_2026-04-21_1776765556resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5PFv7REsw4_2026-04-21_1776769885resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Astronaut Sunitha Williams completes Boston Marathon after months in space",
+        "link": "https://www.newsofbahrain.com/world/131125.html",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AlyrqwYnC7_2026-04-21_1776769088resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Brazilian fitness influencer dies after drowning during swimming segment of Ironman Texas",
+        "link": "https://www.newsofbahrain.com/world/131124.html",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NPGsH7FfeR_2026-04-21_1776768325resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Arabia releases $1 billion to Pakistan as part of $3bn deposit deal amid external financing pressure",
+        "link": "https://www.newsofbahrain.com/world/131123.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tFhxoGb63p_2026-04-21_1776767530resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain Reports Rise in Private Sector Wages, Introduces New Minimum Salary Levels",
         "link": "https://www.newsofbahrain.com/bahrain/131119.html",
-        "published": "21 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-21T09:00:43+00:00",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qQEdSeJvfi_2026-04-21_1776765460resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hungary's Magyar says would carry out ICC warrant against Netanyahu",
-        "link": "https://www.newsofbahrain.com/world/131118.html",
-        "published": "21 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QJMKcbuxk9_2026-04-21_1776764247resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qQEdSeJvfi_2026-04-21_1776765460thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -271,7 +301,7 @@
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SObW5sGBht_2026-04-21_1776763302resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SObW5sGBht_2026-04-21_1776763302thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,12 +336,12 @@
         "category": "Latest"
       },
       {
-        "title": "Over $71 bn needed over next decade to rebuild Gaza: UN-EU assessment",
-        "link": "https://www.newsofbahrain.com/world/131116.html",
+        "title": "Tim Cook to Step Up as Apple's Executive Chairman",
+        "link": "https://www.newsofbahrain.com/world/131122.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0kDCdsWNKt_2026-04-21_1776763065thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ymx7wsgHvZ_2026-04-21_1776766229thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 10:31:25 UTC"
+  "fetched_at": "2026-04-21 11:26:59 UTC"
 }
