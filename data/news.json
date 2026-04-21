@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -63,7 +63,7 @@
       },
       {
         "title": "Bahrain condemns Iran-linked terrorist group nabbed in UAE, offers full support",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdG5HanpuWTQ1aXZrOXpINkxfdF8tZVlEaHhlY0owTkNoQ2JUaEI1Q1ZETEs5NW1GSlJTTndFbkNuRUxfQURnWml3V1U3WkJzVG5CU1hQaU5GWkFfYmd2UmpTTGRsYWNINVpyRnducVdIMTczZEJrb1lybmRtcUYtOEhxY2JZVXZqTGMxUzQ3ME5FVlJrQXBKcjBNdENnNGvSAacBQVVfeXFMTTFMX3FGUVEyMmNwTDJxMm03ZEZrUFZyS1dfOWE2ZkVFb3BaUkoya0Q2c1BTNUVOZVRRbUsydnViLXB5eDd6T0hVMXRFc2ZDbXJmNF9uRVRZOVB5MlBNeDBPQndBT3FQZERxSTU2UjRTam91VHJDRWZrRF9fZ3dmRVVOajVDQlQ4WXNXX3R3eG0tOVBfU1RwVWZLNTdCMk1MUUlLakdST0E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUxfcUZRUTIyY3BMMnEybTdkRmtQVnJLV185YTZmRUVvcFpSSjJrRDZzUFM1RU5lVFFtSzJ2dWItcHl4N3pPSFUxdEVzZkNtcmY0X25FVFk5UHkyUE14ME9Cd0FPcVBkRHFJNTZSNFNqb3VUckNFZmtEX19nd2ZFVU5qNUNCVDhZc1dfdHd4bS05UF9TVHBVZks1N0IyTUxRSUtqR1JPQdIBpwFBVV95cUxNMUxfcUZRUTIyY3BMMnEybTdkRmtQVnJLV185YTZmRUVvcFpSSjJrRDZzUFM1RU5lVFFtSzJ2dWItcHl4N3pPSFUxdEVzZkNtcmY0X25FVFk5UHkyUE14ME9Cd0FPcVBkRHFJNTZSNFNqb3VUckNFZmtEX19nd2ZFVU5qNUNCVDhZc1dfdHd4bS05UF9TVHBVZks1N0IyTUxRSUtqR1JPQQ?oc=5",
         "published": "20 Apr 2026, 05:57 PM",
         "iso_date": "2026-04-20T17:57:05+00:00",
         "summary": "",
@@ -93,6 +93,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Urgent call to tackle mosquito menace after unstable weather",
+        "link": "https://www.gdnonline.com/Details/1392175/Urgent-call-to-tackle-mosquito-menace-after-unstable-weather",
+        "published": "21 Apr 2026",
+        "iso_date": "2026-04-21T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_003811_2_T.jpg?20260421",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Ties with UAE reviewed",
         "link": "https://www.gdnonline.com/Details/1392177/Ties-with-UAE-reviewed",
@@ -134,12 +144,12 @@
         "category": "Latest"
       },
       {
-        "title": "BDFâs role praised",
-        "link": "https://www.gdnonline.com/Details/1392178/BDFâs-role-praised",
+        "title": "Bahrain Bourse launches listing gateway platform",
+        "link": "https://www.gdnonline.com/Details/1392152/Bahrain-Bourse-launches-listing-gateway-platform",
         "published": "21 Apr 2026",
         "iso_date": "2026-04-21T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_005111_0_T.jpg?20260421",
+        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420231743website(1)_T.jpg?20260421",
         "source": "gdn",
         "category": "Latest"
       },
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 00:32:23 UTC"
+  "fetched_at": "2026-04-21 01:35:50 UTC"
 }
