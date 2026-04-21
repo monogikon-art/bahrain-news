@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3N3ek1OZERjWWFSZHI5WGJhZXdNTEMtOUdqaEJ2SFNBZFdCY3NEcFUxaFo5cEl5Z2FOT3JPOHJJVG51Z3FRbkxYenQ3S3A1dm9HVm43VXR4a0hQYWplSzVMRnZVUGdyZzZDSkVIU2pSWl9oZmdPUmdzZW9DOXhxVm1aSXZjMDFiTnNpZzdNYk4zeTJ0ZU1zcA?oc=5",
         "published": "20 Apr 2026, 06:53 PM",
         "iso_date": "2026-04-20T18:53:50+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain takes aim at disloyal citizens amid Iran war",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2hIRnFBYzRRSGtRTlVBWU5tYm5iby1tSGpvNVR3MU9KdUJ5d01kMm9COXcyaWZzNnhXOXFKYURkSkVVdzltcF9Pbk1zbW5sYmdNaDZ5M25HNUhnZEZsV1k4aGN1Q19weV9wOS15QUtvSUlLamRRbWhHc0xSRkpVbnBuRGN1Qmc4S1BBZ1BaZ0RYaU9wQlNVcnRXVQ?oc=5",
-        "published": "20 Apr 2026, 12:22 PM",
-        "iso_date": "2026-04-20T12:22:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -56,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
         "published": "21 Apr 2026, 01:44 AM",
         "iso_date": "2026-04-21T01:44:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi, French defense ministers discuss strengthening defense cooperation",
+        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYmVrYVBiUEYwRlZUbFBoM3FhTENXckgyUEM3YTFEMWlvLWlBRmZCNkNGd2VBYnljNVJ0MjFQWmpBM3hMNEszOU1neHdkR3duMHRORFZQYWF6X3V2WXFzZEIzVHBBNS1LemsxR0hwSVFNWlI1VmZlQ2dyMmVRbDNDaEFYYjQtLTBMRDFQWG9YTEVVei15UFB2SFhKMlhZbHl5TkFhYU9xNWxtaVN4dDlJcGJ5T1VUanYyeUlsRlJhZDZpVWJXRXp4d3BmQkxnQjRKX1RDZHk1TlgzTDVhMU1nYWVSVkdzSkhpX1dlNmF1c2tyTlJkM01ST3J5VE5hcmNEdExXa3FpZllad3BsWTVreExXUFZ5d1diNkJSV3FsQW55NGhPT2F3Mk1VVDlRbzJ2ZnN5cHJ0LThlX0FFTjNMYU9sLTUtNkt2MHBHWW9uSkFYSmJhdGlpYQ?oc=5",
+        "published": "21 Apr 2026, 03:09 AM",
+        "iso_date": "2026-04-21T03:09:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,52 +226,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "EU proposes full resumption of Syria cooperation accord",
-        "link": "https://www.newsofbahrain.com/business/131131.html",
+        "title": "Expanded Talks Between Jordan and EU Leaders Underway",
+        "link": "https://www.newsofbahrain.com/world/131139.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1uMyH8qE2x_2026-04-21_1776771973resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_co3DCk8Sgy_2026-04-21_1776774131resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "India, South Korea target doubling trade by 2030",
-        "link": "https://www.newsofbahrain.com/world/131130.html",
+        "title": "Saudi, China Leaders Call for Maritime Security",
+        "link": "https://www.newsofbahrain.com/world/131138.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WnTe06JEL1_2026-04-21_1776771779resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TJkw5ADaLh_2026-04-21_1776773670resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Oil jumps on Hormuz tensions, stocks retreat",
-        "link": "https://www.newsofbahrain.com/business/131129.html",
+        "title": "UAE Dismantles Terror Cell Planning Sabotage",
+        "link": "https://www.newsofbahrain.com/world/131137.html",
         "published": "21 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MOmbS3cAGk_2026-04-21_1776771484resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7Kfxzh3AYF_2026-04-21_1776773188resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Amnesty International warns of “predatory world order” led by major global powers",
-        "link": "https://www.newsofbahrain.com/world/131128.html",
+        "title": "Eighteen Nations Defend Somalia",
+        "link": "https://www.newsofbahrain.com/world/131136.html",
         "published": "21 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-21T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_u5Qd3kPJUM_2026-04-21_1776770920resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZWqPN9AO5s_2026-04-21_1776773092resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Singer D4vd charged with murder of missing teen found in Tesla in Los Angeles case",
-        "link": "https://www.newsofbahrain.com/world/131127.html",
+        "title": "UN maritime agency urges help for stranded Hormuz sailors",
+        "link": "https://www.newsofbahrain.com/world/131135.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tMeLmrTzck_2026-04-21_1776770354resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NqpXlMY6i4_2026-04-21_1776773037resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,12 +326,22 @@
         "category": "Latest"
       },
       {
-        "title": "Canadian tourist killed in shooting at Mexico’s Teotihuacán pyramid site; 13 others injured",
-        "link": "https://www.newsofbahrain.com/world/131126.html",
+        "title": "EU proposes full resumption of Syria cooperation accord",
+        "link": "https://www.newsofbahrain.com/business/131131.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5PFv7REsw4_2026-04-21_1776769885thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1uMyH8qE2x_2026-04-21_1776771973thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil jumps on Hormuz tensions, stocks retreat",
+        "link": "https://www.newsofbahrain.com/business/131129.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MOmbS3cAGk_2026-04-21_1776771484thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 11:51:18 UTC"
+  "fetched_at": "2026-04-21 12:24:17 UTC"
 }
