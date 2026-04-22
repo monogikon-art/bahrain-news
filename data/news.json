@@ -10,13 +10,13 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 9
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 0
     }
   },
   "articles": {
@@ -144,26 +144,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain and Bermuda sign protocol amending double taxation agreement",
-        "link": "https://www.gdnonline.com/Details/1392019/Bahrain-and-Bermuda-sign-protocol-amending-double-taxation-agreement",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221740_0_T.jpg?20260422",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "NBB partners with BLME to offer UK property finance",
-        "link": "https://www.gdnonline.com/Details/1392017/NBB-partners-with-BLME-to-offer-UK-property-finance",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260419_221739_0_T.jpg?20260422",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "West Ham miss chance to ease relegation fears",
         "link": "https://www.gdnonline.com/Details/1392200/West-Ham-miss-chance-to-ease-relegation-fears",
         "published": "21 Apr 2026",
@@ -172,180 +152,9 @@
         "image": "https://www.gdnonline.com/gdnimages/20260421/20260421_015959_0_T.jpg?20260422",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Lionel Messi's brace helps Inter Miami slay Rapids in front of huge crowd",
-        "link": "https://www.gdnonline.com/Details/1392070/Lionel-Messis-brace-helps-Inter-Miami-slay-Rapids-in-front-of-huge-crowd",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420113855messi1(8)_T.jpg?20260422",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "USMA reach Confederation Cup final after violence-marred clash with Safi",
-        "link": "https://www.gdnonline.com/Details/1392066/USMA-reach-Confederation-Cup-final-after-violence-marred-clash-with-Safi",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420112850usma_T.jpg?20260422",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Burnley game is like a final, says Man City's Haaland",
-        "link": "https://www.gdnonline.com/Details/1392072/Burnley-game-is-like-a-final,-says-Man-Citys-Haaland",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420093319haaland_T.jpg?20260422",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Liverpool's Salah bids farewell to Everton with another derby goal",
-        "link": "https://www.gdnonline.com/Details/1392081/Liverpools-Salah-bids-farewell-to-Everton-with-another-derby-goal",
-        "published": "20 Apr 2026",
-        "iso_date": "2026-04-20T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420094025salah1(7)_T.jpg?20260422",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Trump extends Iran ceasefire, continues blockade of ports",
-        "link": "https://www.newsofbahrain.com/world/131187.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d7a2RlLAgq_2026-04-21_1776803815resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Reaffirms Economic Strength and Diversification at Atlantic Council Dialogue",
-        "link": "https://www.newsofbahrain.com/bahrain/131186.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rKpBoJ7H5l_2026-04-21_1776800863resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "New Zealand Declares Emergency in Capital Wellington as Heavy Rains Trigger Flooding",
-        "link": "https://www.newsofbahrain.com/world/131185.html",
-        "published": "21 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DpBeRjdSWs_2026-04-21_1776796517resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE–Oman Hafeet Rail Project Reaches 40% Completion",
-        "link": "https://www.newsofbahrain.com/world/131184.html",
-        "published": "21 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-21T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WPAz8OLpwF_2026-04-21_1776796249resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Foreign Minister Meets Ukrainian Security Official in Manama",
-        "link": "https://www.newsofbahrain.com/bahrain/131183.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1dogzKNQIb_2026-04-21_1776796060resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Transportation Minister Meets Philippines Ambassador in Manama",
-        "link": "https://www.newsofbahrain.com/bahrain/131179.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7GcFXlN9CD_2026-04-21_1776795419thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Ambassador Participates in UNESCO Executive Board Session in Paris",
-        "link": "https://www.newsofbahrain.com/bahrain/131178.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KLWc57ryHt_2026-04-21_1776795308thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BDF Commander-in-Chief Receives Egyptian Defence Attaché",
-        "link": "https://www.newsofbahrain.com/bahrain/131177.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8XpSPVsxzn_2026-04-21_1776795031thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait says exploiting sea routes for pressure amounts to “legal piracy”",
-        "link": "https://www.newsofbahrain.com/world/131182.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7erxwZscPW_2026-04-21_1776795921thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "EU proposes full resumption of Syria cooperation accord",
-        "link": "https://www.newsofbahrain.com/business/131131.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1uMyH8qE2x_2026-04-21_1776771973thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil jumps on Hormuz tensions, stocks retreat",
-        "link": "https://www.newsofbahrain.com/business/131129.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MOmbS3cAGk_2026-04-21_1776771484thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tim Cook to Step Up as Apple's Executive Chairman",
-        "link": "https://www.newsofbahrain.com/world/131122.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ymx7wsgHvZ_2026-04-21_1776766229thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zain Bahrain recognised as Kingdom’s most awarded network by Opensignal",
-        "link": "https://www.newsofbahrain.com/business/131022.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kFlpd5qBzG_2026-04-20_1776673366thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -459,5 +268,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-21 23:45:18 UTC"
+  "fetched_at": "2026-04-22 00:29:26 UTC"
 }
