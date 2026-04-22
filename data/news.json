@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUGpuSnVvYzV1ZVAyeXA1d2FrZnk5a3g1TEtOOVU4VmYzbUYtM3FfMDRoOTVFNURvYV92QVc1ZXdiSWo5X0ZFYkIwODl6NTFVcS13dzdEY0RWV1pGQ3BhemIyQmFQV18yWVpNRlpUdjFVODlMdkJtZExXd0o1cUZzV1Nzd1k5UVg4MGR5dFdzenVBUXZYTGNjWHNtYWhhYUxERmxoMkp5WHZ2S0d6Q05pYUZhTTZWcTBNVWF2YUpIZnlfV29TZE9SZmp0UU55blY1QlNJV2ptSnh2V3c3MFI0d2lZTG9XM2NPYjZSdFYyTGpNMFBVa016OW5NY2lKR00zNk9RYlhyaGNONVk?oc=5",
         "published": "21 Apr 2026, 03:59 PM",
         "iso_date": "2026-04-21T15:59:24+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Israeli military says suspect neutralized in West Bank",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWptUWNaMUtfTHp6LW9uWVVORzRfSDdzRGNPMXd5MVZEVmVpREJNb0pGY0p0MlVaeG1yUUhsa1ZqLW8wdUdTSEliQWxoS1N6YmNBWE1jMFZzY3doeXFXeF9VTklPVmlmMVNRRzVZTlB6aXZpS2tmV1pZTXlLUFJJREI0M1VwYzNiMml4YW9Wc3duY1JocmpTakVUVVo4NDhNZUtERS13?oc=5",
-        "published": "21 Apr 2026, 03:48 PM",
-        "iso_date": "2026-04-21T15:48:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -328,5 +318,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-22 15:29:58 UTC"
+  "fetched_at": "2026-04-22 15:58:04 UTC"
 }
