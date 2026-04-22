@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 16
     }
   },
   "articles": {
@@ -184,6 +184,16 @@
         "category": "Latest"
       },
       {
+        "title": "Rosenior's tough words raise stakes as Chelsea misery deepens",
+        "link": "https://www.gdnonline.com/Details/1392338/Roseniors-tough-words-raise-stakes-as-Chelsea-misery-deepens",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422154250chelsea_T.jpg?20260422",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Machida set up title clash with Al Ahli",
         "link": "https://www.gdnonline.com/Details/1392304/Machida-set-up-title-clash-with-Al-Ahli",
         "published": "22 Apr 2026",
@@ -212,66 +222,56 @@
         "image": "https://www.gdnonline.com/gdnimages/20260422/20260422020355sfdgbzr_T.jpg?20260422",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Brighton outclass Chelsea",
-        "link": "https://www.gdnonline.com/Details/1392303/Brighton-outclass-Chelsea",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422_022701_0_T.jpg?20260422",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "Uber takes stake in French hydrogen taxi start-up",
-        "link": "https://www.newsofbahrain.com/world/131241.html",
+        "title": "BOC Conducts Field Visits to Boost Federation Development",
+        "link": "https://www.newsofbahrain.com/sports/131260.html",
         "published": "22 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i8KRpCsHXE_2026-04-22_1776864617resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cpbUWaTSyj_2026-04-22_1776866664resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "French activists sue 'deceptive' laughing gas suppliers",
-        "link": "https://www.newsofbahrain.com/world/131239.html",
+        "title": "Guardiola hints that Rodri will make swift Man City return",
+        "link": "https://www.newsofbahrain.com/sports/131259.html",
         "published": "22 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w4p0VoQEkN_2026-04-22_1776864404resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SEJ4cipOVa_2026-04-22_1776866342resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Top Horses to Clash in Bahrain’s Season Finale Races",
-        "link": "https://www.newsofbahrain.com/sports/131238.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ztcTEs8MNn_2026-04-22_1776864288resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US-based Buddhist monks bring peace walk to Sri Lanka",
-        "link": "https://www.newsofbahrain.com/world/131237.html",
+        "title": "Bahrain off to winning start at Asian Beach Games",
+        "link": "https://www.newsofbahrain.com/sports/131258.html",
         "published": "22 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-22T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ix1AQyb7g2_2026-04-22_1776864108resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3Puch0KrGW_2026-04-22_1776866135resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Chinese carmakers aim to build up presence in Europe",
-        "link": "https://www.newsofbahrain.com/world/131234.html",
+        "title": "Nepal Home Minister resigns amid questions over financial conduct",
+        "link": "https://www.newsofbahrain.com/world/131257.html",
+        "published": "22 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-22T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cXpUlVDWrv_2026-04-22_1776866788resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Lebanon to request 1-month truce extension in Israel meeting: report",
+        "link": "https://www.newsofbahrain.com/world/131256.html",
         "published": "22 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FsDuJnPQkg_2026-04-22_1776863871resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XKPRMqoWgG_2026-04-22_1776866003resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,6 +326,16 @@
         "category": "Latest"
       },
       {
+        "title": "A hidden fleet of ageing tankers is quietly moving sanctioned oil across the world’s oceans.",
+        "link": "https://www.newsofbahrain.com/world/131251.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://img.youtube.com/vi/mTaQgpARhiM/hqdefault.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain eyes stronger economic cooperation with France",
         "link": "https://www.newsofbahrain.com/business/131208.html",
         "published": "22 Apr 2026, 09:22 AM",
@@ -372,36 +382,6 @@
         "iso_date": "2026-04-22T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_IhWaKjSHJL_2026-04-22_1776859903thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ice Spice to Take Legal Action After Viral McDonald’s Assault in Los Angeles",
-        "link": "https://www.newsofbahrain.com/views/130958.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_te1nxpXl7s_2026-04-18_1776537541thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Words Really Matter!",
-        "link": "https://www.newsofbahrain.com/views/130689.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
-        "link": "https://www.newsofbahrain.com/views/130591.html",
-        "published": "",
-        "iso_date": "",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -519,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-22 13:36:13 UTC"
+  "fetched_at": "2026-04-22 14:35:48 UTC"
 }
