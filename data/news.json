@@ -4,19 +4,19 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 9
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 13
     }
   },
   "articles": {
@@ -32,20 +32,40 @@
         "category": "Latest"
       },
       {
-        "title": "Saudi women showcase Kingdom’s first weather satellite at NASA Artemis II exhibition",
-        "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNLXA0MThyaEdmTGtzSktxRmJKU3JtNERWdUJ2aWJMdU1SMVRWd3RWRldqSnlILVRkb0ZfWDA5aUhiNkNZY0tvTld5eThSUjFIQlVIbmNPbkE3aFlDRlg3eUR4SXZxeS1DRmxKbWJvcEFEZWNCSDhoc01sWUdydGFTWkJnbmM2WlRZSExnVXZRMks1V0VBR2dBVWdDVWp1X3NKeEhDeWZHaENDdUJadklrS2Z1QWNyTkhhVGpPeHRYcTFjcnB6dW81bDg0MnU0R2ZPLTVWNXBNREp4N1IwcEZKRjdTOVJBSTZqLU1sZl9ITnp2MlB1eWw3R2FVY3VNSndiRHYzajBNenplZTNOajAwUlJqMGdVeGZONWQyNzBPcFE0MUxxQjBHZTJSdTE1SGxMSUdqcVJOZ29jQU41RTE5UzZMQ1ZONnRqczhQNlY0TENYSHpxc0dBZk5FbVloZXQ5aF9Ed0x0am8?oc=5",
-        "published": "21 Apr 2026, 03:05 AM",
-        "iso_date": "2026-04-21T03:05:32+00:00",
+        "title": "Bahrain Orders Review of Citizenship for Individuals Deemed Security Threats",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
+        "published": "21 Apr 2026, 01:44 AM",
+        "iso_date": "2026-04-21T01:44:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Orders Review of Citizenship for Individuals Deemed Security Threats",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ090RjAtaHpSSzAtY0V2cTAwV3pwN3dmMEQ4d3hKUi1PWWNjVlRPdXVVQWQ1SjFqYkFiblpQSkhxem96ZFBwdmx1b1VqMHJTVFpjZllSZ2xlSHNVQlVlVG4tbDlQSW43Z1Y5Ty01TTdZbGFENzkxZHFwRUxta2U0RGo3STFuMHoxNXdTVW0yNHhOTFNLb0V3c3g2b3V0T3oxdXpmWEZpS3l5Y3U5QVVwbUNlSUM?oc=5",
-        "published": "21 Apr 2026, 01:44 AM",
-        "iso_date": "2026-04-21T01:44:55+00:00",
+        "title": "Abdullah Kamel says 22 logistics challenges resolved as Saudi trade flows remain smooth",
+        "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUkphN3FkTGM2V3cxcEFhSFVOc3JybFI4LWFzYS1INmNtUm9rVUpBWkE3MTZELXl6ck1wdUFES0hjcVFYRFVTWVQ3U0FjNC1xbkRoZW9mNnNrZ3ppUk5tOEdEUTNobTEyMGtfd1Y2SGtoaWpZXzliWEU0R0wwMGprREhibE91Tl90QWhfWTZfY2lSZkRqamtUc0FBSElxbnVvZ2t2aDEyanc4ZWNlTERGMlR5S3lYZEZvZjFoN3d6S196X1RvRWlOdENHNXpHWmRzYnFCSmRRWTlwdk1aNmZwcUhtT3RuNWJKMGZDUm0wMVUwZlhNd0hGWTY3WUF6SmJFcE1DTkVhZ0dMcS1wam40UFFNcHZBd0FoQWV6QXpLNjJwNl95VWZTbHo0dzlhUkttTVdjc1NMcGdjT0d0MjRPQ1RxazA2d2tpT3BkMi1TWTBoc1RWWkMtUWx5T1I4aG12d20tUlhud1VDcThT?oc=5",
+        "published": "21 Apr 2026, 03:00 PM",
+        "iso_date": "2026-04-21T15:00:53+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi, French defense ministers discuss strengthening defense cooperation",
+        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYmVrYVBiUEYwRlZUbFBoM3FhTENXckgyUEM3YTFEMWlvLWlBRmZCNkNGd2VBYnljNVJ0MjFQWmpBM3hMNEszOU1neHdkR3duMHRORFZQYWF6X3V2WXFzZEIzVHBBNS1LemsxR0hwSVFNWlI1VmZlQ2dyMmVRbDNDaEFYYjQtLTBMRDFQWG9YTEVVei15UFB2SFhKMlhZbHl5TkFhYU9xNWxtaVN4dDlJcGJ5T1VUanYyeUlsRlJhZDZpVWJXRXp4d3BmQkxnQjRKX1RDZHk1TlgzTDVhMU1nYWVSVkdzSkhpX1dlNmF1c2tyTlJkM01ST3J5VE5hcmNEdExXa3FpZllad3BsWTVreExXUFZ5d1diNkJSV3FsQW55NGhPT2F3Mk1VVDlRbzJ2ZnN5cHJ0LThlX0FFTjNMYU9sLTUtNkt2MHBHWW9uSkFYSmJhdGlpYQ?oc=5",
+        "published": "21 Apr 2026, 03:09 AM",
+        "iso_date": "2026-04-21T03:09:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi women showcase Kingdom’s first weather satellite at NASA Artemis II exhibition",
+        "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNLXA0MThyaEdmTGtzSktxRmJKU3JtNERWdUJ2aWJMdU1SMVRWd3RWRldqSnlILVRkb0ZfWDA5aUhiNkNZY0tvTld5eThSUjFIQlVIbmNPbkE3aFlDRlg3eUR4SXZxeS1DRmxKbWJvcEFEZWNCSDhoc01sWUdydGFTWkJnbmM2WlRZSExnVXZRMks1V0VBR2dBVWdDVWp1X3NKeEhDeWZHaENDdUJadklrS2Z1QWNyTkhhVGpPeHRYcTFjcnB6dW81bDg0MnU0R2ZPLTVWNXBNREp4N1IwcEZKRjdTOVJBSTZqLU1sZl9ITnp2MlB1eWw3R2FVY3VNSndiRHYzajBNenplZTNOajAwUlJqMGdVeGZONWQyNzBPcFE0MUxxQjBHZTJSdTE1SGxMSUdqcVJOZ29jQU41RTE5UzZMQ1ZONnRqczhQNlY0TENYSHpxc0dBZk5FbVloZXQ5aF9Ed0x0am8?oc=5",
+        "published": "21 Apr 2026, 03:05 AM",
+        "iso_date": "2026-04-21T03:05:32+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -109,7 +129,7 @@
         "published": "22 Apr 2026",
         "iso_date": "2026-04-22T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260XXXXXXXXXXXX60417224318par1_T.jpg?20260422",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422030926parl_T.jpg?20260422",
         "source": "gdn",
         "category": "Latest"
       },
@@ -144,6 +164,46 @@
         "category": "Latest"
       },
       {
+        "title": "Machida set up title clash with Al Ahli",
+        "link": "https://www.gdnonline.com/Details/1392304/Machida-set-up-title-clash-with-Al-Ahli",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422_022701_2_T.jpg?20260422",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Real edge Alaves to end winless run",
+        "link": "https://www.gdnonline.com/Details/1392292/Real-edge-Alaves-to-end-winless-run",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422020355sfdgbzr_T.jpg?20260422",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Brighton outclass Chelsea",
+        "link": "https://www.gdnonline.com/Details/1392303/Brighton-outclass-Chelsea",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422_022701_0_T.jpg?20260422",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Coventry rout Portsmouth to secure title",
+        "link": "https://www.gdnonline.com/Details/1392284/Coventry-rout-Portsmouth-to-secure-title",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422015456rdyhf_T.jpg?20260422",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "West Ham miss chance to ease relegation fears",
         "link": "https://www.gdnonline.com/Details/1392200/West-Ham-miss-chance-to-ease-relegation-fears",
         "published": "21 Apr 2026",
@@ -154,7 +214,138 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Trump extends Iran ceasefire, continues blockade of ports",
+        "link": "https://www.newsofbahrain.com/world/131187.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d7a2RlLAgq_2026-04-21_1776803815resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Reaffirms Economic Strength and Diversification at Atlantic Council Dialogue",
+        "link": "https://www.newsofbahrain.com/bahrain/131186.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rKpBoJ7H5l_2026-04-21_1776800863resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "New Zealand Declares Emergency in Capital Wellington as Heavy Rains Trigger Flooding",
+        "link": "https://www.newsofbahrain.com/world/131185.html",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DpBeRjdSWs_2026-04-21_1776796517resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE–Oman Hafeet Rail Project Reaches 40% Completion",
+        "link": "https://www.newsofbahrain.com/world/131184.html",
+        "published": "21 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-21T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WPAz8OLpwF_2026-04-21_1776796249resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Foreign Minister Meets Ukrainian Security Official in Manama",
+        "link": "https://www.newsofbahrain.com/bahrain/131183.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1dogzKNQIb_2026-04-21_1776796060resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Transportation Minister Meets Philippines Ambassador in Manama",
+        "link": "https://www.newsofbahrain.com/bahrain/131179.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7GcFXlN9CD_2026-04-21_1776795419thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Ambassador Participates in UNESCO Executive Board Session in Paris",
+        "link": "https://www.newsofbahrain.com/bahrain/131178.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KLWc57ryHt_2026-04-21_1776795308thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF Commander-in-Chief Receives Egyptian Defence Attaché",
+        "link": "https://www.newsofbahrain.com/bahrain/131177.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8XpSPVsxzn_2026-04-21_1776795031thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait says exploiting sea routes for pressure amounts to “legal piracy”",
+        "link": "https://www.newsofbahrain.com/world/131182.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7erxwZscPW_2026-04-21_1776795921thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EU proposes full resumption of Syria cooperation accord",
+        "link": "https://www.newsofbahrain.com/business/131131.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1uMyH8qE2x_2026-04-21_1776771973thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil jumps on Hormuz tensions, stocks retreat",
+        "link": "https://www.newsofbahrain.com/business/131129.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MOmbS3cAGk_2026-04-21_1776771484thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tim Cook to Step Up as Apple's Executive Chairman",
+        "link": "https://www.newsofbahrain.com/world/131122.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ymx7wsgHvZ_2026-04-21_1776766229thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Zain Bahrain recognised as Kingdom’s most awarded network by Opensignal",
+        "link": "https://www.newsofbahrain.com/business/131022.html",
+        "published": "20 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-20T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kFlpd5qBzG_2026-04-20_1776673366thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -268,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-22 00:29:26 UTC"
+  "fetched_at": "2026-04-22 01:04:47 UTC"
 }
