@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -46,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUkphN3FkTGM2V3cxcEFhSFVOc3JybFI4LWFzYS1INmNtUm9rVUpBWkE3MTZELXl6ck1wdUFES0hjcVFYRFVTWVQ3U0FjNC1xbkRoZW9mNnNrZ3ppUk5tOEdEUTNobTEyMGtfd1Y2SGtoaWpZXzliWEU0R0wwMGprREhibE91Tl90QWhfWTZfY2lSZkRqamtUc0FBSElxbnVvZ2t2aDEyanc4ZWNlTERGMlR5S3lYZEZvZjFoN3d6S196X1RvRWlOdENHNXpHWmRzYnFCSmRRWTlwdk1aNmZwcUhtT3RuNWJKMGZDUm0wMVUwZlhNd0hGWTY3WUF6SmJFcE1DTkVhZ0dMcS1wam40UFFNcHZBd0FoQWV6QXpLNjJwNl95VWZTbHo0dzlhUkttTVdjc1NMcGdjT0d0MjRPQ1RxazA2d2tpT3BkMi1TWTBoc1RWWkMtUWx5T1I4aG12d20tUlhud1VDcThT?oc=5",
         "published": "21 Apr 2026, 03:00 PM",
         "iso_date": "2026-04-21T15:00:53+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "King Salman and Crown Prince congratulate new Iraqi president Nizar Amidi",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnpfbHMwRk05YVQ2RU9sSlNITThkM2tqRkxKUnZMZmlvcXBsN2NoRU9TZFpyYXlxVjBpdmJuem5zVUxpQmVBVXBvZDFfWUMyVGRkZERHa3hDd1E5SmhVNk9FcmxGSkJoamp6TGdhMElYUlUxa3ljRUM2N2VvQ25IYTdOemxUUERFUHNMOGkwejNFQ2ZQZzJLSF9wYVlfRU5rOGg2MWlCZkNUak5iZkJRSF9BNENSSmtod0gyNjl0TFlPOWM?oc=5",
+        "published": "21 Apr 2026, 05:22 PM",
+        "iso_date": "2026-04-21T17:22:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-22 03:40:47 UTC"
+  "fetched_at": "2026-04-22 04:59:13 UTC"
 }
