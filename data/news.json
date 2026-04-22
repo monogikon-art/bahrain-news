@@ -10,13 +10,13 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 16
     }
   },
   "articles": {
@@ -62,139 +62,169 @@
         "category": "Latest"
       }
     ],
-    "gdn": [
+    "gdn": [],
+    "newsofbahrain": [
       {
-        "title": "Four men arrested after BD4,000 shop theft",
-        "link": "https://www.gdnonline.com/Details/1392360/Four-men-arrested-after-BD4,000-shop-theft",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "BOC Conducts Field Visits to Boost Federation Development",
+        "link": "https://www.newsofbahrain.com/sports/131260.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422220454whatsappimage2026-04-22at10.01.10pm_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cpbUWaTSyj_2026-04-22_1776866664resized_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Defence Affairs Minister receives Egyptian Defence Attaché",
-        "link": "https://www.gdnonline.com/Details/1392336/Defence-Affairs-Minister-receives-Egyptian-Defence-Attaché",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "Guardiola hints that Rodri will make swift Man City return",
+        "link": "https://www.newsofbahrain.com/sports/131259.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422144018efgy1_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SEJ4cipOVa_2026-04-22_1776866342resized_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Commander-in-Chief receives UAE Ambassador",
-        "link": "https://www.gdnonline.com/Details/1392337/Commander-in-Chief-receives-UAE-Ambassador",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "Bahrain off to winning start at Asian Beach Games",
+        "link": "https://www.newsofbahrain.com/sports/131258.html",
+        "published": "22 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-22T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422145632pic123(2)_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3Puch0KrGW_2026-04-22_1776866135resized_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "WEâRE WITH YOU: More than 200,000 people have signed an electronic pledge of allegiance",
-        "link": "https://www.gdnonline.com/Details/1392279/WEâRE-WITH-YOU-More-than-200,000-people-have-signed-an-electronic-pledge-of-allegiance",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "Nepal Home Minister resigns amid questions over financial conduct",
+        "link": "https://www.newsofbahrain.com/world/131257.html",
+        "published": "",
+        "iso_date": "",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422011728king_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cXpUlVDWrv_2026-04-22_1776866788resized_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "BDF General Command: 194 missiles and 523 drones intercepted since start of Iranian attacks",
-        "link": "https://www.gdnonline.com/Details/1392327/BDF-General-Command-194-missiles-and-523-drones-intercepted-since-start-of-Iranian-attacks",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "Lebanon to request 1-month truce extension in Israel meeting: report",
+        "link": "https://www.newsofbahrain.com/world/131256.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422124856bdf12(2)_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XKPRMqoWgG_2026-04-22_1776866003resized_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain-France trade surges 77pc",
-        "link": "https://www.gdnonline.com/Details/1392254/Bahrain-France-trade-surges-77pc",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "Diplomacy Only Path to End Regional Crises",
+        "link": "https://www.newsofbahrain.com/bahrain/131212.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260421_222932_0_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EiHlX1LBPI_2026-04-22_1776858037thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "French connections highlighted with Chamber",
-        "link": "https://www.gdnonline.com/Details/1392242/French-connections-highlighted-with-Chamber",
-        "published": "21 Apr 2026",
-        "iso_date": "2026-04-21T00:00:00",
+        "title": "Priority Hiring for Crisis Volunteers",
+        "link": "https://www.newsofbahrain.com/bahrain/131204.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260421/20260421213945whatsappimage2026-04-21at21.28.33_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4ouVdMqO10_2026-04-22_1776847424thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Bourse launches listing gateway platform",
-        "link": "https://www.gdnonline.com/Details/1392152/Bahrain-Bourse-launches-listing-gateway-platform",
-        "published": "21 Apr 2026",
-        "iso_date": "2026-04-21T00:00:00",
+        "title": "Electricity Subsidy for Sports Clubs",
+        "link": "https://www.newsofbahrain.com/bahrain/131203.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260420/20260420231743website(1)_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q63oqMYI7N_2026-04-22_1776846911thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Inter Miami visits Real Salt Lake for second test following coaching change",
-        "link": "https://www.gdnonline.com/Details/1392316/Inter-Miami-visits-Real-Salt-Lake-for-second-test-following-coaching-change",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "BD94 Million Support for 105,000 Workers",
+        "link": "https://www.newsofbahrain.com/bahrain/131202.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422153018messi1(9)_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4NMcW2Xpsm_2026-04-22_1776846709thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Rosenior's tough words raise stakes as Chelsea misery deepens",
-        "link": "https://www.gdnonline.com/Details/1392338/Roseniors-tough-words-raise-stakes-as-Chelsea-misery-deepens",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "Devji BKS GCC Kalotsavam 2026 Kicks Off",
+        "link": "https://www.newsofbahrain.com/bahrain/131201.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422154250chelsea_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lwHvZgsLNT_2026-04-22_1776846015thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Machida set up title clash with Al Ahli",
-        "link": "https://www.gdnonline.com/Details/1392304/Machida-set-up-title-clash-with-Al-Ahli",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "A hidden fleet of ageing tankers is quietly moving sanctioned oil across the world’s oceans.",
+        "link": "https://www.newsofbahrain.com/world/131251.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422_022701_2_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://img.youtube.com/vi/mTaQgpARhiM/hqdefault.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Rafael Marquez will replace Javier Aguirre as Mexico manager after World Cup",
-        "link": "https://www.gdnonline.com/Details/1392315/Rafael-Marquez-will-replace-Javier-Aguirre-as-Mexico-manager-after-World-Cup",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "Bahrain eyes stronger economic cooperation with France",
+        "link": "https://www.newsofbahrain.com/business/131208.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422151456rm(2)_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OaCPcgouIM_2026-04-22_1776856876thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Real edge Alaves to end winless run",
-        "link": "https://www.gdnonline.com/Details/1392292/Real-edge-Alaves-to-end-winless-run",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
+        "title": "BENEFIT Introduces Advanced Payment Solution to Strengthen Fintech Ecosystem",
+        "link": "https://www.newsofbahrain.com/business/131207.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422020355sfdgbzr_T.jpg?20260422",
-        "source": "gdn",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oZQmeIcvpn_2026-04-22_1776856720thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "TRACCS Bahrain and Conserving Bounties Society Partner",
+        "link": "https://www.newsofbahrain.com/business/131206.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2L1XdJM7zT_2026-04-22_1776856613thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EU proposes full resumption of Syria cooperation accord",
+        "link": "https://www.newsofbahrain.com/business/131131.html",
+        "published": "21 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-21T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1uMyH8qE2x_2026-04-21_1776771973thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tough Times in the Two Straits",
+        "link": "https://www.newsofbahrain.com/views/131221.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IhWaKjSHJL_2026-04-22_1776859903thumbnail_pic.jpg",
+        "source": "newsofbahrain",
         "category": "Latest"
       }
-    ],
-    "newsofbahrain": []
+    ]
   },
   "instagram": [
     {
@@ -308,5 +338,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-22 20:21:10 UTC"
+  "fetched_at": "2026-04-22 20:48:49 UTC"
 }
