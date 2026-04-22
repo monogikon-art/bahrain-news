@@ -42,16 +42,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain orders revocation of citizenships of individuals deemed security risks",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWY5amlndE5CRTBpbWJNODVFUzhLY1hXb3poSVhFbm9kZy1lQjFoeU85aV9za2lzdHVFb3FTTnBqWldSZmx3TTh3WFZ6ZVBkUDA1VFY4ckw0ZlMzd2xHOWFkeGJjUEk4NUtPNjMzUnQ3YUg3eFh3SXZZWHF5eXY0UUJQN2doaVNCUllMYdIBjAFBVV95cUxOSWY5amlndE5CRTBpbWJNODVFUzhLY1hXb3poSVhFbm9kZy1lQjFoeU85aV9za2lzdHVFb3FTTnBqWldSZmx3TTh3WFZ6ZVBkUDA1VFY4ckw0ZlMzd2xHOWFkeGJjUEk4NUtPNjMzUnQ3YUg3eFh3SXZZWHF5eXY0UUJQN2doaVNCUllMYQ?oc=5",
-        "published": "22 Apr 2026, 11:13 AM",
-        "iso_date": "2026-04-22T11:13:21+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain tightens rules on citizenship",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pVndoejBYbTNGMmc3dmd6WldoODlDa2ItS2NjMkc5a3E4UkZQb1hSS05PRW5jM0c5eGFLaWZ0ZUQ0LTVlM2FnX3BVSVREZ0ltWm5kaVNUa3dNai1jaE1DYm9hV2stckhD?oc=5",
         "published": "22 Apr 2026, 06:41 PM",
@@ -60,9 +50,29 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Bahrain orders revocation of citizenships of individuals deemed security risks",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWY5amlndE5CRTBpbWJNODVFUzhLY1hXb3poSVhFbm9kZy1lQjFoeU85aV9za2lzdHVFb3FTTnBqWldSZmx3TTh3WFZ6ZVBkUDA1VFY4ckw0ZlMzd2xHOWFkeGJjUEk4NUtPNjMzUnQ3YUg3eFh3SXZZWHF5eXY0UUJQN2doaVNCUllMYdIBjAFBVV95cUxOSWY5amlndE5CRTBpbWJNODVFUzhLY1hXb3poSVhFbm9kZy1lQjFoeU85aV9za2lzdHVFb3FTTnBqWldSZmx3TTh3WFZ6ZVBkUDA1VFY4ckw0ZlMzd2xHOWFkeGJjUEk4NUtPNjMzUnQ3YUg3eFh3SXZZWHF5eXY0UUJQN2doaVNCUllMYQ?oc=5",
+        "published": "22 Apr 2026, 11:13 AM",
+        "iso_date": "2026-04-22T11:13:21+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "Four men arrested after BD4,000 shop theft",
+        "link": "https://www.gdnonline.com/Details/1392360/Four-men-arrested-after-BD4,000-shop-theft",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422220454whatsappimage2026-04-22at10.01.10pm_T.jpg?20260422",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Defence Affairs Minister receives Egyptian Defence Attaché",
         "link": "https://www.gdnonline.com/Details/1392336/Defence-Affairs-Minister-receives-Egyptian-Defence-Attaché",
@@ -100,16 +110,6 @@
         "iso_date": "2026-04-22T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260422/20260422124856bdf12(2)_T.jpg?20260422",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Proposal calling for total boycott of Iran approved",
-        "link": "https://www.gdnonline.com/Details/1392262/Proposal-calling-for-total-boycott-of-Iran-approved",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422_002356_1.png?20260422",
         "source": "gdn",
         "category": "Latest"
       },
@@ -308,5 +308,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-22 19:30:46 UTC"
+  "fetched_at": "2026-04-22 20:21:10 UTC"
 }
