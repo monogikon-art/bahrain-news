@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -24,8 +24,18 @@
       {
         "title": "Bahrain: Royal directives escalate repression, pave way to arbitrary deprivation of nationality",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1NDT2ZkUGo0SnpXQ3R6b3ZUaG03TVMzc3k4N3NELXpLWlVreWFVQ0ZhVnRSQ1pqNEdfUUNCOFhBRXBYb2I0aVZ1WF80RWpNTU9kMS1fcDBhcVNqYjg1N2FyTDB0SUFGQnlULUJtb3FvckFuRFZhTVpMN01xUUhtVUo1MkxnQWZyT1RoelNnTjFOSElZSkFSNXNsZkZwazVYTm5TY1VnT1FWc2lWX2xjcmlTV053RmVFQkpnQ2lzN2tWR2p6Q3FaVDdn?oc=5",
-        "published": "22 Apr 2026, 08:01 AM",
-        "iso_date": "2026-04-22T08:01:07+00:00",
+        "published": "22 Apr 2026, 08:37 AM",
+        "iso_date": "2026-04-22T08:37:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Herve Renard sacked as Saudi Arabia coach less than two months before World Cup",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUGpuSnVvYzV1ZVAyeXA1d2FrZnk5a3g1TEtOOVU4VmYzbUYtM3FfMDRoOTVFNURvYV92QVc1ZXdiSWo5X0ZFYkIwODl6NTFVcS13dzdEY0RWV1pGQ3BhemIyQmFQV18yWVpNRlpUdjFVODlMdkJtZExXd0o1cUZzV1Nzd1k5UVg4MGR5dFdzenVBUXZYTGNjWHNtYWhhYUxERmxoMkp5WHZ2S0d6Q05pYUZhTTZWcTBNVWF2YUpIZnlfV29TZE9SZmp0UU55blY1QlNJV2ptSnh2V3c3MFI0d2lZTG9XM2NPYjZSdFYyTGpNMFBVa016OW5NY2lKR00zNk9RYlhyaGNONVk?oc=5",
+        "published": "21 Apr 2026, 03:59 PM",
+        "iso_date": "2026-04-21T15:59:24+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -42,10 +52,30 @@
         "category": "Latest"
       },
       {
-        "title": "King Salman and Crown Prince congratulate new Iraqi president Nizar Amidi",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnpfbHMwRk05YVQ2RU9sSlNITThkM2tqRkxKUnZMZmlvcXBsN2NoRU9TZFpyYXlxVjBpdmJuem5zVUxpQmVBVXBvZDFfWUMyVGRkZERHa3hDd1E5SmhVNk9FcmxGSkJoamp6TGdhMElYUlUxa3ljRUM2N2VvQ25IYTdOemxUUERFUHNMOGkwejNFQ2ZQZzJLSF9wYVlfRU5rOGg2MWlCZkNUak5iZkJRSF9BNENSSmtod0gyNjl0TFlPOWM?oc=5",
-        "published": "21 Apr 2026, 05:22 PM",
-        "iso_date": "2026-04-21T17:22:53+00:00",
+        "title": "Israeli military says suspect neutralized in West Bank",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWptUWNaMUtfTHp6LW9uWVVORzRfSDdzRGNPMXd5MVZEVmVpREJNb0pGY0p0MlVaeG1yUUhsa1ZqLW8wdUdTSEliQWxoS1N6YmNBWE1jMFZzY3doeXFXeF9VTklPVmlmMVNRRzVZTlB6aXZpS2tmV1pZTXlLUFJJREI0M1VwYzNiMml4YW9Wc3duY1JocmpTakVUVVo4NDhNZUtERS13?oc=5",
+        "published": "21 Apr 2026, 03:48 PM",
+        "iso_date": "2026-04-21T15:48:30+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump announces resumption of negotiations with Iran amid Strait of Hormuz tensions",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLVNGNU5qWVF4TWs4UzI3WlY4TTNpcVdMMFZoeHQyWkJSeTFjRU1VNEgxQ0ZlaTRuWVpMRFRKQ3FiMlFwdHRJWm9ENE1LdEpZcXNKOGtFUnBVMEd5RF95SkRtNkJyZGlSOGtUQVo2dFpVX09YdV82OUZrY21Kam83Ym8xMW1IaXpENEZQbGFSSThaWEM4OXdmbWplU055ZmhlN25kREFZYzlNRXlFRmJtZTliam4tR0dCcFVZUE81NmxBWlBjVlUtU1ZMSDU?oc=5",
+        "published": "22 Apr 2026, 03:25 AM",
+        "iso_date": "2026-04-22T03:25:14+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Abdullah Kamel says 22 logistics challenges resolved as Saudi trade flows remain smooth",
+        "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUkphN3FkTGM2V3cxcEFhSFVOc3JybFI4LWFzYS1INmNtUm9rVUpBWkE3MTZELXl6ck1wdUFES0hjcVFYRFVTWVQ3U0FjNC1xbkRoZW9mNnNrZ3ppUk5tOEdEUTNobTEyMGtfd1Y2SGtoaWpZXzliWEU0R0wwMGprREhibE91Tl90QWhfWTZfY2lSZkRqamtUc0FBSElxbnVvZ2t2aDEyanc4ZWNlTERGMlR5S3lYZEZvZjFoN3d6S196X1RvRWlOdENHNXpHWmRzYnFCSmRRWTlwdk1aNmZwcUhtT3RuNWJKMGZDUm0wMVUwZlhNd0hGWTY3WUF6SmJFcE1DTkVhZ0dMcS1wam40UFFNcHZBd0FoQWV6QXpLNjJwNl95VWZTbHo0dzlhUkttTVdjc1NMcGdjT0d0MjRPQ1RxazA2d2tpT3BkMi1TWTBoc1RWWkMtUWx5T1I4aG12d20tUlhud1VDcThT?oc=5",
+        "published": "21 Apr 2026, 03:00 PM",
+        "iso_date": "2026-04-21T15:00:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -298,5 +328,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-22 08:36:57 UTC"
+  "fetched_at": "2026-04-22 09:34:20 UTC"
 }
