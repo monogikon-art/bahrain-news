@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 12
+      "count": 13
     }
   },
   "articles": {
@@ -62,20 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Strong pressure on Hamas to agree to Gaza disarmament",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHFXbzRkUjBTZ3hEMlpLN3F0TWl1Yk1aMGxvRzZNY0tKZmk5amxKSWwweGpyQUt1NnQ2RzVrbF8xT3R1eW5IcTY3TFozN1VIRkI0dkRWOGZ5RlJWbUtlVWloaXltWGhQRVlQY09Xdi1NZVNZMjV0NmU2amNWNS1MbW8xQzVXdTFMZnp3TTVfQnVQUWRMZEc5QlZXajZqWi1GUjJXbQ?oc=5",
-        "published": "21 Apr 2026, 10:44 AM",
-        "iso_date": "2026-04-21T10:44:29+00:00",
+        "title": "Abdullah Kamel says 22 logistics challenges resolved as Saudi trade flows remain smooth",
+        "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUkphN3FkTGM2V3cxcEFhSFVOc3JybFI4LWFzYS1INmNtUm9rVUpBWkE3MTZELXl6ck1wdUFES0hjcVFYRFVTWVQ3U0FjNC1xbkRoZW9mNnNrZ3ppUk5tOEdEUTNobTEyMGtfd1Y2SGtoaWpZXzliWEU0R0wwMGprREhibE91Tl90QWhfWTZfY2lSZkRqamtUc0FBSElxbnVvZ2t2aDEyanc4ZWNlTERGMlR5S3lYZEZvZjFoN3d6S196X1RvRWlOdENHNXpHWmRzYnFCSmRRWTlwdk1aNmZwcUhtT3RuNWJKMGZDUm0wMVUwZlhNd0hGWTY3WUF6SmJFcE1DTkVhZ0dMcS1wam40UFFNcHZBd0FoQWV6QXpLNjJwNl95VWZTbHo0dzlhUkttTVdjc1NMcGdjT0d0MjRPQ1RxazA2d2tpT3BkMi1TWTBoc1RWWkMtUWx5T1I4aG12d20tUlhud1VDcThT?oc=5",
+        "published": "21 Apr 2026, 03:00 PM",
+        "iso_date": "2026-04-21T15:00:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Abdullah Kamel says 22 logistics challenges resolved as Saudi trade flows remain smooth",
-        "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUkphN3FkTGM2V3cxcEFhSFVOc3JybFI4LWFzYS1INmNtUm9rVUpBWkE3MTZELXl6ck1wdUFES0hjcVFYRFVTWVQ3U0FjNC1xbkRoZW9mNnNrZ3ppUk5tOEdEUTNobTEyMGtfd1Y2SGtoaWpZXzliWEU0R0wwMGprREhibE91Tl90QWhfWTZfY2lSZkRqamtUc0FBSElxbnVvZ2t2aDEyanc4ZWNlTERGMlR5S3lYZEZvZjFoN3d6S196X1RvRWlOdENHNXpHWmRzYnFCSmRRWTlwdk1aNmZwcUhtT3RuNWJKMGZDUm0wMVUwZlhNd0hGWTY3WUF6SmJFcE1DTkVhZ0dMcS1wam40UFFNcHZBd0FoQWV6QXpLNjJwNl95VWZTbHo0dzlhUkttTVdjc1NMcGdjT0d0MjRPQ1RxazA2d2tpT3BkMi1TWTBoc1RWWkMtUWx5T1I4aG12d20tUlhud1VDcThT?oc=5",
-        "published": "21 Apr 2026, 03:00 PM",
-        "iso_date": "2026-04-21T15:00:53+00:00",
+        "title": "King Salman and Crown Prince congratulate new Iraqi president Nizar Amidi",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnpfbHMwRk05YVQ2RU9sSlNITThkM2tqRkxKUnZMZmlvcXBsN2NoRU9TZFpyYXlxVjBpdmJuem5zVUxpQmVBVXBvZDFfWUMyVGRkZERHa3hDd1E5SmhVNk9FcmxGSkJoamp6TGdhMElYUlUxa3ljRUM2N2VvQ25IYTdOemxUUERFUHNMOGkwejNFQ2ZQZzJLSF9wYVlfRU5rOGg2MWlCZkNUak5iZkJRSF9BNENSSmtod0gyNjl0TFlPOWM?oc=5",
+        "published": "21 Apr 2026, 05:22 PM",
+        "iso_date": "2026-04-21T17:22:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -90,6 +90,16 @@
         "iso_date": "2026-04-22T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260422/20260422011728king_T.jpg?20260422",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF General Command: 194 missiles and 523 drones intercepted since start of Iranian attacks",
+        "link": "https://www.gdnonline.com/Details/1392327/BDF-General-Command-194-missiles-and-523-drones-intercepted-since-start-of-Iranian-attacks",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422124856bdf12(2)_T.jpg?20260422",
         "source": "gdn",
         "category": "Latest"
       },
@@ -120,16 +130,6 @@
         "iso_date": "2026-04-22T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260422/20260422030926parl_T.jpg?20260422",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bills on expat driving licence curbs spark objections",
-        "link": "https://www.gdnonline.com/Details/1392263/Bills-on-expat-driving-licence-curbs-spark-objections",
-        "published": "22 Apr 2026",
-        "iso_date": "2026-04-22T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422_002357_2_T.jpg?20260422",
         "source": "gdn",
         "category": "Latest"
       },
@@ -216,6 +216,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Bahrain eyes stronger economic cooperation with France",
+        "link": "https://www.newsofbahrain.com/business/131208.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OaCPcgouIM_2026-04-22_1776856876resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BENEFIT Introduces Advanced Payment Solution to Strengthen Fintech Ecosystem",
+        "link": "https://www.newsofbahrain.com/business/131207.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oZQmeIcvpn_2026-04-22_1776856720resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "TRACCS Bahrain and Conserving Bounties Society Partner",
+        "link": "https://www.newsofbahrain.com/business/131206.html",
+        "published": "22 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-22T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2L1XdJM7zT_2026-04-22_1776856613resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "At Least 14 Dead, 40 Injured in Kerala Fireworks Plant Blast Ahead of Thrissur Pooram",
+        "link": "https://www.newsofbahrain.com/world/131205.html",
+        "published": "22 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-22T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Pzx2WURIik_2026-04-22_1776856341resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Priority Hiring for Crisis Volunteers",
         "link": "https://www.newsofbahrain.com/bahrain/131204.html",
         "published": "22 Apr 2026, 09:22 AM",
@@ -231,27 +271,27 @@
         "published": "22 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q63oqMYI7N_2026-04-22_1776846911resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q63oqMYI7N_2026-04-22_1776846911thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "BD94 Million Support for 105,000 Workers",
         "link": "https://www.newsofbahrain.com/bahrain/131202.html",
-        "published": "22 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-22T09:00:43+00:00",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4NMcW2Xpsm_2026-04-22_1776846709resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4NMcW2Xpsm_2026-04-22_1776846709thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Devji BKS GCC Kalotsavam 2026 Kicks Off",
         "link": "https://www.newsofbahrain.com/bahrain/131201.html",
-        "published": "22 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-22T09:00:43+00:00",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lwHvZgsLNT_2026-04-22_1776846015resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lwHvZgsLNT_2026-04-22_1776846015thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,7 +301,7 @@
         "published": "22 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-22T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kLJVqnGiDy_2026-04-22_1776845875resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kLJVqnGiDy_2026-04-22_1776845875thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,42 +336,12 @@
         "category": "Latest"
       },
       {
-        "title": "UAE–Oman Hafeet Rail Project Reaches 40% Completion",
-        "link": "https://www.newsofbahrain.com/world/131184.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WPAz8OLpwF_2026-04-21_1776796249thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "EU proposes full resumption of Syria cooperation accord",
         "link": "https://www.newsofbahrain.com/business/131131.html",
         "published": "21 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-21T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1uMyH8qE2x_2026-04-21_1776771973thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil jumps on Hormuz tensions, stocks retreat",
-        "link": "https://www.newsofbahrain.com/business/131129.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MOmbS3cAGk_2026-04-21_1776771484thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tim Cook to Step Up as Apple's Executive Chairman",
-        "link": "https://www.newsofbahrain.com/world/131122.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ymx7wsgHvZ_2026-04-21_1776766229thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-22 10:31:35 UTC"
+  "fetched_at": "2026-04-22 11:26:09 UTC"
 }
