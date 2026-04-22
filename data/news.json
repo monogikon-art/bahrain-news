@@ -16,16 +16,16 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 0
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Bahrain Directives Heighten Repression, Risk Denationalization",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ21LVkYyUmU1VkNlV014RU9tbVRMbllTaFhpV2MzcWozc1BkMWI5THh4Vzc3WlFRbW8yeUlDTUZpRl9FVGMzNlpPSURJX0lrUFJiS3ZMTXo3Sk5VR2p5dzhpWXBrakdVazRJR3VXT1pDTnlwVHpfTlVGNmxRX2xBalRKTzk3Zw?oc=5",
-        "published": "21 Apr 2026, 12:48 PM",
-        "iso_date": "2026-04-21T12:48:00+00:00",
+        "title": "Bahrain: Royal directives escalate repression, pave way to arbitrary deprivation of nationality",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1NDT2ZkUGo0SnpXQ3R6b3ZUaG03TVMzc3k4N3NELXpLWlVreWFVQ0ZhVnRSQ1pqNEdfUUNCOFhBRXBYb2I0aVZ1WF80RWpNTU9kMS1fcDBhcVNqYjg1N2FyTDB0SUFGQnlULUJtb3FvckFuRFZhTVpMN01xUUhtVUo1MkxnQWZyT1RoelNnTjFOSElZSkFSNXNsZkZwazVYTm5TY1VnT1FWc2lWX2xjcmlTV053RmVFQkpnQ2lzN2tWR2p6Q3FaVDdn?oc=5",
+        "published": "22 Apr 2026, 08:01 AM",
+        "iso_date": "2026-04-22T08:01:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -184,138 +184,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Human Trafficking Trial",
-        "link": "https://www.newsofbahrain.com/bahrain/131193.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ISjrCYaMW6_2026-04-22_1776843272resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fake TikTok Friendship Ends in Court",
-        "link": "https://www.newsofbahrain.com/bahrain/131192.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eEridqLUvS_2026-04-22_1776842807resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "999 Call From 6-Year-Old Leads to Life-Saving Rescue of Mother in Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/131191.html",
-        "published": "22 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Rb02Iyzqwi_2026-04-22_1776841718resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Green BahrainMomentum Builds",
-        "link": "https://www.newsofbahrain.com/bahrain/131190.html",
-        "published": "22 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Vp8j4AarmZ_2026-04-22_1776841651resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "MPs Propose Boycott of Iranian Goods",
-        "link": "https://www.newsofbahrain.com/bahrain/131189.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_izmdExyXB9_2026-04-22_1776841229resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump extends Iran ceasefire, continues blockade of ports",
-        "link": "https://www.newsofbahrain.com/world/131187.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d7a2RlLAgq_2026-04-21_1776803815thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "New Zealand Declares Emergency in Capital Wellington as Heavy Rains Trigger Flooding",
-        "link": "https://www.newsofbahrain.com/world/131185.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DpBeRjdSWs_2026-04-21_1776796517thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE–Oman Hafeet Rail Project Reaches 40% Completion",
-        "link": "https://www.newsofbahrain.com/world/131184.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WPAz8OLpwF_2026-04-21_1776796249thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait says exploiting sea routes for pressure amounts to “legal piracy”",
-        "link": "https://www.newsofbahrain.com/world/131182.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7erxwZscPW_2026-04-21_1776795921thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "EU proposes full resumption of Syria cooperation accord",
-        "link": "https://www.newsofbahrain.com/business/131131.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1uMyH8qE2x_2026-04-21_1776771973thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oil jumps on Hormuz tensions, stocks retreat",
-        "link": "https://www.newsofbahrain.com/business/131129.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MOmbS3cAGk_2026-04-21_1776771484thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tim Cook to Step Up as Apple's Executive Chairman",
-        "link": "https://www.newsofbahrain.com/world/131122.html",
-        "published": "21 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-21T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ymx7wsgHvZ_2026-04-21_1776766229thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Zain Bahrain recognised as Kingdom’s most awarded network by Opensignal",
-        "link": "https://www.newsofbahrain.com/business/131022.html",
-        "published": "20 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-20T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kFlpd5qBzG_2026-04-20_1776673366thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -429,5 +298,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-22 07:35:16 UTC"
+  "fetched_at": "2026-04-22 08:36:57 UTC"
 }
