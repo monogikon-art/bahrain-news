@@ -4,19 +4,19 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 14
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 19
     }
   },
   "articles": {
@@ -33,9 +33,9 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOcUlaMGR1VzAzS1FwcFo1RWxwdU16SmpGWWdkTHdtaHU4dGRyckVNU1JyOGY2OVdNOUpGTTBSTWs1d0lTWXh0b2I5b2VtMFJJM2xzVVZvTnd3WXVIMG9vMm8wcUNYRnhWcXE1RTJ1SUtBcV9wdnhJQzRGcEs0cmZUcDZzcXY1LTlwTGI3WTloalRWUjJ1dlJMc0JybTJ1dWtqQU5oNS1yRUFoNzB5bjJDd1N6bnNGOExJUFg5WExrVDVpN0tOeWozNzk0dmVMemxpZHIzeFUtUXdsbjU2MV8xclBCMVdYVTQ0bnJ1ODU2ZVZxMWNTYUF3UlVjU2JXeEdXUXVzSHk1WDJTb2xwNy1USjljRVJWVHdaUkRoeEJGV1UwYkhKdGt0NnpsZGp3YnYxUWIxUmRFMnJyTHNod01oMUliZ1p2cG5LQnFWdVRMM0RNaVRjaFpEVlBhQkJ1bmdhQjlfRzl2M042TGVBUERlVU9aMjVPbm9zbDRtdXRB?oc=5",
-        "published": "22 Apr 2026, 11:44 PM",
-        "iso_date": "2026-04-22T23:44:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOQXp6NGY5OFFab05qOGVmSWU2YlRlSHA4bVRHTDJHRHdtelJlbU9ObjI1UnVfU2lCNFJ4R0l6azdxem52MGlqdmFGamJ4M2hzb1FzVlhwVndFeTZCRmVQLXZDSkNLRVVTZm5vZlVzODV6WUcwVS02dnZEaVE3ei1FM1NienlUTWxDNDhCQUFWck9UbEhCU0RuN1R4VGhGRkVGdnAzc1pXdWpLMF9nRWZhUEgxNUNmcEdEdEtfSmpVQWhpVXdXWEtjb2NmSFM1ZkpsYWczRzIzUXBQNmxjMTZSbFdRYWtZOURoUG0tR2oyNjVsOElJbVpZMEh5Zy04dS1hQkd6cUJNTDNLTnlzbXdzdG1HNHA3SE5TWEIyazlXbkRfYlBEWld1SHpyN2R4YTc4dlVVQjlZZjU5TEFBOHd6WW54M1RjNks2eDVvQmk4RzlvNm1la2R6ellUT2FxM0p3c3N3UndyelB6UDFWT2kzSGNjdldYTXo1SXB4ZUlR?oc=5",
+        "published": "23 Apr 2026, 01:21 AM",
+        "iso_date": "2026-04-23T01:21:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -60,19 +60,19 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
-      },
-      {
-        "title": "Bahrain orders revocation of citizenships of individuals deemed security risks",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWY5amlndE5CRTBpbWJNODVFUzhLY1hXb3poSVhFbm9kZy1lQjFoeU85aV9za2lzdHVFb3FTTnBqWldSZmx3TTh3WFZ6ZVBkUDA1VFY4ckw0ZlMzd2xHOWFkeGJjUEk4NUtPNjMzUnQ3YUg3eFh3SXZZWHF5eXY0UUJQN2doaVNCUllMYdIBjAFBVV95cUxOSWY5amlndE5CRTBpbWJNODVFUzhLY1hXb3poSVhFbm9kZy1lQjFoeU85aV9za2lzdHVFb3FTTnBqWldSZmx3TTh3WFZ6ZVBkUDA1VFY4ckw0ZlMzd2xHOWFkeGJjUEk4NUtPNjMzUnQ3YUg3eFh3SXZZWHF5eXY0UUJQN2doaVNCUllMYQ?oc=5",
-        "published": "22 Apr 2026, 11:13 AM",
-        "iso_date": "2026-04-22T11:13:21+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "BDF: All services, units are at highest levels of readiness, full defensive preparedness",
+        "link": "https://www.gdnonline.com/Details/1392474/BDF-All-services,-units-are-at-highest-levels-of-readiness,-full-defensive-preparedness",
+        "published": "23 Apr 2026",
+        "iso_date": "2026-04-23T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423124117bdf12(2)_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Open channels âpose danger to drivers at night in Hamalaâ",
         "link": "https://www.gdnonline.com/Details/1392373/Open-channels-âpose-danger-to-drivers-at-night-in-Hamalaâ-",
@@ -110,16 +110,6 @@
         "iso_date": "2026-04-23T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260423/20260422_225721_0.png?20260423",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Filipino expats hone their fashion designing skills",
-        "link": "https://www.gdnonline.com/Details/1392385/Filipino-expats-hone-their-fashion-designing-skills",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423041152filipino_T.jpg?20260423",
         "source": "gdn",
         "category": "Latest"
       },
@@ -174,6 +164,16 @@
         "category": "Latest"
       },
       {
+        "title": "Germany's Gnabry says he is out of World Cup after an adductor muscle tear",
+        "link": "https://www.gdnonline.com/Details/1392458/Germanys-Gnabry-says-he-is-out-of-World-Cup-after-an-adductor-muscle-tear",
+        "published": "23 Apr 2026",
+        "iso_date": "2026-04-23T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423123509gnabry1_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bayern beat Leverkusen 2-0 to reach first German Cup final in six years",
         "link": "https://www.gdnonline.com/Details/1392459/Bayern-beat-Leverkusen-2-0-to-reach-first-German-Cup-final-in-six-years",
         "published": "23 Apr 2026",
@@ -204,17 +204,208 @@
         "category": "Latest"
       },
       {
-        "title": "Yamal scores as Barcelona edge Celta",
-        "link": "https://www.gdnonline.com/Details/1392416/Yamal-scores-as-Barcelona-edge-Celta",
+        "title": "Meryl Streep, Anne Hathaway and Emily Blunt reunite for Devil Wears Prada 2",
+        "link": "https://www.gdnonline.com/Details/1392476/Meryl-Streep,-Anne-Hathaway-and-Emily-Blunt-reunite-for-Devil-Wears-Prada-2",
         "published": "23 Apr 2026",
         "iso_date": "2026-04-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423025127footy_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423131823websitesize_T.jpg?20260423",
         "source": "gdn",
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Asian Beach Games Officially Open in Sanya with Colourful Ceremony",
+        "link": "https://www.newsofbahrain.com/sports/131262.html",
+        "published": "23 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-23T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9TgStc2GU_2026-04-23_1776926234resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BOC Conducts Field Visits to Boost Federation Development",
+        "link": "https://www.newsofbahrain.com/sports/131260.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cpbUWaTSyj_2026-04-22_1776866664resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Guardiola hints that Rodri will make swift Man City return",
+        "link": "https://www.newsofbahrain.com/sports/131259.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SEJ4cipOVa_2026-04-22_1776866342resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain off to winning start at Asian Beach Games",
+        "link": "https://www.newsofbahrain.com/sports/131258.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3Puch0KrGW_2026-04-22_1776866135resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Nepal Home Minister resigns amid questions over financial conduct",
+        "link": "https://www.newsofbahrain.com/world/131257.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cXpUlVDWrv_2026-04-22_1776866788resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Diplomacy Only Path to End Regional Crises",
+        "link": "https://www.newsofbahrain.com/bahrain/131212.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EiHlX1LBPI_2026-04-22_1776858037thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Priority Hiring for Crisis Volunteers",
+        "link": "https://www.newsofbahrain.com/bahrain/131204.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4ouVdMqO10_2026-04-22_1776847424thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Electricity Subsidy for Sports Clubs",
+        "link": "https://www.newsofbahrain.com/bahrain/131203.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q63oqMYI7N_2026-04-22_1776846911thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BD94 Million Support for 105,000 Workers",
+        "link": "https://www.newsofbahrain.com/bahrain/131202.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4NMcW2Xpsm_2026-04-22_1776846709thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Devji BKS GCC Kalotsavam 2026 Kicks Off",
+        "link": "https://www.newsofbahrain.com/bahrain/131201.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lwHvZgsLNT_2026-04-22_1776846015thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Lebanon to request 1-month truce extension in Israel meeting: report",
+        "link": "https://www.newsofbahrain.com/world/131256.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XKPRMqoWgG_2026-04-22_1776866003thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A hidden fleet of ageing tankers is quietly moving sanctioned oil across the world’s oceans.",
+        "link": "https://www.newsofbahrain.com/world/131251.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://img.youtube.com/vi/mTaQgpARhiM/hqdefault.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain eyes stronger economic cooperation with France",
+        "link": "https://www.newsofbahrain.com/business/131208.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OaCPcgouIM_2026-04-22_1776856876thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BENEFIT Introduces Advanced Payment Solution to Strengthen Fintech Ecosystem",
+        "link": "https://www.newsofbahrain.com/business/131207.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oZQmeIcvpn_2026-04-22_1776856720thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "TRACCS Bahrain and Conserving Bounties Society Partner",
+        "link": "https://www.newsofbahrain.com/business/131206.html",
+        "published": "22 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-22T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2L1XdJM7zT_2026-04-22_1776856613thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tough Times in the Two Straits",
+        "link": "https://www.newsofbahrain.com/views/131221.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IhWaKjSHJL_2026-04-22_1776859903thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ice Spice to Take Legal Action After Viral McDonald’s Assault in Los Angeles",
+        "link": "https://www.newsofbahrain.com/views/130958.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_te1nxpXl7s_2026-04-18_1776537541thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Words Really Matter!",
+        "link": "https://www.newsofbahrain.com/views/130689.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oAOuy716bH_2026-04-16_1776328397thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kaspersky report: E-commerce scams consist of 85% of financial phishing in the Middle East",
+        "link": "https://www.newsofbahrain.com/views/130591.html",
+        "published": "",
+        "iso_date": "",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WLhkIvr2Ja_2026-04-14_1776196484thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -328,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-23 10:32:41 UTC"
+  "fetched_at": "2026-04-23 11:28:04 UTC"
 }
