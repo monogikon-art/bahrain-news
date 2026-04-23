@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,6 +32,16 @@
         "category": "Latest"
       },
       {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQcExoZUxGTUFtV19PSlN4d3RqSDZ3aDFjSmNacTBMc0ozSlVYZGNwSkZCcFJja21EdmxSWk1TeWNJVzJ5cFVMWHlueTh1S1JkRnpRY2g5dmlaR1ZpQ1NGbWNXZWducEVCOWZlbXFYWjQ5LWozQklRblFROUVSUXU2RVlzYVpmYmUtNkRxcVktdnY2RF9GSnVOeEdXdGNuZTA5cVUxRmZkZ2tnT2o5WlBLWXI4bHVaS0NEbHY4WTQ0UkNuQVV2bEl5cWlvYmVtVHpuTzFTWFdiSlM5b2F5dWcxY0FwS2JGUktKdVNCT3J5LXQtdDhrZkdBbDdmZ2YwZENaaVJNaWhtZXQ4bXJRcFhrdDQtUVFSRzVLZXRxaXJFZUNPcE9kQkxTOTJkSnBtZWdyc1E5RXM0SmxaTVdBN2ZZcEJlN2ZhUmhsekpnQWV1SjJtV3VUSnA3b2xQaWVoWlRUQ0F5ZVJUdEZyQzJhamUtTmhpalpoUjJoVHpRUzRKQVJScE9PanI2WnBfZWNOVDQ1bXdqY21BQ0RqdUk?oc=5",
+        "published": "23 Apr 2026, 12:25 AM",
+        "iso_date": "2026-04-23T00:25:40+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Trump announces resumption of negotiations with Iran amid Strait of Hormuz tensions",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLVNGNU5qWVF4TWs4UzI3WlY4TTNpcVdMMFZoeHQyWkJSeTFjRU1VNEgxQ0ZlaTRuWVpMRFRKQ3FiMlFwdHRJWm9ENE1LdEpZcXNKOGtFUnBVMEd5RF95SkRtNkJyZGlSOGtUQVo2dFpVX09YdV82OUZrY21Kam83Ym8xMW1IaXpENEZQbGFSSThaWEM4OXdmbWplU055ZmhlN25kREFZYzlNRXlFRmJtZTliam4tR0dCcFVZUE81NmxBWlBjVlUtU1ZMSDU?oc=5",
         "published": "22 Apr 2026, 03:25 AM",
@@ -42,20 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain orders revocation of citizenships of individuals deemed security risks",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWY5amlndE5CRTBpbWJNODVFUzhLY1hXb3poSVhFbm9kZy1lQjFoeU85aV9za2lzdHVFb3FTTnBqWldSZmx3TTh3WFZ6ZVBkUDA1VFY4ckw0ZlMzd2xHOWFkeGJjUEk4NUtPNjMzUnQ3YUg3eFh3SXZZWHF5eXY0UUJQN2doaVNCUllMYdIBjAFBVV95cUxOSWY5amlndE5CRTBpbWJNODVFUzhLY1hXb3poSVhFbm9kZy1lQjFoeU85aV9za2lzdHVFb3FTTnBqWldSZmx3TTh3WFZ6ZVBkUDA1VFY4ckw0ZlMzd2xHOWFkeGJjUEk4NUtPNjMzUnQ3YUg3eFh3SXZZWHF5eXY0UUJQN2doaVNCUllMYQ?oc=5",
-        "published": "22 Apr 2026, 11:13 AM",
-        "iso_date": "2026-04-22T11:13:21+00:00",
+        "title": "Bahrain tightens rules on citizenship",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pVndoejBYbTNGMmc3dmd6WldoODlDa2ItS2NjMkc5a3E4UkZQb1hSS05PRW5jM0c5eGFLaWZ0ZUQ0LTVlM2FnX3BVSVREZ0ltWm5kaVNUa3dNai1jaE1DYm9hV2stckhD?oc=5",
+        "published": "22 Apr 2026, 08:00 PM",
+        "iso_date": "2026-04-22T20:00:56+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain tightens rules on citizenship",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pVndoejBYbTNGMmc3dmd6WldoODlDa2ItS2NjMkc5a3E4UkZQb1hSS05PRW5jM0c5eGFLaWZ0ZUQ0LTVlM2FnX3BVSVREZ0ltWm5kaVNUa3dNai1jaE1DYm9hV2stckhD?oc=5",
-        "published": "22 Apr 2026, 08:00 PM",
-        "iso_date": "2026-04-22T20:00:56+00:00",
+        "title": "Bahrain orders revocation of citizenships of individuals deemed security risks",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWY5amlndE5CRTBpbWJNODVFUzhLY1hXb3poSVhFbm9kZy1lQjFoeU85aV9za2lzdHVFb3FTTnBqWldSZmx3TTh3WFZ6ZVBkUDA1VFY4ckw0ZlMzd2xHOWFkeGJjUEk4NUtPNjMzUnQ3YUg3eFh3SXZZWHF5eXY0UUJQN2doaVNCUllMYdIBjAFBVV95cUxOSWY5amlndE5CRTBpbWJNODVFUzhLY1hXb3poSVhFbm9kZy1lQjFoeU85aV9za2lzdHVFb3FTTnBqWldSZmx3TTh3WFZ6ZVBkUDA1VFY4ckw0ZlMzd2xHOWFkeGJjUEk4NUtPNjMzUnQ3YUg3eFh3SXZZWHF5eXY0UUJQN2doaVNCUllMYQ?oc=5",
+        "published": "22 Apr 2026, 11:13 AM",
+        "iso_date": "2026-04-22T11:13:21+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -328,5 +338,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-23 01:36:05 UTC"
+  "fetched_at": "2026-04-23 03:06:31 UTC"
 }
