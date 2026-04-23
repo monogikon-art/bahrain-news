@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQMko0bkRIem1PNFhrZjZiNzBLQ0ZWd1NCZ2lSU0Y0RGVWazNYTXNvTmRkYWQzMjRYUjVPdHBwSmdTSXZtZU9ZX2xuU1R2VTB4M3FqQmFNNzNJU2FPdHA3dFJxY1F3emN5RTJMZTVEMTBFU1Z2TWM4UFpxOERURWNTU1lURmtDak43ZVljZW5uT2MyeksyWkZ5TXhoYjZmXzNOVFdHM3Q0SUxobno4QWlFT3ZJbzE3ZHdoN2d4d19FUU1nREtWMW1sYmJHMTZSVXNraER2WTc1cGFQckNyVGhBNmstZzVzRTRMQ0tHZk9QWWZMR20wTnJBOUZ2eFU0c09nNTd6eDhsbEJRU1ZwRnZDeVlFRVBuWmlrT1FfaU5rUmNnSXQ1M2J4cFNIUzY3aDNobFNXWFozRGk3azYzaHJQamdSeVlkQnBUUXI0ejhhU0I5V2ZSOEZqMXJCeGluUzZ5MlJWWERMT3pQczViRy02VjF0WjhIeEpObHpTM1Uwb2tWNmRDZVNJZGdITU5xa3NzWTVIV3o2b191b3M1N1EyTVBhaTYzZW9UelBN?oc=5",
         "published": "23 Apr 2026, 01:06 PM",
         "iso_date": "2026-04-23T13:06:22+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "US issues new travel warning for Bahrain amid 'hostile Iranian missile attacks'",
+        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQX2xyemctUUtWakFONGJydTU0LWpmMDJtdXF4bGhjVGpTR0oydVFJMFhJbEFQMGxMU0plWGF3bVZUMnFUYmJmOFFZNXc3Vl9IajZZMEFYTmJOZlpsbnZiT01JYVFYLXc3SnphcnpBTlVZRGlzN0lsc3JLNDFrcVpvMXQ4TW1KeF9aY0VHVDdVLU1UWkJmaEhnQnQ2UFZ0U1p1VnItY1MyNmNFbkVFQUlWUy0xZnh6SVpCQlY3MVJsbXJjQjRZNFE1TlllWFdWSkZJb0dHQ2xmQ2twbHFXN1V0LWotLTgzbUxQM3hYQllPVDBnY2JvdnVYdUVKaVU2NG9aamNScFhselBEeGlNNmR5c0tDM1p2UWVHMW53UHBPVVBfd0F5N3dWNXNjM0p6ZkFNeFBYbVhXejJaU29odGtpWUpWSGhlaThpRVZ1a1U0aURaa1hHcUhLdlN4Q2RPVnFPZzV5VUxydGJVVW1vNExFbjFiU1puWEkxZk94dGNEWkdQM1gzSUVsRHhhX2o1TkFaVjVmV2ZLRC1xRkJZ?oc=5",
+        "published": "23 Apr 2026, 02:34 AM",
+        "iso_date": "2026-04-23T02:34:37+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-23 23:18:07 UTC"
+  "fetched_at": "2026-04-23 23:46:28 UTC"
 }
