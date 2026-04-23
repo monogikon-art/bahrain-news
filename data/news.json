@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 11
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -62,7 +62,118 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "Open channels âpose danger to drivers at night in Hamalaâ",
+        "link": "https://www.gdnonline.com/Details/1392373/Open-channels-âpose-danger-to-drivers-at-night-in-Hamalaâ-",
+        "published": "23 Apr 2026",
+        "iso_date": "2026-04-23T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260423/20260422_225718_1_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "A visual memoir of times gone by",
+        "link": "https://www.gdnonline.com/Details/1392353/A-visual-memoir-of-times-gone-by",
+        "published": "23 Apr 2026",
+        "iso_date": "2026-04-23T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422174403websize(3)_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Drunk driver on trial over fatal highway crash",
+        "link": "https://www.gdnonline.com/Details/1392375/Drunk-driver-on-trial-over-fatal-highway-crash",
+        "published": "23 Apr 2026",
+        "iso_date": "2026-04-23T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422232014court1_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Conference focus on AIâs critical role in healthcare",
+        "link": "https://www.gdnonline.com/Details/1392376/Conference-focus-on-AIâs-critical-role-in-healthcare",
+        "published": "23 Apr 2026",
+        "iso_date": "2026-04-23T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260423/20260422_225721_0.png?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Women at work",
+        "link": "https://www.gdnonline.com/Details/1392352/Women-at-work",
+        "published": "23 Apr 2026",
+        "iso_date": "2026-04-23T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422173508websize(1)_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain-France trade surges 77pc",
+        "link": "https://www.gdnonline.com/Details/1392254/Bahrain-France-trade-surges-77pc",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260421_222932_0_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump envoy seeks to replace Iran with Italy in upcoming World Cup: FT reports",
+        "link": "https://www.gdnonline.com/Details/1392405/Trump-envoy-seeks-to-replace-Iran-with-Italy-in-upcoming-World-Cup-FT-reports",
+        "published": "23 Apr 2026",
+        "iso_date": "2026-04-23T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423010542fifa_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Inter Miami visits Real Salt Lake for second test following coaching change",
+        "link": "https://www.gdnonline.com/Details/1392316/Inter-Miami-visits-Real-Salt-Lake-for-second-test-following-coaching-change",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422153018messi1(9)_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Rosenior's tough words raise stakes as Chelsea misery deepens",
+        "link": "https://www.gdnonline.com/Details/1392338/Roseniors-tough-words-raise-stakes-as-Chelsea-misery-deepens",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422154250chelsea_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Machida set up title clash with Al Ahli",
+        "link": "https://www.gdnonline.com/Details/1392304/Machida-set-up-title-clash-with-Al-Ahli",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422_022701_2_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Rafael Marquez will replace Javier Aguirre as Mexico manager after World Cup",
+        "link": "https://www.gdnonline.com/Details/1392315/Rafael-Marquez-will-replace-Javier-Aguirre-as-Mexico-manager-after-World-Cup",
+        "published": "22 Apr 2026",
+        "iso_date": "2026-04-22T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422151456rm(2)_T.jpg?20260423",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
       {
         "title": "BOC Conducts Field Visits to Boost Federation Development",
@@ -338,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-22 23:48:39 UTC"
+  "fetched_at": "2026-04-23 00:36:14 UTC"
 }
