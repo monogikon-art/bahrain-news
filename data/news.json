@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOYlBpUTBzbXY1eGxTLVI5QnA4RmJsNnM3OTZ6NW9yQlJlQWhpNUxiZ2pRcW9vcndxN2M0bWd6M01WMEV5dC04UlZrM2FtM1lZZzF2LUxBeGhUQUJDcTdDWnpzaTQ2OEFlU0kzT0FXM3NxMlZqVVU1bjVlRWlsbWtvRF9LUGZfalljY2lwUGNzbFJiZF9HeUJ5dG44clRLbFZmM2xfNkRyZ1IyaW1Mbm5IY3hyZk1ndnZyYXBOeDhyWnRnNnM0NDBnMkNVUGZPTFFUZGVTYUpGM2J4ME9SXzdkbVg3QkxQMVpfMEJjVjJwYnhKY0txX3lyLXlaNkJMX181R1pFLXJmX1ZDRkdabEI4MDg2NURIWDloX1pfQklTcFZmZXNrRy0zRXc5MFdLbC1tSUg1V0xSckdBYzJBQWF2QVdKNzR1bUNmNGFCUER2ME9ub3BpajJXRGU2eWNVQkJvY3B6dnRmbnZZZmpLNW1kQ0xmU2pVZS1LcnVqNFhoQzdyZlo2MGdSZlFuSUR2UQ?oc=5",
         "published": "23 Apr 2026, 12:33 AM",
         "iso_date": "2026-04-23T00:33:50+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain tightens rules on citizenship",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pVndoejBYbTNGMmc3dmd6WldoODlDa2ItS2NjMkc5a3E4UkZQb1hSS05PRW5jM0c5eGFLaWZ0ZUQ0LTVlM2FnX3BVSVREZ0ltWm5kaVNUa3dNai1jaE1DYm9hV2stckhD?oc=5",
-        "published": "22 Apr 2026, 08:00 PM",
-        "iso_date": "2026-04-22T20:00:56+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -308,5 +298,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-23 19:31:16 UTC"
+  "fetched_at": "2026-04-23 20:22:08 UTC"
 }
