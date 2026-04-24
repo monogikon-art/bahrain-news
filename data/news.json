@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOam13Y0xzbHpwZzlxVHJqTWFqdVVHcEtXRW9aOE9TYTVScVRyYkxMQnhBVzRITjFGZ2FPMHlYQmVBczFZWEEzelVWZGNUSVc3bmZHeWNwQU9hZ3Q5N3JCdmlTOWhJOVFzVzQtNVhpRXRjNll3ZWk1U2JmMkFxTWhKTFcwV1V5LUNsTVJ4VWNheVoyTy1USHAwdDdDSmhzMGlLTEc2VXQwWF9Qcmh4ZHBZZWdxYndvZGJfUWVJOHdIYUNwV0hFd3RIY1VVdjdqT21rcVVZSWZyeW5CaTRwQjR0YVJPWTdoTU5Faktuc1hjeENTdGljb3NoTEsyTzBUbHo5bnhSZGVPQmtiWEczZk1fdDYxMVpxYzdtaFhuLUREazNrdkNnRW1taEhxb3g3RnZaX0dHY3JHT0pBejl1MHJXT0lQazNUeXNsVUItRUR5RlJ5NFV3WklsSV9tcHFQMnBJV3k2Tl9CcEVacG1LUTgyb044bVhkamk2YjhTSkZtYXozdC0teE1fN01jT0dxb25CaDMxRHl6RFFCNEkwXzVMdWkzLTdSa0RMS2Jn?oc=5",
         "published": "23 Apr 2026, 10:35 PM",
         "iso_date": "2026-04-23T22:35:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOQXp6NGY5OFFab05qOGVmSWU2YlRlSHA4bVRHTDJHRHdtelJlbU9ObjI1UnVfU2lCNFJ4R0l6azdxem52MGlqdmFGamJ4M2hzb1FzVlhwVndFeTZCRmVQLXZDSkNLRVVTZm5vZlVzODV6WUcwVS02dnZEaVE3ei1FM1NienlUTWxDNDhCQUFWck9UbEhCU0RuN1R4VGhGRkVGdnAzc1pXdWpLMF9nRWZhUEgxNUNmcEdEdEtfSmpVQWhpVXdXWEtjb2NmSFM1ZkpsYWczRzIzUXBQNmxjMTZSbFdRYWtZOURoUG0tR2oyNjVsOElJbVpZMEh5Zy04dS1hQkd6cUJNTDNLTnlzbXdzdG1HNHA3SE5TWEIyazlXbkRfYlBEWld1SHpyN2R4YTc4dlVVQjlZZjU5TEFBOHd6WW54M1RjNks2eDVvQmk4RzlvNm1la2R6ellUT2FxM0p3c3N3UndyelB6UDFWT2kzSGNjdldYTXo1SXB4ZUlR?oc=5",
-        "published": "23 Apr 2026, 01:21 AM",
-        "iso_date": "2026-04-23T01:21:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-24 00:34:01 UTC"
+  "fetched_at": "2026-04-24 01:36:07 UTC"
 }
