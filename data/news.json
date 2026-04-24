@@ -16,26 +16,16 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 7
+      "count": 0
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "The Iran War Is a Stress Test for Gulf States",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDBLOEFRV2JyQXJHclhCN0dUUUJQY0pHV1VDd2lseExiQVFhekplMjVpZ3k1Y0xNOUxCbjkzd1JKVmpkaTQ1ZFRCSmdWcHdyRUhFUF96NEhTSnlUTVZJdWpEVFlYdExaVWV5dVA5dk13LTdETlhTMnVVcDlxbFlFYzlZVkdNdw?oc=5",
-        "published": "23 Apr 2026, 09:42 PM",
-        "iso_date": "2026-04-23T21:42:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
         "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
-        "published": "23 Apr 2026, 04:43 PM",
-        "iso_date": "2026-04-23T16:43:15+00:00",
+        "published": "24 Apr 2026, 02:09 AM",
+        "iso_date": "2026-04-24T02:09:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -53,9 +43,19 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeko2OE1VNjU2SGVEdnpBeVVYVVc3SC1qTUlJVk95TWZUanM4M1ZJTlJIYzNLVkxrNlVwcFlBdGFCcUg0Wm9OSzRqWlI2bjgyTHlQYngya0dmN1BqZHhSN0ZVREVadlhCS21TMWRsZWk1c2dHVWlqaEl2dGQwLWpPclZNb1V0MnVfc0d0YnpGd0dISXhIR1FrVWtEZkZ4SlNDemVpaFpncTU0UUUzYXI5c3FmRjl2djdkQTNrLTJ5SkNYdThRaFNEWmM4VkFOT1BRa3Axd2YwVTdnU3FTNHN4VzdFcjBoSS1pejZlekZKaGkzOElmUnZXWlVzczJrUXVtcHNsWU9yWmcxdks4Z1hvVVN2UnFyYWk0V1NTc2szMUdtbzIyS2VGZjJtTFJFckxjVGlrYjlmWWgwQ3RzUkdhRjJZZWNIVnJJUnFBVV8zNGR5Wll6TE90NEltNEsxNWpxSVAyYVVxcWMwUDVDNmNjMldtRGJvbWV0NDhyM0JlX3J1OUtlbXltOXp2OWowQQ?oc=5",
-        "published": "23 Apr 2026, 11:53 PM",
-        "iso_date": "2026-04-23T23:53:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZmJnc05ETVlMSkxFcmFDRWdqZGE4Q05yRkZDanVJT2tUc0dDa192TFlvcGUtRlBTVWlQZnBVR3k5aDdfdHBxOUQ2czJIcnY3djdrdl9sZGRyTzRCRFpvdGNfZFZYVlJNdkhrZ0N1dWZuTVlqNWFOTWFOdE9hbHRKVUllQUVOa0ViQk1vVlhnN0c2U1MzNGZ3Vk1pRXhXYWRZbXoybVJwWjlId08yNEVjUFhJdGhYYld0Q0lldm5Namp3cTBuTE9kUG9Xa3dtM1VINmxFZWt6X3lnQ29JTlItV3F0akFVZGVKdWVUNzNRYjFKYmZTQjhwUFh6WmJBR3oxbGJFak1pNFVBVjVVQS1tZ1V0bU9rYUhCbENSYUgycEEzVUhlN2w0a3pGVEdNdk1McnJDMTQ1NUFBLU96R0F5WXA2SlFHWVg0RmROclp6TktveEd6bDdrZmg0UnJLellHUWdmSDNoZVpjRVBlNW1rWndPc3o5V2hoR3ZrdmxmM3h3WXZBUWVZb3V2TjhXZw?oc=5",
+        "published": "24 Apr 2026, 03:06 AM",
+        "iso_date": "2026-04-24T03:06:53+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPWXAtZUk3ODJOV2tiLUJHUkdqNmNzbkY1RDdxcVd4NFpvbGVlXzl5eTJsSjBfYktucHlyME1ITjlGam9WUG55cXkzQ0dZMUNzeXNxX3FFR0RQemhleHVnRFJvLVp4SG5IRi1oeVFNbWRLel9TREpRaTZ2X1ZTZ240QWtuMXFNR0hGWW1lcjhFdnpsZGFuaGpKT2pnSVFrdWxKWlQxeXg5a1lNbnRKWjU0bm9DM0lNZldCQm9RRE5EYTlTU2RjSGk1Umg3SlYzb1JYZXRiVXlyVUlPd2tEdGNTZ1pFT1JjNEFiRjFkM1dQVjJQUVkyUXBpNUJNZDhGZzdLajhHUWFLN3ExQnpnWjZGLTBZRy1xRWZjQmt5QVZ3Ti1hSzdiSmk0YjVlU2E2R2JmN0RQemFFV2pFZWd5c1RZT1hGSDdlZVJQSGJSVzdkRlhIS3d6dUJtR1QxazhaTko3bmt0RGJiaFVwVHZyVm44SnBxQnhGQ2NXQ0MzV3Rtc1paT0dVNkNQajVGSG9yVkFqb0lpNzYtUlZGVnRMbnE0Q2JBcjQxRkM0Tkk4WGZFbjBCTERDMmhmTlo4N0RzN0RhbnNGQmdYa1huNHBhRElGSlBlR0lidVd2Vm16eTBrSkx4NE1oVDdJSlBB?oc=5",
+        "published": "23 Apr 2026, 10:40 PM",
+        "iso_date": "2026-04-23T22:40:12+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -74,42 +74,12 @@
     ],
     "gdn": [
       {
-        "title": "A commitment to ramp up investment",
-        "link": "https://www.gdnonline.com/Details/1392554/A-commitment-to-ramp-up-investment",
+        "title": "BDF: All services, units are at highest levels of readiness, full defensive preparedness",
+        "link": "https://www.gdnonline.com/Details/1392612/BDF-All-services,-units-are-at-highest-levels-of-readiness,-full-defensive-preparedness",
         "published": "24 Apr 2026",
         "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424014542hrh_T.jpg?20260424",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Security ties in spotlight",
-        "link": "https://www.gdnonline.com/Details/1392541/Security-ties-in-spotlight",
-        "published": "24 Apr 2026",
-        "iso_date": "2026-04-24T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424011749securityties_T.jpg?20260424",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Crucial talks on framework to regulate legal profession",
-        "link": "https://www.gdnonline.com/Details/1392523/Crucial-talks-on-framework-to-regulate-legal-profession",
-        "published": "24 Apr 2026",
-        "iso_date": "2026-04-24T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260423_230653_1_T.jpg?20260424",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "US relations discussed",
-        "link": "https://www.gdnonline.com/Details/1392540/US-relations-discussed",
-        "published": "24 Apr 2026",
-        "iso_date": "2026-04-24T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424_010638_0.jpeg?20260424",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424154300bdf12(2)_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
@@ -120,6 +90,36 @@
         "iso_date": "2026-04-24T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260424/20260424000018websitesize(11)_T.jpg?20260424",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain poised to step up global economic integration",
+        "link": "https://www.gdnonline.com/Details/1392527/Bahrain-poised-to-step-up-global-economic-integration",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424043811doc_T.jpg?20260424",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Doubts over efficacy of electric mosquito traps",
+        "link": "https://www.gdnonline.com/Details/1392513/Doubts-over-efficacy-of-electric-mosquito-traps",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423234613websitesize(8)_T.jpg?20260424",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Shura to debate bill on dangerous animalsâ use",
+        "link": "https://www.gdnonline.com/Details/1392528/Shura-to-debate-bill-on-dangerous-animalsâ-use",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260423_230655_2_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
@@ -234,78 +234,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Al Salam Bank completes over 15,000 instalment deferment applications and reminds clients of 30 April deadline",
-        "link": "https://www.newsofbahrain.com/business/131281.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GXPgbmsw0k_2026-04-24_1777037267resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "LuLu World Food Festival 2026 returns to celebrate Global Flavours in Bahrain",
-        "link": "https://www.newsofbahrain.com/business/131280.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vWLOlG1gPV_2026-04-24_1777037146resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Field Visit Highlights Development Work in Isa Town",
-        "link": "https://www.newsofbahrain.com/bahrain/131279.html",
-        "published": "24 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YuUsjJ4tGi_2026-04-24_1777036637resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Beyond the Canvas",
-        "link": "https://www.newsofbahrain.com/bahrain/131278.html",
-        "published": "24 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SIuJd6liyE_2026-04-24_1777035968resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Salon Owner Found Not Guilty",
-        "link": "https://www.newsofbahrain.com/bahrain/131277.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ldv8Tushrf_2026-04-24_1777034875resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Umrah Travel Surges After Saudi Extension",
-        "link": "https://www.newsofbahrain.com/bahrain/131276.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VwDgqck3fx_2026-04-24_1777034647thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Military Units Fully Prepared",
-        "link": "https://www.newsofbahrain.com/bahrain/131275.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVOs3x057I_2026-04-24_1777034345thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -419,5 +348,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-24 13:33:52 UTC"
+  "fetched_at": "2026-04-24 14:35:24 UTC"
 }
