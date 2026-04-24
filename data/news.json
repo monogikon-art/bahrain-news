@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 12
+      "count": 0
     }
   },
   "articles": {
@@ -34,8 +34,8 @@
       {
         "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
         "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
-        "published": "23 Apr 2026, 04:43 PM",
-        "iso_date": "2026-04-23T16:43:15+00:00",
+        "published": "24 Apr 2026, 02:09 AM",
+        "iso_date": "2026-04-24T02:09:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQUHdwbFlVNzZxb2FzNHdERzBvU2tTVzJaMTR6ZEI5RXVvTk1jTlR0STJqNjZLbHlkMXlvcllrbjhZTGd5bnI2V3ppUWw1UVNNd1l4NE80WWkxdjN6amFCV295Z1lOcURRdlZ2R3VFd1dId2R4MVltNEhFamlEOWFpSDBrTDBxb0lUVHpjUV9KeXQtazVZdnNfVkstMXh5cHY2dzZwcDFWc0diaWFfVVJKcGFweXV5ZjFDVlk1UFN2N0ZkdVBVWll5TzNKakZvTGl4MThHUnNGamNrNUJiZE5lVm5rWUMzdEc0djhZUmdJS3hYVloxcmcyRlJ6ZTZtY2hMbHRxLUNRMWhvcXVpVWM0QzJVcVFvUEpSdHZwdGRCWVZIU0FnOEtaUkFCU1A4bWthbS1HQm9MdjJWQ0FSblJCczVIWXBJNFZVUFh2WWh1QklnRndodTVoWHlLWWp4SkZmYjUwS0ZMTWpKU3FLN1RibVlfQnpFdE5pTW1valdyUXNhZVhXR011S2Q3Z3h0MUw2TTMtZFplMW9JT21qQ3dkQUhKWUV5NnlIRUpZdFM4YWMzUlFobTl2VS0zS3cwVEl0M09LTFZhalNETGZQQndwNmh2ZUdHT3dLWkI3OXYxT1ptQ2NGUXYtMTFUM1gwVEdjdVN3aDJCUjJyX3JLSWhobjhEUjh0Zw?oc=5",
         "published": "23 Apr 2026, 10:32 PM",
         "iso_date": "2026-04-23T22:32:37+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeko2OE1VNjU2SGVEdnpBeVVYVVc3SC1qTUlJVk95TWZUanM4M1ZJTlJIYzNLVkxrNlVwcFlBdGFCcUg0Wm9OSzRqWlI2bjgyTHlQYngya0dmN1BqZHhSN0ZVREVadlhCS21TMWRsZWk1c2dHVWlqaEl2dGQwLWpPclZNb1V0MnVfc0d0YnpGd0dISXhIR1FrVWtEZkZ4SlNDemVpaFpncTU0UUUzYXI5c3FmRjl2djdkQTNrLTJ5SkNYdThRaFNEWmM4VkFOT1BRa3Axd2YwVTdnU3FTNHN4VzdFcjBoSS1pejZlekZKaGkzOElmUnZXWlVzczJrUXVtcHNsWU9yWmcxdks4Z1hvVVN2UnFyYWk0V1NTc2szMUdtbzIyS2VGZjJtTFJFckxjVGlrYjlmWWgwQ3RzUkdhRjJZZWNIVnJJUnFBVV8zNGR5Wll6TE90NEltNEsxNWpxSVAyYVVxcWMwUDVDNmNjMldtRGJvbWV0NDhyM0JlX3J1OUtlbXltOXp2OWowQQ?oc=5",
-        "published": "23 Apr 2026, 11:53 PM",
-        "iso_date": "2026-04-23T23:53:11+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -244,128 +234,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "3,000 Students Sit for First Step Toward International Baccalaureate",
-        "link": "https://www.newsofbahrain.com/bahrain/131272.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OZ3yGiHbCW_2026-04-24_1777019242resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "First Global Engineering Forum Opens",
-        "link": "https://www.newsofbahrain.com/bahrain/131271.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aEvLU7thp0_2026-04-24_1777019040resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NHRA Launches Faster Digital Registration Service",
-        "link": "https://www.newsofbahrain.com/bahrain/131270.html",
-        "published": "24 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D7AIHgoyJp_2026-04-24_1777018568resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Workforce Stability Plan",
-        "link": "https://www.newsofbahrain.com/bahrain/131269.html",
-        "published": "24 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N1KU6b8aHY_2026-04-24_1777018333resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Resume Normal Work Sunday",
-        "link": "https://www.newsofbahrain.com/bahrain/131268.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z1AXriCsp4_2026-04-24_1777017642resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Nepal Home Minister resigns amid questions over financial conduct",
-        "link": "https://www.newsofbahrain.com/world/131257.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cXpUlVDWrv_2026-04-22_1776866788thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Lebanon to request 1-month truce extension in Israel meeting: report",
-        "link": "https://www.newsofbahrain.com/world/131256.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XKPRMqoWgG_2026-04-22_1776866003thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A hidden fleet of ageing tankers is quietly moving sanctioned oil across the world’s oceans.",
-        "link": "https://www.newsofbahrain.com/world/131251.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://img.youtube.com/vi/mTaQgpARhiM/hqdefault.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain eyes stronger economic cooperation with France",
-        "link": "https://www.newsofbahrain.com/business/131208.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OaCPcgouIM_2026-04-22_1776856876thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BENEFIT Introduces Advanced Payment Solution to Strengthen Fintech Ecosystem",
-        "link": "https://www.newsofbahrain.com/business/131207.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oZQmeIcvpn_2026-04-22_1776856720thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "TRACCS Bahrain and Conserving Bounties Society Partner",
-        "link": "https://www.newsofbahrain.com/business/131206.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2L1XdJM7zT_2026-04-22_1776856613thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tough Times in the Two Straits",
-        "link": "https://www.newsofbahrain.com/views/131221.html",
-        "published": "22 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-22T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IhWaKjSHJL_2026-04-22_1776859903thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -479,5 +348,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-24 08:43:29 UTC"
+  "fetched_at": "2026-04-24 09:35:29 UTC"
 }
