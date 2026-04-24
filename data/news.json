@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,16 +16,26 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 15
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQY05GZkh6OThoX2RTaTBITml2U1NxRHZpeTlweHZ5TVFCaWxiU1p3S2FUTGRTNDZscFRXMHU0WU9oQ2xRMW12TjhhQjI4LU9tUHh0WUoyckdhZ1hIOG5Fclh2WG0ybmJSTG03MGpvN2tMRTNjOTRBOFE0eGFyLU5FRE9jNFZudUUxWFptQ2traFpXUE1RQ1AwT0xYRllDRjBlclNPNEN4U2hSbnZXNGtMZUY5dXRxeXFoSkNYRmJuYkdOQTVPdzQ2NWlGY0pldmV3NUZYZUx4TVZ5WDdab0FMdHhyN09EU3F1VWJsMjVxV1lhemJ6VUEzRWtLSl9NRjVNOTE0Z2dCeGlOQ2hHcEZ2N2pHanZwR20tSkRmY3pyVVpycDdqcWhYZ3NTMHJGMWFONHlGS1Y4RzBTc2dtcm5nNS1fNG9FTGd6T1FhUnloMGtfallQLWRZczFyc2VSTzNlSExaWmV2cDduU3NYeC04Q2lZNUlUYUZON3RWQVZCcng5eEZKWmo5MG9DcHVrZw?oc=5",
-        "published": "24 Apr 2026, 03:12 PM",
-        "iso_date": "2026-04-24T15:12:56+00:00",
+        "title": "The Iran War Is a Stress Test for Gulf States",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDBLOEFRV2JyQXJHclhCN0dUUUJQY0pHV1VDd2lseExiQVFhekplMjVpZ3k1Y0xNOUxCbjkzd1JKVmpkaTQ1ZFRCSmdWcHdyRUhFUF96NEhTSnlUTVZJdWpEVFlYdExaVWV5dVA5dk13LTdETlhTMnVVcDlxbFlFYzlZVkdNdw?oc=5",
+        "published": "23 Apr 2026, 09:42 PM",
+        "iso_date": "2026-04-23T21:42:37+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
+        "published": "24 Apr 2026, 02:09 AM",
+        "iso_date": "2026-04-24T02:09:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,6 +56,16 @@
         "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPWXAtZUk3ODJOV2tiLUJHUkdqNmNzbkY1RDdxcVd4NFpvbGVlXzl5eTJsSjBfYktucHlyME1ITjlGam9WUG55cXkzQ0dZMUNzeXNxX3FFR0RQemhleHVnRFJvLVp4SG5IRi1oeVFNbWRLel9TREpRaTZ2X1ZTZ240QWtuMXFNR0hGWW1lcjhFdnpsZGFuaGpKT2pnSVFrdWxKWlQxeXg5a1lNbnRKWjU0bm9DM0lNZldCQm9RRE5EYTlTU2RjSGk1Umg3SlYzb1JYZXRiVXlyVUlPd2tEdGNTZ1pFT1JjNEFiRjFkM1dQVjJQUVkyUXBpNUJNZDhGZzdLajhHUWFLN3ExQnpnWjZGLTBZRy1xRWZjQmt5QVZ3Ti1hSzdiSmk0YjVlU2E2R2JmN0RQemFFV2pFZWd5c1RZT1hGSDdlZVJQSGJSVzdkRlhIS3d6dUJtR1QxazhaTko3bmt0RGJiaFVwVHZyVm44SnBxQnhGQ2NXQ0MzV3Rtc1paT0dVNkNQajVGSG9yVkFqb0lpNzYtUlZGVnRMbnE0Q2JBcjQxRkM0Tkk4WGZFbjBCTERDMmhmTlo4N0RzN0RhbnNGQmdYa1huNHBhRElGSlBlR0lidVd2Vm16eTBrSkx4NE1oVDdJSlBB?oc=5",
         "published": "23 Apr 2026, 10:40 PM",
         "iso_date": "2026-04-23T22:40:12+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeko2OE1VNjU2SGVEdnpBeVVYVVc3SC1qTUlJVk95TWZUanM4M1ZJTlJIYzNLVkxrNlVwcFlBdGFCcUg0Wm9OSzRqWlI2bjgyTHlQYngya0dmN1BqZHhSN0ZVREVadlhCS21TMWRsZWk1c2dHVWlqaEl2dGQwLWpPclZNb1V0MnVfc0d0YnpGd0dISXhIR1FrVWtEZkZ4SlNDemVpaFpncTU0UUUzYXI5c3FmRjl2djdkQTNrLTJ5SkNYdThRaFNEWmM4VkFOT1BRa3Axd2YwVTdnU3FTNHN4VzdFcjBoSS1pejZlekZKaGkzOElmUnZXWlVzczJrUXVtcHNsWU9yWmcxdks4Z1hvVVN2UnFyYWk0V1NTc2szMUdtbzIyS2VGZjJtTFJFckxjVGlrYjlmWWgwQ3RzUkdhRjJZZWNIVnJJUnFBVV8zNGR5Wll6TE90NEltNEsxNWpxSVAyYVVxcWMwUDVDNmNjMldtRGJvbWV0NDhyM0JlX3J1OUtlbXltOXp2OWowQQ?oc=5",
+        "published": "23 Apr 2026, 11:53 PM",
+        "iso_date": "2026-04-23T23:53:11+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,6 +246,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "US Sends Witkoff, Kushner to Pakistan for Iran Talks",
+        "link": "https://www.newsofbahrain.com/world/131302.html",
+        "published": "24 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-24T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qt9LEfhp32_2026-04-24_1777055936resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Riffa, Muharraq Chase Jackpot in King's Cup Final",
         "link": "https://www.newsofbahrain.com/sports/131301.html",
         "published": "24 Apr 2026, 09:22 AM",
@@ -238,8 +268,8 @@
       {
         "title": "Bahrain secure back-toback wins at Beach Games",
         "link": "https://www.newsofbahrain.com/sports/131300.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
+        "published": "24 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-24T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_fvQOyAWEr7_2026-04-24_1777043067resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,20 +288,10 @@
       {
         "title": "Real Madrid suffer double injury blow",
         "link": "https://www.newsofbahrain.com/sports/131298.html",
-        "published": "24 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nldVbHN9JB_2026-04-24_1777042536resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "AI table tennis robot can beat 'elite' players, Sony says",
-        "link": "https://www.newsofbahrain.com/sports/131297.html",
         "published": "24 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eKXfiRjpCw_2026-04-24_1777042258resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nldVbHN9JB_2026-04-24_1777042536resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -342,16 +362,6 @@
         "iso_date": "2026-04-24T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_JZmnzEVdrf_2026-04-24_1777039548thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi Arabia and Japan Review Maritime Safety",
-        "link": "https://www.newsofbahrain.com/world/131288.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w13CzarUFs_2026-04-24_1777039412thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-24 18:16:16 UTC"
+  "fetched_at": "2026-04-24 18:47:23 UTC"
 }
