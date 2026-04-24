@@ -4,23 +4,33 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 16
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 12
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "The Iran War Is a Stress Test for Gulf States",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDBLOEFRV2JyQXJHclhCN0dUUUJQY0pHV1VDd2lseExiQVFhekplMjVpZ3k1Y0xNOUxCbjkzd1JKVmpkaTQ1ZFRCSmdWcHdyRUhFUF96NEhTSnlUTVZJdWpEVFlYdExaVWV5dVA5dk13LTdETlhTMnVVcDlxbFlFYzlZVkdNdw?oc=5",
+        "published": "23 Apr 2026, 09:42 PM",
+        "iso_date": "2026-04-23T21:42:37+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
         "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
@@ -60,56 +70,96 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "Bahrain's Bapco Energies declares 'force majeure' after Iran attack",
+        "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxORkZabFF3SURRNFhMX2JmUFFxd0dTaUp0dHpkd19rTndCUUM1WXh6SXI2S2xZd2poVDEtbUR5amVvY2Rod1hUVENaaG5iT0tPWkxTd0dhSWdFUl9RdC1faHpaSDlLUlRsc1REQlhvY1hwVGtJVlFYTE5ZcUNFbmJwbUNUcVZrY1c2WWJGMzJzOGM4R2V5Y3ZCd2U2cm9UMWN3QXBHSkg4TFY2bkdVeElIRmtTc19yMHFVdlhhdFJwSlNOZHhfSFhXeTU0RG1qdUtfZW84TUwzZTNtVmtFbnh1VDVQYnJlNW1IdXpJTUgteVpabWNFa2RMc0RQN1VvWUQ1eFVELUtEWFEtVW1wZlBERlo0cEZnYW15d0pWbE5hRzJ1VVNENThQdi16bzVYZlpRaTRrMzVUN2t0ZFZkUmNnNTNPVVpZc1N3ckp0YnduTTIxLVJXODVLU3NKR0dHZXpBSkxHenItZXFvOVRTSVJZU1lHNHU2SUN2ZWhNRE4xdEEyOU1Tb3BzbGI2NA?oc=5",
+        "published": "23 Apr 2026, 12:07 PM",
+        "iso_date": "2026-04-23T12:07:02+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
       {
-        "title": "Open channels âpose danger to drivers at night in Hamalaâ",
-        "link": "https://www.gdnonline.com/Details/1392373/Open-channels-âpose-danger-to-drivers-at-night-in-Hamalaâ-",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
+        "title": "A commitment to ramp up investment",
+        "link": "https://www.gdnonline.com/Details/1392554/A-commitment-to-ramp-up-investment",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260422_225718_1_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424014542hrh_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "A visual memoir of times gone by",
-        "link": "https://www.gdnonline.com/Details/1392353/A-visual-memoir-of-times-gone-by",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
+        "title": "Security ties in spotlight",
+        "link": "https://www.gdnonline.com/Details/1392541/Security-ties-in-spotlight",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422174403websize(3)_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424011749securityties_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Drunk driver on trial over fatal highway crash",
-        "link": "https://www.gdnonline.com/Details/1392375/Drunk-driver-on-trial-over-fatal-highway-crash",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
+        "title": "Crucial talks on framework to regulate legal profession",
+        "link": "https://www.gdnonline.com/Details/1392523/Crucial-talks-on-framework-to-regulate-legal-profession",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260422/20260422232014court1_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260423_230653_1_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Conference focus on AIâs critical role in healthcare",
-        "link": "https://www.gdnonline.com/Details/1392376/Conference-focus-on-AIâs-critical-role-in-healthcare",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
+        "title": "US relations discussed",
+        "link": "https://www.gdnonline.com/Details/1392540/US-relations-discussed",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260422_225721_0.png?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424_010638_0.jpeg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Filipino expats hone their fashion designing skills",
-        "link": "https://www.gdnonline.com/Details/1392385/Filipino-expats-hone-their-fashion-designing-skills",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
+        "title": "Private sector pension commutation loan call",
+        "link": "https://www.gdnonline.com/Details/1392525/Private-sector-pension-commutation-loan-call",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423041152filipino_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424000018websitesize(11)_T.jpg?20260424",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Salam Bank completes 15,000 instalment deferrals",
+        "link": "https://www.gdnonline.com/Details/1392531/Al-Salam-Bank-completes-15,000-instalment-deferrals",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260423_230822_0_T.jpg?20260424",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "British Club launches corporate membership",
+        "link": "https://www.gdnonline.com/Details/1392533/British-Club-launches-corporate-membership",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424003841thebritishclub_T.jpg?20260424",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "UoB student emerges GSEA Bahrain winner",
+        "link": "https://www.gdnonline.com/Details/1392532/UoB-student-emerges-GSEA-Bahrain-winner",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424003539participants_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,7 +169,7 @@
         "published": "23 Apr 2026",
         "iso_date": "2026-04-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423005735images(1)_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423005735images(1)_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,149 +179,119 @@
         "published": "23 Apr 2026",
         "iso_date": "2026-04-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423005443balll_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423005443balll_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "NBB signs agreement to boost support for SMEs",
-        "link": "https://www.gdnonline.com/Details/1392396/NBB-signs-agreement-to-boost-support-for-SMEs",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
+        "title": "Carrick keen to balance short-term success with building for the future",
+        "link": "https://www.gdnonline.com/Details/1392584/Carrick-keen-to-balance-short-term-success-with-building-for-the-future",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423_003244_0_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424103352carrrick1_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrain giants set for Kingâs Cup showdown",
-        "link": "https://www.gdnonline.com/Details/1392412/Bahrain-giants-set-for-Kingâs-Cup-showdown",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
+        "title": "Human rights groups issue US travel advisory ahead of World Cup",
+        "link": "https://www.gdnonline.com/Details/1392577/Human-rights-groups-issue-US-travel-advisory-ahead-of-World-Cup",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423_020158_0_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424083737human1_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bayern beat Leverkusen 2-0 to reach first German Cup final in six years",
-        "link": "https://www.gdnonline.com/Details/1392459/Bayern-beat-Leverkusen-2-0-to-reach-first-German-Cup-final-in-six-years",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
+        "title": "Injury clouds clearing for New Zealand ahead of World Cup",
+        "link": "https://www.gdnonline.com/Details/1392585/Injury-clouds-clearing-for-New-Zealand-ahead-of-World-Cup",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423122558bmn_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424102751nz1(1)_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Spain star Lamine Yamal's World Cup status unclear after injury with Barcelona",
-        "link": "https://www.gdnonline.com/Details/1392438/Spain-star-Lamine-Yamals-World-Cup-status-unclear-after-injury-with-Barcelona",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
+        "title": "US says it does not object to Iran playing in World Cup but people with ties to IRGC won't be allowed",
+        "link": "https://www.gdnonline.com/Details/1392576/US-says-it-does-not-object-to-Iran-playing-in-World-Cup-but-people-with-ties-to-IRGC-wont-be-allowed",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423112121lamal_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424091412trump12(2)_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Trump envoy seeks to replace Iran with Italy in upcoming World Cup: FT reports",
-        "link": "https://www.gdnonline.com/Details/1392405/Trump-envoy-seeks-to-replace-Iran-with-Italy-in-upcoming-World-Cup-FT-reports",
-        "published": "23 Apr 2026",
-        "iso_date": "2026-04-23T00:00:00",
+        "title": "German Cup: Holders Stuttgart reach Final with dramatic extra time win over Freiburg",
+        "link": "https://www.gdnonline.com/Details/1392578/German-Cup-Holders-Stuttgart-reach-Final-with-dramatic-extra-time-win-over-Freiburg",
+        "published": "24 Apr 2026",
+        "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423010542fifa_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424082914sttutgart_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Yamal scores as Barcelona edge Celta",
-        "link": "https://www.gdnonline.com/Details/1392416/Yamal-scores-as-Barcelona-edge-Celta",
+        "title": "Meryl Streep, Anne Hathaway and Emily Blunt reunite for Devil Wears Prada 2",
+        "link": "https://www.gdnonline.com/Details/1392476/Meryl-Streep,-Anne-Hathaway-and-Emily-Blunt-reunite-for-Devil-Wears-Prada-2",
         "published": "23 Apr 2026",
         "iso_date": "2026-04-23T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423025127footy_T.jpg?20260423",
+        "image": "https://www.gdnonline.com/gdnimages/20260423/20260423131823websitesize_T.jpg?20260424",
         "source": "gdn",
         "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "‘Vaccines Work for All Generations’",
-        "link": "https://www.newsofbahrain.com/bahrain/131266.html",
+        "title": "3,000 Students Sit for First Step Toward International Baccalaureate",
+        "link": "https://www.newsofbahrain.com/bahrain/131272.html",
         "published": "24 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dGqKETaBXL_2026-04-24_1777011097resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_OZ3yGiHbCW_2026-04-24_1777019242resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Vision for Financial Services Expansion",
-        "link": "https://www.newsofbahrain.com/bahrain/131265.html",
+        "title": "First Global Engineering Forum Opens",
+        "link": "https://www.newsofbahrain.com/bahrain/131271.html",
         "published": "24 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eyoh2pSiwN_2026-04-24_1777008399resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aEvLU7thp0_2026-04-24_1777019040resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Asian Beach Games Officially Open in Sanya with Colourful Ceremony",
-        "link": "https://www.newsofbahrain.com/sports/131262.html",
-        "published": "23 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-23T09:00:43+00:00",
+        "title": "NHRA Launches Faster Digital Registration Service",
+        "link": "https://www.newsofbahrain.com/bahrain/131270.html",
+        "published": "24 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-24T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v9TgStc2GU_2026-04-23_1776926234resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_D7AIHgoyJp_2026-04-24_1777018568resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "BOC Conducts Field Visits to Boost Federation Development",
-        "link": "https://www.newsofbahrain.com/sports/131260.html",
-        "published": "22 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-22T09:00:43+00:00",
+        "title": "Workforce Stability Plan",
+        "link": "https://www.newsofbahrain.com/bahrain/131269.html",
+        "published": "24 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-24T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cpbUWaTSyj_2026-04-22_1776866664resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N1KU6b8aHY_2026-04-24_1777018333resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Guardiola hints that Rodri will make swift Man City return",
-        "link": "https://www.newsofbahrain.com/sports/131259.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
+        "title": "Resume Normal Work Sunday",
+        "link": "https://www.newsofbahrain.com/bahrain/131268.html",
+        "published": "24 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SEJ4cipOVa_2026-04-22_1776866342resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Diplomacy Only Path to End Regional Crises",
-        "link": "https://www.newsofbahrain.com/bahrain/131212.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EiHlX1LBPI_2026-04-22_1776858037thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Priority Hiring for Crisis Volunteers",
-        "link": "https://www.newsofbahrain.com/bahrain/131204.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4ouVdMqO10_2026-04-22_1776847424thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Electricity Subsidy for Sports Clubs",
-        "link": "https://www.newsofbahrain.com/bahrain/131203.html",
-        "published": "22 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-22T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q63oqMYI7N_2026-04-22_1776846911thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z1AXriCsp4_2026-04-24_1777017642resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-24 07:37:42 UTC"
+  "fetched_at": "2026-04-24 08:43:29 UTC"
 }
