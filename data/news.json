@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,10 +22,10 @@
   "articles": {
     "bna": [
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS1VBcEUtWENHU2tqb3hnTGNFX1g4MkVsbk5WMFdtU2FSVHN1Vkhldk43WDkxd0FJcWpfT2MwdkNmODdnRm56Y3RvSzNmQUg0Nm9Hb2FKQnpzRmV5VnNiYXRRVV9PRzRweUtWODQ3bEgtUWNUNkRuejg5WWtNVTY0Xy1QR3R5SE5nT2U1OFVIX204ZWF6Y0pjYTZOb3pRVnU1bUJuaU16YlBlMGkwX012UTJmVWktckhOcWtpQWJZS1lCNkR2RG5lWjd6R3NjcW1VOXdpdERPY3o1cEV2S05uemhWTExEWkNsWlFuSnBjeXo2UHBUY1lVT2NqZ0ptU0NnOGtSdjF1LWdJWlJ6VnRSZy1QT0dSRkxQc0NYOGtvVjhVU3NyOXk0blZlNlo2dGk0bTNJcVIzOVRNYlhDZHBwZ3ZieVRxX1ROZXVfVXcyTFA3Xy00ckcwTl9GYzRSN09sdTVuNWt4X0JZbmZxOTg3M0VLNXM2bUxyYVNHX3FudzZDNklZblRNWEhZWlI2MnBLN2MyRlpGa2E?oc=5",
-        "published": "24 Apr 2026, 02:09 AM",
-        "iso_date": "2026-04-24T02:09:19+00:00",
+        "title": "Anti-Cybercrime Directorate arrests individual for filming and publishing videos related to Iranian aggression in violation of law",
+        "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPenFzdlN5d1AwSzAzRHM1RjY3MVVOck5lV0pQTW15b0NiZG9zMXBHM1NqbFozZDFaQ3pWM1pta293Q1JxbVFDb0xWel9RVzZMUmY4U2oyUWY5a2ZJbXA1RnFMazA5SjRYNGpXNFgtU283YlN1S2lFdEI4RHliWFE1Sm1uWEc4UjdXTTAxME1RRS1KblpiUW1IVDJEQkk1QWY1aWU4ZzRfU1lYeFNWUGVDcHVuczk1dFpWeFgxQ2ZuQ193dGxVUTVSNE9aM3NvTmpPTC1kV1dLNWhXTlg1eFppUXlSWGpmRkloQ3lNMW8tWlFaS3NsbTFnRWJjUE4yRW1YZmU4TTd3RjZaYkdJTmtXRlVCajd3QmFnRFh0dk1qdjhyQmQyczdTQzVWaElqZUhMa3VFbEl1aXZzSXpEcm56NkdBV2UxOUdxc1RJbkhBOXRBbWVITFZVamt4clp3enBObDlGTURTZDAzMkswTTBRU2RCaDJKXy1BNkNJOENhbXR4NG1nQUxFdkRIVURxQl9fM255TFVmZjcxM2FuX0VoVEpMTjRYVTYzYWhTbWdSUk1oVjNPcW12dm1tMFgtbzZmZEhZUDhHTklYRmM3VDZJU3dOdTB5Uko5eXhOaEZuX05xRmwzcG1yUTF2N2FGREpzUHpJVk5mZFd0ZkM1RXBXWlduYU43UURDcWNudDYyeUxwd0ltMV9USEdLYmMyc29mbkFZOElMU0tMYjhNSVN0Smx5c0tiYk8xZHhiUTVn?oc=5",
+        "published": "24 Apr 2026, 02:10 PM",
+        "iso_date": "2026-04-24T14:10:21+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -33,29 +33,9 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQY05GZkh6OThoX2RTaTBITml2U1NxRHZpeTlweHZ5TVFCaWxiU1p3S2FUTGRTNDZscFRXMHU0WU9oQ2xRMW12TjhhQjI4LU9tUHh0WUoyckdhZ1hIOG5Fclh2WG0ybmJSTG03MGpvN2tMRTNjOTRBOFE0eGFyLU5FRE9jNFZudUUxWFptQ2traFpXUE1RQ1AwT0xYRllDRjBlclNPNEN4U2hSbnZXNGtMZUY5dXRxeXFoSkNYRmJuYkdOQTVPdzQ2NWlGY0pldmV3NUZYZUx4TVZ5WDdab0FMdHhyN09EU3F1VWJsMjVxV1lhemJ6VUEzRWtLSl9NRjVNOTE0Z2dCeGlOQ2hHcEZ2N2pHanZwR20tSkRmY3pyVVpycDdqcWhYZ3NTMHJGMWFONHlGS1Y4RzBTc2dtcm5nNS1fNG9FTGd6T1FhUnloMGtfallQLWRZczFyc2VSTzNlSExaWmV2cDduU3NYeC04Q2lZNUlUYUZON3RWQVZCcng5eEZKWmo5MG9DcHVrZw?oc=5",
-        "published": "24 Apr 2026, 03:12 PM",
-        "iso_date": "2026-04-24T15:12:56+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQUHdwbFlVNzZxb2FzNHdERzBvU2tTVzJaMTR6ZEI5RXVvTk1jTlR0STJqNjZLbHlkMXlvcllrbjhZTGd5bnI2V3ppUWw1UVNNd1l4NE80WWkxdjN6amFCV295Z1lOcURRdlZ2R3VFd1dId2R4MVltNEhFamlEOWFpSDBrTDBxb0lUVHpjUV9KeXQtazVZdnNfVkstMXh5cHY2dzZwcDFWc0diaWFfVVJKcGFweXV5ZjFDVlk1UFN2N0ZkdVBVWll5TzNKakZvTGl4MThHUnNGamNrNUJiZE5lVm5rWUMzdEc0djhZUmdJS3hYVloxcmcyRlJ6ZTZtY2hMbHRxLUNRMWhvcXVpVWM0QzJVcVFvUEpSdHZwdGRCWVZIU0FnOEtaUkFCU1A4bWthbS1HQm9MdjJWQ0FSblJCczVIWXBJNFZVUFh2WWh1QklnRndodTVoWHlLWWp4SkZmYjUwS0ZMTWpKU3FLN1RibVlfQnpFdE5pTW1valdyUXNhZVhXR011S2Q3Z3h0MUw2TTMtZFplMW9JT21qQ3dkQUhKWUV5NnlIRUpZdFM4YWMzUlFobTl2VS0zS3cwVEl0M09LTFZhalNETGZQQndwNmh2ZUdHT3dLWkI3OXYxT1ptQ2NGUXYtMTFUM1gwVEdjdVN3aDJCUjJyX3JLSWhobjhEUjh0Zw?oc=5",
-        "published": "23 Apr 2026, 10:32 PM",
-        "iso_date": "2026-04-23T22:32:38+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPWXAtZUk3ODJOV2tiLUJHUkdqNmNzbkY1RDdxcVd4NFpvbGVlXzl5eTJsSjBfYktucHlyME1ITjlGam9WUG55cXkzQ0dZMUNzeXNxX3FFR0RQemhleHVnRFJvLVp4SG5IRi1oeVFNbWRLel9TREpRaTZ2X1ZTZ240QWtuMXFNR0hGWW1lcjhFdnpsZGFuaGpKT2pnSVFrdWxKWlQxeXg5a1lNbnRKWjU0bm9DM0lNZldCQm9RRE5EYTlTU2RjSGk1Umg3SlYzb1JYZXRiVXlyVUlPd2tEdGNTZ1pFT1JjNEFiRjFkM1dQVjJQUVkyUXBpNUJNZDhGZzdLajhHUWFLN3ExQnpnWjZGLTBZRy1xRWZjQmt5QVZ3Ti1hSzdiSmk0YjVlU2E2R2JmN0RQemFFV2pFZWd5c1RZT1hGSDdlZVJQSGJSVzdkRlhIS3d6dUJtR1QxazhaTko3bmt0RGJiaFVwVHZyVm44SnBxQnhGQ2NXQ0MzV3Rtc1paT0dVNkNQajVGSG9yVkFqb0lpNzYtUlZGVnRMbnE0Q2JBcjQxRkM0Tkk4WGZFbjBCTERDMmhmTlo4N0RzN0RhbnNGQmdYa1huNHBhRElGSlBlR0lidVd2Vm16eTBrSkx4NE1oVDdJSlBB?oc=5",
-        "published": "23 Apr 2026, 10:40 PM",
-        "iso_date": "2026-04-23T22:40:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeko2OE1VNjU2SGVEdnpBeVVYVVc3SC1qTUlJVk95TWZUanM4M1ZJTlJIYzNLVkxrNlVwcFlBdGFCcUg0Wm9OSzRqWlI2bjgyTHlQYngya0dmN1BqZHhSN0ZVREVadlhCS21TMWRsZWk1c2dHVWlqaEl2dGQwLWpPclZNb1V0MnVfc0d0YnpGd0dISXhIR1FrVWtEZkZ4SlNDemVpaFpncTU0UUUzYXI5c3FmRjl2djdkQTNrLTJ5SkNYdThRaFNEWmM4VkFOT1BRa3Axd2YwVTdnU3FTNHN4VzdFcjBoSS1pejZlekZKaGkzOElmUnZXWlVzczJrUXVtcHNsWU9yWmcxdks4Z1hvVVN2UnFyYWk0V1NTc2szMUdtbzIyS2VGZjJtTFJFckxjVGlrYjlmWWgwQ3RzUkdhRjJZZWNIVnJJUnFBVV8zNGR5Wll6TE90NEltNEsxNWpxSVAyYVVxcWMwUDVDNmNjMldtRGJvbWV0NDhyM0JlX3J1OUtlbXltOXp2OWowQQ?oc=5",
+        "published": "23 Apr 2026, 11:53 PM",
+        "iso_date": "2026-04-23T23:53:11+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -63,9 +43,9 @@
       },
       {
         "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOam13Y0xzbHpwZzlxVHJqTWFqdVVHcEtXRW9aOE9TYTVScVRyYkxMQnhBVzRITjFGZ2FPMHlYQmVBczFZWEEzelVWZGNUSVc3bmZHeWNwQU9hZ3Q5N3JCdmlTOWhJOVFzVzQtNVhpRXRjNll3ZWk1U2JmMkFxTWhKTFcwV1V5LUNsTVJ4VWNheVoyTy1USHAwdDdDSmhzMGlLTEc2VXQwWF9Qcmh4ZHBZZWdxYndvZGJfUWVJOHdIYUNwV0hFd3RIY1VVdjdqT21rcVVZSWZyeW5CaTRwQjR0YVJPWTdoTU5Faktuc1hjeENTdGljb3NoTEsyTzBUbHo5bnhSZGVPQmtiWEczZk1fdDYxMVpxYzdtaFhuLUREazNrdkNnRW1taEhxb3g3RnZaX0dHY3JHT0pBejl1MHJXT0lQazNUeXNsVUItRUR5RlJ5NFV3WklsSV9tcHFQMnBJV3k2Tl9CcEVacG1LUTgyb044bVhkamk2YjhTSkZtYXozdC0teE1fN01jT0dxb25CaDMxRHl6RFFCNEkwXzVMdWkzLTdSa0RMS2Jn?oc=5",
-        "published": "23 Apr 2026, 10:35 PM",
-        "iso_date": "2026-04-23T22:35:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQM1JGNHExNThiMnBBZVY1QW14dVFGS2UxUG0ySG4xX0JsLTVFSTZiclRBMmtLU3BXdF9IcDI3bDFYeFVaYXkwVUJFTm9tY084RWN0QWF4ejJHUmZyYmpEVWE4TmZxdDRDT0ktV05NT0hlbkw1dTdWODhKcDljMUxjTUFRRFdaRDRLbEVQbjYxd3VKRGc0OGp1TWJ3X2g5Z2pFdVNlMmJyN0E4QWpBRU11c1NxYUVHZmstU2tabmx3RE92OGRxSUJYN3Bldm1od0dEQzhqZGc1TnJfNW9DMFVLQVFVZENIRWRjZ1ZiV21jSVFXZGt1QlBvU3BQV0tWc19oRDNCdlZ3QkFYa0FhUmdzaXhxQnI0dGh3cWV5WnFWd1FyTzctcHp4d1JxTUxoMEZfQWFzbkQ0WU5YYkt4b3FfWFZYYUFNNGE3TWhlMzdRdWdOUTZXSThVWERLMnBEbjFXTEZRN2ZJcGNKRjhicGdKZzRxdlItS092dnlxckc5bFAzMXNITGtIMkNnaWV3X000eWxnTVhEYVo2RGc?oc=5",
+        "published": "23 Apr 2026, 11:03 PM",
+        "iso_date": "2026-04-23T23:03:13+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -74,52 +54,52 @@
     ],
     "gdn": [
       {
-        "title": "10-year-old pens oceanic adventures in new book",
-        "link": "https://www.gdnonline.com/Details/1392634/10-year-old-pens-oceanic-adventures-in-new-book",
-        "published": "25 Apr 2026",
-        "iso_date": "2026-04-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424233811websitesize(5)_T.jpg?20260425",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrainâs solar power soars to new heights",
-        "link": "https://www.gdnonline.com/Details/1392643/Bahrainâs-solar-power-soars-to-new-heights",
-        "published": "25 Apr 2026",
-        "iso_date": "2026-04-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424235606websitesize(4)_T.jpg?20260425",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BDF: All services, units are at highest levels of readiness, full defensive preparedness",
-        "link": "https://www.gdnonline.com/Details/1392612/BDF-All-services,-units-are-at-highest-levels-of-readiness,-full-defensive-preparedness",
-        "published": "24 Apr 2026",
-        "iso_date": "2026-04-24T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424154300bdf12(2)_T.jpg?20260425",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bill to merge subsidies and allowances set for debate",
-        "link": "https://www.gdnonline.com/Details/1392627/Bill-to-merge-subsidies-and-allowances-set-for-debate",
-        "published": "25 Apr 2026",
-        "iso_date": "2026-04-25T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260425/20260424_225420_2_T.jpg?20260425",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "BKS launches cultural festival to celebrate childrenâs artistic talent",
         "link": "https://www.gdnonline.com/Details/1392630/BKS-launches-cultural-festival-to-celebrate-childrenâs-artistic-talent",
         "published": "25 Apr 2026",
         "iso_date": "2026-04-25T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260425/20260424_225423_0.jpeg?20260425",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Janitor on trial over online banking fraud",
+        "link": "https://www.gdnonline.com/Details/1392631/Janitor-on-trial-over-online-banking-fraud",
+        "published": "25 Apr 2026",
+        "iso_date": "2026-04-25T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424233944websitesize(6)_T.jpg?20260425",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Convict appeals prison term in assault and robbery case",
+        "link": "https://www.gdnonline.com/Details/1392632/Convict-appeals-prison-term-in-assault-and-robbery-case",
+        "published": "25 Apr 2026",
+        "iso_date": "2026-04-25T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260425/20260424_225433_1_T.jpg?20260425",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Faith Triangle âhighlights Bahrainâs legacy of coexistenceâ",
+        "link": "https://www.gdnonline.com/Details/1392633/Faith-Triangle-âhighlights-Bahrainâs-legacy-of-coexistenceâ",
+        "published": "25 Apr 2026",
+        "iso_date": "2026-04-25T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425005817faithtriangle_T.jpg?20260425",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Parliament to vote on vital changes to companies law",
+        "link": "https://www.gdnonline.com/Details/1392621/Parliament-to-vote-on-vital-changes-to-companies-law",
+        "published": "25 Apr 2026",
+        "iso_date": "2026-04-25T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425005624mralsalloom_T.jpg?20260425",
         "source": "gdn",
         "category": "Latest"
       },
@@ -499,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-24 22:16:20 UTC"
+  "fetched_at": "2026-04-24 22:45:37 UTC"
 }
