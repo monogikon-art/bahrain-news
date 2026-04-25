@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 1
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,16 +26,6 @@
         "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPenFzdlN5d1AwSzAzRHM1RjY3MVVOck5lV0pQTW15b0NiZG9zMXBHM1NqbFozZDFaQ3pWM1pta293Q1JxbVFDb0xWel9RVzZMUmY4U2oyUWY5a2ZJbXA1RnFMazA5SjRYNGpXNFgtU283YlN1S2lFdEI4RHliWFE1Sm1uWEc4UjdXTTAxME1RRS1KblpiUW1IVDJEQkk1QWY1aWU4ZzRfU1lYeFNWUGVDcHVuczk1dFpWeFgxQ2ZuQ193dGxVUTVSNE9aM3NvTmpPTC1kV1dLNWhXTlg1eFppUXlSWGpmRkloQ3lNMW8tWlFaS3NsbTFnRWJjUE4yRW1YZmU4TTd3RjZaYkdJTmtXRlVCajd3QmFnRFh0dk1qdjhyQmQyczdTQzVWaElqZUhMa3VFbEl1aXZzSXpEcm56NkdBV2UxOUdxc1RJbkhBOXRBbWVITFZVamt4clp3enBObDlGTURTZDAzMkswTTBRU2RCaDJKXy1BNkNJOENhbXR4NG1nQUxFdkRIVURxQl9fM255TFVmZjcxM2FuX0VoVEpMTjRYVTYzYWhTbWdSUk1oVjNPcW12dm1tMFgtbzZmZEhZUDhHTklYRmM3VDZJU3dOdTB5Uko5eXhOaEZuX05xRmwzcG1yUTF2N2FGREpzUHpJVk5mZFd0ZkM1RXBXWlduYU43UURDcWNudDYyeUxwd0ltMV9USEdLYmMyc29mbkFZOElMU0tMYjhNSVN0Smx5c0tiYk8xZHhiUTVn?oc=5",
         "published": "24 Apr 2026, 02:10 PM",
         "iso_date": "2026-04-24T14:10:21+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZmJnc05ETVlMSkxFcmFDRWdqZGE4Q05yRkZDanVJT2tUc0dDa192TFlvcGUtRlBTVWlQZnBVR3k5aDdfdHBxOUQ2czJIcnY3djdrdl9sZGRyTzRCRFpvdGNfZFZYVlJNdkhrZ0N1dWZuTVlqNWFOTWFOdE9hbHRKVUllQUVOa0ViQk1vVlhnN0c2U1MzNGZ3Vk1pRXhXYWRZbXoybVJwWjlId08yNEVjUFhJdGhYYld0Q0lldm5Namp3cTBuTE9kUG9Xa3dtM1VINmxFZWt6X3lnQ29JTlItV3F0akFVZGVKdWVUNzNRYjFKYmZTQjhwUFh6WmJBR3oxbGJFak1pNFVBVjVVQS1tZ1V0bU9rYUhCbENSYUgycEEzVUhlN2w0a3pGVEdNdk1McnJDMTQ1NUFBLU96R0F5WXA2SlFHWVg0RmROclp6TktveEd6bDdrZmg0UnJLellHUWdmSDNoZVpjRVBlNW1rWndPc3o5V2hoR3ZrdmxmM3h3WXZBUWVZb3V2TjhXZw?oc=5",
-        "published": "24 Apr 2026, 03:06 AM",
-        "iso_date": "2026-04-24T03:06:53+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -439,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-25 01:35:12 UTC"
+  "fetched_at": "2026-04-25 03:04:48 UTC"
 }
