@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 13
     }
   },
   "articles": {
@@ -46,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNLWt5UlhYSy12cW1TUC1DRzhLUFh0Z1NvNmpUX0x2dElld2pLMkZsbE5QWG5Jby1OTC1MN3JzdGxzUzJmVXVuUzdoRWRXdUd6el9NdkhDX0l6dWp1cWtZa1V5czdEYXFiblU5ZWxTVGd3RkdlTzhFbEFiLXI3RlVFb0V2TUdzd2MtdkdOdC1WV2JEWUlNeEhDZXpra29ITWFXOVF3VThnaWJGYUZXNTQ4VzFyaHdJSEVtR2NQOUxFSkpGc3NoM29aaUZmRm5qeGpLTkdxSFp6WlA1MWxPVlNuMi0yVU1xRUc5amFUX1dxanNVdlg3RHFUeENvRTRkNFRxcHQ3OHVadkg4aDEweDJ6eWdyXzRtT0xxMFJSaVB4NzVmdFVZcEhQX0sxc1htZ1FZcGdFWGZJSUNhQkdoTXNENHMySTBxa1pMd2E1dGxYS29yVTRrZ1lKdkx4U3NSWDR4LXI1U2JhZ1JZZmtGMk40dVpXMHY4Q0sxWHNjYVFadTQ1TzFGSDFLWmR4NDFMYkw3STUtVGVQWTZoYlVfTlFQNmlDVHAtSnlPaDdFN0JzbHY3WE4yRGY4eEEzZzJ6b0Fab2VTLXF3bXFqQmx2QWRWb2Y1Q2V5TGdQQWRMRXptQVJHWTFtOVRJSTBwSFB3UDZnTlR2TmxiR21RWlNhS2Fjd2RETWpLUQ?oc=5",
         "published": "25 Apr 2026, 04:41 AM",
         "iso_date": "2026-04-25T04:41:57+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQajlOSm5fYlZkQ1BrNkNaQ051ZzlTRjdabmUxUkZaM29nLUl2cnpqS3dZdE9ZZUh4VDAwaWEzWXB3cEpMeExxY21sM1NVdldiSHNXdXFSX3FLaGwtclZNdS1VOHdUZGthQ2JRcFhqQUgtODlPekw3V2xLT2djcDhpRFRad2pmTVpjTlBuS0hocy1ndUFicTA5dDR1b2gyM2NGQXo5YjdxUjJBS2taQ2l0NDhIcDN3RVpJMGwtdElEVjFuVlZiWFFqZWJxX0d6bFdOMWUwMTdsTGNhV216YlJPQ213YWtZWUJrMWxwM1lmYWxJSmtna0JsbnE5cXZScjFzZmMwMEJFbkpMcGxfVzNuUVBrVDhzSVJlbnBWR1VUYkdvOEVzQVFTLVdlQnJ5blVFRDczaVhERUR1SXYwWEVkTk5yamp3UmRVaXdNM3F3VFpkem1xRXNXVjFNXzR5WTJRLWNEdUg0bkdXVnYwUThPdmEwTzlZWnFSWVBENHdkcXA5SXowa2c4U19scTN2TDU3TkJPck5OT3ZBaWdteHRSMmFpZEl5SXY3dUYtSmIxRzBoVEpIQTN3T2hwVjl2U2RCdjFKY2VGcXU?oc=5",
+        "published": "25 Apr 2026",
+        "iso_date": "2026-04-25T00:00:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,52 +206,72 @@
     ],
     "newsofbahrain": [
       {
-        "title": "UAE holds one of Gaza’s largest mass weddings for 300 couples",
-        "link": "https://www.newsofbahrain.com/world/131356.html",
+        "title": "Bahrain, Kuwait FMs Discuss Bilateral Ties and Regional Developments",
+        "link": "https://www.newsofbahrain.com/bahrain/131363.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eJayVoq4Db_2026-04-25_1777121841resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SI4g6MoVkw_2026-04-25_1777130125resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Chelsea’s Estevao out for season, World Cup in doubt",
-        "link": "https://www.newsofbahrain.com/sports/131355.html",
+        "title": "Kuwait FM, US Secretary of State Discuss Regional Developments",
+        "link": "https://www.newsofbahrain.com/world/131362.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gU9Od0EuzQ_2026-04-25_1777121451resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PhcMgeFAdz_2026-04-25_1777129534resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Start 3x3 Campaign in Sanya",
-        "link": "https://www.newsofbahrain.com/sports/131354.html",
+        "title": "Saudi Date Exports Hit SAR 1.9 Billion in 2025",
+        "link": "https://www.newsofbahrain.com/world/131361.html",
         "published": "25 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-25T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YDSWlpJBCT_2026-04-25_1777121069resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ng9MuB7Ps5_2026-04-25_1777129385resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "PSG’s Luis Enrique ‘couldn’t care less’ about World Cup",
-        "link": "https://www.newsofbahrain.com/sports/131353.html",
+        "title": "Kuwait Airways to Resume 35 Flights as Airspace Reopens",
+        "link": "https://www.newsofbahrain.com/world/131360.html",
         "published": "25 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-25T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ebOJYhouDv_2026-04-25_1777120730resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_41HLJYtXgV_2026-04-25_1777129277resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Barcelona must live without teen star Yamal for title run-in",
-        "link": "https://www.newsofbahrain.com/sports/131352.html",
+        "title": "Tabreed Bahrain Expands District Cooling Network in Manama",
+        "link": "https://www.newsofbahrain.com/bahrain/131359.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wrQRNY6cgO_2026-04-25_1777120576resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x7eiDz4Haf_2026-04-25_1777129008resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A’Ali Walkway Upgrade Moves Forward, Completion Expected This Year",
+        "link": "https://www.newsofbahrain.com/bahrain/131358.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f0wnerO6LV_2026-04-25_1777128743thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "School Referred for Investigation Over Non-Compliant Curriculum Content",
+        "link": "https://www.newsofbahrain.com/bahrain/131357.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i425wbgRpN_2026-04-25_1777128486thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -256,72 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "Muharraq Claims Record 20th King’s Cup",
-        "link": "https://www.newsofbahrain.com/bahrain/131329.html",
+        "title": "UAE holds one of Gaza’s largest mass weddings for 300 couples",
+        "link": "https://www.newsofbahrain.com/world/131356.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://img.youtube.com/vi/t728xgAxYlU/hqdefault.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Porsche exits sports car maker Bugatti Rimac",
-        "link": "https://www.newsofbahrain.com/bahrain/131325.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YXK8BPjLo7_2026-04-25_1777109592thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Transfer your finances to Al Salam Bank",
-        "link": "https://www.newsofbahrain.com/bahrain/131320.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jP1QhI9t2H_2026-04-25_1777107740thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, Egypt underline unity in facing regional challenges",
-        "link": "https://www.newsofbahrain.com/bahrain/131316.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4yN1bcEtsz_2026-04-25_1777106189thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Low Turnout, Limited Choices Mark Palestinian Municipal Elections After Gaza War",
-        "link": "https://www.newsofbahrain.com/world/131350.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_F4CtqXg1AZ_2026-04-25_1777119703thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kenya court overturns landmark abortion rights ruling",
-        "link": "https://www.newsofbahrain.com/world/131346.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wfTQ1VoAm6_2026-04-25_1777118707thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Macron Warns of Growing Global Opposition to Europe, Questions NATO Unity",
-        "link": "https://www.newsofbahrain.com/world/131344.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VFpOKtvjXz_2026-04-25_1777118499thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eJayVoq4Db_2026-04-25_1777121841thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-25 14:46:14 UTC"
+  "fetched_at": "2026-04-25 15:16:19 UTC"
 }
