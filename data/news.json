@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 17
     }
   },
   "articles": {
@@ -206,52 +206,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Arab States Condemn Al-Aqsa Violations",
-        "link": "https://www.newsofbahrain.com/world/131336.html",
+        "title": "Arsenal face must-win clash vs. Newcastle tonight",
+        "link": "https://www.newsofbahrain.com/sports/131349.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dWnJD8hxq0_2026-04-25_1777117106resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Bc5mQre3bo_2026-04-25_1777119196resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Northern Kuwait Hit by Drone Strike",
-        "link": "https://www.newsofbahrain.com/world/131335.html",
+        "title": "Prestianni handed six-match ban for homophobic conduct",
+        "link": "https://www.newsofbahrain.com/sports/131348.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_YiGDByRxZm_2026-04-25_1777116933resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gRwhasoU15_2026-04-25_1777119092resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Court blocks Trump from barring asylum seekers at US border",
-        "link": "https://www.newsofbahrain.com/world/131334.html",
+        "title": "Joksimovic signs off as Dar Kulaib complete unbeaten title run",
+        "link": "https://www.newsofbahrain.com/sports/131347.html",
         "published": "25 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-25T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Frpv3iwWRE_2026-04-25_1777116824resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oUfy41LxN2_2026-04-25_1777118788resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Ukraine, Saudi Arabia Advanced Defense Ties",
-        "link": "https://www.newsofbahrain.com/world/131332.html",
+        "title": "Kenya court overturns landmark abortion rights ruling",
+        "link": "https://www.newsofbahrain.com/world/131346.html",
         "published": "25 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-25T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XjDLHRIxeS_2026-04-25_1777116772resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wfTQ1VoAm6_2026-04-25_1777118707resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Tough Action on Road-Rule Violations in Dubai Dubai",
-        "link": "https://www.newsofbahrain.com/world/131331.html",
+        "title": "BIC to host Batelco Fitness on Track and Ebrahim K Kanoo Drag and Drift Nights on Sunday and Monday",
+        "link": "https://www.newsofbahrain.com/sports/131345.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_r6qIiVPwXn_2026-04-25_1777116673resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tHN2zoqWLh_2026-04-25_1777118540resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shaken by Iran war, EU seeks larger voice on Mideast",
+        "link": "https://www.newsofbahrain.com/bahrain/131337.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HorW0lEUtQ_2026-04-25_1777117363thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,12 +306,32 @@
         "category": "Latest"
       },
       {
-        "title": "Why Arad Fort walkway may soon look very different",
-        "link": "https://www.newsofbahrain.com/bahrain/131314.html",
+        "title": "Macron Warns of Growing Global Opposition to Europe, Questions NATO Unity",
+        "link": "https://www.newsofbahrain.com/world/131344.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5GPSW8fuFJ_2026-04-25_1777104507thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VFpOKtvjXz_2026-04-25_1777118499thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "French teen gets 15-year jail term for killing teacher",
+        "link": "https://www.newsofbahrain.com/world/131342.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fFj78SapMT_2026-04-25_1777118331thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Lebanon truce extended as Araghchi heads to Pakistan talks",
+        "link": "https://www.newsofbahrain.com/world/131341.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SNhETDdmcM_2026-04-25_1777118174thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-25 11:45:11 UTC"
+  "fetched_at": "2026-04-25 12:15:20 UTC"
 }
