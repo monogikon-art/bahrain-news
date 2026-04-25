@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPZkZidlc4QjNXbzNnWGZfcHNfVFdwTmNDN2dVNE90Rks5V0kwdmRLeWtVOTJXTTdFS1lXbDB0RDNLVkNLOFUyZmsza2liSEhVVVBubEZtOTNGcTZjWVVFeEo4eXJIWTY3MlJNN2pfelJFOG5jbmppeGJ1Z3ljS3lBZzFpWHU1VWpqZVN2UnFCU19UaUU0SDc0bFpScUQ2clZiTGp3blZmZ2lCYllVQTd6YnQzakladGRUakZQbUpzLXRvYW5feXU5Z3NMcmRhNWZ5MjBLb1ZyakN6ckJlQUlfSUt6Q19nRWdMTUhvOS1IeXdhWUtUbXJ3VUZ3M0lMVHFUbEZpMURUN09pVjFuMlcwTmdMbTRSTjBpc3V4ZnRXeUh4UXUzc2xtLUNyM1dpbTNaU19MWFVLV25HeTRidHlCVWg0clI5Yzk2d1c2MDVqVXo3aDZXaFZUTm1ma3lkT0pjZ0FzN3VtQXVVVzJBUGdPNzVESkxRRm83ZVRHRmZTNA?oc=5",
         "published": "25 Apr 2026, 06:18 AM",
         "iso_date": "2026-04-25T06:18:11+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNUjV4VE5ULTlSVUtHTXhQNXJ0ai1QNFpYVFFscDFaeHRzLXBjQ2VRMHlOV1VqZmZWR3UzY2o3VzhBaU1Fb0QwVklCZzk2QkkyUG5MbE8wR2dPcFhtTXFNZzZKNVhrMEJiek1LeTNic1dzMUc5S2lrYTVUZ08yQWNiUmJ5NEQ0WXNVSFZoc25rd2JxZE9KSkFTdi1vRTV5YTVHODJLN2VNUXl1RGswS3E3YXhBM0dNeVYyelBLd0JzZndqTkNROEp0eURzZjhxWHNLOXBlSWJBX1BNZzF5QlkxeEdwMHd2ZHVyZ3M0WjN1NnBCbHoxWGpPYnFMbmRXak55VVIwbHNRbVA1UkpZa2Zua1RuQzE1S1RQRjAwZXFNeGhoNUFpdmQ0cThMYmV1SHZhQl9vVWpnWHMzX21YUExFMllKUng4eTFERTllWUUwQ3hJbG9RN2dMT3Zic0xJT3NKNEIteXVobUh0MkE1ZE9NOG0tVXNFVFc3cTRmWi1SWm9HWnlLY1BKN1pJckJnUklJUXRwbXg2OHlxd3pCTWhXUG5vQ09pRS1DWWl4NlFwUHd3TzhxU1NHMA?oc=5",
+        "published": "25 Apr 2026, 07:14 PM",
+        "iso_date": "2026-04-25T19:14:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,6 +216,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Northern Sea Drill",
+        "link": "https://www.newsofbahrain.com/bahrain/131370.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GzP0BbQeFn_2026-04-25_1777146999resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "British fighters scramble after drone crashes in Romania",
         "link": "https://www.newsofbahrain.com/world/131369.html",
         "published": "25 Apr 2026, 09:22 AM",
@@ -218,8 +238,8 @@
       {
         "title": "US Eases Sanctions to Allow Venezuela to Fund Maduro’s Legal Defence",
         "link": "https://www.newsofbahrain.com/world/131368.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
+        "published": "25 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-25T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_mV2NLYxhbK_2026-04-25_1777142446resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +258,8 @@
       {
         "title": "Muharraq Governor Praises Heritage Photographer",
         "link": "https://www.newsofbahrain.com/bahrain/131366.html",
-        "published": "25 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-25T09:00:43+00:00",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_dK1ZuGIFXW_2026-04-25_1777141873resized_pic.jpg",
         "source": "newsofbahrain",
@@ -251,7 +271,7 @@
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xNkTt0VbDI_2026-04-25_1777141638resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xNkTt0VbDI_2026-04-25_1777141638thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -272,16 +292,6 @@
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_x7eiDz4Haf_2026-04-25_1777129008thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A’Ali Walkway Upgrade Moves Forward, Completion Expected This Year",
-        "link": "https://www.newsofbahrain.com/bahrain/131358.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f0wnerO6LV_2026-04-25_1777128743thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-25 19:46:01 UTC"
+  "fetched_at": "2026-04-25 20:13:16 UTC"
 }
