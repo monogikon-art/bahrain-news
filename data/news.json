@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 13
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPenFzdlN5d1AwSzAzRHM1RjY3MVVOck5lV0pQTW15b0NiZG9zMXBHM1NqbFozZDFaQ3pWM1pta293Q1JxbVFDb0xWel9RVzZMUmY4U2oyUWY5a2ZJbXA1RnFMazA5SjRYNGpXNFgtU283YlN1S2lFdEI4RHliWFE1Sm1uWEc4UjdXTTAxME1RRS1KblpiUW1IVDJEQkk1QWY1aWU4ZzRfU1lYeFNWUGVDcHVuczk1dFpWeFgxQ2ZuQ193dGxVUTVSNE9aM3NvTmpPTC1kV1dLNWhXTlg1eFppUXlSWGpmRkloQ3lNMW8tWlFaS3NsbTFnRWJjUE4yRW1YZmU4TTd3RjZaYkdJTmtXRlVCajd3QmFnRFh0dk1qdjhyQmQyczdTQzVWaElqZUhMa3VFbEl1aXZzSXpEcm56NkdBV2UxOUdxc1RJbkhBOXRBbWVITFZVamt4clp3enBObDlGTURTZDAzMkswTTBRU2RCaDJKXy1BNkNJOENhbXR4NG1nQUxFdkRIVURxQl9fM255TFVmZjcxM2FuX0VoVEpMTjRYVTYzYWhTbWdSUk1oVjNPcW12dm1tMFgtbzZmZEhZUDhHTklYRmM3VDZJU3dOdTB5Uko5eXhOaEZuX05xRmwzcG1yUTF2N2FGREpzUHpJVk5mZFd0ZkM1RXBXWlduYU43UURDcWNudDYyeUxwd0ltMV9USEdLYmMyc29mbkFZOElMU0tMYjhNSVN0Smx5c0tiYk8xZHhiUTVn?oc=5",
         "published": "24 Apr 2026, 02:10 PM",
         "iso_date": "2026-04-24T14:10:21+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQY05GZkh6OThoX2RTaTBITml2U1NxRHZpeTlweHZ5TVFCaWxiU1p3S2FUTGRTNDZscFRXMHU0WU9oQ2xRMW12TjhhQjI4LU9tUHh0WUoyckdhZ1hIOG5Fclh2WG0ybmJSTG03MGpvN2tMRTNjOTRBOFE0eGFyLU5FRE9jNFZudUUxWFptQ2traFpXUE1RQ1AwT0xYRllDRjBlclNPNEN4U2hSbnZXNGtMZUY5dXRxeXFoSkNYRmJuYkdOQTVPdzQ2NWlGY0pldmV3NUZYZUx4TVZ5WDdab0FMdHhyN09EU3F1VWJsMjVxV1lhemJ6VUEzRWtLSl9NRjVNOTE0Z2dCeGlOQ2hHcEZ2N2pHanZwR20tSkRmY3pyVVpycDdqcWhYZ3NTMHJGMWFONHlGS1Y4RzBTc2dtcm5nNS1fNG9FTGd6T1FhUnloMGtfallQLWRZczFyc2VSTzNlSExaWmV2cDduU3NYeC04Q2lZNUlUYUZON3RWQVZCcng5eEZKWmo5MG9DcHVrZw?oc=5",
+        "published": "24 Apr 2026, 03:12 PM",
+        "iso_date": "2026-04-24T15:12:56+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -166,10 +176,30 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Royal Praise After Thrilling Final",
+        "link": "https://www.newsofbahrain.com/bahrain/131305.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JalYE7sF2m_2026-04-25_1777099689resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
+        "link": "https://www.newsofbahrain.com/world/131304.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CFMUb1ziIE_2026-04-25_1777099294resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Muharraq Crowned King’s Cup Champions",
         "link": "https://www.newsofbahrain.com/sports/131303.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
+        "published": "24 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-24T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_GRsb1BzqHy_2026-04-24_1777057199resized_pic.jpg",
         "source": "newsofbahrain",
@@ -178,8 +208,8 @@
       {
         "title": "US Sends Witkoff, Kushner to Pakistan for Iran Talks",
         "link": "https://www.newsofbahrain.com/world/131302.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
+        "published": "24 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-24T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qt9LEfhp32_2026-04-24_1777055936resized_pic.jpg",
         "source": "newsofbahrain",
@@ -188,30 +218,10 @@
       {
         "title": "Riffa, Muharraq Chase Jackpot in King's Cup Final",
         "link": "https://www.newsofbahrain.com/sports/131301.html",
-        "published": "24 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gSaj4V8CA9_2026-04-24_1777043765resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain secure back-toback wins at Beach Games",
-        "link": "https://www.newsofbahrain.com/sports/131300.html",
-        "published": "24 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fvQOyAWEr7_2026-04-24_1777043067resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Starc cleared to play in IPL by Cricket Australia",
-        "link": "https://www.newsofbahrain.com/sports/131299.html",
         "published": "24 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-24T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dYPe0v9m5h_2026-04-24_1777042636resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gSaj4V8CA9_2026-04-24_1777043765resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -256,32 +266,12 @@
         "category": "Latest"
       },
       {
-        "title": "Military Units Fully Prepared",
-        "link": "https://www.newsofbahrain.com/bahrain/131275.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jVOs3x057I_2026-04-24_1777034345thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "Talks Underway to Extend Ceasefire in Lebanon",
         "link": "https://www.newsofbahrain.com/world/131291.html",
         "published": "24 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-24T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_DhJQobCm9c_2026-04-24_1777039873thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Rome and Doha Push for Stability",
-        "link": "https://www.newsofbahrain.com/world/131289.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JZmnzEVdrf_2026-04-24_1777039548thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-25 06:03:05 UTC"
+  "fetched_at": "2026-04-25 06:55:51 UTC"
 }
