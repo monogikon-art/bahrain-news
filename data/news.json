@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQMmtvVlBLVzhiNDZFb2tIVGIwN1p2OXRlX3dxb0xXRVBQY2V3ZU1qbmItanNXa0pNSm01RkVMMXRWTWJoSV9NaHN0UHlOeHF1UV9zMVhkdVJ1MHJ2X3lCLXQ5a1paQ3ZZQW91S3IyRWR0akozaHhVd3c1MkRNNFN3OVZYQ3lqbElvMzM5d3RrLUxJUlU0MEtCVmpSUVI5LV8yVmVVUXh1bWNVTVFQRlZTYmhlQVU4SkEyb3g4dHN3cDROcW9TdExNUHFna191MnFtWWo3WHMzTjI5dDMzYjFsM1BSNzI1eGkyNjRpS043eTFyY0RIb3hnTHExTGNLN281eUFGN21KenVpSzR6ZzBTVFNxUDBnVmNhRUdMSXNOYUdUS0gzeUhKc05qcEdQa25CNHZqaW5FczVBMW1YM1YxT1BRVTBlVUdmOFdQbTlMem5rdXZhWjkyZkJ6Q2oxWUZuRE5Bc0hJM2RFQmQtU3p2dTZFbkdwQWlwT1I4WnVlYnBsUWFwcG5sRG11XzJSR3hMelVLTzlUVlg4TUFldmpJeGZB?oc=5",
         "published": "25 Apr 2026, 02:48 PM",
         "iso_date": "2026-04-25T14:48:45+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "What 40 years of data reveal about May weather patterns in Saudi Arabia",
+        "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPRlpPbm5HS3BPOVhrc0hZSTBsVmJkYVFFLXZSLXVVR2swT3V4eUxWUXJSX2ttbFJ1MXlSNGlKS3N2WE5vT2YwbGJxbktiYzJySUNWTkRXUHhoSExkZ3lhZHpRVWg1WE1QY3hsR3NfdVpTRDBzVDZad1djN3VSYnF6dE9felFveU1TQmY0WDl3UnRPNTkydHl0Nk5EcGdLT2dKbjM4OHpaQXdLdzk1Yk9Cd1V4VjZfQkVtNGF5UlV1N0EzbDI0LVZQUFNIMlcwV3Raa1Y4V1ltbGsxZTkwbmoyUDV0ejNvd0VFWHFiWDJiZkZPYVFieEwzeXdUTzZmLXV2RDNvc25lV193ZWFaM2RzeTY4QnhLaXMxTm9qTE93c1F5LXRMcGhWZUhIZVE5Z1hFanYxMktxLUtTNDRncHV2WmxjSjJXdGRTcFJUd0ZzeWNWV2l6RXlZV1VsVjcwYXZrSjBQZHoyX3puZm02bEhvMTJQUWU?oc=5",
+        "published": "25 Apr 2026, 04:36 PM",
+        "iso_date": "2026-04-25T16:36:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -79,7 +89,7 @@
         "published": "25 Apr 2026",
         "iso_date": "2026-04-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425015841cone_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425015841cone_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -89,7 +99,7 @@
         "published": "25 Apr 2026",
         "iso_date": "2026-04-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425015518fmdralzayani_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425015518fmdralzayani_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -99,7 +109,7 @@
         "published": "25 Apr 2026",
         "iso_date": "2026-04-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425013254sdvsddv_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425013254sdvsddv_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -109,7 +119,7 @@
         "published": "25 Apr 2026",
         "iso_date": "2026-04-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260425/20260424_225423_0.jpeg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260425/20260424_225423_0.jpeg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -119,7 +129,7 @@
         "published": "25 Apr 2026",
         "iso_date": "2026-04-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424233944websitesize(6)_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424233944websitesize(6)_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -129,7 +139,7 @@
         "published": "24 Apr 2026",
         "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260423_230822_0_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260423_230822_0_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -139,7 +149,7 @@
         "published": "24 Apr 2026",
         "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424003841thebritishclub_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424003841thebritishclub_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -149,7 +159,7 @@
         "published": "24 Apr 2026",
         "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424003539participants_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424003539participants_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -159,7 +169,7 @@
         "published": "25 Apr 2026",
         "iso_date": "2026-04-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425022447two_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425022447two_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -169,7 +179,7 @@
         "published": "25 Apr 2026",
         "iso_date": "2026-04-25T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425_021212_1_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260425/20260425_021212_1_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -179,7 +189,7 @@
         "published": "24 Apr 2026",
         "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424103352carrrick1_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424103352carrrick1_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +199,7 @@
         "published": "24 Apr 2026",
         "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424123541manc1_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424123541manc1_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -199,7 +209,7 @@
         "published": "24 Apr 2026",
         "iso_date": "2026-04-24T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424083737human1_T.jpg?20260425",
+        "image": "https://www.gdnonline.com/gdnimages/20260424/20260424083737human1_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       }
@@ -449,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-25 21:13:12 UTC"
+  "fetched_at": "2026-04-25 21:45:13 UTC"
 }
