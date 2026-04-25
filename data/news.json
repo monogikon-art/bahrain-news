@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,10 +42,20 @@
         "category": "Latest"
       },
       {
+        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
+        "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNLWt5UlhYSy12cW1TUC1DRzhLUFh0Z1NvNmpUX0x2dElld2pLMkZsbE5QWG5Jby1OTC1MN3JzdGxzUzJmVXVuUzdoRWRXdUd6el9NdkhDX0l6dWp1cWtZa1V5czdEYXFiblU5ZWxTVGd3RkdlTzhFbEFiLXI3RlVFb0V2TUdzd2MtdkdOdC1WV2JEWUlNeEhDZXpra29ITWFXOVF3VThnaWJGYUZXNTQ4VzFyaHdJSEVtR2NQOUxFSkpGc3NoM29aaUZmRm5qeGpLTkdxSFp6WlA1MWxPVlNuMi0yVU1xRUc5amFUX1dxanNVdlg3RHFUeENvRTRkNFRxcHQ3OHVadkg4aDEweDJ6eWdyXzRtT0xxMFJSaVB4NzVmdFVZcEhQX0sxc1htZ1FZcGdFWGZJSUNhQkdoTXNENHMySTBxa1pMd2E1dGxYS29yVTRrZ1lKdkx4U3NSWDR4LXI1U2JhZ1JZZmtGMk40dVpXMHY4Q0sxWHNjYVFadTQ1TzFGSDFLWmR4NDFMYkw3STUtVGVQWTZoYlVfTlFQNmlDVHAtSnlPaDdFN0JzbHY3WE4yRGY4eEEzZzJ6b0Fab2VTLXF3bXFqQmx2QWRWb2Y1Q2V5TGdQQWRMRXptQVJHWTFtOVRJSTBwSFB3UDZnTlR2TmxiR21RWlNhS2Fjd2RETWpLUQ?oc=5",
+        "published": "25 Apr 2026, 04:41 AM",
+        "iso_date": "2026-04-25T04:41:57+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "US issues new travel warning for Bahrain amid 'hostile Iranian missile attacks'",
-        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNU1NadHBESjRhMUhrVzJldWFXNXhwNEVNdlNmaEtQZDNLa2Q0ckxYRk9WNUl5c3NYaFQxMkVhQXRmaWRsaXBmU2ZzOF9TS1RDaUhEZjFFeThfdlh3a3F3NFJtMUJsYlRrVVVjWXdyc0t4ZEdnRF9wRHhoVGJMdndhVGx5WUluLS1XZS0zbG5DVEJlSy16cExsWV9rT1c2NWdScE5yYTdqNEktZExiTjlMWWRFMWtzWnFNVmNkM1VlTnFzeG1nd0xxMEVFNkY2TnV6aWVQdkdmeEFCNFlLeW9IUTlXRHVFbm1BWUtvVmtuT1ZQVFJVTzJib19LSTh5WHoyZnZhZFhkbGRRWkJLRXVtMTFIRTU3cVkyUVBWemFUMmxlRUVrUVFtOU1FMU5fYXh4V1ZuVm1scm9wZ2l6c2xqRXlXWS1lUDFodk9LV1ZfUmxzR0xXQVcwSG9nVWtXMDR0dlB3bVF4OC1hOHVELWxoanZDaXBSUTZwT1N3ZUdJQUppb0YzSkI0VmFVMzl1VnUxX2RFRFVkNjJWRGsxSTVlSzFVcmVGVGRQV0N4YUtzR1JUbnVRUkZfUW1B?oc=5",
-        "published": "25 Apr 2026, 06:48 AM",
-        "iso_date": "2026-04-25T06:48:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQX2xyemctUUtWakFONGJydTU0LWpmMDJtdXF4bGhjVGpTR0oydVFJMFhJbEFQMGxMU0plWGF3bVZUMnFUYmJmOFFZNXc3Vl9IajZZMEFYTmJOZlpsbnZiT01JYVFYLXc3SnphcnpBTlVZRGlzN0lsc3JLNDFrcVpvMXQ4TW1KeF9aY0VHVDdVLU1UWkJmaEhnQnQ2UFZ0U1p1VnItY1MyNmNFbkVFQUlWUy0xZnh6SVpCQlY3MVJsbXJjQjRZNFE1TlllWFdWSkZJb0dHQ2xmQ2twbHFXN1V0LWotLTgzbUxQM3hYQllPVDBnY2JvdnVYdUVKaVU2NG9aamNScFhselBEeGlNNmR5c0tDM1p2UWVHMW53UHBPVVBfd0F5N3dWNXNjM0p6ZkFNeFBYbVhXejJaU29odGtpWUpWSGhlaThpRVZ1a1U0aURaa1hHcUhLdlN4Q2RPVnFPZzV5VUxydGJVVW1vNExFbjFiU1puWEkxZk94dGNEWkdQM1gzSUVsRHhhX2o1TkFaVjVmV2ZLRC1xRkJZ?oc=5",
+        "published": "25 Apr 2026, 06:28 AM",
+        "iso_date": "2026-04-25T06:28:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -186,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Palestinians cast ballots in first elections since Gaza war",
+        "link": "https://www.newsofbahrain.com/world/131326.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QR72pMzY6x_2026-04-25_1777110404resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Porsche exits sports car maker Bugatti Rimac",
         "link": "https://www.newsofbahrain.com/bahrain/131325.html",
         "published": "25 Apr 2026, 09:22 AM",
@@ -198,8 +218,8 @@
       {
         "title": "Small Vessel office handles over 2,000 transactions in two months",
         "link": "https://www.newsofbahrain.com/business/131324.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_lvPHdBG7hm_2026-04-25_1777109494resized_pic.jpg",
         "source": "newsofbahrain",
@@ -208,8 +228,8 @@
       {
         "title": "US-Kuwaiti journalist released after war coverage detention",
         "link": "https://www.newsofbahrain.com/world/131323.html",
-        "published": "25 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-25T09:00:43+00:00",
+        "published": "",
+        "iso_date": "",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_x4W8LfCoSV_2026-04-25_1777109377resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,20 +238,10 @@
       {
         "title": "Tender Board opens bids for major government contracts",
         "link": "https://www.newsofbahrain.com/business/131322.html",
-        "published": "25 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-25T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_krIu3OpPhU_2026-04-25_1777109307resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Chinese EVs, flying cars take centre stage at world’s biggest auto show",
-        "link": "https://www.newsofbahrain.com/business/131321.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UpbAL4Y2Ih_2026-04-25_1777108878resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_krIu3OpPhU_2026-04-25_1777109307resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,12 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Hundreds of firefighters battle Japan forest blazes",
-        "link": "https://www.newsofbahrain.com/world/131317.html",
+        "title": "Chinese EVs, flying cars take centre stage at world’s biggest auto show",
+        "link": "https://www.newsofbahrain.com/business/131321.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dl8RqZ0JYc_2026-04-25_1777106215thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UpbAL4Y2Ih_2026-04-25_1777108878thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -429,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-25 09:47:24 UTC"
+  "fetched_at": "2026-04-25 10:18:44 UTC"
 }
