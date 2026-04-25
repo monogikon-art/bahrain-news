@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNLWt5UlhYSy12cW1TUC1DRzhLUFh0Z1NvNmpUX0x2dElld2pLMkZsbE5QWG5Jby1OTC1MN3JzdGxzUzJmVXVuUzdoRWRXdUd6el9NdkhDX0l6dWp1cWtZa1V5czdEYXFiblU5ZWxTVGd3RkdlTzhFbEFiLXI3RlVFb0V2TUdzd2MtdkdOdC1WV2JEWUlNeEhDZXpra29ITWFXOVF3VThnaWJGYUZXNTQ4VzFyaHdJSEVtR2NQOUxFSkpGc3NoM29aaUZmRm5qeGpLTkdxSFp6WlA1MWxPVlNuMi0yVU1xRUc5amFUX1dxanNVdlg3RHFUeENvRTRkNFRxcHQ3OHVadkg4aDEweDJ6eWdyXzRtT0xxMFJSaVB4NzVmdFVZcEhQX0sxc1htZ1FZcGdFWGZJSUNhQkdoTXNENHMySTBxa1pMd2E1dGxYS29yVTRrZ1lKdkx4U3NSWDR4LXI1U2JhZ1JZZmtGMk40dVpXMHY4Q0sxWHNjYVFadTQ1TzFGSDFLWmR4NDFMYkw3STUtVGVQWTZoYlVfTlFQNmlDVHAtSnlPaDdFN0JzbHY3WE4yRGY4eEEzZzJ6b0Fab2VTLXF3bXFqQmx2QWRWb2Y1Q2V5TGdQQWRMRXptQVJHWTFtOVRJSTBwSFB3UDZnTlR2TmxiR21RWlNhS2Fjd2RETWpLUQ?oc=5",
         "published": "25 Apr 2026, 04:41 AM",
         "iso_date": "2026-04-25T04:41:57+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQajlOSm5fYlZkQ1BrNkNaQ051ZzlTRjdabmUxUkZaM29nLUl2cnpqS3dZdE9ZZUh4VDAwaWEzWXB3cEpMeExxY21sM1NVdldiSHNXdXFSX3FLaGwtclZNdS1VOHdUZGthQ2JRcFhqQUgtODlPekw3V2xLT2djcDhpRFRad2pmTVpjTlBuS0hocy1ndUFicTA5dDR1b2gyM2NGQXo5YjdxUjJBS2taQ2l0NDhIcDN3RVpJMGwtdElEVjFuVlZiWFFqZWJxX0d6bFdOMWUwMTdsTGNhV216YlJPQ213YWtZWUJrMWxwM1lmYWxJSmtna0JsbnE5cXZScjFzZmMwMEJFbkpMcGxfVzNuUVBrVDhzSVJlbnBWR1VUYkdvOEVzQVFTLVdlQnJ5blVFRDczaVhERUR1SXYwWEVkTk5yamp3UmRVaXdNM3F3VFpkem1xRXNXVjFNXzR5WTJRLWNEdUg0bkdXVnYwUThPdmEwTzlZWnFSWVBENHdkcXA5SXowa2c4U19scTN2TDU3TkJPck5OT3ZBaWdteHRSMmFpZEl5SXY3dUYtSmIxRzBoVEpIQTN3T2hwVjl2U2RCdjFKY2VGcXU?oc=5",
-        "published": "25 Apr 2026",
-        "iso_date": "2026-04-25T00:00:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-25 16:46:02 UTC"
+  "fetched_at": "2026-04-25 17:15:56 UTC"
 }
