@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQMmtvVlBLVzhiNDZFb2tIVGIwN1p2OXRlX3dxb0xXRVBQY2V3ZU1qbmItanNXa0pNSm01RkVMMXRWTWJoSV9NaHN0UHlOeHF1UV9zMVhkdVJ1MHJ2X3lCLXQ5a1paQ3ZZQW91S3IyRWR0akozaHhVd3c1MkRNNFN3OVZYQ3lqbElvMzM5d3RrLUxJUlU0MEtCVmpSUVI5LV8yVmVVUXh1bWNVTVFQRlZTYmhlQVU4SkEyb3g4dHN3cDROcW9TdExNUHFna191MnFtWWo3WHMzTjI5dDMzYjFsM1BSNzI1eGkyNjRpS043eTFyY0RIb3hnTHExTGNLN281eUFGN21KenVpSzR6ZzBTVFNxUDBnVmNhRUdMSXNOYUdUS0gzeUhKc05qcEdQa25CNHZqaW5FczVBMW1YM1YxT1BRVTBlVUdmOFdQbTlMem5rdXZhWjkyZkJ6Q2oxWUZuRE5Bc0hJM2RFQmQtU3p2dTZFbkdwQWlwT1I4WnVlYnBsUWFwcG5sRG11XzJSR3hMelVLTzlUVlg4TUFldmpJeGZB?oc=5",
+        "published": "25 Apr 2026, 06:06 AM",
+        "iso_date": "2026-04-25T06:06:55+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Anti-Cybercrime Directorate arrests individual for filming and publishing videos related to Iranian aggression in violation of law",
         "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPenFzdlN5d1AwSzAzRHM1RjY3MVVOck5lV0pQTW15b0NiZG9zMXBHM1NqbFozZDFaQ3pWM1pta293Q1JxbVFDb0xWel9RVzZMUmY4U2oyUWY5a2ZJbXA1RnFMazA5SjRYNGpXNFgtU283YlN1S2lFdEI4RHliWFE1Sm1uWEc4UjdXTTAxME1RRS1KblpiUW1IVDJEQkk1QWY1aWU4ZzRfU1lYeFNWUGVDcHVuczk1dFpWeFgxQ2ZuQ193dGxVUTVSNE9aM3NvTmpPTC1kV1dLNWhXTlg1eFppUXlSWGpmRkloQ3lNMW8tWlFaS3NsbTFnRWJjUE4yRW1YZmU4TTd3RjZaYkdJTmtXRlVCajd3QmFnRFh0dk1qdjhyQmQyczdTQzVWaElqZUhMa3VFbEl1aXZzSXpEcm56NkdBV2UxOUdxc1RJbkhBOXRBbWVITFZVamt4clp3enBObDlGTURTZDAzMkswTTBRU2RCaDJKXy1BNkNJOENhbXR4NG1nQUxFdkRIVURxQl9fM255TFVmZjcxM2FuX0VoVEpMTjRYVTYzYWhTbWdSUk1oVjNPcW12dm1tMFgtbzZmZEhZUDhHTklYRmM3VDZJU3dOdTB5Uko5eXhOaEZuX05xRmwzcG1yUTF2N2FGREpzUHpJVk5mZFd0ZkM1RXBXWlduYU43UURDcWNudDYyeUxwd0ltMV9USEdLYmMyc29mbkFZOElMU0tMYjhNSVN0Smx5c0tiYk8xZHhiUTVn?oc=5",
@@ -176,52 +186,62 @@
     ],
     "newsofbahrain": [
       {
+        "title": "WHAT’S NEXT ON PARLIAMENT’S AGENDA?",
+        "link": "https://www.newsofbahrain.com/bahrain/131311.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6QVnrLHcqt_2026-04-25_1777101898resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "WHO approves first malaria treatment for infants",
+        "link": "https://www.newsofbahrain.com/world/131310.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oG8R7SsKLM_2026-04-25_1777101669resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Türkiye to return to Formula One fold in 2027",
+        "link": "https://www.newsofbahrain.com/world/131309.html",
+        "published": "25 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_48GqWFaDul_2026-04-25_1777100697resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tesla starts ‘robotaxi’ production: Musk",
+        "link": "https://www.newsofbahrain.com/business/131308.html",
+        "published": "25 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TKi9vr7tlf_2026-04-25_1777100333resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Email slip-up sinks BHD 11,000 lawsuit",
+        "link": "https://www.newsofbahrain.com/bahrain/131307.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jZ16BbhzAr_2026-04-25_1777100208resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Royal Praise After Thrilling Final",
         "link": "https://www.newsofbahrain.com/bahrain/131305.html",
         "published": "25 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JalYE7sF2m_2026-04-25_1777099689resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
-        "link": "https://www.newsofbahrain.com/world/131304.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CFMUb1ziIE_2026-04-25_1777099294resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Muharraq Crowned King’s Cup Champions",
-        "link": "https://www.newsofbahrain.com/sports/131303.html",
-        "published": "24 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GRsb1BzqHy_2026-04-24_1777057199resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Sends Witkoff, Kushner to Pakistan for Iran Talks",
-        "link": "https://www.newsofbahrain.com/world/131302.html",
-        "published": "24 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-24T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qt9LEfhp32_2026-04-24_1777055936resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Riffa, Muharraq Chase Jackpot in King's Cup Final",
-        "link": "https://www.newsofbahrain.com/sports/131301.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gSaj4V8CA9_2026-04-24_1777043765resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JalYE7sF2m_2026-04-25_1777099689thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -246,32 +266,22 @@
         "category": "Latest"
       },
       {
-        "title": "Salon Owner Found Not Guilty",
-        "link": "https://www.newsofbahrain.com/bahrain/131277.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
+        "title": "Elon Musk says Tesla has started 'robotaxi' production",
+        "link": "https://www.newsofbahrain.com/world/131306.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ldv8Tushrf_2026-04-24_1777034875thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mNc2VYyGsO_2026-04-25_1777100082thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Umrah Travel Surges After Saudi Extension",
-        "link": "https://www.newsofbahrain.com/bahrain/131276.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
+        "title": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
+        "link": "https://www.newsofbahrain.com/world/131304.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VwDgqck3fx_2026-04-24_1777034647thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Talks Underway to Extend Ceasefire in Lebanon",
-        "link": "https://www.newsofbahrain.com/world/131291.html",
-        "published": "24 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-24T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DhJQobCm9c_2026-04-24_1777039873thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CFMUb1ziIE_2026-04-25_1777099294thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -419,5 +429,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-25 06:55:51 UTC"
+  "fetched_at": "2026-04-25 07:32:36 UTC"
 }
