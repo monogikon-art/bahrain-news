@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOYlBpUTBzbXY1eGxTLVI5QnA4RmJsNnM3OTZ6NW9yQlJlQWhpNUxiZ2pRcW9vcndxN2M0bWd6M01WMEV5dC04UlZrM2FtM1lZZzF2LUxBeGhUQUJDcTdDWnpzaTQ2OEFlU0kzT0FXM3NxMlZqVVU1bjVlRWlsbWtvRF9LUGZfalljY2lwUGNzbFJiZF9HeUJ5dG44clRLbFZmM2xfNkRyZ1IyaW1Mbm5IY3hyZk1ndnZyYXBOeDhyWnRnNnM0NDBnMkNVUGZPTFFUZGVTYUpGM2J4ME9SXzdkbVg3QkxQMVpfMEJjVjJwYnhKY0txX3lyLXlaNkJMX181R1pFLXJmX1ZDRkdabEI4MDg2NURIWDloX1pfQklTcFZmZXNrRy0zRXc5MFdLbC1tSUg1V0xSckdBYzJBQWF2QVdKNzR1bUNmNGFCUER2ME9ub3BpajJXRGU2eWNVQkJvY3B6dnRmbnZZZmpLNW1kQ0xmU2pVZS1LcnVqNFhoQzdyZlo2MGdSZlFuSUR2UQ?oc=5",
         "published": "25 Apr 2026, 04:07 PM",
         "iso_date": "2026-04-25T16:07:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOam13Y0xzbHpwZzlxVHJqTWFqdVVHcEtXRW9aOE9TYTVScVRyYkxMQnhBVzRITjFGZ2FPMHlYQmVBczFZWEEzelVWZGNUSVc3bmZHeWNwQU9hZ3Q5N3JCdmlTOWhJOVFzVzQtNVhpRXRjNll3ZWk1U2JmMkFxTWhKTFcwV1V5LUNsTVJ4VWNheVoyTy1USHAwdDdDSmhzMGlLTEc2VXQwWF9Qcmh4ZHBZZWdxYndvZGJfUWVJOHdIYUNwV0hFd3RIY1VVdjdqT21rcVVZSWZyeW5CaTRwQjR0YVJPWTdoTU5Faktuc1hjeENTdGljb3NoTEsyTzBUbHo5bnhSZGVPQmtiWEczZk1fdDYxMVpxYzdtaFhuLUREazNrdkNnRW1taEhxb3g3RnZaX0dHY3JHT0pBejl1MHJXT0lQazNUeXNsVUItRUR5RlJ5NFV3WklsSV9tcHFQMnBJV3k2Tl9CcEVacG1LUTgyb044bVhkamk2YjhTSkZtYXozdC0teE1fN01jT0dxb25CaDMxRHl6RFFCNEkwXzVMdWkzLTdSa0RMS2Jn?oc=5",
+        "published": "26 Apr 2026, 08:56 AM",
+        "iso_date": "2026-04-26T08:56:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-26 10:18:14 UTC"
+  "fetched_at": "2026-04-26 10:46:23 UTC"
 }
