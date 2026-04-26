@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 15
     }
   },
   "articles": {
@@ -62,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPNlRCNFV4Q2JHR1dkazBEYjBJcDdoNDVmZ1Rzdkt6MjFVYzNtRmphclpOcHdwWlpaTHozQlV4dnpRQmZ3azg5N0JidG1TSzRiQnZfR2NCcmk3X1RYTmpXS0ptZzhHRzhyUTd6MndEU0J4OUhuUTBwaFUtZG9pSUJpOExDTmU5c0hMa2N3V29reXhkdzFtVEZfRjRzOGFYdHJXYmJmb2ZwRFFrWjRiWWhjcGloR2tPcURSVFNwdi0zbzZsTThVQWFZTTBHbWRESVZmM0x0c0ZLejNhQThKU0FfZHd1UmhRZU1kNWY2TmJfcGlOOVoxT2REUmwzZXlTSkctLW13OXNkR3hqckUyclQ4ZTR3RlpKMUdPd2NobU14WUtlcXJDYUxuSVRQdl9ZVUJwenJRdER0ZHZiRU9XN2V2ZldoZDhjWk9UT0JjSDZMY1FGYnBTSV9zS2ZFMUtxZmI4SVc4UGxlTFhLYUdVQ3ZKRmYyam4tcmRkTnZSQkVhTTJHaERCNVdUb19kZ3gwNWRvbGZnZkZZXy1iVGZ4bmhHd0ljV2t1REdZY1o4OTNOQWRvTUY1bkdxOHBCZkxjMVJEYWVuNUN3dkJSdmxBdG1WY2xYWWNnWjU1bDNPdmtaOHZVYzEzT190azdB?oc=5",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:33+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain condemns terrorist attack targeting border sites in Kuwait",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRDlfLVZOSG5XQ0NYRkp0d0c4VmhjakthOVRqR3lfYkNxa2JTb1JZaEY1ZmkzcHB4UjBzLXRYaDNrc1E0RVg3Vi1DR3FKeGZsNFhEd01mSWlpV2gtQTExeDBSd3ZWRWJVdWhudXp1NXpzTE10VDV6VWdXNVlwajhKYngySm9ZUlA0UFBOWUlrcTVGMVh6V1NwNlRsWkVJdTd5SklJSEtPMHFkYU9nV0lhUURB?oc=5",
         "published": "25 Apr 2026, 11:31 AM",
@@ -80,9 +70,29 @@
         "image": "",
         "source": "bna",
         "category": "Latest"
+      },
+      {
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPNlRCNFV4Q2JHR1dkazBEYjBJcDdoNDVmZ1Rzdkt6MjFVYzNtRmphclpOcHdwWlpaTHozQlV4dnpRQmZ3azg5N0JidG1TSzRiQnZfR2NCcmk3X1RYTmpXS0ptZzhHRzhyUTd6MndEU0J4OUhuUTBwaFUtZG9pSUJpOExDTmU5c0hMa2N3V29reXhkdzFtVEZfRjRzOGFYdHJXYmJmb2ZwRFFrWjRiWWhjcGloR2tPcURSVFNwdi0zbzZsTThVQWFZTTBHbWRESVZmM0x0c0ZLejNhQThKU0FfZHd1UmhRZU1kNWY2TmJfcGlOOVoxT2REUmwzZXlTSkctLW13OXNkR3hqckUyclQ4ZTR3RlpKMUdPd2NobU14WUtlcXJDYUxuSVRQdl9ZVUJwenJRdER0ZHZiRU9XN2V2ZldoZDhjWk9UT0JjSDZMY1FGYnBTSV9zS2ZFMUtxZmI4SVc4UGxlTFhLYUdVQ3ZKRmYyam4tcmRkTnZSQkVhTTJHaERCNVdUb19kZ3gwNWRvbGZnZkZZXy1iVGZ4bmhHd0ljV2t1REdZY1o4OTNOQWRvTUY1bkdxOHBCZkxjMVJEYWVuNUN3dkJSdmxBdG1WY2xYWWNnWjU1bDNPdmtaOHZVYzEzT190azdB?oc=5",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:33+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
       }
     ],
     "gdn": [
+      {
+        "title": "Bahrain denounces armed intrusion attempt at event attended by US President",
+        "link": "https://www.gdnonline.com/Details/1392739/Bahrain-denounces-armed-intrusion-attempt-at-event-attended-by-US-President",
+        "published": "26 Apr 2026",
+        "iso_date": "2026-04-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260426/20260426094808website_T.jpg?20260426",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Minister reviews Aâali Promenade development project",
         "link": "https://www.gdnonline.com/Details/1392711/Minister-reviews-Aâali-Promenade-development-project",
@@ -120,16 +130,6 @@
         "iso_date": "2026-04-26T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260426/20260426_003947_0.png?20260426",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Heartfelt appeal to revive Al Jasra Handicrafts Centre",
-        "link": "https://www.gdnonline.com/Details/1392686/Heartfelt-appeal-to-revive-Al-Jasra-Handicrafts-Centre",
-        "published": "26 Apr 2026",
-        "iso_date": "2026-04-26T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260426/20260425_222703_0_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -206,82 +206,72 @@
     ],
     "newsofbahrain": [
       {
-        "title": "First Virtual Horse Auction in Bahrain",
-        "link": "https://www.newsofbahrain.com/business/131387.html",
+        "title": "Building Tomorrow’s Leaders",
+        "link": "https://www.newsofbahrain.com/bahrain/131393.html",
         "published": "26 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QTLNJtv05n_2026-04-26_1777188713resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DB7phkTGlf_2026-04-26_1777191878resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "King Hamad American Mission Hospital Embarks on Journey Toward Baby-Friendly Hospital Accreditation",
-        "link": "https://www.newsofbahrain.com/business/131386.html",
+        "title": "Unemployment Appeals Surge",
+        "link": "https://www.newsofbahrain.com/bahrain/131392.html",
         "published": "26 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W07tIuhrEz_2026-04-26_1777188378resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DEljO9dA71_2026-04-26_1777191637resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Chamber Launches SME Department at New Term Start",
-        "link": "https://www.newsofbahrain.com/business/131384.html",
+        "title": "Muharraq Writes Another Chapter of Greatness",
+        "link": "https://www.newsofbahrain.com/sports/131391.html",
         "published": "26 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-26T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vUQMynES8B_2026-04-26_1777188025resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CloaIUGLdH_2026-04-26_1777190719resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BTEA Introduces Optional Q1 Fee Deferral for Tourism Sector",
+        "link": "https://www.newsofbahrain.com/bahrain/131390.html",
+        "published": "26 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IPCbf29wLS_2026-04-26_1777190511resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tough Opening for Bahrain 3x3 in Sanya",
+        "link": "https://www.newsofbahrain.com/sports/131389.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1gGAwZuhsQ_2026-04-26_1777189872resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Captain's corner - Why Bahrain’s Future is Public",
+        "link": "https://www.newsofbahrain.com/bahrain/131388.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8vZHTnoANM_2026-04-26_1777189229thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Volunteer Emergency Training",
         "link": "https://www.newsofbahrain.com/bahrain/131383.html",
-        "published": "26 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BGpDaYUgWH_2026-04-26_1777187810resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Domestic Worker Rescued",
-        "link": "https://www.newsofbahrain.com/bahrain/131382.html",
         "published": "26 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hgDlrROVsn_2026-04-26_1777187481resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Breakthrough in Inclusive Education",
-        "link": "https://www.newsofbahrain.com/bahrain/131381.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SLtFMbgxmY_2026-04-26_1777187178thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Court Raises Accident Compensation Amount",
-        "link": "https://www.newsofbahrain.com/bahrain/131379.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rqT3QIaHoP_2026-04-26_1777186697thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A School Under Investigation",
-        "link": "https://www.newsofbahrain.com/bahrain/131378.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lUoEbrQ0nW_2026-04-26_1777185925thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BGpDaYUgWH_2026-04-26_1777187810thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,6 +312,36 @@
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_SqRtXMUkc0_2026-04-25_1777142107thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "First Virtual Horse Auction in Bahrain",
+        "link": "https://www.newsofbahrain.com/business/131387.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QTLNJtv05n_2026-04-26_1777188713thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "King Hamad American Mission Hospital Embarks on Journey Toward Baby-Friendly Hospital Accreditation",
+        "link": "https://www.newsofbahrain.com/business/131386.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W07tIuhrEz_2026-04-26_1777188378thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Chamber Launches SME Department at New Term Start",
+        "link": "https://www.newsofbahrain.com/business/131384.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vUQMynES8B_2026-04-26_1777188025thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -449,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-26 07:33:13 UTC"
+  "fetched_at": "2026-04-26 08:28:09 UTC"
 }
