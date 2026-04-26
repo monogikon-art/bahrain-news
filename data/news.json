@@ -4,34 +4,95 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 0
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 9
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 0
     }
   },
   "articles": {
-    "bna": [],
-    "gdn": [
+    "bna": [
       {
-        "title": "Shooting drill",
-        "link": "https://www.gdnonline.com/Details/1392714/Shooting-drill",
-        "published": "26 Apr 2026",
-        "iso_date": "2026-04-26T00:00:00",
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQMmtvVlBLVzhiNDZFb2tIVGIwN1p2OXRlX3dxb0xXRVBQY2V3ZU1qbmItanNXa0pNSm01RkVMMXRWTWJoSV9NaHN0UHlOeHF1UV9zMVhkdVJ1MHJ2X3lCLXQ5a1paQ3ZZQW91S3IyRWR0akozaHhVd3c1MkRNNFN3OVZYQ3lqbElvMzM5d3RrLUxJUlU0MEtCVmpSUVI5LV8yVmVVUXh1bWNVTVFQRlZTYmhlQVU4SkEyb3g4dHN3cDROcW9TdExNUHFna191MnFtWWo3WHMzTjI5dDMzYjFsM1BSNzI1eGkyNjRpS043eTFyY0RIb3hnTHExTGNLN281eUFGN21KenVpSzR6ZzBTVFNxUDBnVmNhRUdMSXNOYUdUS0gzeUhKc05qcEdQa25CNHZqaW5FczVBMW1YM1YxT1BRVTBlVUdmOFdQbTlMem5rdXZhWjkyZkJ6Q2oxWUZuRE5Bc0hJM2RFQmQtU3p2dTZFbkdwQWlwT1I4WnVlYnBsUWFwcG5sRG11XzJSR3hMelVLTzlUVlg4TUFldmpJeGZB?oc=5",
+        "published": "25 Apr 2026, 02:48 PM",
+        "iso_date": "2026-04-25T14:48:45+00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260426/20260426005023bdfgeneralcommand_T.jpg?20260426",
-        "source": "gdn",
+        "image": "",
+        "source": "bna",
         "category": "Latest"
       },
+      {
+        "title": "Macron reaffirms efforts to reopen Strait of Hormuz, as TotalEnergies warns of energy shortages",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWlhvMEdJSS1DellPSWREWXcxOWRZWGNoYVVaaFJPRm1tdEJwWXpLcjZWWWk0X1BQS1JhUUd4SkpKeGlGQXFkT1dibEkwZnV2Q0o3WTh3OGJnN05Wd1B1b2dKUXlfdDFKR2Q3Vkc1ZEwxZTNuclAwV3lyOElPVEZMQXQ0SVpTRll4QjhXVEZ2Zk5UZVgzNFhuYzZyam93clhuSzlxS3FIeVk5TlJaNlNKYjRyaXNlbUZPLS1rSmFTWUFEeVV3dlo1RklfdldYZkRqUlU1UFBDTHIxSUk?oc=5",
+        "published": "25 Apr 2026, 10:57 PM",
+        "iso_date": "2026-04-25T22:57:14+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOYlBpUTBzbXY1eGxTLVI5QnA4RmJsNnM3OTZ6NW9yQlJlQWhpNUxiZ2pRcW9vcndxN2M0bWd6M01WMEV5dC04UlZrM2FtM1lZZzF2LUxBeGhUQUJDcTdDWnpzaTQ2OEFlU0kzT0FXM3NxMlZqVVU1bjVlRWlsbWtvRF9LUGZfalljY2lwUGNzbFJiZF9HeUJ5dG44clRLbFZmM2xfNkRyZ1IyaW1Mbm5IY3hyZk1ndnZyYXBOeDhyWnRnNnM0NDBnMkNVUGZPTFFUZGVTYUpGM2J4ME9SXzdkbVg3QkxQMVpfMEJjVjJwYnhKY0txX3lyLXlaNkJMX181R1pFLXJmX1ZDRkdabEI4MDg2NURIWDloX1pfQklTcFZmZXNrRy0zRXc5MFdLbC1tSUg1V0xSckdBYzJBQWF2QVdKNzR1bUNmNGFCUER2ME9ub3BpajJXRGU2eWNVQkJvY3B6dnRmbnZZZmpLNW1kQ0xmU2pVZS1LcnVqNFhoQzdyZlo2MGdSZlFuSUR2UQ?oc=5",
+        "published": "25 Apr 2026, 04:07 PM",
+        "iso_date": "2026-04-25T16:07:39+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPNlRCNFV4Q2JHR1dkazBEYjBJcDdoNDVmZ1Rzdkt6MjFVYzNtRmphclpOcHdwWlpaTHozQlV4dnpRQmZ3azg5N0JidG1TSzRiQnZfR2NCcmk3X1RYTmpXS0ptZzhHRzhyUTd6MndEU0J4OUhuUTBwaFUtZG9pSUJpOExDTmU5c0hMa2N3V29reXhkdzFtVEZfRjRzOGFYdHJXYmJmb2ZwRFFrWjRiWWhjcGloR2tPcURSVFNwdi0zbzZsTThVQWFZTTBHbWRESVZmM0x0c0ZLejNhQThKU0FfZHd1UmhRZU1kNWY2TmJfcGlOOVoxT2REUmwzZXlTSkctLW13OXNkR3hqckUyclQ4ZTR3RlpKMUdPd2NobU14WUtlcXJDYUxuSVRQdl9ZVUJwenJRdER0ZHZiRU9XN2V2ZldoZDhjWk9UT0JjSDZMY1FGYnBTSV9zS2ZFMUtxZmI4SVc4UGxlTFhLYUdVQ3ZKRmYyam4tcmRkTnZSQkVhTTJHaERCNVdUb19kZ3gwNWRvbGZnZkZZXy1iVGZ4bmhHd0ljV2t1REdZY1o4OTNOQWRvTUY1bkdxOHBCZkxjMVJEYWVuNUN3dkJSdmxBdG1WY2xYWWNnWjU1bDNPdmtaOHZVYzEzT190azdB?oc=5",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:33+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNUjV4VE5ULTlSVUtHTXhQNXJ0ai1QNFpYVFFscDFaeHRzLXBjQ2VRMHlOV1VqZmZWR3UzY2o3VzhBaU1Fb0QwVklCZzk2QkkyUG5MbE8wR2dPcFhtTXFNZzZKNVhrMEJiek1LeTNic1dzMUc5S2lrYTVUZ08yQWNiUmJ5NEQ0WXNVSFZoc25rd2JxZE9KSkFTdi1vRTV5YTVHODJLN2VNUXl1RGswS3E3YXhBM0dNeVYyelBLd0JzZndqTkNROEp0eURzZjhxWHNLOXBlSWJBX1BNZzF5QlkxeEdwMHd2ZHVyZ3M0WjN1NnBCbHoxWGpPYnFMbmRXak55VVIwbHNRbVA1UkpZa2Zua1RuQzE1S1RQRjAwZXFNeGhoNUFpdmQ0cThMYmV1SHZhQl9vVWpnWHMzX21YUExFMllKUng4eTFERTllWUUwQ3hJbG9RN2dMT3Zic0xJT3NKNEIteXVobUh0MkE1ZE9NOG0tVXNFVFc3cTRmWi1SWm9HWnlLY1BKN1pJckJnUklJUXRwbXg2OHlxd3pCTWhXUG5vQ09pRS1DWWl4NlFwUHd3TzhxU1NHMA?oc=5",
+        "published": "25 Apr 2026, 07:14 PM",
+        "iso_date": "2026-04-25T19:14:36+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain condemns terrorist attack targeting border sites in Kuwait",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRDlfLVZOSG5XQ0NYRkp0d0c4VmhjakthOVRqR3lfYkNxa2JTb1JZaEY1ZmkzcHB4UjBzLXRYaDNrc1E0RVg3Vi1DR3FKeGZsNFhEd01mSWlpV2gtQTExeDBSd3ZWRWJVdWhudXp1NXpzTE10VDV6VWdXNVlwajhKYngySm9ZUlA0UFBOWUlrcTVGMVh6V1NwNlRsWkVJdTd5SklJSEtPMHFkYU9nV0lhUURB?oc=5",
+        "published": "25 Apr 2026, 11:31 AM",
+        "iso_date": "2026-04-25T11:31:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
+        "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNLWt5UlhYSy12cW1TUC1DRzhLUFh0Z1NvNmpUX0x2dElld2pLMkZsbE5QWG5Jby1OTC1MN3JzdGxzUzJmVXVuUzdoRWRXdUd6el9NdkhDX0l6dWp1cWtZa1V5czdEYXFiblU5ZWxTVGd3RkdlTzhFbEFiLXI3RlVFb0V2TUdzd2MtdkdOdC1WV2JEWUlNeEhDZXpra29ITWFXOVF3VThnaWJGYUZXNTQ4VzFyaHdJSEVtR2NQOUxFSkpGc3NoM29aaUZmRm5qeGpLTkdxSFp6WlA1MWxPVlNuMi0yVU1xRUc5amFUX1dxanNVdlg3RHFUeENvRTRkNFRxcHQ3OHVadkg4aDEweDJ6eWdyXzRtT0xxMFJSaVB4NzVmdFVZcEhQX0sxc1htZ1FZcGdFWGZJSUNhQkdoTXNENHMySTBxa1pMd2E1dGxYS29yVTRrZ1lKdkx4U3NSWDR4LXI1U2JhZ1JZZmtGMk40dVpXMHY4Q0sxWHNjYVFadTQ1TzFGSDFLWmR4NDFMYkw3STUtVGVQWTZoYlVfTlFQNmlDVHAtSnlPaDdFN0JzbHY3WE4yRGY4eEEzZzJ6b0Fab2VTLXF3bXFqQmx2QWRWb2Y1Q2V5TGdQQWRMRXptQVJHWTFtOVRJSTBwSFB3UDZnTlR2TmxiR21RWlNhS2Fjd2RETWpLUQ?oc=5",
+        "published": "25 Apr 2026, 04:41 AM",
+        "iso_date": "2026-04-25T04:41:57+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      }
+    ],
+    "gdn": [
       {
         "title": "Minister reviews Aâali Promenade development project",
         "link": "https://www.gdnonline.com/Details/1392711/Minister-reviews-Aâali-Promenade-development-project",
@@ -73,6 +134,16 @@
         "category": "Latest"
       },
       {
+        "title": "Heartfelt appeal to revive Al Jasra Handicrafts Centre",
+        "link": "https://www.gdnonline.com/Details/1392686/Heartfelt-appeal-to-revive-Al-Jasra-Handicrafts-Centre",
+        "published": "26 Apr 2026",
+        "iso_date": "2026-04-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260426/20260425_222703_0_T.jpg?20260426",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Chamberâs SMEs unit âto boost private sector growthâ",
         "link": "https://www.gdnonline.com/Details/1392702/Bahrain-Chamberâs-SMEs-unit-âto-boost-private-sector-growthâ",
         "published": "26 Apr 2026",
@@ -89,6 +160,36 @@
         "iso_date": "2026-04-26T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260426/20260426003642one_T.jpg?20260426",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "City through to fourth straight FA Cup final",
+        "link": "https://www.gdnonline.com/Details/1392734/City-through-to-fourth-straight-FA-Cup-final-",
+        "published": "26 Apr 2026",
+        "iso_date": "2026-04-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260426/20260426_022930_2_T.jpg?20260426",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudiâs Ahli repeat as ACL Elite champions",
+        "link": "https://www.gdnonline.com/Details/1392735/Saudiâs-Ahli-repeat-as-ACL-Elite-champions",
+        "published": "26 Apr 2026",
+        "iso_date": "2026-04-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260426/20260426_022932_0_T.jpg?20260426",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Arsenal reclaim top spot",
+        "link": "https://www.gdnonline.com/Details/1392733/Arsenal-reclaim-top-spot",
+        "published": "26 Apr 2026",
+        "iso_date": "2026-04-26T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260426/20260426_022930_0_T.jpg?20260426",
         "source": "gdn",
         "category": "Latest"
       },
@@ -113,138 +214,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Northern Sea Drill",
-        "link": "https://www.newsofbahrain.com/bahrain/131370.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GzP0BbQeFn_2026-04-25_1777146999resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "British fighters scramble after drone crashes in Romania",
-        "link": "https://www.newsofbahrain.com/world/131369.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xsFNYremql_2026-04-25_1777142873resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Eases Sanctions to Allow Venezuela to Fund Maduro’s Legal Defence",
-        "link": "https://www.newsofbahrain.com/world/131368.html",
-        "published": "25 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-25T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mV2NLYxhbK_2026-04-25_1777142446resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran President Urges Energy Conservation Amid Rising Pressure on Power Grid",
-        "link": "https://www.newsofbahrain.com/world/131367.html",
-        "published": "25 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-25T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SqRtXMUkc0_2026-04-25_1777142107resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Muharraq Governor Praises Heritage Photographer",
-        "link": "https://www.newsofbahrain.com/bahrain/131366.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dK1ZuGIFXW_2026-04-25_1777141873resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HM King HAMAD Receives Russian Envoy",
-        "link": "https://www.newsofbahrain.com/bahrain/131365.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xNkTt0VbDI_2026-04-25_1777141638thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain, Kuwait FMs Discuss Bilateral Ties and Regional Developments",
-        "link": "https://www.newsofbahrain.com/bahrain/131363.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SI4g6MoVkw_2026-04-25_1777130125thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tabreed Bahrain Expands District Cooling Network in Manama",
-        "link": "https://www.newsofbahrain.com/bahrain/131359.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x7eiDz4Haf_2026-04-25_1777129008thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump Halts Envoys’ Travel as Iran-US Talks Fail to Materialise",
-        "link": "https://www.newsofbahrain.com/world/131364.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GdP1VWks0A_2026-04-25_1777135104thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Small Vessel office handles over 2,000 transactions in two months",
-        "link": "https://www.newsofbahrain.com/business/131324.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lvPHdBG7hm_2026-04-25_1777109494thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tender Board opens bids for major government contracts",
-        "link": "https://www.newsofbahrain.com/business/131322.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_krIu3OpPhU_2026-04-25_1777109307thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Chinese EVs, flying cars take centre stage at world’s biggest auto show",
-        "link": "https://www.newsofbahrain.com/business/131321.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UpbAL4Y2Ih_2026-04-25_1777108878thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tesla starts ‘robotaxi’ production: Musk",
-        "link": "https://www.newsofbahrain.com/business/131308.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TKi9vr7tlf_2026-04-25_1777100333thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -358,5 +328,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-26 00:33:54 UTC"
+  "fetched_at": "2026-04-26 01:35:51 UTC"
 }
