@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 13
     }
   },
   "articles": {
@@ -32,20 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Macron reaffirms efforts to reopen Strait of Hormuz, as TotalEnergies warns of energy shortages",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWlhvMEdJSS1DellPSWREWXcxOWRZWGNoYVVaaFJPRm1tdEJwWXpLcjZWWWk0X1BQS1JhUUd4SkpKeGlGQXFkT1dibEkwZnV2Q0o3WTh3OGJnN05Wd1B1b2dKUXlfdDFKR2Q3Vkc1ZEwxZTNuclAwV3lyOElPVEZMQXQ0SVpTRll4QjhXVEZ2Zk5UZVgzNFhuYzZyam93clhuSzlxS3FIeVk5TlJaNlNKYjRyaXNlbUZPLS1rSmFTWUFEeVV3dlo1RklfdldYZkRqUlU1UFBDTHIxSUk?oc=5",
-        "published": "25 Apr 2026, 10:57 PM",
-        "iso_date": "2026-04-25T22:57:14+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOYlBpUTBzbXY1eGxTLVI5QnA4RmJsNnM3OTZ6NW9yQlJlQWhpNUxiZ2pRcW9vcndxN2M0bWd6M01WMEV5dC04UlZrM2FtM1lZZzF2LUxBeGhUQUJDcTdDWnpzaTQ2OEFlU0kzT0FXM3NxMlZqVVU1bjVlRWlsbWtvRF9LUGZfalljY2lwUGNzbFJiZF9HeUJ5dG44clRLbFZmM2xfNkRyZ1IyaW1Mbm5IY3hyZk1ndnZyYXBOeDhyWnRnNnM0NDBnMkNVUGZPTFFUZGVTYUpGM2J4ME9SXzdkbVg3QkxQMVpfMEJjVjJwYnhKY0txX3lyLXlaNkJMX181R1pFLXJmX1ZDRkdabEI4MDg2NURIWDloX1pfQklTcFZmZXNrRy0zRXc5MFdLbC1tSUg1V0xSckdBYzJBQWF2QVdKNzR1bUNmNGFCUER2ME9ub3BpajJXRGU2eWNVQkJvY3B6dnRmbnZZZmpLNW1kQ0xmU2pVZS1LcnVqNFhoQzdyZlo2MGdSZlFuSUR2UQ?oc=5",
-        "published": "25 Apr 2026, 04:07 PM",
-        "iso_date": "2026-04-25T16:07:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZmJnc05ETVlMSkxFcmFDRWdqZGE4Q05yRkZDanVJT2tUc0dDa192TFlvcGUtRlBTVWlQZnBVR3k5aDdfdHBxOUQ2czJIcnY3djdrdl9sZGRyTzRCRFpvdGNfZFZYVlJNdkhrZ0N1dWZuTVlqNWFOTWFOdE9hbHRKVUllQUVOa0ViQk1vVlhnN0c2U1MzNGZ3Vk1pRXhXYWRZbXoybVJwWjlId08yNEVjUFhJdGhYYld0Q0lldm5Namp3cTBuTE9kUG9Xa3dtM1VINmxFZWt6X3lnQ29JTlItV3F0akFVZGVKdWVUNzNRYjFKYmZTQjhwUFh6WmJBR3oxbGJFak1pNFVBVjVVQS1tZ1V0bU9rYUhCbENSYUgycEEzVUhlN2w0a3pGVEdNdk1McnJDMTQ1NUFBLU96R0F5WXA2SlFHWVg0RmROclp6TktveEd6bDdrZmg0UnJLellHUWdmSDNoZVpjRVBlNW1rWndPc3o5V2hoR3ZrdmxmM3h3WXZBUWVZb3V2TjhXZw?oc=5",
+        "published": "25 Apr 2026, 07:47 PM",
+        "iso_date": "2026-04-25T19:47:03+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -214,7 +204,138 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Northern Sea Drill",
+        "link": "https://www.newsofbahrain.com/bahrain/131370.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GzP0BbQeFn_2026-04-25_1777146999resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "British fighters scramble after drone crashes in Romania",
+        "link": "https://www.newsofbahrain.com/world/131369.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xsFNYremql_2026-04-25_1777142873resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Eases Sanctions to Allow Venezuela to Fund Maduro’s Legal Defence",
+        "link": "https://www.newsofbahrain.com/world/131368.html",
+        "published": "25 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mV2NLYxhbK_2026-04-25_1777142446resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran President Urges Energy Conservation Amid Rising Pressure on Power Grid",
+        "link": "https://www.newsofbahrain.com/world/131367.html",
+        "published": "25 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-25T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SqRtXMUkc0_2026-04-25_1777142107resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq Governor Praises Heritage Photographer",
+        "link": "https://www.newsofbahrain.com/bahrain/131366.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dK1ZuGIFXW_2026-04-25_1777141873resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HM King HAMAD Receives Russian Envoy",
+        "link": "https://www.newsofbahrain.com/bahrain/131365.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xNkTt0VbDI_2026-04-25_1777141638thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, Kuwait FMs Discuss Bilateral Ties and Regional Developments",
+        "link": "https://www.newsofbahrain.com/bahrain/131363.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SI4g6MoVkw_2026-04-25_1777130125thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tabreed Bahrain Expands District Cooling Network in Manama",
+        "link": "https://www.newsofbahrain.com/bahrain/131359.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x7eiDz4Haf_2026-04-25_1777129008thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump Halts Envoys’ Travel as Iran-US Talks Fail to Materialise",
+        "link": "https://www.newsofbahrain.com/world/131364.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GdP1VWks0A_2026-04-25_1777135104thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Small Vessel office handles over 2,000 transactions in two months",
+        "link": "https://www.newsofbahrain.com/business/131324.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lvPHdBG7hm_2026-04-25_1777109494thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tender Board opens bids for major government contracts",
+        "link": "https://www.newsofbahrain.com/business/131322.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_krIu3OpPhU_2026-04-25_1777109307thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Chinese EVs, flying cars take centre stage at world’s biggest auto show",
+        "link": "https://www.newsofbahrain.com/business/131321.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UpbAL4Y2Ih_2026-04-25_1777108878thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tesla starts ‘robotaxi’ production: Musk",
+        "link": "https://www.newsofbahrain.com/business/131308.html",
+        "published": "25 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-25T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TKi9vr7tlf_2026-04-25_1777100333thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -328,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-26 01:35:51 UTC"
+  "fetched_at": "2026-04-26 03:06:41 UTC"
 }
