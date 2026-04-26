@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
         "published": "25 Apr 2026, 06:42 PM",
         "iso_date": "2026-04-25T18:42:33+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNUjV4VE5ULTlSVUtHTXhQNXJ0ai1QNFpYVFFscDFaeHRzLXBjQ2VRMHlOV1VqZmZWR3UzY2o3VzhBaU1Fb0QwVklCZzk2QkkyUG5MbE8wR2dPcFhtTXFNZzZKNVhrMEJiek1LeTNic1dzMUc5S2lrYTVUZ08yQWNiUmJ5NEQ0WXNVSFZoc25rd2JxZE9KSkFTdi1vRTV5YTVHODJLN2VNUXl1RGswS3E3YXhBM0dNeVYyelBLd0JzZndqTkNROEp0eURzZjhxWHNLOXBlSWJBX1BNZzF5QlkxeEdwMHd2ZHVyZ3M0WjN1NnBCbHoxWGpPYnFMbmRXak55VVIwbHNRbVA1UkpZa2Zua1RuQzE1S1RQRjAwZXFNeGhoNUFpdmQ0cThMYmV1SHZhQl9vVWpnWHMzX21YUExFMllKUng4eTFERTllWUUwQ3hJbG9RN2dMT3Zic0xJT3NKNEIteXVobUh0MkE1ZE9NOG0tVXNFVFc3cTRmWi1SWm9HWnlLY1BKN1pJckJnUklJUXRwbXg2OHlxd3pCTWhXUG5vQ09pRS1DWWl4NlFwUHd3TzhxU1NHMA?oc=5",
-        "published": "25 Apr 2026, 07:14 PM",
-        "iso_date": "2026-04-25T19:14:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,6 +196,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Man City Fight Back to Reach FA Cup Final",
+        "link": "https://www.newsofbahrain.com/sports/131397.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nS8yMWId0T_2026-04-26_1777192999resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Eze wondergoal sends Arsenal top",
+        "link": "https://www.newsofbahrain.com/sports/131396.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4lANnD5TRH_2026-04-26_1777192908resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Swiss Air Flight LX147 Aborts Takeoff in Delhi After Engine Fire; 6 Injured",
+        "link": "https://www.newsofbahrain.com/world/131395.html",
+        "published": "26 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4EqFxLMcVk_2026-04-26_1777192753resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "63 Countries, One Journey",
+        "link": "https://www.newsofbahrain.com/bahrain/131394.html",
+        "published": "26 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G6STgRjVPU_2026-04-26_1777192561resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Building Tomorrow’s Leaders",
         "link": "https://www.newsofbahrain.com/bahrain/131393.html",
         "published": "26 Apr 2026, 09:22 AM",
@@ -221,37 +251,17 @@
         "published": "26 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DEljO9dA71_2026-04-26_1777191637resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Muharraq Writes Another Chapter of Greatness",
-        "link": "https://www.newsofbahrain.com/sports/131391.html",
-        "published": "26 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CloaIUGLdH_2026-04-26_1777190719resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DEljO9dA71_2026-04-26_1777191637thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "BTEA Introduces Optional Q1 Fee Deferral for Tourism Sector",
         "link": "https://www.newsofbahrain.com/bahrain/131390.html",
-        "published": "26 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IPCbf29wLS_2026-04-26_1777190511resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tough Opening for Bahrain 3x3 in Sanya",
-        "link": "https://www.newsofbahrain.com/sports/131389.html",
         "published": "26 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1gGAwZuhsQ_2026-04-26_1777189872resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IPCbf29wLS_2026-04-26_1777190511thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -262,16 +272,6 @@
         "iso_date": "2026-04-26T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_8vZHTnoANM_2026-04-26_1777189229thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Volunteer Emergency Training",
-        "link": "https://www.newsofbahrain.com/bahrain/131383.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BGpDaYUgWH_2026-04-26_1777187810thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +302,6 @@
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_mV2NLYxhbK_2026-04-25_1777142446thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran President Urges Energy Conservation Amid Rising Pressure on Power Grid",
-        "link": "https://www.newsofbahrain.com/world/131367.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SqRtXMUkc0_2026-04-25_1777142107thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-26 08:28:09 UTC"
+  "fetched_at": "2026-04-26 08:51:46 UTC"
 }
