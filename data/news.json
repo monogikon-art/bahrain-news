@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -46,6 +46,16 @@
         "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
         "published": "25 Apr 2026, 06:42 PM",
         "iso_date": "2026-04-25T18:42:33+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNUjV4VE5ULTlSVUtHTXhQNXJ0ai1QNFpYVFFscDFaeHRzLXBjQ2VRMHlOV1VqZmZWR3UzY2o3VzhBaU1Fb0QwVklCZzk2QkkyUG5MbE8wR2dPcFhtTXFNZzZKNVhrMEJiek1LeTNic1dzMUc5S2lrYTVUZ08yQWNiUmJ5NEQ0WXNVSFZoc25rd2JxZE9KSkFTdi1vRTV5YTVHODJLN2VNUXl1RGswS3E3YXhBM0dNeVYyelBLd0JzZndqTkNROEp0eURzZjhxWHNLOXBlSWJBX1BNZzF5QlkxeEdwMHd2ZHVyZ3M0WjN1NnBCbHoxWGpPYnFMbmRXak55VVIwbHNRbVA1UkpZa2Zua1RuQzE1S1RQRjAwZXFNeGhoNUFpdmQ0cThMYmV1SHZhQl9vVWpnWHMzX21YUExFMllKUng4eTFERTllWUUwQ3hJbG9RN2dMT3Zic0xJT3NKNEIteXVobUh0MkE1ZE9NOG0tVXNFVFc3cTRmWi1SWm9HWnlLY1BKN1pJckJnUklJUXRwbXg2OHlxd3pCTWhXUG5vQ09pRS1DWWl4NlFwUHd3TzhxU1NHMA?oc=5",
+        "published": "25 Apr 2026, 07:14 PM",
+        "iso_date": "2026-04-25T19:14:36+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,42 +206,82 @@
     ],
     "newsofbahrain": [
       {
-        "title": "New Dual-Lane Turn Improves Flow by 40%",
-        "link": "https://www.newsofbahrain.com/bahrain/131376.html",
+        "title": "First Virtual Horse Auction in Bahrain",
+        "link": "https://www.newsofbahrain.com/business/131387.html",
         "published": "26 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wVEnqjFBK8_2026-04-26_1777185442resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QTLNJtv05n_2026-04-26_1777188713resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Vets Honoured for Public Health Role",
-        "link": "https://www.newsofbahrain.com/bahrain/131375.html",
+        "title": "King Hamad American Mission Hospital Embarks on Journey Toward Baby-Friendly Hospital Accreditation",
+        "link": "https://www.newsofbahrain.com/business/131386.html",
         "published": "26 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sQGbeIqTyj_2026-04-26_1777185218resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W07tIuhrEz_2026-04-26_1777188378resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "BD 7,700 Fraud Lands Worker in Prison",
-        "link": "https://www.newsofbahrain.com/bahrain/131374.html",
+        "title": "Bahrain Chamber Launches SME Department at New Term Start",
+        "link": "https://www.newsofbahrain.com/business/131384.html",
         "published": "26 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-26T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Ea7QeYwWLX_2026-04-26_1777184900resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vUQMynES8B_2026-04-26_1777188025resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Strongly Condemns Armed Attempt in US",
-        "link": "https://www.newsofbahrain.com/bahrain/131373.html",
+        "title": "Volunteer Emergency Training",
+        "link": "https://www.newsofbahrain.com/bahrain/131383.html",
         "published": "26 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-26T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Xsq1YzwvMT_2026-04-26_1777179414resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BGpDaYUgWH_2026-04-26_1777187810resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Domestic Worker Rescued",
+        "link": "https://www.newsofbahrain.com/bahrain/131382.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hgDlrROVsn_2026-04-26_1777187481resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Breakthrough in Inclusive Education",
+        "link": "https://www.newsofbahrain.com/bahrain/131381.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SLtFMbgxmY_2026-04-26_1777187178thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Court Raises Accident Compensation Amount",
+        "link": "https://www.newsofbahrain.com/bahrain/131379.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rqT3QIaHoP_2026-04-26_1777186697thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A School Under Investigation",
+        "link": "https://www.newsofbahrain.com/bahrain/131378.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lUoEbrQ0nW_2026-04-26_1777185925thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -241,17 +291,7 @@
         "published": "26 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-26T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EZCoQD4h9w_2026-04-26_1777179261resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Northern Sea Drill",
-        "link": "https://www.newsofbahrain.com/bahrain/131370.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GzP0BbQeFn_2026-04-25_1777146999thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EZCoQD4h9w_2026-04-26_1777179261thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,36 +332,6 @@
         "iso_date": "2026-04-25T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_lvPHdBG7hm_2026-04-25_1777109494thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tender Board opens bids for major government contracts",
-        "link": "https://www.newsofbahrain.com/business/131322.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_krIu3OpPhU_2026-04-25_1777109307thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Chinese EVs, flying cars take centre stage at world’s biggest auto show",
-        "link": "https://www.newsofbahrain.com/business/131321.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UpbAL4Y2Ih_2026-04-25_1777108878thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tesla starts ‘robotaxi’ production: Musk",
-        "link": "https://www.newsofbahrain.com/business/131308.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TKi9vr7tlf_2026-04-25_1777100333thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -439,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-26 06:40:01 UTC"
+  "fetched_at": "2026-04-26 07:33:13 UTC"
 }
