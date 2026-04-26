@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -23,19 +23,9 @@
     "bna": [
       {
         "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQMmtvVlBLVzhiNDZFb2tIVGIwN1p2OXRlX3dxb0xXRVBQY2V3ZU1qbmItanNXa0pNSm01RkVMMXRWTWJoSV9NaHN0UHlOeHF1UV9zMVhkdVJ1MHJ2X3lCLXQ5a1paQ3ZZQW91S3IyRWR0akozaHhVd3c1MkRNNFN3OVZYQ3lqbElvMzM5d3RrLUxJUlU0MEtCVmpSUVI5LV8yVmVVUXh1bWNVTVFQRlZTYmhlQVU4SkEyb3g4dHN3cDROcW9TdExNUHFna191MnFtWWo3WHMzTjI5dDMzYjFsM1BSNzI1eGkyNjRpS043eTFyY0RIb3hnTHExTGNLN281eUFGN21KenVpSzR6ZzBTVFNxUDBnVmNhRUdMSXNOYUdUS0gzeUhKc05qcEdQa25CNHZqaW5FczVBMW1YM1YxT1BRVTBlVUdmOFdQbTlMem5rdXZhWjkyZkJ6Q2oxWUZuRE5Bc0hJM2RFQmQtU3p2dTZFbkdwQWlwT1I4WnVlYnBsUWFwcG5sRG11XzJSR3hMelVLTzlUVlg4TUFldmpJeGZB?oc=5",
-        "published": "25 Apr 2026, 02:48 PM",
-        "iso_date": "2026-04-25T14:48:45+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZmJnc05ETVlMSkxFcmFDRWdqZGE4Q05yRkZDanVJT2tUc0dDa192TFlvcGUtRlBTVWlQZnBVR3k5aDdfdHBxOUQ2czJIcnY3djdrdl9sZGRyTzRCRFpvdGNfZFZYVlJNdkhrZ0N1dWZuTVlqNWFOTWFOdE9hbHRKVUllQUVOa0ViQk1vVlhnN0c2U1MzNGZ3Vk1pRXhXYWRZbXoybVJwWjlId08yNEVjUFhJdGhYYld0Q0lldm5Namp3cTBuTE9kUG9Xa3dtM1VINmxFZWt6X3lnQ29JTlItV3F0akFVZGVKdWVUNzNRYjFKYmZTQjhwUFh6WmJBR3oxbGJFak1pNFVBVjVVQS1tZ1V0bU9rYUhCbENSYUgycEEzVUhlN2w0a3pGVEdNdk1McnJDMTQ1NUFBLU96R0F5WXA2SlFHWVg0RmROclp6TktveEd6bDdrZmg0UnJLellHUWdmSDNoZVpjRVBlNW1rWndPc3o5V2hoR3ZrdmxmM3h3WXZBUWVZb3V2TjhXZw?oc=5",
-        "published": "25 Apr 2026, 07:47 PM",
-        "iso_date": "2026-04-25T19:47:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTzRiSG1RV1Rjci1zVV9pRkJNczJCaEpBZFBLZ2h6NWd4UmctXzRLZFVxNHdGR25FWTh1RWxjQXoyd3NHeHVKTU1PNUlZcXVtWWR4QlJBRE05b2hJRm9XS1pBbXNnZjVSTVRYd1dpSUk1MHA0ZkVidlBwQTVXODdraFFhenJuUWZtaDM4Nmtvd1NZa3o0eGcyN3RYb2Q1b3NyU2p2b0VXUWtlLXRDQlJiOUl3RnJZaHVkLXloMzBIODhSQlNYN0pBaFgxR1JFV0V1YmprOVUtTGJYM2VpR3pCc0pGaVRBME96MjJ1MUFlc2Z5MUtaZjZKY2xfZ2w5akEzaDZROHpVRWlZNWlHS0JaS3NnUzFITTVNUDctYlFhUkxOTDNldUFFdmxVaFJURUJCR0VRb01sNEt3N1o1a2FOT1FfUG9fX1c2aEc2ZEhMUF9GTnhBM3pONmdtU1hPNzV1XzE3RzFlcFVSUGxSYUtmTjRQSUNqN2hhaTFEOFNJdjE4a1Y4dEw1d3JYblZjQUVkXy00YTBaR2R4X3dTd3dST01B?oc=5",
+        "published": "26 Apr 2026, 01:10 AM",
+        "iso_date": "2026-04-26T01:10:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNLWt5UlhYSy12cW1TUC1DRzhLUFh0Z1NvNmpUX0x2dElld2pLMkZsbE5QWG5Jby1OTC1MN3JzdGxzUzJmVXVuUzdoRWRXdUd6el9NdkhDX0l6dWp1cWtZa1V5czdEYXFiblU5ZWxTVGd3RkdlTzhFbEFiLXI3RlVFb0V2TUdzd2MtdkdOdC1WV2JEWUlNeEhDZXpra29ITWFXOVF3VThnaWJGYUZXNTQ4VzFyaHdJSEVtR2NQOUxFSkpGc3NoM29aaUZmRm5qeGpLTkdxSFp6WlA1MWxPVlNuMi0yVU1xRUc5amFUX1dxanNVdlg3RHFUeENvRTRkNFRxcHQ3OHVadkg4aDEweDJ6eWdyXzRtT0xxMFJSaVB4NzVmdFVZcEhQX0sxc1htZ1FZcGdFWGZJSUNhQkdoTXNENHMySTBxa1pMd2E1dGxYS29yVTRrZ1lKdkx4U3NSWDR4LXI1U2JhZ1JZZmtGMk40dVpXMHY4Q0sxWHNjYVFadTQ1TzFGSDFLWmR4NDFMYkw3STUtVGVQWTZoYlVfTlFQNmlDVHAtSnlPaDdFN0JzbHY3WE4yRGY4eEEzZzJ6b0Fab2VTLXF3bXFqQmx2QWRWb2Y1Q2V5TGdQQWRMRXptQVJHWTFtOVRJSTBwSFB3UDZnTlR2TmxiR21RWlNhS2Fjd2RETWpLUQ?oc=5",
-        "published": "25 Apr 2026, 04:41 AM",
-        "iso_date": "2026-04-25T04:41:57+00:00",
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPZkZidlc4QjNXbzNnWGZfcHNfVFdwTmNDN2dVNE90Rks5V0kwdmRLeWtVOTJXTTdFS1lXbDB0RDNLVkNLOFUyZmsza2liSEhVVVBubEZtOTNGcTZjWVVFeEo4eXJIWTY3MlJNN2pfelJFOG5jbmppeGJ1Z3ljS3lBZzFpWHU1VWpqZVN2UnFCU19UaUU0SDc0bFpScUQ2clZiTGp3blZmZ2lCYllVQTd6YnQzakladGRUakZQbUpzLXRvYW5feXU5Z3NMcmRhNWZ5MjBLb1ZyakN6ckJlQUlfSUt6Q19nRWdMTUhvOS1IeXdhWUtUbXJ3VUZ3M0lMVHFUbEZpMURUN09pVjFuMlcwTmdMbTRSTjBpc3V4ZnRXeUh4UXUzc2xtLUNyM1dpbTNaU19MWFVLV25HeTRidHlCVWg0clI5Yzk2d1c2MDVqVXo3aDZXaFZUTm1ma3lkT0pjZ0FzN3VtQXVVVzJBUGdPNzVESkxRRm83ZVRHRmZTNA?oc=5",
+        "published": "25 Apr 2026, 06:18 AM",
+        "iso_date": "2026-04-25T06:18:11+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -449,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-26 03:06:41 UTC"
+  "fetched_at": "2026-04-26 04:34:49 UTC"
 }
