@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -32,16 +32,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOSVZkRzZtS2ZsN2YxNlVsaUFITEQtdmVDckQ5WnJkZjFndWFySTljQTdUTGJTZGZPZmdhQlRyeEJ4c0tfYVo1cWlpb0E4VTdleGxYR3FZQUJEWFkyTTdHa2JoeTl4MDdjU1c3aEpVYUZjcHYtMlRhQjVFLV9QZWs3Uko0UnBzVUItRVNndHNGTjZWS1ltSTZPU0pBT0dkdWJOY2hGazdyTFo1bzh1dXZLQTFpZG1JLTdiNW9zdjJ5VVlpS1drZHNPdU9OWU1CQWxmcGxQQmsyV0wwVzdQbHpIdGJjdktDZ09rdThWRU91c2h4YklqTWFkbnNEX3dDekxhZGVIcW9YUlBsazlRdzREdEpvMzB1WExOWHY0V2xpTFAxRGdjanRYVlJWa0R4Y2dGVDNXTXpBS3oxN055c3JsdmdFRko4cVM2SVMtUEtUUjJCM1BhdlJxSkswa2ZiMXd1dFhkMW1QMnBDSW8?oc=5",
-        "published": "26 Apr 2026, 01:04 AM",
-        "iso_date": "2026-04-26T01:04:05+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
         "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
         "published": "25 Apr 2026, 06:42 PM",
@@ -53,9 +43,9 @@
       },
       {
         "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
-        "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNUjV4VE5ULTlSVUtHTXhQNXJ0ai1QNFpYVFFscDFaeHRzLXBjQ2VRMHlOV1VqZmZWR3UzY2o3VzhBaU1Fb0QwVklCZzk2QkkyUG5MbE8wR2dPcFhtTXFNZzZKNVhrMEJiek1LeTNic1dzMUc5S2lrYTVUZ08yQWNiUmJ5NEQ0WXNVSFZoc25rd2JxZE9KSkFTdi1vRTV5YTVHODJLN2VNUXl1RGswS3E3YXhBM0dNeVYyelBLd0JzZndqTkNROEp0eURzZjhxWHNLOXBlSWJBX1BNZzF5QlkxeEdwMHd2ZHVyZ3M0WjN1NnBCbHoxWGpPYnFMbmRXak55VVIwbHNRbVA1UkpZa2Zua1RuQzE1S1RQRjAwZXFNeGhoNUFpdmQ0cThMYmV1SHZhQl9vVWpnWHMzX21YUExFMllKUng4eTFERTllWUUwQ3hJbG9RN2dMT3Zic0xJT3NKNEIteXVobUh0MkE1ZE9NOG0tVXNFVFc3cTRmWi1SWm9HWnlLY1BKN1pJckJnUklJUXRwbXg2OHlxd3pCTWhXUG5vQ09pRS1DWWl4NlFwUHd3TzhxU1NHMA?oc=5",
-        "published": "25 Apr 2026, 07:14 PM",
-        "iso_date": "2026-04-25T19:14:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOam13Y0xzbHpwZzlxVHJqTWFqdVVHcEtXRW9aOE9TYTVScVRyYkxMQnhBVzRITjFGZ2FPMHlYQmVBczFZWEEzelVWZGNUSVc3bmZHeWNwQU9hZ3Q5N3JCdmlTOWhJOVFzVzQtNVhpRXRjNll3ZWk1U2JmMkFxTWhKTFcwV1V5LUNsTVJ4VWNheVoyTy1USHAwdDdDSmhzMGlLTEc2VXQwWF9Qcmh4ZHBZZWdxYndvZGJfUWVJOHdIYUNwV0hFd3RIY1VVdjdqT21rcVVZSWZyeW5CaTRwQjR0YVJPWTdoTU5Faktuc1hjeENTdGljb3NoTEsyTzBUbHo5bnhSZGVPQmtiWEczZk1fdDYxMVpxYzdtaFhuLUREazNrdkNnRW1taEhxb3g3RnZaX0dHY3JHT0pBejl1MHJXT0lQazNUeXNsVUItRUR5RlJ5NFV3WklsSV9tcHFQMnBJV3k2Tl9CcEVacG1LUTgyb044bVhkamk2YjhTSkZtYXozdC0teE1fN01jT0dxb25CaDMxRHl6RFFCNEkwXzVMdWkzLTdSa0RMS2Jn?oc=5",
+        "published": "26 Apr 2026, 08:56 AM",
+        "iso_date": "2026-04-26T08:56:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,10 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
-        "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPNlRCNFV4Q2JHR1dkazBEYjBJcDdoNDVmZ1Rzdkt6MjFVYzNtRmphclpOcHdwWlpaTHozQlV4dnpRQmZ3azg5N0JidG1TSzRiQnZfR2NCcmk3X1RYTmpXS0ptZzhHRzhyUTd6MndEU0J4OUhuUTBwaFUtZG9pSUJpOExDTmU5c0hMa2N3V29reXhkdzFtVEZfRjRzOGFYdHJXYmJmb2ZwRFFrWjRiWWhjcGloR2tPcURSVFNwdi0zbzZsTThVQWFZTTBHbWRESVZmM0x0c0ZLejNhQThKU0FfZHd1UmhRZU1kNWY2TmJfcGlOOVoxT2REUmwzZXlTSkctLW13OXNkR3hqckUyclQ4ZTR3RlpKMUdPd2NobU14WUtlcXJDYUxuSVRQdl9ZVUJwenJRdER0ZHZiRU9XN2V2ZldoZDhjWk9UT0JjSDZMY1FGYnBTSV9zS2ZFMUtxZmI4SVc4UGxlTFhLYUdVQ3ZKRmYyam4tcmRkTnZSQkVhTTJHaERCNVdUb19kZ3gwNWRvbGZnZkZZXy1iVGZ4bmhHd0ljV2t1REdZY1o4OTNOQWRvTUY1bkdxOHBCZkxjMVJEYWVuNUN3dkJSdmxBdG1WY2xYWWNnWjU1bDNPdmtaOHZVYzEzT190azdB?oc=5",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:33+00:00",
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOSVZkRzZtS2ZsN2YxNlVsaUFITEQtdmVDckQ5WnJkZjFndWFySTljQTdUTGJTZGZPZmdhQlRyeEJ4c0tfYVo1cWlpb0E4VTdleGxYR3FZQUJEWFkyTTdHa2JoeTl4MDdjU1c3aEpVYUZjcHYtMlRhQjVFLV9QZWs3Uko0UnBzVUItRVNndHNGTjZWS1ltSTZPU0pBT0dkdWJOY2hGazdyTFo1bzh1dXZLQTFpZG1JLTdiNW9zdjJ5VVlpS1drZHNPdU9OWU1CQWxmcGxQQmsyV0wwVzdQbHpIdGJjdktDZ09rdThWRU91c2h4YklqTWFkbnNEX3dDekxhZGVIcW9YUlBsazlRdzREdEpvMzB1WExOWHY0V2xpTFAxRGdjanRYVlJWa0R4Y2dGVDNXTXpBS3oxN055c3JsdmdFRko4cVM2SVMtUEtUUjJCM1BhdlJxSkswa2ZiMXd1dFhkMW1QMnBDSW8?oc=5",
+        "published": "26 Apr 2026, 01:04 AM",
+        "iso_date": "2026-04-26T01:04:05+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-26 09:21:55 UTC"
+  "fetched_at": "2026-04-26 09:47:25 UTC"
 }
