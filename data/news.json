@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 13
     }
   },
   "articles": {
@@ -32,8 +32,18 @@
         "category": "Latest"
       },
       {
+        "title": "Fly-tipping gangs set to be targeted with drones, CCTV and high-tech tags under new government plan",
+        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQVjlDeGJkTE5odWZZX1ZfbEM3UlhDZUVfX3F2Y3lod0F0RTVDa0Z1UjhqbWc4a0JOQk9NOXktQVBIQlp6dWs3THUxYzN3NHNOd3NKOEZUbDh2b0JzVlBMWUJtX3Ffa3BBd2ZFbnlrbXNnVmtWWGVZeU04M3R6ZExOTklYSk9TZGl6UHp6M2s4bDgzU0I4cGxLVTBsM2NYS2dCcXpPQUtlejM3NnpRamhsVFBpSzdYUC1LZ21LNnhDdG1JN0ExWHJHNy1HYmhRVUpmeG56M0N3bVQxQm5JWnFJX0ppVEF6ZjFLLWh1dnE5U0U1OHNRVnpPVzcxYVlDN3NXXzBBbmt3dDVCa21EWWlCeUVjNnV4eFJKV1ZXQ2dSWEY1OFgzYTl6WUcxNmM2TkNpcllyVnhzRUhBem9tSHNvRnJvbGFmLThPXzBmSUJjTWhZLVZGTFhkYmdfRXFXUHBFcDYxVlBNOGloYU56VzJsbFA2WlVhQmc2c0NXTGVOVVRKSkZ6ejU0Q3RuUjlKbXpUZlJvaQ?oc=5",
+        "published": "26 Apr 2026, 01:22 AM",
+        "iso_date": "2026-04-26T01:22:07+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUTI2V3ZMQmx3LVdQeC1ZLVBNTVdLZzduZkZLNldpYkI0YUVhVDdHUTVMSUJIQnR2X1Q4UWE1bTdqTTRqelpPVkR4S0h5OHFJTDFtcmNfX2JKM09ELWxjdE0wUlFzeTNaVkEyYWg4cmlVMS1DcDQtU2JVeEJ5Y09ZenNydzlkbGMzcnNYQkJtY3Vud1FVSVAxWTRESzN3YWoxQS00UXdVSUEwUW9XWEozMmlxaGo5V3MweVVZOVZ0eVp4ZHIwVEJISy1SSU5sRERlcDNHZ3RSaEVRSk1lemh6Wk5BQV8wUGNpS3hMYno3akcwUTl3anQ5UENOalZUS1l4N29BSzFZRHBPTENQNWloMjFRemd3bGFUclh3a2QtMmh5YlV6cU5TMFlmT2dSYXdoME9WaVN1R3J6bU5nTmZpV0U3NFVIS1VvaFJJT3RVa0pQc0VVckRTTkFPU1RJMGFJU0U2c1NfUU9BZw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOSVZkRzZtS2ZsN2YxNlVsaUFITEQtdmVDckQ5WnJkZjFndWFySTljQTdUTGJTZGZPZmdhQlRyeEJ4c0tfYVo1cWlpb0E4VTdleGxYR3FZQUJEWFkyTTdHa2JoeTl4MDdjU1c3aEpVYUZjcHYtMlRhQjVFLV9QZWs3Uko0UnBzVUItRVNndHNGTjZWS1ltSTZPU0pBT0dkdWJOY2hGazdyTFo1bzh1dXZLQTFpZG1JLTdiNW9zdjJ5VVlpS1drZHNPdU9OWU1CQWxmcGxQQmsyV0wwVzdQbHpIdGJjdktDZ09rdThWRU91c2h4YklqTWFkbnNEX3dDekxhZGVIcW9YUlBsazlRdzREdEpvMzB1WExOWHY0V2xpTFAxRGdjanRYVlJWa0R4Y2dGVDNXTXpBS3oxN055c3JsdmdFRko4cVM2SVMtUEtUUjJCM1BhdlJxSkswa2ZiMXd1dFhkMW1QMnBDSW8?oc=5",
         "published": "26 Apr 2026, 01:04 AM",
         "iso_date": "2026-04-26T01:04:05+00:00",
         "summary": "",
@@ -46,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPWXAtZUk3ODJOV2tiLUJHUkdqNmNzbkY1RDdxcVd4NFpvbGVlXzl5eTJsSjBfYktucHlyME1ITjlGam9WUG55cXkzQ0dZMUNzeXNxX3FFR0RQemhleHVnRFJvLVp4SG5IRi1oeVFNbWRLel9TREpRaTZ2X1ZTZ240QWtuMXFNR0hGWW1lcjhFdnpsZGFuaGpKT2pnSVFrdWxKWlQxeXg5a1lNbnRKWjU0bm9DM0lNZldCQm9RRE5EYTlTU2RjSGk1Umg3SlYzb1JYZXRiVXlyVUlPd2tEdGNTZ1pFT1JjNEFiRjFkM1dQVjJQUVkyUXBpNUJNZDhGZzdLajhHUWFLN3ExQnpnWjZGLTBZRy1xRWZjQmt5QVZ3Ti1hSzdiSmk0YjVlU2E2R2JmN0RQemFFV2pFZWd5c1RZT1hGSDdlZVJQSGJSVzdkRlhIS3d6dUJtR1QxazhaTko3bmt0RGJiaFVwVHZyVm44SnBxQnhGQ2NXQ0MzV3Rtc1paT0dVNkNQajVGSG9yVkFqb0lpNzYtUlZGVnRMbnE0Q2JBcjQxRkM0Tkk4WGZFbjBCTERDMmhmTlo4N0RzN0RhbnNGQmdYa1huNHBhRElGSlBlR0lidVd2Vm16eTBrSkx4NE1oVDdJSlBB?oc=5",
         "published": "26 Apr 2026, 10:19 AM",
         "iso_date": "2026-04-26T10:19:13+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
-        "published": "25 Apr 2026, 06:42 PM",
-        "iso_date": "2026-04-25T18:42:33+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -196,10 +196,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "HRH the Crown Prince and Prime Minister issues Edict (12) of 2026",
-        "link": "https://www.newsofbahrain.com/bahrain/131400.html",
+        "title": "Manama Central Market Upgrade Plans Reviewed",
+        "link": "https://www.newsofbahrain.com/bahrain/131403.html",
         "published": "26 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PR6VJ1NfYj_2026-04-26_1777221131resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Reaffirms Humanitarian Commitment in Gaza Relief Efforts",
+        "link": "https://www.newsofbahrain.com/bahrain/131402.html",
+        "published": "26 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-26T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_f14n7g8B0x_2026-04-26_1777221029resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s Al-Jabouri Wins Bronze in Rabat",
+        "link": "https://www.newsofbahrain.com/bahrain/131401.html",
+        "published": "26 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-26T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FhQiGfAbqY_2026-04-26_1777220867resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH the Crown Prince and Prime Minister issues Edict (12) of 2026",
+        "link": "https://www.newsofbahrain.com/bahrain/131400.html",
+        "published": "26 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-26T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Lt57oBHcEv_2026-04-26_1777209182resized_pic.jpg",
         "source": "newsofbahrain",
@@ -212,56 +242,6 @@
         "iso_date": "2026-04-26T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9Faf0lYVZj_2026-04-26_1777205479resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "HRH Crown Prince and Prime Minister Meets Newly Appointed Gulf CDC CEO",
-        "link": "https://www.newsofbahrain.com/bahrain/131398.html",
-        "published": "26 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2m6PISMN9q_2026-04-26_1777204022resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man City Fight Back to Reach FA Cup Final",
-        "link": "https://www.newsofbahrain.com/sports/131397.html",
-        "published": "26 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nS8yMWId0T_2026-04-26_1777192999resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Eze wondergoal sends Arsenal top",
-        "link": "https://www.newsofbahrain.com/sports/131396.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4lANnD5TRH_2026-04-26_1777192908resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "63 Countries, One Journey",
-        "link": "https://www.newsofbahrain.com/bahrain/131394.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G6STgRjVPU_2026-04-26_1777192561thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Building Tomorrow’s Leaders",
-        "link": "https://www.newsofbahrain.com/bahrain/131393.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DB7phkTGlf_2026-04-26_1777191878thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-26 16:15:09 UTC"
+  "fetched_at": "2026-04-26 16:46:14 UTC"
 }
