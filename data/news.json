@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,16 +16,16 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTzRiSG1RV1Rjci1zVV9pRkJNczJCaEpBZFBLZ2h6NWd4UmctXzRLZFVxNHdGR25FWTh1RWxjQXoyd3NHeHVKTU1PNUlZcXVtWWR4QlJBRE05b2hJRm9XS1pBbXNnZjVSTVRYd1dpSUk1MHA0ZkVidlBwQTVXODdraFFhenJuUWZtaDM4Nmtvd1NZa3o0eGcyN3RYb2Q1b3NyU2p2b0VXUWtlLXRDQlJiOUl3RnJZaHVkLXloMzBIODhSQlNYN0pBaFgxR1JFV0V1YmprOVUtTGJYM2VpR3pCc0pGaVRBME96MjJ1MUFlc2Z5MUtaZjZKY2xfZ2w5akEzaDZROHpVRWlZNWlHS0JaS3NnUzFITTVNUDctYlFhUkxOTDNldUFFdmxVaFJURUJCR0VRb01sNEt3N1o1a2FOT1FfUG9fX1c2aEc2ZEhMUF9GTnhBM3pONmdtU1hPNzV1XzE3RzFlcFVSUGxSYUtmTjRQSUNqN2hhaTFEOFNJdjE4a1Y4dEw1d3JYblZjQUVkXy00YTBaR2R4X3dTd3dST01B?oc=5",
-        "published": "26 Apr 2026, 01:07 PM",
-        "iso_date": "2026-04-26T13:07:30+00:00",
+        "title": "Bahrain revokes nationality of dozens over 'support' for Iran's attacks - middle-east",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSy1PY1hfeUpoQWQ1UWdNMTVRcWV3R3FDVVVDZG8yeElfTzVGMF9pc1VmckVyWXpDQjUzXzlSRFo2c3lSM1dHVzVnSWhoYnZ6ZGJCQ2JSZ2JqbjBsaHdDZW9QdTRJTkZ4dGd2TlZqczV2WTdNY1JDaFE3YmJLNE5mVGpGU3VnSG93Vm9VNEUwZFVHcVgyLURSWUtFMA?oc=5",
+        "published": "27 Apr 2026, 02:12 PM",
+        "iso_date": "2026-04-27T14:12:49+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYVpZQ050SVpDVGdpTU9feURUbzhPLU1OUnczTkdNb0YwZk5STU9SMGNweWNxT3J2WDBlbzl0Z3RYdFY2bkJFOGt2MDJPQWRMZW1EVGpic3h6OFNpVFpOZTJBY2FuVjZWbTNtUENOZEd5aThpZ0xIcHRlTGhjY0huSE5ZVmhGU1hvZjNBZFJ2YTItSXhOclBUeVhaSGtGY0s5WVp2d0RoZXhyS18xTGlvNzhzV0dhM09BU0l0LWJScDk0X3paZ0FoSUNQUWxwR1B6dXViSGU2dEpOMEZBdjJYVDRBQUZTWncwNFhLZ0VtMlBfMjRtUjBjSWl0VzBvU251RlRGc1NhRFA2cHhDWEIzLTFhbkRSbm5rUVZwazB1WDI1RWhDb3pLdnhzV1hON1E0Ty1iZ0tCUnllVFppd1lNZ0p6cnVaN1lVRk5UYm53Y0FoRm02ZE84bmFwV1BBUGZDdDdiNTZUYlB3OThHeXcwNlpGbDhraDVGQXo2Q0hnazllYVRHRks3X1NMRElZblpiWTJrZ1NnTnlESUtDemZjUnpCNjJONVhVanEw?oc=5",
         "published": "27 Apr 2026, 09:56 AM",
         "iso_date": "2026-04-27T09:56:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
+        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
+        "published": "26 Apr 2026, 11:15 PM",
+        "iso_date": "2026-04-26T23:15:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -64,8 +74,8 @@
       {
         "title": "Iran War 2026- Live Updates: Iran offers new terms to reopen Strait of Hormuz, Axios reports",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45QkJucVZpNDZDWFVxOGhTWEtEcXpXbElsbzd0YVhYb0g3eUExT3d2UTB5ZlFZcDhWcGdHTlFuOUR3bnlyaGxVRS1oNjNXS3FCQVp3VFJIN3VWRzVxNWc?oc=5",
-        "published": "27 Apr 2026, 06:37 AM",
-        "iso_date": "2026-04-27T06:37:06+00:00",
+        "published": "27 Apr 2026, 12:44 PM",
+        "iso_date": "2026-04-27T12:44:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -73,6 +83,26 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Bahrain revokes citizenship of 69 individuals",
+        "link": "https://www.gdnonline.com/Details/1392888/Bahrain-revokes-citizenship-of-69-individuals",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427155010pass_T.jpg?20260427",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Cabinet reviews measures to address impact of Iranian aggression",
+        "link": "https://www.gdnonline.com/Details/1392890/Cabinet-reviews-measures-to-address-impact-of-Iranian-aggression",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427155434cp1(15)_T.jpg?20260427",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "MPs call to assess actual need for delivery drivers following rapid expansion in Bahrain",
         "link": "https://www.gdnonline.com/Details/1392876/MPs-call-to-assess-actual-need-for-delivery-drivers-following-rapid-expansion-in-Bahrain",
@@ -100,26 +130,6 @@
         "iso_date": "2026-04-27T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260427/20260426_222646_1_T.jpg?20260427",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Carbohydrate counting âis crucial for diabetes controlâ",
-        "link": "https://www.gdnonline.com/Details/1392798/Carbohydrate-counting-âis-crucial-for-diabetes-controlâ",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260426_222709_1.png?20260427",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrainâs humanitarian projects in Gaza Strip discussed",
-        "link": "https://www.gdnonline.com/Details/1392790/Bahrainâs-humanitarian-projects-in-Gaza-Strip-discussed",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260426_222644_2_T.jpg?20260427",
         "source": "gdn",
         "category": "Latest"
       },
@@ -196,10 +206,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Man who damaged Porsche to escape dogs not liable for damage: Munich court",
-        "link": "https://www.newsofbahrain.com/world/131478.html",
+        "title": "Bahrain prioritises stability, talent retention",
+        "link": "https://www.newsofbahrain.com/bahrain/131480.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J8E4gTLXoP_2026-04-27_1777295540resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Norway police cooperate with France on Epstein probe",
+        "link": "https://www.newsofbahrain.com/world/131479.html",
+        "published": "27 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hOsnEAborv_2026-04-27_1777295417resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Man who damaged Porsche to escape dogs not liable for damage: Munich court",
+        "link": "https://www.newsofbahrain.com/world/131478.html",
+        "published": "27 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_myNu4hWrPq_2026-04-27_1777294827resized_pic.jpg",
         "source": "newsofbahrain",
@@ -207,9 +237,9 @@
       },
       {
         "title": "Cabinet Orders Public Health Measures",
-        "link": "https://www.newsofbahrain.com/world/131477.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
+        "link": "https://www.newsofbahrain.com/bahrain/131477.html",
+        "published": "27 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_o78EQiaC5z_2026-04-27_1777294110resized_pic.jpg",
         "source": "newsofbahrain",
@@ -218,30 +248,10 @@
       {
         "title": "Shell to buy Canadian energy company ARC Resources for over $16 bn",
         "link": "https://www.newsofbahrain.com/world/131476.html",
-        "published": "27 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G10pMfUg5m_2026-04-27_1777293656resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Lebanon’s President Defends Israel Talks, Calls War Decision ‘Treason’",
-        "link": "https://www.newsofbahrain.com/world/131475.html",
-        "published": "27 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PnMSl9pOmc_2026-04-27_1777292087resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Israeli military says striking Hezbollah positions in Bekaa Valley",
-        "link": "https://www.newsofbahrain.com/world/131474.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GuecS4VzJ2_2026-04-27_1777291716resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G10pMfUg5m_2026-04-27_1777293656resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -276,22 +286,12 @@
         "category": "Latest"
       },
       {
-        "title": "Social Support Bill Sparks Budget Concerns",
-        "link": "https://www.newsofbahrain.com/bahrain/131424.html",
+        "title": "Lebanon’s President Defends Israel Talks, Calls War Decision ‘Treason’",
+        "link": "https://www.newsofbahrain.com/world/131475.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_itwbBLGXDn_2026-04-27_1777273930thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shift of OAPEC into Broader Arab Energy Body",
-        "link": "https://www.newsofbahrain.com/bahrain/131423.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3DS86m20uF_2026-04-27_1777277339thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PnMSl9pOmc_2026-04-27_1777292087thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 13:02:10 UTC"
+  "fetched_at": "2026-04-27 14:15:46 UTC"
 }
