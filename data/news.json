@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 16
     }
   },
   "articles": {
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSy1PY1hfeUpoQWQ1UWdNMTVRcWV3R3FDVVVDZG8yeElfTzVGMF9pc1VmckVyWXpDQjUzXzlSRFo2c3lSM1dHVzVnSWhoYnZ6ZGJCQ2JSZ2JqbjBsaHdDZW9QdTRJTkZ4dGd2TlZqczV2WTdNY1JDaFE3YmJLNE5mVGpGU3VnSG93Vm9VNEUwZFVHcVgyLURSWUtFMA?oc=5",
         "published": "27 Apr 2026, 02:20 PM",
         "iso_date": "2026-04-27T14:20:31+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Revokes Nationality of 69 Individuals for Hailing Iranian Attacks - Asharq Al-Awsat | Explore World News Today",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUtQcnVqSjZKd0N5cDJxU00zcDNmOUxBaVNyc05qQ1RfdHRfUTkwTnZHWDNhaFFubVMxSUFrdkxseXZ0MlBKY2ltbGJBV1lHUEx2TFhLS2cwYTJxTXFIR2FtV2tXS2d0cm5rSnlwUkJDeE8yTVFadGt6TS1YRUI5X2VGVDFKZXlid3pKUUppMWlGWkV3S25rcVVuYngzaDhCamIzRVBCQjMtZw?oc=5",
-        "published": "27 Apr 2026, 03:00 PM",
-        "iso_date": "2026-04-27T15:00:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -82,6 +72,16 @@
         "category": "Latest"
       },
       {
+        "title": "What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disrupt the global oil supply?",
+        "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPaU5XLUZIREhNdE94U2RKa2JfZ1BfVko4Zld6M0JaeFhtUnB3SlZNc1doMGFRTnlRa29ZNXM3NkhGYV9rUkkyYWstWEc0dzdldnZRZ1c1Tjl2NmJMQXNoU25PaGpSZC00UmN6LVRCRDkzcVFzQ2hIZGR5MUFVeHBfcE1hWTlvUTMyZ01NWUZCYVJ2a0lveHZjSl9VR3djOHNUWm9kZVFuUXZpZ25EMkFpUjV5Y1drNkRzbTZKS01lWXpPbVp6dmgxZWZhVG5PSlRKWlU0QjhhWDJiOWNVc2NPTUtLTnVwUTdSYnVhdkRHZTFQNWZQZmdxcnRMcFZSNHN3SElRSnpTSFF1YW1hclA4Q3NTbFhQYXBhZ3N6MXdFZzBlbnREaVMtMW04bU1vbXpCVlp3SlZiQmdzaHBMYTRPdUpTZGI0NVh2dnJKb0dwcmRyWF90bW92OVhTMDBLcUI2MGNQMzdTekd1V3RtY0ozOG5WY2NsMGJ2d0Q1LUR5eDltbGdNb3cwRENneVBQbGk4UmZ2RVdfWmJFd0gwSWJVcTFucmNpMmdXVlEyOW0xbENNSVVFc0hRcGREbjZJTTk5RGQyVEVjbTRHMjNiSXRONXNTaW90bWpoNTFPbC1lLThTN3RjM0E5TVJIbGZsZkdSMUhqaG1Fa2tmdFF3R1piWHNvLUptYkp1?oc=5",
+        "published": "27 Apr 2026, 10:54 AM",
+        "iso_date": "2026-04-27T10:54:33+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
         "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
         "published": "26 Apr 2026, 11:15 PM",
@@ -103,6 +103,26 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Highway traffic hit as car catches fire",
+        "link": "https://www.gdnonline.com/Details/1392897/Highway-traffic-hit-as-car-catches-fire",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427202929website(2)_T.jpg?20260427",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Foreign Minister urges reopening of Strait of Hormuz in UN Security Council address",
+        "link": "https://www.gdnonline.com/Details/1392898/Foreign-Minister-urges-reopening-of-Strait-of-Hormuz-in-UN-Security-Council-address",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427203325un(1)_T.jpg?20260427",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Ministry releases names of individuals stripped of their citizenship",
         "link": "https://www.gdnonline.com/Details/1392894/Ministry-releases-names-of-individuals-stripped-of-their-citizenship",
@@ -130,26 +150,6 @@
         "iso_date": "2026-04-27T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260427/20260427155434cp1(15)_T.jpg?20260427",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "MPs call to assess actual need for delivery drivers following rapid expansion in Bahrain",
-        "link": "https://www.gdnonline.com/Details/1392876/MPs-call-to-assess-actual-need-for-delivery-drivers-following-rapid-expansion-in-Bahrain",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427140801file1(1)_T.jpg?20260427",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "AN ENDURING PARTNERSHIP: Strong Bahrain-UAE bond stands as model of solidarity",
-        "link": "https://www.gdnonline.com/Details/1392824/AN-ENDURING-PARTNERSHIP-Strong-Bahrain-UAE-bond-stands-as-model-of-solidarity",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427020146bahrainuaeunity_T.jpg?20260427",
         "source": "gdn",
         "category": "Latest"
       },
@@ -226,52 +226,82 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Gold Stabilises Near $4,700 as Market Cools After Recent Rally",
+        "link": "https://www.newsofbahrain.com/world/131492.html",
+        "published": "27 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_URPq1ueQc3_2026-04-27_1777311983resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil Prices Rise Over 1%",
+        "link": "https://www.newsofbahrain.com/world/131491.html",
+        "published": "27 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ePDJafE7jd_2026-04-27_1777311727resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain and Portugal Foreign Ministers Discuss Bilateral Ties and Regional Developments",
+        "link": "https://www.newsofbahrain.com/bahrain/131490.html",
+        "published": "27 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-27T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HRzqSkMGWs_2026-04-27_1777311462resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rising AI Use Among Children Sparks Digital Safety Concerns in the Middle East",
+        "link": "https://www.newsofbahrain.com/world/131489.html",
+        "published": "27 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-27T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_d9woAtvP2x_2026-04-27_1777310941resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dubai Developer Makes Landmark Debut at Milan Design Week 2026, Showcasing UAE’s Design Vision",
+        "link": "https://www.newsofbahrain.com/views/131488.html",
+        "published": "27 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hdqWv1SJRC_2026-04-27_1777310808resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Strengthens Humanitarian Coordination in Meeting Between Ambassador to Egypt and RHF",
         "link": "https://www.newsofbahrain.com/bahrain/131485.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BzlUHqipWk_2026-04-27_1777309218resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BzlUHqipWk_2026-04-27_1777309218thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain Revokes Citizenship of 69 Individuals",
-        "link": "https://www.newsofbahrain.com/world/131484.html",
+        "link": "https://www.newsofbahrain.com/bahrain/131484.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RLa2XpOd4h_2026-04-27_1777309084resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "South Sudan says 14 killed in plane crash near Juba",
-        "link": "https://www.newsofbahrain.com/world/131483.html",
-        "published": "27 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kUmf4geVKE_2026-04-27_1777302209resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RLa2XpOd4h_2026-04-27_1777309084thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Bahrain prioritises stability, talent retention",
         "link": "https://www.newsofbahrain.com/bahrain/131480.html",
-        "published": "27 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J8E4gTLXoP_2026-04-27_1777295540resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Norway police cooperate with France on Epstein probe",
-        "link": "https://www.newsofbahrain.com/world/131479.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hOsnEAborv_2026-04-27_1777295417resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_J8E4gTLXoP_2026-04-27_1777295540thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,32 +316,12 @@
         "category": "Latest"
       },
       {
-        "title": "Minister Questioning Bill Cleared",
-        "link": "https://www.newsofbahrain.com/bahrain/131429.html",
+        "title": "Abu Dhabi Unveils Top Staycation Deals Ahead of Eid Al Adha Holiday",
+        "link": "https://www.newsofbahrain.com/world/131486.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jdhwnvIGa5_2026-04-27_1777275492thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Set to Join Global Industrial Design Classification System",
-        "link": "https://www.newsofbahrain.com/bahrain/131427.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W5f7uKmbtl_2026-04-27_1777277235thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man who damaged Porsche to escape dogs not liable for damage: Munich court",
-        "link": "https://www.newsofbahrain.com/world/131478.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_myNu4hWrPq_2026-04-27_1777294827thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EeHmAYzciU_2026-04-27_1777309873thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,6 +362,16 @@
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_7oY6EAnqT2_2026-04-27_1777278342thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MINI Unveils 1965 Victory Edition Honouring Monte Carlo Rally Triumph",
+        "link": "https://www.newsofbahrain.com/views/131487.html",
+        "published": "27 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-27T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DpYXHL4fkT_2026-04-27_1777310630thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 17:02:54 UTC"
+  "fetched_at": "2026-04-27 17:53:43 UTC"
 }
