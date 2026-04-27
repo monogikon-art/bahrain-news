@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 12
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -73,9 +73,9 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYVpZQ050SVpDVGdpTU9feURUbzhPLU1OUnczTkdNb0YwZk5STU9SMGNweWNxT3J2WDBlbzl0Z3RYdFY2bkJFOGt2MDJPQWRMZW1EVGpic3h6OFNpVFpOZTJBY2FuVjZWbTNtUENOZEd5aThpZ0xIcHRlTGhjY0huSE5ZVmhGU1hvZjNBZFJ2YTItSXhOclBUeVhaSGtGY0s5WVp2d0RoZXhyS18xTGlvNzhzV0dhM09BU0l0LWJScDk0X3paZ0FoSUNQUWxwR1B6dXViSGU2dEpOMEZBdjJYVDRBQUZTWncwNFhLZ0VtMlBfMjRtUjBjSWl0VzBvU251RlRGc1NhRFA2cHhDWEIzLTFhbkRSbm5rUVZwazB1WDI1RWhDb3pLdnhzV1hON1E0Ty1iZ0tCUnllVFppd1lNZ0p6cnVaN1lVRk5UYm53Y0FoRm02ZE84bmFwV1BBUGZDdDdiNTZUYlB3OThHeXcwNlpGbDhraDVGQXo2Q0hnazllYVRHRks3X1NMRElZblpiWTJrZ1NnTnlESUtDemZjUnpCNjJONVhVanEw?oc=5",
-        "published": "27 Apr 2026, 09:56 AM",
-        "iso_date": "2026-04-27T09:56:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQU1lTQnoxdGZxektEbF92c1duQml5aXhrSTFYU3BBYmMtQkgyeXl5Q2ZENzZxTHdFOVJuLS1rZ1VoblNfUXFtOG1NZGZhRlh5V0dBc3k4eGc3eDNVaFVOa2xWSklJMGk0bjJLWGtfTElybG1zUDV3TURHQkZOVU9yallWOURxd29DVzBnbHNVQU01ZDNNcGgtRDZ5NzZSSzEybVpxYXUySktrbWtuVW4tR3NZMVhEb3ZBX0RLLUFWUlBrcTE4VUQ4UU1lbWU4NmpyZmJ6Rm5fM1hvZkNnb2ZYejEwZ2pBUUtteThTbl9SRjFJeUxiVEdSVlJiVDJoQVRIajc0dldxMFZkWWxja0lFMVlsZVRXX2NZVjB2UlZxRTJlMmV0VzhnVS0yc3V0OFVqSTl0MlhRMm93MzFBTFJOUlR6Yms4Q3NaZ0dWRGxEbjlfaDAtVzM0Vm9ZZG5VQWZDM0l0YS1oNlVVcFZoME50UWJGZ1RFVWVwSTJJUUxrV0Joc3YySzdrWWdzOEF6M2lyVUtNcWFzVE5UWk0?oc=5",
+        "published": "27 Apr 2026, 03:45 PM",
+        "iso_date": "2026-04-27T15:45:01+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -94,102 +94,72 @@
     ],
     "gdn": [
       {
-        "title": "Competence and skills of national workforce praised",
-        "link": "https://www.gdnonline.com/Details/1392933/Competence-and-skills-of-national-workforce-praised",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
+        "title": "Highway traffic hit as car catches fire",
+        "link": "https://www.gdnonline.com/Details/1392897/Highway-traffic-hit-as-car-catches-fire",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428003754hyazdf_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427202929website(2)_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Protecting maritime waterways",
-        "link": "https://www.gdnonline.com/Details/1392932/Protecting-maritime-waterways",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
+        "title": "Foreign Minister urges reopening of Strait of Hormuz in UN Security Council address",
+        "link": "https://www.gdnonline.com/Details/1392898/Foreign-Minister-urges-reopening-of-Strait-of-Hormuz-in-UN-Security-Council-address",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428_002210_0_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427203325un(1)_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrainâs strong roots come alive on canvas",
-        "link": "https://www.gdnonline.com/Details/1392920/Bahrainâs-strong-roots-come-alive-on-canvas",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
+        "title": "Ministry releases names of individuals stripped of their citizenship",
+        "link": "https://www.gdnonline.com/Details/1392894/Ministry-releases-names-of-individuals-stripped-of-their-citizenship",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222027_2.png?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427173410website(1)_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Individuals whose Bahraini citizenship has been revoked",
-        "link": "https://www.gdnonline.com/Details/1392910/Individuals-whose-Bahraini-citizenship-has-been-revoked",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
+        "title": "Bahrain revokes citizenship of 69 individuals",
+        "link": "https://www.gdnonline.com/Details/1392888/Bahrain-revokes-citizenship-of-69-individuals",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427225056bahrainpassport2_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427155010pass_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Pledge to promote safe workplace environment",
-        "link": "https://www.gdnonline.com/Details/1392915/Pledge-to-promote-safe-workplace-environment",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
+        "title": "Cabinet reviews measures to address impact of Iranian aggression",
+        "link": "https://www.gdnonline.com/Details/1392890/Cabinet-reviews-measures-to-address-impact-of-Iranian-aggression",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428005725images_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427155434cp1(15)_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Bourse set to host capital markets conference",
-        "link": "https://www.gdnonline.com/Details/1392925/Bahrain-Bourse-set-to-host-capital-markets-conference",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
+        "title": "Bahrain Chamberâs SMEs unit âto boost private sector growthâ",
+        "link": "https://www.gdnonline.com/Details/1392702/Bahrain-Chamberâs-SMEs-unit-âto-boost-private-sector-growthâ",
+        "published": "26 Apr 2026",
+        "iso_date": "2026-04-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222110_1.png?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260426/20260426_001409_2.jpeg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "ONE App launches new digital financing features",
-        "link": "https://www.gdnonline.com/Details/1392924/ONE-App-launches-new-digital-financing-features",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
+        "title": "Isa Murad is appointed director of new department",
+        "link": "https://www.gdnonline.com/Details/1392703/Isa-Murad-is-appointed-director-of-new-department",
+        "published": "26 Apr 2026",
+        "iso_date": "2026-04-26T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222109_0_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "New GIB chairman appointed",
-        "link": "https://www.gdnonline.com/Details/1392927/New-GIB-chairman-appointed",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222112_0.png?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Beyon Cyber named fastest-growing cybersecurity company by Deloitte",
-        "link": "https://www.gdnonline.com/Details/1392923/Beyon-Cyber-named-fastest-growing-cybersecurity-company-by-Deloitte",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222107_0.png?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "BAB maps out strategic growth",
-        "link": "https://www.gdnonline.com/Details/1392922/BAB-maps-out-strategic-growth",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222046_0_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260426/20260426003642one_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
@@ -519,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 23:20:24 UTC"
+  "fetched_at": "2026-04-27 23:47:25 UTC"
 }
