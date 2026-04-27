@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -63,7 +63,7 @@
       },
       {
         "title": "Bahrain revokes citizenship of 69 people over Iranian-linked security violations",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcVBoWFBRQW45RG95QjBjbWFNWDJiRlBMcnVIZDVSQlFmV1gxaXhHNHFnSDBURjNtQWVpNV8yTnhqQTFEX3NOc09zbE1BNVRINFA3N1NWbXBGV0tuYVpXZTYyQXd4MG9oU0tPSUVQMGFCQ3RsWFJETU40TjNoeFAyR3lJT2d6blFnRFAwT2FOR3hkVGpqcmlYdVQ2SjZBbDRJUnV6RmtLVnpXbmN4UE5IcFhHdXJFZTBCSThxMHIycnJ0WW4yeE1hbg?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tbTItaGhDaElKV0R4WUtoNXJjR1pBdXlVVnAwTi0wR1dDZGlMLU1QQ2NxVWdPNzdxZ1NuVktJaWNCMFZHSEhNUTdWNDR5S3lZcGgyTA?oc=5",
         "published": "27 Apr 2026, 02:55 PM",
         "iso_date": "2026-04-27T14:55:00+00:00",
         "summary": "",
@@ -86,16 +86,6 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR3lPcUFoOU5ScC1JMjFuZlZ1LXhOYmlCUnlmZndVcE1EOHR2YnNxekJUU0ozTHMteHZna2w1NTFFMDU5ZVcxT1FmVFlfLVFtWWxkSDZhWG1fS19Hbi1fcFFCbzZrM0U1R1BNVzJ2ZjJKM3BiaEpHYUxSVGZoVjlDNEd1bDNQMGhEeUJJWGJJSFNKTUlZbGdneV93VFVxaUY2R1BtTFkySU9GR2FaRGFxTXFjcl9nQU1WUVVESVFqVmhnTzBsX2h6d2NMSHdCN3JTU2tEQXliRVQ?oc=5",
         "published": "27 Apr 2026, 05:04 PM",
         "iso_date": "2026-04-27T17:04:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran War 2026- Live Updates: Iran offers new terms to reopen Strait of Hormuz, Axios reports",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45QkJucVZpNDZDWFVxOGhTWEtEcXpXbElsbzd0YVhYb0g3eUExT3d2UTB5ZlFZcDhWcGdHTlFuOUR3bnlyaGxVRS1oNjNXS3FCQVp3VFJIN3VWRzVxNWc?oc=5",
-        "published": "27 Apr 2026, 12:44 PM",
-        "iso_date": "2026-04-27T12:44:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 20:25:39 UTC"
+  "fetched_at": "2026-04-27 20:49:06 UTC"
 }
