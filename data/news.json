@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -42,6 +42,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain strips dozens of citizenship over Iran support",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sek5HVDhSNGw3VDRab0JiNzVRNF9vcDlISmNLUjY1Ul96SllVbTdabVplRjhKbWNCdzVodHI0R2RfNmprXzVwdXV0Vy1pbDJKQ05sc3FwNG9WYV80OUE?oc=5",
+        "published": "27 Apr 2026, 03:35 PM",
+        "iso_date": "2026-04-27T15:35:23+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain revokes citizenship of 69 people over Iranian-linked security violations",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcVBoWFBRQW45RG95QjBjbWFNWDJiRlBMcnVIZDVSQlFmV1gxaXhHNHFnSDBURjNtQWVpNV8yTnhqQTFEX3NOc09zbE1BNVRINFA3N1NWbXBGV0tuYVpXZTYyQXd4MG9oU0tPSUVQMGFCQ3RsWFJETU40TjNoeFAyR3lJT2d6blFnRFAwT2FOR3hkVGpqcmlYdVQ2SjZBbDRJUnV6RmtLVnpXbmN4UE5IcFhHdXJFZTBCSThxMHIycnJ0WW4yeE1hbg?oc=5",
         "published": "27 Apr 2026, 02:55 PM",
@@ -52,20 +62,10 @@
         "category": "Latest"
       },
       {
-        "title": "The Labour Day Public Holiday Has Been Announced",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnhmdnNseWJzN0FITmJWRWRVcXJjTE5zS1RBcGtoNzRXY2EyN1RZY29UcVdkQ2tGbFJXbjlnMU5vNkRtYkxUMjRjbEZVby1Fd3lNWks2cUdsVEI1Tk5WOWNRbDJJd3ZEcllXYk1yREdYN2lLQTVBdzNZWk5xRmFxRg?oc=5",
-        "published": "27 Apr 2026, 01:57 PM",
-        "iso_date": "2026-04-27T13:57:15+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYVpZQ050SVpDVGdpTU9feURUbzhPLU1OUnczTkdNb0YwZk5STU9SMGNweWNxT3J2WDBlbzl0Z3RYdFY2bkJFOGt2MDJPQWRMZW1EVGpic3h6OFNpVFpOZTJBY2FuVjZWbTNtUENOZEd5aThpZ0xIcHRlTGhjY0huSE5ZVmhGU1hvZjNBZFJ2YTItSXhOclBUeVhaSGtGY0s5WVp2d0RoZXhyS18xTGlvNzhzV0dhM09BU0l0LWJScDk0X3paZ0FoSUNQUWxwR1B6dXViSGU2dEpOMEZBdjJYVDRBQUZTWncwNFhLZ0VtMlBfMjRtUjBjSWl0VzBvU251RlRGc1NhRFA2cHhDWEIzLTFhbkRSbm5rUVZwazB1WDI1RWhDb3pLdnhzV1hON1E0Ty1iZ0tCUnllVFppd1lNZ0p6cnVaN1lVRk5UYm53Y0FoRm02ZE84bmFwV1BBUGZDdDdiNTZUYlB3OThHeXcwNlpGbDhraDVGQXo2Q0hnazllYVRHRks3X1NMRElZblpiWTJrZ1NnTnlESUtDemZjUnpCNjJONVhVanEw?oc=5",
-        "published": "27 Apr 2026, 09:56 AM",
-        "iso_date": "2026-04-27T09:56:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQU1lTQnoxdGZxektEbF92c1duQml5aXhrSTFYU3BBYmMtQkgyeXl5Q2ZENzZxTHdFOVJuLS1rZ1VoblNfUXFtOG1NZGZhRlh5V0dBc3k4eGc3eDNVaFVOa2xWSklJMGk0bjJLWGtfTElybG1zUDV3TURHQkZOVU9yallWOURxd29DVzBnbHNVQU01ZDNNcGgtRDZ5NzZSSzEybVpxYXUySktrbWtuVW4tR3NZMVhEb3ZBX0RLLUFWUlBrcTE4VUQ4UU1lbWU4NmpyZmJ6Rm5fM1hvZkNnb2ZYejEwZ2pBUUtteThTbl9SRjFJeUxiVEdSVlJiVDJoQVRIajc0dldxMFZkWWxja0lFMVlsZVRXX2NZVjB2UlZxRTJlMmV0VzhnVS0yc3V0OFVqSTl0MlhRMm93MzFBTFJOUlR6Yms4Q3NaZ0dWRGxEbjlfaDAtVzM0Vm9ZZG5VQWZDM0l0YS1oNlVVcFZoME50UWJGZ1RFVWVwSTJJUUxrV0Joc3YySzdrWWdzOEF6M2lyVUtNcWFzVE5UWk0?oc=5",
+        "published": "27 Apr 2026, 03:45 PM",
+        "iso_date": "2026-04-27T15:45:01+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -86,16 +86,6 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR3lPcUFoOU5ScC1JMjFuZlZ1LXhOYmlCUnlmZndVcE1EOHR2YnNxekJUU0ozTHMteHZna2w1NTFFMDU5ZVcxT1FmVFlfLVFtWWxkSDZhWG1fS19Hbi1fcFFCbzZrM0U1R1BNVzJ2ZjJKM3BiaEpHYUxSVGZoVjlDNEd1bDNQMGhEeUJJWGJJSFNKTUlZbGdneV93VFVxaUY2R1BtTFkySU9GR2FaRGFxTXFjcl9nQU1WUVVESVFqVmhnTzBsX2h6d2NMSHdCN3JTU2tEQXliRVQ?oc=5",
         "published": "27 Apr 2026, 05:04 PM",
         "iso_date": "2026-04-27T17:04:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran War 2026- Live Updates: Iran offers new terms to reopen Strait of Hormuz, Axios reports",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45QkJucVZpNDZDWFVxOGhTWEtEcXpXbElsbzd0YVhYb0g3eUExT3d2UTB5ZlFZcDhWcGdHTlFuOUR3bnlyaGxVRS1oNjNXS3FCQVp3VFJIN3VWRzVxNWc?oc=5",
-        "published": "27 Apr 2026, 12:44 PM",
-        "iso_date": "2026-04-27T12:44:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,7 +216,7 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Chairs UN Security Council Debate on Maritime Security Amid Rising Global Threats",
+        "title": "Bahrain Chairs UN Security Council Debate on Maritime Security",
         "link": "https://www.newsofbahrain.com/bahrain/131497.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
@@ -236,7 +226,7 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Accelerates Property Ownership Process with New Digital System",
+        "title": "Bahrain Accelerates Property Ownership Process",
         "link": "https://www.newsofbahrain.com/bahrain/131496.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 18:58:14 UTC"
+  "fetched_at": "2026-04-27 19:38:12 UTC"
 }
