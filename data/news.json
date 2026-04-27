@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain revokes citizenship of 69 individuals for glorifying Iranian hostile acts",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTGk2Zk4zWGVjM2NiaFVwaTVhV2FyNUp1ZzRSNGpXZ0prMzJIcHlHSlY1MW1CSXhlMG4tLUctVW9qaFJpWVdZc0tOc29sUUoxd1Y0?oc=5",
+        "published": "27 Apr 2026, 08:01 PM",
+        "iso_date": "2026-04-27T20:01:46+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain strips 69 people of citizenship for backing Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmlBcG9JcGMwRE5OTjdSTFEwX0x0emMzOTN5Y0dlZ2twVFBHLUJhZ1d2WWJtcEFQZGFyMWlMVVczTVRaLVE3anN2MWE1dF80ZVR5Q3ZYankteDNKbTVRbzNKZDNCTXlWeDcxOTBiVEJ2bU5aMWRaNkFpMDlHV2Y3N3RFLVQ3cWgxNFRhdlo0SlB3dw?oc=5",
@@ -63,19 +73,9 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQU1lTQnoxdGZxektEbF92c1duQml5aXhrSTFYU3BBYmMtQkgyeXl5Q2ZENzZxTHdFOVJuLS1rZ1VoblNfUXFtOG1NZGZhRlh5V0dBc3k4eGc3eDNVaFVOa2xWSklJMGk0bjJLWGtfTElybG1zUDV3TURHQkZOVU9yallWOURxd29DVzBnbHNVQU01ZDNNcGgtRDZ5NzZSSzEybVpxYXUySktrbWtuVW4tR3NZMVhEb3ZBX0RLLUFWUlBrcTE4VUQ4UU1lbWU4NmpyZmJ6Rm5fM1hvZkNnb2ZYejEwZ2pBUUtteThTbl9SRjFJeUxiVEdSVlJiVDJoQVRIajc0dldxMFZkWWxja0lFMVlsZVRXX2NZVjB2UlZxRTJlMmV0VzhnVS0yc3V0OFVqSTl0MlhRMm93MzFBTFJOUlR6Yms4Q3NaZ0dWRGxEbjlfaDAtVzM0Vm9ZZG5VQWZDM0l0YS1oNlVVcFZoME50UWJGZ1RFVWVwSTJJUUxrV0Joc3YySzdrWWdzOEF6M2lyVUtNcWFzVE5UWk0?oc=5",
-        "published": "27 Apr 2026, 03:45 PM",
-        "iso_date": "2026-04-27T15:45:01+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
-        "published": "26 Apr 2026, 11:15 PM",
-        "iso_date": "2026-04-26T23:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYVpZQ050SVpDVGdpTU9feURUbzhPLU1OUnczTkdNb0YwZk5STU9SMGNweWNxT3J2WDBlbzl0Z3RYdFY2bkJFOGt2MDJPQWRMZW1EVGpic3h6OFNpVFpOZTJBY2FuVjZWbTNtUENOZEd5aThpZ0xIcHRlTGhjY0huSE5ZVmhGU1hvZjNBZFJ2YTItSXhOclBUeVhaSGtGY0s5WVp2d0RoZXhyS18xTGlvNzhzV0dhM09BU0l0LWJScDk0X3paZ0FoSUNQUWxwR1B6dXViSGU2dEpOMEZBdjJYVDRBQUZTWncwNFhLZ0VtMlBfMjRtUjBjSWl0VzBvU251RlRGc1NhRFA2cHhDWEIzLTFhbkRSbm5rUVZwazB1WDI1RWhDb3pLdnhzV1hON1E0Ty1iZ0tCUnllVFppd1lNZ0p6cnVaN1lVRk5UYm53Y0FoRm02ZE84bmFwV1BBUGZDdDdiNTZUYlB3OThHeXcwNlpGbDhraDVGQXo2Q0hnazllYVRHRks3X1NMRElZblpiWTJrZ1NnTnlESUtDemZjUnpCNjJONVhVanEw?oc=5",
+        "published": "27 Apr 2026, 09:56 AM",
+        "iso_date": "2026-04-27T09:56:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -86,6 +86,16 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR3lPcUFoOU5ScC1JMjFuZlZ1LXhOYmlCUnlmZndVcE1EOHR2YnNxekJUU0ozTHMteHZna2w1NTFFMDU5ZVcxT1FmVFlfLVFtWWxkSDZhWG1fS19Hbi1fcFFCbzZrM0U1R1BNVzJ2ZjJKM3BiaEpHYUxSVGZoVjlDNEd1bDNQMGhEeUJJWGJJSFNKTUlZbGdneV93VFVxaUY2R1BtTFkySU9GR2FaRGFxTXFjcl9nQU1WUVVESVFqVmhnTzBsX2h6d2NMSHdCN3JTU2tEQXliRVQ?oc=5",
         "published": "27 Apr 2026, 05:04 PM",
         "iso_date": "2026-04-27T17:04:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran War 2026- Live Updates: Iran offers new terms to reopen Strait of Hormuz, Axios reports",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45QkJucVZpNDZDWFVxOGhTWEtEcXpXbElsbzd0YVhYb0g3eUExT3d2UTB5ZlFZcDhWcGdHTlFuOUR3bnlyaGxVRS1oNjNXS3FCQVp3VFJIN3VWRzVxNWc?oc=5",
+        "published": "27 Apr 2026, 12:44 PM",
+        "iso_date": "2026-04-27T12:44:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Interior Ministry Alert",
+        "link": "https://www.newsofbahrain.com/bahrain/131498.html",
+        "published": "27 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XlOzEM0cgR_2026-04-27_1777319154resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain Chairs UN Security Council Debate on Maritime Security",
         "link": "https://www.newsofbahrain.com/bahrain/131497.html",
         "published": "27 Apr 2026, 09:22 AM",
@@ -228,8 +248,8 @@
       {
         "title": "Bahrain Accelerates Property Ownership Process",
         "link": "https://www.newsofbahrain.com/bahrain/131496.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
+        "published": "27 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9bpJ1tZrKe_2026-04-27_1777313277resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,20 +268,10 @@
       {
         "title": "Emirates to Resume Kuwait and Oman Flights from May",
         "link": "https://www.newsofbahrain.com/world/131494.html",
-        "published": "27 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tuTa9FSOJs_2026-04-27_1777313006resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE President Receives Message from Kazakhstan Counterpart on Bilateral Relations",
-        "link": "https://www.newsofbahrain.com/world/131493.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QsCf42kWPn_2026-04-27_1777312752resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tuTa9FSOJs_2026-04-27_1777313006resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,12 +296,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Revokes Citizenship of 69 Individuals",
-        "link": "https://www.newsofbahrain.com/bahrain/131484.html",
+        "title": "UAE President Receives Message from Kazakhstan Counterpart on Bilateral Relations",
+        "link": "https://www.newsofbahrain.com/world/131493.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RLa2XpOd4h_2026-04-27_1777309084thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QsCf42kWPn_2026-04-27_1777312752thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 19:38:12 UTC"
+  "fetched_at": "2026-04-27 20:25:39 UTC"
 }
