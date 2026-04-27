@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 10
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 0
     }
   },
   "articles": {
@@ -32,10 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Australia secures 100million diesel lifeline after Anthony Albanese flew to Asia for crisis talks",
-        "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQa0lHOWFhNFllNHY2bG9HZUpxd3N3WUxJUHZQdVFiRjlLTEdMWXc5NUwzNFVINV9jcDYxYl9jWFlsR3RpVnF5WEZXX3dkVGstRTFaWm1BVG5WVHp2ZUxiNThEdHZqa2RJbkkwNUNPUVVIRFdhUlVwMjJiaWgxRWhhcm92TVlXVEhyaVRPYzlUZUhuZmlDOXdlTjVXZWJxelFLdW84eHhQV0NWQW85cVFVSlhmdk04NVpremlacktodnBEaWZEWXFKdThod3FtREx2Y0ZCdjJyd1diajczY3pkYnVWN1YxNlZ1ajd5eUtDelBIMG83X01EM2d0bEc3blJnWlVWNWhvbVlmazBwcTJvVGl1MWtaODF2Z1VZSVl0Qm5jWjdicTRrNVRod2l4elJ0MTdLeTRaWEFscnpmbTZaRDMweGphXzJPTEhHX0l3N0lYUzhEV2V2ZHk5dW80LWF1MWpEQ3lWOGhycnpxYWlLaGdyUmM?oc=5",
-        "published": "26 Apr 2026, 08:00 AM",
-        "iso_date": "2026-04-26T08:00:01+00:00",
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQMkhEenJLWWlNVTZzbmZFeVFiVlRhZ3hmb0dlV0ZzN0xFamVNdUdPYXJwaU5sbTQzdk94eUtrQlJvem1WS1Z3WUY1WWlUX0NqZktwNTlQZzJyemUyVnQ0WE1WbmI5Qkw5X0Rwd3J5OG1hSkhDRVRQaURJSU1hSmNHa0YybGk4Mlhvd0pJRGhiREtTU0J4RlVYd2t5ZzZnZ3RyTWI0N0hiWVJkdUdaX3FmNzZtWjZ0UHVQRUdOVEk1Tk9zLXVfRU9VV1U1OFU1dzZsX3NLczg5V0RDcmdwdG9oeTJWRHdVUHItTGcwc1NZckM3YV92LWhJMnhUQ09zRHl4SFdTZG04QmlRNGxtdmJIQjZsZmQxa1NVUlNUREFnZk1kX2RVWEM4VjNabE5rY2tBNWI3UldRcWVZZGpvdE4yb0lCcFY3dGJPNXZyX3VkNFJKUTFYVlNQSDk4di1MakxhYmVNRG1lR2VkVHFkWXFoZm5VVnZFQWNhUzVJZ1ZR?oc=5",
+        "published": "26 Apr 2026, 11:11 PM",
+        "iso_date": "2026-04-26T23:11:56+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNLWt5UlhYSy12cW1TUC1DRzhLUFh0Z1NvNmpUX0x2dElld2pLMkZsbE5QWG5Jby1OTC1MN3JzdGxzUzJmVXVuUzdoRWRXdUd6el9NdkhDX0l6dWp1cWtZa1V5czdEYXFiblU5ZWxTVGd3RkdlTzhFbEFiLXI3RlVFb0V2TUdzd2MtdkdOdC1WV2JEWUlNeEhDZXpra29ITWFXOVF3VThnaWJGYUZXNTQ4VzFyaHdJSEVtR2NQOUxFSkpGc3NoM29aaUZmRm5qeGpLTkdxSFp6WlA1MWxPVlNuMi0yVU1xRUc5amFUX1dxanNVdlg3RHFUeENvRTRkNFRxcHQ3OHVadkg4aDEweDJ6eWdyXzRtT0xxMFJSaVB4NzVmdFVZcEhQX0sxc1htZ1FZcGdFWGZJSUNhQkdoTXNENHMySTBxa1pMd2E1dGxYS29yVTRrZ1lKdkx4U3NSWDR4LXI1U2JhZ1JZZmtGMk40dVpXMHY4Q0sxWHNjYVFadTQ1TzFGSDFLWmR4NDFMYkw3STUtVGVQWTZoYlVfTlFQNmlDVHAtSnlPaDdFN0JzbHY3WE4yRGY4eEEzZzJ6b0Fab2VTLXF3bXFqQmx2QWRWb2Y1Q2V5TGdQQWRMRXptQVJHWTFtOVRJSTBwSFB3UDZnTlR2TmxiR21RWlNhS2Fjd2RETWpLUQ?oc=5",
         "published": "26 Apr 2026, 11:48 AM",
         "iso_date": "2026-04-26T11:48:45+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Opinion: Mandelson worked on board of a firm 'with Putin's agents'",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeThZelRWWm5TTWV3MkctSnY0UEVpY05aSWZLRTlTS2NfdF80X25VRFg0T3N1emJDdXJfWnhnUTVSb3NJcjhwSmZ2bTB0MUpxNGZrUzRiY0RZbVhzM0tjVUptemlsN28yQnNOZm02ajZpcldDaVllYkNYLTdMNjdLU2NTWEdkczlydGd1VHdzcGxielJTejRKLUdudUFLT3NlaDFqWVBWVTBKcU85b3NGeXRR?oc=5",
-        "published": "26 Apr 2026, 06:10 AM",
-        "iso_date": "2026-04-26T06:10:07+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -93,19 +83,9 @@
       },
       {
         "title": "Putin declares ceasefire with Ukraine for Orthodox Easter",
-        "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPOGk5ZUgxVTNHTWQzSXhfbFNOaUJJNGU3VHRUTUtLMC1hZ0xfS1FNZ1R5Y1p3bURzc0pCdUg5RUJENEpLV0VPYUdscWtLTGJ3VjBGVmFHQXhwN3J5ekVPQnRTcnNiVXRkc3h1Z0J1OThjWHpialB5TkpXc3FrSnBzWENSbURhZzQzNGp3MUYtaHZfZjZZbzJVZTNWVURsNnoyUGhHVmg4Q1RWN0JVWERpeVc5Wk4yMGdyVXJEYktLWF83cDhtSHV0bDdHVnpaWHZjSkwxdTJDb1V0eE9rUTc1T3BCUXN0c3ZQUm0wb3BrbU1pNThZOUl4RTFZdWZXR1NaN2FMQmxYTm16MmNMQ2ExWUdDcDktZmQ5NGpJb3lscTBIX05Ed1BZQ0JjeXJZSm9QV1JPR3llZHcyVzJoZXdMMk9kbkx4QzZ5QUdOVzZlQVNBby0yZXdLMnlaM1ZiN2ZVMnc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxONXJJVDZKcXpOUUlSajNtdVVVTU1RZGg3X3B5dHMzNWFkZU9IaGNvRnRjRDF5YzNiZ0EzQy1kdkF3RWQtUExqaUJBOHIxWUJzSDhHSnYwcVdZdmthLVB1d1pXWm9Xcm5STXBVTzd4VzdLSTNWWndiTjUwVWt3NkpYWFZZb1c1ejVoUjlqaWJncWF5VFJzTl9iQl9SSDRVWHc1S0NJWnZlaGxjcEpmVzdocEVhd3RqNTJMRVl4X3pTQ01iYnlQYXFGNnA4ZUJ2M3ROSVNUMkhOcUJleUtHU3RlMjUtbXpFNmNEMzBrN1hmMWlCdHdNbnZOcDlqclBpTkRyQkk5N2I2WDJ5eC05a3BHMzdRMi1GRDJpMWhFd2tpRDFlTUFxNVMtVnpnNlEtS1VOQkM5b05oYXZmd1lpbXVFLWhKVlZ5SFpoXzB5TnJ0MGVGZXBvZU42Q1hwM00tUHRX?oc=5",
         "published": "26 Apr 2026, 05:10 AM",
         "iso_date": "2026-04-26T05:10:20+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran War 2026- Live Updates: Abbas Araghchi heads to Moscow after Islamabad visit",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45QkJucVZpNDZDWFVxOGhTWEtEcXpXbElsbzd0YVhYb0g3eUExT3d2UTB5ZlFZcDhWcGdHTlFuOUR3bnlyaGxVRS1oNjNXS3FCQVp3VFJIN3VWRzVxNWc?oc=5",
-        "published": "26 Apr 2026, 07:05 PM",
-        "iso_date": "2026-04-26T19:05:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -116,6 +96,16 @@
         "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPeG9IeXJCNkpWRFIxVkdhelQ0Ukg5X213d3VKS2dnVlVVTTI0NnZma0ZlNTNic0dMV3JJUFRPOHZSWHVwOFJsTUNwcFd3SlpqSmtUaXNKMFJvU1BMRDRfNGhMMzlVaWYwaVU2WkVFby1RSzE3UWVIN08xNkVPMm93azl6aXExQ1BrTURZaWZIcU5NM05aQlpyYkZoZTVSNGtuTEgtcnRLcWJ4VTR2X2NSV1BWQVp2UWNPRkJqdXY4Z0dCUUxEVW9xTjk2U2JRd2dpZlZBU1phaV9Gc0g4cXVFYk9sdUFkTDBQX2dvUWJRNXo1NWY0bUcydkFPcW1ZaVBjYnZaeHVQV2dBcnBxdm5tR2RSTDliM25rTVFYdk5zQWFoUlN6Z2V1TUd3cFBoT09lMTdyX3E3ZGZoaElSV0JFUGd5dVlCdDgwMDJGZEp3Z21MeGxyRFlVZmJraGlmUQ?oc=5",
         "published": "26 Apr 2026, 05:46 AM",
         "iso_date": "2026-04-26T05:46:44+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran War 2026- Live Updates: Abbas Araghchi heads to Moscow after Islamabad visit",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45QkJucVZpNDZDWFVxOGhTWEtEcXpXbElsbzd0YVhYb0g3eUExT3d2UTB5ZlFZcDhWcGdHTlFuOUR3bnlyaGxVRS1oNjNXS3FCQVp3VFJIN3VWRzVxNWc?oc=5",
+        "published": "26 Apr 2026, 07:05 PM",
+        "iso_date": "2026-04-26T19:05:16+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -224,138 +214,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Social Insurance Calls Employers to Register for April Wage Support",
-        "link": "https://www.newsofbahrain.com/bahrain/131410.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lnQwG950xF_2026-04-26_1777234034resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Cuts NGO Permit Time by 70%",
-        "link": "https://www.newsofbahrain.com/bahrain/131409.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9K6cFI4ULD_2026-04-26_1777230393resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "2026–2027 School Enrollment Begins",
-        "link": "https://www.newsofbahrain.com/bahrain/131408.html",
-        "published": "26 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UXZAR1B4SI_2026-04-26_1777230229resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Completes Repairs of 71 Homes Damaged by Iranian Attacks",
-        "link": "https://www.newsofbahrain.com/bahrain/131407.html",
-        "published": "26 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-26T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JQOzNVTFIB_2026-04-26_1777229415resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Capital Governor, Malaysian Ambassador Discuss Strengthening Bilateral Ties",
-        "link": "https://www.newsofbahrain.com/bahrain/131406.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O8QzDhroky_2026-04-26_1777226121resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "King of Jordan, Kuwait FM Discuss Ties and Regional De-escalation Efforts",
-        "link": "https://www.newsofbahrain.com/world/131405.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Jo59TsbU3G_2026-04-26_1777226000thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE and US Discuss Regional Security, Ceasefire Developments in High-Level Call",
-        "link": "https://www.newsofbahrain.com/world/131404.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kyY67Exolz_2026-04-26_1777225558thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Swiss Air Flight LX147 Aborts Takeoff in Delhi After Engine Fire; 6 Injured",
-        "link": "https://www.newsofbahrain.com/world/131395.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4EqFxLMcVk_2026-04-26_1777192753thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Suspect to Appear in Court After Shooting Incident at Washington",
-        "link": "https://www.newsofbahrain.com/world/131372.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EZCoQD4h9w_2026-04-26_1777179261thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "First Virtual Horse Auction in Bahrain",
-        "link": "https://www.newsofbahrain.com/business/131387.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QTLNJtv05n_2026-04-26_1777188713thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "King Hamad American Mission Hospital Embarks on Journey Toward Baby-Friendly Hospital Accreditation",
-        "link": "https://www.newsofbahrain.com/business/131386.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W07tIuhrEz_2026-04-26_1777188378thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Chamber Launches SME Department at New Term Start",
-        "link": "https://www.newsofbahrain.com/business/131384.html",
-        "published": "26 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-26T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vUQMynES8B_2026-04-26_1777188025thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Small Vessel office handles over 2,000 transactions in two months",
-        "link": "https://www.newsofbahrain.com/business/131324.html",
-        "published": "25 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-25T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lvPHdBG7hm_2026-04-25_1777109494thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -469,5 +328,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 03:07:35 UTC"
+  "fetched_at": "2026-04-27 04:39:29 UTC"
 }
