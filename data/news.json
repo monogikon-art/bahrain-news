@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HM25tdl9VdkZySGZBUko1LXlvMV9WcGZkTmcxdHJRTHlHaUhoVFVna1J4azI4YVpieEJCNTVINzVkUmF6VkZWVXhMU0ZqaHJTVG13SWZtY1M1WkVu?oc=5",
         "published": "27 Apr 2026, 03:35 PM",
         "iso_date": "2026-04-27T15:35:23+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Revokes Citizenship of 69 Individuals for Praising Iranian Aggressions",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GeXh0QWdfbHZFUG01aDRwSVhBWnpER0VxaGppSU1wWkk2Qm1MaFM4aGFvYkZYMFdQZFprSkZvMmZhYlZzRWhqeHNSTFFneXNFTDFnY3N3?oc=5",
-        "published": "27 Apr 2026, 02:53 PM",
-        "iso_date": "2026-04-27T14:53:13+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -529,5 +519,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 22:47:18 UTC"
+  "fetched_at": "2026-04-27 23:20:24 UTC"
 }
