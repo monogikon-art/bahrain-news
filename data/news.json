@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 12
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -62,6 +62,16 @@
         "category": "Latest"
       },
       {
+        "title": "Bahrain Revokes Citizenship of 69 Individuals for Praising Iranian Aggressions",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GeXh0QWdfbHZFUG01aDRwSVhBWnpER0VxaGppSU1wWkk2Qm1MaFM4aGFvYkZYMFdQZFprSkZvMmZhYlZzRWhqeHNSTFFneXNFTDFnY3N3?oc=5",
+        "published": "27 Apr 2026, 02:53 PM",
+        "iso_date": "2026-04-27T14:53:13+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain revokes citizenship of 69 people over Iranian-linked security violations",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tbTItaGhDaElKV0R4WUtoNXJjR1pBdXlVVnAwTi0wR1dDZGlMLU1QQ2NxVWdPNzdxZ1NuVktJaWNCMFZHSEhNUTdWNDR5S3lZcGgyTA?oc=5",
         "published": "27 Apr 2026, 02:55 PM",
@@ -82,16 +92,6 @@
         "category": "Latest"
       },
       {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
-        "published": "26 Apr 2026, 11:15 PM",
-        "iso_date": "2026-04-26T23:15:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "King of Bahrain, Sultan of Oman discuss latest regional, international developments in phone call",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR3lPcUFoOU5ScC1JMjFuZlZ1LXhOYmlCUnlmZndVcE1EOHR2YnNxekJUU0ozTHMteHZna2w1NTFFMDU5ZVcxT1FmVFlfLVFtWWxkSDZhWG1fS19Hbi1fcFFCbzZrM0U1R1BNVzJ2ZjJKM3BiaEpHYUxSVGZoVjlDNEd1bDNQMGhEeUJJWGJJSFNKTUlZbGdneV93VFVxaUY2R1BtTFkySU9GR2FaRGFxTXFjcl9nQU1WUVVESVFqVmhnTzBsX2h6d2NMSHdCN3JTU2tEQXliRVQ?oc=5",
         "published": "27 Apr 2026, 05:04 PM",
@@ -104,72 +104,102 @@
     ],
     "gdn": [
       {
-        "title": "Highway traffic hit as car catches fire",
-        "link": "https://www.gdnonline.com/Details/1392897/Highway-traffic-hit-as-car-catches-fire",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
+        "title": "Competence and skills of national workforce praised",
+        "link": "https://www.gdnonline.com/Details/1392933/Competence-and-skills-of-national-workforce-praised",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427202929website(2)_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428003754hyazdf_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Foreign Minister urges reopening of Strait of Hormuz in UN Security Council address",
-        "link": "https://www.gdnonline.com/Details/1392898/Foreign-Minister-urges-reopening-of-Strait-of-Hormuz-in-UN-Security-Council-address",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
+        "title": "Protecting maritime waterways",
+        "link": "https://www.gdnonline.com/Details/1392932/Protecting-maritime-waterways",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427203325un(1)_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428_002210_0_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Ministry releases names of individuals stripped of their citizenship",
-        "link": "https://www.gdnonline.com/Details/1392894/Ministry-releases-names-of-individuals-stripped-of-their-citizenship",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
+        "title": "Bahrainâs strong roots come alive on canvas",
+        "link": "https://www.gdnonline.com/Details/1392920/Bahrainâs-strong-roots-come-alive-on-canvas",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427173410website(1)_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222027_2.png?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrain revokes citizenship of 69 individuals",
-        "link": "https://www.gdnonline.com/Details/1392888/Bahrain-revokes-citizenship-of-69-individuals",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
+        "title": "Individuals whose Bahraini citizenship has been revoked",
+        "link": "https://www.gdnonline.com/Details/1392910/Individuals-whose-Bahraini-citizenship-has-been-revoked",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427155010pass_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427225056bahrainpassport2_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Cabinet reviews measures to address impact of Iranian aggression",
-        "link": "https://www.gdnonline.com/Details/1392890/Cabinet-reviews-measures-to-address-impact-of-Iranian-aggression",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
+        "title": "Pledge to promote safe workplace environment",
+        "link": "https://www.gdnonline.com/Details/1392915/Pledge-to-promote-safe-workplace-environment",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427155434cp1(15)_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428005725images_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Chamberâs SMEs unit âto boost private sector growthâ",
-        "link": "https://www.gdnonline.com/Details/1392702/Bahrain-Chamberâs-SMEs-unit-âto-boost-private-sector-growthâ",
-        "published": "26 Apr 2026",
-        "iso_date": "2026-04-26T00:00:00",
+        "title": "Bahrain Bourse set to host capital markets conference",
+        "link": "https://www.gdnonline.com/Details/1392925/Bahrain-Bourse-set-to-host-capital-markets-conference",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260426/20260426_001409_2.jpeg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222110_1.png?20260428",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Isa Murad is appointed director of new department",
-        "link": "https://www.gdnonline.com/Details/1392703/Isa-Murad-is-appointed-director-of-new-department",
-        "published": "26 Apr 2026",
-        "iso_date": "2026-04-26T00:00:00",
+        "title": "ONE App launches new digital financing features",
+        "link": "https://www.gdnonline.com/Details/1392924/ONE-App-launches-new-digital-financing-features",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260426/20260426003642one_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222109_0_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "New GIB chairman appointed",
+        "link": "https://www.gdnonline.com/Details/1392927/New-GIB-chairman-appointed",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222112_0.png?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Beyon Cyber named fastest-growing cybersecurity company by Deloitte",
+        "link": "https://www.gdnonline.com/Details/1392923/Beyon-Cyber-named-fastest-growing-cybersecurity-company-by-Deloitte",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222107_0.png?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BAB maps out strategic growth",
+        "link": "https://www.gdnonline.com/Details/1392922/BAB-maps-out-strategic-growth",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222046_0_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
@@ -499,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 22:19:17 UTC"
+  "fetched_at": "2026-04-27 22:47:18 UTC"
 }
