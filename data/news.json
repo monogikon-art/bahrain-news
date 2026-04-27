@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -24,8 +24,38 @@
       {
         "title": "Bahrain revokes nationality of dozens over 'support' for Iran's attacks - middle-east",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSy1PY1hfeUpoQWQ1UWdNMTVRcWV3R3FDVVVDZG8yeElfTzVGMF9pc1VmckVyWXpDQjUzXzlSRFo2c3lSM1dHVzVnSWhoYnZ6ZGJCQ2JSZ2JqbjBsaHdDZW9QdTRJTkZ4dGd2TlZqczV2WTdNY1JDaFE3YmJLNE5mVGpGU3VnSG93Vm9VNEUwZFVHcVgyLURSWUtFMA?oc=5",
-        "published": "27 Apr 2026, 02:12 PM",
-        "iso_date": "2026-04-27T14:12:49+00:00",
+        "published": "27 Apr 2026, 02:20 PM",
+        "iso_date": "2026-04-27T14:20:31+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain revokes citizenship of 69 people over support for Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDA0V1h3M3oxUEJhbHI3d0twdThERVdqZDh3bmlSR2ZxVGlLdmlqVFo2NEFfdGpFZlFrbHZ2U0lrMzNQQnBWdUZESDZlY1lJODJoUThtRDlGVkFpV2Z6cGNEbks0UmktS1lVSWRhTHdXYlBYM0hsN3dnUm5qUlVXNkhTU2xHYnMwMXl6eUkwMHlEMnFwUU92d1VZY3FtMGZoNzRxdmw4Z1VjZEd6bmxydkpDMGwwMEk3UDVlendYQjFQa3k4SVE?oc=5",
+        "published": "27 Apr 2026, 02:59 PM",
+        "iso_date": "2026-04-27T14:59:08+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Revokes Nationality of 69 Individuals for Hailing Iranian Attacks - Asharq Al-Awsat | Explore World News Today",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUtQcnVqSjZKd0N5cDJxU00zcDNmOUxBaVNyc05qQ1RfdHRfUTkwTnZHWDNhaFFubVMxSUFrdkxseXZ0MlBKY2ltbGJBV1lHUEx2TFhLS2cwYTJxTXFIR2FtV2tXS2d0cm5rSnlwUkJDeE8yTVFadGt6TS1YRUI5X2VGVDFKZXlid3pKUUppMWlGWkV3S25rcVVuYngzaDhCamIzRVBCQjMtZw?oc=5",
+        "published": "27 Apr 2026, 03:00 PM",
+        "iso_date": "2026-04-27T15:00:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain revokes citizenship of 69 people over Iranian-linked security violations",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcVBoWFBRQW45RG95QjBjbWFNWDJiRlBMcnVIZDVSQlFmV1gxaXhHNHFnSDBURjNtQWVpNV8yTnhqQTFEX3NOc09zbE1BNVRINFA3N1NWbXBGV0tuYVpXZTYyQXd4MG9oU0tPSUVQMGFCQ3RsWFJETU40TjNoeFAyR3lJT2d6blFnRFAwT2FOR3hkVGpqcmlYdVQ2SjZBbDRJUnV6RmtLVnpXbmN4UE5IcFhHdXJFZTBCSThxMHIycnJ0WW4yeE1hbg?oc=5",
+        "published": "27 Apr 2026, 02:55 PM",
+        "iso_date": "2026-04-27T14:55:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,6 +236,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "South Sudan says 14 killed in plane crash near Juba",
+        "link": "https://www.newsofbahrain.com/bahrain/131483.html",
+        "published": "27 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kUmf4geVKE_2026-04-27_1777302209resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain prioritises stability, talent retention",
         "link": "https://www.newsofbahrain.com/bahrain/131480.html",
         "published": "27 Apr 2026, 09:22 AM",
@@ -218,8 +258,8 @@
       {
         "title": "Norway police cooperate with France on Epstein probe",
         "link": "https://www.newsofbahrain.com/world/131479.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
+        "published": "27 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hOsnEAborv_2026-04-27_1777295417resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +278,10 @@
       {
         "title": "Cabinet Orders Public Health Measures",
         "link": "https://www.newsofbahrain.com/bahrain/131477.html",
-        "published": "27 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o78EQiaC5z_2026-04-27_1777294110resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shell to buy Canadian energy company ARC Resources for over $16 bn",
-        "link": "https://www.newsofbahrain.com/world/131476.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G10pMfUg5m_2026-04-27_1777293656resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o78EQiaC5z_2026-04-27_1777294110resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -276,12 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Payroll Support Activated",
-        "link": "https://www.newsofbahrain.com/bahrain/131426.html",
+        "title": "Shell to buy Canadian energy company ARC Resources for over $16 bn",
+        "link": "https://www.newsofbahrain.com/world/131476.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vUiEe9sYKr_2026-04-27_1777274977thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G10pMfUg5m_2026-04-27_1777293656thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 14:15:46 UTC"
+  "fetched_at": "2026-04-27 15:14:04 UTC"
 }
