@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain revokes nationality of dozens over 'support' for Iran's attacks - middle-east",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSy1PY1hfeUpoQWQ1UWdNMTVRcWV3R3FDVVVDZG8yeElfTzVGMF9pc1VmckVyWXpDQjUzXzlSRFo2c3lSM1dHVzVnSWhoYnZ6ZGJCQ2JSZ2JqbjBsaHdDZW9QdTRJTkZ4dGd2TlZqczV2WTdNY1JDaFE3YmJLNE5mVGpGU3VnSG93Vm9VNEUwZFVHcVgyLURSWUtFMA?oc=5",
-        "published": "27 Apr 2026, 02:20 PM",
-        "iso_date": "2026-04-27T14:20:31+00:00",
+        "title": "Bahrain strips 69 people of citizenship for backing Iranian attacks",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmlBcG9JcGMwRE5OTjdSTFEwX0x0emMzOTN5Y0dlZ2twVFBHLUJhZ1d2WWJtcEFQZGFyMWlMVVczTVRaLVE3anN2MWE1dF80ZVR5Q3ZYankteDNKbTVRbzNKZDNCTXlWeDcxOTBiVEJ2bU5aMWRaNkFpMDlHV2Y3N3RFLVQ3cWgxNFRhdlo0SlB3dw?oc=5",
+        "published": "27 Apr 2026, 03:32 PM",
+        "iso_date": "2026-04-27T15:32:24+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain revokes citizenship of 69 people over support for Iranian attacks",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDA0V1h3M3oxUEJhbHI3d0twdThERVdqZDh3bmlSR2ZxVGlLdmlqVFo2NEFfdGpFZlFrbHZ2U0lrMzNQQnBWdUZESDZlY1lJODJoUThtRDlGVkFpV2Z6cGNEbks0UmktS1lVSWRhTHdXYlBYM0hsN3dnUm5qUlVXNkhTU2xHYnMwMXl6eUkwMHlEMnFwUU92d1VZY3FtMGZoNzRxdmw4Z1VjZEd6bmxydkpDMGwwMEk3UDVlendYQjFQa3k4SVE?oc=5",
-        "published": "27 Apr 2026, 02:59 PM",
-        "iso_date": "2026-04-27T14:59:08+00:00",
+        "title": "Bahrain revokes nationality of dozens over 'support' for Iran's attacks - middle-east",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSy1PY1hfeUpoQWQ1UWdNMTVRcWV3R3FDVVVDZG8yeElfTzVGMF9pc1VmckVyWXpDQjUzXzlSRFo2c3lSM1dHVzVnSWhoYnZ6ZGJCQ2JSZ2JqbjBsaHdDZW9QdTRJTkZ4dGd2TlZqczV2WTdNY1JDaFE3YmJLNE5mVGpGU3VnSG93Vm9VNEUwZFVHcVgyLURSWUtFMA?oc=5",
+        "published": "27 Apr 2026, 02:20 PM",
+        "iso_date": "2026-04-27T14:20:31+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -62,40 +62,20 @@
         "category": "Latest"
       },
       {
+        "title": "The Labour Day Public Holiday Has Been Announced",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnhmdnNseWJzN0FITmJWRWRVcXJjTE5zS1RBcGtoNzRXY2EyN1RZY29UcVdkQ2tGbFJXbjlnMU5vNkRtYkxUMjRjbEZVby1Fd3lNWks2cUdsVEI1Tk5WOWNRbDJJd3ZEcllXYk1yREdYN2lLQTVBdzNZWk5xRmFxRg?oc=5",
+        "published": "27 Apr 2026, 01:57 PM",
+        "iso_date": "2026-04-27T13:57:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
         "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYVpZQ050SVpDVGdpTU9feURUbzhPLU1OUnczTkdNb0YwZk5STU9SMGNweWNxT3J2WDBlbzl0Z3RYdFY2bkJFOGt2MDJPQWRMZW1EVGpic3h6OFNpVFpOZTJBY2FuVjZWbTNtUENOZEd5aThpZ0xIcHRlTGhjY0huSE5ZVmhGU1hvZjNBZFJ2YTItSXhOclBUeVhaSGtGY0s5WVp2d0RoZXhyS18xTGlvNzhzV0dhM09BU0l0LWJScDk0X3paZ0FoSUNQUWxwR1B6dXViSGU2dEpOMEZBdjJYVDRBQUZTWncwNFhLZ0VtMlBfMjRtUjBjSWl0VzBvU251RlRGc1NhRFA2cHhDWEIzLTFhbkRSbm5rUVZwazB1WDI1RWhDb3pLdnhzV1hON1E0Ty1iZ0tCUnllVFppd1lNZ0p6cnVaN1lVRk5UYm53Y0FoRm02ZE84bmFwV1BBUGZDdDdiNTZUYlB3OThHeXcwNlpGbDhraDVGQXo2Q0hnazllYVRHRks3X1NMRElZblpiWTJrZ1NnTnlESUtDemZjUnpCNjJONVhVanEw?oc=5",
         "published": "27 Apr 2026, 09:56 AM",
         "iso_date": "2026-04-27T09:56:15+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
-        "published": "26 Apr 2026, 11:15 PM",
-        "iso_date": "2026-04-26T23:15:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "US issues new travel warning for Bahrain amid 'hostile Iranian missile attacks'",
-        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNU1NadHBESjRhMUhrVzJldWFXNXhwNEVNdlNmaEtQZDNLa2Q0ckxYRk9WNUl5c3NYaFQxMkVhQXRmaWRsaXBmU2ZzOF9TS1RDaUhEZjFFeThfdlh3a3F3NFJtMUJsYlRrVVVjWXdyc0t4ZEdnRF9wRHhoVGJMdndhVGx5WUluLS1XZS0zbG5DVEJlSy16cExsWV9rT1c2NWdScE5yYTdqNEktZExiTjlMWWRFMWtzWnFNVmNkM1VlTnFzeG1nd0xxMEVFNkY2TnV6aWVQdkdmeEFCNFlLeW9IUTlXRHVFbm1BWUtvVmtuT1ZQVFJVTzJib19LSTh5WHoyZnZhZFhkbGRRWkJLRXVtMTFIRTU3cVkyUVBWemFUMmxlRUVrUVFtOU1FMU5fYXh4V1ZuVm1scm9wZ2l6c2xqRXlXWS1lUDFodk9LV1ZfUmxzR0xXQVcwSG9nVWtXMDR0dlB3bVF4OC1hOHVELWxoanZDaXBSUTZwT1N3ZUdJQUppb0YzSkI0VmFVMzl1VnUxX2RFRFVkNjJWRGsxSTVlSzFVcmVGVGRQV0N4YUtzR1JUbnVRUkZfUW1B?oc=5",
-        "published": "27 Apr 2026, 01:52 AM",
-        "iso_date": "2026-04-27T01:52:30+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOdTN5dFpCWVBvaDhVVzJnUDJvX3VscC1BSHlSdlhUUGl3cDh0UE1IYmpvam1XdlE4cGgxX1FTQXliUjNIaGQ1bTd6bG1YY1YtMlcyTk8tVkZCOU1iOHNqSVpxUHRWMDl6bVBzbjN5RjN5SGtGNUhnNVNjVDBpWHFTMWs0UmZmTnl4dEVMYnVzOUZSZVV6N1pwR2ZmLXhWRVNkYzlLWG5NUUhSN1AxYXZyS281czlKVnhYbXd4bWxiLUxNd0FnTFNyUmp1NXVpQjdycTZjTXNnYWstdGJkc0F6bzc2eEFXV0xTV0ItcDVYN1lJb3R1TFE3dUEzMldnVGxiQkVNcFo1YnJfd0NEQ1VyY1hiTVhyTWRRUFFwbVcwWWltYXdmTHpocy03ZTVqcUJIVWhSRnpDQ2ZGZmFYSmFNYUhBa0ROdXRPWVpUSVM1TUxqd2s3ZDNoU1lneHZxTjZEbXNtZ1RKZlEtR1lwcmdQVlhaQ2hBZkVGS3Y2T3lTUDQ3ZjRKanc?oc=5",
-        "published": "27 Apr 2026, 11:28 AM",
-        "iso_date": "2026-04-27T11:28:51+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -113,6 +93,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Ministry releases names of individuals stripped of their citizenship",
+        "link": "https://www.gdnonline.com/Details/1392894/Ministry-releases-names-of-individuals-stripped-of-their-citizenship",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427173410website(1)_T.jpg?20260427",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain revokes citizenship of 69 individuals",
         "link": "https://www.gdnonline.com/Details/1392888/Bahrain-revokes-citizenship-of-69-individuals",
@@ -150,16 +140,6 @@
         "iso_date": "2026-04-27T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260427/20260427020146bahrainuaeunity_T.jpg?20260427",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Water drills culture âvital to cope with emergenciesâ",
-        "link": "https://www.gdnonline.com/Details/1392791/Water-drills-culture-âvital-to-cope-with-emergenciesâ",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260426_222646_1_T.jpg?20260427",
         "source": "gdn",
         "category": "Latest"
       },
@@ -489,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 15:14:04 UTC"
+  "fetched_at": "2026-04-27 16:03:38 UTC"
 }
