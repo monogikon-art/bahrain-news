@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -76,6 +76,16 @@
         "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYVpZQ050SVpDVGdpTU9feURUbzhPLU1OUnczTkdNb0YwZk5STU9SMGNweWNxT3J2WDBlbzl0Z3RYdFY2bkJFOGt2MDJPQWRMZW1EVGpic3h6OFNpVFpOZTJBY2FuVjZWbTNtUENOZEd5aThpZ0xIcHRlTGhjY0huSE5ZVmhGU1hvZjNBZFJ2YTItSXhOclBUeVhaSGtGY0s5WVp2d0RoZXhyS18xTGlvNzhzV0dhM09BU0l0LWJScDk0X3paZ0FoSUNQUWxwR1B6dXViSGU2dEpOMEZBdjJYVDRBQUZTWncwNFhLZ0VtMlBfMjRtUjBjSWl0VzBvU251RlRGc1NhRFA2cHhDWEIzLTFhbkRSbm5rUVZwazB1WDI1RWhDb3pLdnhzV1hON1E0Ty1iZ0tCUnllVFppd1lNZ0p6cnVaN1lVRk5UYm53Y0FoRm02ZE84bmFwV1BBUGZDdDdiNTZUYlB3OThHeXcwNlpGbDhraDVGQXo2Q0hnazllYVRHRks3X1NMRElZblpiWTJrZ1NnTnlESUtDemZjUnpCNjJONVhVanEw?oc=5",
         "published": "27 Apr 2026, 09:56 AM",
         "iso_date": "2026-04-27T09:56:15+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
+        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
+        "published": "26 Apr 2026, 11:15 PM",
+        "iso_date": "2026-04-26T23:15:00+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +226,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "South Sudan says 14 killed in plane crash near Juba",
-        "link": "https://www.newsofbahrain.com/bahrain/131483.html",
+        "title": "Bahrain Strengthens Humanitarian Coordination in Meeting Between Ambassador to Egypt and RHF",
+        "link": "https://www.newsofbahrain.com/bahrain/131485.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BzlUHqipWk_2026-04-27_1777309218resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Revokes Citizenship of 69 Individuals",
+        "link": "https://www.newsofbahrain.com/world/131484.html",
+        "published": "27 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-27T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RLa2XpOd4h_2026-04-27_1777309084resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "South Sudan says 14 killed in plane crash near Juba",
+        "link": "https://www.newsofbahrain.com/world/131483.html",
+        "published": "27 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_kUmf4geVKE_2026-04-27_1777302209resized_pic.jpg",
         "source": "newsofbahrain",
@@ -228,8 +258,8 @@
       {
         "title": "Bahrain prioritises stability, talent retention",
         "link": "https://www.newsofbahrain.com/bahrain/131480.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
+        "published": "27 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-27T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_J8E4gTLXoP_2026-04-27_1777295540resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +268,10 @@
       {
         "title": "Norway police cooperate with France on Epstein probe",
         "link": "https://www.newsofbahrain.com/world/131479.html",
-        "published": "27 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-27T09:00:43+00:00",
+        "published": "27 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hOsnEAborv_2026-04-27_1777295417resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man who damaged Porsche to escape dogs not liable for damage: Munich court",
-        "link": "https://www.newsofbahrain.com/world/131478.html",
-        "published": "27 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-27T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_myNu4hWrPq_2026-04-27_1777294827resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,7 +281,7 @@
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o78EQiaC5z_2026-04-27_1777294110resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o78EQiaC5z_2026-04-27_1777294110thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -286,22 +306,12 @@
         "category": "Latest"
       },
       {
-        "title": "Shell to buy Canadian energy company ARC Resources for over $16 bn",
-        "link": "https://www.newsofbahrain.com/world/131476.html",
+        "title": "Man who damaged Porsche to escape dogs not liable for damage: Munich court",
+        "link": "https://www.newsofbahrain.com/world/131478.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G10pMfUg5m_2026-04-27_1777293656thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Lebanon’s President Defends Israel Talks, Calls War Decision ‘Treason’",
-        "link": "https://www.newsofbahrain.com/world/131475.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PnMSl9pOmc_2026-04-27_1777292087thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_myNu4hWrPq_2026-04-27_1777294827thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 16:03:38 UTC"
+  "fetched_at": "2026-04-27 17:02:54 UTC"
 }
