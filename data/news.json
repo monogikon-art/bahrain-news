@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 18
+      "count": 15
     }
   },
   "articles": {
@@ -42,20 +42,10 @@
         "category": "Latest"
       },
       {
-        "title": "Ukraine's Zelensky throws shade at Trump for easing oil sanctions on Russia",
-        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQS0pfYUxZbzhsNmFaZmtJRXNjOTUyeE5xOTZNUm1sdWZnMk9vMDlocTdoYTBiaC1nei1LUXd5U1JhcTVWcGFjZ0ZobzQxV1lkZmRheXB3UFlieGVyX2JpeFlORE9uOF9GYUhFcjVzTW1La25BZGY3VVpDT2hNRlJJY2dQcURFM0FvcVA0ZUw1TlFJVzhkV1VLdmVTRUw2YzNDU2d3VWx4dVVVSXkwaU80UXZHWkxEV1ZWSE4xb0dVeWlyVFh0SzUyTDRaSGVwOEhwNFg1Q1JPWU10X0VpMFhGc3FWWUVUZkRTSkpFd0VjZzVoZ0pMNmRqbDd0XzBnU196a2RwODktaEUwM3lEOFNuWnBNMWJwa016R0NyM2hEVXFpbXYwa0p5eFliaF85MHlSTjlXZXl2MUtvcGZ2MXVfQ0ZlR2FBYXhqdHNtN2FjRF9TVV9KQml2WTJJeUdySzQxNnJ4dmFIaDQ2WWZxckN4dHBaMEVMLWd0Qlp3NGlaWDVkaTJJbldFOTlrSjJib0hGdy1UQg?oc=5",
-        "published": "26 Apr 2026, 12:32 PM",
-        "iso_date": "2026-04-26T12:32:31+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
-        "published": "26 Apr 2026, 11:15 PM",
-        "iso_date": "2026-04-26T23:15:00+00:00",
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQMkhEenJLWWlNVTZzbmZFeVFiVlRhZ3hmb0dlV0ZzN0xFamVNdUdPYXJwaU5sbTQzdk94eUtrQlJvem1WS1Z3WUY1WWlUX0NqZktwNTlQZzJyemUyVnQ0WE1WbmI5Qkw5X0Rwd3J5OG1hSkhDRVRQaURJSU1hSmNHa0YybGk4Mlhvd0pJRGhiREtTU0J4RlVYd2t5ZzZnZ3RyTWI0N0hiWVJkdUdaX3FmNzZtWjZ0UHVQRUdOVEk1Tk9zLXVfRU9VV1U1OFU1dzZsX3NLczg5V0RDcmdwdG9oeTJWRHdVUHItTGcwc1NZckM3YV92LWhJMnhUQ09zRHl4SFdTZG04QmlRNGxtdmJIQjZsZmQxa1NVUlNUREFnZk1kX2RVWEM4VjNabE5rY2tBNWI3UldRcWVZZGpvdE4yb0lCcFY3dGJPNXZyX3VkNFJKUTFYVlNQSDk4di1MakxhYmVNRG1lR2VkVHFkWXFoZm5VVnZFQWNhUzVJZ1ZR?oc=5",
+        "published": "26 Apr 2026, 11:11 PM",
+        "iso_date": "2026-04-26T23:11:56+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -194,6 +184,16 @@
         "category": "Latest"
       },
       {
+        "title": "Jaissle hails historic win after Al Ahli retain Asian Champions League title",
+        "link": "https://www.gdnonline.com/Details/1392840/Jaissle-hails-historic-win-after-Al-Ahli-retain-Asian-Champions-League-title",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427120057ahli_T.jpg?20260427",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Two goalkeepers sent off for stoppage-time punching brawl in Spanish derby",
         "link": "https://www.gdnonline.com/Details/1392834/Two-goalkeepers-sent-off-for-stoppage-time-punching-brawl-in-Spanish-derby",
         "published": "27 Apr 2026",
@@ -212,66 +212,56 @@
         "image": "https://www.gdnonline.com/gdnimages/20260427/20260427_015138_1_T.jpg?20260427",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "City through to fourth straight FA Cup final",
-        "link": "https://www.gdnonline.com/Details/1392734/City-through-to-fourth-straight-FA-Cup-final-",
-        "published": "26 Apr 2026",
-        "iso_date": "2026-04-26T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260426/20260426_022930_2_T.jpg?20260427",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "Rabada’s 3-25 helps Gujarat thrash Chennai in IPL",
-        "link": "https://www.newsofbahrain.com/sports/131451.html",
+        "title": "Russia says worker at captured nuclear plant killed in Ukrainian strike",
+        "link": "https://www.newsofbahrain.com/world/131459.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yClP0kIczu_2026-04-27_1777281303resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3Rqc2X0fHZ_2026-04-27_1777284734resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "3,000 Troops, 5 Ships: Key Pact Allows India, Russia To Share Military Bases",
-        "link": "https://www.newsofbahrain.com/world/131450.html",
+        "title": "Galp Energia Q1 Profit Jumps 41% on Brazil Output Surge and Strong Oil Prices",
+        "link": "https://www.newsofbahrain.com/world/131458.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XmKO0FZdJz_2026-04-27_1777281205resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZPihEyCnb7_2026-04-27_1777284243resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Al Khaldiya lead as season enters final stretch",
-        "link": "https://www.newsofbahrain.com/sports/131449.html",
+        "title": "French teen faces jail in Singapore for licking vending machine straw",
+        "link": "https://www.newsofbahrain.com/world/131457.html",
         "published": "27 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-27T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pw0GlmhMgZ_2026-04-27_1777281179resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QGA1iaNyH3_2026-04-27_1777283779resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Atletico’s Barrios to miss Arsenal tie with thigh injury",
-        "link": "https://www.newsofbahrain.com/sports/131448.html",
+        "title": "Bahrain delivers solid 5km effort in Sanya",
+        "link": "https://www.newsofbahrain.com/sports/131456.html",
         "published": "27 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-27T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pUPmDzEwu3_2026-04-27_1777281066resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WZjYfLe3EI_2026-04-27_1777281880resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Alex Marquez wins Spanish MotoGP to end Bezzecchi streak",
-        "link": "https://www.newsofbahrain.com/sports/131447.html",
+        "title": "China blocks Meta's acquisition of AI firm Manus: state planner",
+        "link": "https://www.newsofbahrain.com/world/131455.html",
         "published": "27 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vemAzPhMQg_2026-04-27_1777280959resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fKFkSHGjYE_2026-04-27_1777281777resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,36 +312,6 @@
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_3DS86m20uF_2026-04-27_1777277339thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "British Royals Visit US for 250th Anniversary Despite Security Scare",
-        "link": "https://www.newsofbahrain.com/world/131444.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Yhc2JKVGQx_2026-04-27_1777280422thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar condemns Washington shooting incident",
-        "link": "https://www.newsofbahrain.com/world/131442.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HPKI71LgkZ_2026-04-27_1777280292thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE Boosts Rainfall Efforts with 80 Missions",
-        "link": "https://www.newsofbahrain.com/world/131441.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c3SaWylUs8_2026-04-27_1777280118thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -519,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-27 09:16:49 UTC"
+  "fetched_at": "2026-04-27 10:16:29 UTC"
 }
