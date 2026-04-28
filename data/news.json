@@ -10,13 +10,13 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 17
     }
   },
   "articles": {
@@ -83,9 +83,9 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQY05GZkh6OThoX2RTaTBITml2U1NxRHZpeTlweHZ5TVFCaWxiU1p3S2FUTGRTNDZscFRXMHU0WU9oQ2xRMW12TjhhQjI4LU9tUHh0WUoyckdhZ1hIOG5Fclh2WG0ybmJSTG03MGpvN2tMRTNjOTRBOFE0eGFyLU5FRE9jNFZudUUxWFptQ2traFpXUE1RQ1AwT0xYRllDRjBlclNPNEN4U2hSbnZXNGtMZUY5dXRxeXFoSkNYRmJuYkdOQTVPdzQ2NWlGY0pldmV3NUZYZUx4TVZ5WDdab0FMdHhyN09EU3F1VWJsMjVxV1lhemJ6VUEzRWtLSl9NRjVNOTE0Z2dCeGlOQ2hHcEZ2N2pHanZwR20tSkRmY3pyVVpycDdqcWhYZ3NTMHJGMWFONHlGS1Y4RzBTc2dtcm5nNS1fNG9FTGd6T1FhUnloMGtfallQLWRZczFyc2VSTzNlSExaWmV2cDduU3NYeC04Q2lZNUlUYUZON3RWQVZCcng5eEZKWmo5MG9DcHVrZw?oc=5",
-        "published": "28 Apr 2026, 05:05 AM",
-        "iso_date": "2026-04-28T05:05:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYVpZQ050SVpDVGdpTU9feURUbzhPLU1OUnczTkdNb0YwZk5STU9SMGNweWNxT3J2WDBlbzl0Z3RYdFY2bkJFOGt2MDJPQWRMZW1EVGpic3h6OFNpVFpOZTJBY2FuVjZWbTNtUENOZEd5aThpZ0xIcHRlTGhjY0huSE5ZVmhGU1hvZjNBZFJ2YTItSXhOclBUeVhaSGtGY0s5WVp2d0RoZXhyS18xTGlvNzhzV0dhM09BU0l0LWJScDk0X3paZ0FoSUNQUWxwR1B6dXViSGU2dEpOMEZBdjJYVDRBQUZTWncwNFhLZ0VtMlBfMjRtUjBjSWl0VzBvU251RlRGc1NhRFA2cHhDWEIzLTFhbkRSbm5rUVZwazB1WDI1RWhDb3pLdnhzV1hON1E0Ty1iZ0tCUnllVFppd1lNZ0p6cnVaN1lVRk5UYm53Y0FoRm02ZE84bmFwV1BBUGZDdDdiNTZUYlB3OThHeXcwNlpGbDhraDVGQXo2Q0hnazllYVRHRks3X1NMRElZblpiWTJrZ1NnTnlESUtDemZjUnpCNjJONVhVanEw?oc=5",
+        "published": "27 Apr 2026, 09:56 AM",
+        "iso_date": "2026-04-27T09:56:15+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -102,55 +102,236 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "Duo who used employerâs debit card to buy phone lose appeal",
+        "link": "https://www.gdnonline.com/Details/1392914/Duo-who-used-employerâs-debit-card-to-buy-phone-lose-appeal-",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_221931_1_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Sleepy driverâs jail term over fatal crash upheld",
+        "link": "https://www.gdnonline.com/Details/1392913/Sleepy-driverâs-jail-term-over-fatal-crash-upheld",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428105810sleepy_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Competence and skills of national workforce praised",
+        "link": "https://www.gdnonline.com/Details/1392933/Competence-and-skills-of-national-workforce-praised",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428003754hyazdf_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Individuals whose Bahraini citizenship has been revoked",
+        "link": "https://www.gdnonline.com/Details/1392910/Individuals-whose-Bahraini-citizenship-has-been-revoked",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427225056bahrainpassport2_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Protecting maritime waterways",
+        "link": "https://www.gdnonline.com/Details/1392932/Protecting-maritime-waterways",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428_002210_0_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Bourse set to host capital markets conference",
+        "link": "https://www.gdnonline.com/Details/1392925/Bahrain-Bourse-set-to-host-capital-markets-conference",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222110_1.png?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "ONE App launches new digital financing features",
+        "link": "https://www.gdnonline.com/Details/1392924/ONE-App-launches-new-digital-financing-features",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222109_0_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "New GIB chairman appointed",
+        "link": "https://www.gdnonline.com/Details/1392927/New-GIB-chairman-appointed",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222112_0.png?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Beyon Cyber named fastest-growing cybersecurity company by Deloitte",
+        "link": "https://www.gdnonline.com/Details/1392923/Beyon-Cyber-named-fastest-growing-cybersecurity-company-by-Deloitte",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222107_0.png?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BAB maps out strategic growth",
+        "link": "https://www.gdnonline.com/Details/1392922/BAB-maps-out-strategic-growth",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260427_222046_0_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Modric undergoes cheekbone surgery weeks before World Cup",
+        "link": "https://www.gdnonline.com/Details/1392969/Modric-undergoes-cheekbone-surgery-weeks-before-World-Cup",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428111239modric(1)_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Casemiro and Sesko star in Unitedâs win",
+        "link": "https://www.gdnonline.com/Details/1392957/Casemiro-and-Sesko-star-in-Unitedâs-win",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428015136cascsac_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Netherlands and Tottenham's Simons to miss World Cup after knee injury",
+        "link": "https://www.gdnonline.com/Details/1392846/Netherlands-and-Tottenhams-Simons-to-miss-World-Cup-after-knee-injury",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427120849xavi_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Jaissle hails historic win after Al Ahli retain Asian Champions League title",
+        "link": "https://www.gdnonline.com/Details/1392840/Jaissle-hails-historic-win-after-Al-Ahli-retain-Asian-Champions-League-title",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427120057ahli_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "France striker Mbappe suffers hamstring injury ahead of World Cup",
+        "link": "https://www.gdnonline.com/Details/1392881/France-striker-Mbappe-suffers-hamstring-injury-ahead-of-World-Cup",
+        "published": "27 Apr 2026",
+        "iso_date": "2026-04-27T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427151227mbappe1(2)_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
+      {
+        "title": "Oman, Somalia Explore Investment Opportunities",
+        "link": "https://www.newsofbahrain.com/world/131531.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_epga4lUKrR_2026-04-28_1777366921resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Cancels Citizenship of 1,266",
+        "link": "https://www.newsofbahrain.com/world/131530.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9ugLDY7SUB_2026-04-28_1777366776resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Man Charged With Attempted Assassination of Trump After Gala Shooting",
+        "link": "https://www.newsofbahrain.com/world/131529.html",
+        "published": "28 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-28T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tRZ61GdUau_2026-04-28_1777366726resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar deepens UN human rights engagement",
+        "link": "https://www.newsofbahrain.com/world/131528.html",
+        "published": "28 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-28T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_svzh1GQqAR_2026-04-28_1777366619resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar Pledges Continued Support for Lebanon",
+        "link": "https://www.newsofbahrain.com/world/131527.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i0uqsdleU8_2026-04-28_1777366438resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Bahrain Bourse to host “The Market 2.0: Bahrain 2026” conference",
         "link": "https://www.newsofbahrain.com/bahrain/131517.html",
         "published": "28 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UwOBiNsVKk_2026-04-28_1777364113resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "ONE App launches new digital financing features with up to 6-Month grace period",
-        "link": "https://www.newsofbahrain.com/business/131516.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t7oQvjKLzG_2026-04-28_1777363859resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UwOBiNsVKk_2026-04-28_1777364113thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "MPs Push Tighter Credit Card Rules",
         "link": "https://www.newsofbahrain.com/bahrain/131515.html",
-        "published": "28 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-28T09:00:43+00:00",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2KZzWdxAhH_2026-04-28_1777363234resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2KZzWdxAhH_2026-04-28_1777363234thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "‘Fill Government Job Vacancies’",
         "link": "https://www.newsofbahrain.com/bahrain/131514.html",
-        "published": "28 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5i1LUyaMtH_2026-04-28_1777363093resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Melania Trump Slams Jimmy Kimmel Over Joke; Kimmel Says It Was ‘Misconstrued’",
-        "link": "https://www.newsofbahrain.com/world/131513.html",
         "published": "28 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bxzNt3S4gM_2026-04-28_1777362831resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5i1LUyaMtH_2026-04-28_1777363093thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -175,62 +356,42 @@
         "category": "Latest"
       },
       {
-        "title": "King Charles Visits US to Reinforce Ties Amid Global Challenges",
-        "link": "https://www.newsofbahrain.com/world/131509.html",
+        "title": "China vows countermeasures if EU enacts ‘Made in Europe’ plan",
+        "link": "https://www.newsofbahrain.com/business/131523.html",
         "published": "28 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0fONbg1Syl_2026-04-28_1777361159thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JY7hKGuxsS_2026-04-28_1777365723thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "14 Killed in Plane Crash Near South Sudan Capital Juba",
-        "link": "https://www.newsofbahrain.com/world/131495.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
+        "title": "Beyon Cyber Recognised by Deloitte",
+        "link": "https://www.newsofbahrain.com/business/131522.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SnXBq3H0u2_2026-04-27_1777313119thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_he10vZJzNU_2026-04-28_1777365582thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Emirates to Resume Kuwait and Oman Flights from May",
-        "link": "https://www.newsofbahrain.com/world/131494.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
+        "title": "Zain Bahrain launches new Zain Youth plan “May5ali9”",
+        "link": "https://www.newsofbahrain.com/business/131521.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tuTa9FSOJs_2026-04-27_1777313006thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NwIkAsxPgt_2026-04-28_1777365442thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Sri Lanka seeks buyers for whiteelephant airport",
-        "link": "https://www.newsofbahrain.com/business/131435.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
+        "title": "Oil rises, stocks slip as US-Iran peace talk hopes dim",
+        "link": "https://www.newsofbahrain.com/business/131520.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5RESvwBXAq_2026-04-27_1777279173thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "AI firms flex lobbying muscle on both side of Atlantic",
-        "link": "https://www.newsofbahrain.com/business/131434.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_v1cwj7BuTL_2026-04-27_1777278990thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "India strengthens energy security through diversified oil sourcing",
-        "link": "https://www.newsofbahrain.com/business/131433.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ISpXPvolOs_2026-04-27_1777278558thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7OVUxNTrsH_2026-04-28_1777365343thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -378,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-28 08:17:40 UTC"
+  "fetched_at": "2026-04-28 09:17:29 UTC"
 }
