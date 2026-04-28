@@ -4,13 +4,13 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 10
+      "count": 0
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain strips 69 of citizenship over ‘sympathy’ for Iran during war",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczBIdmxfMUpDdFN1Q3NJSjNGRm9Wakt4Q0lSWmgycVlzdFk1VUhsdVY0WXZXMjZBel94RWRRRVlIcHF1Y1pVbmxyZ3VTT3B4NjB4bE82RmdhUTlLdG1pYTJ0OVo1UkJxZzZ0U0ZfUktodEdudlVzNFNuNEFSZnZ4YXBkamdWdWdJWFRQN2FBcTFQRGJOOW1LeUJScVBJX3daZjJGQmhSSW4wWHBoTUhrbw?oc=5",
-        "published": "28 Apr 2026, 12:32 AM",
-        "iso_date": "2026-04-28T00:32:28+00:00",
+        "title": "Bahrain revokes citizenship of 69 individuals for glorifying Iranian hostile acts",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTGk2Zk4zWGVjM2NiaFVwaTVhV2FyNUp1ZzRSNGpXZ0prMzJIcHlHSlY1MW1CSXhlMG4tLUctVW9qaFJpWVdZc0tOc29sUUoxd1Y0?oc=5",
+        "published": "27 Apr 2026, 08:01 PM",
+        "iso_date": "2026-04-27T20:01:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain revokes citizenship of 69 individuals for glorifying Iranian hostile acts",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTGk2Zk4zWGVjM2NiaFVwaTVhV2FyNUp1ZzRSNGpXZ0prMzJIcHlHSlY1MW1CSXhlMG4tLUctVW9qaFJpWVdZc0tOc29sUUoxd1Y0?oc=5",
-        "published": "27 Apr 2026, 08:01 PM",
-        "iso_date": "2026-04-27T20:01:46+00:00",
+        "title": "Bahrain strips 69 of citizenship over ‘sympathy’ for Iran during war",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczBIdmxfMUpDdFN1Q3NJSjNGRm9Wakt4Q0lSWmgycVlzdFk1VUhsdVY0WXZXMjZBel94RWRRRVlIcHF1Y1pVbmxyZ3VTT3B4NjB4bE82RmdhUTlLdG1pYTJ0OVo1UkJxZzZ0U0ZfUktodEdudlVzNFNuNEFSZnZ4YXBkamdWdWdJWFRQN2FBcTFQRGJOOW1LeUJScVBJX3daZjJGQmhSSW4wWHBoTUhrbw?oc=5",
+        "published": "28 Apr 2026, 12:32 AM",
+        "iso_date": "2026-04-28T00:32:28+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -72,16 +72,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Strips 69 of Citizenship Over Iran Sympathy After Gulf War",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb21KcnlPS1QyZnBhZWxIbi1RRE5SNmZINF85TDFNcEhhWHFKTjNFaWNQSWttZXpDaXF6eVFCcFBLdlRWRlhjR25oNmJLSW9WOE1KNDFrcWRDaTdBQnBvYUppOFdTcGcyWjlJUUNZcGgyRzZVNk04bDV4V0RzcWRmdm44VXVnaFhqdmZ2aFpTX0pwaG5FdlFLbU13c0M?oc=5",
-        "published": "28 Apr 2026, 06:28 AM",
-        "iso_date": "2026-04-28T06:28:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
         "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQaFJoeHZQdWRTd20zR3lzNUstTzRqTTRnYXpETl9oUDdwM2dHY3I3a0VFWlVRSklxREtOWGFRNkVRMVdma3Nfbjl3TnVkcnFwUXh4X3cyRzA2THFBVjdBdlFWMXZGc2x1UE1xeWcwdTgwcEluMWt2a1FfbHVyX25LelVneXpUUEVRRjQtQ1R4N3V3UUxrbEthN1dmb1VmbW5rZEJqRi0tR3lEOFhEa3haMTBOZFV4clNUMkZVZlAtTE9fWGVhUzc5WkNxdnY1QTZNWXFpVFZoOGljank0ZW9ZNXVpN0UxdEtac3RiUkRrbXNIdVN0ci1ybC1jcVg3N2NKX3lJaXdTcnREeE5ndUprYmplOWZoaHRFODJkOG9yWTU2ekdvd1VUbGVHS2pmRjFaeVJhM25OeDRQOHI0MlM4aUVnTjAzWFZHMWtrR3l2WTE0S251QWRSMllMRDdVdVFkRk1Ebmw1UXZDbHBJUS1qc1k0clJyYUVGMGNUZS1wT3ItYUFadHNXMWQ4cUtrLXhXZ1Y4SGhsSnZVdVI0NzcwWl9rYXZSbXlsSzVjTkNwNktZaUhkck9jWEl5ZkR1enFPZ2ZvY21pajFmc3JIZGFMYW9uU2N1RUxMZ0FGQ2RDWjV6c1I5UmhEQw?oc=5",
         "published": "28 Apr 2026, 12:16 AM",
@@ -93,9 +83,9 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYVpZQ050SVpDVGdpTU9feURUbzhPLU1OUnczTkdNb0YwZk5STU9SMGNweWNxT3J2WDBlbzl0Z3RYdFY2bkJFOGt2MDJPQWRMZW1EVGpic3h6OFNpVFpOZTJBY2FuVjZWbTNtUENOZEd5aThpZ0xIcHRlTGhjY0huSE5ZVmhGU1hvZjNBZFJ2YTItSXhOclBUeVhaSGtGY0s5WVp2d0RoZXhyS18xTGlvNzhzV0dhM09BU0l0LWJScDk0X3paZ0FoSUNQUWxwR1B6dXViSGU2dEpOMEZBdjJYVDRBQUZTWncwNFhLZ0VtMlBfMjRtUjBjSWl0VzBvU251RlRGc1NhRFA2cHhDWEIzLTFhbkRSbm5rUVZwazB1WDI1RWhDb3pLdnhzV1hON1E0Ty1iZ0tCUnllVFppd1lNZ0p6cnVaN1lVRk5UYm53Y0FoRm02ZE84bmFwV1BBUGZDdDdiNTZUYlB3OThHeXcwNlpGbDhraDVGQXo2Q0hnazllYVRHRks3X1NMRElZblpiWTJrZ1NnTnlESUtDemZjUnpCNjJONVhVanEw?oc=5",
-        "published": "27 Apr 2026, 09:56 AM",
-        "iso_date": "2026-04-27T09:56:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQY05GZkh6OThoX2RTaTBITml2U1NxRHZpeTlweHZ5TVFCaWxiU1p3S2FUTGRTNDZscFRXMHU0WU9oQ2xRMW12TjhhQjI4LU9tUHh0WUoyckdhZ1hIOG5Fclh2WG0ybmJSTG03MGpvN2tMRTNjOTRBOFE0eGFyLU5FRE9jNFZudUUxWFptQ2traFpXUE1RQ1AwT0xYRllDRjBlclNPNEN4U2hSbnZXNGtMZUY5dXRxeXFoSkNYRmJuYkdOQTVPdzQ2NWlGY0pldmV3NUZYZUx4TVZ5WDdab0FMdHhyN09EU3F1VWJsMjVxV1lhemJ6VUEzRWtLSl9NRjVNOTE0Z2dCeGlOQ2hHcEZ2N2pHanZwR20tSkRmY3pyVVpycDdqcWhYZ3NTMHJGMWFONHlGS1Y4RzBTc2dtcm5nNS1fNG9FTGd6T1FhUnloMGtfallQLWRZczFyc2VSTzNlSExaWmV2cDduU3NYeC04Q2lZNUlUYUZON3RWQVZCcng5eEZKWmo5MG9DcHVrZw?oc=5",
+        "published": "28 Apr 2026, 05:05 AM",
+        "iso_date": "2026-04-28T05:05:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -112,156 +102,85 @@
         "category": "Latest"
       }
     ],
-    "gdn": [
-      {
-        "title": "Highway traffic hit as car catches fire",
-        "link": "https://www.gdnonline.com/Details/1392897/Highway-traffic-hit-as-car-catches-fire",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427202929website(2)_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Foreign Minister urges reopening of Strait of Hormuz in UN Security Council address",
-        "link": "https://www.gdnonline.com/Details/1392898/Foreign-Minister-urges-reopening-of-Strait-of-Hormuz-in-UN-Security-Council-address",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427203325un(1)_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Ministry releases names of individuals stripped of their citizenship",
-        "link": "https://www.gdnonline.com/Details/1392894/Ministry-releases-names-of-individuals-stripped-of-their-citizenship",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427173410website(1)_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain revokes citizenship of 69 individuals",
-        "link": "https://www.gdnonline.com/Details/1392888/Bahrain-revokes-citizenship-of-69-individuals",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427155010pass_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Cabinet reviews measures to address impact of Iranian aggression",
-        "link": "https://www.gdnonline.com/Details/1392890/Cabinet-reviews-measures-to-address-impact-of-Iranian-aggression",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427155434cp1(15)_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Netherlands and Tottenham's Simons to miss World Cup after knee injury",
-        "link": "https://www.gdnonline.com/Details/1392846/Netherlands-and-Tottenhams-Simons-to-miss-World-Cup-after-knee-injury",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427120849xavi_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Jaissle hails historic win after Al Ahli retain Asian Champions League title",
-        "link": "https://www.gdnonline.com/Details/1392840/Jaissle-hails-historic-win-after-Al-Ahli-retain-Asian-Champions-League-title",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427120057ahli_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "France striker Mbappe suffers hamstring injury ahead of World Cup",
-        "link": "https://www.gdnonline.com/Details/1392881/France-striker-Mbappe-suffers-hamstring-injury-ahead-of-World-Cup",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427151227mbappe1(2)_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Champions-in-waiting Inter held to 2-2 draw as Torino fight back",
-        "link": "https://www.gdnonline.com/Details/1392844/Champions-in-waiting-Inter-held-to-2-2-draw-as-Torino-fight-back",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427113303int(4)_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Milan and Juve offer up another 0-0 draw to consolidate top-four grip",
-        "link": "https://www.gdnonline.com/Details/1392845/Milan-and-Juve-offer-up-another-0-0-draw-to-consolidate-top-four-grip",
-        "published": "27 Apr 2026",
-        "iso_date": "2026-04-27T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260427/20260427123013juve1_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      }
-    ],
+    "gdn": [],
     "newsofbahrain": [
       {
-        "title": "Dumistan mosque plan paused",
-        "link": "https://www.newsofbahrain.com/bahrain/131506.html",
+        "title": "Bahrain Bourse to host “The Market 2.0: Bahrain 2026” conference",
+        "link": "https://www.newsofbahrain.com/bahrain/131517.html",
         "published": "28 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_26T7VWMFrq_2026-04-28_1777360708resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UwOBiNsVKk_2026-04-28_1777364113resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Council backs warning stickers on bins",
-        "link": "https://www.newsofbahrain.com/bahrain/131505.html",
+        "title": "ONE App launches new digital financing features with up to 6-Month grace period",
+        "link": "https://www.newsofbahrain.com/business/131516.html",
         "published": "28 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uq08peXkds_2026-04-28_1777360395resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_t7oQvjKLzG_2026-04-28_1777363859resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Strait of Hormuz Concerns Raised",
-        "link": "https://www.newsofbahrain.com/bahrain/131504.html",
+        "title": "MPs Push Tighter Credit Card Rules",
+        "link": "https://www.newsofbahrain.com/bahrain/131515.html",
         "published": "28 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-28T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_wszyH2xcD5_2026-04-28_1777360005resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2KZzWdxAhH_2026-04-28_1777363234resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Report on expat driving licence rules submitted",
-        "link": "https://www.newsofbahrain.com/bahrain/131503.html",
+        "title": "‘Fill Government Job Vacancies’",
+        "link": "https://www.newsofbahrain.com/bahrain/131514.html",
         "published": "28 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-28T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AihYpFtCaH_2026-04-28_1777359438resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5i1LUyaMtH_2026-04-28_1777363093resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Safer Workplaces",
-        "link": "https://www.newsofbahrain.com/bahrain/131502.html",
+        "title": "Melania Trump Slams Jimmy Kimmel Over Joke; Kimmel Says It Was ‘Misconstrued’",
+        "link": "https://www.newsofbahrain.com/world/131513.html",
         "published": "28 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_waiZJ59XtY_2026-04-28_1777359352resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bxzNt3S4gM_2026-04-28_1777362831resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Calls to Curb Post-Subsidy Firings",
+        "link": "https://www.newsofbahrain.com/bahrain/131512.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NcEhnl93Tb_2026-04-28_1777361893thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Emergency Fund For Small Firms",
+        "link": "https://www.newsofbahrain.com/bahrain/131511.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GaRQDjK7tC_2026-04-28_1777361782thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "King Charles Visits US to Reinforce Ties Amid Global Challenges",
+        "link": "https://www.newsofbahrain.com/world/131509.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0fONbg1Syl_2026-04-28_1777361159thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,26 +201,6 @@
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_tuTa9FSOJs_2026-04-27_1777313006thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE President Receives Message from Kazakhstan Counterpart on Bilateral Relations",
-        "link": "https://www.newsofbahrain.com/world/131493.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QsCf42kWPn_2026-04-27_1777312752thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gold Stabilises Near $4,700 as Market Cools After Recent Rally",
-        "link": "https://www.newsofbahrain.com/world/131492.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_URPq1ueQc3_2026-04-27_1777311983thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,16 +231,6 @@
         "iso_date": "2026-04-27T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_ISpXPvolOs_2026-04-27_1777278558thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "EU, US sign critical minerals plan to counter China reliance",
-        "link": "https://www.newsofbahrain.com/business/131432.html",
-        "published": "27 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-27T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7oY6EAnqT2_2026-04-27_1777278342thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +378,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-28 07:21:42 UTC"
+  "fetched_at": "2026-04-28 08:17:40 UTC"
 }
