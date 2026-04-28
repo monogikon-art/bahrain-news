@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain revokes citizenship of 69 individuals for glorifying Iranian hostile acts",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTGk2Zk4zWGVjM2NiaFVwaTVhV2FyNUp1ZzRSNGpXZ0prMzJIcHlHSlY1MW1CSXhlMG4tLUctVW9qaFJpWVdZc0tOc29sUUoxd1Y0?oc=5",
-        "published": "27 Apr 2026, 08:01 PM",
-        "iso_date": "2026-04-27T20:01:46+00:00",
+        "title": "Bahrain strips 69 of citizenship over ‘sympathy’ for Iran during war",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczBIdmxfMUpDdFN1Q3NJSjNGRm9Wakt4Q0lSWmgycVlzdFk1VUhsdVY0WXZXMjZBel94RWRRRVlIcHF1Y1pVbmxyZ3VTT3B4NjB4bE82RmdhUTlLdG1pYTJ0OVo1UkJxZzZ0U0ZfUktodEdudlVzNFNuNEFSZnZ4YXBkamdWdWdJWFRQN2FBcTFQRGJOOW1LeUJScVBJX3daZjJGQmhSSW4wWHBoTUhrbw?oc=5",
+        "published": "28 Apr 2026, 12:32 AM",
+        "iso_date": "2026-04-28T00:32:28+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain strips 69 of citizenship over ‘sympathy’ for Iran during war",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczBIdmxfMUpDdFN1Q3NJSjNGRm9Wakt4Q0lSWmgycVlzdFk1VUhsdVY0WXZXMjZBel94RWRRRVlIcHF1Y1pVbmxyZ3VTT3B4NjB4bE82RmdhUTlLdG1pYTJ0OVo1UkJxZzZ0U0ZfUktodEdudlVzNFNuNEFSZnZ4YXBkamdWdWdJWFRQN2FBcTFQRGJOOW1LeUJScVBJX3daZjJGQmhSSW4wWHBoTUhrbw?oc=5",
-        "published": "28 Apr 2026, 12:32 AM",
-        "iso_date": "2026-04-28T00:32:28+00:00",
+        "title": "Bahrain revokes citizenship of 69 individuals for glorifying Iranian hostile acts",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTGk2Zk4zWGVjM2NiaFVwaTVhV2FyNUp1ZzRSNGpXZ0prMzJIcHlHSlY1MW1CSXhlMG4tLUctVW9qaFJpWVdZc0tOc29sUUoxd1Y0?oc=5",
+        "published": "27 Apr 2026, 08:01 PM",
+        "iso_date": "2026-04-27T20:01:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,10 +52,40 @@
         "category": "Latest"
       },
       {
+        "title": "Five sentenced to life in Bahrain for plotting 'terrorist' acts with Iran",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1RrWEdydVNQNHlxSElvamN5Ujk3aHhta2JmQ1h1anIwejRoeWh5c1hVYTVHM2lpLUNEWmM3dkprRmpIM01yYVBvNjBXeHQ1dWc0ZTJ3QWgzWkdwSjJnNnZLMncwY255WmtxbWJUQWxaZ25wS3JUU1pGX2xpV2FGUFpmczZKaHBwUXp5ZlRDVW1WWmg5Umg0TnFTay1LRllSZmx1NWdlRWdELUZlTTVPU1FMLTZ4dWFPcHdRag?oc=5",
+        "published": "28 Apr 2026, 02:11 PM",
+        "iso_date": "2026-04-28T14:11:50+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Strips 69 of Citizenship Over Iran Sympathy After Gulf War",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb21KcnlPS1QyZnBhZWxIbi1RRE5SNmZINF85TDFNcEhhWHFKTjNFaWNQSWttZXpDaXF6eVFCcFBLdlRWRlhjR25oNmJLSW9WOE1KNDFrcWRDaTdBQnBvYUppOFdTcGcyWjlJUUNZcGgyRzZVNk04bDV4V0RzcWRmdm44VXVnaFhqdmZ2aFpTX0pwaG5FdlFLbU13c0M?oc=5",
+        "published": "28 Apr 2026, 06:28 AM",
+        "iso_date": "2026-04-28T06:28:28+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeko2OE1VNjU2SGVEdnpBeVVYVVc3SC1qTUlJVk95TWZUanM4M1ZJTlJIYzNLVkxrNlVwcFlBdGFCcUg0Wm9OSzRqWlI2bjgyTHlQYngya0dmN1BqZHhSN0ZVREVadlhCS21TMWRsZWk1c2dHVWlqaEl2dGQwLWpPclZNb1V0MnVfc0d0YnpGd0dISXhIR1FrVWtEZkZ4SlNDemVpaFpncTU0UUUzYXI5c3FmRjl2djdkQTNrLTJ5SkNYdThRaFNEWmM4VkFOT1BRa3Axd2YwVTdnU3FTNHN4VzdFcjBoSS1pejZlekZKaGkzOElmUnZXWlVzczJrUXVtcHNsWU9yWmcxdks4Z1hvVVN2UnFyYWk0V1NTc2szMUdtbzIyS2VGZjJtTFJFckxjVGlrYjlmWWgwQ3RzUkdhRjJZZWNIVnJJUnFBVV8zNGR5Wll6TE90NEltNEsxNWpxSVAyYVVxcWMwUDVDNmNjMldtRGJvbWV0NDhyM0JlX3J1OUtlbXltOXp2OWowQQ?oc=5",
+        "published": "27 Apr 2026, 10:57 PM",
+        "iso_date": "2026-04-27T22:57:25+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNLWt5UlhYSy12cW1TUC1DRzhLUFh0Z1NvNmpUX0x2dElld2pLMkZsbE5QWG5Jby1OTC1MN3JzdGxzUzJmVXVuUzdoRWRXdUd6el9NdkhDX0l6dWp1cWtZa1V5czdEYXFiblU5ZWxTVGd3RkdlTzhFbEFiLXI3RlVFb0V2TUdzd2MtdkdOdC1WV2JEWUlNeEhDZXpra29ITWFXOVF3VThnaWJGYUZXNTQ4VzFyaHdJSEVtR2NQOUxFSkpGc3NoM29aaUZmRm5qeGpLTkdxSFp6WlA1MWxPVlNuMi0yVU1xRUc5amFUX1dxanNVdlg3RHFUeENvRTRkNFRxcHQ3OHVadkg4aDEweDJ6eWdyXzRtT0xxMFJSaVB4NzVmdFVZcEhQX0sxc1htZ1FZcGdFWGZJSUNhQkdoTXNENHMySTBxa1pMd2E1dGxYS29yVTRrZ1lKdkx4U3NSWDR4LXI1U2JhZ1JZZmtGMk40dVpXMHY4Q0sxWHNjYVFadTQ1TzFGSDFLWmR4NDFMYkw3STUtVGVQWTZoYlVfTlFQNmlDVHAtSnlPaDdFN0JzbHY3WE4yRGY4eEEzZzJ6b0Fab2VTLXF3bXFqQmx2QWRWb2Y1Q2V5TGdQQWRMRXptQVJHWTFtOVRJSTBwSFB3UDZnTlR2TmxiR21RWlNhS2Fjd2RETWpLUQ?oc=5",
-        "published": "28 Apr 2026, 12:47 PM",
-        "iso_date": "2026-04-28T12:47:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQaFJoeHZQdWRTd20zR3lzNUstTzRqTTRnYXpETl9oUDdwM2dHY3I3a0VFWlVRSklxREtOWGFRNkVRMVdma3Nfbjl3TnVkcnFwUXh4X3cyRzA2THFBVjdBdlFWMXZGc2x1UE1xeWcwdTgwcEluMWt2a1FfbHVyX25LelVneXpUUEVRRjQtQ1R4N3V3UUxrbEthN1dmb1VmbW5rZEJqRi0tR3lEOFhEa3haMTBOZFV4clNUMkZVZlAtTE9fWGVhUzc5WkNxdnY1QTZNWXFpVFZoOGljank0ZW9ZNXVpN0UxdEtac3RiUkRrbXNIdVN0ci1ybC1jcVg3N2NKX3lJaXdTcnREeE5ndUprYmplOWZoaHRFODJkOG9yWTU2ekdvd1VUbGVHS2pmRjFaeVJhM25OeDRQOHI0MlM4aUVnTjAzWFZHMWtrR3l2WTE0S251QWRSMllMRDdVdVFkRk1Ebmw1UXZDbHBJUS1qc1k0clJyYUVGMGNUZS1wT3ItYUFadHNXMWQ4cUtrLXhXZ1Y4SGhsSnZVdVI0NzcwWl9rYXZSbXlsSzVjTkNwNktZaUhkck9jWEl5ZkR1enFPZ2ZvY21pajFmc3JIZGFMYW9uU2N1RUxMZ0FGQ2RDWjV6c1I5UmhEQw?oc=5",
+        "published": "28 Apr 2026, 12:16 AM",
+        "iso_date": "2026-04-28T00:16:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -76,26 +106,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVJJcmtzakR4MHR0SlZZMFQ5Z1M5eFJvU1Zpb0I4MU1Zb1VvU3hGV1RyQ3QwSUVLRlFNdVM5V0U3QU9iNFdoRy1kN3pOQVFYbDhlUGlzbndLMEd6RXNQcnN5MjFMejFCaHNsSU42SlZuXzhvLUdad2kxRzNzNTBMMUlIYmtfeHBjUkFjbDhwb3F2Vi1zU3F4R0JPWFJseVowZkthaEdR?oc=5",
         "published": "28 Apr 2026, 03:25 PM",
         "iso_date": "2026-04-28T15:25:00+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Strips 69 of Citizenship Over Iran Sympathy After Gulf War",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb21KcnlPS1QyZnBhZWxIbi1RRE5SNmZINF85TDFNcEhhWHFKTjNFaWNQSWttZXpDaXF6eVFCcFBLdlRWRlhjR25oNmJLSW9WOE1KNDFrcWRDaTdBQnBvYUppOFdTcGcyWjlJUUNZcGgyRzZVNk04bDV4V0RzcWRmdm44VXVnaFhqdmZ2aFpTX0pwaG5FdlFLbU13c0M?oc=5",
-        "published": "28 Apr 2026, 06:28 AM",
-        "iso_date": "2026-04-28T06:28:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQY05GZkh6OThoX2RTaTBITml2U1NxRHZpeTlweHZ5TVFCaWxiU1p3S2FUTGRTNDZscFRXMHU0WU9oQ2xRMW12TjhhQjI4LU9tUHh0WUoyckdhZ1hIOG5Fclh2WG0ybmJSTG03MGpvN2tMRTNjOTRBOFE0eGFyLU5FRE9jNFZudUUxWFptQ2traFpXUE1RQ1AwT0xYRllDRjBlclNPNEN4U2hSbnZXNGtMZUY5dXRxeXFoSkNYRmJuYkdOQTVPdzQ2NWlGY0pldmV3NUZYZUx4TVZ5WDdab0FMdHhyN09EU3F1VWJsMjVxV1lhemJ6VUEzRWtLSl9NRjVNOTE0Z2dCeGlOQ2hHcEZ2N2pHanZwR20tSkRmY3pyVVpycDdqcWhYZ3NTMHJGMWFONHlGS1Y4RzBTc2dtcm5nNS1fNG9FTGd6T1FhUnloMGtfallQLWRZczFyc2VSTzNlSExaWmV2cDduU3NYeC04Q2lZNUlUYUZON3RWQVZCcng5eEZKWmo5MG9DcHVrZw?oc=5",
-        "published": "28 Apr 2026, 05:05 AM",
-        "iso_date": "2026-04-28T05:05:30+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -529,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-28 16:14:20 UTC"
+  "fetched_at": "2026-04-28 17:05:32 UTC"
 }
