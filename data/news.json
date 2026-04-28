@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -72,20 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Revokes Citizenship of 69 Individuals for Praising Iranian Aggressions",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GeXh0QWdfbHZFUG01aDRwSVhBWnpER0VxaGppSU1wWkk2Qm1MaFM4aGFvYkZYMFdQZFprSkZvMmZhYlZzRWhqeHNSTFFneXNFTDFnY3N3?oc=5",
-        "published": "27 Apr 2026, 02:53 PM",
-        "iso_date": "2026-04-27T14:53:13+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Strips 69 of Citizenship Over Iran Sympathy After Gulf War",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb21KcnlPS1QyZnBhZWxIbi1RRE5SNmZINF85TDFNcEhhWHFKTjNFaWNQSWttZXpDaXF6eVFCcFBLdlRWRlhjR25oNmJLSW9WOE1KNDFrcWRDaTdBQnBvYUppOFdTcGcyWjlJUUNZcGgyRzZVNk04bDV4V0RzcWRmdm44VXVnaFhqdmZ2aFpTX0pwaG5FdlFLbU13c0M?oc=5",
-        "published": "28 Apr 2026, 06:28 AM",
-        "iso_date": "2026-04-28T06:28:28+00:00",
+        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
+        "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQaFJoeHZQdWRTd20zR3lzNUstTzRqTTRnYXpETl9oUDdwM2dHY3I3a0VFWlVRSklxREtOWGFRNkVRMVdma3Nfbjl3TnVkcnFwUXh4X3cyRzA2THFBVjdBdlFWMXZGc2x1UE1xeWcwdTgwcEluMWt2a1FfbHVyX25LelVneXpUUEVRRjQtQ1R4N3V3UUxrbEthN1dmb1VmbW5rZEJqRi0tR3lEOFhEa3haMTBOZFV4clNUMkZVZlAtTE9fWGVhUzc5WkNxdnY1QTZNWXFpVFZoOGljank0ZW9ZNXVpN0UxdEtac3RiUkRrbXNIdVN0ci1ybC1jcVg3N2NKX3lJaXdTcnREeE5ndUprYmplOWZoaHRFODJkOG9yWTU2ekdvd1VUbGVHS2pmRjFaeVJhM25OeDRQOHI0MlM4aUVnTjAzWFZHMWtrR3l2WTE0S251QWRSMllMRDdVdVFkRk1Ebmw1UXZDbHBJUS1qc1k0clJyYUVGMGNUZS1wT3ItYUFadHNXMWQ4cUtrLXhXZ1Y4SGhsSnZVdVI0NzcwWl9rYXZSbXlsSzVjTkNwNktZaUhkck9jWEl5ZkR1enFPZ2ZvY21pajFmc3JIZGFMYW9uU2N1RUxMZ0FGQ2RDWjV6c1I5UmhEQw?oc=5",
+        "published": "28 Apr 2026, 12:16 AM",
+        "iso_date": "2026-04-28T00:16:48+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -154,12 +144,12 @@
         "category": "Latest"
       },
       {
-        "title": "Protecting maritime waterways",
-        "link": "https://www.gdnonline.com/Details/1392932/Protecting-maritime-waterways",
+        "title": "Chief of Staff receives Commander of US Marines Corps Forces Central Command",
+        "link": "https://www.gdnonline.com/Details/1393006/Chief-of-Staff-receives-Commander-of-US-Marines-Corps-Forces-Central-Command",
         "published": "28 Apr 2026",
         "iso_date": "2026-04-28T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428_002210_0_T.jpg?20260428",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428155101bdf14_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
@@ -214,22 +204,22 @@
         "category": "Latest"
       },
       {
-        "title": "Modric undergoes cheekbone surgery weeks before World Cup",
-        "link": "https://www.gdnonline.com/Details/1392969/Modric-undergoes-cheekbone-surgery-weeks-before-World-Cup",
-        "published": "28 Apr 2026",
-        "iso_date": "2026-04-28T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428111239modric(1)_T.jpg?20260428",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Two keepers sent off as Spanish derby ends in punching brawl",
         "link": "https://www.gdnonline.com/Details/1392963/Two-keepers-sent-off-as-Spanish-derby-ends-in-punching-brawl",
         "published": "28 Apr 2026",
         "iso_date": "2026-04-28T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260428/20260428152620reff_T.jpg?20260428",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Modric undergoes cheekbone surgery weeks before World Cup",
+        "link": "https://www.gdnonline.com/Details/1392969/Modric-undergoes-cheekbone-surgery-weeks-before-World-Cup",
+        "published": "28 Apr 2026",
+        "iso_date": "2026-04-28T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260428/20260428111239modric(1)_T.jpg?20260428",
         "source": "gdn",
         "category": "Latest"
       },
@@ -266,52 +256,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Dubai Hosts One of the Region’s Largest Creators Gatherings",
+        "link": "https://www.newsofbahrain.com/world/131600.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G7s6Tb3SHO_2026-04-28_1777385483resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Australia Moves To Tax Meta, Google and TikTok To Fund Newsrooms",
+        "link": "https://www.newsofbahrain.com/world/131599.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dXSJNryWfZ_2026-04-28_1777383716resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Greek police hunt 89-year-old alleged gunman after Athens shooting",
+        "link": "https://www.newsofbahrain.com/world/131598.html",
+        "published": "28 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-28T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Y2Io9MavKL_2026-04-28_1777382436resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US DOJ Releases Evidence Photos",
+        "link": "https://www.newsofbahrain.com/world/131597.html",
+        "published": "28 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-28T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6jagqOTwcS_2026-04-28_1777381802resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "UAE to Exit OPEC After More Than 50 Years",
         "link": "https://www.newsofbahrain.com/world/131596.html",
         "published": "28 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_RQCfpljM6o_2026-04-28_1777381301resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Colombia in mourning after deadliest attack in decades",
-        "link": "https://www.newsofbahrain.com/world/131594.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LiEj2MdeaA_2026-04-28_1777380728resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Putin tells Moscow will do ‘everything’ to help secure peace",
-        "link": "https://www.newsofbahrain.com/world/131593.html",
-        "published": "28 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rpcC2xDyoM_2026-04-28_1777380074resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN maritime agency rejects Hormuz tolls",
-        "link": "https://www.newsofbahrain.com/world/131592.html",
-        "published": "28 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VnYDUfdp57_2026-04-28_1777379925resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN watchdog rebukes Sweden for deporting disabled child",
-        "link": "https://www.newsofbahrain.com/world/131591.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GunvzfWokX_2026-04-28_1777379752resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-28 13:04:32 UTC"
+  "fetched_at": "2026-04-28 14:16:46 UTC"
 }
