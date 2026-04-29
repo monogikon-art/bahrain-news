@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,6 +21,16 @@
   },
   "articles": {
     "bna": [
+      {
+        "title": "Bahrain, Panama review impact of Hormuz tensions on global trade",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCNFJSQlNFRHVJVHF3RXV5YlNQU1ZIYllsS2tualg2N0phcUpCU2Z3QlNGbEVqeTVSLURfaHVpTjVjNVd5ZzdnSTJnb1dIS1IzODVV?oc=5",
+        "published": "28 Apr 2026, 12:27 PM",
+        "iso_date": "2026-04-28T12:27:49+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
         "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTzRiSG1RV1Rjci1zVV9pRkJNczJCaEpBZFBLZ2h6NWd4UmctXzRLZFVxNHdGR25FWTh1RWxjQXoyd3NHeHVKTU1PNUlZcXVtWWR4QlJBRE05b2hJRm9XS1pBbXNnZjVSTVRYd1dpSUk1MHA0ZkVidlBwQTVXODdraFFhenJuUWZtaDM4Nmtvd1NZa3o0eGcyN3RYb2Q1b3NyU2p2b0VXUWtlLXRDQlJiOUl3RnJZaHVkLXloMzBIODhSQlNYN0pBaFgxR1JFV0V1YmprOVUtTGJYM2VpR3pCc0pGaVRBME96MjJ1MUFlc2Z5MUtaZjZKY2xfZ2w5akEzaDZROHpVRWlZNWlHS0JaS3NnUzFITTVNUDctYlFhUkxOTDNldUFFdmxVaFJURUJCR0VRb01sNEt3N1o1a2FOT1FfUG9fX1c2aEc2ZEhMUF9GTnhBM3pONmdtU1hPNzV1XzE3RzFlcFVSUGxSYUtmTjRQSUNqN2hhaTFEOFNJdjE4a1Y4dEw1d3JYblZjQUVkXy00YTBaR2R4X3dTd3dST01B?oc=5",
@@ -56,26 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZmJnc05ETVlMSkxFcmFDRWdqZGE4Q05yRkZDanVJT2tUc0dDa192TFlvcGUtRlBTVWlQZnBVR3k5aDdfdHBxOUQ2czJIcnY3djdrdl9sZGRyTzRCRFpvdGNfZFZYVlJNdkhrZ0N1dWZuTVlqNWFOTWFOdE9hbHRKVUllQUVOa0ViQk1vVlhnN0c2U1MzNGZ3Vk1pRXhXYWRZbXoybVJwWjlId08yNEVjUFhJdGhYYld0Q0lldm5Namp3cTBuTE9kUG9Xa3dtM1VINmxFZWt6X3lnQ29JTlItV3F0akFVZGVKdWVUNzNRYjFKYmZTQjhwUFh6WmJBR3oxbGJFak1pNFVBVjVVQS1tZ1V0bU9rYUhCbENSYUgycEEzVUhlN2w0a3pGVEdNdk1McnJDMTQ1NUFBLU96R0F5WXA2SlFHWVg0RmROclp6TktveEd6bDdrZmg0UnJLellHUWdmSDNoZVpjRVBlNW1rWndPc3o5V2hoR3ZrdmxmM3h3WXZBUWVZb3V2TjhXZw?oc=5",
         "published": "28 Apr 2026, 11:51 PM",
         "iso_date": "2026-04-28T23:51:58+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVUV6bEY0LW4tYWNZeTFJMlBGbTNpTE93NXEyYzV6a2JxNmkxTEdfOXBXbVQxWkxodVQ2ZHN5U2RZNFlPdEN1czMyZXluWlFwRlo3VjZ4ZDR4dVNLWXQwVjVUSWZxRG4ybmp0Z1diazRXaWlnQ0NxcHh6S0o1NTNMQWZfamd4WUlsVDJsdklVYVdjc2tOelR0QnJ5cFg1ZjVycHlGYy1OQUxpcTJaN3JQSHdOYmx2cjNnTm5qUDVDcjFHVGtncXdRaDVzWmRjc2xDUGY4MGhQbktaLXZxeFpWUVpqTHprOEh5emxHYm5VWTZBbFFXS0JfRU9NTkpyMXhaWVN4VXhCOE5tOFBZbm1QRlIzaTVGQ0I5WklaajJuWWJBckR6LXVrOVp1b2xqdC10TExHanZyV1dqSDdkb19FSlZ2VW11NjF2cU42eEFjSTI2UFlubDJiOTJIbjlHenJFdlJRYjBPUFpZcEtmdUlkTnk3Z05oTy1vLUhlZnNKZjR5T3VWU2c?oc=5",
-        "published": "29 Apr 2026, 12:47 AM",
-        "iso_date": "2026-04-29T00:47:12+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
-        "published": "28 Apr 2026, 06:38 PM",
-        "iso_date": "2026-04-28T18:38:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,10 +246,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Pentagon makes deal to expand use of Google AI: reports",
-        "link": "https://www.newsofbahrain.com/world/131627.html",
+        "title": "Indonesia orangutan forest cleared for 'carbon-neutral' packaging firm",
+        "link": "https://www.newsofbahrain.com/world/131629.html",
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HY1mEdjX8u_2026-04-29_1777459212resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "France unveils plan to ditch all fossil fuels by 2050",
+        "link": "https://www.newsofbahrain.com/world/131628.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7L3OwWgbGK_2026-04-29_1777458271resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pentagon makes deal to expand use of Google AI: reports",
+        "link": "https://www.newsofbahrain.com/world/131627.html",
+        "published": "29 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_InMvuR93KX_2026-04-29_1777457571resized_pic.jpg",
         "source": "newsofbahrain",
@@ -268,8 +278,8 @@
       {
         "title": "Europe climate report signals rising extremes",
         "link": "https://www.newsofbahrain.com/world/131626.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
+        "published": "29 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_zYKXUmgvFQ_2026-04-29_1777457102resized_pic.jpg",
         "source": "newsofbahrain",
@@ -278,30 +288,10 @@
       {
         "title": "Sexual violence in Sudan triggers mental health crisis: UN",
         "link": "https://www.newsofbahrain.com/world/131625.html",
-        "published": "29 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9olRbsAfr8_2026-04-29_1777456750resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "King Charles, Trump toast ties despite Iran tensions",
-        "link": "https://www.newsofbahrain.com/world/131624.html",
-        "published": "29 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eX2oLyndjv_2026-04-29_1777456348resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tropical forest loss eases after record year: researchers",
-        "link": "https://www.newsofbahrain.com/world/131623.html",
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lNY4rKtDJR_2026-04-29_1777455605resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9olRbsAfr8_2026-04-29_1777456750resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-29 10:15:17 UTC"
+  "fetched_at": "2026-04-29 11:07:10 UTC"
 }
