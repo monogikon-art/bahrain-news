@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 14
     }
   },
   "articles": {
@@ -76,16 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNdGhmXzZxbXlLSEROeGM2bzUwNXJpdW5NTW9OLURrTmN6SXFzeTlud29oWVFtX25DYWdQYnVfY3l2M1d5aE9JN0ZnU3l2U3BWTnNGOUpybHhrOV9mM25nUy1rcFdpckMzTm1zcndLT0JqcVRmOXpOUzZSbjJ5Wkt6NEFaeEVxMkJ2N2xqMUpSaXRVODBFR3ptZ3VROE81bFY4WkFtYThETXlHRkZFWkhyMm9EX21yVWJYS2VxM3JZNlhSUGpfZTFuS05QeC01RHFnSjhrbVFDLWdfeHFPSTE0S0M2S0xfZEk1dDRrUW55NlpXVDJ0cXByeE9JZmtDSDhLYUJHblJ1dFd6S0dEbmNKZkJGZlpMcWpfbWVYUzV6aFA5R1NkclB4b015bTVJQV83Uy1LYmlPS1V2SktLazRBMGVjc01OaDhIV0tweEN6Mkt3V1hZT083Y0pyNWJ3c0FzTU93R2dILS1zS1pScTVFR1RuN3VIUzdkckQzbHRpWkNMa3BsaUE0?oc=5",
         "published": "29 Apr 2026, 11:41 AM",
         "iso_date": "2026-04-29T11:41:27+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
-        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
-        "published": "28 Apr 2026, 06:38 PM",
-        "iso_date": "2026-04-28T18:38:54+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -254,7 +244,148 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "King Charles III honours 9/11 victims during New York visit",
+        "link": "https://www.newsofbahrain.com/world/131680.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HlBG6mPWXk_2026-04-29_1777485554resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Israel military chief warns of expanded strikes during south Lebanon visit",
+        "link": "https://www.newsofbahrain.com/world/131679.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hEHzoVaXMm_2026-04-29_1777484710resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Australia, China move to ease fuel crunch",
+        "link": "https://www.newsofbahrain.com/world/131678.html",
+        "published": "29 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-29T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gsa957VRzc_2026-04-29_1777484540resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Hails Bahrain’s “Historic” UN Security Council Leadership",
+        "link": "https://www.newsofbahrain.com/world/131677.html",
+        "published": "29 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-29T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NhktSJYUPg_2026-04-29_1777484179resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Dramatic rescue saves toddler trapped in 18-metre well in northern Syria",
+        "link": "https://www.newsofbahrain.com/world/131676.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2u4GOaQorD_2026-04-29_1777484014resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "National campaign steps up efforts to curb mosquito spread",
+        "link": "https://www.newsofbahrain.com/bahrain/131671.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4qe5EtX67z_2026-04-29_1777482837thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Rain Possible in Bahrain Tonight as Clouds Move from Saudi Arabia",
+        "link": "https://www.newsofbahrain.com/bahrain/131667.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pcXaA9hzHb_2026-04-29_1777472021thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "AI and Robotics-Focused University Takes Shape in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/131656.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bWxZUaof7K_2026-04-29_1777468191thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Summer Heat: An Added Challenge for Animal Rescuers",
+        "link": "https://www.newsofbahrain.com/bahrain/131655.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aOve5HfnxC_2026-04-29_1777468017thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tightens company liability rules",
+        "link": "https://www.newsofbahrain.com/bahrain/131650.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tuExBd9iYa_2026-04-29_1777467213thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BAB Convenes its Annual General Assembly",
+        "link": "https://www.newsofbahrain.com/business/131653.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8P7U9AfmuD_2026-04-29_1777467580thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Subscription Opens in the 45th Issue of the Government Development Bond through Bahrain Bourse",
+        "link": "https://www.newsofbahrain.com/business/131651.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pgJWwbLRqt_2026-04-29_1777467420thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf advances renewable energy transition amid regional tensions",
+        "link": "https://www.newsofbahrain.com/business/131540.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ujHL5yESBa_2026-04-28_1777369626thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "China vows countermeasures if EU enacts ‘Made in Europe’ plan",
+        "link": "https://www.newsofbahrain.com/business/131523.html",
+        "published": "28 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-28T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JY7hKGuxsS_2026-04-28_1777365723thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -368,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-29 18:00:07 UTC"
+  "fetched_at": "2026-04-29 18:42:25 UTC"
 }
