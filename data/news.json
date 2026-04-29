@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -62,20 +62,40 @@
         "category": "Latest"
       },
       {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZmJnc05ETVlMSkxFcmFDRWdqZGE4Q05yRkZDanVJT2tUc0dDa192TFlvcGUtRlBTVWlQZnBVR3k5aDdfdHBxOUQ2czJIcnY3djdrdl9sZGRyTzRCRFpvdGNfZFZYVlJNdkhrZ0N1dWZuTVlqNWFOTWFOdE9hbHRKVUllQUVOa0ViQk1vVlhnN0c2U1MzNGZ3Vk1pRXhXYWRZbXoybVJwWjlId08yNEVjUFhJdGhYYld0Q0lldm5Namp3cTBuTE9kUG9Xa3dtM1VINmxFZWt6X3lnQ29JTlItV3F0akFVZGVKdWVUNzNRYjFKYmZTQjhwUFh6WmJBR3oxbGJFak1pNFVBVjVVQS1tZ1V0bU9rYUhCbENSYUgycEEzVUhlN2w0a3pGVEdNdk1McnJDMTQ1NUFBLU96R0F5WXA2SlFHWVg0RmROclp6TktveEd6bDdrZmg0UnJLellHUWdmSDNoZVpjRVBlNW1rWndPc3o5V2hoR3ZrdmxmM3h3WXZBUWVZb3V2TjhXZw?oc=5",
-        "published": "28 Apr 2026, 11:51 PM",
-        "iso_date": "2026-04-28T23:51:58+00:00",
+        "title": "Fired Kristi Noem brazenly clings to lavish military base mansion weeks after Trump ouster",
+        "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQZG1LSDNyQWwydzFMMlhROVdQejNCRG9Va2ZvV1V4bVgyMU5UWnQtTDdSVFlNZHlXXzF0NHhhUjBHLXp6VkJDRHp0dWdOd1BqRG8zRU9RUFJwX2pxRDVhdXJmN0NrcV9hQU1KMjVoOXpTZFhKdmJCbUN0ZU00XzViLUFNb3NNbjR0aW5pV29ueXRjTEtLeVVMZWVxb2hhS3g1dXdjbExQTjh3OE9GV2JxR01CV2dQeVNMSmw1c2FYVFo4eDRfb2FoelN1UW9HNjdWM0ZYbl9LeWN5cUxjMmlWTnRMeTJjUFltZC0tclM3MGt1cUNKdkNLVWFBQjc3b21ocGozTXc2bzJVYkdvZU1tcXZJS19HNlR4RVdZb2g3WWdXbTBqc0MtRUwtOXRrX0NrUXN4RlRIZ0QwdlpfcDljVmVWZEQ2RWhDcGRpVDIxNzVNdjIzQlhrcndIcnY2cDF2M2pQN2htaFoyWFIwa2swTFRPWDZneHBXNzNpaV9KMEhWUUFrdnI0Q1l3?oc=5",
+        "published": "28 Apr 2026, 01:13 PM",
+        "iso_date": "2026-04-28T13:13:40+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNLWt5UlhYSy12cW1TUC1DRzhLUFh0Z1NvNmpUX0x2dElld2pLMkZsbE5QWG5Jby1OTC1MN3JzdGxzUzJmVXVuUzdoRWRXdUd6el9NdkhDX0l6dWp1cWtZa1V5czdEYXFiblU5ZWxTVGd3RkdlTzhFbEFiLXI3RlVFb0V2TUdzd2MtdkdOdC1WV2JEWUlNeEhDZXpra29ITWFXOVF3VThnaWJGYUZXNTQ4VzFyaHdJSEVtR2NQOUxFSkpGc3NoM29aaUZmRm5qeGpLTkdxSFp6WlA1MWxPVlNuMi0yVU1xRUc5amFUX1dxanNVdlg3RHFUeENvRTRkNFRxcHQ3OHVadkg4aDEweDJ6eWdyXzRtT0xxMFJSaVB4NzVmdFVZcEhQX0sxc1htZ1FZcGdFWGZJSUNhQkdoTXNENHMySTBxa1pMd2E1dGxYS29yVTRrZ1lKdkx4U3NSWDR4LXI1U2JhZ1JZZmtGMk40dVpXMHY4Q0sxWHNjYVFadTQ1TzFGSDFLWmR4NDFMYkw3STUtVGVQWTZoYlVfTlFQNmlDVHAtSnlPaDdFN0JzbHY3WE4yRGY4eEEzZzJ6b0Fab2VTLXF3bXFqQmx2QWRWb2Y1Q2V5TGdQQWRMRXptQVJHWTFtOVRJSTBwSFB3UDZnTlR2TmxiR21RWlNhS2Fjd2RETWpLUQ?oc=5",
-        "published": "28 Apr 2026, 12:47 PM",
-        "iso_date": "2026-04-28T12:47:46+00:00",
+        "title": "George Clooney hits back at Trump's calls for Jimmy Kimmel to be axed",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzhJdGFlRmQ1cnpHQlN3clI2RUhCQWRpb3RxLWJmR0JmamZXUEM2U3UtQjJNQ3VhUUlWN2xXdUd0THk0ZDhjNy1PNUtXQ0s5Zlk2bUQ5eUJXZk5Jd284TnNzWjRYYzM3cnZvUWZJOFZQR1Uwa1lLX3pkVGVZNjVNREVJYmlseFBvc1ZGNkZNNmhLX2NVQXNhcm1EaW1sbFlITUVxSXNTLXpoMWJkX0E1VHQtaU5YSFdPZlE?oc=5",
+        "published": "28 Apr 2026, 01:03 PM",
+        "iso_date": "2026-04-28T13:03:25+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
+        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
+        "published": "28 Apr 2026, 06:38 PM",
+        "iso_date": "2026-04-28T18:38:54+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Air raid sirens activated across Kuwait, Bahrain and Israel amid reported missile threats",
+        "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPYUpiQWpOX05NMXpHVUR6dGhVdm9WZUZHSEd5YUk5OHdjLTFrUXJQNEN6eVJOTDl5cm9Pamg1dGdnMnltZWhZR3hIbi1sWFN2a0FPZWc3X0ZDancyWktvM1lYMnlxWU1nUF82V0JWUGRlVE52R0hkSm9GM2FtSDlJMG5JaU5KMVpTbnNJcGtnLU9kdFNsQldlTHpkRGpieXBHUi1mVlhkbEhpUUQ1amVtVlJuTTJpVVE0U3c0dThQaFRvVHE2VU13QmxnWGNCTUs4VlhvT3FsWWNwU2pMWVJ1Y2o0TnVUU1dvdVk3NTNVSlhKeTh2Mm1xbnpEcU5ZZG9pcE0wRUViRjdLS1RENGdNZFZFMGRjMk4zQ2tIY0x4XzNqSHhZd3cxVmZyd2dtaXY0VnRRX3hQaFpNOEE0VU55Q0FueGZaaWFBVmFqdVhFWVJWNnh4cGE5dzdDcGJwYmFKcVpGZlhlY3IxM3Y0MmtnLWRNNGFlRm95Q0w2bExoWG05V3F6LW80?oc=5",
+        "published": "28 Apr 2026, 02:29 PM",
+        "iso_date": "2026-04-28T14:29:23+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -246,10 +266,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Indonesia orangutan forest cleared for 'carbon-neutral' packaging firm",
-        "link": "https://www.newsofbahrain.com/world/131629.html",
+        "title": "RHF Strengthens Support for Sponsored Families Under “Rest Assured” Initiative",
+        "link": "https://www.newsofbahrain.com/bahrain/131632.html",
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xTgAqy1GXm_2026-04-29_1777463847resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain, Nepal discuss migrant worker protections",
+        "link": "https://www.newsofbahrain.com/bahrain/131631.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rjZ0vCoMd8_2026-04-29_1777463056resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shaikh Isa bin Salman highlights youth investment",
+        "link": "https://www.newsofbahrain.com/bahrain/131630.html",
+        "published": "29 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-29T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bKrDGnsh39_2026-04-29_1777462035resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Indonesia orangutan forest cleared for 'carbon-neutral' packaging firm",
+        "link": "https://www.newsofbahrain.com/world/131629.html",
+        "published": "29 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_HY1mEdjX8u_2026-04-29_1777459212resized_pic.jpg",
         "source": "newsofbahrain",
@@ -262,36 +312,6 @@
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_7L3OwWgbGK_2026-04-29_1777458271resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pentagon makes deal to expand use of Google AI: reports",
-        "link": "https://www.newsofbahrain.com/world/131627.html",
-        "published": "29 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_InMvuR93KX_2026-04-29_1777457571resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Europe climate report signals rising extremes",
-        "link": "https://www.newsofbahrain.com/world/131626.html",
-        "published": "29 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zYKXUmgvFQ_2026-04-29_1777457102resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sexual violence in Sudan triggers mental health crisis: UN",
-        "link": "https://www.newsofbahrain.com/world/131625.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9olRbsAfr8_2026-04-29_1777456750resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -316,32 +336,22 @@
         "category": "Latest"
       },
       {
-        "title": "BDF Chief of Staff Meets US Marine Forces Central Command Commander",
-        "link": "https://www.newsofbahrain.com/bahrain/131608.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
+        "title": "Pentagon makes deal to expand use of Google AI: reports",
+        "link": "https://www.newsofbahrain.com/world/131627.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Exc6IUyGbp_2026-04-28_1777405901thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_InMvuR93KX_2026-04-29_1777457571thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Bahrain Oil Minister Discusses Energy Cooperation with Thai Ambassador",
-        "link": "https://www.newsofbahrain.com/bahrain/131606.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
+        "title": "Europe climate report signals rising extremes",
+        "link": "https://www.newsofbahrain.com/world/131626.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5bU4tvLFGJ_2026-04-28_1777404675thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain calls for Gaza ceasefire implementation at UN debate",
-        "link": "https://www.newsofbahrain.com/bahrain/131605.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_w8jBDCYsHh_2026-04-28_1777404362thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_zYKXUmgvFQ_2026-04-29_1777457102thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-29 11:07:10 UTC"
+  "fetched_at": "2026-04-29 12:01:33 UTC"
 }
