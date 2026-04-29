@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,16 +22,6 @@
   "articles": {
     "bna": [
       {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTzRiSG1RV1Rjci1zVV9pRkJNczJCaEpBZFBLZ2h6NWd4UmctXzRLZFVxNHdGR25FWTh1RWxjQXoyd3NHeHVKTU1PNUlZcXVtWWR4QlJBRE05b2hJRm9XS1pBbXNnZjVSTVRYd1dpSUk1MHA0ZkVidlBwQTVXODdraFFhenJuUWZtaDM4Nmtvd1NZa3o0eGcyN3RYb2Q1b3NyU2p2b0VXUWtlLXRDQlJiOUl3RnJZaHVkLXloMzBIODhSQlNYN0pBaFgxR1JFV0V1YmprOVUtTGJYM2VpR3pCc0pGaVRBME96MjJ1MUFlc2Z5MUtaZjZKY2xfZ2w5akEzaDZROHpVRWlZNWlHS0JaS3NnUzFITTVNUDctYlFhUkxOTDNldUFFdmxVaFJURUJCR0VRb01sNEt3N1o1a2FOT1FfUG9fX1c2aEc2ZEhMUF9GTnhBM3pONmdtU1hPNzV1XzE3RzFlcFVSUGxSYUtmTjRQSUNqN2hhaTFEOFNJdjE4a1Y4dEw1d3JYblZjQUVkXy00YTBaR2R4X3dTd3dST01B?oc=5",
-        "published": "29 Apr 2026, 08:22 AM",
-        "iso_date": "2026-04-29T08:22:56+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "25 defendants in Bahrain sentenced to prison terms of up to 10 years for supporting Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWmNla0laRWdWekkxdV9xT014U0RMZmtweGNLODFyMTVlcEpjUGZLX0V3WTJodXJWU0t6akVNcTRvVVRaekFnczVxTl8tY2dXSFJLMno5N2NzTzNDYW0yYUJZczVvMlpMR1YzNklhXzB4b2JtMkpZd2VLdnJVVkJfZWJEMTFaTTRHOU1FbnlONktMRnh1X1lVOUtsS3ZPZkd5QUVDQ3FlUDBldlM2UHpHS1NLWDM4emJFMjN1ZVdFb3Zaakt0Y1lyczhscUMwbjhXaTJuSkNkNGJ4WlRZdTllNmF3SVJ3QQ?oc=5",
         "published": "28 Apr 2026, 03:44 PM",
@@ -42,40 +32,10 @@
         "category": "Latest"
       },
       {
-        "title": "Five sentenced to life in Bahrain for plotting 'terrorist' acts with Iran",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1RrWEdydVNQNHlxSElvamN5Ujk3aHhta2JmQ1h1anIwejRoeWh5c1hVYTVHM2lpLUNEWmM3dkprRmpIM01yYVBvNjBXeHQ1dWc0ZTJ3QWgzWkdwSjJnNnZLMncwY255WmtxbWJUQWxaZ25wS3JUU1pGX2xpV2FGUFpmczZKaHBwUXp5ZlRDVW1WWmg5Umg0TnFTay1LRllSZmx1NWdlRWdELUZlTTVPU1FMLTZ4dWFPcHdRag?oc=5",
-        "published": "28 Apr 2026, 02:11 PM",
-        "iso_date": "2026-04-28T14:11:50+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Keir Starmer and Donald Trump miles apart over Iran after their first telephone call for a fortnight",
-        "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNaG9OUFdFYjhvVmtwRWlsRTZubGJveThTcUtIVnlnOHZFSE5mRmwtZk9TdXItNk4wSThUNl9rVS04RlJzWlJTa0t0WHRuVVhTYVJqdDF6NWFWbEpyNDVuSGRqQS1PMGhVWXlTY1ZLNzBrNXMwV3dBQjBaUmZFcU1sZENHT2dXU0tEOGZiVWZCMGhoVEFtNGhWTVdTbExmQ1ZsU2Y1U0ZBZXAyb1NkV3RnOEswdXRVRWZwNkFkLTJFQi1jNTZWcXVHSHhOTmp3NVNBSkQ1VmhXU0gwVFA0OFphTnNvWlBEX2ZFMmFKblN4emZTaG9kSTR0RXhEZ2hJaFVHdWxvdkMxZkR2dlk3MWhuZE1GVUdqSmdkaVJSWU1IOW02WGFqWWtCam5ZTldwck53bHZtMURXQ01YTHZzeW55MTF0cnFidkdsS1UtWXZPQ1JzVElTUC1Nc0ZGMDV4X0hZV0VZeGszQlFEQmRCRnZmYjdHRHc1b3Zfd0Y2a2RBWG4wUWJqOWltM0NyRUdpNkkwY0VGcVFXMkU4Y2RhVlUxa3N3ZE1XdVNhZHRKYUdQdDVFU19vQjlrQlpXblNRbjJOWTE4cmN0WVZwY2VIMkRzNUp0czdfR00?oc=5",
-        "published": "28 Apr 2026, 02:27 PM",
-        "iso_date": "2026-04-28T14:27:31+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Fired Kristi Noem brazenly clings to lavish military base mansion weeks after Trump ouster",
-        "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQZG1LSDNyQWwydzFMMlhROVdQejNCRG9Va2ZvV1V4bVgyMU5UWnQtTDdSVFlNZHlXXzF0NHhhUjBHLXp6VkJDRHp0dWdOd1BqRG8zRU9RUFJwX2pxRDVhdXJmN0NrcV9hQU1KMjVoOXpTZFhKdmJCbUN0ZU00XzViLUFNb3NNbjR0aW5pV29ueXRjTEtLeVVMZWVxb2hhS3g1dXdjbExQTjh3OE9GV2JxR01CV2dQeVNMSmw1c2FYVFo4eDRfb2FoelN1UW9HNjdWM0ZYbl9LeWN5cUxjMmlWTnRMeTJjUFltZC0tclM3MGt1cUNKdkNLVWFBQjc3b21ocGozTXc2bzJVYkdvZU1tcXZJS19HNlR4RVdZb2g3WWdXbTBqc0MtRUwtOXRrX0NrUXN4RlRIZ0QwdlpfcDljVmVWZEQ2RWhDcGRpVDIxNzVNdjIzQlhrcndIcnY2cDF2M2pQN2htaFoyWFIwa2swTFRPWDZneHBXNzNpaV9KMEhWUUFrdnI0Q1l3?oc=5",
-        "published": "28 Apr 2026, 01:13 PM",
-        "iso_date": "2026-04-28T13:13:40+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "George Clooney hits back at Trump's calls for Jimmy Kimmel to be axed",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzhJdGFlRmQ1cnpHQlN3clI2RUhCQWRpb3RxLWJmR0JmamZXUEM2U3UtQjJNQ3VhUUlWN2xXdUd0THk0ZDhjNy1PNUtXQ0s5Zlk2bUQ5eUJXZk5Jd284TnNzWjRYYzM3cnZvUWZJOFZQR1Uwa1lLX3pkVGVZNjVNREVJYmlseFBvc1ZGNkZNNmhLX2NVQXNhcm1EaW1sbFlITUVxSXNTLXpoMWJkX0E1VHQtaU5YSFdPZlE?oc=5",
-        "published": "28 Apr 2026, 01:03 PM",
-        "iso_date": "2026-04-28T13:03:25+00:00",
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTzRiSG1RV1Rjci1zVV9pRkJNczJCaEpBZFBLZ2h6NWd4UmctXzRLZFVxNHdGR25FWTh1RWxjQXoyd3NHeHVKTU1PNUlZcXVtWWR4QlJBRE05b2hJRm9XS1pBbXNnZjVSTVRYd1dpSUk1MHA0ZkVidlBwQTVXODdraFFhenJuUWZtaDM4Nmtvd1NZa3o0eGcyN3RYb2Q1b3NyU2p2b0VXUWtlLXRDQlJiOUl3RnJZaHVkLXloMzBIODhSQlNYN0pBaFgxR1JFV0V1YmprOVUtTGJYM2VpR3pCc0pGaVRBME96MjJ1MUFlc2Z5MUtaZjZKY2xfZ2w5akEzaDZROHpVRWlZNWlHS0JaS3NnUzFITTVNUDctYlFhUkxOTDNldUFFdmxVaFJURUJCR0VRb01sNEt3N1o1a2FOT1FfUG9fX1c2aEc2ZEhMUF9GTnhBM3pONmdtU1hPNzV1XzE3RzFlcFVSUGxSYUtmTjRQSUNqN2hhaTFEOFNJdjE4a1Y4dEw1d3JYblZjQUVkXy00YTBaR2R4X3dTd3dST01B?oc=5",
+        "published": "29 Apr 2026, 08:22 AM",
+        "iso_date": "2026-04-29T08:22:56+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -106,6 +66,36 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVJJcmtzakR4MHR0SlZZMFQ5Z1M5eFJvU1Zpb0I4MU1Zb1VvU3hGV1RyQ3QwSUVLRlFNdVM5V0U3QU9iNFdoRy1kN3pOQVFYbDhlUGlzbndLMEd6RXNQcnN5MjFMejFCaHNsSU42SlZuXzhvLUdad2kxRzNzNTBMMUlIYmtfeHBjUkFjbDhwb3F2Vi1zU3F4R0JPWFJseVowZkthaEdR?oc=5",
         "published": "28 Apr 2026, 03:25 PM",
         "iso_date": "2026-04-28T15:25:00+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain strips dozens of citizenship over Iran support",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFVNQ1pSM2RMMXJESUlNWVlTcFBUcVMwZ09vLXJEa1h2Mk9vX2RFN2FJYm1EQUJ5NjF0UFdjSGc4REQ3ejFKRGlaV05vTkhORnNqVHViQTBoeVJBRmZyRlhPMWlMQnNWTVdKOXlzeGtvc3ZXZG1zNHZNQldiOUVpakdTRlk?oc=5",
+        "published": "29 Apr 2026, 12:43 PM",
+        "iso_date": "2026-04-29T12:43:24+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Keir Starmer and Donald Trump miles apart over Iran after their first telephone call for a fortnight",
+        "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNaG9OUFdFYjhvVmtwRWlsRTZubGJveThTcUtIVnlnOHZFSE5mRmwtZk9TdXItNk4wSThUNl9rVS04RlJzWlJTa0t0WHRuVVhTYVJqdDF6NWFWbEpyNDVuSGRqQS1PMGhVWXlTY1ZLNzBrNXMwV3dBQjBaUmZFcU1sZENHT2dXU0tEOGZiVWZCMGhoVEFtNGhWTVdTbExmQ1ZsU2Y1U0ZBZXAyb1NkV3RnOEswdXRVRWZwNkFkLTJFQi1jNTZWcXVHSHhOTmp3NVNBSkQ1VmhXU0gwVFA0OFphTnNvWlBEX2ZFMmFKblN4emZTaG9kSTR0RXhEZ2hJaFVHdWxvdkMxZkR2dlk3MWhuZE1GVUdqSmdkaVJSWU1IOW02WGFqWWtCam5ZTldwck53bHZtMURXQ01YTHZzeW55MTF0cnFidkdsS1UtWXZPQ1JzVElTUC1Nc0ZGMDV4X0hZV0VZeGszQlFEQmRCRnZmYjdHRHc1b3Zfd0Y2a2RBWG4wUWJqOWltM0NyRUdpNkkwY0VGcVFXMkU4Y2RhVlUxa3N3ZE1XdVNhZHRKYUdQdDVFU19vQjlrQlpXblNRbjJOWTE4cmN0WVZwY2VIMkRzNUp0czdfR00?oc=5",
+        "published": "28 Apr 2026, 02:27 PM",
+        "iso_date": "2026-04-28T14:27:31+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Keir Starmer and Donald Trump miles apart over Iran war after their first phone call for a fortnight",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWE1kZ2xOM2xDdWJLM2sxWm1vTWI1ZDJsbmVJbWtiNVdoUkZTMldUMWVvVE5jYnlwZW9mQml5Q0duaWc4a1NsZWtoZnR2US1VTzM2ekR2aldPTDFHLUtVeHF2ZFRiRFBFVUZRck5STjRIdDZkNExROXhvQkR1WkVjX1IzY2t1T3JBcDhLQnRnaHV3RDJ4X19XbXM3ZnowNnZWZjh4RlFVLWxGM2RPMHlXS1duQkg3UHY3aTkyT3kzUzVoNzI3bDAwTkstS1lGWUVGRk5NZFl6eDdFcGpTSW1KS001Zw?oc=5",
+        "published": "28 Apr 2026, 03:59 PM",
+        "iso_date": "2026-04-28T15:59:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -224,6 +214,16 @@
         "category": "Latest"
       },
       {
+        "title": "Panini sticker collectors face biggest World Cup challenge yet",
+        "link": "https://www.gdnonline.com/Details/1393131/Panini-sticker-collectors-face-biggest-World-Cup-challenge-yet",
+        "published": "29 Apr 2026",
+        "iso_date": "2026-04-29T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429152846panini_T.jpg?20260429",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Afghan women's team will be a symbol of resistance on international stage, says former captain",
         "link": "https://www.gdnonline.com/Details/1393086/Afghan-womens-team-will-be-a-symbol-of-resistance-on-international-stage,-says-former-captain",
         "published": "29 Apr 2026",
@@ -252,56 +252,86 @@
         "image": "https://www.gdnonline.com/gdnimages/20260429/20260429111634zidane1_T.jpg?20260429",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "PSG overcome Bayern scare",
-        "link": "https://www.gdnonline.com/Details/1393075/PSG-overcome-Bayern-scare",
-        "published": "29 Apr 2026",
-        "iso_date": "2026-04-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429_012718_0_T.jpg?20260429",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "BAB Convenes its Annual General Assembly",
-        "link": "https://www.newsofbahrain.com/business/131653.html",
+        "title": "Rain Possible in Bahrain Tonight as Clouds Move from Saudi Arabia",
+        "link": "https://www.newsofbahrain.com/bahrain/131667.html",
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8P7U9AfmuD_2026-04-29_1777467580resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pcXaA9hzHb_2026-04-29_1777472021resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Morocco rapper's jail term for 'insulting public body' upheld",
-        "link": "https://www.newsofbahrain.com/world/131652.html",
+        "title": "South Korean court hikes ex-president's sentence for obstructing justice",
+        "link": "https://www.newsofbahrain.com/world/131666.html",
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fBHjXMNWen_2026-04-29_1777467531resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nBt5iDm86J_2026-04-29_1777471728resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Subscription Opens in the 45th Issue of the Government Development Bond through Bahrain Bourse",
-        "link": "https://www.newsofbahrain.com/business/131651.html",
+        "title": "TotalEnergies says has reopened Saudi refinery closed after attacks",
+        "link": "https://www.newsofbahrain.com/world/131665.html",
         "published": "29 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-29T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pgJWwbLRqt_2026-04-29_1777467420resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9VxqEwXtW4_2026-04-29_1777471375resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EU finds Meta failing to stop under-13s accessing Facebook, Instagram",
+        "link": "https://www.newsofbahrain.com/world/131664.html",
+        "published": "29 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-29T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ZRbGKMekIQ_2026-04-29_1777471059resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Sharjah’s women-only beach park set to open",
+        "link": "https://www.newsofbahrain.com/world/131663.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cvVYDGU7Sq_2026-04-29_1777470470resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "AI and Robotics-Focused University Takes Shape in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/131656.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bWxZUaof7K_2026-04-29_1777468191thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Summer Heat: An Added Challenge for Animal Rescuers",
+        "link": "https://www.newsofbahrain.com/bahrain/131655.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aOve5HfnxC_2026-04-29_1777468017thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Tightens company liability rules",
         "link": "https://www.newsofbahrain.com/bahrain/131650.html",
-        "published": "29 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-29T09:00:43+00:00",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tuExBd9iYa_2026-04-29_1777467213resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tuExBd9iYa_2026-04-29_1777467213thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -311,67 +341,27 @@
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VbwSme5Qna_2026-04-29_1777466870resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VbwSme5Qna_2026-04-29_1777466870thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Awareness Drive",
-        "link": "https://www.newsofbahrain.com/bahrain/131647.html",
+        "title": "BAB Convenes its Annual General Assembly",
+        "link": "https://www.newsofbahrain.com/business/131653.html",
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VpgI2q7EXR_2026-04-29_1777465853thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8P7U9AfmuD_2026-04-29_1777467580thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Engineers Power Bahrain’s Development Vision",
-        "link": "https://www.newsofbahrain.com/bahrain/131645.html",
+        "title": "Subscription Opens in the 45th Issue of the Government Development Bond through Bahrain Bourse",
+        "link": "https://www.newsofbahrain.com/business/131651.html",
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xWNIOA1JMo_2026-04-29_1777465676thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Move to Bar Legal Challenges to Nationality Rulings",
-        "link": "https://www.newsofbahrain.com/bahrain/131644.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tJFWwubXDH_2026-04-29_1777465571thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hungary to open Communist-era archives",
-        "link": "https://www.newsofbahrain.com/world/131648.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BFyUPtWbz2_2026-04-29_1777466569thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Crude back above $110 on Strait stalemate as US stocks retreat",
-        "link": "https://www.newsofbahrain.com/world/131646.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GWKXFVa8N9_2026-04-29_1777465735thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ex-FBI chief Comey says 'innocent' and unafraid of new charges against him",
-        "link": "https://www.newsofbahrain.com/world/131643.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2b3Io87XLj_2026-04-29_1777465460thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pgJWwbLRqt_2026-04-29_1777467420thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-29 13:03:30 UTC"
+  "fetched_at": "2026-04-29 14:16:05 UTC"
 }
