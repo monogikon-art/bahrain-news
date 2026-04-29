@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPYVpZQ050SVpDVGdpTU9feURUbzhPLU1OUnczTkdNb0YwZk5STU9SMGNweWNxT3J2WDBlbzl0Z3RYdFY2bkJFOGt2MDJPQWRMZW1EVGpic3h6OFNpVFpOZTJBY2FuVjZWbTNtUENOZEd5aThpZ0xIcHRlTGhjY0huSE5ZVmhGU1hvZjNBZFJ2YTItSXhOclBUeVhaSGtGY0s5WVp2d0RoZXhyS18xTGlvNzhzV0dhM09BU0l0LWJScDk0X3paZ0FoSUNQUWxwR1B6dXViSGU2dEpOMEZBdjJYVDRBQUZTWncwNFhLZ0VtMlBfMjRtUjBjSWl0VzBvU251RlRGc1NhRFA2cHhDWEIzLTFhbkRSbm5rUVZwazB1WDI1RWhDb3pLdnhzV1hON1E0Ty1iZ0tCUnllVFppd1lNZ0p6cnVaN1lVRk5UYm53Y0FoRm02ZE84bmFwV1BBUGZDdDdiNTZUYlB3OThHeXcwNlpGbDhraDVGQXo2Q0hnazllYVRHRks3X1NMRElZblpiWTJrZ1NnTnlESUtDemZjUnpCNjJONVhVanEw?oc=5",
         "published": "29 Apr 2026, 01:20 PM",
         "iso_date": "2026-04-29T13:20:28+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran is using ceasefire to 'dig for missile launchers trapped underground'",
-        "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPNE9OVWpxdDY4aFBEU1BTajdHajZUOC1oaERHM01FeWxLSE0xYmZuUHQwOUZYdVdLN3ZTRnRuVGR1dl9Cbm1YR2d4d0l3b2RkeUxjWm5udTdwM2YyLUJUbTQ1REx6Q0FEcE9xVWFpd0VCSFpnUnBvdGR1VVZxRXktMGlkaFRWV1dBTzhHUzJjV0dRUkxYZHhrZ1hjbmUtZF80VTFMQTdyelpFT2kyWVAyVmkxcTZtbHduN2dBMUYzNTRTOVJsYkRqQTN5NUVadUtteGREQVNDSnVydVkxc0k1RXVHWVFoZGs5dTk0WHQ0b0VkeXlLOFRxcVE4U3dHWGhsWjM2TksweE9GNVozNUppNEZ4b3NQcmdIMDhFUkVwWnpTVXlkQ1NzYW5FNE0wSXdpZXRQcFVMYVY1RUMxejN1TUNXcVFGNm1FV2tXTHhiT0I1ZGFmRWRnSHJ3LUt6am1GTmppRGE1SmtpbWVzbkF3bEhLNVp1Z2ZGVllYNw?oc=5",
-        "published": "28 Apr 2026, 06:50 PM",
-        "iso_date": "2026-04-28T18:50:29+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -94,6 +84,16 @@
     ],
     "gdn": [
       {
+        "title": "King issues royal order extending Parliament-Shura terms by a year",
+        "link": "https://www.gdnonline.com/Details/1393150/King-issues-royal-order-extending-Parliament-Shura-terms-by-a-year",
+        "published": "29 Apr 2026",
+        "iso_date": "2026-04-29T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429204030websitesize(21)_T.jpg?20260429",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "His Majesty meets UAE leaders",
         "link": "https://www.gdnonline.com/Details/1393148/His-Majesty-meets-UAE-leaders",
         "published": "29 Apr 2026",
@@ -130,16 +130,6 @@
         "iso_date": "2026-04-29T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260429/20260429_015357_1_T.jpg?20260429",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Nod for 21-point plan to modernise Bahrainâs employment framework",
-        "link": "https://www.gdnonline.com/Details/1393054/Nod-for-21-point-plan-to-modernise-Bahrainâs-employment-framework-",
-        "published": "29 Apr 2026",
-        "iso_date": "2026-04-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429004250zcefgw_T.jpg?20260429",
         "source": "gdn",
         "category": "Latest"
       },
@@ -499,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-29 18:42:25 UTC"
+  "fetched_at": "2026-04-29 19:33:36 UTC"
 }
