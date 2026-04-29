@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 9
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,11 +16,21 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 16
     }
   },
   "articles": {
     "bna": [
+      {
+        "title": "Crackdown Continues: Bahrain Strips 69 of Citizenship",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS083c05ZR3hMZXhTVWJvbUVMZThybk80ekJSU3diY1h3cUVFai1qYWd6VGp5U3hZVF9WWlBDazRzdFRvR1lYb0hLWWVqR1hIb3ZHUnFVcWp5MFAtckQ2RWZsNloxYWdfRURpc05mRnY3M2czUG8tcl9qenQxMHNMNVFEQWwwUkh0UEdjMzI2US1vRkFmZkVRbFJsNA?oc=5",
+        "published": "28 Apr 2026, 10:13 AM",
+        "iso_date": "2026-04-28T10:13:56+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
       {
         "title": "25 defendants in Bahrain sentenced to prison terms of up to 10 years for supporting Iranian attacks",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWmNla0laRWdWekkxdV9xT014U0RMZmtweGNLODFyMTVlcEpjUGZLX0V3WTJodXJWU0t6akVNcTRvVVRaekFnczVxTl8tY2dXSFJLMno5N2NzTzNDYW0yYUJZczVvMlpMR1YzNklhXzB4b2JtMkpZd2VLdnJVVkJfZWJEMTFaTTRHOU1FbnlONktMRnh1X1lVOUtsS3ZPZkd5QUVDQ3FlUDBldlM2UHpHS1NLWDM4emJFMjN1ZVdFb3Zaakt0Y1lyczhscUMwbjhXaTJuSkNkNGJ4WlRZdTllNmF3SVJ3QQ?oc=5",
@@ -66,26 +76,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOYlBpUTBzbXY1eGxTLVI5QnA4RmJsNnM3OTZ6NW9yQlJlQWhpNUxiZ2pRcW9vcndxN2M0bWd6M01WMEV5dC04UlZrM2FtM1lZZzF2LUxBeGhUQUJDcTdDWnpzaTQ2OEFlU0kzT0FXM3NxMlZqVVU1bjVlRWlsbWtvRF9LUGZfalljY2lwUGNzbFJiZF9HeUJ5dG44clRLbFZmM2xfNkRyZ1IyaW1Mbm5IY3hyZk1ndnZyYXBOeDhyWnRnNnM0NDBnMkNVUGZPTFFUZGVTYUpGM2J4ME9SXzdkbVg3QkxQMVpfMEJjVjJwYnhKY0txX3lyLXlaNkJMX181R1pFLXJmX1ZDRkdabEI4MDg2NURIWDloX1pfQklTcFZmZXNrRy0zRXc5MFdLbC1tSUg1V0xSckdBYzJBQWF2QVdKNzR1bUNmNGFCUER2ME9ub3BpajJXRGU2eWNVQkJvY3B6dnRmbnZZZmpLNW1kQ0xmU2pVZS1LcnVqNFhoQzdyZlo2MGdSZlFuSUR2UQ?oc=5",
         "published": "28 Apr 2026, 11:17 AM",
         "iso_date": "2026-04-28T11:17:51+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
-        "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNLWt5UlhYSy12cW1TUC1DRzhLUFh0Z1NvNmpUX0x2dElld2pLMkZsbE5QWG5Jby1OTC1MN3JzdGxzUzJmVXVuUzdoRWRXdUd6el9NdkhDX0l6dWp1cWtZa1V5czdEYXFiblU5ZWxTVGd3RkdlTzhFbEFiLXI3RlVFb0V2TUdzd2MtdkdOdC1WV2JEWUlNeEhDZXpra29ITWFXOVF3VThnaWJGYUZXNTQ4VzFyaHdJSEVtR2NQOUxFSkpGc3NoM29aaUZmRm5qeGpLTkdxSFp6WlA1MWxPVlNuMi0yVU1xRUc5amFUX1dxanNVdlg3RHFUeENvRTRkNFRxcHQ3OHVadkg4aDEweDJ6eWdyXzRtT0xxMFJSaVB4NzVmdFVZcEhQX0sxc1htZ1FZcGdFWGZJSUNhQkdoTXNENHMySTBxa1pMd2E1dGxYS29yVTRrZ1lKdkx4U3NSWDR4LXI1U2JhZ1JZZmtGMk40dVpXMHY4Q0sxWHNjYVFadTQ1TzFGSDFLWmR4NDFMYkw3STUtVGVQWTZoYlVfTlFQNmlDVHAtSnlPaDdFN0JzbHY3WE4yRGY4eEEzZzJ6b0Fab2VTLXF3bXFqQmx2QWRWb2Y1Q2V5TGdQQWRMRXptQVJHWTFtOVRJSTBwSFB3UDZnTlR2TmxiR21RWlNhS2Fjd2RETWpLUQ?oc=5",
-        "published": "28 Apr 2026, 12:47 PM",
-        "iso_date": "2026-04-28T12:47:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain strips citizenship from dozens over ties to Iran",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWk1udURLSUF0YjBibHg3TXFHamJmLW5ITmh2N3daclFWY2pBQURBRVhRU19lZ3pXRmYxZE1acmJfLUN1OHF5Z04xamRuR2d4dnV3eHVINk0xN2RxMERPWndxX3djRUJoNUU0b3JvTDVXVWFaVHpYNHg4LUZBSXZYaV9BbEdGX0dtNVU4cXpB0gGTAUFVX3lxTE4xNjdxSWhtTVNYeFlMZHNBeGFUcVNKSUlIazc1U0ZEbjVXQWRFTm1jbjNqSGVOM0pCSGJyRjZNdjFMRktsc21pa2R4VHltWHpJdHUtcDlNUl9Wd2dENHFQMDY3eEtINnd5SnZycGhMQ2UxcjZGSFZwdUYxOXFMTWJfV2p1aExFVG9lTEptQ3FrejFjSQ?oc=5",
-        "published": "28 Apr 2026, 07:34 AM",
-        "iso_date": "2026-04-28T07:34:29+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -266,52 +256,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Panama Canal reaffirms 'neutrality' amid Mideast war",
-        "link": "https://www.newsofbahrain.com/world/131614.html",
+        "title": "Pentagon chief to testify on Iran war, peace efforts stall",
+        "link": "https://www.newsofbahrain.com/world/131619.html",
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HhQdlMo5pm_2026-04-29_1777446807resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4Xn2axTM51_2026-04-29_1777448613resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Australian climber on record sea-to-summit Everest bid",
-        "link": "https://www.newsofbahrain.com/world/131613.html",
+        "title": "India and Bahrain have identical positions on the Strait of Hormuz",
+        "link": "https://www.newsofbahrain.com/bahrain/131618.html",
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_685gAC9PoI_2026-04-29_1777446401resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3gMlDYNs4I_2026-04-29_1777448536resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Remembering Lives Lost and the Need for Preparedness",
-        "link": "https://www.newsofbahrain.com/world/131612.html",
+        "title": "Fire destroys dozens of homes in Malaysia's Sabah state",
+        "link": "https://www.newsofbahrain.com/world/131617.html",
         "published": "29 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-29T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z5MRkO6dpQ_2026-04-29_1777443596resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gsTXPoJjh7_2026-04-29_1777448069resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "‘America250’ Passports with President Donald Trump Image Set for Release",
-        "link": "https://www.newsofbahrain.com/world/131611.html",
-        "published": "28 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-28T09:00:43+00:00",
+        "title": "Spanish PM's ex-top aide takes stand at graft trial",
+        "link": "https://www.newsofbahrain.com/world/131616.html",
+        "published": "29 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-29T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dTZVKqHMFX_2026-04-28_1777408089resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pDEUysiO9q_2026-04-29_1777447568resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Beyoncé to Return to Met Gala After Decade, Named Co-Chair for 2026",
-        "link": "https://www.newsofbahrain.com/trends/131610.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
+        "title": "'Jurassic Park' star Sam Neill says cancer-free after gene therapy",
+        "link": "https://www.newsofbahrain.com/world/131615.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ONUVlJiqr5_2026-04-28_1777406466resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0yxHevUBcL_2026-04-29_1777447201resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,16 +342,6 @@
         "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_5fFAMXVhYp_2026-04-28_1777403606thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC summit: HM King Hamad heads Bahrain delegation in Jeddah",
-        "link": "https://www.newsofbahrain.com/bahrain/131601.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bdSAKkutz7_2026-04-28_1777387833thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -549,5 +529,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-29 07:17:52 UTC"
+  "fetched_at": "2026-04-29 08:16:56 UTC"
 }
