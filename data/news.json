@@ -159,7 +159,7 @@
         "published": "29 Apr 2026",
         "iso_date": "2026-04-29T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260429/20260428_223029_0_T.jpg?20260429",
+        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429024821images.png?20260429",
         "source": "gdn",
         "category": "Latest"
       },
@@ -189,7 +189,7 @@
         "published": "29 Apr 2026",
         "iso_date": "2026-04-29T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260429/20260428_223019_1_T.jpg?20260429",
+        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429024923nbb_T.jpg?20260429",
         "source": "gdn",
         "category": "Latest"
       },
@@ -539,5 +539,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-29 00:38:10 UTC"
+  "fetched_at": "2026-04-29 01:37:28 UTC"
 }
