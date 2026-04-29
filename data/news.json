@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 9
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -52,6 +52,16 @@
         "category": "Latest"
       },
       {
+        "title": "Aluminium Bahrain confirms attack targets on facility, two employees injured; IRGC claims responsibility",
+        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdjdYUEowVGRtd1A2d2ZyeTBReTJyOTNBdkhSbkVRVXVfc2lZZl9Hc3NKYnN1V3BCaWl0RXNIMVFpVE5wc1ZlZ2hLUFpCb2hPWldZb2xkTkFGYUVWb2dqNFVzbUo5R0JqWmo2S2Q0TGRFUGR6eVNBVXNzZ2ZyVk9Qaml1cEk2S0Q1QWs2MWI4N0V3ZGROUVV1RnhtY1QwQjVtYnBCT1E0bzJMSFlxbjNZeTlnZlRxVWZBUEFvUnpvVXh5bW1UYUxjcHlXeVFuT2N0WkZBNC0zZ0llOVozZFF4UG5Nam9aQWh0UmdwWVZqZUFHM25SSHo3eXhLUld6VzNhWE9CSG4xWi1wUm5mQTR2M1dRYnVNRDBLRmE5eHIzdVdWeEprdnZRZUpLMHlGNEZTLW1QcXdWNkxSZHFaTWFJQ0xxZWtydVo2Mm0yS3hNSXhuRWlRYkpKM2llSWk0ZXNWR1RRV3k0WUhzSzBON2dwQzROTUNJeHBrdDZqWkFzNWFNME5NRkp4WmN4UktYUlg3WHZjMnhSMnNGdw?oc=5",
+        "published": "28 Apr 2026, 06:38 PM",
+        "iso_date": "2026-04-28T18:38:54+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
         "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOYlBpUTBzbXY1eGxTLVI5QnA4RmJsNnM3OTZ6NW9yQlJlQWhpNUxiZ2pRcW9vcndxN2M0bWd6M01WMEV5dC04UlZrM2FtM1lZZzF2LUxBeGhUQUJDcTdDWnpzaTQ2OEFlU0kzT0FXM3NxMlZqVVU1bjVlRWlsbWtvRF9LUGZfalljY2lwUGNzbFJiZF9HeUJ5dG44clRLbFZmM2xfNkRyZ1IyaW1Mbm5IY3hyZk1ndnZyYXBOeDhyWnRnNnM0NDBnMkNVUGZPTFFUZGVTYUpGM2J4ME9SXzdkbVg3QkxQMVpfMEJjVjJwYnhKY0txX3lyLXlaNkJMX181R1pFLXJmX1ZDRkdabEI4MDg2NURIWDloX1pfQklTcFZmZXNrRy0zRXc5MFdLbC1tSUg1V0xSckdBYzJBQWF2QVdKNzR1bUNmNGFCUER2ME9ub3BpajJXRGU2eWNVQkJvY3B6dnRmbnZZZmpLNW1kQ0xmU2pVZS1LcnVqNFhoQzdyZlo2MGdSZlFuSUR2UQ?oc=5",
         "published": "28 Apr 2026, 11:17 AM",
@@ -62,10 +72,10 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Strips 69 of Citizenship Over Iran Sympathy After Gulf War",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb21KcnlPS1QyZnBhZWxIbi1RRE5SNmZINF85TDFNcEhhWHFKTjNFaWNQSWttZXpDaXF6eVFCcFBLdlRWRlhjR25oNmJLSW9WOE1KNDFrcWRDaTdBQnBvYUppOFdTcGcyWjlJUUNZcGgyRzZVNk04bDV4V0RzcWRmdm44VXVnaFhqdmZ2aFpTX0pwaG5FdlFLbU13c0M?oc=5",
-        "published": "28 Apr 2026, 06:28 AM",
-        "iso_date": "2026-04-28T06:28:28+00:00",
+        "title": "Iran Israel war live updates: Gulf to get embroiled in long-running full scale war? Iran, Israel, Bahrain, Kuwait and Qatar hit by missiles",
+        "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNLWt5UlhYSy12cW1TUC1DRzhLUFh0Z1NvNmpUX0x2dElld2pLMkZsbE5QWG5Jby1OTC1MN3JzdGxzUzJmVXVuUzdoRWRXdUd6el9NdkhDX0l6dWp1cWtZa1V5czdEYXFiblU5ZWxTVGd3RkdlTzhFbEFiLXI3RlVFb0V2TUdzd2MtdkdOdC1WV2JEWUlNeEhDZXpra29ITWFXOVF3VThnaWJGYUZXNTQ4VzFyaHdJSEVtR2NQOUxFSkpGc3NoM29aaUZmRm5qeGpLTkdxSFp6WlA1MWxPVlNuMi0yVU1xRUc5amFUX1dxanNVdlg3RHFUeENvRTRkNFRxcHQ3OHVadkg4aDEweDJ6eWdyXzRtT0xxMFJSaVB4NzVmdFVZcEhQX0sxc1htZ1FZcGdFWGZJSUNhQkdoTXNENHMySTBxa1pMd2E1dGxYS29yVTRrZ1lKdkx4U3NSWDR4LXI1U2JhZ1JZZmtGMk40dVpXMHY4Q0sxWHNjYVFadTQ1TzFGSDFLWmR4NDFMYkw3STUtVGVQWTZoYlVfTlFQNmlDVHAtSnlPaDdFN0JzbHY3WE4yRGY4eEEzZzJ6b0Fab2VTLXF3bXFqQmx2QWRWb2Y1Q2V5TGdQQWRMRXptQVJHWTFtOVRJSTBwSFB3UDZnTlR2TmxiR21RWlNhS2Fjd2RETWpLUQ?oc=5",
+        "published": "28 Apr 2026, 12:47 PM",
+        "iso_date": "2026-04-28T12:47:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -256,10 +266,40 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Panama Canal reaffirms 'neutrality' amid Mideast war",
+        "link": "https://www.newsofbahrain.com/world/131614.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HhQdlMo5pm_2026-04-29_1777446807resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Australian climber on record sea-to-summit Everest bid",
+        "link": "https://www.newsofbahrain.com/world/131613.html",
+        "published": "29 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-29T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_685gAC9PoI_2026-04-29_1777446401resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Remembering Lives Lost and the Need for Preparedness",
+        "link": "https://www.newsofbahrain.com/world/131612.html",
+        "published": "29 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-29T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z5MRkO6dpQ_2026-04-29_1777443596resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "‘America250’ Passports with President Donald Trump Image Set for Release",
         "link": "https://www.newsofbahrain.com/world/131611.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
+        "published": "28 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-28T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_dTZVKqHMFX_2026-04-28_1777408089resized_pic.jpg",
         "source": "newsofbahrain",
@@ -276,32 +316,12 @@
         "category": "Latest"
       },
       {
-        "title": "Europe Faces Jet Fuel Shortage as Middle East Supplies Disrupted",
-        "link": "https://www.newsofbahrain.com/world/131609.html",
-        "published": "28 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2ObsJizWAG_2026-04-28_1777406237resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "BDF Chief of Staff Meets US Marine Forces Central Command Commander",
         "link": "https://www.newsofbahrain.com/bahrain/131608.html",
-        "published": "28 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-28T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Exc6IUyGbp_2026-04-28_1777405901resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE Announces Exit from OPEC and OPEC+ Alliances",
-        "link": "https://www.newsofbahrain.com/world/131607.html",
         "published": "28 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kiyFU3olZx_2026-04-28_1777404748resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Exc6IUyGbp_2026-04-28_1777405901thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -342,16 +362,6 @@
         "iso_date": "2026-04-28T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_bdSAKkutz7_2026-04-28_1777387833thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC Advances Joint Pipeline and Water Network Initiatives",
-        "link": "https://www.newsofbahrain.com/world/131604.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_e1pRQGF9ld_2026-04-28_1777403906thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -539,5 +549,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-29 06:00:58 UTC"
+  "fetched_at": "2026-04-29 07:17:52 UTC"
 }
