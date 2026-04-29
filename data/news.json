@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -66,6 +66,16 @@
         "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNdGhmXzZxbXlLSEROeGM2bzUwNXJpdW5NTW9OLURrTmN6SXFzeTlud29oWVFtX25DYWdQYnVfY3l2M1d5aE9JN0ZnU3l2U3BWTnNGOUpybHhrOV9mM25nUy1rcFdpckMzTm1zcndLT0JqcVRmOXpOUzZSbjJ5Wkt6NEFaeEVxMkJ2N2xqMUpSaXRVODBFR3ptZ3VROE81bFY4WkFtYThETXlHRkZFWkhyMm9EX21yVWJYS2VxM3JZNlhSUGpfZTFuS05QeC01RHFnSjhrbVFDLWdfeHFPSTE0S0M2S0xfZEk1dDRrUW55NlpXVDJ0cXByeE9JZmtDSDhLYUJHblJ1dFd6S0dEbmNKZkJGZlpMcWpfbWVYUzV6aFA5R1NkclB4b015bTVJQV83Uy1LYmlPS1V2SktLazRBMGVjc01OaDhIV0tweEN6Mkt3V1hZT083Y0pyNWJ3c0FzTU93R2dILS1zS1pScTVFR1RuN3VIUzdkckQzbHRpWkNMa3BsaUE0?oc=5",
         "published": "29 Apr 2026, 11:41 AM",
         "iso_date": "2026-04-29T11:41:27+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahraini FM Discusses Regional Security, Peace Efforts at UN Meetings",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmMwSmtFNE5ZbXUtdUlOOVljV2NrRGZKVXBORDdidFlicFB1bG82TjVpWTZlX2VCWVVWSUV6dk9pWERSRVl1ZFk2VHpvZlE1VU8xSWFaQkRlaHZNY084VDQ3NkMzOUNidlNwR0g4bk5ZZmpYeEY3U3hEckV5ek13ZFpwMGtBUGFkNDFqT1BR?oc=5",
+        "published": "29 Apr 2026, 05:52 PM",
+        "iso_date": "2026-04-29T17:52:24+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-29 20:26:50 UTC"
+  "fetched_at": "2026-04-29 20:50:41 UTC"
 }
