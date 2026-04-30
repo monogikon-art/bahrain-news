@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -33,9 +33,9 @@
       },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPTVBjNV9lMUNudzJMdk4ybTFoN09VTkxoVmM2YU1XSXY0MF9PQnd2SFNrMW9yVDN1UkNWajZDY3JVMFBKLWJvZ2loMmwxeFVhbDZVZFFvLUw3MlRyaDZaVW81bEdrOTh2aThVOVVpTGdzR0wxTklzUkJEbFc1MmVnXy1kLS1SVFJlLXBVclFOR29OcDZMVlRKMFhBM2w0cmFzWmVzNFc0VkR0QjRaQVRUQlBkeVZNYmY1WVl1T2NsVXJwcHJkbUVTUDNZdWRnU3dxdFZ4UE9HV3A0ZE1GU2VJb1l2Zm5HcGlyRDNoZVIyMkZDbElMSklqemstR3FEenMtdGo3bGNiQldZdkdYVXpqT1Jwa1FnVF9iSno0SC1MLXZ6QkN2QXdsc3h3STkxTTVqTnVsX3BhM3E1VXlLYWJvbWlDMlpsYnB0RE4wem1aVzBPbjBibUgtSHhxU0pmb01nRDZ5Q2Fmcm1WMVVCR014RnBEcUxuRXdLdzFhR1FXOUt3enZwc1JMUlNuTEtDdklCR3VlcGVtQmlRdFE?oc=5",
-        "published": "29 Apr 2026, 09:42 PM",
-        "iso_date": "2026-04-29T21:42:33+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeko2OE1VNjU2SGVEdnpBeVVYVVc3SC1qTUlJVk95TWZUanM4M1ZJTlJIYzNLVkxrNlVwcFlBdGFCcUg0Wm9OSzRqWlI2bjgyTHlQYngya0dmN1BqZHhSN0ZVREVadlhCS21TMWRsZWk1c2dHVWlqaEl2dGQwLWpPclZNb1V0MnVfc0d0YnpGd0dISXhIR1FrVWtEZkZ4SlNDemVpaFpncTU0UUUzYXI5c3FmRjl2djdkQTNrLTJ5SkNYdThRaFNEWmM4VkFOT1BRa3Axd2YwVTdnU3FTNHN4VzdFcjBoSS1pejZlekZKaGkzOElmUnZXWlVzczJrUXVtcHNsWU9yWmcxdks4Z1hvVVN2UnFyYWk0V1NTc2szMUdtbzIyS2VGZjJtTFJFckxjVGlrYjlmWWgwQ3RzUkdhRjJZZWNIVnJJUnFBVV8zNGR5Wll6TE90NEltNEsxNWpxSVAyYVVxcWMwUDVDNmNjMldtRGJvbWV0NDhyM0JlX3J1OUtlbXltOXp2OWowQQ?oc=5",
+        "published": "30 Apr 2026, 09:43 AM",
+        "iso_date": "2026-04-30T09:43:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,10 +226,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Saudi to end LIV Golf funding this year: reports",
-        "link": "https://www.newsofbahrain.com/world/131788.html",
+        "title": "Qatar condemns Israel over ‘freedom flotilla’ incident",
+        "link": "https://www.newsofbahrain.com/world/131791.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uTeioqNcdj_2026-04-30_1777567598resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oman, Vatican discuss interfaith dialogue and peace efforts",
+        "link": "https://www.newsofbahrain.com/world/131790.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lKhYwcOoEI_2026-04-30_1777567531resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Police arrest suspect within 24 hours after attempted exchange heist in Manama",
+        "link": "https://www.newsofbahrain.com/bahrain/131789.html",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HX6umvgDZz_2026-04-30_1777567445resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi to end LIV Golf funding this year: reports",
+        "link": "https://www.newsofbahrain.com/world/131788.html",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_yOKand8b3T_2026-04-30_1777561870resized_pic.jpg",
         "source": "newsofbahrain",
@@ -246,22 +276,12 @@
         "category": "Latest"
       },
       {
-        "title": "Afghan man convicted for role in 2021 Kabul airport attack",
-        "link": "https://www.newsofbahrain.com/world/131786.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aQJviAHmWh_2026-04-30_1777561451resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
         "title": "DHL Air to establish regional headquarters in Bahrain",
         "link": "https://www.newsofbahrain.com/bahrain/131784.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mTkhOgWp9H_2026-04-30_1777561171resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mTkhOgWp9H_2026-04-30_1777561171thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +312,6 @@
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_GVeufwnJtj_2026-04-30_1777554406thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Rolls Out Wage Support for Private Sector Workers; Registration until May 5",
-        "link": "https://www.newsofbahrain.com/bahrain/131748.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_V7unWhs6t2_2026-04-30_1777552740thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 16:01:06 UTC"
+  "fetched_at": "2026-04-30 17:00:00 UTC"
 }
