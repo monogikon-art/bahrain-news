@@ -226,10 +226,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Qatar condemns Israel over ‘freedom flotilla’ incident",
-        "link": "https://www.newsofbahrain.com/world/131791.html",
+        "title": "Bahrain launches ‘Cross Safely’ campaign to strengthen road safety awareness",
+        "link": "https://www.newsofbahrain.com/bahrain/131794.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tU6yx9f3YJ_2026-04-30_1777570428resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Global air cargo demand drops in March",
+        "link": "https://www.newsofbahrain.com/world/131793.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GWEocLI3Tu_2026-04-30_1777569920resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Global air travel rises modestly as Middle East disruptions weigh on demand",
+        "link": "https://www.newsofbahrain.com/world/131792.html",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GFQa90Z5wb_2026-04-30_1777568434resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar condemns Israel over ‘freedom flotilla’ incident",
+        "link": "https://www.newsofbahrain.com/world/131791.html",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_uTeioqNcdj_2026-04-30_1777567598resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,30 +278,10 @@
       {
         "title": "Police arrest suspect within 24 hours after attempted exchange heist in Manama",
         "link": "https://www.newsofbahrain.com/bahrain/131789.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HX6umvgDZz_2026-04-30_1777567445resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Saudi to end LIV Golf funding this year: reports",
-        "link": "https://www.newsofbahrain.com/world/131788.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yOKand8b3T_2026-04-30_1777561870resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Guerrillas claim deadly Colombia attack, say it was an 'error'",
-        "link": "https://www.newsofbahrain.com/world/131787.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3MJuYPfOlm_2026-04-30_1777561677resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HX6umvgDZz_2026-04-30_1777567445thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -302,16 +312,6 @@
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_Za9NoMz2hc_2026-04-30_1777558870thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf strategic backbone",
-        "link": "https://www.newsofbahrain.com/bahrain/131757.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GVeufwnJtj_2026-04-30_1777554406thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 17:00:00 UTC"
+  "fetched_at": "2026-04-30 17:38:08 UTC"
 }
