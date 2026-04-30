@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTzRiSG1RV1Rjci1zVV9pRkJNczJCaEpBZFBLZ2h6NWd4UmctXzRLZFVxNHdGR25FWTh1RWxjQXoyd3NHeHVKTU1PNUlZcXVtWWR4QlJBRE05b2hJRm9XS1pBbXNnZjVSTVRYd1dpSUk1MHA0ZkVidlBwQTVXODdraFFhenJuUWZtaDM4Nmtvd1NZa3o0eGcyN3RYb2Q1b3NyU2p2b0VXUWtlLXRDQlJiOUl3RnJZaHVkLXloMzBIODhSQlNYN0pBaFgxR1JFV0V1YmprOVUtTGJYM2VpR3pCc0pGaVRBME96MjJ1MUFlc2Z5MUtaZjZKY2xfZ2w5akEzaDZROHpVRWlZNWlHS0JaS3NnUzFITTVNUDctYlFhUkxOTDNldUFFdmxVaFJURUJCR0VRb01sNEt3N1o1a2FOT1FfUG9fX1c2aEc2ZEhMUF9GTnhBM3pONmdtU1hPNzV1XzE3RzFlcFVSUGxSYUtmTjRQSUNqN2hhaTFEOFNJdjE4a1Y4dEw1d3JYblZjQUVkXy00YTBaR2R4X3dTd3dST01B?oc=5",
         "published": "30 Apr 2026, 12:07 PM",
         "iso_date": "2026-04-30T12:07:46+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeko2OE1VNjU2SGVEdnpBeVVYVVc3SC1qTUlJVk95TWZUanM4M1ZJTlJIYzNLVkxrNlVwcFlBdGFCcUg0Wm9OSzRqWlI2bjgyTHlQYngya0dmN1BqZHhSN0ZVREVadlhCS21TMWRsZWk1c2dHVWlqaEl2dGQwLWpPclZNb1V0MnVfc0d0YnpGd0dISXhIR1FrVWtEZkZ4SlNDemVpaFpncTU0UUUzYXI5c3FmRjl2djdkQTNrLTJ5SkNYdThRaFNEWmM4VkFOT1BRa3Axd2YwVTdnU3FTNHN4VzdFcjBoSS1pejZlekZKaGkzOElmUnZXWlVzczJrUXVtcHNsWU9yWmcxdks4Z1hvVVN2UnFyYWk0V1NTc2szMUdtbzIyS2VGZjJtTFJFckxjVGlrYjlmWWgwQ3RzUkdhRjJZZWNIVnJJUnFBVV8zNGR5Wll6TE90NEltNEsxNWpxSVAyYVVxcWMwUDVDNmNjMldtRGJvbWV0NDhyM0JlX3J1OUtlbXltOXp2OWowQQ?oc=5",
+        "published": "30 Apr 2026, 09:43 AM",
+        "iso_date": "2026-04-30T09:43:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -154,12 +164,12 @@
         "category": "Latest"
       },
       {
-        "title": "Chelsea's Mudryk appeals to CAS over four-year doping ban",
-        "link": "https://www.gdnonline.com/Details/1393222/Chelseas-Mudryk-appeals-to-CAS-over-four-year-doping-ban-",
-        "published": "30 Apr 2026",
-        "iso_date": "2026-04-30T00:00:00",
+        "title": "Fifa president starts race for re-election",
+        "link": "https://www.gdnonline.com/Details/1393301/Fifa-president-starts-race-for-re-election",
+        "published": "1 May 2026",
+        "iso_date": "2026-05-01T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430122832chelsea(1)_T.jpg?20260501",
+        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501_014126_0_T.jpg?20260501",
         "source": "gdn",
         "category": "Latest"
       },
@@ -174,16 +184,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran will be at World Cup and will play in the US, says FIFA boss",
-        "link": "https://www.gdnonline.com/Details/1393269/Iran-will-be-at-World-Cup-and-will-play-in-the-US,-says-FIFA-boss",
-        "published": "30 Apr 2026",
-        "iso_date": "2026-04-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430_213837_0_T.jpg?20260501",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Scott Parker leaves Burnley by mutual consent after relegation from Premier League",
         "link": "https://www.gdnonline.com/Details/1393254/Scott-Parker-leaves-Burnley-by-mutual-consent-after-relegation-from-Premier-League",
         "published": "30 Apr 2026",
@@ -194,12 +194,22 @@
         "category": "Latest"
       },
       {
-        "title": "Injured Salah expected to return for Liverpool before end of season",
-        "link": "https://www.gdnonline.com/Details/1393221/Injured-Salah-expected-to-return-for-Liverpool-before-end-of-season",
+        "title": "Chelsea's Mudryk appeals to CAS over four-year doping ban",
+        "link": "https://www.gdnonline.com/Details/1393222/Chelseas-Mudryk-appeals-to-CAS-over-four-year-doping-ban-",
         "published": "30 Apr 2026",
         "iso_date": "2026-04-30T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430105257salah(4)_T.jpg?20260501",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430122832chelsea(1)_T.jpg?20260501",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Iran will be at World Cup and will play in the US, says FIFA boss",
+        "link": "https://www.gdnonline.com/Details/1393269/Iran-will-be-at-World-Cup-and-will-play-in-the-US,-says-FIFA-boss",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430_213837_0_T.jpg?20260501",
         "source": "gdn",
         "category": "Latest"
       }
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 23:20:14 UTC"
+  "fetched_at": "2026-04-30 23:47:25 UTC"
 }
