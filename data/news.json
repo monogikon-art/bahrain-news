@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 12
+      "count": 14
     }
   },
   "articles": {
@@ -84,6 +84,16 @@
     ],
     "gdn": [
       {
+        "title": "Commander-in-Chief receives Finance Minister",
+        "link": "https://www.gdnonline.com/Details/1393255/Commander-in-Chief-receives-Finance-Minister",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430132909bdf1(6)_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Weather Alert: Warning issued for strong winds across Bahrain",
         "link": "https://www.gdnonline.com/Details/1393247/Weather-Alert-Warning-issued-for-strong-winds-across-Bahrain",
         "published": "30 Apr 2026",
@@ -120,16 +130,6 @@
         "iso_date": "2026-04-30T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260430/20260429_225617_2.png?20260430",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Texas bikerâs global journey of resilience",
-        "link": "https://www.gdnonline.com/Details/1393174/Texas-bikerâs-global-journey-of-resilience",
-        "published": "30 Apr 2026",
-        "iso_date": "2026-04-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260429_225543_0_T.jpg?20260430",
         "source": "gdn",
         "category": "Latest"
       },
@@ -184,6 +184,16 @@
         "category": "Latest"
       },
       {
+        "title": "Chelsea's Mudryk appeals to CAS over four-year doping ban",
+        "link": "https://www.gdnonline.com/Details/1393222/Chelseas-Mudryk-appeals-to-CAS-over-four-year-doping-ban-",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430122832chelsea(1)_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Injured Salah expected to return for Liverpool before end of season",
         "link": "https://www.gdnonline.com/Details/1393221/Injured-Salah-expected-to-return-for-Liverpool-before-end-of-season",
         "published": "30 Apr 2026",
@@ -222,56 +232,116 @@
         "image": "https://www.gdnonline.com/gdnimages/20260430/20260430_023727_0_T.jpg?20260430",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Al Nassr extend winning streak to 20 games",
-        "link": "https://www.gdnonline.com/Details/1393217/Al-Nassr-extend-winning-streak-to-20-games",
-        "published": "30 Apr 2026",
-        "iso_date": "2026-04-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430_023725_2_T.jpg?20260430",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "Why Your Workouts Aren’t Working",
-        "link": "https://www.newsofbahrain.com/bahrain/131704.html",
+        "title": "US Senate panel votes to advance Trump’s Fed chair nominee",
+        "link": "https://www.newsofbahrain.com/business/131715.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dh12EP6X9y_2026-04-30_1777543829resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JMAmyWtBFj_2026-04-30_1777546880resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Homemakers Train for Emergencies",
-        "link": "https://www.newsofbahrain.com/bahrain/131703.html",
+        "title": "Gulf Air participates in CAPA Airline Leader Summit 2026 in Berlin",
+        "link": "https://www.newsofbahrain.com/business/131714.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7FLZ1qUheI_2026-04-30_1777543627resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7iuIP3ROzm_2026-04-30_1777546798resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "National, Children’s Libraries Resume Services",
-        "link": "https://www.newsofbahrain.com/bahrain/131702.html",
+        "title": "Sharjah launches Dh1,000 instant industrial licence for entrepreneurs, investors",
+        "link": "https://www.newsofbahrain.com/world/131713.html",
         "published": "30 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aiy1R3cduL_2026-04-30_1777543563resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tfhkWrUNM5_2026-04-30_1777546766resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Scholarship schemes",
-        "link": "https://www.newsofbahrain.com/bahrain/131701.html",
+        "title": "RCSI Bahrain announces major campus enhancement ahead of academic year",
+        "link": "https://www.newsofbahrain.com/business/131712.html",
         "published": "30 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GhjLQumzZO_2026-04-30_1777543140resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hKNP8aind3_2026-04-30_1777546712resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Minister receives global award for advancing agricultural development",
+        "link": "https://www.newsofbahrain.com/bahrain/131711.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_175XacPw0o_2026-04-30_1777545907resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "New licensing system for senior care launched",
+        "link": "https://www.newsofbahrain.com/bahrain/131710.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5BIXvLfVaq_2026-04-30_1777545428thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "26,000 Firms Cancelled",
+        "link": "https://www.newsofbahrain.com/bahrain/131709.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G8TDRS695b_2026-04-30_1777545137thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "New SDG Data Framework",
+        "link": "https://www.newsofbahrain.com/bahrain/131708.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TE9UsfuL4c_2026-04-30_1777544923thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Chamber Drives Development Efforts",
+        "link": "https://www.newsofbahrain.com/bahrain/131707.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hMETxVKv0p_2026-04-30_1777544715thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Afghan women footballers celebrate 'historic moment'",
+        "link": "https://www.newsofbahrain.com/world/131706.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fmcEsJKBUL_2026-04-30_1777544684thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "First Autistic Barbie Hits Shelves in the UAE",
+        "link": "https://www.newsofbahrain.com/world/131705.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WdBDQ7b0SM_2026-04-30_1777544452thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -281,47 +351,7 @@
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O5E8ivIHl7_2026-04-30_1777543122resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "800 Years On",
-        "link": "https://www.newsofbahrain.com/bahrain/131698.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cYsjFAPRrZ_2026-04-30_1777542647thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "NYC Mayor Zohran Mamdani Tells King Charles: Return the Kohinoor",
-        "link": "https://www.newsofbahrain.com/world/131699.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0foDPwXnA9_2026-04-30_1777542780thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pakistan passport services suspended in UAE after technical glitch",
-        "link": "https://www.newsofbahrain.com/world/131697.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xYJePgCBFa_2026-04-30_1777542268thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Google Translate gets AI pronunciation coach in major update",
-        "link": "https://www.newsofbahrain.com/world/131694.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5FMAeHhXz3_2026-04-30_1777541798thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O5E8ivIHl7_2026-04-30_1777543122thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -332,16 +362,6 @@
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_8P7U9AfmuD_2026-04-29_1777467580thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Subscription Opens in the 45th Issue of the Government Development Bond through Bahrain Bourse",
-        "link": "https://www.newsofbahrain.com/business/131651.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pgJWwbLRqt_2026-04-29_1777467420thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 10:15:13 UTC"
+  "fetched_at": "2026-04-30 11:08:13 UTC"
 }
