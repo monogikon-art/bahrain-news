@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
-        "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTzRiSG1RV1Rjci1zVV9pRkJNczJCaEpBZFBLZ2h6NWd4UmctXzRLZFVxNHdGR25FWTh1RWxjQXoyd3NHeHVKTU1PNUlZcXVtWWR4QlJBRE05b2hJRm9XS1pBbXNnZjVSTVRYd1dpSUk1MHA0ZkVidlBwQTVXODdraFFhenJuUWZtaDM4Nmtvd1NZa3o0eGcyN3RYb2Q1b3NyU2p2b0VXUWtlLXRDQlJiOUl3RnJZaHVkLXloMzBIODhSQlNYN0pBaFgxR1JFV0V1YmprOVUtTGJYM2VpR3pCc0pGaVRBME96MjJ1MUFlc2Z5MUtaZjZKY2xfZ2w5akEzaDZROHpVRWlZNWlHS0JaS3NnUzFITTVNUDctYlFhUkxOTDNldUFFdmxVaFJURUJCR0VRb01sNEt3N1o1a2FOT1FfUG9fX1c2aEc2ZEhMUF9GTnhBM3pONmdtU1hPNzV1XzE3RzFlcFVSUGxSYUtmTjRQSUNqN2hhaTFEOFNJdjE4a1Y4dEw1d3JYblZjQUVkXy00YTBaR2R4X3dTd3dST01B?oc=5",
-        "published": "29 Apr 2026, 08:22 AM",
-        "iso_date": "2026-04-29T08:22:56+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
         "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPTVBjNV9lMUNudzJMdk4ybTFoN09VTkxoVmM2YU1XSXY0MF9PQnd2SFNrMW9yVDN1UkNWajZDY3JVMFBKLWJvZ2loMmwxeFVhbDZVZFFvLUw3MlRyaDZaVW81bEdrOTh2aThVOVVpTGdzR0wxTklzUkJEbFc1MmVnXy1kLS1SVFJlLXBVclFOR29OcDZMVlRKMFhBM2w0cmFzWmVzNFc0VkR0QjRaQVRUQlBkeVZNYmY1WVl1T2NsVXJwcHJkbUVTUDNZdWRnU3dxdFZ4UE9HV3A0ZE1GU2VJb1l2Zm5HcGlyRDNoZVIyMkZDbElMSklqemstR3FEenMtdGo3bGNiQldZdkdYVXpqT1Jwa1FnVF9iSno0SC1MLXZ6QkN2QXdsc3h3STkxTTVqTnVsX3BhM3E1VXlLYWJvbWlDMlpsYnB0RE4wem1aVzBPbjBibUgtSHhxU0pmb01nRDZ5Q2Fmcm1WMVVCR014RnBEcUxuRXdLdzFhR1FXOUt3enZwc1JMUlNuTEtDdklCR3VlcGVtQmlRdFE?oc=5",
@@ -204,6 +194,36 @@
         "category": "Latest"
       },
       {
+        "title": "Injured Salah expected to return for Liverpool before end of season",
+        "link": "https://www.gdnonline.com/Details/1393221/Injured-Salah-expected-to-return-for-Liverpool-before-end-of-season",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430105257salah(4)_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Zaragoza keeper Andrada handed 13-game ban after derby punch",
+        "link": "https://www.gdnonline.com/Details/1393223/Zaragoza-keeper-Andrada-handed-13-game-ban-after-derby-punch",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430111057andrade1_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Colunga to field 70-year-old keeper Gonzalez",
+        "link": "https://www.gdnonline.com/Details/1393224/Colunga-to-field-70-year-old-keeper-Gonzalez",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430100917gk_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Atletico hit back to hold Arsenal",
         "link": "https://www.gdnonline.com/Details/1393218/Atletico-hit-back-to-hold-Arsenal",
         "published": "30 Apr 2026",
@@ -222,86 +242,76 @@
         "image": "https://www.gdnonline.com/gdnimages/20260430/20260430_023725_2_T.jpg?20260430",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Muharraq score late to overcome Budaiya",
-        "link": "https://www.gdnonline.com/Details/1393206/Muharraq-score-late-to-overcome-Budaiya",
-        "published": "30 Apr 2026",
-        "iso_date": "2026-04-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430_013928_1_T.jpg?20260430",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bayern ready for goal bonanza sequel against PSG after nine-goal classic",
-        "link": "https://www.gdnonline.com/Details/1393097/Bayern-ready-for-goal-bonanza-sequel-against-PSG-after-nine-goal-classic",
-        "published": "29 Apr 2026",
-        "iso_date": "2026-04-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429115809psg(5)_T.jpg?20260430",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Panini sticker collectors face biggest World Cup challenge yet",
-        "link": "https://www.gdnonline.com/Details/1393131/Panini-sticker-collectors-face-biggest-World-Cup-challenge-yet",
-        "published": "29 Apr 2026",
-        "iso_date": "2026-04-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429152846panini_T.jpg?20260430",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
+      {
+        "title": "Trump says UAE’s OPEC exit may ease oil price pressure",
+        "link": "https://www.newsofbahrain.com/world/131692.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NIQd5stEl9_2026-04-30_1777540327resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A revised peace proposal by Iran could come by Friday: US media",
+        "link": "https://www.newsofbahrain.com/world/131691.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lHTp6YRSaJ_2026-04-30_1777540023resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Royal praise for Bahrain’s first desert ultra finisher",
+        "link": "https://www.newsofbahrain.com/bahrain/131690.html",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_riSReqT7Wh_2026-04-30_1777539822resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Roads Under Pressure",
+        "link": "https://www.newsofbahrain.com/bahrain/131689.html",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3fjMdPYQSR_2026-04-30_1777538386resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "HH Shaikh Nasser and US Marine Commander Discuss Strategic Ties",
+        "link": "https://www.newsofbahrain.com/bahrain/131688.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gi1wN6XRcA_2026-04-30_1777537693resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Life Terms Budaiya Killing",
+        "link": "https://www.newsofbahrain.com/bahrain/131687.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i0ar9UjGJV_2026-04-30_1777537578thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "Parliamentary, Shura mandate extended",
         "link": "https://www.newsofbahrain.com/bahrain/131686.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N5HhZjSUgO_2026-04-30_1777535953resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Historic Presidency",
-        "link": "https://www.newsofbahrain.com/bahrain/131685.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JM0wZfQ72h_2026-04-30_1777535672resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "‘Safe, Stable Oasis’",
-        "link": "https://www.newsofbahrain.com/bahrain/131684.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bMTIVX3sjC_2026-04-30_1777535448resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "National drive to curb mosquito spread",
-        "link": "https://www.newsofbahrain.com/bahrain/131683.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RxrV0Of3De_2026-04-30_1777535300resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Unbreakable Bond",
-        "link": "https://www.newsofbahrain.com/bahrain/131682.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tLX1jc6i2q_2026-04-30_1777535116resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N5HhZjSUgO_2026-04-30_1777535953thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -322,26 +332,6 @@
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hEHzoVaXMm_2026-04-29_1777484710thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Australia, China move to ease fuel crunch",
-        "link": "https://www.newsofbahrain.com/world/131678.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gsa957VRzc_2026-04-29_1777484540thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Hails Bahrain’s “Historic” UN Security Council Leadership",
-        "link": "https://www.newsofbahrain.com/world/131677.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NhktSJYUPg_2026-04-29_1777484179thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 08:17:37 UTC"
+  "fetched_at": "2026-04-30 09:16:12 UTC"
 }
