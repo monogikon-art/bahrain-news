@@ -256,6 +256,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "A Fruitful Idea!",
+        "link": "https://www.newsofbahrain.com/views/131681.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EjxX3JuIwU_2026-04-30_1777528532resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "King Charles III honours 9/11 victims during New York visit",
         "link": "https://www.newsofbahrain.com/world/131680.html",
         "published": "29 Apr 2026, 09:22 AM",
@@ -268,8 +278,8 @@
       {
         "title": "Israel military chief warns of expanded strikes during south Lebanon visit",
         "link": "https://www.newsofbahrain.com/world/131679.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
+        "published": "29 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-29T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hEHzoVaXMm_2026-04-29_1777484710resized_pic.jpg",
         "source": "newsofbahrain",
@@ -288,20 +298,10 @@
       {
         "title": "US Hails Bahrain’s “Historic” UN Security Council Leadership",
         "link": "https://www.newsofbahrain.com/world/131677.html",
-        "published": "29 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-29T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NhktSJYUPg_2026-04-29_1777484179resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Dramatic rescue saves toddler trapped in 18-metre well in northern Syria",
-        "link": "https://www.newsofbahrain.com/world/131676.html",
         "published": "29 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2u4GOaQorD_2026-04-29_1777484014resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NhktSJYUPg_2026-04-29_1777484179resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 04:41:18 UTC"
+  "fetched_at": "2026-04-30 06:02:04 UTC"
 }
