@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 8
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -66,16 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOdTN5dFpCWVBvaDhVVzJnUDJvX3VscC1BSHlSdlhUUGl3cDh0UE1IYmpvam1XdlE4cGgxX1FTQXliUjNIaGQ1bTd6bG1YY1YtMlcyTk8tVkZCOU1iOHNqSVpxUHRWMDl6bVBzbjN5RjN5SGtGNUhnNVNjVDBpWHFTMWs0UmZmTnl4dEVMYnVzOUZSZVV6N1pwR2ZmLXhWRVNkYzlLWG5NUUhSN1AxYXZyS281czlKVnhYbXd4bWxiLUxNd0FnTFNyUmp1NXVpQjdycTZjTXNnYWstdGJkc0F6bzc2eEFXV0xTV0ItcDVYN1lJb3R1TFE3dUEzMldnVGxiQkVNcFo1YnJfd0NEQ1VyY1hiTVhyTWRRUFFwbVcwWWltYXdmTHpocy03ZTVqcUJIVWhSRnpDQ2ZGZmFYSmFNYUhBa0ROdXRPWVpUSVM1TUxqd2s3ZDNoU1lneHZxTjZEbXNtZ1RKZlEtR1lwcmdQVlhaQ2hBZkVGS3Y2T3lTUDQ3ZjRKanc?oc=5",
         "published": "29 Apr 2026, 11:42 AM",
         "iso_date": "2026-04-29T11:42:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran escalates attacks amid ongoing Middle East conflict; Israel strikes Hezbollah positions in Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQOVpLbHRaSUt3WHMxTC0yYkU1bmp4MDZzRnFEUW1zY3psVzV6SFQxVkl6TTB6RWJ1aXF4R0w2eE1GcWRBX1I5dmpZcE5VTHVLMklPZ0I0ZW1kV1pyamVITHFrS2c2RzhKbm5VR0FWaXZUS3Uwd0tKTTNHZzNFRWpPby1YallqU3dJVkV2TzZOay1kNDc2TjhxNWhxb3hYLTFJWE50WE90N1U5M3dhenQ5VjhTUHBaOHVpNmJIUklNUFFyQXk4ZkVRcUJLcFIyNTUxTDBjMWllcGQ0b19kNVRtY1R4Zmx4eWxmUF8tU0R4ZjltN20zbmZ6cHJ2U3U2aG1FQUgzS1lyVzNDMldlTzJkbjRhWXE3VWVCcG9VNV9RQlZHbGhZSVZ1eTg1Yl8zc3gxTEtCOS15VU1TdklLTGlXdG52d1lhd0RTWnhaZlNrbEw3VUFrUHhtNG5yeHh3UUVxRUc2VDhoRFNaQllWTVdjMmVCR214QnNGbGprNEI5Z01vejY3Q080enhCdkllMlIyT3JPWlJ6cFRkQUZlc0pSZGs4aDNTM193QWZrVVBHVEVMSnczNUZZbVBOcDF1cXR2QjMycTUzZVVSSVlLSmVHSi15UlRlWnlCOFFV?oc=5",
-        "published": "29 Apr 2026, 09:58 AM",
-        "iso_date": "2026-04-29T09:58:55+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -204,6 +194,36 @@
         "category": "Latest"
       },
       {
+        "title": "Atletico hit back to hold Arsenal",
+        "link": "https://www.gdnonline.com/Details/1393218/Atletico-hit-back-to-hold-Arsenal",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430_023727_0_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Nassr extend winning streak to 20 games",
+        "link": "https://www.gdnonline.com/Details/1393217/Al-Nassr-extend-winning-streak-to-20-games",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430_023725_2_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Muharraq score late to overcome Budaiya",
+        "link": "https://www.gdnonline.com/Details/1393206/Muharraq-score-late-to-overcome-Budaiya",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430_013928_1_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Bayern ready for goal bonanza sequel against PSG after nine-goal classic",
         "link": "https://www.gdnonline.com/Details/1393097/Bayern-ready-for-goal-bonanza-sequel-against-PSG-after-nine-goal-classic",
         "published": "29 Apr 2026",
@@ -220,36 +240,6 @@
         "iso_date": "2026-04-29T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260429/20260429152846panini_T.jpg?20260430",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Afghan women's team will be a symbol of resistance on international stage, says former captain",
-        "link": "https://www.gdnonline.com/Details/1393086/Afghan-womens-team-will-be-a-symbol-of-resistance-on-international-stage,-says-former-captain",
-        "published": "29 Apr 2026",
-        "iso_date": "2026-04-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429114221afgh(1)_T.jpg?20260430",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "None more deserving of FIFA Peace Prize than Trump, says White House",
-        "link": "https://www.gdnonline.com/Details/1393088/None-more-deserving-of-FIFA-Peace-Prize-than-Trump,-says-White-House",
-        "published": "29 Apr 2026",
-        "iso_date": "2026-04-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429114421tr(7)_T.jpg?20260430",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Algeria's Luca Zidane suffers jaw and chin fractures",
-        "link": "https://www.gdnonline.com/Details/1393089/Algerias-Luca-Zidane-suffers-jaw-and-chin-fractures",
-        "published": "29 Apr 2026",
-        "iso_date": "2026-04-29T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260429/20260429111634zidane1_T.jpg?20260430",
         "source": "gdn",
         "category": "Latest"
       }
@@ -509,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 01:36:57 UTC"
+  "fetched_at": "2026-04-30 03:08:01 UTC"
 }
