@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNdGhmXzZxbXlLSEROeGM2bzUwNXJpdW5NTW9OLURrTmN6SXFzeTlud29oWVFtX25DYWdQYnVfY3l2M1d5aE9JN0ZnU3l2U3BWTnNGOUpybHhrOV9mM25nUy1rcFdpckMzTm1zcndLT0JqcVRmOXpOUzZSbjJ5Wkt6NEFaeEVxMkJ2N2xqMUpSaXRVODBFR3ptZ3VROE81bFY4WkFtYThETXlHRkZFWkhyMm9EX21yVWJYS2VxM3JZNlhSUGpfZTFuS05QeC01RHFnSjhrbVFDLWdfeHFPSTE0S0M2S0xfZEk1dDRrUW55NlpXVDJ0cXByeE9JZmtDSDhLYUJHblJ1dFd6S0dEbmNKZkJGZlpMcWpfbWVYUzV6aFA5R1NkclB4b015bTVJQV83Uy1LYmlPS1V2SktLazRBMGVjc01OaDhIV0tweEN6Mkt3V1hZT083Y0pyNWJ3c0FzTU93R2dILS1zS1pScTVFR1RuN3VIUzdkckQzbHRpWkNMa3BsaUE0?oc=5",
         "published": "30 Apr 2026, 04:48 AM",
         "iso_date": "2026-04-30T04:48:01+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "'Habibi what is this?' Iran questions US missile launch from Kuwait in sarcastic post on X",
-        "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOdTN5dFpCWVBvaDhVVzJnUDJvX3VscC1BSHlSdlhUUGl3cDh0UE1IYmpvam1XdlE4cGgxX1FTQXliUjNIaGQ1bTd6bG1YY1YtMlcyTk8tVkZCOU1iOHNqSVpxUHRWMDl6bVBzbjN5RjN5SGtGNUhnNVNjVDBpWHFTMWs0UmZmTnl4dEVMYnVzOUZSZVV6N1pwR2ZmLXhWRVNkYzlLWG5NUUhSN1AxYXZyS281czlKVnhYbXd4bWxiLUxNd0FnTFNyUmp1NXVpQjdycTZjTXNnYWstdGJkc0F6bzc2eEFXV0xTV0ItcDVYN1lJb3R1TFE3dUEzMldnVGxiQkVNcFo1YnJfd0NEQ1VyY1hiTVhyTWRRUFFwbVcwWWltYXdmTHpocy03ZTVqcUJIVWhSRnpDQ2ZGZmFYSmFNYUhBa0ROdXRPWVpUSVM1TUxqd2s3ZDNoU1lneHZxTjZEbXNtZ1RKZlEtR1lwcmdQVlhaQ2hBZkVGS3Y2T3lTUDQ3ZjRKanc?oc=5",
-        "published": "29 Apr 2026, 11:42 AM",
-        "iso_date": "2026-04-29T11:42:46+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -194,6 +184,26 @@
         "category": "Latest"
       },
       {
+        "title": "Former England forward Ashley Young to retire at the end of the season",
+        "link": "https://www.gdnonline.com/Details/1393252/Former-England-forward-Ashley-Young-to-retire-at-the-end-of-the-season",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430141352young_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Scott Parker leaves Burnley by mutual consent after relegation from Premier League",
+        "link": "https://www.gdnonline.com/Details/1393254/Scott-Parker-leaves-Burnley-by-mutual-consent-after-relegation-from-Premier-League",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430141716scott_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Injured Salah expected to return for Liverpool before end of season",
         "link": "https://www.gdnonline.com/Details/1393221/Injured-Salah-expected-to-return-for-Liverpool-before-end-of-season",
         "published": "30 Apr 2026",
@@ -212,66 +222,66 @@
         "image": "https://www.gdnonline.com/gdnimages/20260430/20260430111057andrade1_T.jpg?20260430",
         "source": "gdn",
         "category": "Latest"
-      },
-      {
-        "title": "Colunga to field 70-year-old keeper Gonzalez",
-        "link": "https://www.gdnonline.com/Details/1393224/Colunga-to-field-70-year-old-keeper-Gonzalez",
-        "published": "30 Apr 2026",
-        "iso_date": "2026-04-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430100917gk_T.jpg?20260430",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Atletico hit back to hold Arsenal",
-        "link": "https://www.gdnonline.com/Details/1393218/Atletico-hit-back-to-hold-Arsenal",
-        "published": "30 Apr 2026",
-        "iso_date": "2026-04-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430_023727_0_T.jpg?20260430",
-        "source": "gdn",
-        "category": "Latest"
       }
     ],
     "newsofbahrain": [
       {
-        "title": "US Senate panel votes to advance Trump’s Fed chair nominee",
-        "link": "https://www.newsofbahrain.com/business/131715.html",
+        "title": "UAE stresses East Jerusalem capital plan",
+        "link": "https://www.newsofbahrain.com/world/131728.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JMAmyWtBFj_2026-04-30_1777546880resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_En7MqlIWXu_2026-04-30_1777550109resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Gulf Air participates in CAPA Airline Leader Summit 2026 in Berlin",
-        "link": "https://www.newsofbahrain.com/business/131714.html",
+        "title": "Kuwait pushes 2040 plan",
+        "link": "https://www.newsofbahrain.com/world/131727.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7iuIP3ROzm_2026-04-30_1777546798resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UDNgawyeh0_2026-04-30_1777549770resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Sharjah launches Dh1,000 instant industrial licence for entrepreneurs, investors",
-        "link": "https://www.newsofbahrain.com/world/131713.html",
+        "title": "Qatar, Greece vow closer ties",
+        "link": "https://www.newsofbahrain.com/world/131726.html",
         "published": "30 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tfhkWrUNM5_2026-04-30_1777546766resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rbjMyq8zp2_2026-04-30_1777549681resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "RCSI Bahrain announces major campus enhancement ahead of academic year",
-        "link": "https://www.newsofbahrain.com/business/131712.html",
+        "title": "Talks in Muscat focus on trade, education, stability",
+        "link": "https://www.newsofbahrain.com/world/131725.html",
         "published": "30 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hKNP8aind3_2026-04-30_1777546712resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PumAkypGVz_2026-04-30_1777549414resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Teen with 30 tortoises under clothes nabbed at Thai airport",
+        "link": "https://www.newsofbahrain.com/world/131724.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vBigOlrZVT_2026-04-30_1777549303resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Chamber reshapes committees to boost governance and efficiency",
+        "link": "https://www.newsofbahrain.com/bahrain/131718.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_pudf2gIq9Y_2026-04-30_1777547905thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -281,7 +291,7 @@
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_175XacPw0o_2026-04-30_1777545907resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_175XacPw0o_2026-04-30_1777545907thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -316,52 +326,42 @@
         "category": "Latest"
       },
       {
-        "title": "Chamber Drives Development Efforts",
-        "link": "https://www.newsofbahrain.com/bahrain/131707.html",
+        "title": "US Fed chief’s plans in focus as central bank set to hold rates steady",
+        "link": "https://www.newsofbahrain.com/business/131720.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hMETxVKv0p_2026-04-30_1777544715thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eSLMB1zmVd_2026-04-30_1777548156thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Afghan women footballers celebrate 'historic moment'",
-        "link": "https://www.newsofbahrain.com/world/131706.html",
+        "title": "Bahrain Bourse announces promotions to management positions",
+        "link": "https://www.newsofbahrain.com/business/131719.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fmcEsJKBUL_2026-04-30_1777544684thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gMRWfNsDbo_2026-04-30_1777547999thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "First Autistic Barbie Hits Shelves in the UAE",
-        "link": "https://www.newsofbahrain.com/world/131705.html",
+        "title": "US Senate panel votes to advance Trump’s Fed chair nominee",
+        "link": "https://www.newsofbahrain.com/business/131715.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WdBDQ7b0SM_2026-04-30_1777544452thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JMAmyWtBFj_2026-04-30_1777546880thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Google Gemini can now create Word, Excel files in one tap",
-        "link": "https://www.newsofbahrain.com/world/131700.html",
+        "title": "Gulf Air participates in CAPA Airline Leader Summit 2026 in Berlin",
+        "link": "https://www.newsofbahrain.com/business/131714.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O5E8ivIHl7_2026-04-30_1777543122thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BAB Convenes its Annual General Assembly",
-        "link": "https://www.newsofbahrain.com/business/131653.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8P7U9AfmuD_2026-04-29_1777467580thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7iuIP3ROzm_2026-04-30_1777546798thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 11:08:13 UTC"
+  "fetched_at": "2026-04-30 12:00:44 UTC"
 }
