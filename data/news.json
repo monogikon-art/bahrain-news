@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 0
+      "count": 15
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -62,13 +62,184 @@
         "category": "Latest"
       }
     ],
-    "gdn": [],
+    "gdn": [
+      {
+        "title": "Air India Express reinstates flight to Bahrain, region",
+        "link": "https://www.gdnonline.com/Details/1393263/Air-India-Express-reinstates-flight-to-Bahrain,-region",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430154727ai1(3)_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Man held over theft of items worth BD8,000",
+        "link": "https://www.gdnonline.com/Details/1393268/Man-held-over-theft-of-items-worth-BD8,000",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430221318hotoota_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Weather Alert: Warning issued for strong winds across Bahrain",
+        "link": "https://www.gdnonline.com/Details/1393247/Weather-Alert-Warning-issued-for-strong-winds-across-Bahrain",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430115848weather1_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BDF: All services, units are at highest levels of readiness, full defensive preparedness",
+        "link": "https://www.gdnonline.com/Details/1393256/BDF-All-services,-units-are-at-highest-levels-of-readiness,-full-defensive-preparedness",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430134327bdf12(2)_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Commander-in-Chief receives Finance Minister",
+        "link": "https://www.gdnonline.com/Details/1393255/Commander-in-Chief-receives-Finance-Minister",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430132909bdf1(6)_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Standard Chartered forecasts GCC resilience amid âuneasyâ global truce",
+        "link": "https://www.gdnonline.com/Details/1393184/Standard-Chartered-forecasts-GCC-resilience-amid-âuneasyâ-global-truce",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430023106stanchart_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrainâs trade relations with US highlighted",
+        "link": "https://www.gdnonline.com/Details/1393186/Bahrainâs-trade-relations-with-US-highlighted",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260429_225738_0_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "SICO wins award",
+        "link": "https://www.gdnonline.com/Details/1393182/SICO-wins-award",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430022801202301102206322021042500184920210425_000322_1_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "BHB and Bahrain Clear promote national talent",
+        "link": "https://www.gdnonline.com/Details/1393183/BHB-and-Bahrain-Clear-promote-national-talent",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260429_225622_1.png?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Chamber launches comprehensive restructuring",
+        "link": "https://www.gdnonline.com/Details/1393039/Bahrain-Chamber-launches-comprehensive-restructuring",
+        "published": "29 Apr 2026",
+        "iso_date": "2026-04-29T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430085547amii_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Chelsea's Mudryk appeals to CAS over four-year doping ban",
+        "link": "https://www.gdnonline.com/Details/1393222/Chelseas-Mudryk-appeals-to-CAS-over-four-year-doping-ban-",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430122832chelsea(1)_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Former England forward Ashley Young to retire at the end of the season",
+        "link": "https://www.gdnonline.com/Details/1393252/Former-England-forward-Ashley-Young-to-retire-at-the-end-of-the-season",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430141352young_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Scott Parker leaves Burnley by mutual consent after relegation from Premier League",
+        "link": "https://www.gdnonline.com/Details/1393254/Scott-Parker-leaves-Burnley-by-mutual-consent-after-relegation-from-Premier-League",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430141716scott_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Injured Salah expected to return for Liverpool before end of season",
+        "link": "https://www.gdnonline.com/Details/1393221/Injured-Salah-expected-to-return-for-Liverpool-before-end-of-season",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430105257salah(4)_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Zaragoza keeper Andrada handed 13-game ban after derby punch",
+        "link": "https://www.gdnonline.com/Details/1393223/Zaragoza-keeper-Andrada-handed-13-game-ban-after-derby-punch",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430111057andrade1_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      }
+    ],
     "newsofbahrain": [
+      {
+        "title": "Trump lifts tariffs on Scottish whisky following royal visit",
+        "link": "https://www.newsofbahrain.com/world/131799.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vgp1ZHdwm3_2026-04-30_1777578963resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Italy extends fuel tax cuts as energy costs continue to rise",
+        "link": "https://www.newsofbahrain.com/world/131798.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KmYQPFsbMn_2026-04-30_1777577988resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
       {
         "title": "UAE foils $13m arms trafficking attempt",
         "link": "https://www.newsofbahrain.com/world/131797.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_SiADbCQfkF_2026-04-30_1777577231resized_pic.jpg",
         "source": "newsofbahrain",
@@ -77,8 +248,8 @@
       {
         "title": "Chief of Public Security meets UN officials to strengthen cooperation",
         "link": "https://www.newsofbahrain.com/bahrain/131796.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_1XeFTHYSC4_2026-04-30_1777570924resized_pic.jpg",
         "source": "newsofbahrain",
@@ -87,8 +258,8 @@
       {
         "title": "Trade Union Federation Warns of Wider Poverty",
         "link": "https://www.newsofbahrain.com/bahrain/131795.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_NWKXU41n29_2026-04-30_1777570666resized_pic.jpg",
         "source": "newsofbahrain",
@@ -97,20 +268,10 @@
       {
         "title": "Bahrain launches ‘Cross Safely’ campaign to strengthen road safety awareness",
         "link": "https://www.newsofbahrain.com/bahrain/131794.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tU6yx9f3YJ_2026-04-30_1777570428resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Global air cargo demand drops in March",
-        "link": "https://www.newsofbahrain.com/world/131793.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GWEocLI3Tu_2026-04-30_1777569920resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tU6yx9f3YJ_2026-04-30_1777570428thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -135,22 +296,12 @@
         "category": "Latest"
       },
       {
-        "title": "Global air travel rises modestly as Middle East disruptions weigh on demand",
-        "link": "https://www.newsofbahrain.com/world/131792.html",
+        "title": "Global air cargo demand drops in March",
+        "link": "https://www.newsofbahrain.com/world/131793.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GFQa90Z5wb_2026-04-30_1777568434thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar condemns Israel over ‘freedom flotilla’ incident",
-        "link": "https://www.newsofbahrain.com/world/131791.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uTeioqNcdj_2026-04-30_1777567598thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GWEocLI3Tu_2026-04-30_1777569920thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -318,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 19:32:38 UTC"
+  "fetched_at": "2026-04-30 20:26:21 UTC"
 }
