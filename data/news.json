@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,16 +16,26 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 13
     }
   },
   "articles": {
     "bna": [
       {
+        "title": "Iran war hits energy flows: After Qatar, Bahrain's oil firm declares force majeure after refinery attack",
+        "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTzRiSG1RV1Rjci1zVV9pRkJNczJCaEpBZFBLZ2h6NWd4UmctXzRLZFVxNHdGR25FWTh1RWxjQXoyd3NHeHVKTU1PNUlZcXVtWWR4QlJBRE05b2hJRm9XS1pBbXNnZjVSTVRYd1dpSUk1MHA0ZkVidlBwQTVXODdraFFhenJuUWZtaDM4Nmtvd1NZa3o0eGcyN3RYb2Q1b3NyU2p2b0VXUWtlLXRDQlJiOUl3RnJZaHVkLXloMzBIODhSQlNYN0pBaFgxR1JFV0V1YmprOVUtTGJYM2VpR3pCc0pGaVRBME96MjJ1MUFlc2Z5MUtaZjZKY2xfZ2w5akEzaDZROHpVRWlZNWlHS0JaS3NnUzFITTVNUDctYlFhUkxOTDNldUFFdmxVaFJURUJCR0VRb01sNEt3N1o1a2FOT1FfUG9fX1c2aEc2ZEhMUF9GTnhBM3pONmdtU1hPNzV1XzE3RzFlcFVSUGxSYUtmTjRQSUNqN2hhaTFEOFNJdjE4a1Y4dEw1d3JYblZjQUVkXy00YTBaR2R4X3dTd3dST01B?oc=5",
+        "published": "30 Apr 2026, 12:07 PM",
+        "iso_date": "2026-04-30T12:07:46+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeko2OE1VNjU2SGVEdnpBeVVYVVc3SC1qTUlJVk95TWZUanM4M1ZJTlJIYzNLVkxrNlVwcFlBdGFCcUg0Wm9OSzRqWlI2bjgyTHlQYngya0dmN1BqZHhSN0ZVREVadlhCS21TMWRsZWk1c2dHVWlqaEl2dGQwLWpPclZNb1V0MnVfc0d0YnpGd0dISXhIR1FrVWtEZkZ4SlNDemVpaFpncTU0UUUzYXI5c3FmRjl2djdkQTNrLTJ5SkNYdThRaFNEWmM4VkFOT1BRa3Axd2YwVTdnU3FTNHN4VzdFcjBoSS1pejZlekZKaGkzOElmUnZXWlVzczJrUXVtcHNsWU9yWmcxdks4Z1hvVVN2UnFyYWk0V1NTc2szMUdtbzIyS2VGZjJtTFJFckxjVGlrYjlmWWgwQ3RzUkdhRjJZZWNIVnJJUnFBVV8zNGR5Wll6TE90NEltNEsxNWpxSVAyYVVxcWMwUDVDNmNjMldtRGJvbWV0NDhyM0JlX3J1OUtlbXltOXp2OWowQQ?oc=5",
-        "published": "30 Apr 2026, 09:43 AM",
-        "iso_date": "2026-04-30T09:43:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPTVBjNV9lMUNudzJMdk4ybTFoN09VTkxoVmM2YU1XSXY0MF9PQnd2SFNrMW9yVDN1UkNWajZDY3JVMFBKLWJvZ2loMmwxeFVhbDZVZFFvLUw3MlRyaDZaVW81bEdrOTh2aThVOVVpTGdzR0wxTklzUkJEbFc1MmVnXy1kLS1SVFJlLXBVclFOR29OcDZMVlRKMFhBM2w0cmFzWmVzNFc0VkR0QjRaQVRUQlBkeVZNYmY1WVl1T2NsVXJwcHJkbUVTUDNZdWRnU3dxdFZ4UE9HV3A0ZE1GU2VJb1l2Zm5HcGlyRDNoZVIyMkZDbElMSklqemstR3FEenMtdGo3bGNiQldZdkdYVXpqT1Jwa1FnVF9iSno0SC1MLXZ6QkN2QXdsc3h3STkxTTVqTnVsX3BhM3E1VXlLYWJvbWlDMlpsYnB0RE4wem1aVzBPbjBibUgtSHhxU0pmb01nRDZ5Q2Fmcm1WMVVCR014RnBEcUxuRXdLdzFhR1FXOUt3enZwc1JMUlNuTEtDdklCR3VlcGVtQmlRdFE?oc=5",
+        "published": "29 Apr 2026, 09:42 PM",
+        "iso_date": "2026-04-29T21:42:33+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,52 +226,62 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Moonwalking into a $217M global debut",
-        "link": "https://www.newsofbahrain.com/trends/131776.html",
+        "title": "Saudi to end LIV Golf funding this year: reports",
+        "link": "https://www.newsofbahrain.com/world/131788.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5LXYsH2nmt_2026-04-30_1777558149resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_yOKand8b3T_2026-04-30_1777561870resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "US-Venezuela flights to resume in new sign of thaw",
-        "link": "https://www.newsofbahrain.com/world/131774.html",
+        "title": "Guerrillas claim deadly Colombia attack, say it was an 'error'",
+        "link": "https://www.newsofbahrain.com/world/131787.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AEPOgBijD0_2026-04-30_1777557205resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3MJuYPfOlm_2026-04-30_1777561677resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Hammer-wielding man attacks Tokyo teenagers: reports",
-        "link": "https://www.newsofbahrain.com/world/131772.html",
+        "title": "Afghan man convicted for role in 2021 Kabul airport attack",
+        "link": "https://www.newsofbahrain.com/world/131786.html",
         "published": "30 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vedj3tEYpQ_2026-04-30_1777556953resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aQJviAHmWh_2026-04-30_1777561451resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "North Korea faces 'severe' drought: state media",
-        "link": "https://www.newsofbahrain.com/world/131771.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tjvWTpBgSN_2026-04-30_1777556739resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Australia FM says China agrees to collaborate on jet fuel exports",
-        "link": "https://www.newsofbahrain.com/world/131770.html",
+        "title": "DHL Air to establish regional headquarters in Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/131784.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_01z49VcEuF_2026-04-30_1777556316resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mTkhOgWp9H_2026-04-30_1777561171resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "RHF Launches Virtual Family Awareness Series Under “Rest Assured” Initiative",
+        "link": "https://www.newsofbahrain.com/bahrain/131783.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BIzWKDpjNv_2026-04-30_1777561099thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "1 BHD hits ₹251 amid exchange rate gains",
+        "link": "https://www.newsofbahrain.com/bahrain/131777.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Za9NoMz2hc_2026-04-30_1777558870thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,36 +302,6 @@
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_V7unWhs6t2_2026-04-30_1777552740thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Shura Council Chairman Highlights Bahrain’s Labour Progress ahead of International Labour Day",
-        "link": "https://www.newsofbahrain.com/bahrain/131743.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5NfH7CuOTL_2026-04-30_1777551822thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Upgrades Pharma Regulation System, Cuts Processing Time",
-        "link": "https://www.newsofbahrain.com/bahrain/131739.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fhM1kGK4R5_2026-04-30_1777551534thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Man Arrested in Manama House Theft Worth BD 8,000",
-        "link": "https://www.newsofbahrain.com/bahrain/131730.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EGgsx4IT1f_2026-04-30_1777550439thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 14:15:23 UTC"
+  "fetched_at": "2026-04-30 15:15:25 UTC"
 }
