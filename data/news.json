@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNdGhmXzZxbXlLSEROeGM2bzUwNXJpdW5NTW9OLURrTmN6SXFzeTlud29oWVFtX25DYWdQYnVfY3l2M1d5aE9JN0ZnU3l2U3BWTnNGOUpybHhrOV9mM25nUy1rcFdpckMzTm1zcndLT0JqcVRmOXpOUzZSbjJ5Wkt6NEFaeEVxMkJ2N2xqMUpSaXRVODBFR3ptZ3VROE81bFY4WkFtYThETXlHRkZFWkhyMm9EX21yVWJYS2VxM3JZNlhSUGpfZTFuS05QeC01RHFnSjhrbVFDLWdfeHFPSTE0S0M2S0xfZEk1dDRrUW55NlpXVDJ0cXByeE9JZmtDSDhLYUJHblJ1dFd6S0dEbmNKZkJGZlpMcWpfbWVYUzV6aFA5R1NkclB4b015bTVJQV83Uy1LYmlPS1V2SktLazRBMGVjc01OaDhIV0tweEN6Mkt3V1hZT083Y0pyNWJ3c0FzTU93R2dILS1zS1pScTVFR1RuN3VIUzdkckQzbHRpWkNMa3BsaUE0?oc=5",
         "published": "30 Apr 2026, 04:48 AM",
         "iso_date": "2026-04-30T04:48:01+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahraini FM Discusses Regional Security, Peace Efforts at UN Meetings",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmMwSmtFNE5ZbXUtdUlOOVljV2NrRGZKVXBORDdidFlicFB1bG82TjVpWTZlX2VCWVVWSUV6dk9pWERSRVl1ZFk2VHpvZlE1VU8xSWFaQkRlaHZNY084VDQ3NkMzOUNidlNwR0g4bk5ZZmpYeEY3U3hEckV5ek13ZFpwMGtBUGFkNDFqT1BR?oc=5",
-        "published": "29 Apr 2026, 05:52 PM",
-        "iso_date": "2026-04-29T17:52:24+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain launches ‘Cross Safely’ campaign to strengthen road safety awareness",
-        "link": "https://www.newsofbahrain.com/bahrain/131794.html",
+        "title": "Chief of Public Security meets UN officials to strengthen cooperation",
+        "link": "https://www.newsofbahrain.com/bahrain/131796.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1XeFTHYSC4_2026-04-30_1777570924resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trade Union Federation Warns of Wider Poverty",
+        "link": "https://www.newsofbahrain.com/bahrain/131795.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NWKXU41n29_2026-04-30_1777570666resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain launches ‘Cross Safely’ campaign to strengthen road safety awareness",
+        "link": "https://www.newsofbahrain.com/bahrain/131794.html",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_tU6yx9f3YJ_2026-04-30_1777570428resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +248,8 @@
       {
         "title": "Global air cargo demand drops in March",
         "link": "https://www.newsofbahrain.com/world/131793.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_GWEocLI3Tu_2026-04-30_1777569920resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,30 +258,10 @@
       {
         "title": "Global air travel rises modestly as Middle East disruptions weigh on demand",
         "link": "https://www.newsofbahrain.com/world/131792.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GFQa90Z5wb_2026-04-30_1777568434resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar condemns Israel over ‘freedom flotilla’ incident",
-        "link": "https://www.newsofbahrain.com/world/131791.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uTeioqNcdj_2026-04-30_1777567598resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oman, Vatican discuss interfaith dialogue and peace efforts",
-        "link": "https://www.newsofbahrain.com/world/131790.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lKhYwcOoEI_2026-04-30_1777567531resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GFQa90Z5wb_2026-04-30_1777568434resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -296,22 +286,22 @@
         "category": "Latest"
       },
       {
-        "title": "RHF Launches Virtual Family Awareness Series Under “Rest Assured” Initiative",
-        "link": "https://www.newsofbahrain.com/bahrain/131783.html",
+        "title": "Qatar condemns Israel over ‘freedom flotilla’ incident",
+        "link": "https://www.newsofbahrain.com/world/131791.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BIzWKDpjNv_2026-04-30_1777561099thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uTeioqNcdj_2026-04-30_1777567598thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "1 BHD hits ₹251 amid exchange rate gains",
-        "link": "https://www.newsofbahrain.com/bahrain/131777.html",
+        "title": "Oman, Vatican discuss interfaith dialogue and peace efforts",
+        "link": "https://www.newsofbahrain.com/world/131790.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Za9NoMz2hc_2026-04-30_1777558870thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lKhYwcOoEI_2026-04-30_1777567531thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 17:38:08 UTC"
+  "fetched_at": "2026-04-30 18:31:32 UTC"
 }
