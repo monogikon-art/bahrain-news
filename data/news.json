@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -33,9 +33,9 @@
       },
       {
         "title": "US issues new travel warning for Bahrain amid 'hostile Iranian missile attacks'",
-        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQM2hvTTVLQzJjbFdRVWt2a1BxWF9XbjRDeGNVSFlfd3Y1UGFZR2pEai1JWV9SN1pJS3QyUGFDVjlDbEN1RURUUTdlcWN5Ym9VREpRYlFLMVVQRFM5eXk4LWJWQ1IwLS1Sa1FlaV9jSlM3UVFTVVRXYWV3Uy11MTJnWUlRUVdsSlpWSTFoalJscXFBakRfWEpBTFBvUEZiZGIxYjR3Q2pVdTFUMmZfSHlqSmNPNV9oWW5URFd0ZkRHazYzdXhYNDEtQmFVeHBjNEJyNm41cllnVlgxaHlOdzVHbUx6LXpQY05hT182NTlfODBBRnR1aHhvSGxaWnBFZTV2QUZyZzdLZmw3cTctU2pRMWduWUs5T3ZraEZNZGpzREhlaUhFNGM1dWk0UDNXZktFZU1JcW9ITzlaXzZGNTdLeHRlZ2owZWRBRC1sdHJUeVpWWlhHT1ZGWThSOFpkZVBXVHJ3S1pubHkxTzc2TzFQdlVBclVxbnB1M3JwODJOaVRKcWtkOGNRLTFHR1I2TUF3U21BZGdRVFFSdmEzRjJNcllDR1EyNElRbi1leEJwVGF4WnpXb0RsMkln?oc=5",
-        "published": "29 Apr 2026, 03:52 PM",
-        "iso_date": "2026-04-29T15:52:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNNWZKYTJyYTBWTFFkNkg4SjNHNmlDOXg5TTdBcDFvUHZtUlM2a0cwdzNCdENfTW4yeTVMM05CNVBFSGUwTEVlUVQzVlNTa29JbDhfUXFMUU5SZ0gydWczMFBuM1cyY1JIN3JJVm1udzRqVFdaNkpLb3llQTFWMmwwS3VONzdjYlNPRFluU2tsOGpaU3lKY3U5YXZxMEZuRjdsVGsyUnVzbWlZQnBwNDR6YWhmLVJoWjlFdEJ4Wl9sZDNIN2NSUmdDQVIzWG5Ba1A3UzNKMWhZMFBmcVlaRVlaVGVkaDNidmh4MG1DYWZVSllYWGJHWGdwVE9ldDlQRjBJOE5zMlM0YlI3WFEzSUNLWjhMcTJ6VkdkdDI2TU9pTE45OFZGX2xhclJkMzRWZlNvTlpfV0ZlVkFOdnhwNTZfVXBaNV9MQzZXeEdxRHVxZ29OUGx3eXhsQ1B4RFNqd3lhVWppbXBFZ2ZFTHFfdXF2bzhWcU5fZE10?oc=5",
+        "published": "30 Apr 2026, 10:40 AM",
+        "iso_date": "2026-04-30T10:40:04+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmMwSmtFNE5ZbXUtdUlOOVljV2NrRGZKVXBORDdidFlicFB1bG82TjVpWTZlX2VCWVVWSUV6dk9pWERSRVl1ZFk2VHpvZlE1VU8xSWFaQkRlaHZNY084VDQ3NkMzOUNidlNwR0g4bk5ZZmpYeEY3U3hEckV5ek13ZFpwMGtBUGFkNDFqT1BR?oc=5",
         "published": "29 Apr 2026, 05:52 PM",
         "iso_date": "2026-04-29T17:52:24+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain strips dozens of citizenship over Iran support",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFVNQ1pSM2RMMXJESUlNWVlTcFBUcVMwZ09vLXJEa1h2Mk9vX2RFN2FJYm1EQUJ5NjF0UFdjSGc4REQ3ejFKRGlaV05vTkhORnNqVHViQTBoeVJBRmZyRlhPMWlMQnNWTVdKOXlzeGtvc3ZXZG1zNHZNQldiOUVpakdTRlk?oc=5",
-        "published": "29 Apr 2026, 12:43 PM",
-        "iso_date": "2026-04-29T12:43:24+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,52 +216,92 @@
     ],
     "newsofbahrain": [
       {
-        "title": "UAE stresses East Jerusalem capital plan",
-        "link": "https://www.newsofbahrain.com/world/131728.html",
+        "title": "Former FBI Director James Comey surrenders and appears in court over alleged threat against Trump",
+        "link": "https://www.newsofbahrain.com/world/131754.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_En7MqlIWXu_2026-04-30_1777550109resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6Fi5YJv1Lo_2026-04-30_1777553693resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Kuwait pushes 2040 plan",
-        "link": "https://www.newsofbahrain.com/world/131727.html",
+        "title": "US father and daughter admit selling fake Picasso and Banksy works, duping art world",
+        "link": "https://www.newsofbahrain.com/world/131753.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UDNgawyeh0_2026-04-30_1777549770resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LxZ65btnIS_2026-04-30_1777553345resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Qatar, Greece vow closer ties",
-        "link": "https://www.newsofbahrain.com/world/131726.html",
+        "title": "Taiwan accuses China of vegetable laundering via Vietnam",
+        "link": "https://www.newsofbahrain.com/world/131752.html",
         "published": "30 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rbjMyq8zp2_2026-04-30_1777549681resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6Mc7gRmPzk_2026-04-30_1777552901resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Talks in Muscat focus on trade, education, stability",
-        "link": "https://www.newsofbahrain.com/world/131725.html",
+        "title": "US pledges $100 mn toward restoring Chernobyl protection",
+        "link": "https://www.newsofbahrain.com/world/131751.html",
         "published": "30 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_PumAkypGVz_2026-04-30_1777549414resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_z3v8a2rRSl_2026-04-30_1777552862resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Teen with 30 tortoises under clothes nabbed at Thai airport",
-        "link": "https://www.newsofbahrain.com/world/131724.html",
+        "title": "Air India Express Reinstates flights, over 40 daily flights to GCC",
+        "link": "https://www.newsofbahrain.com/world/131750.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vBigOlrZVT_2026-04-30_1777549303resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_jP3aSIpt8y_2026-04-30_1777552686resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Rolls Out Wage Support for Private Sector Workers; Registration until May 5",
+        "link": "https://www.newsofbahrain.com/bahrain/131748.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_V7unWhs6t2_2026-04-30_1777552740thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Shura Council Chairman Highlights Bahrain’s Labour Progress ahead of International Labour Day",
+        "link": "https://www.newsofbahrain.com/bahrain/131743.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5NfH7CuOTL_2026-04-30_1777551822thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Upgrades Pharma Regulation System, Cuts Processing Time",
+        "link": "https://www.newsofbahrain.com/bahrain/131739.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fhM1kGK4R5_2026-04-30_1777551534thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Man Arrested in Manama House Theft Worth BD 8,000",
+        "link": "https://www.newsofbahrain.com/bahrain/131730.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EGgsx4IT1f_2026-04-30_1777550439thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,46 +312,6 @@
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_pudf2gIq9Y_2026-04-30_1777547905thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Minister receives global award for advancing agricultural development",
-        "link": "https://www.newsofbahrain.com/bahrain/131711.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_175XacPw0o_2026-04-30_1777545907thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "New licensing system for senior care launched",
-        "link": "https://www.newsofbahrain.com/bahrain/131710.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5BIXvLfVaq_2026-04-30_1777545428thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "26,000 Firms Cancelled",
-        "link": "https://www.newsofbahrain.com/bahrain/131709.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_G8TDRS695b_2026-04-30_1777545137thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "New SDG Data Framework",
-        "link": "https://www.newsofbahrain.com/bahrain/131708.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_TE9UsfuL4c_2026-04-30_1777544923thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 12:00:44 UTC"
+  "fetched_at": "2026-04-30 13:02:47 UTC"
 }
