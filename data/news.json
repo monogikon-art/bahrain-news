@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 12
     }
   },
   "articles": {
@@ -62,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Iran escalates attacks amid ongoing Middle East conflict; Israel strikes Hezbollah positions in Lebanon",
-        "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQOVpLbHRaSUt3WHMxTC0yYkU1bmp4MDZzRnFEUW1zY3psVzV6SFQxVkl6TTB6RWJ1aXF4R0w2eE1GcWRBX1I5dmpZcE5VTHVLMklPZ0I0ZW1kV1pyamVITHFrS2c2RzhKbm5VR0FWaXZUS3Uwd0tKTTNHZzNFRWpPby1YallqU3dJVkV2TzZOay1kNDc2TjhxNWhxb3hYLTFJWE50WE90N1U5M3dhenQ5VjhTUHBaOHVpNmJIUklNUFFyQXk4ZkVRcUJLcFIyNTUxTDBjMWllcGQ0b19kNVRtY1R4Zmx4eWxmUF8tU0R4ZjltN20zbmZ6cHJ2U3U2aG1FQUgzS1lyVzNDMldlTzJkbjRhWXE3VWVCcG9VNV9RQlZHbGhZSVZ1eTg1Yl8zc3gxTEtCOS15VU1TdklLTGlXdG52d1lhd0RTWnhaZlNrbEw3VUFrUHhtNG5yeHh3UUVxRUc2VDhoRFNaQllWTVdjMmVCR214QnNGbGprNEI5Z01vejY3Q080enhCdkllMlIyT3JPWlJ6cFRkQUZlc0pSZGs4aDNTM193QWZrVVBHVEVMSnczNUZZbVBOcDF1cXR2QjMycTUzZVVSSVlLSmVHSi15UlRlWnlCOFFV?oc=5",
-        "published": "29 Apr 2026, 09:58 AM",
-        "iso_date": "2026-04-29T09:58:55+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahraini FM Discusses Regional Security, Peace Efforts at UN Meetings",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmMwSmtFNE5ZbXUtdUlOOVljV2NrRGZKVXBORDdidFlicFB1bG82TjVpWTZlX2VCWVVWSUV6dk9pWERSRVl1ZFk2VHpvZlE1VU8xSWFaQkRlaHZNY084VDQ3NkMzOUNidlNwR0g4bk5ZZmpYeEY3U3hEckV5ek13ZFpwMGtBUGFkNDFqT1BR?oc=5",
         "published": "29 Apr 2026, 05:52 PM",
@@ -93,6 +83,16 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Weather Alert: Warning issued for strong winds across Bahrain",
+        "link": "https://www.gdnonline.com/Details/1393247/Weather-Alert-Warning-issued-for-strong-winds-across-Bahrain",
+        "published": "30 Apr 2026",
+        "iso_date": "2026-04-30T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430115848weather1_T.jpg?20260430",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "King highlights UAEâs consistent solidarity and support",
         "link": "https://www.gdnonline.com/Details/1393189/King-highlights-UAEâs-consistent-solidarity-and-support",
@@ -130,16 +130,6 @@
         "iso_date": "2026-04-30T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260430/20260429_225543_0_T.jpg?20260430",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Minister receives major international award for agricultural innovation",
-        "link": "https://www.gdnonline.com/Details/1393169/Minister-receives-major-international-award-for-agricultural-innovation",
-        "published": "30 Apr 2026",
-        "iso_date": "2026-04-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260429_225538_0_T.jpg?20260430",
         "source": "gdn",
         "category": "Latest"
       },
@@ -246,92 +236,92 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Trump says UAE’s OPEC exit may ease oil price pressure",
-        "link": "https://www.newsofbahrain.com/world/131692.html",
+        "title": "Why Your Workouts Aren’t Working",
+        "link": "https://www.newsofbahrain.com/bahrain/131704.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NIQd5stEl9_2026-04-30_1777540327resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dh12EP6X9y_2026-04-30_1777543829resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "A revised peace proposal by Iran could come by Friday: US media",
-        "link": "https://www.newsofbahrain.com/world/131691.html",
+        "title": "Homemakers Train for Emergencies",
+        "link": "https://www.newsofbahrain.com/bahrain/131703.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_lHTp6YRSaJ_2026-04-30_1777540023resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7FLZ1qUheI_2026-04-30_1777543627resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Royal praise for Bahrain’s first desert ultra finisher",
-        "link": "https://www.newsofbahrain.com/bahrain/131690.html",
+        "title": "National, Children’s Libraries Resume Services",
+        "link": "https://www.newsofbahrain.com/bahrain/131702.html",
         "published": "30 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_riSReqT7Wh_2026-04-30_1777539822resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_aiy1R3cduL_2026-04-30_1777543563resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Roads Under Pressure",
-        "link": "https://www.newsofbahrain.com/bahrain/131689.html",
+        "title": "Scholarship schemes",
+        "link": "https://www.newsofbahrain.com/bahrain/131701.html",
         "published": "30 Apr 2026, 09:00 AM",
         "iso_date": "2026-04-30T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3fjMdPYQSR_2026-04-30_1777538386resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GhjLQumzZO_2026-04-30_1777543140resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "HH Shaikh Nasser and US Marine Commander Discuss Strategic Ties",
-        "link": "https://www.newsofbahrain.com/bahrain/131688.html",
+        "title": "Google Gemini can now create Word, Excel files in one tap",
+        "link": "https://www.newsofbahrain.com/world/131700.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gi1wN6XRcA_2026-04-30_1777537693resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O5E8ivIHl7_2026-04-30_1777543122resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Life Terms Budaiya Killing",
-        "link": "https://www.newsofbahrain.com/bahrain/131687.html",
+        "title": "800 Years On",
+        "link": "https://www.newsofbahrain.com/bahrain/131698.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i0ar9UjGJV_2026-04-30_1777537578thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cYsjFAPRrZ_2026-04-30_1777542647thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Parliamentary, Shura mandate extended",
-        "link": "https://www.newsofbahrain.com/bahrain/131686.html",
+        "title": "NYC Mayor Zohran Mamdani Tells King Charles: Return the Kohinoor",
+        "link": "https://www.newsofbahrain.com/world/131699.html",
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_N5HhZjSUgO_2026-04-30_1777535953thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0foDPwXnA9_2026-04-30_1777542780thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "King Charles III honours 9/11 victims during New York visit",
-        "link": "https://www.newsofbahrain.com/world/131680.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
+        "title": "Pakistan passport services suspended in UAE after technical glitch",
+        "link": "https://www.newsofbahrain.com/world/131697.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HlBG6mPWXk_2026-04-29_1777485554thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xYJePgCBFa_2026-04-30_1777542268thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Israel military chief warns of expanded strikes during south Lebanon visit",
-        "link": "https://www.newsofbahrain.com/world/131679.html",
-        "published": "29 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-29T09:22:55+00:00",
+        "title": "Google Translate gets AI pronunciation coach in major update",
+        "link": "https://www.newsofbahrain.com/world/131694.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hEHzoVaXMm_2026-04-29_1777484710thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5FMAeHhXz3_2026-04-30_1777541798thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -352,26 +342,6 @@
         "iso_date": "2026-04-29T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_pgJWwbLRqt_2026-04-29_1777467420thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf advances renewable energy transition amid regional tensions",
-        "link": "https://www.newsofbahrain.com/business/131540.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ujHL5yESBa_2026-04-28_1777369626thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "China vows countermeasures if EU enacts ‘Made in Europe’ plan",
-        "link": "https://www.newsofbahrain.com/business/131523.html",
-        "published": "28 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-28T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JY7hKGuxsS_2026-04-28_1777365723thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-04-30 09:16:12 UTC"
+  "fetched_at": "2026-04-30 10:15:13 UTC"
 }
