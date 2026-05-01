@@ -226,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Oman, Russia pledge deeper cooperation",
+        "link": "https://www.newsofbahrain.com/world/131828.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rouB1FgcsM_2026-05-01_1777636125resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Pakistan-Saudi Ties",
         "link": "https://www.newsofbahrain.com/world/131827.html",
         "published": "1 May 2026, 09:22 AM",
@@ -238,8 +248,8 @@
       {
         "title": "Kuwait warns against weaponising vital sea lanes",
         "link": "https://www.newsofbahrain.com/world/131826.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "published": "1 May 2026, 09:00 AM",
+        "iso_date": "2026-05-01T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_KYaNcfnlzj_2026-05-01_1777629286resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,20 +268,10 @@
       {
         "title": "Oil strikes 4-year peak, stocks rise",
         "link": "https://www.newsofbahrain.com/business/131824.html",
-        "published": "1 May 2026, 09:00 AM",
-        "iso_date": "2026-05-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2qpRDk7PhL_2026-05-01_1777627953resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Workforce key to growth and resilience, says Bapco Energies CEO",
-        "link": "https://www.newsofbahrain.com/business/131823.html",
         "published": "1 May 2026, 09:22 AM",
         "iso_date": "2026-05-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IoGEUfw4yS_2026-05-01_1777627762resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2qpRDk7PhL_2026-05-01_1777627953resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,12 +326,12 @@
         "category": "Latest"
       },
       {
-        "title": "Trump lifts tariffs on Scottish whisky following royal visit",
-        "link": "https://www.newsofbahrain.com/world/131799.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
+        "title": "Workforce key to growth and resilience, says Bapco Energies CEO",
+        "link": "https://www.newsofbahrain.com/business/131823.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vgp1ZHdwm3_2026-04-30_1777578963thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IoGEUfw4yS_2026-05-01_1777627762thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 11:27:34 UTC"
+  "fetched_at": "2026-05-01 11:51:28 UTC"
 }
