@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 7
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,20 +22,20 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain's King Hamad tells Iran to stop interfering in Gulf States' affairs",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXIwdWR3U3dUUGR4Q2Y5NUJQMHBxcVdZU052cGE0a3hOSlpienVPR0g1OXdrbENiMDNxSmQ2TWJZMXBZV2JyMlg3U1JuZGNBMzdTRS1sREM?oc=5",
-        "published": "1 May 2026, 11:57 AM",
-        "iso_date": "2026-05-01T11:57:34+00:00",
+        "title": "Bahrain king orders more citizenship revocations over ‘support’ for Iran attacks",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElINTE5cVhoNDhob3JmTXczOXR0SGk4ZzM2ckloRmRNTFFNbnpHVlhleUdoSnZ5eWt0VnY3ODF3ZXJnUlEycnZFV2ttY1RYUml0cE5aRXVIQXA4X3FqMkZKbEZrWGNDVjdIOTdob05SZ0ZDb3lsQmt3TmRBNThPSXpPaFhPdkxlR1phclNmV010aFdpV3ZadExSUVcwdVNuNHVDWk9ZR0pTZ1k0VnpLRTcyUTN0UXNxUFd1WGpyVnA?oc=5",
+        "published": "1 May 2026, 02:52 PM",
+        "iso_date": "2026-05-01T14:52:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain king orders more citizenship revocations over ‘support’ for Iran attacks",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQU5waF94S21mOWd2aVdJOW0ybk9oQzJlVTAyUEQ5LTYwNVhWd2MyNmZlcV9TX3NZcWpSUHl6by1qc0JXemF4SUdWSTZ4aVltX1ppT3B6bTZ0ZFdlR3lfQjVPTHNKWlNaY2pNQk9TRFc3dTBjcFp1dV9fZ1F5Y2E0R0ppNGRhaWhJbzJ0MGEwTG5KQ1BteThVWkJROVh5YXd3VWRxcllvVVU3cU1LQ2tzNEdic0Fka0pSSENLSHdBMNIBxAFBVV95cUxNVVdGWVhUenFBZGFwSHBHYWNlQzVLZEdvUFg1T2JEUmFlMHhmcWhkeVIzZlFaaWdnZHhyYnZxQVhBNTlwZElkb25pNVZ3QmRQS3ZOU0VKbXFCbWowZ3hzUUNFR3V0QWNDTldwOVZtb0lUbzdobU5QejkzV2VzUk1fYjRmRXpxcmRGRjFQSzlCcDU3SjBqeUc5V0FtT3lVNGdWSFJrQTh2cmN2T1YxM21sZVVLeVJNcl9VMTV0dUt5aU9GNUFt?oc=5",
-        "published": "1 May 2026, 03:14 PM",
-        "iso_date": "2026-05-01T15:14:00+00:00",
+        "title": "Bahrain's King Hamad tells Iran to stop interfering in Gulf States' affairs",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXIwdWR3U3dUUGR4Q2Y5NUJQMHBxcVdZU052cGE0a3hOSlpienVPR0g1OXdrbENiMDNxSmQ2TWJZMXBZV2JyMlg3U1JuZGNBMzdTRS1sREM?oc=5",
+        "published": "1 May 2026, 11:57 AM",
+        "iso_date": "2026-05-01T11:57:34+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -52,10 +52,30 @@
         "category": "Latest"
       },
       {
+        "title": "King of Bahrain: We reject Iranian interference and are committed to national unity and protecting national security",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMm5SVUllUl82aDFHYlRVblhMTENBRm5wOHNXcWxBUUh0SEM0TmJrNDFsbTdWNk1oSGJiaGQ0QjdtWEFGdUZtVVJHQkpyaXVoLXVfajNPenp0OXJ6bWhMM2lteHc3MC1qZEpOVlBRZ3VTeXlTTldUdS1aODhGWllkR2IxeWlPSDdzMGNjQVIxc1piOW1YODllYmZhZDY4UGpPWEZTc2J2UElndGFGTm9xeU1PUHFUSW4tZUVDaDljQUNzTWNsNHdpX2RzR3RXZkJSajZOaURnclpmeDZzRkU3UkpzTm9UbmhWek15VGxIcWpLTFNuSVN0SDhwMA?oc=5",
+        "published": "1 May 2026, 06:50 PM",
+        "iso_date": "2026-05-01T18:50:25+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain’s King Hamad tells Iran to ‘cease interfering in Gulf’s internal affairs’",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjJkS2FSTDMtWEcwQWNsdHdaU0hWdFM4WHNMeVRUa29QYUg0TC00aFVjSjVfM3ZnU1BNWGJZT21xUGhlMDFRay1fSE9SMUIySjNsbXZLY2RPT3dLZWlUTXE0aGRQWHRvSGxnZS1TZUU1ck5qb1JsUDNQWjNtWVpsQkh3ZVNPYTFBUFlIVWJ6UVdvWXUzSmc5RTJOY3dGakhGN0FvalpFeUJUNnRwcVRxUUF1N2tIaTNPQk1hb3Z4R0p6T3VMWTVCOUdudw?oc=5",
         "published": "1 May 2026, 10:29 AM",
         "iso_date": "2026-05-01T10:29:59+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain revokes citizenship of 69 people over Iranian-linked security violations",
+        "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQcFJqVGMza28wTVB2OHRwSExPX1lvTzUtUWlWdHNkcUxnLWJ0UXFEd0QzVFN3ZGREWFpoQlQzeXVOWWhXSVFPOGNOdk9mU1pjRlBqM3FGS3F5cTRwU1IwSVNTTXlLbmc2UEl4UEhNbkZNNnRaOG8yQ0owWWtpelEwUXdqN3hqOGdoenhrbDZodUY5LTNZeFd3NlZQVE55S1VBcW9xOG1MUW1yalpILWplYVMyZWJ3UzhFNkNGZkVIMm5fRDhqRDBIN1BNbXh1ZW92UDVIRTJMeDZtd0xCSXBISEQ0V0dvdlpXWGE4aDhMZl9RNy13ZmlyUUU5RXZlZkFyV3ZJSE9TY3c0bldONm5VaHZWWDNyN0lOVnFSd1ZxMXB6aXVFbmhyZWM0NnR0VW9lNk5OeE1YZnNvUDczNllTS3F3YTdFQWhlNmpDZGw3NUJwczFaZkdCbk1DZlg1b3FrS1hF?oc=5",
+        "published": "1 May 2026, 02:06 PM",
+        "iso_date": "2026-05-01T14:06:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 20:47:17 UTC"
+  "fetched_at": "2026-05-01 21:18:41 UTC"
 }
