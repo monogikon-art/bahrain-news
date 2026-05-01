@@ -216,42 +216,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Attempted Robbery",
-        "link": "https://www.newsofbahrain.com/bahrain/131803.html",
+        "title": "Relief for Souq Al Baraha traders",
+        "link": "https://www.newsofbahrain.com/bahrain/131814.html",
         "published": "1 May 2026, 09:22 AM",
         "iso_date": "2026-05-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_3m8p9yzr17_2026-05-01_1777619745resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QGuqIt2v18_2026-05-01_1777622782resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Workers’ Rights Commended",
-        "link": "https://www.newsofbahrain.com/bahrain/131802.html",
+        "title": "Three-Month Pension Payment Pause",
+        "link": "https://www.newsofbahrain.com/bahrain/131813.html",
         "published": "1 May 2026, 09:22 AM",
         "iso_date": "2026-05-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bnihS4DteH_2026-05-01_1777619526resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CnsTbEPFN1_2026-05-01_1777622699resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "No Immunity Treason",
-        "link": "https://www.newsofbahrain.com/bahrain/131801.html",
+        "title": "Government shoulders majority of water costs",
+        "link": "https://www.newsofbahrain.com/bahrain/131812.html",
         "published": "1 May 2026, 09:00 AM",
         "iso_date": "2026-05-01T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RphvKCQdlM_2026-05-01_1777619410resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_icvao8ksJV_2026-05-01_1777622354resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Nation Above All",
-        "link": "https://www.newsofbahrain.com/bahrain/131800.html",
+        "title": "Unity Against Betrayal, Says Shaikh Salman",
+        "link": "https://www.newsofbahrain.com/bahrain/131811.html",
         "published": "1 May 2026, 09:00 AM",
         "iso_date": "2026-05-01T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CZ86YnATmv_2026-05-01_1777619269resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_94mrCNUMli_2026-05-01_1777622085resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Becomes DHL Hub",
+        "link": "https://www.newsofbahrain.com/bahrain/131810.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sWvTEOA52n_2026-05-01_1777621575resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,17 +271,7 @@
         "published": "30 Apr 2026, 09:22 AM",
         "iso_date": "2026-04-30T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vgp1ZHdwm3_2026-04-30_1777578963resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Chief of Public Security meets UN officials to strengthen cooperation",
-        "link": "https://www.newsofbahrain.com/bahrain/131796.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1XeFTHYSC4_2026-04-30_1777570924thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vgp1ZHdwm3_2026-04-30_1777578963thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 07:19:21 UTC"
+  "fetched_at": "2026-05-01 08:15:57 UTC"
 }
