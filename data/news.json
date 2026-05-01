@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 0
     }
   },
   "articles": {
@@ -26,6 +26,16 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrb1lFN1B3SEh6MEhNSXVmWWlMRHk2UWNJM2RleUtnSEh1Wmc5SUM4QkRQMDc1TUMtWFFITXZUcEZQWkY3cm1ybS1BQVQ2cmRCamZRcEE0Yw?oc=5",
         "published": "1 May 2026, 05:11 AM",
         "iso_date": "2026-05-01T05:11:26+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Stop interfering in our internal affairs, Bahrain’s King Hamad tells Iran",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc01RNWpFUlVZYVo1MW9RdFNwLTZTRFhQdUpqOXpvSTdwaEF5ck5vZmFQci1VbV9nN0czTVY5U3BGRGVWeTE3WXlMUzEtX2d4a0JRTGVudW1xUXVaYjRZVWRsVnh1ellaaEdaa3JTdWs3cHdyR3NlNnotUGNlS2p1ZmZmbTlQeGxQNDFyeGtNcDA0WVVJRGNJcFNfSkxDZWlhaUV1LWlkYmZuc0VreUxqZnVUVlIwNHF3b1R0UnZsUzI3MTQ?oc=5",
+        "published": "1 May 2026, 08:49 AM",
+        "iso_date": "2026-05-01T08:49:01+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -214,148 +224,7 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": [
-      {
-        "title": "Relief for Souq Al Baraha traders",
-        "link": "https://www.newsofbahrain.com/bahrain/131814.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QGuqIt2v18_2026-05-01_1777622782resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Three-Month Pension Payment Pause",
-        "link": "https://www.newsofbahrain.com/bahrain/131813.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_CnsTbEPFN1_2026-05-01_1777622699resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Government shoulders majority of water costs",
-        "link": "https://www.newsofbahrain.com/bahrain/131812.html",
-        "published": "1 May 2026, 09:00 AM",
-        "iso_date": "2026-05-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_icvao8ksJV_2026-05-01_1777622354resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Unity Against Betrayal, Says Shaikh Salman",
-        "link": "https://www.newsofbahrain.com/bahrain/131811.html",
-        "published": "1 May 2026, 09:00 AM",
-        "iso_date": "2026-05-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_94mrCNUMli_2026-05-01_1777622085resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Becomes DHL Hub",
-        "link": "https://www.newsofbahrain.com/bahrain/131810.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sWvTEOA52n_2026-05-01_1777621575resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Trump lifts tariffs on Scottish whisky following royal visit",
-        "link": "https://www.newsofbahrain.com/world/131799.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vgp1ZHdwm3_2026-04-30_1777578963thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Italy extends fuel tax cuts as energy costs continue to rise",
-        "link": "https://www.newsofbahrain.com/world/131798.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KmYQPFsbMn_2026-04-30_1777577988thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE foils $13m arms trafficking attempt",
-        "link": "https://www.newsofbahrain.com/world/131797.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SiADbCQfkF_2026-04-30_1777577231thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Global air cargo demand drops in March",
-        "link": "https://www.newsofbahrain.com/world/131793.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GWEocLI3Tu_2026-04-30_1777569920thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Fed chief’s plans in focus as central bank set to hold rates steady",
-        "link": "https://www.newsofbahrain.com/business/131720.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_eSLMB1zmVd_2026-04-30_1777548156thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain Bourse announces promotions to management positions",
-        "link": "https://www.newsofbahrain.com/business/131719.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gMRWfNsDbo_2026-04-30_1777547999thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Senate panel votes to advance Trump’s Fed chair nominee",
-        "link": "https://www.newsofbahrain.com/business/131715.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JMAmyWtBFj_2026-04-30_1777546880thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gulf Air participates in CAPA Airline Leader Summit 2026 in Berlin",
-        "link": "https://www.newsofbahrain.com/business/131714.html",
-        "published": "30 Apr 2026, 09:22 AM",
-        "iso_date": "2026-04-30T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7iuIP3ROzm_2026-04-30_1777546798thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "A Fruitful Idea!",
-        "link": "https://www.newsofbahrain.com/views/131681.html",
-        "published": "30 Apr 2026, 09:00 AM",
-        "iso_date": "2026-04-30T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EjxX3JuIwU_2026-04-30_1777528532thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      }
-    ]
+    "newsofbahrain": []
   },
   "instagram": [
     {
@@ -469,5 +338,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 08:15:57 UTC"
+  "fetched_at": "2026-05-01 09:09:11 UTC"
 }
