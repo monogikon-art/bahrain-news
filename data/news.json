@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 19
+      "count": 17
     }
   },
   "articles": {
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjJkS2FSTDMtWEcwQWNsdHdaU0hWdFM4WHNMeVRUa29QYUg0TC00aFVjSjVfM3ZnU1BNWGJZT21xUGhlMDFRay1fSE9SMUIySjNsbXZLY2RPT3dLZWlUTXE0aGRQWHRvSGxnZS1TZUU1ck5qb1JsUDNQWjNtWVpsQkh3ZVNPYTFBUFlIVWJ6UVdvWXUzSmc5RTJOY3dGakhGN0FvalpFeUJUNnRwcVRxUUF1N2tIaTNPQk1hb3Z4R0p6T3VMWTVCOUdudw?oc=5",
         "published": "1 May 2026, 10:29 AM",
         "iso_date": "2026-05-01T10:29:59+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "US issues new travel warning for Bahrain amid 'hostile Iranian missile attacks'",
-        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNU1NadHBESjRhMUhrVzJldWFXNXhwNEVNdlNmaEtQZDNLa2Q0ckxYRk9WNUl5c3NYaFQxMkVhQXRmaWRsaXBmU2ZzOF9TS1RDaUhEZjFFeThfdlh3a3F3NFJtMUJsYlRrVVVjWXdyc0t4ZEdnRF9wRHhoVGJMdndhVGx5WUluLS1XZS0zbG5DVEJlSy16cExsWV9rT1c2NWdScE5yYTdqNEktZExiTjlMWWRFMWtzWnFNVmNkM1VlTnFzeG1nd0xxMEVFNkY2TnV6aWVQdkdmeEFCNFlLeW9IUTlXRHVFbm1BWUtvVmtuT1ZQVFJVTzJib19LSTh5WHoyZnZhZFhkbGRRWkJLRXVtMTFIRTU3cVkyUVBWemFUMmxlRUVrUVFtOU1FMU5fYXh4V1ZuVm1scm9wZ2l6c2xqRXlXWS1lUDFodk9LV1ZfUmxzR0xXQVcwSG9nVWtXMDR0dlB3bVF4OC1hOHVELWxoanZDaXBSUTZwT1N3ZUdJQUppb0YzSkI0VmFVMzl1VnUxX2RFRFVkNjJWRGsxSTVlSzFVcmVGVGRQV0N4YUtzR1JUbnVRUkZfUW1B?oc=5",
-        "published": "30 Apr 2026, 12:34 PM",
-        "iso_date": "2026-04-30T12:34:22+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,72 +216,52 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Mexico demands evidence behind US drug charges against governor",
+        "link": "https://www.newsofbahrain.com/world/131840.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6yxsGBzOLn_2026-05-01_1777639293resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kingdom line up Georgia test as preparations intensify",
+        "link": "https://www.newsofbahrain.com/sports/131839.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_bL8rMBa9OU_2026-05-01_1777639155resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain signs off Sanya Games with grit, glow and a bronze",
+        "link": "https://www.newsofbahrain.com/sports/131838.html",
+        "published": "1 May 2026, 09:00 AM",
+        "iso_date": "2026-05-01T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2EHePlc7AZ_2026-05-01_1777638873resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "DOJ Releases Video of Trump Assassination Attempt",
+        "link": "https://www.newsofbahrain.com/world/131837.html",
+        "published": "1 May 2026, 09:00 AM",
+        "iso_date": "2026-05-01T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VnAvJULW39_2026-05-01_1777638850resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Mainoo signs new Manchester United deal until 2031",
         "link": "https://www.newsofbahrain.com/sports/131836.html",
         "published": "1 May 2026, 09:22 AM",
         "iso_date": "2026-05-01T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_72GbfcmTQe_2026-05-01_1777637755resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Arsenal held in controversial draw at Atletico",
-        "link": "https://www.newsofbahrain.com/sports/131835.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_b8ZyHPsgOv_2026-05-01_1777637616resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "IPL fines Rajasthan’s Parag for vaping in dressing room",
-        "link": "https://www.newsofbahrain.com/sports/131834.html",
-        "published": "1 May 2026, 09:00 AM",
-        "iso_date": "2026-05-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_LthpnYzsNg_2026-05-01_1777637465resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Defence Minister honours winners of BDF championship",
-        "link": "https://www.newsofbahrain.com/sports/131833.html",
-        "published": "1 May 2026, 09:00 AM",
-        "iso_date": "2026-05-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UlPwCOpxRn_2026-05-01_1777637314resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fereej Courts project signed to boost community sport",
-        "link": "https://www.newsofbahrain.com/sports/131832.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_g8kTOfp6Be_2026-05-01_1777636885resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Doha slams Israel over “freedom flotilla” incident",
-        "link": "https://www.newsofbahrain.com/bahrain/131831.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_c3XumdafLq_2026-05-01_1777636699thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain’s legal measures boost investor confidence, stability: Kanoo",
-        "link": "https://www.newsofbahrain.com/bahrain/131820.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tCf0r5u1aX_2026-05-01_1777626658thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,42 +296,42 @@
         "category": "Latest"
       },
       {
+        "title": "BIS Hosts Grand Investiture Ceremony",
+        "link": "https://www.newsofbahrain.com/bahrain/131815.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_49TgeV76Ik_2026-05-01_1777623289thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Relief for Souq Al Baraha traders",
+        "link": "https://www.newsofbahrain.com/bahrain/131814.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QGuqIt2v18_2026-05-01_1777622782thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Doha slams Israel over “freedom flotilla” incident",
+        "link": "https://www.newsofbahrain.com/world/131831.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mKWzxDRaMj_2026-05-01_1777638320thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Canadian PM adviser in Abu Dhabi talks",
         "link": "https://www.newsofbahrain.com/world/131830.html",
         "published": "1 May 2026, 09:22 AM",
         "iso_date": "2026-05-01T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_I0d7Hom4Ei_2026-05-01_1777636473thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Peace advocacy",
-        "link": "https://www.newsofbahrain.com/world/131829.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_sBqRNjgpcd_2026-05-01_1777636267thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Oman, Russia pledge deeper cooperation",
-        "link": "https://www.newsofbahrain.com/world/131828.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rouB1FgcsM_2026-05-01_1777636125thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pakistan-Saudi Ties",
-        "link": "https://www.newsofbahrain.com/world/131827.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MTZpF5R7zc_2026-05-01_1777629411thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -529,5 +499,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 12:22:21 UTC"
+  "fetched_at": "2026-05-01 12:48:37 UTC"
 }
