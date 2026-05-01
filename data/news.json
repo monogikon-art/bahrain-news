@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrb1lFN1B3SEh6MEhNSXVmWWlMRHk2UWNJM2RleUtnSEh1Wmc5SUM4QkRQMDc1TUMtWFFITXZUcEZQWkY3cm1ybS1BQVQ2cmRCamZRcEE0Yw?oc=5",
         "published": "1 May 2026, 05:11 AM",
         "iso_date": "2026-05-01T05:11:26+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain king orders more citizenship revocations over ‘support’ for Iran attacks",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElINTE5cVhoNDhob3JmTXczOXR0SGk4ZzM2ckloRmRNTFFNbnpHVlhleUdoSnZ5eWt0VnY3ODF3ZXJnUlEycnZFV2ttY1RYUml0cE5aRXVIQXA4X3FqMkZKbEZrWGNDVjdIOTdob05SZ0ZDb3lsQmt3TmRBNThPSXpPaFhPdkxlR1phclNmV010aFdpV3ZadExSUVcwdVNuNHVDWk9ZR0pTZ1k0VnpLRTcyUTN0UXNxUFd1WGpyVnA?oc=5",
+        "published": "1 May 2026, 02:52 PM",
+        "iso_date": "2026-05-01T14:52:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 14:49:41 UTC"
+  "fetched_at": "2026-05-01 15:23:12 UTC"
 }
