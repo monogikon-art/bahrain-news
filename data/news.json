@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 14
     }
   },
   "articles": {
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTzRiSG1RV1Rjci1zVV9pRkJNczJCaEpBZFBLZ2h6NWd4UmctXzRLZFVxNHdGR25FWTh1RWxjQXoyd3NHeHVKTU1PNUlZcXVtWWR4QlJBRE05b2hJRm9XS1pBbXNnZjVSTVRYd1dpSUk1MHA0ZkVidlBwQTVXODdraFFhenJuUWZtaDM4Nmtvd1NZa3o0eGcyN3RYb2Q1b3NyU2p2b0VXUWtlLXRDQlJiOUl3RnJZaHVkLXloMzBIODhSQlNYN0pBaFgxR1JFV0V1YmprOVUtTGJYM2VpR3pCc0pGaVRBME96MjJ1MUFlc2Z5MUtaZjZKY2xfZ2w5akEzaDZROHpVRWlZNWlHS0JaS3NnUzFITTVNUDctYlFhUkxOTDNldUFFdmxVaFJURUJCR0VRb01sNEt3N1o1a2FOT1FfUG9fX1c2aEc2ZEhMUF9GTnhBM3pONmdtU1hPNzV1XzE3RzFlcFVSUGxSYUtmTjRQSUNqN2hhaTFEOFNJdjE4a1Y4dEw1d3JYblZjQUVkXy00YTBaR2R4X3dTd3dST01B?oc=5",
         "published": "30 Apr 2026, 12:07 PM",
         "iso_date": "2026-04-30T12:07:46+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Iranian drones strike Bahrain's petrochemical plant, fire breaks out",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeko2OE1VNjU2SGVEdnpBeVVYVVc3SC1qTUlJVk95TWZUanM4M1ZJTlJIYzNLVkxrNlVwcFlBdGFCcUg0Wm9OSzRqWlI2bjgyTHlQYngya0dmN1BqZHhSN0ZVREVadlhCS21TMWRsZWk1c2dHVWlqaEl2dGQwLWpPclZNb1V0MnVfc0d0YnpGd0dISXhIR1FrVWtEZkZ4SlNDemVpaFpncTU0UUUzYXI5c3FmRjl2djdkQTNrLTJ5SkNYdThRaFNEWmM4VkFOT1BRa3Axd2YwVTdnU3FTNHN4VzdFcjBoSS1pejZlekZKaGkzOElmUnZXWlVzczJrUXVtcHNsWU9yWmcxdks4Z1hvVVN2UnFyYWk0V1NTc2szMUdtbzIyS2VGZjJtTFJFckxjVGlrYjlmWWgwQ3RzUkdhRjJZZWNIVnJJUnFBVV8zNGR5Wll6TE90NEltNEsxNWpxSVAyYVVxcWMwUDVDNmNjMldtRGJvbWV0NDhyM0JlX3J1OUtlbXltOXp2OWowQQ?oc=5",
-        "published": "30 Apr 2026, 09:43 AM",
-        "iso_date": "2026-04-30T09:43:38+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -224,7 +214,148 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "Pakistan-Saudi Ties",
+        "link": "https://www.newsofbahrain.com/world/131827.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MTZpF5R7zc_2026-05-01_1777629411resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait warns against weaponising vital sea lanes",
+        "link": "https://www.newsofbahrain.com/world/131826.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_KYaNcfnlzj_2026-05-01_1777629286resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "“Made in the Gulf”",
+        "link": "https://www.newsofbahrain.com/world/131825.html",
+        "published": "1 May 2026, 09:00 AM",
+        "iso_date": "2026-05-01T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JPs7SBmM54_2026-05-01_1777629211resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Oil strikes 4-year peak, stocks rise",
+        "link": "https://www.newsofbahrain.com/business/131824.html",
+        "published": "1 May 2026, 09:00 AM",
+        "iso_date": "2026-05-01T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2qpRDk7PhL_2026-05-01_1777627953resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Workforce key to growth and resilience, says Bapco Energies CEO",
+        "link": "https://www.newsofbahrain.com/business/131823.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IoGEUfw4yS_2026-05-01_1777627762resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain’s legal measures boost investor confidence, stability: Kanoo",
+        "link": "https://www.newsofbahrain.com/bahrain/131820.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_tCf0r5u1aX_2026-05-01_1777626658thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Salary-only rule for housing applications",
+        "link": "https://www.newsofbahrain.com/bahrain/131818.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WOwx5dC74i_2026-05-01_1777624222thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "MPs Seek Tamkeen Aid for Left-Out Bahraini Staff",
+        "link": "https://www.newsofbahrain.com/bahrain/131817.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1lHwe5rxLF_2026-05-01_1777624088thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Courts Set Fixed Timings",
+        "link": "https://www.newsofbahrain.com/bahrain/131816.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rOjB4oiHP6_2026-05-01_1777623566thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BIS Hosts Grand Investiture Ceremony",
+        "link": "https://www.newsofbahrain.com/bahrain/131815.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_49TgeV76Ik_2026-05-01_1777623289thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Trump lifts tariffs on Scottish whisky following royal visit",
+        "link": "https://www.newsofbahrain.com/world/131799.html",
+        "published": "30 Apr 2026, 09:22 AM",
+        "iso_date": "2026-04-30T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vgp1ZHdwm3_2026-04-30_1777578963thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Women outpace men in banking access in Bahrain",
+        "link": "https://www.newsofbahrain.com/business/131822.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7esbgBIM3n_2026-05-01_1777627273thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "EU to ease merger rules in bid to take on US, Chinese rivals",
+        "link": "https://www.newsofbahrain.com/business/131821.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fTCd7JRr30_2026-05-01_1777627005thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "A Fruitful Idea!",
+        "link": "https://www.newsofbahrain.com/views/131681.html",
+        "published": "30 Apr 2026, 09:00 AM",
+        "iso_date": "2026-04-30T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EjxX3JuIwU_2026-04-30_1777528532thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -338,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 09:09:11 UTC"
+  "fetched_at": "2026-05-01 10:02:38 UTC"
 }
