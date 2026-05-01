@@ -16,26 +16,26 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 15
     }
   },
   "articles": {
     "bna": [
       {
-        "title": "Uniforms, hospital visits and diplomacy: Inside Bahrain king’s wartime strategy",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrb1lFN1B3SEh6MEhNSXVmWWlMRHk2UWNJM2RleUtnSEh1Wmc5SUM4QkRQMDc1TUMtWFFITXZUcEZQWkY3cm1ybS1BQVQ2cmRCamZRcEE0Yw?oc=5",
-        "published": "1 May 2026, 05:11 AM",
-        "iso_date": "2026-05-01T05:11:26+00:00",
+        "title": "Bahrain's King Hamad tells Iran to stop interfering in Gulf States' affairs",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXIwdWR3U3dUUGR4Q2Y5NUJQMHBxcVdZU052cGE0a3hOSlpienVPR0g1OXdrbENiMDNxSmQ2TWJZMXBZV2JyMlg3U1JuZGNBMzdTRS1sREM?oc=5",
+        "published": "1 May 2026, 11:57 AM",
+        "iso_date": "2026-05-01T11:57:34+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain's King Hamad tells Iran to stop interfering in Gulf States' affairs",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXIwdWR3U3dUUGR4Q2Y5NUJQMHBxcVdZU052cGE0a3hOSlpienVPR0g1OXdrbENiMDNxSmQ2TWJZMXBZV2JyMlg3U1JuZGNBMzdTRS1sREM?oc=5",
-        "published": "1 May 2026, 11:57 AM",
-        "iso_date": "2026-05-01T11:57:34+00:00",
+        "title": "Uniforms, hospital visits and diplomacy: Inside Bahrain king’s wartime strategy",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrb1lFN1B3SEh6MEhNSXVmWWlMRHk2UWNJM2RleUtnSEh1Wmc5SUM4QkRQMDc1TUMtWFFITXZUcEZQWkY3cm1ybS1BQVQ2cmRCamZRcEE0Yw?oc=5",
+        "published": "1 May 2026, 05:11 AM",
+        "iso_date": "2026-05-01T05:11:26+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +216,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "India exit polls suggest ruling party gains in state elections",
-        "link": "https://www.newsofbahrain.com/world/131846.html",
+        "title": "Myanmar moves Aung San Suu Kyi to house arrest",
+        "link": "https://www.newsofbahrain.com/world/131850.html",
         "published": "1 May 2026, 09:22 AM",
         "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8pN3wMvkVb_2026-05-01_1777644703resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Teen with 30 tortoises under clothes nabbed at Thai airport",
+        "link": "https://www.newsofbahrain.com/world/131849.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6SoZA8nGMi_2026-05-01_1777642502resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kanpai! Space-brewed sake sells for $700,000",
+        "link": "https://www.newsofbahrain.com/world/131848.html",
+        "published": "1 May 2026, 09:00 AM",
+        "iso_date": "2026-05-01T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IyNrmAjFYU_2026-05-01_1777642396resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "India exit polls suggest ruling party gains in state elections",
+        "link": "https://www.newsofbahrain.com/world/131846.html",
+        "published": "1 May 2026, 09:00 AM",
+        "iso_date": "2026-05-01T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_UMsoDFHWJg_2026-05-01_1777642048resized_pic.jpg",
         "source": "newsofbahrain",
@@ -232,36 +262,6 @@
         "iso_date": "2026-05-01T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_cmpANPth5x_2026-05-01_1777641670resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gill, Buttler guide Gujarat to comfortable win over Bengaluru",
-        "link": "https://www.newsofbahrain.com/sports/131844.html",
-        "published": "1 May 2026, 09:00 AM",
-        "iso_date": "2026-05-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xrO57NjhtS_2026-05-01_1777641269resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain signs Khalifa Sports City deal",
-        "link": "https://www.newsofbahrain.com/sports/131843.html",
-        "published": "1 May 2026, 09:00 AM",
-        "iso_date": "2026-05-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Xiey3moSfV_2026-05-01_1777641167resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "BIC revs up for adrenalinefilledweekend of racing",
-        "link": "https://www.newsofbahrain.com/sports/131842.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FlB6421PeA_2026-05-01_1777640753resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,26 +312,6 @@
         "iso_date": "2026-05-01T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_QGuqIt2v18_2026-05-01_1777622782thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Brazil Congress approves reduced sentence for Bolsonaro",
-        "link": "https://www.newsofbahrain.com/world/131841.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n6ZlzVgXvp_2026-05-01_1777640680thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Mexico demands evidence behind US drug charges against governor",
-        "link": "https://www.newsofbahrain.com/world/131840.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6yxsGBzOLn_2026-05-01_1777639293thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -499,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 13:31:47 UTC"
+  "fetched_at": "2026-05-01 14:26:32 UTC"
 }
