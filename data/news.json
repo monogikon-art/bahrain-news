@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 8
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -66,6 +66,16 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjJkS2FSTDMtWEcwQWNsdHdaU0hWdFM4WHNMeVRUa29QYUg0TC00aFVjSjVfM3ZnU1BNWGJZT21xUGhlMDFRay1fSE9SMUIySjNsbXZLY2RPT3dLZWlUTXE0aGRQWHRvSGxnZS1TZUU1ck5qb1JsUDNQWjNtWVpsQkh3ZVNPYTFBUFlIVWJ6UVdvWXUzSmc5RTJOY3dGakhGN0FvalpFeUJUNnRwcVRxUUF1N2tIaTNPQk1hb3Z4R0p6T3VMWTVCOUdudw?oc=5",
         "published": "1 May 2026, 10:29 AM",
         "iso_date": "2026-05-01T10:29:59+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain revokes citizenship of 69 people over Iranian-linked security violations",
+        "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQcFJqVGMza28wTVB2OHRwSExPX1lvTzUtUWlWdHNkcUxnLWJ0UXFEd0QzVFN3ZGREWFpoQlQzeXVOWWhXSVFPOGNOdk9mU1pjRlBqM3FGS3F5cTRwU1IwSVNTTXlLbmc2UEl4UEhNbkZNNnRaOG8yQ0owWWtpelEwUXdqN3hqOGdoenhrbDZodUY5LTNZeFd3NlZQVE55S1VBcW9xOG1MUW1yalpILWplYVMyZWJ3UzhFNkNGZkVIMm5fRDhqRDBIN1BNbXh1ZW92UDVIRTJMeDZtd0xCSXBISEQ0V0dvdlpXWGE4aDhMZl9RNy13ZmlyUUU5RXZlZkFyV3ZJSE9TY3c0bldONm5VaHZWWDNyN0lOVnFSd1ZxMXB6aXVFbmhyZWM0NnR0VW9lNk5OeE1YZnNvUDczNllTS3F3YTdFQWhlNmpDZGw3NUJwczFaZkdCbk1DZlg1b3FrS1hF?oc=5",
+        "published": "1 May 2026, 02:06 PM",
+        "iso_date": "2026-05-01T14:06:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -194,6 +204,16 @@
         "category": "Latest"
       },
       {
+        "title": "Leeds edge closer to Premier League safety",
+        "link": "https://www.gdnonline.com/Details/1393407/Leeds-edge-closer-to-Premier-League-safety",
+        "published": "2 May 2026",
+        "iso_date": "2026-05-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260502/20260502_011031_0_T.jpg?20260502",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Man United boss Carrick hopeful Cunha can return against Liverpool",
         "link": "https://www.gdnonline.com/Details/1393361/Man-United-boss-Carrick-hopeful-Cunha-can-return-against-Liverpool",
         "published": "1 May 2026",
@@ -230,16 +250,6 @@
         "iso_date": "2026-05-01T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260501/20260501165723ochoa1_T.jpg?20260502",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Netherlands coach Koeman eyes replacements after Simons injury",
-        "link": "https://www.gdnonline.com/Details/1393348/Netherlands-coach-Koeman-eyes-replacements-after-Simons-injury",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501170335koeman1_T.jpg?20260502",
         "source": "gdn",
         "category": "Latest"
       }
@@ -499,5 +509,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 23:19:14 UTC"
+  "fetched_at": "2026-05-01 23:47:24 UTC"
 }
