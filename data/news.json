@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -62,16 +62,6 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain revokes citizenship of 69 people over Iranian-linked security violations",
-        "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQcFJqVGMza28wTVB2OHRwSExPX1lvTzUtUWlWdHNkcUxnLWJ0UXFEd0QzVFN3ZGREWFpoQlQzeXVOWWhXSVFPOGNOdk9mU1pjRlBqM3FGS3F5cTRwU1IwSVNTTXlLbmc2UEl4UEhNbkZNNnRaOG8yQ0owWWtpelEwUXdqN3hqOGdoenhrbDZodUY5LTNZeFd3NlZQVE55S1VBcW9xOG1MUW1yalpILWplYVMyZWJ3UzhFNkNGZkVIMm5fRDhqRDBIN1BNbXh1ZW92UDVIRTJMeDZtd0xCSXBISEQ0V0dvdlpXWGE4aDhMZl9RNy13ZmlyUUU5RXZlZkFyV3ZJSE9TY3c0bldONm5VaHZWWDNyN0lOVnFSd1ZxMXB6aXVFbmhyZWM0NnR0VW9lNk5OeE1YZnNvUDczNllTS3F3YTdFQWhlNmpDZGw3NUJwczFaZkdCbk1DZlg1b3FrS1hF?oc=5",
-        "published": "1 May 2026, 02:06 PM",
-        "iso_date": "2026-05-01T14:06:47+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain expresses its categorical rejection of recent statements issued by Iran Foreign Ministry spokesperson",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPal95OEdGTVVvaHVsai0xQUI5dHF3d0RRVUhMbDhnR1J3d3NQSU0zNWlCMnduZndTN2w2cTdzMW5POUhQUUtaU1hUajRHbV83OGN4Qko3NmxvRlZ0ZEtJNU9zSG1GOTBWeF9mbTR1cFdDcnRJeE02NWJBcjJJWGVhenNRNDdCUWg4b3FKYS1DbkRwd2JfMVlzU01PcTY1dlplZ2YzZGNEU1B5a1piby1qUy1kTW8zU01yTUFZUFpBRkVXZEdWOHQzenBhNERya2NVQm13QlpoV3J3N3Qwek45aFNxTWthSHlDTWE4?oc=5",
         "published": "1 May 2026, 05:19 PM",
@@ -83,6 +73,36 @@
       }
     ],
     "gdn": [
+      {
+        "title": "Three MPs issue formal written apology to His Majesty the King",
+        "link": "https://www.gdnonline.com/Details/1393366/Three-MPs-issue-formal-written-apology-to-His-Majesty-the-King",
+        "published": "1 May 2026",
+        "iso_date": "2026-05-01T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501220216nabi12_T.jpg?20260501",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "HRH Prince Salman meets the King of Jordan",
+        "link": "https://www.gdnonline.com/Details/1393365/HRH-Prince-Salman-meets-the-King-of-Jordan",
+        "published": "1 May 2026",
+        "iso_date": "2026-05-01T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501213238cp1(16)_T.jpg?20260501",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Fuel Pricing and Monitoring Committee announces fuel prices for May",
+        "link": "https://www.gdnonline.com/Details/1393367/Fuel-Pricing-and-Monitoring-Committee-announces-fuel-prices-for-May",
+        "published": "1 May 2026",
+        "iso_date": "2026-05-01T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501222917fu_T.jpg?20260501",
+        "source": "gdn",
+        "category": "Latest"
+      },
       {
         "title": "Ex-convict jailed for knifepoint carjacking",
         "link": "https://www.gdnonline.com/Details/1393302/Ex-convict-jailed-for-knifepoint-carjacking",
@@ -100,36 +120,6 @@
         "iso_date": "2026-05-01T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260501/20260501023820one_T.jpg?20260501",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "MPs seek tougher checks to stop counterfeit drugs",
-        "link": "https://www.gdnonline.com/Details/1393273/MPs-seek-tougher-checks-to-stop-counterfeit-drugs",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501_002503_0_T.jpg?20260501",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Vibrant creatives to showcase diverse culture and spirituality",
-        "link": "https://www.gdnonline.com/Details/1393291/Vibrant-creatives-to-showcase-diverse-culture-and-spirituality",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501011844one_T.jpg?20260501",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Community pays tribute to leading expat social worker",
-        "link": "https://www.gdnonline.com/Details/1393290/Community-pays-tribute-to-leading-expat-social-worker",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501_010024_2_T.jpg?20260501",
         "source": "gdn",
         "category": "Latest"
       },
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 19:29:31 UTC"
+  "fetched_at": "2026-05-01 19:55:50 UTC"
 }
