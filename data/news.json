@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 15
+      "count": 14
     }
   },
   "articles": {
@@ -226,6 +226,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Strategic Cooperation Between Bahrain Jordan Deepens",
+        "link": "https://www.newsofbahrain.com/bahrain/131851.html",
+        "published": "1 May 2026, 09:22 AM",
+        "iso_date": "2026-05-01T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IVa5W7pFv0_2026-05-01_1777655659resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Myanmar moves Aung San Suu Kyi to house arrest",
         "link": "https://www.newsofbahrain.com/world/131850.html",
         "published": "1 May 2026, 09:22 AM",
@@ -238,8 +248,8 @@
       {
         "title": "Teen with 30 tortoises under clothes nabbed at Thai airport",
         "link": "https://www.newsofbahrain.com/world/131849.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "published": "1 May 2026, 09:00 AM",
+        "iso_date": "2026-05-01T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_6SoZA8nGMi_2026-05-01_1777642502resized_pic.jpg",
         "source": "newsofbahrain",
@@ -258,20 +268,10 @@
       {
         "title": "India exit polls suggest ruling party gains in state elections",
         "link": "https://www.newsofbahrain.com/world/131846.html",
-        "published": "1 May 2026, 09:00 AM",
-        "iso_date": "2026-05-01T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UMsoDFHWJg_2026-05-01_1777642048resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "EU suspends funds for Serbia over law reforms",
-        "link": "https://www.newsofbahrain.com/world/131845.html",
         "published": "1 May 2026, 09:22 AM",
         "iso_date": "2026-05-01T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cmpANPth5x_2026-05-01_1777641670resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UMsoDFHWJg_2026-05-01_1777642048resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -312,16 +312,6 @@
         "iso_date": "2026-05-01T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_49TgeV76Ik_2026-05-01_1777623289thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Relief for Souq Al Baraha traders",
-        "link": "https://www.newsofbahrain.com/bahrain/131814.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_QGuqIt2v18_2026-05-01_1777622782thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 16:47:55 UTC"
+  "fetched_at": "2026-05-01 17:23:33 UTC"
 }
