@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,20 +22,30 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain's King Hamad tells Iran to stop interfering in Gulf States' affairs",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXIwdWR3U3dUUGR4Q2Y5NUJQMHBxcVdZU052cGE0a3hOSlpienVPR0g1OXdrbENiMDNxSmQ2TWJZMXBZV2JyMlg3U1JuZGNBMzdTRS1sREM?oc=5",
-        "published": "1 May 2026, 11:57 AM",
-        "iso_date": "2026-05-01T11:57:34+00:00",
+        "title": "Bahrain king orders more citizenship revocations over ‘support’ for Iran attacks",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElINTE5cVhoNDhob3JmTXczOXR0SGk4ZzM2ckloRmRNTFFNbnpHVlhleUdoSnZ5eWt0VnY3ODF3ZXJnUlEycnZFV2ttY1RYUml0cE5aRXVIQXA4X3FqMkZKbEZrWGNDVjdIOTdob05SZ0ZDb3lsQmt3TmRBNThPSXpPaFhPdkxlR1phclNmV010aFdpV3ZadExSUVcwdVNuNHVDWk9ZR0pTZ1k0VnpLRTcyUTN0UXNxUFd1WGpyVnA?oc=5",
+        "published": "1 May 2026, 02:52 PM",
+        "iso_date": "2026-05-01T14:52:19+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "Bahrain king orders more citizenship revocations over ‘support’ for Iran attacks",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElINTE5cVhoNDhob3JmTXczOXR0SGk4ZzM2ckloRmRNTFFNbnpHVlhleUdoSnZ5eWt0VnY3ODF3ZXJnUlEycnZFV2ttY1RYUml0cE5aRXVIQXA4X3FqMkZKbEZrWGNDVjdIOTdob05SZ0ZDb3lsQmt3TmRBNThPSXpPaFhPdkxlR1phclNmV010aFdpV3ZadExSUVcwdVNuNHVDWk9ZR0pTZ1k0VnpLRTcyUTN0UXNxUFd1WGpyVnA?oc=5",
-        "published": "1 May 2026, 02:52 PM",
-        "iso_date": "2026-05-01T14:52:19+00:00",
+        "title": "Bahrain King Demands End to Iranian Interference in Gulf States",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNUZ0dEJvcWlYbklqSU9GRDlzZnp0MUJDNmtlN2ctU0JfTFlSN1pDLXJRazcxZUp2aGl6VW41eHlkOG15c3JLZEI4cTVJSnNsOTRxVlZhTHh6YmMwVjl5Wm1neEIwbGl3Tk5MYmtLbmVJNHZEcEZvbm4xX3pVZllrVTNTcldPd2RuYkRhOFhLX25UUVRKWmxEa2lGYng0a3dfNHJpRDB0bnBoQQ?oc=5",
+        "published": "2 May 2026, 12:02 PM",
+        "iso_date": "2026-05-02T12:02:23+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "US, Bahrain address Hormuz crisis and bilateral ties in phone call",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXZUeTg2QzZ0akxkakpQUmxRSEZlcFVHVHdDNEdSUHRHQV9oWlB3WmlpNDQycEdQVkJBSm5STVpfSnpCWjhBbHZ3LWRaMnB0WGZVaEwxd0JaQmcyNS1oblJ4bTlXYXBneTNxX0M0SUxRTDRXNXE4NkNQOWVWUzNWejdTLU5fM0RQZ1U4Q0g0WUkwQXFaQl9V?oc=5",
+        "published": "2 May 2026, 11:07 AM",
+        "iso_date": "2026-05-02T11:07:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,52 +216,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "US approves military sales of over $8.6 billion to Middle East allies",
-        "link": "https://www.newsofbahrain.com/world/131914.html",
+        "title": "Apple earnings beat forecasts on iPhone 17 demand",
+        "link": "https://www.newsofbahrain.com/business/131925.html",
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_L4Y2SAl1Bb_2026-05-02_1777721933resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Nepal temple celebrates return of stolen Buddha statue",
-        "link": "https://www.newsofbahrain.com/world/131913.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FSNk4l9tCW_2026-05-02_1777721319resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Fashion brand Superdry co-founder convicted of rape",
-        "link": "https://www.newsofbahrain.com/world/131912.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RAJpSz42XL_2026-05-02_1777721038resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Tanzania shuts camp housing thousands of Burundi refugees",
-        "link": "https://www.newsofbahrain.com/world/131911.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_xbCTQy7BRe_2026-05-02_1777718539resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ouK6fxLOHj_2026-05-02_1777724021resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "India raises cooking gas, jet fuel prices",
-        "link": "https://www.newsofbahrain.com/world/131910.html",
+        "link": "https://www.newsofbahrain.com/business/131924.html",
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_SkP8LMTfqj_2026-05-02_1777718263resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_n0abwDRypX_2026-05-02_1777723941resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UK exports to US slump as tariffs bite: official data",
+        "link": "https://www.newsofbahrain.com/business/131923.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mQMi50Igys_2026-05-02_1777723825resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Fed official says rate hikes may be needed if inflation surges",
+        "link": "https://www.newsofbahrain.com/business/131922.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uoG7Rj9inE_2026-05-02_1777723664resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pentagon signs classified AI deals with tech giants, snubs Anthropic",
+        "link": "https://www.newsofbahrain.com/business/131921.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mcVioQpOgK_2026-05-02_1777723528resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -306,42 +316,42 @@
         "category": "Latest"
       },
       {
-        "title": "Oil strikes 4-year peak, stocks rise",
-        "link": "https://www.newsofbahrain.com/business/131824.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "Saudi Arabia sets minimum age for Haj pilgrims at 15 years",
+        "link": "https://www.newsofbahrain.com/world/131918.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2qpRDk7PhL_2026-05-01_1777627953thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IgwXkm9Vyb_2026-05-02_1777722975thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Workforce key to growth and resilience, says Bapco Energies CEO",
-        "link": "https://www.newsofbahrain.com/business/131823.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "UAE Azerbaijan Defence",
+        "link": "https://www.newsofbahrain.com/world/131916.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IoGEUfw4yS_2026-05-01_1777627762thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_U52i6MgLSP_2026-05-02_1777722637thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Women outpace men in banking access in Bahrain",
-        "link": "https://www.newsofbahrain.com/business/131822.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "Qatar Presents Credentials",
+        "link": "https://www.newsofbahrain.com/world/131915.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7esbgBIM3n_2026-05-01_1777627273thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mzjoPvdnJw_2026-05-02_1777722517thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "EU to ease merger rules in bid to take on US, Chinese rivals",
-        "link": "https://www.newsofbahrain.com/business/131821.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "US approves military sales of over $8.6 billion to Middle East allies",
+        "link": "https://www.newsofbahrain.com/world/131914.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fTCd7JRr30_2026-05-01_1777627005thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_L4Y2SAl1Bb_2026-05-02_1777721933thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 11:46:19 UTC"
+  "fetched_at": "2026-05-02 12:20:15 UTC"
 }
