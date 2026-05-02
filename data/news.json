@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 17
+      "count": 16
     }
   },
   "articles": {
@@ -56,16 +56,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXZUeTg2QzZ0akxkakpQUmxRSEZlcFVHVHdDNEdSUHRHQV9oWlB3WmlpNDQycEdQVkJBSm5STVpfSnpCWjhBbHZ3LWRaMnB0WGZVaEwxd0JaQmcyNS1oblJ4bTlXYXBneTNxX0M0SUxRTDRXNXE4NkNQOWVWUzNWejdTLU5fM0RQZ1U4Q0g0WUkwQXFaQl9V?oc=5",
         "published": "2 May 2026, 11:07 AM",
         "iso_date": "2026-05-02T11:07:25+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain revokes citizenship of 69 people over Iranian-linked security violations",
-        "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQcFJqVGMza28wTVB2OHRwSExPX1lvTzUtUWlWdHNkcUxnLWJ0UXFEd0QzVFN3ZGREWFpoQlQzeXVOWWhXSVFPOGNOdk9mU1pjRlBqM3FGS3F5cTRwU1IwSVNTTXlLbmc2UEl4UEhNbkZNNnRaOG8yQ0owWWtpelEwUXdqN3hqOGdoenhrbDZodUY5LTNZeFd3NlZQVE55S1VBcW9xOG1MUW1yalpILWplYVMyZWJ3UzhFNkNGZkVIMm5fRDhqRDBIN1BNbXh1ZW92UDVIRTJMeDZtd0xCSXBISEQ0V0dvdlpXWGE4aDhMZl9RNy13ZmlyUUU5RXZlZkFyV3ZJSE9TY3c0bldONm5VaHZWWDNyN0lOVnFSd1ZxMXB6aXVFbmhyZWM0NnR0VW9lNk5OeE1YZnNvUDczNllTS3F3YTdFQWhlNmpDZGw3NUJwczFaZkdCbk1DZlg1b3FrS1hF?oc=5",
-        "published": "1 May 2026, 02:06 PM",
-        "iso_date": "2026-05-01T14:06:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,10 +216,30 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Bahrain Finish Strong at Arab Youth Meet",
-        "link": "https://www.newsofbahrain.com/sports/131944.html",
+        "title": "Korean Air bans roosters on US-Philippine routes amid cockfighting outcry",
+        "link": "https://www.newsofbahrain.com/world/131946.html",
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cFnHIk5ZqP_2026-05-02_1777729276resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Japan PM vows to play 'proactive role' ensuring 'free and open' Asia-Pacific",
+        "link": "https://www.newsofbahrain.com/world/131945.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x5wUJrsTHP_2026-05-02_1777728920resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Finish Strong at Arab Youth Meet",
+        "link": "https://www.newsofbahrain.com/sports/131944.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_IfxZdtCPvL_2026-05-02_1777727452resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,8 +248,8 @@
       {
         "title": "Gulf Champions Look to Defend Their Crown",
         "link": "https://www.newsofbahrain.com/sports/131943.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJxuwFWh6j_2026-05-02_1777727274resized_pic.jpg",
         "source": "newsofbahrain",
@@ -248,30 +258,10 @@
       {
         "title": "Arsenal must manage emotions of title race says Arteta",
         "link": "https://www.newsofbahrain.com/sports/131942.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O2pW9Fz4Qr_2026-05-02_1777727205resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Türkiye releases arrested May 1 protesters",
-        "link": "https://www.newsofbahrain.com/world/131941.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5vr1Ig3azR_2026-05-02_1777727046resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Flick happy Raphinha back for Barca with title in sight",
-        "link": "https://www.newsofbahrain.com/sports/131940.html",
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_s9jNrk5LKy_2026-05-02_1777726919resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O2pW9Fz4Qr_2026-05-02_1777727205resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -326,32 +316,22 @@
         "category": "Latest"
       },
       {
+        "title": "Türkiye releases arrested May 1 protesters",
+        "link": "https://www.newsofbahrain.com/world/131941.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5vr1Ig3azR_2026-05-02_1777727046thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Ex-F1 driver turned Paralympic champion Zanardi dies",
         "link": "https://www.newsofbahrain.com/world/131937.html",
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_qxo5dWU4Qw_2026-05-02_1777726272thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Iran senior military official says renewed conflict with US 'likely'",
-        "link": "https://www.newsofbahrain.com/world/131934.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cKvbmPwQLE_2026-05-02_1777725752thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Jailed Iranian Nobel Peace Prize Winner Nargess Mohammadi Hospitalised in Critical Condition",
-        "link": "https://www.newsofbahrain.com/world/131930.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5Nsl7LmYwb_2026-05-02_1777725032thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -509,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 13:31:38 UTC"
+  "fetched_at": "2026-05-02 14:20:43 UTC"
 }
