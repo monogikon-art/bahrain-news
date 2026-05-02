@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 15
     }
   },
   "articles": {
@@ -216,6 +216,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "US appeals court temporarily halts mail delivery of abortion pill",
+        "link": "https://www.newsofbahrain.com/world/131873.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_BK1ObLe5ar_2026-05-02_1777708786resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US sanctions are 'collective punishment,' says Cuba during May 1 marches",
+        "link": "https://www.newsofbahrain.com/world/131872.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NwjhqQVFRB_2026-05-02_1777708315resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Epstein Suicide Note Kept Sealed for Years, Report Reveals",
+        "link": "https://www.newsofbahrain.com/world/131871.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6Qpy21oZ8b_2026-05-02_1777707590resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE - India airfares set to rise further as jet fuel crisis deepens",
+        "link": "https://www.newsofbahrain.com/world/131870.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2OMjH7ikeC_2026-05-02_1777707188resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Lufthansa Apologizes and Recovers Lost Oscar Statuette",
         "link": "https://www.newsofbahrain.com/world/131869.html",
         "published": "2 May 2026, 09:22 AM",
@@ -231,27 +271,17 @@
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vdeJlLWIQZ_2026-05-02_1777706875resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Orders Withdrawal of 5,000 Troops from Germany Amid Iran War Rift",
-        "link": "https://www.newsofbahrain.com/world/131867.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5Kr7g8U4wl_2026-05-02_1777706687resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vdeJlLWIQZ_2026-05-02_1777706875thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Iran Maritime Threat Condemned",
         "link": "https://www.newsofbahrain.com/bahrain/131866.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oz9iYcrLK1_2026-05-02_1777706669resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oz9iYcrLK1_2026-05-02_1777706669thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -261,7 +291,7 @@
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kit8QbDcMU_2026-05-02_1777706068resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kit8QbDcMU_2026-05-02_1777706068thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -282,26 +312,6 @@
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_baB4orAw1D_2026-05-02_1777705863thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bolivian Judge Killed in Suspected Drug-Linked Hit",
-        "link": "https://www.newsofbahrain.com/world/131862.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2UlYXTAkp4_2026-05-02_1777705743thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Gerry Conway, creator of characters in Spider-Man, DC comics, dies at 73",
-        "link": "https://www.newsofbahrain.com/world/131860.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7pRK0PViDT_2026-05-02_1777705326thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 07:33:48 UTC"
+  "fetched_at": "2026-05-02 08:32:33 UTC"
 }
