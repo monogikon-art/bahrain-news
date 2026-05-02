@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 4
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 16
+      "count": 15
     }
   },
   "articles": {
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMm5SVUllUl82aDFHYlRVblhMTENBRm5wOHNXcWxBUUh0SEM0TmJrNDFsbTdWNk1oSGJiaGQ0QjdtWEFGdUZtVVJHQkpyaXVoLXVfajNPenp0OXJ6bWhMM2lteHc3MC1qZEpOVlBRZ3VTeXlTTldUdS1aODhGWllkR2IxeWlPSDdzMGNjQVIxc1piOW1YODllYmZhZDY4UGpPWEZTc2J2UElndGFGTm9xeU1PUHFUSW4tZUVDaDljQUNzTWNsNHdpX2RzR3RXZkJSajZOaURnclpmeDZzRkU3UkpzTm9UbmhWek15VGxIcWpLTFNuSVN0SDhwMA?oc=5",
         "published": "1 May 2026, 06:50 PM",
         "iso_date": "2026-05-01T18:50:25+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Afghan shelling leaves 9 martyred in Bajaur",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkVPQVF5V3lGOHlkTXI3SnU4bmpPa2RiVXNZbTlabTctYzhaTEtmdm41QldFeDBRS3ZFa1h2QUdHdmtxM3p4eS1ITWNzOVA1S3hlcUs5Y2F5QkhlMUlzX0RKWHNPTEtpZjV2VDljbmk4VVgtQ2JvWVQzWXBELUVOSEF5emVrR0pDR0R4Y29qU1dRZUhwWFc0?oc=5",
-        "published": "1 May 2026, 06:00 PM",
-        "iso_date": "2026-05-01T18:00:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,6 +196,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "MPs Seek To Expel Three Colleagues Over Judiciary Law Debate",
+        "link": "https://www.newsofbahrain.com/bahrain/131947.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_35XyvVcpHm_2026-05-02_1777742980resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Korean Air bans roosters on US-Philippine routes amid cockfighting outcry",
         "link": "https://www.newsofbahrain.com/world/131946.html",
         "published": "2 May 2026, 09:22 AM",
@@ -218,8 +218,8 @@
       {
         "title": "Japan PM vows to play 'proactive role' ensuring 'free and open' Asia-Pacific",
         "link": "https://www.newsofbahrain.com/world/131945.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_x5wUJrsTHP_2026-05-02_1777728920resized_pic.jpg",
         "source": "newsofbahrain",
@@ -238,20 +238,10 @@
       {
         "title": "Gulf Champions Look to Defend Their Crown",
         "link": "https://www.newsofbahrain.com/sports/131943.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJxuwFWh6j_2026-05-02_1777727274resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Arsenal must manage emotions of title race says Arteta",
-        "link": "https://www.newsofbahrain.com/sports/131942.html",
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_O2pW9Fz4Qr_2026-05-02_1777727205resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJxuwFWh6j_2026-05-02_1777727274resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -292,16 +282,6 @@
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_9zXuVTtfgL_2026-05-02_1777715213thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Hawar Highway Set for Two-Lane Upgrade",
-        "link": "https://www.newsofbahrain.com/bahrain/131896.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mxvVKUjf8M_2026-05-02_1777715130thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -479,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 17:17:59 UTC"
+  "fetched_at": "2026-05-02 17:46:01 UTC"
 }
