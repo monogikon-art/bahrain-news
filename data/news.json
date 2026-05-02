@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -21,16 +21,6 @@
   },
   "articles": {
     "bna": [
-      {
-        "title": "Bahrain king orders more citizenship revocations over ‘support’ for Iran attacks",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElINTE5cVhoNDhob3JmTXczOXR0SGk4ZzM2ckloRmRNTFFNbnpHVlhleUdoSnZ5eWt0VnY3ODF3ZXJnUlEycnZFV2ttY1RYUml0cE5aRXVIQXA4X3FqMkZKbEZrWGNDVjdIOTdob05SZ0ZDb3lsQmt3TmRBNThPSXpPaFhPdkxlR1phclNmV010aFdpV3ZadExSUVcwdVNuNHVDWk9ZR0pTZ1k0VnpLRTcyUTN0UXNxUFd1WGpyVnA?oc=5",
-        "published": "1 May 2026, 02:52 PM",
-        "iso_date": "2026-05-01T14:52:19+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
       {
         "title": "Bahrain King Demands End to Iranian Interference in Gulf States",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNUZ0dEJvcWlYbklqSU9GRDlzZnp0MUJDNmtlN2ctU0JfTFlSN1pDLXJRazcxZUp2aGl6VW41eHlkOG15c3JLZEI4cTVJSnNsOTRxVlZhTHh6YmMwVjl5Wm1neEIwbGl3Tk5MYmtLbmVJNHZEcEZvbm4xX3pVZllrVTNTcldPd2RuYkRhOFhLX25UUVRKWmxEa2lGYng0a3dfNHJpRDB0bnBoQQ?oc=5",
@@ -62,20 +52,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain expresses its categorical rejection of recent statements issued by Iran Foreign Ministry spokesperson",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPal95OEdGTVVvaHVsai0xQUI5dHF3d0RRVUhMbDhnR1J3d3NQSU0zNWlCMnduZndTN2w2cTdzMW5POUhQUUtaU1hUajRHbV83OGN4Qko3NmxvRlZ0ZEtJNU9zSG1GOTBWeF9mbTR1cFdDcnRJeE02NWJBcjJJWGVhenNRNDdCUWg4b3FKYS1DbkRwd2JfMVlzU01PcTY1dlplZ2YzZGNEU1B5a1piby1qUy1kTW8zU01yTUFZUFpBRkVXZEdWOHQzenBhNERya2NVQm13QlpoV3J3N3Qwek45aFNxTWthSHlDTWE4?oc=5",
-        "published": "1 May 2026, 05:19 PM",
-        "iso_date": "2026-05-01T17:19:00+00:00",
+        "title": "King of Bahrain: We reject Iranian interference and are committed to national unity and protecting national security",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMm5SVUllUl82aDFHYlRVblhMTENBRm5wOHNXcWxBUUh0SEM0TmJrNDFsbTdWNk1oSGJiaGQ0QjdtWEFGdUZtVVJHQkpyaXVoLXVfajNPenp0OXJ6bWhMM2lteHc3MC1qZEpOVlBRZ3VTeXlTTldUdS1aODhGWllkR2IxeWlPSDdzMGNjQVIxc1piOW1YODllYmZhZDY4UGpPWEZTc2J2UElndGFGTm9xeU1PUHFUSW4tZUVDaDljQUNzTWNsNHdpX2RzR3RXZkJSajZOaURnclpmeDZzRkU3UkpzTm9UbmhWek15VGxIcWpLTFNuSVN0SDhwMA?oc=5",
+        "published": "1 May 2026, 06:50 PM",
+        "iso_date": "2026-05-01T18:50:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
         "category": "Latest"
       },
       {
-        "title": "King Of Bahrain Condemns Iranian Attacks, Calls For Unity",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEw2N0VXT2kxR21MVHJ2VEt1WGMySkk4RDdjeFNfTEYzX3cwVi12bXh2ZTBtQzRCZklfc3Vwdnd6SjBzeWYtc1FfWEVpakN1eVpDdHQwZVdYdEgzaUVpNnNjNjVQNHZLcmRTSFVMRzh6dlQ1Yk9WR190LWMybkJrQ0N0dnE4dFFhZVBzMk03VUUtRGlhQVFzNUtiX1JtSFk?oc=5",
-        "published": "1 May 2026, 03:00 PM",
-        "iso_date": "2026-05-01T15:00:10+00:00",
+        "title": "Bahrain Expresses Its Categorical Rejection Of Recent Statements Issued By Iran Foreign Ministry Spokesperson",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUljZGxCS05rMzlvWkw2dThqZ0p0S2wxc1BObXB4Z2JqNDRvaDVWa3phcUZieU9IQk1rU1V4amdiZEZZVWYzQlVFZ0J2QXZ3N1BEYVh0LVpyNVlsTHNMbUZGMEgyQUtnbDBoYzJGWWQwejVHNU5YUmpwRGdiTnk1YVYzRFREMHlmeFN3R3BoVUU3bnFub2UxS1N0STkyaXhu?oc=5",
+        "published": "1 May 2026, 06:30 PM",
+        "iso_date": "2026-05-01T18:30:05+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -489,5 +479,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 14:46:28 UTC"
+  "fetched_at": "2026-05-02 15:17:04 UTC"
 }
