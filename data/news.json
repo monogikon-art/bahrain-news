@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElINTE5cVhoNDhob3JmTXczOXR0SGk4ZzM2ckloRmRNTFFNbnpHVlhleUdoSnZ5eWt0VnY3ODF3ZXJnUlEycnZFV2ttY1RYUml0cE5aRXVIQXA4X3FqMkZKbEZrWGNDVjdIOTdob05SZ0ZDb3lsQmt3TmRBNThPSXpPaFhPdkxlR1phclNmV010aFdpV3ZadExSUVcwdVNuNHVDWk9ZR0pTZ1k0VnpLRTcyUTN0UXNxUFd1WGpyVnA?oc=5",
         "published": "1 May 2026, 02:52 PM",
         "iso_date": "2026-05-01T14:52:19+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "King of Bahrain condemns Iranian attacks, calls for unity",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeExGcW5wSkI5RHk2QVF1YXBJLVZvVWg1MlF6NzdqZFdrV2hLbHZRUzNqTTY3Rl8tTzlPYVFKeDBpd1RpNHFRWDlnVW4tUUhLS0ZqY0dpTXBCeHE1VFVCVVJRVjA5bTlZY3Z1dm1Oc1RmYXJ3TkRvX3k1YXNFYUZEZzJuOFhNeU1ia3l6VmNMTFpCQndsajZla1ZMdFp1ZHpCZ2hYU2w3UE4?oc=5",
-        "published": "1 May 2026, 05:12 PM",
-        "iso_date": "2026-05-01T17:12:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -216,10 +206,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Tanzania shuts camp housing thousands of Burundi refugees",
-        "link": "https://www.newsofbahrain.com/world/131911.html",
+        "title": "US approves military sales of over $8.6 billion to Middle East allies",
+        "link": "https://www.newsofbahrain.com/world/131914.html",
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_L4Y2SAl1Bb_2026-05-02_1777721933resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Nepal temple celebrates return of stolen Buddha statue",
+        "link": "https://www.newsofbahrain.com/world/131913.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_FSNk4l9tCW_2026-05-02_1777721319resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Fashion brand Superdry co-founder convicted of rape",
+        "link": "https://www.newsofbahrain.com/world/131912.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_RAJpSz42XL_2026-05-02_1777721038resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Tanzania shuts camp housing thousands of Burundi refugees",
+        "link": "https://www.newsofbahrain.com/world/131911.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_xbCTQy7BRe_2026-05-02_1777718539resized_pic.jpg",
         "source": "newsofbahrain",
@@ -232,36 +252,6 @@
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_SkP8LMTfqj_2026-05-02_1777718263resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ships in North Atlantic to cut sulphur emissions: IMO",
-        "link": "https://www.newsofbahrain.com/world/131909.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_VPz29gXmQF_2026-05-02_1777718058resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "14 Iranian Soldiers Killed in Demining Operation",
-        "link": "https://www.newsofbahrain.com/world/131908.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_38C6YBLNyz_2026-05-02_1777717609resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Middle East war's impact on shipping hitting refugee aid: UNCHR",
-        "link": "https://www.newsofbahrain.com/world/131907.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_a3krZ27Hei_2026-05-02_1777716436resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 11:17:39 UTC"
+  "fetched_at": "2026-05-02 11:46:19 UTC"
 }
