@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 6
+      "count": 5
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElINTE5cVhoNDhob3JmTXczOXR0SGk4ZzM2ckloRmRNTFFNbnpHVlhleUdoSnZ5eWt0VnY3ODF3ZXJnUlEycnZFV2ttY1RYUml0cE5aRXVIQXA4X3FqMkZKbEZrWGNDVjdIOTdob05SZ0ZDb3lsQmt3TmRBNThPSXpPaFhPdkxlR1phclNmV010aFdpV3ZadExSUVcwdVNuNHVDWk9ZR0pTZ1k0VnpLRTcyUTN0UXNxUFd1WGpyVnA?oc=5",
         "published": "1 May 2026, 02:52 PM",
         "iso_date": "2026-05-01T14:52:19+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "King of Bahrain: We reject Iranian interference and are committed to national unity and protecting national security",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMm5SVUllUl82aDFHYlRVblhMTENBRm5wOHNXcWxBUUh0SEM0TmJrNDFsbTdWNk1oSGJiaGQ0QjdtWEFGdUZtVVJHQkpyaXVoLXVfajNPenp0OXJ6bWhMM2lteHc3MC1qZEpOVlBRZ3VTeXlTTldUdS1aODhGWllkR2IxeWlPSDdzMGNjQVIxc1piOW1YODllYmZhZDY4UGpPWEZTc2J2UElndGFGTm9xeU1PUHFUSW4tZUVDaDljQUNzTWNsNHdpX2RzR3RXZkJSajZOaURnclpmeDZzRkU3UkpzTm9UbmhWek15VGxIcWpLTFNuSVN0SDhwMA?oc=5",
-        "published": "1 May 2026, 06:50 PM",
-        "iso_date": "2026-05-01T18:50:25+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -469,5 +459,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 05:49:17 UTC"
+  "fetched_at": "2026-05-02 06:40:54 UTC"
 }
