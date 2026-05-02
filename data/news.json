@@ -44,6 +44,16 @@
     ],
     "gdn": [
       {
+        "title": "Call to revoke membership of three MPs",
+        "link": "https://www.gdnonline.com/Details/1393436/Call-to-revoke-membership-of-three-MPs",
+        "published": "2 May 2026",
+        "iso_date": "2026-05-02T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260502/20260502213640blurmiddle(7)_T.jpg?20260502",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Ambitious five-year road projects set to ease traffic",
         "link": "https://www.gdnonline.com/Details/1393368/Ambitious-five-year-road-projects-set-to-ease-traffic-",
         "published": "2 May 2026",
@@ -80,16 +90,6 @@
         "iso_date": "2026-05-02T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260502/20260501_223324_0_T.jpg?20260502",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Decree-law seeks to regulate public fundraising",
-        "link": "https://www.gdnonline.com/Details/1393371/Decree-law-seeks-to-regulate-public-fundraising",
-        "published": "2 May 2026",
-        "iso_date": "2026-05-02T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501225349rumaihi_T.jpg?20260502",
         "source": "gdn",
         "category": "Latest"
       },
@@ -439,5 +439,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 19:23:42 UTC"
+  "fetched_at": "2026-05-02 19:48:01 UTC"
 }
