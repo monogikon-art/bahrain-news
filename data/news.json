@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -22,16 +22,6 @@
   "articles": {
     "bna": [
       {
-        "title": "Bahrain's King Hamad tells Iran to stop interfering in Gulf States' affairs",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXIwdWR3U3dUUGR4Q2Y5NUJQMHBxcVdZU052cGE0a3hOSlpienVPR0g1OXdrbENiMDNxSmQ2TWJZMXBZV2JyMlg3U1JuZGNBMzdTRS1sREM?oc=5",
-        "published": "1 May 2026, 11:57 AM",
-        "iso_date": "2026-05-01T11:57:34+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
         "title": "Bahrain king orders more citizenship revocations over ‘support’ for Iran attacks",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElINTE5cVhoNDhob3JmTXczOXR0SGk4ZzM2ckloRmRNTFFNbnpHVlhleUdoSnZ5eWt0VnY3ODF3ZXJnUlEycnZFV2ttY1RYUml0cE5aRXVIQXA4X3FqMkZKbEZrWGNDVjdIOTdob05SZ0ZDb3lsQmt3TmRBNThPSXpPaFhPdkxlR1phclNmV010aFdpV3ZadExSUVcwdVNuNHVDWk9ZR0pTZ1k0VnpLRTcyUTN0UXNxUFd1WGpyVnA?oc=5",
         "published": "1 May 2026, 02:52 PM",
@@ -42,10 +32,30 @@
         "category": "Latest"
       },
       {
+        "title": "King of Bahrain condemns Iranian attacks, calls for unity",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeExGcW5wSkI5RHk2QVF1YXBJLVZvVWg1MlF6NzdqZFdrV2hLbHZRUzNqTTY3Rl8tTzlPYVFKeDBpd1RpNHFRWDlnVW4tUUhLS0ZqY0dpTXBCeHE1VFVCVVJRVjA5bTlZY3Z1dm1Oc1RmYXJ3TkRvX3k1YXNFYUZEZzJuOFhNeU1ia3l6VmNMTFpCQndsajZla1ZMdFp1ZHpCZ2hYU2w3UE4?oc=5",
+        "published": "1 May 2026, 05:12 PM",
+        "iso_date": "2026-05-01T17:12:52+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
         "title": "Bahrain’s King Hamad tells Iran to ‘cease interfering in Gulf’s internal affairs’",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjJkS2FSTDMtWEcwQWNsdHdaU0hWdFM4WHNMeVRUa29QYUg0TC00aFVjSjVfM3ZnU1BNWGJZT21xUGhlMDFRay1fSE9SMUIySjNsbXZLY2RPT3dLZWlUTXE0aGRQWHRvSGxnZS1TZUU1ck5qb1JsUDNQWjNtWVpsQkh3ZVNPYTFBUFlIVWJ6UVdvWXUzSmc5RTJOY3dGakhGN0FvalpFeUJUNnRwcVRxUUF1N2tIaTNPQk1hb3Z4R0p6T3VMWTVCOUdudw?oc=5",
         "published": "1 May 2026, 10:29 AM",
         "iso_date": "2026-05-01T10:29:59+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain revokes citizenship of 69 people over Iranian-linked security violations",
+        "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQcFJqVGMza28wTVB2OHRwSExPX1lvTzUtUWlWdHNkcUxnLWJ0UXFEd0QzVFN3ZGREWFpoQlQzeXVOWWhXSVFPOGNOdk9mU1pjRlBqM3FGS3F5cTRwU1IwSVNTTXlLbmc2UEl4UEhNbkZNNnRaOG8yQ0owWWtpelEwUXdqN3hqOGdoenhrbDZodUY5LTNZeFd3NlZQVE55S1VBcW9xOG1MUW1yalpILWplYVMyZWJ3UzhFNkNGZkVIMm5fRDhqRDBIN1BNbXh1ZW92UDVIRTJMeDZtd0xCSXBISEQ0V0dvdlpXWGE4aDhMZl9RNy13ZmlyUUU5RXZlZkFyV3ZJSE9TY3c0bldONm5VaHZWWDNyN0lOVnFSd1ZxMXB6aXVFbmhyZWM0NnR0VW9lNk5OeE1YZnNvUDczNllTS3F3YTdFQWhlNmpDZGw3NUJwczFaZkdCbk1DZlg1b3FrS1hF?oc=5",
+        "published": "1 May 2026, 02:06 PM",
+        "iso_date": "2026-05-01T14:06:47+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -206,92 +216,92 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Strategic Cooperation Between Bahrain Jordan Deepens",
-        "link": "https://www.newsofbahrain.com/bahrain/131851.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "Lufthansa Apologizes and Recovers Lost Oscar Statuette",
+        "link": "https://www.newsofbahrain.com/world/131869.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IVa5W7pFv0_2026-05-01_1777655659resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cqY97IGKDP_2026-05-02_1777706883resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Myanmar moves Aung San Suu Kyi to house arrest",
-        "link": "https://www.newsofbahrain.com/world/131850.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "Public urged to separate savings from instant transfer apps",
+        "link": "https://www.newsofbahrain.com/bahrain/131868.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8pN3wMvkVb_2026-05-01_1777644703resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_vdeJlLWIQZ_2026-05-02_1777706875resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Teen with 30 tortoises under clothes nabbed at Thai airport",
-        "link": "https://www.newsofbahrain.com/world/131849.html",
-        "published": "1 May 2026, 09:00 AM",
-        "iso_date": "2026-05-01T09:00:43+00:00",
+        "title": "US Orders Withdrawal of 5,000 Troops from Germany Amid Iran War Rift",
+        "link": "https://www.newsofbahrain.com/world/131867.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6SoZA8nGMi_2026-05-01_1777642502resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5Kr7g8U4wl_2026-05-02_1777706687resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Kanpai! Space-brewed sake sells for $700,000",
-        "link": "https://www.newsofbahrain.com/world/131848.html",
-        "published": "1 May 2026, 09:00 AM",
-        "iso_date": "2026-05-01T09:00:43+00:00",
+        "title": "Iran Maritime Threat Condemned",
+        "link": "https://www.newsofbahrain.com/bahrain/131866.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IyNrmAjFYU_2026-05-01_1777642396resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oz9iYcrLK1_2026-05-02_1777706669resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "India exit polls suggest ruling party gains in state elections",
-        "link": "https://www.newsofbahrain.com/world/131846.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "Fugitive Extradited to Bahrain",
+        "link": "https://www.newsofbahrain.com/bahrain/131865.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UMsoDFHWJg_2026-05-01_1777642048resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kit8QbDcMU_2026-05-02_1777706068resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Salary-only rule for housing applications",
-        "link": "https://www.newsofbahrain.com/bahrain/131818.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "Bahrain slams Iranian statements as breach of sovereignty",
+        "link": "https://www.newsofbahrain.com/bahrain/131864.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WOwx5dC74i_2026-05-01_1777624222thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ybulwVXG4k_2026-05-02_1777705997thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "MPs Seek Tamkeen Aid for Left-Out Bahraini Staff",
-        "link": "https://www.newsofbahrain.com/bahrain/131817.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "Security, sovereignty a firm red line",
+        "link": "https://www.newsofbahrain.com/bahrain/131863.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_1lHwe5rxLF_2026-05-01_1777624088thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_baB4orAw1D_2026-05-02_1777705863thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Courts Set Fixed Timings",
-        "link": "https://www.newsofbahrain.com/bahrain/131816.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "Bolivian Judge Killed in Suspected Drug-Linked Hit",
+        "link": "https://www.newsofbahrain.com/world/131862.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rOjB4oiHP6_2026-05-01_1777623566thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2UlYXTAkp4_2026-05-02_1777705743thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "BIS Hosts Grand Investiture Ceremony",
-        "link": "https://www.newsofbahrain.com/bahrain/131815.html",
-        "published": "1 May 2026, 09:22 AM",
-        "iso_date": "2026-05-01T09:22:55+00:00",
+        "title": "Gerry Conway, creator of characters in Spider-Man, DC comics, dies at 73",
+        "link": "https://www.newsofbahrain.com/world/131860.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_49TgeV76Ik_2026-05-01_1777623289thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7pRK0PViDT_2026-05-02_1777705326thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -459,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 06:40:54 UTC"
+  "fetched_at": "2026-05-02 07:33:48 UTC"
 }
