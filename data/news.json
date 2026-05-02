@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 15
+      "count": 13
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -180,26 +180,6 @@
         "iso_date": "2026-05-01T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260501/20260501004419ascsacsacss_T.jpg?20260502",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Standard Chartered forecasts GCC resilience amid âuneasyâ global truce",
-        "link": "https://www.gdnonline.com/Details/1393184/Standard-Chartered-forecasts-GCC-resilience-amid-âuneasyâ-global-truce",
-        "published": "30 Apr 2026",
-        "iso_date": "2026-04-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260430023106stanchart_T.jpg?20260502",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrainâs trade relations with US highlighted",
-        "link": "https://www.gdnonline.com/Details/1393186/Bahrainâs-trade-relations-with-US-highlighted",
-        "published": "30 Apr 2026",
-        "iso_date": "2026-04-30T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260430/20260429_225738_0_T.jpg?20260502",
         "source": "gdn",
         "category": "Latest"
       },
@@ -509,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-01 23:47:24 UTC"
+  "fetched_at": "2026-05-02 00:36:54 UTC"
 }
