@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 5
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -62,10 +62,20 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain Expresses Its Categorical Rejection Of Recent Statements Issued By Iran Foreign Ministry Spokesperson",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUljZGxCS05rMzlvWkw2dThqZ0p0S2wxc1BObXB4Z2JqNDRvaDVWa3phcUZieU9IQk1rU1V4amdiZEZZVWYzQlVFZ0J2QXZ3N1BEYVh0LVpyNVlsTHNMbUZGMEgyQUtnbDBoYzJGWWQwejVHNU5YUmpwRGdiTnk1YVYzRFREMHlmeFN3R3BoVUU3bnFub2UxS1N0STkyaXhu?oc=5",
-        "published": "1 May 2026, 06:30 PM",
-        "iso_date": "2026-05-01T18:30:05+00:00",
+        "title": "Bahrain rejects recent Iranian Foreign Ministery statements",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WamhzNGk2czNKYWYyZGlwTGpTS1JuLU5xaFlSTEVNWE8zWEhXSkxZVlpyWkFkcWo0TFpMVF9VVkY5M0RDTWs1c2N6cnFCd2t2ZlVMVmM5LXpIOU5sRGc?oc=5",
+        "published": "1 May 2026, 06:44 PM",
+        "iso_date": "2026-05-01T18:44:18+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Afghan shelling leaves 9 martyred in Bajaur",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkVPQVF5V3lGOHlkTXI3SnU4bmpPa2RiVXNZbTlabTctYzhaTEtmdm41QldFeDBRS3ZFa1h2QUdHdmtxM3p4eS1ITWNzOVA1S3hlcUs5Y2F5QkhlMUlzX0RKWHNPTEtpZjV2VDljbmk4VVgtQ2JvWVQzWXBELUVOSEF5emVrR0pDR0R4Y29qU1dRZUhwWFc0?oc=5",
+        "published": "1 May 2026, 06:00 PM",
+        "iso_date": "2026-05-01T18:00:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -479,5 +489,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 15:46:32 UTC"
+  "fetched_at": "2026-05-02 16:17:17 UTC"
 }
