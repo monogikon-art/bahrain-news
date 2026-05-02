@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 7
+      "count": 6
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeElINTE5cVhoNDhob3JmTXczOXR0SGk4ZzM2ckloRmRNTFFNbnpHVlhleUdoSnZ5eWt0VnY3ODF3ZXJnUlEycnZFV2ttY1RYUml0cE5aRXVIQXA4X3FqMkZKbEZrWGNDVjdIOTdob05SZ0ZDb3lsQmt3TmRBNThPSXpPaFhPdkxlR1phclNmV010aFdpV3ZadExSUVcwdVNuNHVDWk9ZR0pTZ1k0VnpLRTcyUTN0UXNxUFd1WGpyVnA?oc=5",
         "published": "1 May 2026, 02:52 PM",
         "iso_date": "2026-05-01T14:52:19+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "King of Bahrain condemns Iranian attacks, calls for unity",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeExGcW5wSkI5RHk2QVF1YXBJLVZvVWg1MlF6NzdqZFdrV2hLbHZRUzNqTTY3Rl8tTzlPYVFKeDBpd1RpNHFRWDlnVW4tUUhLS0ZqY0dpTXBCeHE1VFVCVVJRVjA5bTlZY3Z1dm1Oc1RmYXJ3TkRvX3k1YXNFYUZEZzJuOFhNeU1ia3l6VmNMTFpCQndsajZla1ZMdFp1ZHpCZ2hYU2w3UE4?oc=5",
-        "published": "1 May 2026, 05:12 PM",
-        "iso_date": "2026-05-01T17:12:52+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -226,12 +216,92 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Middle East war's impact on shipping hitting refugee aid: UNCHR",
+        "link": "https://www.newsofbahrain.com/world/131907.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_a3krZ27Hei_2026-05-02_1777716436resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Condemns Cyberattacks",
+        "link": "https://www.newsofbahrain.com/world/131906.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IxJydvbV30_2026-05-02_1777716295resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE Rejects Iran",
+        "link": "https://www.newsofbahrain.com/world/131905.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_NGrAiEXL7m_2026-05-02_1777716175resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Hormuz Trade Collapse",
+        "link": "https://www.newsofbahrain.com/world/131904.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_8rTx3p20Gf_2026-05-02_1777716101resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ex-US Congressman Convicted of Secretly Lobbying for Venezuela",
+        "link": "https://www.newsofbahrain.com/world/131903.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_HgrLK5pQvz_2026-05-02_1777716088resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Term Extension Boosts Work",
+        "link": "https://www.newsofbahrain.com/bahrain/131901.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_twQNhrWxaR_2026-05-02_1777715887thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Flyover Works Announced",
+        "link": "https://www.newsofbahrain.com/bahrain/131900.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4MFjB8sZq3_2026-05-02_1777715642thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Heritage Protection Expanded",
+        "link": "https://www.newsofbahrain.com/bahrain/131898.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_spz0fOYI9A_2026-05-02_1777715346thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "BD2.5m Road Works Boost",
         "link": "https://www.newsofbahrain.com/bahrain/131897.html",
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9zXuVTtfgL_2026-05-02_1777715213resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9zXuVTtfgL_2026-05-02_1777715213thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -241,77 +311,7 @@
         "published": "2 May 2026, 09:22 AM",
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mxvVKUjf8M_2026-05-02_1777715130resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "$100m Gas Deal Debate",
-        "link": "https://www.newsofbahrain.com/bahrain/131895.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_10E4DfqKtG_2026-05-02_1777714954resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Google deploys Gemini AI to millions of vehicle dashboards",
-        "link": "https://www.newsofbahrain.com/world/131894.html",
-        "published": "2 May 2026, 09:00 AM",
-        "iso_date": "2026-05-02T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EptS4uRfTI_2026-05-02_1777714829resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Sports Clubs Face Funding Cuts",
-        "link": "https://www.newsofbahrain.com/bahrain/131893.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_JysA5BYQZe_2026-05-02_1777714629resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Free-Flow Route Planned",
-        "link": "https://www.newsofbahrain.com/bahrain/131889.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_rYBQfhRvxN_2026-05-02_1777714365thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UN to assess Iranian attacks on Middle East telecoms",
-        "link": "https://www.newsofbahrain.com/world/131892.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ACiI3nKF0e_2026-05-02_1777714434thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pope Appoints Former Undocumented Migrant as US Bishop",
-        "link": "https://www.newsofbahrain.com/world/131885.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Y1iCtL2V6e_2026-05-02_1777713312thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Bolivia's largest union calls indefinite strike",
-        "link": "https://www.newsofbahrain.com/world/131883.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_kcDtG2W15x_2026-05-02_1777713013thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mxvVKUjf8M_2026-05-02_1777715130thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -469,5 +469,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 09:50:35 UTC"
+  "fetched_at": "2026-05-02 10:20:21 UTC"
 }
