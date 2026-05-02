@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 4
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -46,16 +46,6 @@
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMm5SVUllUl82aDFHYlRVblhMTENBRm5wOHNXcWxBUUh0SEM0TmJrNDFsbTdWNk1oSGJiaGQ0QjdtWEFGdUZtVVJHQkpyaXVoLXVfajNPenp0OXJ6bWhMM2lteHc3MC1qZEpOVlBRZ3VTeXlTTldUdS1aODhGWllkR2IxeWlPSDdzMGNjQVIxc1piOW1YODllYmZhZDY4UGpPWEZTc2J2UElndGFGTm9xeU1PUHFUSW4tZUVDaDljQUNzTWNsNHdpX2RzR3RXZkJSajZOaURnclpmeDZzRkU3UkpzTm9UbmhWek15VGxIcWpLTFNuSVN0SDhwMA?oc=5",
         "published": "1 May 2026, 06:50 PM",
         "iso_date": "2026-05-01T18:50:25+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain rejects recent Iranian Foreign Ministery statements",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WamhzNGk2czNKYWYyZGlwTGpTS1JuLU5xaFlSTEVNWE8zWEhXSkxZVlpyWkFkcWo0TFpMVF9VVkY5M0RDTWs1c2N6cnFCd2t2ZlVMVmM5LXpIOU5sRGc?oc=5",
-        "published": "1 May 2026, 06:44 PM",
-        "iso_date": "2026-05-01T18:44:18+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -459,5 +449,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 18:19:18 UTC"
+  "fetched_at": "2026-05-02 18:48:00 UTC"
 }
