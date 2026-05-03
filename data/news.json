@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 1
+      "count": 0
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -20,18 +20,7 @@
     }
   },
   "articles": {
-    "bna": [
-      {
-        "title": "Bahrain King Demands End to Iranian Interference in Gulf States",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNUZ0dEJvcWlYbklqSU9GRDlzZnp0MUJDNmtlN2ctU0JfTFlSN1pDLXJRazcxZUp2aGl6VW41eHlkOG15c3JLZEI4cTVJSnNsOTRxVlZhTHh6YmMwVjl5Wm1neEIwbGl3Tk5MYmtLbmVJNHZEcEZvbm4xX3pVZllrVTNTcldPd2RuYkRhOFhLX25UUVRKWmxEa2lGYng0a3dfNHJpRDB0bnBoQQ?oc=5",
-        "published": "2 May 2026, 12:02 PM",
-        "iso_date": "2026-05-02T12:02:23+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      }
-    ],
+    "bna": [],
     "gdn": [
       {
         "title": "Civil Defence evacuates multi-storey building in Gudaibiya after apartment fire",
@@ -136,6 +125,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Nine Killed, Including Infant, in Devastating Delhi Residential Fire",
+        "link": "https://www.newsofbahrain.com/world/131982.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_hlVmvpjY2W_2026-05-03_1777810640resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Samla International Race Set to Return to Qatar in 2027",
+        "link": "https://www.newsofbahrain.com/world/131981.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_iL2XhERJYG_2026-05-03_1777810435resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Visit Qatar Unveils ‘Hala Summer’ Campaign for GCC Visitors",
+        "link": "https://www.newsofbahrain.com/world/131980.html",
+        "published": "3 May 2026, 09:00 AM",
+        "iso_date": "2026-05-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_B3hRO6DjKJ_2026-05-03_1777809784resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Qatar Toy Festival 2026 Returns with Its Biggest Edition Yet",
+        "link": "https://www.newsofbahrain.com/world/131979.html",
+        "published": "3 May 2026, 09:00 AM",
+        "iso_date": "2026-05-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dDjiCUVAyl_2026-05-03_1777809538resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Passenger jumps from taxiing plane after opening emergency exit",
         "link": "https://www.newsofbahrain.com/world/131978.html",
         "published": "3 May 2026, 09:22 AM",
@@ -146,32 +175,22 @@
         "category": "Latest"
       },
       {
-        "title": "Crown Prince’s Cup Kicks Into Knockout Gear",
-        "link": "https://www.newsofbahrain.com/sports/131977.html",
+        "title": "Stability Fuels Growth",
+        "link": "https://www.newsofbahrain.com/bahrain/131976.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EBij8Yd7va_2026-05-03_1777805790resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Stability Fuels Growth",
-        "link": "https://www.newsofbahrain.com/bahrain/131976.html",
-        "published": "3 May 2026, 09:00 AM",
-        "iso_date": "2026-05-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WHID4Aa8PX_2026-05-03_1777803796resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_WHID4Aa8PX_2026-05-03_1777803796thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Sports Clubs Face KPI-Linked Funding",
         "link": "https://www.newsofbahrain.com/bahrain/131975.html",
-        "published": "3 May 2026, 09:00 AM",
-        "iso_date": "2026-05-03T09:00:43+00:00",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nRwsehfyCl_2026-05-03_1777803682resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nRwsehfyCl_2026-05-03_1777803682thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -181,7 +200,7 @@
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6R74Jo3gu8_2026-05-03_1777803346resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6R74Jo3gu8_2026-05-03_1777803346thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -202,36 +221,6 @@
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_W3jvO9hEBH_2026-05-03_1777802409thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Dubai–Seychelles Connectivity Talks",
-        "link": "https://www.newsofbahrain.com/world/131970.html",
-        "published": "3 May 2026, 09:22 AM",
-        "iso_date": "2026-05-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q9OW4lhivV_2026-05-03_1777801976thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Pakistan, Kuwait discuss regional stability",
-        "link": "https://www.newsofbahrain.com/world/131969.html",
-        "published": "3 May 2026, 09:22 AM",
-        "iso_date": "2026-05-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_whpfj09bKR_2026-05-03_1777801746thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Kuwait Defence Minister highlights officer training standards",
-        "link": "https://www.newsofbahrain.com/world/131968.html",
-        "published": "3 May 2026, 09:22 AM",
-        "iso_date": "2026-05-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mMjTC73PFY_2026-05-03_1777801648thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -389,5 +378,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 11:45:52 UTC"
+  "fetched_at": "2026-05-03 12:18:48 UTC"
 }
