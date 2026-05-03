@@ -136,6 +136,16 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Passenger jumps from taxiing plane after opening emergency exit",
+        "link": "https://www.newsofbahrain.com/world/131978.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_81Sgq4PyXu_2026-05-03_1777807989resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Crown Prince’s Cup Kicks Into Knockout Gear",
         "link": "https://www.newsofbahrain.com/sports/131977.html",
         "published": "3 May 2026, 09:22 AM",
@@ -148,8 +158,8 @@
       {
         "title": "Stability Fuels Growth",
         "link": "https://www.newsofbahrain.com/bahrain/131976.html",
-        "published": "3 May 2026, 09:22 AM",
-        "iso_date": "2026-05-03T09:22:55+00:00",
+        "published": "3 May 2026, 09:00 AM",
+        "iso_date": "2026-05-03T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_WHID4Aa8PX_2026-05-03_1777803796resized_pic.jpg",
         "source": "newsofbahrain",
@@ -168,8 +178,8 @@
       {
         "title": "Security Not Open to Bargaining",
         "link": "https://www.newsofbahrain.com/bahrain/131974.html",
-        "published": "3 May 2026, 09:00 AM",
-        "iso_date": "2026-05-03T09:00:43+00:00",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_6R74Jo3gu8_2026-05-03_1777803346resized_pic.jpg",
         "source": "newsofbahrain",
@@ -181,7 +191,7 @@
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9lOy6d5ceI_2026-05-03_1777802572resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9lOy6d5ceI_2026-05-03_1777802572thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -222,16 +232,6 @@
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_mMjTC73PFY_2026-05-03_1777801648thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE records 6,014 traffic accidents in a year",
-        "link": "https://www.newsofbahrain.com/world/131967.html",
-        "published": "3 May 2026, 09:22 AM",
-        "iso_date": "2026-05-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fWEIg2Nnm9_2026-05-03_1777801566thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -389,5 +389,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 11:16:28 UTC"
+  "fetched_at": "2026-05-03 11:45:52 UTC"
 }
