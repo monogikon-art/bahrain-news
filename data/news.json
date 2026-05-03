@@ -23,6 +23,16 @@
     "bna": [],
     "gdn": [
       {
+        "title": "BDF General Command announces shooting drill exercise",
+        "link": "https://www.gdnonline.com/Details/1393499/BDF-General-Command-announces-shooting-drill-exercise",
+        "published": "3 May 2026",
+        "iso_date": "2026-05-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503153623websitesize(26)_T.jpg?20260503",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "Civil Defence evacuates multi-storey building in Gudaibiya after apartment fire",
         "link": "https://www.gdnonline.com/Details/1393491/Civil-Defence-evacuates-multi-storey-building-in-Gudaibiya-after-apartment-fire",
         "published": "3 May 2026",
@@ -59,16 +69,6 @@
         "iso_date": "2026-05-03T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260503/20260503024042mralmarafi_T.jpg?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Walkway push around historic burial mounds",
-        "link": "https://www.gdnonline.com/Details/1393441/Walkway-push-around-historic-burial-mounds",
-        "published": "3 May 2026",
-        "iso_date": "2026-05-03T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260503/20260502_230054_4_T.jpg?20260503",
         "source": "gdn",
         "category": "Latest"
       },
@@ -378,5 +378,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 13:31:54 UTC"
+  "fetched_at": "2026-05-03 14:20:37 UTC"
 }
