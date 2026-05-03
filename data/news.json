@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -146,6 +146,46 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Unity Secures Future",
+        "link": "https://www.newsofbahrain.com/bahrain/131962.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o2gzJi9qsF_2026-05-03_1777798779resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Khaldiya on Verge of Third League Crown",
+        "link": "https://www.newsofbahrain.com/sports/131961.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7aOnZMxt4h_2026-05-03_1777798607resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Al Salam Bank Supports Government Housing Initiative",
+        "link": "https://www.newsofbahrain.com/business/131960.html",
+        "published": "3 May 2026, 09:00 AM",
+        "iso_date": "2026-05-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AsrdFWDj0q_2026-05-03_1777797159resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Combat Drug Threats",
+        "link": "https://www.newsofbahrain.com/bahrain/131959.html",
+        "published": "3 May 2026, 09:00 AM",
+        "iso_date": "2026-05-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gWa8yoKNTL_2026-05-03_1777796276resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Media Drives National Progress",
         "link": "https://www.newsofbahrain.com/bahrain/131957.html",
         "published": "3 May 2026, 09:22 AM",
@@ -161,47 +201,17 @@
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0zN1RPKcGU_2026-05-03_1777791571resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "CONNECT, CREATE, COMMUNICATE: A CELEBRATION OF EXPRESSION @ NMS BAHRAIN",
-        "link": "https://www.newsofbahrain.com/business/131954.html",
-        "published": "3 May 2026, 09:00 AM",
-        "iso_date": "2026-05-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MJNC80A3Ga_2026-05-03_1777791095resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0zN1RPKcGU_2026-05-03_1777791571thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Press Earns Royal Praise",
         "link": "https://www.newsofbahrain.com/bahrain/131952.html",
-        "published": "3 May 2026, 09:00 AM",
-        "iso_date": "2026-05-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DZzw0f2rdX_2026-05-03_1777790682resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "GCC Stands With Bahrain",
-        "link": "https://www.newsofbahrain.com/bahrain/131951.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_EX39qP6Dvj_2026-05-03_1777790535resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "UAE Voices Support",
-        "link": "https://www.newsofbahrain.com/bahrain/131949.html",
-        "published": "3 May 2026, 09:22 AM",
-        "iso_date": "2026-05-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_i1brnBAY3y_2026-05-03_1777790229thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DZzw0f2rdX_2026-05-03_1777790682thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -246,6 +256,16 @@
         "category": "Latest"
       },
       {
+        "title": "CONNECT, CREATE, COMMUNICATE: A CELEBRATION OF EXPRESSION @ NMS BAHRAIN",
+        "link": "https://www.newsofbahrain.com/business/131954.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_MJNC80A3Ga_2026-05-03_1777791095thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Apple earnings beat forecasts on iPhone 17 demand",
         "link": "https://www.newsofbahrain.com/business/131925.html",
         "published": "2 May 2026, 09:22 AM",
@@ -262,16 +282,6 @@
         "iso_date": "2026-05-02T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_mQMi50Igys_2026-05-02_1777723825thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "US Fed official says rate hikes may be needed if inflation surges",
-        "link": "https://www.newsofbahrain.com/business/131922.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uoG7Rj9inE_2026-05-02_1777723664thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       }
@@ -389,5 +399,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 08:12:19 UTC"
+  "fetched_at": "2026-05-03 09:02:09 UTC"
 }
