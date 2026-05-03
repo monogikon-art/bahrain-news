@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 13
+      "count": 6
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -94,82 +94,12 @@
         "category": "Latest"
       },
       {
-        "title": "Bahrain facing escalation in sophisticated DDoS attacks",
-        "link": "https://www.gdnonline.com/Details/1393281/Bahrain-facing-escalation-in-sophisticated-DDoS-attacks",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501004644asefesf_T.jpg?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "CBB bond issue oversubscribed by 210 per cent",
-        "link": "https://www.gdnonline.com/Details/1393280/CBB-bond-issue-oversubscribed-by-210-per-cent",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501005157ascsaef_T.jpg?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrainâs All Share Index closes higher",
-        "link": "https://www.gdnonline.com/Details/1393286/Bahrainâs-All-Share-Index-closes-higher",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501004419ascsacsacss_T.jpg?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Leeds edge closer to Premier League safety",
         "link": "https://www.gdnonline.com/Details/1393407/Leeds-edge-closer-to-Premier-League-safety",
         "published": "2 May 2026",
         "iso_date": "2026-05-02T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260502/20260502_011031_0_T.jpg?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Man United boss Carrick hopeful Cunha can return against Liverpool",
-        "link": "https://www.gdnonline.com/Details/1393361/Man-United-boss-Carrick-hopeful-Cunha-can-return-against-Liverpool",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501191932cunha1_T.jpg?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Arteta urges Arsenal to focus on Premier League title push ahead of Fulham clash",
-        "link": "https://www.gdnonline.com/Details/1393360/Arteta-urges-Arsenal-to-focus-on-Premier-League-title-push-ahead-of-Fulham-clash",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501174752arteta1(1)_T.jpg?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "De Zerbi wants to banish 'negative thoughts' as Tottenham battle for survival",
-        "link": "https://www.gdnonline.com/Details/1393362/De-Zerbi-wants-to-banish-negative-thoughts-as-Tottenham-battle-for-survival",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501190134dezerbi_T.jpg?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Mexico's goalkeeper Ochoa set to hang up gloves after his sixth World Cup",
-        "link": "https://www.gdnonline.com/Details/1393347/Mexicos-goalkeeper-Ochoa-set-to-hang-up-gloves-after-his-sixth-World-Cup",
-        "published": "1 May 2026",
-        "iso_date": "2026-05-01T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260501/20260501165723ochoa1_T.jpg?20260503",
         "source": "gdn",
         "category": "Latest"
       }
@@ -439,5 +369,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-02 23:46:02 UTC"
+  "fetched_at": "2026-05-03 00:37:37 UTC"
 }
