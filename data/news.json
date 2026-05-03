@@ -10,7 +10,7 @@
       "name": "Gulf Daily News (GDN)",
       "url": "https://www.gdnonline.com/",
       "color": "#0d47a1",
-      "count": 6
+      "count": 10
     },
     "newsofbahrain": {
       "name": "News of Bahrain",
@@ -64,32 +64,72 @@
         "category": "Latest"
       },
       {
-        "title": "Royal impetus to freedom of press",
-        "link": "https://www.gdnonline.com/Details/1393473/Royal-impetus-to-freedom-of-press",
-        "published": "3 May 2026",
-        "iso_date": "2026-05-03T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503022010hmkinghamad_T.jpg?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Bahrain âwill remain a nation of peaceâ",
-        "link": "https://www.gdnonline.com/Details/1393479/Bahrain-âwill-remain-a-nation-of-peaceâ",
-        "published": "3 May 2026",
-        "iso_date": "2026-05-03T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503021351hmkinghamadpleaseusethis_T.jpg?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
         "title": "Sixth edition of national âLameaâ project launched",
         "link": "https://www.gdnonline.com/Details/1393477/Sixth-edition-of-national-âLameaâ-project-launched",
         "published": "3 May 2026",
         "iso_date": "2026-05-03T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260503/20260503020934uhausfhefafg.jpeg?20260503",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Recycled crayons aimed at writing greener future",
+        "link": "https://www.gdnonline.com/Details/1393480/Recycled-crayons-aimed-at-writing-greener-future",
+        "published": "3 May 2026",
+        "iso_date": "2026-05-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503_020716_1.png?20260503",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Vow to achieve SDGs",
+        "link": "https://www.gdnonline.com/Details/1393478/Vow-to-achieve-SDGs-",
+        "published": "3 May 2026",
+        "iso_date": "2026-05-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503021131noord_T.jpg?20260503",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Arsenal blow away Fulham to turn up heat on Man City",
+        "link": "https://www.gdnonline.com/Details/1393470/Arsenal-blow-away-Fulham-to-turn-up-heat-on-Man-City",
+        "published": "3 May 2026",
+        "iso_date": "2026-05-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503_014936_1_T.jpg?20260503",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ipswich promoted to Premier League",
+        "link": "https://www.gdnonline.com/Details/1393472/Ipswich-promoted-to-Premier-League",
+        "published": "3 May 2026",
+        "iso_date": "2026-05-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503_014937_4_T.jpg?20260503",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Ettifaq, East Riffa promoted",
+        "link": "https://www.gdnonline.com/Details/1393465/Ettifaq,-East-Riffa-promoted",
+        "published": "3 May 2026",
+        "iso_date": "2026-05-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503014510fb_T.jpg?20260503",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
+        "title": "Khaldiya aim to extend lead atop league table",
+        "link": "https://www.gdnonline.com/Details/1393464/Khaldiya-aim-to-extend-lead-atop-league-table",
+        "published": "3 May 2026",
+        "iso_date": "2026-05-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503014646footballrepimage.jpeg?20260503",
         "source": "gdn",
         "category": "Latest"
       },
@@ -369,5 +409,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 00:37:37 UTC"
+  "fetched_at": "2026-05-03 01:36:03 UTC"
 }
