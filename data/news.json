@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 14
+      "count": 13
     }
   },
   "articles": {
@@ -74,22 +74,22 @@
         "category": "Latest"
       },
       {
-        "title": "Sixth edition of national âLameaâ project launched",
-        "link": "https://www.gdnonline.com/Details/1393477/Sixth-edition-of-national-âLameaâ-project-launched",
+        "title": "Demand to suspend pension commutation loan instalments",
+        "link": "https://www.gdnonline.com/Details/1393444/Demand-to-suspend-pension-commutation-loan-instalments",
         "published": "3 May 2026",
         "iso_date": "2026-05-03T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503020934uhausfhefafg.jpeg?20260503",
+        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503024042mralmarafi_T.jpg?20260503",
         "source": "gdn",
         "category": "Latest"
       },
       {
-        "title": "Recycled crayons aimed at writing greener future",
-        "link": "https://www.gdnonline.com/Details/1393480/Recycled-crayons-aimed-at-writing-greener-future",
+        "title": "Walkway push around historic burial mounds",
+        "link": "https://www.gdnonline.com/Details/1393441/Walkway-push-around-historic-burial-mounds",
         "published": "3 May 2026",
         "iso_date": "2026-05-03T00:00:00",
         "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503_020716_1.png?20260503",
+        "image": "https://www.gdnonline.com/gdnimages/20260503/20260502_230054_4_T.jpg?20260503",
         "source": "gdn",
         "category": "Latest"
       },
@@ -146,112 +146,102 @@
     ],
     "newsofbahrain": [
       {
+        "title": "Dubai–Seychelles Connectivity Talks",
+        "link": "https://www.newsofbahrain.com/world/131970.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q9OW4lhivV_2026-05-03_1777801976resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pakistan, Kuwait discuss regional stability",
+        "link": "https://www.newsofbahrain.com/world/131969.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_whpfj09bKR_2026-05-03_1777801746resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Kuwait Defence Minister highlights officer training standards",
+        "link": "https://www.newsofbahrain.com/world/131968.html",
+        "published": "3 May 2026, 09:00 AM",
+        "iso_date": "2026-05-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mMjTC73PFY_2026-05-03_1777801648resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UAE records 6,014 traffic accidents in a year",
+        "link": "https://www.newsofbahrain.com/world/131967.html",
+        "published": "3 May 2026, 09:00 AM",
+        "iso_date": "2026-05-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fWEIg2Nnm9_2026-05-03_1777801566resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Banking sector pledges full support to leadership",
+        "link": "https://www.newsofbahrain.com/bahrain/131966.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uUldFjGC2q_2026-05-03_1777801416resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Unity First Line of Defence",
+        "link": "https://www.newsofbahrain.com/bahrain/131965.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Lczi2GObg0_2026-05-03_1777801038thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Productivity and innovation on Workers’ Day",
+        "link": "https://www.newsofbahrain.com/bahrain/131964.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2FxuhNZB7g_2026-05-03_1777800923thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Families Moved Safely",
+        "link": "https://www.newsofbahrain.com/bahrain/131963.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GQAJIROlcs_2026-05-03_1777800362thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
         "title": "Unity Secures Future",
         "link": "https://www.newsofbahrain.com/bahrain/131962.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o2gzJi9qsF_2026-05-03_1777798779resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Al Khaldiya on Verge of Third League Crown",
-        "link": "https://www.newsofbahrain.com/sports/131961.html",
-        "published": "3 May 2026, 09:22 AM",
-        "iso_date": "2026-05-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_7aOnZMxt4h_2026-05-03_1777798607resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o2gzJi9qsF_2026-05-03_1777798779thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
         "title": "Al Salam Bank Supports Government Housing Initiative",
         "link": "https://www.newsofbahrain.com/business/131960.html",
-        "published": "3 May 2026, 09:00 AM",
-        "iso_date": "2026-05-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AsrdFWDj0q_2026-05-03_1777797159resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Combat Drug Threats",
-        "link": "https://www.newsofbahrain.com/bahrain/131959.html",
-        "published": "3 May 2026, 09:00 AM",
-        "iso_date": "2026-05-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_gWa8yoKNTL_2026-05-03_1777796276resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Media Drives National Progress",
-        "link": "https://www.newsofbahrain.com/bahrain/131957.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_raRoev8WJ0_2026-05-03_1777792321resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Youth Empowerment Drive Expands",
-        "link": "https://www.newsofbahrain.com/bahrain/131955.html",
-        "published": "3 May 2026, 09:22 AM",
-        "iso_date": "2026-05-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_0zN1RPKcGU_2026-05-03_1777791571thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Press Earns Royal Praise",
-        "link": "https://www.newsofbahrain.com/bahrain/131952.html",
-        "published": "3 May 2026, 09:22 AM",
-        "iso_date": "2026-05-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_DZzw0f2rdX_2026-05-03_1777790682thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Korean Air bans roosters on US-Philippine routes amid cockfighting outcry",
-        "link": "https://www.newsofbahrain.com/world/131946.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cFnHIk5ZqP_2026-05-02_1777729276thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Japan PM vows to play 'proactive role' ensuring 'free and open' Asia-Pacific",
-        "link": "https://www.newsofbahrain.com/world/131945.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x5wUJrsTHP_2026-05-02_1777728920thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Türkiye releases arrested May 1 protesters",
-        "link": "https://www.newsofbahrain.com/world/131941.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5vr1Ig3azR_2026-05-02_1777727046thumbnail_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Ex-F1 driver turned Paralympic champion Zanardi dies",
-        "link": "https://www.newsofbahrain.com/world/131937.html",
-        "published": "2 May 2026, 09:22 AM",
-        "iso_date": "2026-05-02T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qxo5dWU4Qw_2026-05-02_1777726272thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_AsrdFWDj0q_2026-05-03_1777797159thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -399,5 +389,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 09:02:09 UTC"
+  "fetched_at": "2026-05-03 09:54:20 UTC"
 }
