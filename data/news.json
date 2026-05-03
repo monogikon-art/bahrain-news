@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 3
+      "count": 2
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -36,16 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXZUeTg2QzZ0akxkakpQUmxRSEZlcFVHVHdDNEdSUHRHQV9oWlB3WmlpNDQycEdQVkJBSm5STVpfSnpCWjhBbHZ3LWRaMnB0WGZVaEwxd0JaQmcyNS1oblJ4bTlXYXBneTNxX0M0SUxRTDRXNXE4NkNQOWVWUzNWejdTLU5fM0RQZ1U4Q0g0WUkwQXFaQl9V?oc=5",
         "published": "2 May 2026, 11:07 AM",
         "iso_date": "2026-05-02T11:07:25+00:00",
-        "summary": "",
-        "image": "",
-        "source": "bna",
-        "category": "Latest"
-      },
-      {
-        "title": "Troops' fury over minister 'missing in action' with calls for ex-Marine to back them",
-        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOamJjeGpmeXJWN1EwbG9ZanlRVHJlVmVNbzhtVkowSkpFSHpDUGNKX3RyTHFRaXVvT2ZHVGhwaFdlQTBiODByY0Ntd2w4a1NzdVhyRTFfbDBKblNXWlA4UUVrS185ZnBhY2JHWnp2dXhiOTgwSDVSWkN4NGU3NXpzNmRfZkNiWG9vN0JHbC1rYlRLbHY2cV8xTm5mcWJtVDhfOWRfQmpiZHk2d3R2V19jZjQzeUxjNjduVFpfTHNoZm84ejh1NHJ0MElsNVFjMHpoSVdMX0JqRmJ4ZUxqWFRNM3dveUtNcXp2R1hqOUZZWFVnWmhWQnROV1ZvT0pETTNOQTBYX3NtSVVoWndVQTJmQnFfdE1DdUR4Zld5NEhCZGxMRG5jajJrYVBCczh6UERMclZ3ak1CemdyckZXcUpvZ0FJWW8xZi1rdWNYaTg2eHNZQTRVYWhNamlzM0V0aVhs?oc=5",
-        "published": "2 May 2026, 07:45 AM",
-        "iso_date": "2026-05-02T07:45:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -419,5 +409,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 04:45:05 UTC"
+  "fetched_at": "2026-05-03 06:01:32 UTC"
 }
