@@ -44,6 +44,16 @@
     ],
     "gdn": [
       {
+        "title": "Civil Defence evacuates multi-storey building in Gudaibiya after apartment fire",
+        "link": "https://www.gdnonline.com/Details/1393491/Civil-Defence-evacuates-multi-storey-building-in-Gudaibiya-after-apartment-fire",
+        "published": "3 May 2026",
+        "iso_date": "2026-05-03T00:00:00",
+        "summary": "",
+        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503095506civildefence3_T.jpg?20260503",
+        "source": "gdn",
+        "category": "Latest"
+      },
+      {
         "title": "MPs call for action",
         "link": "https://www.gdnonline.com/Details/1393436/MPs-call-for-action",
         "published": "3 May 2026",
@@ -80,16 +90,6 @@
         "iso_date": "2026-05-03T00:00:00",
         "summary": "",
         "image": "https://www.gdnonline.com/gdnimages/20260503/20260503_020716_1.png?20260503",
-        "source": "gdn",
-        "category": "Latest"
-      },
-      {
-        "title": "Vow to achieve SDGs",
-        "link": "https://www.gdnonline.com/Details/1393478/Vow-to-achieve-SDGs-",
-        "published": "3 May 2026",
-        "iso_date": "2026-05-03T00:00:00",
-        "summary": "",
-        "image": "https://www.gdnonline.com/gdnimages/20260503/20260503021131noord_T.jpg?20260503",
         "source": "gdn",
         "category": "Latest"
       },
@@ -389,5 +389,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 07:16:49 UTC"
+  "fetched_at": "2026-05-03 08:12:19 UTC"
 }
