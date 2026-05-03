@@ -4,7 +4,7 @@
       "name": "Bahrain News Agency (BNA)",
       "url": "https://www.bna.bh/en/",
       "color": "#c41e3a",
-      "count": 2
+      "count": 3
     },
     "gdn": {
       "name": "Gulf Daily News (GDN)",
@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 0
+      "count": 15
     }
   },
   "articles": {
@@ -36,6 +36,16 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXZUeTg2QzZ0akxkakpQUmxRSEZlcFVHVHdDNEdSUHRHQV9oWlB3WmlpNDQycEdQVkJBSm5STVpfSnpCWjhBbHZ3LWRaMnB0WGZVaEwxd0JaQmcyNS1oblJ4bTlXYXBneTNxX0M0SUxRTDRXNXE4NkNQOWVWUzNWejdTLU5fM0RQZ1U4Q0g0WUkwQXFaQl9V?oc=5",
         "published": "2 May 2026, 11:07 AM",
         "iso_date": "2026-05-02T11:07:25+00:00",
+        "summary": "",
+        "image": "",
+        "source": "bna",
+        "category": "Latest"
+      },
+      {
+        "title": "Troops' fury over minister 'missing in action' with calls for ex-Marine to back them",
+        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOamJjeGpmeXJWN1EwbG9ZanlRVHJlVmVNbzhtVkowSkpFSHpDUGNKX3RyTHFRaXVvT2ZHVGhwaFdlQTBiODByY0Ntd2w4a1NzdVhyRTFfbDBKblNXWlA4UUVrS185ZnBhY2JHWnp2dXhiOTgwSDVSWkN4NGU3NXpzNmRfZkNiWG9vN0JHbC1rYlRLbHY2cV8xTm5mcWJtVDhfOWRfQmpiZHk2d3R2V19jZjQzeUxjNjduVFpfTHNoZm84ejh1NHJ0MElsNVFjMHpoSVdMX0JqRmJ4ZUxqWFRNM3dveUtNcXp2R1hqOUZZWFVnWmhWQnROV1ZvT0pETTNOQTBYX3NtSVVoWndVQTJmQnFfdE1DdUR4Zld5NEhCZGxMRG5jajJrYVBCczh6UERMclZ3ak1CemdyckZXcUpvZ0FJWW8xZi1rdWNYaTg2eHNZQTRVYWhNamlzM0V0aVhs?oc=5",
+        "published": "2 May 2026, 07:45 AM",
+        "iso_date": "2026-05-02T07:45:08+00:00",
         "summary": "",
         "image": "",
         "source": "bna",
@@ -144,7 +154,158 @@
         "category": "Latest"
       }
     ],
-    "newsofbahrain": []
+    "newsofbahrain": [
+      {
+        "title": "MPs Seek To Expel Three Colleagues Over Judiciary Law Debate",
+        "link": "https://www.newsofbahrain.com/bahrain/131947.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_35XyvVcpHm_2026-05-02_1777742980resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Korean Air bans roosters on US-Philippine routes amid cockfighting outcry",
+        "link": "https://www.newsofbahrain.com/world/131946.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_cFnHIk5ZqP_2026-05-02_1777729276resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Japan PM vows to play 'proactive role' ensuring 'free and open' Asia-Pacific",
+        "link": "https://www.newsofbahrain.com/world/131945.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_x5wUJrsTHP_2026-05-02_1777728920resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Bahrain Finish Strong at Arab Youth Meet",
+        "link": "https://www.newsofbahrain.com/sports/131944.html",
+        "published": "2 May 2026, 09:00 AM",
+        "iso_date": "2026-05-02T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_IfxZdtCPvL_2026-05-02_1777727452resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Gulf Champions Look to Defend Their Crown",
+        "link": "https://www.newsofbahrain.com/sports/131943.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_oJxuwFWh6j_2026-05-02_1777727274resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Term Extension Boosts Work",
+        "link": "https://www.newsofbahrain.com/bahrain/131901.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_twQNhrWxaR_2026-05-02_1777715887thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Flyover Works Announced",
+        "link": "https://www.newsofbahrain.com/bahrain/131900.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_4MFjB8sZq3_2026-05-02_1777715642thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Heritage Protection Expanded",
+        "link": "https://www.newsofbahrain.com/bahrain/131898.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_spz0fOYI9A_2026-05-02_1777715346thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "BD2.5m Road Works Boost",
+        "link": "https://www.newsofbahrain.com/bahrain/131897.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9zXuVTtfgL_2026-05-02_1777715213thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Türkiye releases arrested May 1 protesters",
+        "link": "https://www.newsofbahrain.com/world/131941.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_5vr1Ig3azR_2026-05-02_1777727046thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Ex-F1 driver turned Paralympic champion Zanardi dies",
+        "link": "https://www.newsofbahrain.com/world/131937.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_qxo5dWU4Qw_2026-05-02_1777726272thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Apple earnings beat forecasts on iPhone 17 demand",
+        "link": "https://www.newsofbahrain.com/business/131925.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_ouK6fxLOHj_2026-05-02_1777724021thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "UK exports to US slump as tariffs bite: official data",
+        "link": "https://www.newsofbahrain.com/business/131923.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mQMi50Igys_2026-05-02_1777723825thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "US Fed official says rate hikes may be needed if inflation surges",
+        "link": "https://www.newsofbahrain.com/business/131922.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uoG7Rj9inE_2026-05-02_1777723664thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Pentagon signs classified AI deals with tech giants, snubs Anthropic",
+        "link": "https://www.newsofbahrain.com/business/131921.html",
+        "published": "2 May 2026, 09:22 AM",
+        "iso_date": "2026-05-02T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mcVioQpOgK_2026-05-02_1777723528thumbnail_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      }
+    ]
   },
   "instagram": [
     {
@@ -258,5 +419,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 03:07:35 UTC"
+  "fetched_at": "2026-05-03 04:45:05 UTC"
 }
