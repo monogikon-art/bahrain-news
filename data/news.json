@@ -16,7 +16,7 @@
       "name": "News of Bahrain",
       "url": "https://www.newsofbahrain.com/",
       "color": "#2e7d32",
-      "count": 13
+      "count": 14
     }
   },
   "articles": {
@@ -146,42 +146,52 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Dubai–Seychelles Connectivity Talks",
-        "link": "https://www.newsofbahrain.com/world/131970.html",
+        "title": "Sports Clubs Face KPI-Linked Funding",
+        "link": "https://www.newsofbahrain.com/bahrain/131975.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q9OW4lhivV_2026-05-03_1777801976resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_nRwsehfyCl_2026-05-03_1777803682resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Pakistan, Kuwait discuss regional stability",
-        "link": "https://www.newsofbahrain.com/world/131969.html",
+        "title": "Security Not Open to Bargaining",
+        "link": "https://www.newsofbahrain.com/bahrain/131974.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_whpfj09bKR_2026-05-03_1777801746resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_6R74Jo3gu8_2026-05-03_1777803346resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Kuwait Defence Minister highlights officer training standards",
-        "link": "https://www.newsofbahrain.com/world/131968.html",
+        "title": "Family’s Crash Payout Raised to BD20,270",
+        "link": "https://www.newsofbahrain.com/bahrain/131973.html",
         "published": "3 May 2026, 09:00 AM",
         "iso_date": "2026-05-03T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mMjTC73PFY_2026-05-03_1777801648resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_9lOy6d5ceI_2026-05-03_1777802572resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "UAE records 6,014 traffic accidents in a year",
-        "link": "https://www.newsofbahrain.com/world/131967.html",
+        "title": "Reaffirms rejection of external interference",
+        "link": "https://www.newsofbahrain.com/bahrain/131972.html",
         "published": "3 May 2026, 09:00 AM",
         "iso_date": "2026-05-03T09:00:43+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fWEIg2Nnm9_2026-05-03_1777801566resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_W3jvO9hEBH_2026-05-03_1777802409resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Historic Awali cricket clash ends in dramatic tie",
+        "link": "https://www.newsofbahrain.com/sports/131971.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Qa9zOfhRWZ_2026-05-03_1777802250resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -191,47 +201,47 @@
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uUldFjGC2q_2026-05-03_1777801416resized_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_uUldFjGC2q_2026-05-03_1777801416thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Unity First Line of Defence",
-        "link": "https://www.newsofbahrain.com/bahrain/131965.html",
+        "title": "Dubai–Seychelles Connectivity Talks",
+        "link": "https://www.newsofbahrain.com/world/131970.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Lczi2GObg0_2026-05-03_1777801038thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_Q9OW4lhivV_2026-05-03_1777801976thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Productivity and innovation on Workers’ Day",
-        "link": "https://www.newsofbahrain.com/bahrain/131964.html",
+        "title": "Pakistan, Kuwait discuss regional stability",
+        "link": "https://www.newsofbahrain.com/world/131969.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_2FxuhNZB7g_2026-05-03_1777800923thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_whpfj09bKR_2026-05-03_1777801746thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Families Moved Safely",
-        "link": "https://www.newsofbahrain.com/bahrain/131963.html",
+        "title": "Kuwait Defence Minister highlights officer training standards",
+        "link": "https://www.newsofbahrain.com/world/131968.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_GQAJIROlcs_2026-05-03_1777800362thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_mMjTC73PFY_2026-05-03_1777801648thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
       {
-        "title": "Unity Secures Future",
-        "link": "https://www.newsofbahrain.com/bahrain/131962.html",
+        "title": "UAE records 6,014 traffic accidents in a year",
+        "link": "https://www.newsofbahrain.com/world/131967.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_o2gzJi9qsF_2026-05-03_1777798779thumbnail_pic.jpg",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fWEIg2Nnm9_2026-05-03_1777801566thumbnail_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -389,5 +399,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 09:54:20 UTC"
+  "fetched_at": "2026-05-03 10:22:19 UTC"
 }
