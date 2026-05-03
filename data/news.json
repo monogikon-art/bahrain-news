@@ -125,10 +125,40 @@
     ],
     "newsofbahrain": [
       {
-        "title": "Nine Killed, Including Infant, in Devastating Delhi Residential Fire",
-        "link": "https://www.newsofbahrain.com/world/131982.html",
+        "title": "Defying Destruction: Gaza Newlyweds Celebrate atop Bulldozer",
+        "link": "https://www.newsofbahrain.com/world/131985.html",
         "published": "3 May 2026, 09:22 AM",
         "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_UMBf9l36P7_2026-05-03_1777811533resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Eight Killed in Shooting Linked to Illegal Gold Mining Dispute in Egypt",
+        "link": "https://www.newsofbahrain.com/world/131984.html",
+        "published": "3 May 2026, 09:22 AM",
+        "iso_date": "2026-05-03T09:22:55+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_fnDJlXS3e7_2026-05-03_1777811074resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Saudi Arabia Deports Nearly 15,000 Illegal Residents in One Week",
+        "link": "https://www.newsofbahrain.com/world/131983.html",
+        "published": "3 May 2026, 09:00 AM",
+        "iso_date": "2026-05-03T09:00:43+00:00",
+        "summary": "",
+        "image": "https://www.newsofbahrain.com/admin/post/upload/A_XCGTNrbmAL_2026-05-03_1777810789resized_pic.jpg",
+        "source": "newsofbahrain",
+        "category": "Latest"
+      },
+      {
+        "title": "Nine Killed, Including Infant, in Devastating Delhi Residential Fire",
+        "link": "https://www.newsofbahrain.com/world/131982.html",
+        "published": "3 May 2026, 09:00 AM",
+        "iso_date": "2026-05-03T09:00:43+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_hlVmvpjY2W_2026-05-03_1777810640resized_pic.jpg",
         "source": "newsofbahrain",
@@ -141,36 +171,6 @@
         "iso_date": "2026-05-03T09:22:55+00:00",
         "summary": "",
         "image": "https://www.newsofbahrain.com/admin/post/upload/A_iL2XhERJYG_2026-05-03_1777810435resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Visit Qatar Unveils ‘Hala Summer’ Campaign for GCC Visitors",
-        "link": "https://www.newsofbahrain.com/world/131980.html",
-        "published": "3 May 2026, 09:00 AM",
-        "iso_date": "2026-05-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_B3hRO6DjKJ_2026-05-03_1777809784resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Qatar Toy Festival 2026 Returns with Its Biggest Edition Yet",
-        "link": "https://www.newsofbahrain.com/world/131979.html",
-        "published": "3 May 2026, 09:00 AM",
-        "iso_date": "2026-05-03T09:00:43+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_dDjiCUVAyl_2026-05-03_1777809538resized_pic.jpg",
-        "source": "newsofbahrain",
-        "category": "Latest"
-      },
-      {
-        "title": "Passenger jumps from taxiing plane after opening emergency exit",
-        "link": "https://www.newsofbahrain.com/world/131978.html",
-        "published": "3 May 2026, 09:22 AM",
-        "iso_date": "2026-05-03T09:22:55+00:00",
-        "summary": "",
-        "image": "https://www.newsofbahrain.com/admin/post/upload/A_81Sgq4PyXu_2026-05-03_1777807989resized_pic.jpg",
         "source": "newsofbahrain",
         "category": "Latest"
       },
@@ -378,5 +378,5 @@
       }
     ]
   },
-  "fetched_at": "2026-05-03 12:18:48 UTC"
+  "fetched_at": "2026-05-03 12:47:57 UTC"
 }
